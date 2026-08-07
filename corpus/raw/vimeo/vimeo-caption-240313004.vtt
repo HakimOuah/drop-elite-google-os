@@ -1,0 +1,3531 @@
+WEBVTT
+
+1
+00:00:00.030 --> 00:00:02.440
+Bonjour à tous les amis,
+
+2
+00:00:02.460 --> 00:00:03.720
+on est parti pour l'enregistrement.
+
+3
+00:00:03.720 --> 00:00:05.680
+On est aujourd'hui avec quentin. Salut quentin.
+
+4
+00:00:06.250 --> 00:00:08.360
+Salut Quentin.
+
+5
+00:00:08.580 --> 00:00:10.720
+Je suis très content de l'avoir avec nous aujourd'hui parce
+
+6
+00:00:10.780 --> 00:00:14.200
+que quentin est un membre krn un produit.
+
+7
+00:00:15.660 --> 00:00:17.880
+Il y a de mari quand formation quentin
+
+8
+00:00:18.310 --> 00:00:20.360
+J'ai démarré en fin 2023, je crois,
+
+9
+00:00:21.820 --> 00:00:25.160
+Par 2023, on a eu la chance de se rencontrer avec quentin
+
+10
+00:00:25.470 --> 00:00:27.960
+lors d'un événement networking,
+
+11
+00:00:28.020 --> 00:00:29.880
+on avait fait une journée à la plage dans le sud de la
+
+12
+00:00:29.880 --> 00:00:30.880
+France, qui était très sympa.
+
+13
+00:00:31.060 --> 00:00:32.560
+À l'époque, il essayait de lancer un
+
+14
+00:00:32.560 --> 00:00:33.760
+site sur les ranges bouteilles.
+
+15
+00:00:35.380 --> 00:00:37.040
+Ça avait marqué,
+
+16
+00:00:37.040 --> 00:00:39.640
+on avait mangé qu'on avait passé un super moment avec
+
+17
+00:00:40.210 --> 00:00:44.680
+toute une partie de la communauté et quand après
+
+18
+00:00:45.200 --> 00:00:48.280
+a mis du temps sur la partie du développement media baking.
+
+19
+00:00:48.620 --> 00:00:49.680
+Et maintenant, depuis un an,
+
+20
+00:00:49.680 --> 00:00:52.840
+il a rejoint l'équipe de Johan avec qui il travaille.
+
+21
+00:00:52.840 --> 00:00:57.640
+Et justement, on est aujourd'hui dans l'installation pro
+
+22
+00:00:58.340 --> 00:01:02.440
+sur ma nouvelle boutique Shopify et du coup première étape,
+
+23
+00:01:02.440 --> 00:01:04.400
+qu'est ce que quand un me dit avant
+
+24
+00:01:04.980 --> 00:01:06.640
+de lancer la vérification marché center,
+
+25
+00:01:07.060 --> 00:01:09.920
+il faut modifier les pages et s'assurer qu'on est
+
+26
+00:01:09.920 --> 00:01:11.040
+bon, un petit peu partout.
+
+27
+00:01:11.350 --> 00:01:14.120
+Donc là, on est en train de repasser en revue les pages de
+
+28
+00:01:14.120 --> 00:01:16.720
+politique de livraison, les
+
+29
+00:01:17.450 --> 00:01:19.720
+pages de conditions générale de vente, mon sur légal, etc.
+
+30
+00:01:20.260 --> 00:01:23.400
+Et on rentre dans la configuration du merant center et je me
+
+31
+00:01:23.400 --> 00:01:26.480
+suis dit que ça allait certainement vous intéresser.
+
+32
+00:01:27.130 --> 00:01:28.560
+Quand du coup je te laisse revenir,
+
+33
+00:01:28.560 --> 00:01:31.320
+peut être à la page du mer center et puis nous
+
+34
+00:01:31.480 --> 00:01:32.600
+raconter un petit peu ce qui se passe.
+
+35
+00:01:33.190 --> 00:01:35.480
+Donc je suis dans livraison et retour
+
+36
+00:01:35.690 --> 00:01:36.920
+conditions de livraison.
+
+37
+00:01:37.090 --> 00:01:38.240
+C'est surtout ça qui est important.
+
+38
+00:01:38.980 --> 00:01:41.200
+Là, je l'ai déjà ajouté, mais on va la modifier.
+
+39
+00:01:41.740 --> 00:01:42.920
+On va refaire toutes les étapes.
+
+40
+00:01:44.660 --> 00:01:49.350
+Donc on commence par nommer le nom des conditions,
+
+41
+00:01:49.370 --> 00:01:51.270
+mes livraisons sur les pays.
+
+42
+00:01:51.410 --> 00:01:53.910
+Là on est sur la, sur la France, dans un premier temps,
+
+43
+00:01:54.370 --> 00:01:56.110
+On n'ajoute pas non.
+
+44
+00:01:56.110 --> 00:01:57.470
+Quand on vérifie le MCC,
+
+45
+00:01:58.210 --> 00:02:00.670
+on n'ajoute pas Belgique suisse, on met que France, comme
+
+46
+00:02:01.170 --> 00:02:02.830
+On peut, on peut parce que sur ton,
+
+47
+00:02:03.010 --> 00:02:03.750
+sur tes conditions
+
+48
+00:02:03.750 --> 00:02:05.070
+générales de vente, tu parles de l'europe.
+
+49
+00:02:05.070 --> 00:02:06.470
+D'une manière générale, on est sur,
+
+50
+00:02:06.810 --> 00:02:08.070
+on est sur de l'euro partout.
+
+51
+00:02:08.070 --> 00:02:09.070
+Donc il n'y a pas de souci.
+
+52
+00:02:09.710 --> 00:02:11.990
+L'importance, c'est que ça soit cohérent. Donc,
+
+53
+00:02:12.300 --> 00:02:14.510
+Mais au pire façon, on peut démarrer France.
+
+54
+00:02:14.530 --> 00:02:15.870
+Et puis on ajoute par la suite
+
+55
+00:02:17.290 --> 00:02:19.070
+Ou on peut ajouter par la suite. Pour
+
+56
+00:02:19.070 --> 00:02:20.190
+La suisse, par exemple, ça
+
+57
+00:02:20.190 --> 00:02:21.310
+peut être un petit peu différent.
+
+58
+00:02:21.310 --> 00:02:22.750
+Par exemple, en général,
+
+59
+00:02:22.750 --> 00:02:24.470
+les transporteurs sont plus lents vers la suisse.
+
+60
+00:02:24.470 --> 00:02:25.910
+Donc, à la limite metton juste France,
+
+61
+00:02:26.150 --> 00:02:27.270
+Belgique, on sait que c'est facile.
+
+62
+00:02:30.310 --> 00:02:33.680
+Tous les produits Le plus, très bien
+
+63
+00:02:34.200 --> 00:02:35.880
+Livraison hors limite de commande.
+
+64
+00:02:35.880 --> 00:02:39.040
+Ce n'est pas très important. On va mettre paris ici.
+
+65
+00:02:39.460 --> 00:02:40.960
+Ça, ce n'est pas vraiment, ce n'est pas
+
+66
+00:02:40.960 --> 00:02:43.000
+vraiment pas bloquant.
+
+67
+00:02:43.000 --> 00:02:44.560
+En tout cas, niveau de Google sur le temps,
+
+68
+00:02:45.460 --> 00:02:47.760
+on va se baser sur la politique de livraison.
+
+69
+00:02:47.760 --> 00:02:49.760
+Donc là, on a vu que sur ta politique de livraison,
+
+70
+00:02:49.880 --> 00:02:52.920
+t'as un temps d'entraînement de 34 à 48 h ou je mettre deux
+
+71
+00:02:52.920 --> 00:02:56.880
+jours de deux, un à deux jours du lundi au vendredi.
+
+72
+00:02:57.330 --> 00:02:59.220
+Gaffe à ça, tu vois, tu mets en week end des des jours
+
+73
+00:02:59.220 --> 00:03:01.220
+fériés pour être bien cohérent avec ça qui était important.
+
+74
+00:03:01.580 --> 00:03:03.520
+Ça, ça peut être des motif de strike, la part de Google.
+
+75
+00:03:03.830 --> 00:03:07.160
+Donc c'est important de le mettre sur les
+
+76
+00:03:08.660 --> 00:03:10.200
+sur les délais de livraison.
+
+77
+00:03:10.200 --> 00:03:11.240
+Donc, d'acheminement plutôt,
+
+78
+00:03:11.240 --> 00:03:14.080
+l'on est sur huit à 15 jours ou donc huit à 15 jours,
+
+79
+00:03:14.080 --> 00:03:15.640
+je les mets ici sur le temps, non?
+
+80
+00:03:15.640 --> 00:03:17.520
+Je te dis une connerie. C'est ici
+
+81
+00:03:17.700 --> 00:03:22.600
+Ce traitement, si huit, la 15 lundi au vendredi
+
+82
+00:03:22.900 --> 00:03:23.960
+Ou aussi, ok.
+
+83
+00:03:23.960 --> 00:03:26.600
+Donc on a un total de neuf à 17, c'est tout bon.
+
+84
+00:03:26.750 --> 00:03:29.200
+Ensuite, on est sur une livraison en tarif fixe. Pareil.
+
+85
+00:03:29.340 --> 00:03:30.840
+Là, je vais voir les frais de livraison.
+
+86
+00:03:30.840 --> 00:03:35.670
+Le coût de la livraison est de trois, 90. Ok, tarif fix. Je,
+
+87
+00:03:36.210 --> 00:03:38.550
+À mon avis, actualiser la page vu qu'on a fait une petite
+
+88
+00:03:38.650 --> 00:03:43.570
+mod vu qu'on a rajouté du coup cette livraison
+
+89
+00:03:46.550 --> 00:03:48.210
+En avoir avec assurance
+
+90
+00:03:52.330 --> 00:03:55.180
+tout au au tout clan de 23, trois,
+
+91
+00:03:55.180 --> 00:03:58.420
+90 et sur la partie assurance.
+
+92
+00:03:59.440 --> 00:04:01.300
+Je sais pas si c'est toi là.
+
+93
+00:04:01.400 --> 00:04:05.100
+Je me demande si je l'ajoute là ou par je regarde tout à
+
+94
+00:04:05.100 --> 00:04:07.780
+l'heure quand en déjà on a déjà ce qui
+
+95
+00:04:07.780 --> 00:04:08.820
+est important, c'est la base.
+
+96
+00:04:09.280 --> 00:04:10.380
+La Base trois, 90.
+
+97
+00:04:10.560 --> 00:04:12.860
+En général, toute façon, la plupart des sites ont un seul,
+
+98
+00:04:13.720 --> 00:04:15.580
+un seul tarif de livraison.
+
+99
+00:04:15.580 --> 00:04:17.700
+Je vérifierai plus tard pour la partie VIP,
+
+100
+00:04:17.700 --> 00:04:19.220
+mais l'important, c'est déjà d'avoir ça.
+
+101
+00:04:20.000 --> 00:04:23.990
+Con, livraison. On a ici un petit plus.
+
+102
+00:04:23.990 --> 00:04:25.830
+On ajoute nos conditions de retour.
+
+103
+00:04:25.830 --> 00:04:29.270
+Je veux dire, ici, elles sont là.
+
+104
+00:04:29.270 --> 00:04:31.270
+Je vois que tu as une partie ici dans ta politique de
+
+105
+00:04:31.430 --> 00:04:33.190
+livraison, une partie de remboursement.
+
+106
+00:04:33.190 --> 00:04:34.990
+Mais ce qui est important, c'est aussi d'avoir sa page
+
+107
+00:04:35.570 --> 00:04:36.670
+de politique de on a
+
+108
+00:04:36.670 --> 00:04:38.350
+Une page de politique renforcement
+
+109
+00:04:39.490 --> 00:04:40.490
+Là. Donc hop,
+
+110
+00:04:40.490 --> 00:04:43.950
+un petit copier un petit coller ici.
+
+111
+00:04:44.330 --> 00:04:46.790
+Il y a des éléments importants qu'il faut qu'il y ait dans
+
+112
+00:04:46.790 --> 00:04:47.950
+la politique de remboursement.
+
+113
+00:04:47.950 --> 00:04:49.990
+Je ne sais plus s'il faut qu'on fournissent directement le
+
+114
+00:04:49.990 --> 00:04:52.190
+bon non, je crois pas. Tu
+
+115
+00:04:52.190 --> 00:04:53.190
+N'es pas obligé. En fait, c'est toi
+
+116
+00:04:53.190 --> 00:04:54.190
+qui choisis le tout.
+
+117
+00:04:54.200 --> 00:04:57.670
+C'est d'être cohérent entre ce que tu dis sur le site est ce
+
+118
+00:04:57.670 --> 00:04:59.550
+que tu mets sur est ce que tu mets dans la
+
+119
+00:05:01.930 --> 00:05:03.830
+Il ne faut pas qu'il y ait une adresse quand même sur la
+
+120
+00:05:03.830 --> 00:05:04.990
+politique de remboursement,
+
+121
+00:05:09.250 --> 00:05:10.250
+Non? Parce que tu peux,
+
+122
+00:05:10.250 --> 00:05:12.030
+si tu dis qu'il faut contacter le support
+
+123
+00:05:13.120 --> 00:05:15.630
+Exactement Normalement, ça passe moi.
+
+124
+00:05:15.630 --> 00:05:18.390
+Je n'ai jamais eu de problème par rapport à ça.
+
+125
+00:05:22.830 --> 00:05:25.690
+Je pense que c'est ok. Là, on voit politique dure 14 jours.
+
+126
+00:05:25.880 --> 00:05:28.770
+Donc j accepte les retours pour
+
+127
+00:05:28.770 --> 00:05:29.930
+défectif des nombres d'effectifs.
+
+128
+00:05:29.930 --> 00:05:33.810
+Donc ça, c'est ça. Disons que c'est le mode standard et la
+
+129
+00:05:33.810 --> 00:05:35.050
+Base Générale.
+
+130
+00:05:36.230 --> 00:05:38.930
+Oui, j'accepte les échanges. Ça c'est la base aussi.
+
+131
+00:05:40.070 --> 00:05:41.330
+On ligne product. Oui.
+
+132
+00:05:41.330 --> 00:05:43.730
+Donc on, on n'accepte pas des produits qui ont été utilisés.
+
+133
+00:05:44.030 --> 00:05:46.410
+Délai de retour, 14 jours. C'est ce qu'on voyait ici.
+
+134
+00:05:48.070 --> 00:05:50.370
+Voilà Ce qui est le minimum, d'ailleurs, dans l'espace
+
+135
+00:05:51.510 --> 00:05:52.510
+Légal français.
+
+136
+00:05:52.540 --> 00:05:54.010
+Exactement. Donc c'est le minimum.
+
+137
+00:05:54.010 --> 00:05:57.600
+Certains mettent plus sur 14 jours, ok?
+
+138
+00:05:57.840 --> 00:06:00.360
+Méthode de retour par renvoi postal,
+
+139
+00:06:02.280 --> 00:06:04.610
+justement responsabilité sur le retour de la belle.
+
+140
+00:06:05.110 --> 00:06:06.530
+Ça dépend. Ça dépend gé général.
+
+141
+00:06:06.530 --> 00:06:09.530
+C'est comme ça, ça dépend des ça dépend de votre politique,
+
+142
+00:06:10.500 --> 00:06:12.680
+du une responsabilité du client.
+
+143
+00:06:13.700 --> 00:06:15.360
+Ou à mon avis,
+
+144
+00:06:15.860 --> 00:06:18.040
+il vous incombera de payer vos frais d'expédition
+
+145
+00:06:18.040 --> 00:06:19.080
+pour retourner votre article.
+
+146
+00:06:19.370 --> 00:06:20.440
+C'est les trucs de base.
+
+147
+00:06:20.820 --> 00:06:22.440
+Moi, je pense que assez rapidement, par contre,
+
+148
+00:06:22.440 --> 00:06:23.880
+je prend ma charge là.
+
+149
+00:06:23.880 --> 00:06:25.840
+On a un peu plus de marge sur ce projet là.
+
+150
+00:06:25.840 --> 00:06:28.200
+Donc je le modifierai par la suite, à mon avis,
+
+151
+00:06:28.540 --> 00:06:29.540
+Ça marche.
+
+152
+00:06:29.580 --> 00:06:31.480
+Et là c'est bon, ça c'est pas obligatoire. Hop.
+
+153
+00:06:31.820 --> 00:06:34.640
+Et je confirme, c'est parti.
+
+154
+00:06:36.420 --> 00:06:39.200
+Ok, donc là, au bout de quelques minutes,
+
+155
+00:06:39.310 --> 00:06:40.920
+vous allez voir que ça va passer.
+
+156
+00:06:40.940 --> 00:06:43.520
+Il va avoir un petit, un petit, un petit symbole vert
+
+157
+00:06:43.860 --> 00:06:46.720
+En état, Vérifier quand même avant,
+
+158
+00:06:46.730 --> 00:06:48.600
+avant de pousser le flux que ça soit bien
+
+159
+00:06:48.740 --> 00:06:49.840
+que l'état soit bien validé.
+
+160
+00:06:49.840 --> 00:06:52.280
+Si c'est une Croix-Rouge, on va essayer, on va, on va aller,
+
+161
+00:06:52.340 --> 00:06:55.040
+on va aller faire des modifications jusqu'à ce que ça passe
+
+162
+00:06:55.340 --> 00:06:57.800
+Déjà mis de l'url du site internet là. Oui.
+
+163
+00:06:58.760 --> 00:07:01.720
+Alors sur sur les infos de l'entreprise ou important,
+
+164
+00:07:02.220 --> 00:07:05.080
+il faut que ça soit tout à fait exactement.
+
+165
+00:07:05.220 --> 00:07:07.240
+Voilà donc ça, c'est vraiment les deux choses importantes.
+
+166
+00:07:07.240 --> 00:07:09.320
+C'est les conditions de livraison, les conditions de retour
+
+167
+00:07:09.980 --> 00:07:12.520
+et sur les informations de l'entreprise.
+
+168
+00:07:12.620 --> 00:07:16.520
+On veut avoir un site qui est revendiqué ici avec ça, on a,
+
+169
+00:07:17.140 --> 00:07:20.920
+on a les cartes en main, pouvoir faire passer son son site.
+
+170
+00:07:22.230 --> 00:07:23.680
+Bien sûr, après il y a toute une partie
+
+171
+00:07:24.330 --> 00:07:25.440
+cohérence dans le site.
+
+172
+00:07:25.460 --> 00:07:26.560
+Tu vois? D'ailleurs on peut regarder.
+
+173
+00:07:26.560 --> 00:07:30.000
+J'avais remarqué ce qu'on disait justement tout à l'heure
+
+174
+00:07:30.500 --> 00:07:31.760
+là, on a livraison fer ici.
+
+175
+00:07:31.880 --> 00:07:32.960
+Donc ça, c'est une petite correction à faire
+
+176
+00:07:32.960 --> 00:07:34.000
+parce que la livraison est un.
+
+177
+00:07:34.830 --> 00:07:38.520
+Donc ça, ça, ça, ça, ça peut être un motif de strike aussi
+
+178
+00:07:39.140 --> 00:07:41.560
+de la part de Google sur le FAQ.
+
+179
+00:07:41.590 --> 00:07:43.160
+Donc il faut bien scanner tout le site,
+
+180
+00:07:43.230 --> 00:07:44.680
+bien relire plusieurs fois pour
+
+181
+00:07:44.680 --> 00:07:45.800
+voir qu'il y a aucune incohérence.
+
+182
+00:07:46.870 --> 00:07:48.160
+Donc ça, c'est bon. Les moyens de
+
+183
+00:07:48.160 --> 00:07:49.360
+paiement là on est sur un Shopify.
+
+184
+00:07:49.360 --> 00:07:50.960
+Donc les moyens de paiement, ils sont affichés en
+
+185
+00:07:50.960 --> 00:07:52.200
+bas, ils sont automatique.
+
+186
+00:07:52.700 --> 00:07:53.960
+Ça c'est pratique avec Shopify,
+
+187
+00:07:53.960 --> 00:07:56.920
+parce que ça se automatiquement ici là,
+
+188
+00:07:56.920 --> 00:07:58.680
+on est cohérent à visa master. J'ai
+
+189
+00:07:58.680 --> 00:08:00.960
+Déjà fait une review, notamment avec JP.
+
+190
+00:08:01.020 --> 00:08:03.520
+Là, je vais donné mes pages, condition générale de vente,
+
+191
+00:08:03.520 --> 00:08:05.600
+politique de remboursement, politique d'expédition.
+
+192
+00:08:06.100 --> 00:08:09.800
+Et je lui ai demandé de vérifier avec la f FAQ s'il n'y
+
+193
+00:08:09.800 --> 00:08:13.080
+avait pas d'information qui était contradictoire ou
+
+194
+00:08:13.080 --> 00:08:15.160
+différente, justement, il en avait
+
+195
+00:08:15.820 --> 00:08:18.360
+sur les délais de préparation et les délais d'expédition
+
+196
+00:08:18.380 --> 00:08:19.440
+et je les ai modifiés.
+
+197
+00:08:20.030 --> 00:08:24.120
+Génial. Ok, donc on est bon livraison,
+
+198
+00:08:24.120 --> 00:08:26.120
+retour un retour toc.
+
+199
+00:08:26.380 --> 00:08:29.320
+Ok, c'est les bonnes adresses mail le 14 jours, c'est bon.
+
+200
+00:08:30.670 --> 00:08:34.800
+Tout une réclamation nous suffit de nous écrire.
+
+201
+00:08:35.340 --> 00:08:37.960
+Ok, ok, pas de souci.
+
+202
+00:08:38.980 --> 00:08:43.200
+Ok, quels sont les frais de livraison? Trois 90.
+
+203
+00:08:44.340 --> 00:08:45.720
+Ok, ça c'est bon.
+
+204
+00:08:49.810 --> 00:08:51.760
+C'est good. Quels sont les délais?
+
+205
+00:08:53.130 --> 00:08:55.200
+Être 48 h pour aller jusqu'à 72 h.
+
+206
+00:08:57.140 --> 00:08:58.720
+Il faudra que j'enlève cette partie là
+
+207
+00:08:58.910 --> 00:09:00.360
+Peut être l'enlever là Ou
+
+208
+00:09:02.020 --> 00:09:03.400
+Ne soit pas source de confusion.
+
+209
+00:09:03.620 --> 00:09:04.960
+En tout cas, ce que j'aime bien quand,
+
+210
+00:09:05.010 --> 00:09:06.080
+quand on pousse à plus,
+
+211
+00:09:06.080 --> 00:09:08.080
+donc ça veut dire qu'il va y avoir un examen quand on va
+
+212
+00:09:08.080 --> 00:09:09.760
+générer un examen de la part de Google, ce que j'aime bien,
+
+213
+00:09:09.770 --> 00:09:12.320
+c'est éviter les choses qui peuvent éventuellement
+
+214
+00:09:13.610 --> 00:09:15.600
+être source de doute de la pour Google.
+
+215
+00:09:15.780 --> 00:09:20.480
+Tu vois quand, quand, si jamais le compte est bloqué,
+
+216
+00:09:21.060 --> 00:09:23.440
+on est déjà enlevé un maximum pour restreindre de
+
+217
+00:09:23.440 --> 00:09:26.160
+l'entonnoir de ce qui peut bloquer
+
+218
+00:09:27.110 --> 00:09:29.380
+Exactement Et avoir le moins de
+
+219
+00:09:29.600 --> 00:09:30.600
+Façon.
+
+220
+00:09:30.840 --> 00:09:32.780
+On a laissé 24 de l'autre côté.
+
+221
+00:09:32.780 --> 00:09:34.060
+Il n'y a pas de plus dans la phrase,
+
+222
+00:09:34.060 --> 00:09:37.580
+il faut laisser 24 à 40 tard de ce côté là quoi été
+
+223
+00:09:38.140 --> 00:09:39.140
+Génial.
+
+224
+00:09:39.330 --> 00:09:42.070
+Ok, un retard d'expédition.
+
+225
+00:09:43.810 --> 00:09:47.390
+Je pense que ça, je pense que ça, il n'y a pas de souci.
+
+226
+00:09:47.890 --> 00:09:49.350
+Je pense que ça, ça devrait passer.
+
+227
+00:09:53.410 --> 00:09:54.630
+Ok, pour le support.
+
+228
+00:09:54.730 --> 00:09:57.790
+Pas de problème, aucun frais supplémentaire.
+
+229
+00:09:57.850 --> 00:10:00.430
+Ok, ça, c'est important. Aucun frais supplémentaire,
+
+230
+00:10:00.430 --> 00:10:01.910
+parce que Google n'aime pas les coups caché.
+
+231
+00:10:02.100 --> 00:10:05.510
+Donc là, on est bon. Tout des frais de doane ou
+
+232
+00:10:05.510 --> 00:10:06.670
+taxes locales peuvent être appliqués.
+
+233
+00:10:07.020 --> 00:10:09.190
+Mais ça, c'est hor. Et nous on a vu que dans le marchand,
+
+234
+00:10:09.310 --> 00:10:10.630
+on est en train de pousser France, Belgique.
+
+235
+00:10:10.630 --> 00:10:13.950
+Donc on n'a pas pas de problème à ce et sur la rétract
+
+236
+00:10:14.060 --> 00:10:15.830
+rétractation, 14 pas de problème
+
+237
+00:10:16.170 --> 00:10:18.350
+Et la clique sur le formulaire de contact pour être sûr
+
+238
+00:10:18.560 --> 00:10:19.950
+qu'il n'est pas en 404.
+
+239
+00:10:20.530 --> 00:10:21.530
+Ok, c'est bon.
+
+240
+00:10:23.040 --> 00:10:28.010
+Donc, effectivement, sur le sur les contacts,
+
+241
+00:10:28.090 --> 00:10:29.970
+c'est important d'avoir un formulaire comme tu l'as mis ici.
+
+242
+00:10:29.970 --> 00:10:34.370
+Ça c'est parfait. Et il faut aussi un numéro de téléphone.
+
+243
+00:10:34.510 --> 00:10:36.610
+Est ce que tu un numéro. Il ajouter un numéro
+
+244
+00:10:37.630 --> 00:10:38.890
+Un numéro de téléphone.
+
+245
+00:10:39.750 --> 00:10:42.930
+Tu sais bien, c'est vraiment un test en live
+
+246
+00:10:43.590 --> 00:10:44.610
+du module précédent.
+
+247
+00:10:44.610 --> 00:10:47.290
+Donc on a fait un module complet avec tous les éléments.
+
+248
+00:10:47.310 --> 00:10:51.560
+Tu vois tous les éléments de vérification et tout ça là,
+
+249
+00:10:51.560 --> 00:10:53.720
+on est sur un test grandeur nature.
+
+250
+00:10:55.180 --> 00:10:59.080
+Je met dans le fouteur du coup, on est d'accord, tu
+
+251
+00:10:59.080 --> 00:11:01.040
+Peux le mettre dans le fouteur et tu peux rajouter aussi.
+
+252
+00:11:02.820 --> 00:11:05.080
+Tu peux rajouter soit une adresse mail contact
+
+253
+00:11:06.320 --> 00:11:07.320
+Dans le footage.
+
+254
+00:11:07.750 --> 00:11:10.170
+Et aussi c'est ici sur cette page,
+
+255
+00:11:10.170 --> 00:11:11.530
+tu pour ajouter une adresse postale.
+
+256
+00:11:13.930 --> 00:11:17.550
+Tu vois, c'est bien avoir au moins deux deux contacts.
+
+257
+00:11:17.550 --> 00:11:20.070
+Donc le formulaire, le numéro de téléphone.
+
+258
+00:11:20.450 --> 00:11:23.710
+Et si tu veux pas mettre d'adresse postale, tu mets un mail
+
+259
+00:11:26.340 --> 00:11:29.260
+En tu En footer en foot.
+
+260
+00:11:29.360 --> 00:11:31.100
+Si t'as un mail, un numéro de téléphone en mail.
+
+261
+00:11:31.100 --> 00:11:32.100
+C'est parfait. Vrai,
+
+262
+00:11:32.910 --> 00:11:34.550
+J change chargé.
+
+263
+00:11:35.370 --> 00:11:36.670
+Ok. Et
+
+264
+00:11:39.000 --> 00:11:41.950
+Forme, ok, information
+
+265
+00:11:43.860 --> 00:11:45.950
+dans le menu information.
+
+266
+00:11:46.860 --> 00:11:49.290
+Information. Ok,
+
+267
+00:11:49.290 --> 00:11:51.490
+donc c'est le menu information là qui apparaît.
+
+268
+00:11:51.780 --> 00:11:53.450
+C'est le menu à propos qui qu'il apparaît.
+
+269
+00:11:58.860 --> 00:11:59.860
+Je n'ai pas d'endroit
+
+270
+00:12:02.150 --> 00:12:03.150
+Ici là à gauche. Là,
+
+271
+00:12:03.150 --> 00:12:03.830
+
+272
+00:12:04.590 --> 00:12:06.570
+Non, c'est la forme de clavio ça.
+
+273
+00:12:06.570 --> 00:12:07.530
+Je ne peux pas écrire dedans.
+
+274
+00:12:10.980 --> 00:12:11.920
+Tu, tu, m. Tout
+
+275
+00:12:12.090 --> 00:12:13.720
+Reste que c'est bien de l'avoir sur le.
+
+276
+00:12:14.170 --> 00:12:15.400
+C'est bien d'avoir ça.
+
+277
+00:12:15.610 --> 00:12:17.840
+Sinon, tu mets tout. Tu mets tout dans
+
+278
+00:12:17.840 --> 00:12:19.880
+Le mais je pense que je vais le mettre dans le
+
+279
+00:12:19.880 --> 00:12:21.120
+foot tout en bas.
+
+280
+00:12:21.620 --> 00:12:23.080
+Tu vois dans le,
+
+281
+00:12:29.860 --> 00:12:31.170
+c'est le bas du foot.
+
+282
+00:12:31.460 --> 00:12:34.810
+D'ailleurs, le lien qui est mis, c'est le lien my Shopify.
+
+283
+00:12:34.890 --> 00:12:35.890
+Il faudra l'enlever ça
+
+284
+00:12:40.250 --> 00:12:41.480
+idéo ce truc
+
+285
+00:12:47.390 --> 00:12:48.680
+dans ça, c'est la brand.
+
+286
+00:12:50.900 --> 00:12:52.160
+Ok, bon, je vais,
+
+287
+00:12:54.220 --> 00:12:56.400
+je vais voir ça avec Théo pour tu me la
+
+288
+00:12:56.510 --> 00:12:57.680
+pour, tu me l'ajoute.
+
+289
+00:13:01.270 --> 00:13:04.080
+Numéro de téléphone et email
+
+290
+00:13:05.580 --> 00:13:06.590
+dans le foot
+
+291
+00:13:10.880 --> 00:13:13.640
+L Milo, les Milo l Milo.
+
+292
+00:13:14.510 --> 00:13:18.530
+Ok, je suis en train de vérifier page de réseaux sociaux.
+
+293
+00:13:18.700 --> 00:13:21.380
+C'est bon, surtout pas de liens morts
+
+294
+00:13:22.670 --> 00:13:24.300
+Exactement et tout ça.
+
+295
+00:13:24.300 --> 00:13:25.540
+Ce n'est pas des détails, les amis,
+
+296
+00:13:25.570 --> 00:13:27.900
+tous les éléments qu'on est en train de lister avec
+
+297
+00:13:29.030 --> 00:13:31.100
+canta c'est mis représentation.
+
+298
+00:13:34.380 --> 00:13:36.970
+Bonne dire à, par exemple, regarder,
+
+299
+00:13:37.080 --> 00:13:39.570
+j'ai un problème sur le site internet va dans le panier
+
+300
+00:13:39.570 --> 00:13:40.650
+pour qu'on voit que c'est écrit.
+
+301
+00:13:40.850 --> 00:13:42.450
+Livraison offerte sur la slide. Voilà.
+
+302
+00:13:42.650 --> 00:13:44.530
+Regardez ici, livraison offerte.
+
+303
+00:13:45.080 --> 00:13:47.860
+Si on envoie le flux maintenant, ça saute
+
+304
+00:13:49.180 --> 00:13:51.640
+et représentation.
+
+305
+00:13:51.670 --> 00:13:53.840
+Vous dites au client que la livraison a offerte sur la page
+
+306
+00:13:53.840 --> 00:13:57.600
+d'après vous lui demandez trois 90 coup caché Google y vous,
+
+307
+00:13:57.600 --> 00:13:58.640
+man instant.
+
+308
+00:13:59.100 --> 00:14:01.920
+Et le problème, c'est que ça doit être dans le plugin de
+
+309
+00:14:01.920 --> 00:14:04.480
+panier parce que je n'avais aucune idée de
+
+310
+00:14:04.480 --> 00:14:05.680
+ou est cette information.
+
+311
+00:14:05.680 --> 00:14:10.280
+Voyez ce que je veux dire. Donc c'est ici tarif et
+
+312
+00:14:10.440 --> 00:14:14.280
+livraison dynamique principal,
+
+313
+00:14:14.280 --> 00:14:16.360
+pallier non atteint trois 90
+
+314
+00:14:17.150 --> 00:14:22.000
+principal atteint pallier atteint si maintenant il n'y a pas
+
+315
+00:14:22.000 --> 00:14:23.160
+de palier hop,
+
+316
+00:14:26.610 --> 00:14:29.140
+mais un jour pour moi, je pense que j'ai peut être trouvé.
+
+317
+00:14:30.000 --> 00:14:33.660
+Il y avait un système de franco de porche sur le plugin de
+
+318
+00:14:33.680 --> 00:14:35.900
+pan de de livraison.
+
+319
+00:14:37.970 --> 00:14:39.470
+Je mais encore temps. Je vais laisser en
+
+320
+00:14:40.700 --> 00:14:42.560
+je en navigation privée. Mais tu peut être pas.
+
+321
+00:14:42.900 --> 00:14:47.440
+Je vais for en disant si palli atteint trois 90 pour voir
+
+322
+00:14:49.050 --> 00:14:51.380
+update comme ça.
+
+323
+00:14:51.380 --> 00:14:52.980
+Au moins on pourra lancer le flux en direct
+
+324
+00:14:53.450 --> 00:14:54.500
+avec les gens connectés.
+
+325
+00:14:54.500 --> 00:14:59.170
+C'est pas mal, non?
+
+326
+00:14:59.170 --> 00:15:00.650
+Là vraiment, ce qui pose le problème,
+
+327
+00:15:00.650 --> 00:15:01.770
+c'est le numéro dans le foot.
+
+328
+00:15:01.910 --> 00:15:03.770
+Ça, c'est pareil. C'est essentiel.
+
+329
+00:15:04.130 --> 00:15:07.970
+Alors il y a des gens qui disent que bon moi, je vous dis
+
+330
+00:15:09.710 --> 00:15:11.650
+il un numéro dans le foot quand vous lancer
+
+331
+00:15:11.650 --> 00:15:12.690
+votre site, c'est nécessaire.
+
+332
+00:15:13.350 --> 00:15:17.400
+Un voilà. Numéro qu'on peut prendre avec
+
+333
+00:15:18.930 --> 00:15:21.400
+Exactement le numéro que je vais mettre moi enfin,
+
+334
+00:15:23.180 --> 00:15:26.560
+Est ce que tu Le faire un petit peu en mode tra
+
+335
+00:15:29.310 --> 00:15:32.000
+avec juste un bloc de contacts,
+
+336
+00:15:32.000 --> 00:15:33.640
+mais au moins on pourrait lancer, ça sera ramo.
+
+337
+00:15:34.550 --> 00:15:36.320
+Mais pour Google, ça ne sera pas é
+
+338
+00:15:42.400 --> 00:15:47.350
+moche, malheureusement, c'est comme ça un,
+
+339
+00:15:47.690 --> 00:15:51.630
+ça arrive, on é on le choisit pas en fait avec en fait les
+
+340
+00:15:51.630 --> 00:15:54.950
+moyens du bord, pas téléphone.
+
+341
+00:15:55.050 --> 00:15:57.990
+Et là je mettre le numéro on off.
+
+342
+00:15:59.030 --> 00:16:01.650
+Je devrais voir apparaître ça dans le foot.
+
+343
+00:16:02.180 --> 00:16:06.010
+C'est très moche, mais ça devrait être fonctionnel.
+
+344
+00:16:06.070 --> 00:16:07.610
+Et bien évidemment, je vais demander
+
+345
+00:16:08.150 --> 00:16:10.770
+à coach Théo de me refaire un truc un petit peu plus
+
+346
+00:16:10.770 --> 00:16:13.450
+propre demain.
+
+347
+00:16:13.460 --> 00:16:16.770
+Quand il aura le temps, il a déjà fini sa journée.
+
+348
+00:16:17.860 --> 00:16:19.120
+On regarde un peu dans le fou tard.
+
+349
+00:16:26.160 --> 00:16:28.620
+Non, toujours pas. Ça n'a pas encore changé. Non,
+
+350
+00:16:28.620 --> 00:16:29.020
+Je n'ai pas
+
+351
+00:16:33.620 --> 00:16:34.620
+A priori. C'est devrait
+
+352
+00:16:34.620 --> 00:16:35.220
+être
+
+353
+00:16:36.160 --> 00:16:37.540
+Un test en navigation privée.
+
+354
+00:16:38.470 --> 00:16:41.780
+C'est arrivé. Tu étais en train de
+
+355
+00:16:42.360 --> 00:16:43.860
+la qui est sur la fich je produit.
+
+356
+00:16:45.870 --> 00:16:46.220
+Ouais.
+
+357
+00:16:46.790 --> 00:16:51.000
+Ouais, ouais.
+
+358
+00:16:51.140 --> 00:16:52.480
+Ça, ça serait bien de l'enlever,
+
+359
+00:16:52.480 --> 00:16:54.120
+ce que je n'ai pas fait de calcul, mais ça me semble un peu
+
+360
+00:16:54.120 --> 00:16:56.790
+short par rapport à ce qu'on a donné quatre.
+
+361
+00:16:57.290 --> 00:17:00.750
+On est là, on est le 20 de fum mai, ça fait,
+
+362
+00:17:01.890 --> 00:17:04.630
+On avait fait huit jours total et pas huit jours ou je
+
+363
+00:17:04.630 --> 00:17:09.040
+pense alors
+
+364
+00:17:09.600 --> 00:17:11.600
+afficher l'indicateur vert disponible,
+
+365
+00:17:11.680 --> 00:17:13.680
+afficher l'indicateur orange chez le stock.
+
+366
+00:17:13.680 --> 00:17:18.180
+Baisse, délai minimum, forme de date,
+
+367
+00:17:18.560 --> 00:17:22.220
+délai de livraison, délai minimum, trois délai maximum
+
+368
+00:17:22.800 --> 00:17:23.980
+15 non?
+
+369
+00:17:24.410 --> 00:17:27.300
+Donc on va faire entre huit et 10.
+
+370
+00:17:28.950 --> 00:17:30.570
+Et donc là, il dit acheter maintenant et
+
+371
+00:17:30.570 --> 00:17:31.770
+recevez le le 9 juin.
+
+372
+00:17:31.900 --> 00:17:33.570
+C'est beaucoup plus cohérent à déjà.
+
+373
+00:17:34.820 --> 00:17:38.620
+C'est mieux Le maintenant et
+
+374
+00:17:38.620 --> 00:17:39.980
+recevez le le 15 juin.
+
+375
+00:17:40.470 --> 00:17:41.470
+C'est un peu loin.
+
+376
+00:17:43.430 --> 00:17:46.700
+Ou on avait dit qu'on était à combien nous dans les
+
+377
+00:17:47.450 --> 00:17:49.480
+Huit et 15 jours ou 15.
+
+378
+00:17:50.850 --> 00:17:55.060
+Ouais. Sinon tu masques un juste
+
+379
+00:17:55.060 --> 00:17:56.940
+cette juste, cette partie,
+
+380
+00:17:57.320 --> 00:18:00.020
+Le temps de la v vérité, Le temps comme ça.
+
+381
+00:18:00.020 --> 00:18:01.020
+Tu t pas.
+
+382
+00:18:02.320 --> 00:18:06.310
+Ok. Là,
+
+383
+00:18:06.310 --> 00:18:07.910
+je vois que t'as aussi dans ton bandeau.
+
+384
+00:18:07.910 --> 00:18:10.470
+50 euros de remise. Je vérifie bien que c'est actif.
+
+385
+00:18:11.130 --> 00:18:12.990
+Ok, tu as bien tes cinquantes de remise ici.
+
+386
+00:18:12.990 --> 00:18:16.430
+Tu vois pas de, on est bon là,
+
+387
+00:18:16.530 --> 00:18:18.590
+un code moins 10 l. Je vais le tester.
+
+388
+00:18:19.290 --> 00:18:23.070
+Non, justement, il faut que je le cache
+
+389
+00:18:24.960 --> 00:18:27.140
+Ou tu vois là, je vois qui il est pas
+
+390
+00:18:27.190 --> 00:18:28.420
+Exactement ça.
+
+391
+00:18:28.420 --> 00:18:31.420
+C'est 1000 représentations également les amis comme test.
+
+392
+00:18:32.320 --> 00:18:35.660
+Si vous avez un code sur votre site internet qui n'est pas
+
+393
+00:18:36.420 --> 00:18:39.900
+fonctionnel, c'est mise.
+
+394
+00:18:39.900 --> 00:18:42.470
+Représentation. Donc là moi, de mon côté,
+
+395
+00:18:42.490 --> 00:18:44.070
+je ne vais pas cacher.
+
+396
+00:18:44.210 --> 00:18:46.790
+Je vais le créer un tout simplement le code l
+
+397
+00:18:47.690 --> 00:18:50.310
+qui est valable du coup jusqu'au 21 zéro six.
+
+398
+00:18:54.180 --> 00:18:56.610
+Super. On a un vrai test en direct. Je suis très content.
+
+399
+00:18:58.000 --> 00:19:01.180
+Ça, les petites
+
+400
+00:19:02.600 --> 00:19:04.780
+vérifications partout.
+
+401
+00:19:06.360 --> 00:19:07.790
+Ouais. On a fait un bon tour.
+
+402
+00:19:07.820 --> 00:19:10.030
+Donc c'est vrai que c'est là. C'est assez exhaustif.
+
+403
+00:19:10.330 --> 00:19:11.870
+Après un autre point,
+
+404
+00:19:11.870 --> 00:19:14.110
+on cite un petit peu particulier parce que ça peut être
+
+405
+00:19:14.230 --> 00:19:17.310
+apparenté au domaine de la santé dans Google.
+
+406
+00:19:17.450 --> 00:19:19.110
+Il peut aussi peut être m'emmerder avec ça
+
+407
+00:19:19.530 --> 00:19:23.630
+Sur des claims Ou sur les même sur sur du mise
+
+408
+00:19:23.630 --> 00:19:25.470
+représentation sur tu vois les 10 minutes
+
+409
+00:19:25.470 --> 00:19:27.710
+seulement révélées.
+
+410
+00:19:27.710 --> 00:19:31.090
+En fait, on est sur des promesses révolution,
+
+411
+00:19:31.200 --> 00:19:32.970
+révélé tout ce qui est un peu promesse.
+
+412
+00:19:33.070 --> 00:19:36.770
+Ça peut le vocabulaire utilisé ça. Tu peux avoir
+
+413
+00:19:36.770 --> 00:19:39.050
+Normalement c'est léger et ça passe sur Facebook.
+
+414
+00:19:39.050 --> 00:19:40.410
+Donc ça devrait passer sur Google.
+
+415
+00:19:40.990 --> 00:19:44.090
+On peut tenter par contre, si on a un mis représentation,
+
+416
+00:19:44.090 --> 00:19:46.770
+il faudra faire faudra foutre à po le site et enlever tous
+
+417
+00:19:46.770 --> 00:19:49.530
+les les termes qu tu amélioration d,
+
+418
+00:19:49.530 --> 00:19:50.890
+l'élasticité et fermeté de la peau.
+
+419
+00:19:50.890 --> 00:19:52.050
+Ça, c'est une promesse aussi.
+
+420
+00:19:52.110 --> 00:19:53.850
+Je sais que Google n'aime pas trop genre de choses.
+
+421
+00:19:55.610 --> 00:19:57.590
+On risque d'être dans le domaine de la santé aussi.
+
+422
+00:19:57.590 --> 00:19:59.710
+Donc on risque d'avoir au moins des produits qui sont en
+
+423
+00:19:59.710 --> 00:20:01.630
+stock limités dans le marché center et on ne pourra
+
+424
+00:20:01.630 --> 00:20:03.270
+potentiellement pas faire de re marketing.
+
+425
+00:20:03.850 --> 00:20:07.110
+Ça dépend ça, ça tente. Mais voilà.
+
+426
+00:20:07.110 --> 00:20:09.110
+Connaissant Google, on s'est fait emmerder pour moi que ça
+
+427
+00:20:09.110 --> 00:20:11.870
+va sur des sur certains sites à avoir anti
+
+428
+00:20:13.640 --> 00:20:15.750
+chose là et Google, il n'aime pas trop
+
+429
+00:20:16.730 --> 00:20:17.950
+Toutes les plateformes n'aime pas
+
+430
+00:20:17.950 --> 00:20:19.390
+trop des domaines de la santé.
+
+431
+00:20:19.840 --> 00:20:23.070
+C'est ça. Donc, soit tu mets tout,
+
+432
+00:20:23.070 --> 00:20:25.710
+soit tu cache tout, tu masques.
+
+433
+00:20:26.290 --> 00:20:28.470
+Tu pose, tu passes ton flux dans le merch.
+
+434
+00:20:29.370 --> 00:20:31.750
+Tu laisses valider tattends huit jours parce qu'il y a un
+
+435
+00:20:31.750 --> 00:20:32.910
+bot qui repasse une deuxième fois,
+
+436
+00:20:33.130 --> 00:20:35.270
+un bot qui passe au bout de deux jours est un bot qui passe
+
+437
+00:20:35.280 --> 00:20:36.350
+même pas forcément un bot.
+
+438
+00:20:36.350 --> 00:20:38.070
+Des fois, c'est des vérifications manuelles aussi la plupart
+
+439
+00:20:38.070 --> 00:20:41.230
+du temps qui n'y passe au bout de sept à huit jours.
+
+440
+00:20:41.260 --> 00:20:43.470
+Donc pas de modifications sur le site pendant huit jours.
+
+441
+00:20:43.570 --> 00:20:45.190
+Une fois que tu as attendu tes huit jours,
+
+442
+00:20:45.330 --> 00:20:47.080
+tu pourras rajouter ce genre de choses, choses
+
+443
+00:20:48.550 --> 00:20:51.930
+Que ce moment là, de notre côté, on a déjà commencé
+
+444
+00:20:52.590 --> 00:20:54.650
+là sur la partie FB.
+
+445
+00:20:57.230 --> 00:21:00.130
+La source principale, c'est surtout d'aller sur meta.
+
+446
+00:21:00.130 --> 00:21:02.930
+Donc on va essay de comme ça. Il
+
+447
+00:21:02.930 --> 00:21:06.930
+Essaye de passer comme ça et on refer un tour en tout cas.
+
+448
+00:21:06.950 --> 00:21:08.850
+Ce qui est bien, c'est qu'on a déjà vu la base de la base
+
+449
+00:21:08.850 --> 00:21:10.970
+qui va là pour tous les sites, c'est à dire la cohérence,
+
+450
+00:21:11.230 --> 00:21:13.090
+la cohérence entre les délais de livraison,
+
+451
+00:21:13.190 --> 00:21:15.010
+les frais de port, toutes ces choses là.
+
+452
+00:21:16.320 --> 00:21:17.320
+Donc On écoute
+
+453
+00:21:18.270 --> 00:21:20.930
+Sim pro là, j'allais,
+
+454
+00:21:21.280 --> 00:21:22.650
+j'ai besoin d'installer aussi Google
+
+455
+00:21:22.650 --> 00:21:23.810
+analytique sur ma boutique.
+
+456
+00:21:24.270 --> 00:21:25.530
+Et en fait, ce n'est pas,
+
+457
+00:21:26.790 --> 00:21:29.530
+il ne faut pas installer Google analytics en parallèle.
+
+458
+00:21:29.550 --> 00:21:31.770
+Une autre application, parce que sinon ça vient en
+
+459
+00:21:31.770 --> 00:21:35.210
+concurrence également avec donc vraiment,
+
+460
+00:21:35.830 --> 00:21:37.770
+et on le rappellera dans la formation
+
+461
+00:21:38.910 --> 00:21:40.930
+là sur la partie analytique.
+
+462
+00:21:41.550 --> 00:21:43.770
+De mon côté, moi, ce que j'ai fait, c'est que j'ai créé
+
+463
+00:21:44.470 --> 00:21:48.850
+un nouveau compte, un nouveau domaine et j'ai un numéro j,
+
+464
+00:21:49.190 --> 00:21:50.250
+qui est ce numéro là.
+
+465
+00:21:50.670 --> 00:21:51.770
+Et j'ai attendu,
+
+466
+00:21:51.960 --> 00:21:54.650
+j'ai attendu ce rendez vous avec quentin qu'on puisse vous
+
+467
+00:21:54.650 --> 00:21:55.890
+filmer l'installation de sipo.
+
+468
+00:21:56.270 --> 00:21:58.730
+Et c'est dans l'installation de simpro qu'on va collecter
+
+469
+00:21:59.710 --> 00:22:01.730
+simpro et le compte j.
+
+470
+00:22:01.910 --> 00:22:03.810
+Si je ne dis pas de bêtises, c'est bien ça quein.
+
+471
+00:22:03.910 --> 00:22:04.930
+Et même Google, la toi
+
+472
+00:22:05.660 --> 00:22:09.850
+Même Google exactement le compte Google existe.
+
+473
+00:22:11.180 --> 00:22:14.470
+J'ai dû le créer, aucune configuration particulière.
+
+474
+00:22:14.470 --> 00:22:17.070
+Je suis passé en manuel classique comme on vu avec joran
+
+475
+00:22:17.070 --> 00:22:22.030
+dans le module et on a un mer center que vous venez de
+
+476
+00:22:22.030 --> 00:22:23.830
+voir que quand quand
+
+477
+00:22:24.430 --> 00:22:27.150
+a commencé à configurer qui nous a été livré
+
+478
+00:22:27.150 --> 00:22:28.190
+par des shoppes comme d'habitude,
+
+479
+00:22:28.330 --> 00:22:32.950
+Voilà une Google, là moins avec cette parti.
+
+480
+00:22:38.590 --> 00:22:40.090
+Et donc si produit, on le rappelle,
+
+481
+00:22:40.380 --> 00:22:42.890
+c'est ce qui va nous permettre de envoyer notre flux produit
+
+482
+00:22:43.150 --> 00:22:45.850
+sur le leant center et de grosso modo,
+
+483
+00:22:45.850 --> 00:22:47.610
+faire la connexion avec tous les services de Google.
+
+484
+00:22:48.030 --> 00:22:50.850
+Ils sont leaders aujourd'hui sur la partie Shopify.
+
+485
+00:22:51.140 --> 00:22:52.570
+C'est vraiment beaucoup plus facile
+
+486
+00:22:53.830 --> 00:22:55.610
+que sur votre presse d'ailleurs.
+
+487
+00:22:56.150 --> 00:22:58.570
+Et on va juste récupérer les tags,
+
+488
+00:22:58.680 --> 00:23:00.930
+vérifier que les tags sont bien configurés dans si
+
+489
+00:23:01.300 --> 00:23:02.450
+faire notre test live.
+
+490
+00:23:03.030 --> 00:23:04.810
+Et à partir de là, on est tranquille.
+
+491
+00:23:04.900 --> 00:23:06.050
+C'est à peu près c. Quentin
+
+492
+00:23:06.460 --> 00:23:07.460
+Exactement.
+
+493
+00:23:08.730 --> 00:23:10.230
+Je dois Signing ici ou
+
+494
+00:23:10.370 --> 00:23:11.670
+Tu dois Signing et tu vas pouvoir,
+
+495
+00:23:11.690 --> 00:23:13.230
+tu vas pouvoir entrer ton.
+
+496
+00:23:13.850 --> 00:23:16.150
+Tu vas pouvoir entrer ton ant dans un premier temps.
+
+497
+00:23:19.340 --> 00:23:21.190
+Alors par contre mon mère,
+
+498
+00:23:21.530 --> 00:23:23.550
+il faut que je avec le cours Google
+
+499
+00:23:24.250 --> 00:23:26.990
+et ça
+
+500
+00:23:28.100 --> 00:23:30.310
+Avec ton compte Google sur lequel t'es en
+
+501
+00:23:30.360 --> 00:23:31.590
+admin sur le ant.
+
+502
+00:23:31.690 --> 00:23:34.710
+Et donc là, je prend un point comme
+
+503
+00:23:35.280 --> 00:23:40.210
+C'est ça là, je sélectionne les trucs, j'imagine tout
+
+504
+00:23:40.330 --> 00:23:42.720
+Sélectionner, Continuer.
+
+505
+00:23:48.340 --> 00:23:50.620
+Et donc la tape là,
+
+506
+00:23:50.960 --> 00:23:53.020
+Je montrer, va montrer à tout le monde comme ça.
+
+507
+00:23:53.020 --> 00:23:55.820
+Effectivement, ils verront le process s.
+
+508
+00:23:55.820 --> 00:23:57.540
+Ils n'ont pas la chance d'avoir un
+
+509
+00:23:57.540 --> 00:23:58.740
+quentin avec eux de leur côté.
+
+510
+00:24:00.010 --> 00:24:02.700
+Donc là vous connecter à votre compte marchand center.
+
+511
+00:24:03.160 --> 00:24:05.380
+Moi, de mon côté, j'ai plein de sites sur le compte marchand
+
+512
+00:24:05.380 --> 00:24:08.860
+center car on est bien sur celui de l' la
+
+513
+00:24:08.980 --> 00:24:10.060
+configuration qu'on est en train de faire.
+
+514
+00:24:10.060 --> 00:24:12.820
+Et du coup, le numéro c'est celui ci six, sept,
+
+515
+00:24:12.820 --> 00:24:14.620
+deux de pour ça.
+
+516
+00:24:15.160 --> 00:24:19.340
+On revient du coup sur le Shopify.
+
+517
+00:24:19.600 --> 00:24:22.220
+On est, on est là à gauche.
+
+518
+00:24:22.720 --> 00:24:25.900
+Et là, on s'assure de bien sélectionner le bon compte.
+
+519
+00:24:25.950 --> 00:24:27.500
+Quand on en a plusieurs comme moi,
+
+520
+00:24:27.760 --> 00:24:29.180
+si vous en avez pas plusieurs, dans tous les cas,
+
+521
+00:24:29.180 --> 00:24:30.380
+on un qui sortira.
+
+522
+00:24:30.380 --> 00:24:34.600
+Et puis le problème se posera pas confirme, continue
+
+523
+00:24:37.400 --> 00:24:40.070
+ainsi un target market France,
+
+524
+00:24:41.930 --> 00:24:44.850
+contente en français.
+
+525
+00:24:45.460 --> 00:24:47.700
+Voilà Target market.
+
+526
+00:24:48.240 --> 00:24:48.660
+Lequel
+
+527
+00:24:55.910 --> 00:24:57.610
+Ou Ok, alors là tu,
+
+528
+00:24:58.910 --> 00:25:00.570
+tu fais là en train de cette top le flux.
+
+529
+00:25:00.570 --> 00:25:04.370
+Donc which product need, celui sub
+
+530
+00:25:04.950 --> 00:25:08.690
+all product oui, défaut product tile, ok,
+
+531
+00:25:08.990 --> 00:25:10.050
+des faux product description.
+
+532
+00:25:10.430 --> 00:25:11.770
+Ok, ça, ça dépend des sites,
+
+533
+00:25:11.800 --> 00:25:14.530
+mais normalement on est bon sur défaut. Des
+
+534
+00:25:14.530 --> 00:25:16.690
+Fois on fait des variantes un peu particulière, etc.
+
+535
+00:25:16.960 --> 00:25:20.650
+Nous en général, ce qu'on a bien configuré en back office,
+
+536
+00:25:20.830 --> 00:25:22.770
+qui sont les bons titres, les bonnes des sélections, etc.
+
+537
+00:25:22.780 --> 00:25:24.890
+C'est ce qu'on pousse dans notre flux produit
+
+538
+00:25:25.360 --> 00:25:30.130
+Tout à fait Uniquement que les premières variantes ou
+
+539
+00:25:30.130 --> 00:25:31.130
+toutes les variantes, nous on pousse
+
+540
+00:25:31.130 --> 00:25:32.210
+toutes les variantes, les
+
+541
+00:25:32.210 --> 00:25:34.430
+Variantes et variante taxe.
+
+542
+00:25:34.570 --> 00:25:35.790
+Oui, c'est configuré
+
+543
+00:25:36.130 --> 00:25:38.110
+À exactement
+
+544
+00:25:39.410 --> 00:25:42.150
+Sur le product id format.
+
+545
+00:25:42.790 --> 00:25:45.790
+Alors il y a deux solutions, soit global format.
+
+546
+00:25:46.020 --> 00:25:48.750
+Donc ça, c'est pour ton contact, soit ta global format.
+
+547
+00:25:49.090 --> 00:25:52.950
+Ça te met un Shopify us avec le premier.
+
+548
+00:25:54.130 --> 00:25:58.030
+La première série, c'est on, c'est ton produit global.
+
+549
+00:25:58.130 --> 00:26:01.230
+Et la deuxième série, c'est le, c'est la variation.
+
+550
+00:26:02.190 --> 00:26:03.680
+Donc tu peux avoir ça en général,
+
+551
+00:26:03.680 --> 00:26:05.240
+c'est intéressant parce que tu es sûr d'avoir
+
+552
+00:26:05.820 --> 00:26:08.760
+un identifiant par variation, sinon pas,
+
+553
+00:26:08.760 --> 00:26:11.000
+est ce qu'il a eu à ce product dit en général,
+
+554
+00:26:11.000 --> 00:26:12.800
+on met pas ça, ça va dépendre des boutiques aussi.
+
+555
+00:26:14.500 --> 00:26:16.880
+Et surtout d'ailleurs, si on a ça,
+
+556
+00:26:17.060 --> 00:26:20.840
+on peut avoir des problèmes parce que les variations
+
+557
+00:26:21.860 --> 00:26:23.200
+ont toutes le même identifiant.
+
+558
+00:26:23.200 --> 00:26:24.680
+Par exemple, ça peut être source de gala.
+
+559
+00:26:25.150 --> 00:26:27.080
+Donc global format, fin de l'histoire
+
+560
+00:26:27.480 --> 00:26:28.480
+T es sûr. Sinon ta
+
+561
+00:26:28.480 --> 00:26:30.120
+variante, Heidi se product dit ça peut marcher
+
+562
+00:26:30.120 --> 00:26:31.480
+aussi, mais sur le global format
+
+563
+00:26:32.670 --> 00:26:35.970
+Là, on n'avait pas de choses qui nous attendaient.
+
+564
+00:26:35.970 --> 00:26:38.770
+On devait ajouter email, les numéros de téléphone,
+
+565
+00:26:38.770 --> 00:26:40.490
+on l'a fait, c'est pas beau, mais c'est là.
+
+566
+00:26:40.870 --> 00:26:45.520
+On a enlevé ce
+
+567
+00:26:45.760 --> 00:26:48.360
+problème là de de commander.
+
+568
+00:26:48.700 --> 00:26:52.280
+On a changé l prix de livraison ici,
+
+569
+00:26:54.960 --> 00:26:58.020
+Il, il y a les 10 % que soit soit soit tu peux
+
+570
+00:26:58.020 --> 00:26:59.380
+l'ajouter dans ton
+
+571
+00:27:00.170 --> 00:27:04.370
+Soit on va vérifier le
+
+572
+00:27:05.050 --> 00:27:07.660
+l validé par
+
+573
+00:27:10.400 --> 00:27:12.140
+Il y avait aussi, tu sais, les pages en bas,
+
+574
+00:27:12.140 --> 00:27:13.900
+les pages dans le check out, la t page légale.
+
+575
+00:27:14.320 --> 00:27:17.380
+Ah ça. Par contre, tiens, ça tombe bien.
+
+576
+00:27:17.900 --> 00:27:19.300
+Dernière vérif importantes,
+
+577
+00:27:19.790 --> 00:27:22.180
+parce que ce ne sont pas les mêmes
+
+578
+00:27:24.490 --> 00:27:26.270
+que dans le fouteur du reste du site.
+
+579
+00:27:34.050 --> 00:27:35.590
+Et donc, je ne sais pas ou elles sont,
+
+580
+00:27:35.590 --> 00:27:37.310
+et c'est d'ailleurs ce que j'ai demandé à coach Théo.
+
+581
+00:27:37.730 --> 00:27:38.830
+Il y a du Laurent ipsum.
+
+582
+00:27:39.360 --> 00:27:41.510
+Quand je regarde dans mon thème, je n'ai pas de l à ipsum.
+
+583
+00:27:41.510 --> 00:27:43.950
+Quand je regarde dans les pages, ces pages là n'existe pas.
+
+584
+00:27:44.490 --> 00:27:45.950
+Ce ne sont pas les mêmes pages.
+
+585
+00:27:46.490 --> 00:27:49.350
+Et donc là, ce qu'il faudrait faire, tout simplement moi,
+
+586
+00:27:49.350 --> 00:27:51.750
+c'est juste mettre les mêmes liens vers les pages que j'ai
+
+587
+00:27:51.750 --> 00:27:55.070
+déjà à toi, mais j'en coordonner coordonné.
+
+588
+00:27:55.910 --> 00:27:58.310
+Alors Théo me disait c'est certainement les pages politiques
+
+589
+00:27:59.820 --> 00:28:01.320
+est ce que tu sais de quoi ça parle.
+
+590
+00:28:02.020 --> 00:28:05.480
+Les pages en politique de quelque chose policier, j'imagine.
+
+591
+00:28:06.340 --> 00:28:07.340
+Ici,
+
+592
+00:28:08.530 --> 00:28:12.080
+C'est celle là, C'est, ça avait raison.
+
+593
+00:28:12.630 --> 00:28:17.370
+Donc là, il
+
+594
+00:28:17.370 --> 00:28:21.490
+faut faire un copier collé du coup des pages qu'on
+
+595
+00:28:21.490 --> 00:28:22.570
+a déjà dans la rubrique page.
+
+596
+00:28:22.640 --> 00:28:25.110
+J'imagine, pour être sûr que sont les mêmes
+
+597
+00:28:25.110 --> 00:28:26.150
+informations, mais d'accord,
+
+598
+00:28:26.530 --> 00:28:28.400
+Ou Allez,
+
+599
+00:28:29.460 --> 00:28:32.120
+on fait ça et ensuite on synchronise le flux.
+
+600
+00:28:33.320 --> 00:28:34.770
+J'ai bien vérifié du coup,
+
+601
+00:28:35.030 --> 00:28:36.970
+les politiques s'affichent bien ici.
+
+602
+00:28:36.970 --> 00:28:39.410
+Donc on fait un petit coup collé des
+
+603
+00:28:39.410 --> 00:28:40.450
+pages qu'on a déjà définies.
+
+604
+00:28:40.450 --> 00:28:42.410
+C'est bizarre qu'on ne puisse pas directement linker
+
+605
+00:28:43.350 --> 00:28:45.570
+qu'est ce qui nous manque comme élément quein du coup,
+
+606
+00:28:45.960 --> 00:28:47.210
+rien. On envoie la synchro.
+
+607
+00:28:47.860 --> 00:28:50.150
+Ouais, Allez, on
+
+608
+00:28:50.150 --> 00:28:53.750
+Envoyer la synchro ou tu peux, tu peux envoyer le flux.
+
+609
+00:28:55.340 --> 00:28:56.800
+Et donc là, ça y est,
+
+610
+00:28:56.820 --> 00:29:00.480
+on va pousser notre flux produit dans notre merant center.
+
+611
+00:29:01.340 --> 00:29:03.760
+Voilà donc là, tu vas avoir les produits qui vont arriver
+
+612
+00:29:04.140 --> 00:29:07.720
+et ils vont être en examen pendant quelques jours.
+
+613
+00:29:07.770 --> 00:29:09.640
+Bonne quatre 48 h, ça dépend.
+
+614
+00:29:10.540 --> 00:29:14.000
+Et puis ensuite, après tu pourras, tu pourras envoyer
+
+615
+00:29:14.790 --> 00:29:17.720
+envoyer dans Google la alors nous, en général,
+
+616
+00:29:19.380 --> 00:29:22.410
+on link aussi Google, la quand on est sur de nous,
+
+617
+00:29:22.430 --> 00:29:25.430
+sur les sur le, sur les sites,
+
+618
+00:29:25.730 --> 00:29:27.190
+on fait directement le link avec Google,
+
+619
+00:29:27.210 --> 00:29:30.430
+la dans le ancienne process, on peut attendre aussi,
+
+620
+00:29:30.430 --> 00:29:32.710
+parce qu'en fait, le problème, c'est que si si ton marchand
+
+621
+00:29:32.710 --> 00:29:35.230
+petit des strike, tu peux avoir le Google de qui strike
+
+622
+00:29:35.280 --> 00:29:36.790
+aussi après ça se débloque,
+
+623
+00:29:37.810 --> 00:29:38.950
+tu peux contacter des supports et
+
+624
+00:29:38.950 --> 00:29:39.990
+les débloquer sans trop de problèmes.
+
+625
+00:29:40.580 --> 00:29:42.870
+Mais en gros vaut mieux attendre que le flu soit validé
+
+626
+00:29:42.870 --> 00:29:43.990
+avant de connecter le compte Google.
+
+627
+00:29:45.360 --> 00:29:49.870
+C'est ça Reconnecter Google analytics.
+
+628
+00:29:51.010 --> 00:29:54.070
+On peut on peut connecter Google analytics par
+
+629
+00:29:55.720 --> 00:29:58.840
+ou ouais,
+
+630
+00:29:59.370 --> 00:30:03.650
+C'est voilà, continuer.
+
+631
+00:30:03.930 --> 00:30:04.930
+Confirme.
+
+632
+00:30:06.110 --> 00:30:07.210
+Voilà là tu link.
+
+633
+00:30:07.400 --> 00:30:09.090
+Donc là, tu vas avoir ton ant center
+
+634
+00:30:09.230 --> 00:30:10.370
+qui est linker à ton Google.
+
+635
+00:30:10.460 --> 00:30:12.450
+C'est ce qu'on était en train de dire l'idéal,
+
+636
+00:30:12.950 --> 00:30:14.250
+un petit peu que ton flu soit validé,
+
+637
+00:30:15.080 --> 00:30:16.930
+nous on le non, le link immédiatement.
+
+638
+00:30:16.990 --> 00:30:18.850
+Et en général, on arrive à débloquer.
+
+639
+00:30:18.950 --> 00:30:20.050
+Si les marchand de bloqué,
+
+640
+00:30:20.050 --> 00:30:21.250
+on arrive à la débloquer avant que le goût,
+
+641
+00:30:21.660 --> 00:30:23.810
+Comme on a fait après travail, on a l'habitude,
+
+642
+00:30:23.810 --> 00:30:25.850
+on sait que ça passe et on sait que c'est bon dans votre
+
+643
+00:30:25.870 --> 00:30:28.090
+cas, vous pouvez potentiellement attendre que le flux soit
+
+644
+00:30:28.090 --> 00:30:29.610
+validé avant de le connecter. Quoi ça
+
+645
+00:30:29.900 --> 00:30:30.900
+Exactement.
+
+646
+00:30:31.240 --> 00:30:34.210
+Donc là, on valide dans automatique les ligne. Quoi?
+
+647
+00:30:35.230 --> 00:30:39.890
+Il on
+
+648
+00:30:40.050 --> 00:30:41.330
+arrive directement sur le tracking.
+
+649
+00:30:41.840 --> 00:30:45.280
+Donc là, tu peux activer ici.
+
+650
+00:30:47.710 --> 00:30:49.600
+Donc là, il a été sélectionné.
+
+651
+00:30:49.600 --> 00:30:50.880
+Donc tu peux faire save tout temps à droite.
+
+652
+00:30:56.050 --> 00:30:57.990
+Voilà. Et là tu peux revenir en arrière.
+
+653
+00:31:01.970 --> 00:31:03.470
+Tu retournes sur si process.
+
+654
+00:31:08.140 --> 00:31:09.680
+On va se remettre sur la partie tracking.
+
+655
+00:31:09.680 --> 00:31:12.680
+Donc tu vas dans tracking taxe dans ton menu, le premier,
+
+656
+00:31:12.940 --> 00:31:15.680
+le premier Google dynamique marketing, conversion
+
+657
+00:31:17.490 --> 00:31:19.320
+cette top tracking taxe ton bouton à droite.
+
+658
+00:31:25.720 --> 00:31:27.140
+Voilà. Tu valid encore.
+
+659
+00:31:29.180 --> 00:31:33.660
+J'ai Ou donc tu fais
+
+660
+00:31:33.660 --> 00:31:34.980
+cré New conversion.
+
+661
+00:31:34.980 --> 00:31:36.260
+On va en faire une à côté comme ça.
+
+662
+00:31:36.260 --> 00:31:40.190
+On ne va pas, on va pas modifier
+
+663
+00:31:40.190 --> 00:31:41.270
+ce qu'a fait déjà pierre Alexandre.
+
+664
+00:31:41.270 --> 00:31:42.430
+On verra, on verra avec lui.
+
+665
+00:31:43.180 --> 00:31:44.910
+Donc là, tu crées une nouvelle action de conversion.
+
+666
+00:31:44.910 --> 00:31:46.030
+Celle ci, c'est celle de sim pro.
+
+667
+00:31:46.090 --> 00:31:47.590
+Tu fais pareil avec la de tous cartes.
+
+668
+00:31:47.860 --> 00:31:50.950
+Donc je appelle Ça,
+
+669
+00:31:50.950 --> 00:31:52.910
+c'est à balise sim pro ou
+
+670
+00:31:54.170 --> 00:31:56.510
+là on créer une nouvelle aussi pour l tout cartes
+
+671
+00:32:00.080 --> 00:32:02.860
+Et faut bien faire attention de ne pas avoir plusieurs
+
+672
+00:32:02.900 --> 00:32:04.740
+tracking en place.
+
+673
+00:32:05.870 --> 00:32:06.890
+Et là tu peux valider.
+
+674
+00:32:08.280 --> 00:32:10.860
+Et là on continue. Et là, il faut impérativement,
+
+675
+00:32:10.860 --> 00:32:13.060
+par contre, nettoyer les balises pour pas qu'il y ait deux
+
+676
+00:32:13.060 --> 00:32:14.500
+fois du tracking sur le site. Quoi
+
+677
+00:32:14.800 --> 00:32:17.260
+Ou si tu peux, on peut aller voir déjà dans Google
+
+678
+00:32:18.080 --> 00:32:22.910
+sur la partie actions en principale et secondaire
+
+679
+00:32:24.190 --> 00:32:26.880
+pour justement éviter d'avoir un doublon
+
+680
+00:32:26.880 --> 00:32:27.920
+dans la remontée d'informations.
+
+681
+00:32:31.000 --> 00:32:34.380
+Tu vas dans objectif dans ton menu à gauche, conversion,
+
+682
+00:32:34.380 --> 00:32:35.500
+récapitulatif nickel.
+
+683
+00:32:35.970 --> 00:32:37.620
+Donc là, tu vois qu'il y a été deux balises.
+
+684
+00:32:37.620 --> 00:32:40.050
+Il y a l'achat, celle qui était déjà en place et celle qu'on
+
+685
+00:32:40.050 --> 00:32:42.200
+vient de rajouter le problème c deux actions.
+
+686
+00:32:42.200 --> 00:32:43.920
+Elles sont en principale. C'est à dire que quand tu vas
+
+687
+00:32:43.920 --> 00:32:45.920
+avoir, si tes deux balises sont bien configurées.
+
+688
+00:32:45.920 --> 00:32:48.960
+Donc la achat a priori, elle a été configuré avant et là,
+
+689
+00:32:48.960 --> 00:32:51.560
+on vient de configurer la via.
+
+690
+00:32:51.560 --> 00:32:53.760
+Si tu vas citer une conversion, avoir deux
+
+691
+00:32:54.630 --> 00:32:55.960
+deux conversions qui vont remonter.
+
+692
+00:32:55.960 --> 00:32:56.800
+Donc en fait, il faut que tu'en a
+
+693
+00:32:56.800 --> 00:32:57.920
+qu'une seule en principale ici.
+
+694
+00:32:57.950 --> 00:32:59.720
+Donc je te conseille de garder de passer,
+
+695
+00:33:00.220 --> 00:33:02.720
+tu quittes sur rachat et on va la passer en secondaire.
+
+696
+00:33:04.910 --> 00:33:06.920
+Donc, du coup là, dans les objectifs
+
+697
+00:33:07.140 --> 00:33:08.920
+récapitulatifs détails.
+
+698
+00:33:10.830 --> 00:33:14.200
+Donc le panier, il faut le supprimer, on revient ici,
+
+699
+00:33:14.260 --> 00:33:16.880
+on le supprime hop.
+
+700
+00:33:17.300 --> 00:33:19.720
+Et du coup là, on a bien trois balises.
+
+701
+00:33:20.870 --> 00:33:25.850
+Le principal secret ici secondaire à
+
+702
+00:33:25.850 --> 00:33:30.210
+tout cas et les deux inactif.
+
+703
+00:33:30.280 --> 00:33:32.570
+Donc là logiquement, quand on va commencer à avoir du
+
+704
+00:33:32.570 --> 00:33:34.570
+trafic, il y a des gens qui vont jusqu'au check out.
+
+705
+00:33:34.830 --> 00:33:38.050
+On devrait commencer à voir ce nombre là. Mont monter. Quoi?
+
+706
+00:33:38.050 --> 00:33:39.170
+On est d'accord ou
+
+707
+00:33:39.810 --> 00:33:41.730
+Dernière chose, il faut que tu retournes dans ton bac
+
+708
+00:33:41.730 --> 00:33:44.210
+office ou que tu retournes dans ton bac office.
+
+709
+00:33:44.710 --> 00:33:47.850
+Ça m'étonne qu'il ne l'est pas proposé derrière le pixel.
+
+710
+00:33:47.850 --> 00:33:50.170
+C'est ça. Tu fais un copier coller de ce de ce
+
+711
+00:33:50.170 --> 00:33:51.450
+code de custom pixel.
+
+712
+00:33:52.270 --> 00:33:54.970
+Ok, On va aller dans ceings
+
+713
+00:33:56.570 --> 00:33:58.340
+Just pixel.
+
+714
+00:33:59.780 --> 00:34:01.820
+Alors j'ai copié le code pixel.
+
+715
+00:34:02.200 --> 00:34:03.260
+Tu vas dans settings,
+
+716
+00:34:04.950 --> 00:34:08.490
+Je dans cette ligne ici dans l'application de si pro.
+
+717
+00:34:09.030 --> 00:34:10.650
+Non, non. Dans Shopify, tout en bas gauche,
+
+718
+00:34:10.670 --> 00:34:11.690
+là des sept du shop,
+
+719
+00:34:11.910 --> 00:34:13.610
+Le sept classique. Tout
+
+720
+00:34:13.610 --> 00:34:14.610
+À fait. Tu vas dans
+
+721
+00:34:14.610 --> 00:34:17.400
+event dont on
+
+722
+00:34:17.400 --> 00:34:19.400
+menu un peu.
+
+723
+00:34:19.710 --> 00:34:22.320
+J'ai vu déjà Là.
+
+724
+00:34:22.700 --> 00:34:25.400
+Tu a que pixel ton bouton en haut.
+
+725
+00:34:26.830 --> 00:34:29.350
+D'accord, ici disconnecter c. Ok, c'est normal.
+
+726
+00:34:30.610 --> 00:34:34.350
+Tu en ajouta. Et donc là on, mais
+
+727
+00:34:35.290 --> 00:34:39.350
+Si To
+
+728
+00:34:39.930 --> 00:34:44.520
+Yes, tu le copies ici,
+
+729
+00:34:45.590 --> 00:34:46.930
+On supprime tout. Je
+
+730
+00:34:46.930 --> 00:34:47.930
+Supprime tout. Tu copie
+
+731
+00:34:47.930 --> 00:34:49.530
+le custom pixel qui a été donné
+
+732
+00:34:49.530 --> 00:34:50.770
+par sy pro dans permission.
+
+733
+00:34:50.790 --> 00:34:52.330
+Tu clics sur le petit onglet. Permission.
+
+734
+00:34:52.870 --> 00:34:56.320
+Tu mets notre ici.
+
+735
+00:34:56.820 --> 00:35:00.780
+Ok, tu descends à en,
+
+736
+00:35:00.910 --> 00:35:03.060
+c'est dans tout en haut dans ton bandeau sa
+
+737
+00:35:03.970 --> 00:35:04.980
+tout en haut, tout en haut.
+
+738
+00:35:05.440 --> 00:35:08.580
+Ok? Incroy data sa, on le laisse ici
+
+739
+00:35:09.600 --> 00:35:11.260
+à data sa on save.
+
+740
+00:35:11.720 --> 00:35:12.980
+Et maintenant on connaîte
+
+741
+00:35:13.080 --> 00:35:14.080
+Voilà. Et là
+
+742
+00:35:14.080 --> 00:35:16.450
+t'es bon là, ton pur, ce qui remonte.
+
+743
+00:35:17.540 --> 00:35:18.590
+Génial. Ok, ok,
+
+744
+00:35:19.520 --> 00:35:21.330
+dans quelques clics, mais il faut le savoir.
+
+745
+00:35:21.390 --> 00:35:22.530
+Il faut savoir au cliquer. Quoi?
+
+746
+00:35:24.510 --> 00:35:26.400
+Tout expliquer de toute façon.
+
+747
+00:35:27.180 --> 00:35:29.520
+Oui, il y a un bon service client quand même de mémoire.
+
+748
+00:35:29.740 --> 00:35:32.920
+Ok, donc là je lui dis j'ai implémenté le truc
+
+749
+00:35:33.420 --> 00:35:33.640
+Ou
+
+750
+00:35:37.520 --> 00:35:38.780
+Après une campagne p.
+
+751
+00:35:38.780 --> 00:35:39.780
+Max. Mon merci.
+
+752
+00:35:41.320 --> 00:35:45.580
+Non, non. Voilà. La création de campagne peut
+
+753
+00:35:45.820 --> 00:35:46.860
+derniers éléments.
+
+754
+00:35:46.860 --> 00:35:48.260
+Dernier élément important quand
+
+755
+00:35:48.260 --> 00:35:53.240
+même le Google analytics.
+
+756
+00:35:54.410 --> 00:35:56.920
+Ouais. Et là tu peux le mettre dans voilà ici
+
+757
+00:35:58.040 --> 00:36:00.540
+ou tracking cette et là, tu relis.
+
+758
+00:36:01.890 --> 00:36:05.750
+Et donc là, comme db, on se connecte.
+
+759
+00:36:05.970 --> 00:36:07.790
+On va choisir le compte et
+
+760
+00:36:08.690 --> 00:36:11.830
+et tu fais rien de rien de bien sort. Quoi? En deux
+
+761
+00:36:11.830 --> 00:36:15.350
+Clics par relier ton ton ton ton shop a ton quatre
+
+762
+00:36:15.650 --> 00:36:18.190
+Et avec si pro parce qu'on en a pas mal parlé,
+
+763
+00:36:18.190 --> 00:36:19.430
+notamment dans cette formation.
+
+764
+00:36:19.590 --> 00:36:21.270
+Alors j'e un peu les problèmes, mais
+
+765
+00:36:22.050 --> 00:36:23.470
+les problèmes de tracking, etc.
+
+766
+00:36:24.910 --> 00:36:28.220
+C'est mieux. Ça n'arrive pas, ça arrive jamais.
+
+767
+00:36:28.920 --> 00:36:31.860
+Ça arrive rarement souvent. C'est comment
+
+768
+00:36:32.960 --> 00:36:34.230
+Aucun problème avec simpro
+
+769
+00:36:35.690 --> 00:36:38.270
+À partir du moment ou comme ça, ça marche pas.
+
+770
+00:36:38.800 --> 00:36:40.870
+Ouais. Ouais. Il faut prendre l'abonnement.
+
+771
+00:36:40.970 --> 00:36:44.430
+Par contre ces cinq do par mois. Tu vas dans le plan.
+
+772
+00:36:44.430 --> 00:36:45.470
+En fait, si tu le fais pas,
+
+773
+00:36:45.810 --> 00:36:48.110
+tu vas avoir une alerte dans une semaine ou ils vont te dire
+
+774
+00:36:48.110 --> 00:36:49.350
+basculer sur le plan payant.
+
+775
+00:36:49.930 --> 00:36:52.270
+Et là, en fait, ton flu sera pas mis à jour.
+
+776
+00:36:52.270 --> 00:36:53.590
+C'est à dire que si tu changes te prix,
+
+777
+00:36:53.590 --> 00:36:54.590
+si tu ajoute des produits,
+
+778
+00:36:54.610 --> 00:36:56.470
+si tu fais de modifications sur ton site,
+
+779
+00:36:56.470 --> 00:36:57.870
+ça ne sera pas aménagement dans ton ant.
+
+780
+00:36:58.180 --> 00:36:59.190
+Donc c'est problématique.
+
+781
+00:36:59.420 --> 00:37:01.750
+Donc, en fait, il faut penser aussi à prendre le plan payant
+
+782
+00:37:01.750 --> 00:37:02.830
+qui n'est pas très cher, mais
+
+783
+00:37:02.830 --> 00:37:03.950
+c'est important et ça vaut le coup
+
+784
+00:37:05.790 --> 00:37:06.840
+Pour que ça fonctionne bien.
+
+785
+00:37:06.840 --> 00:37:08.000
+Bien sûr, bien
+
+786
+00:37:08.000 --> 00:37:09.000
+Que ça soit mis.
+
+787
+00:37:09.110 --> 00:37:12.600
+Donc là moi, j'ai créé un truc.
+
+788
+00:37:12.600 --> 00:37:14.880
+Donc j'ai créé mon compte l' assez
+
+789
+00:37:14.880 --> 00:37:16.200
+classique dans l'analytique, etc.
+
+790
+00:37:16.830 --> 00:37:19.480
+Effectivement, j'ai dû à un moment donné appeler ça mon site
+
+791
+00:37:19.620 --> 00:37:22.240
+web ou le site web ou je ne sais pas quoi, et là,
+
+792
+00:37:22.240 --> 00:37:25.600
+c'est ce qui me propose visiblement ici, mon site web.
+
+793
+00:37:26.300 --> 00:37:30.160
+Ça, c'est le bon compte ch. Donc je vérifie ch.
+
+794
+00:37:30.570 --> 00:37:33.430
+C'est le bon compte. Parfait, c'est ça.
+
+795
+00:37:33.570 --> 00:37:35.910
+Et donc ici, on confirme l'
+
+796
+00:37:36.530 --> 00:37:41.190
+et donc là Google analytics, connecté à mer center,
+
+797
+00:37:41.540 --> 00:37:43.390
+connecté à Google ad,
+
+798
+00:37:43.390 --> 00:37:45.110
+on attend la validation du flux pour
+
+799
+00:37:45.110 --> 00:37:46.310
+pouvoir lancer les campagnes.
+
+800
+00:37:47.050 --> 00:37:50.950
+Ça. Alors on le synchronise également du coup
+
+801
+00:37:51.100 --> 00:37:52.990
+avec le cours.
+
+802
+00:37:52.990 --> 00:37:56.470
+Google a la partie analytics. Tout à fait.
+
+803
+00:37:57.050 --> 00:37:58.190
+Je demande aussi
+
+804
+00:37:58.810 --> 00:38:00.750
+Permet de te faire remonter les audiences Google,
+
+805
+00:38:01.130 --> 00:38:03.510
+Google analytics dans Google a donc
+
+806
+00:38:04.280 --> 00:38:06.030
+c'est toujours bon à prendre. Il faut le faire.
+
+807
+00:38:06.850 --> 00:38:09.830
+Et quoi ça activ une porte web metrics in
+
+808
+00:38:10.590 --> 00:38:12.230
+a Google a account.
+
+809
+00:38:12.230 --> 00:38:14.550
+Donc c'est faire ce que tu viens de me dire, c'est ça ou,
+
+810
+00:38:15.860 --> 00:38:17.440
+et donc c'est rapide à faire
+
+811
+00:38:17.940 --> 00:38:20.040
+Ou Ou assez ici, c'est
+
+812
+00:38:20.060 --> 00:38:21.060
+Ici. Tu vois un
+
+813
+00:38:21.060 --> 00:38:22.600
+petit, tu dois juste valider la yes
+
+814
+00:38:22.780 --> 00:38:24.080
+ici et tu fais le
+
+815
+00:38:24.080 --> 00:38:27.800
+Bout du coup, il faut aller dans le compte. Google a non.
+
+816
+00:38:28.250 --> 00:38:30.200
+Ouais, ok, pas un retourne dont on Google
+
+817
+00:38:31.270 --> 00:38:32.720
+dans l'objectif. Outil
+
+818
+00:38:33.510 --> 00:38:35.640
+Dans outil, Bibliothèque partagée,
+
+819
+00:38:35.750 --> 00:38:37.240
+Bibliothèque partagée,
+
+820
+00:38:37.590 --> 00:38:41.600
+Gestion des audiences, ressources de données tout à droite
+
+821
+00:38:42.270 --> 00:38:44.400
+lata à quatre, qui est relié est un Google.
+
+822
+00:38:44.900 --> 00:38:48.680
+Ok, bon, j'ai à quatre. Il est relié.
+
+823
+00:38:49.270 --> 00:38:50.280
+Donc en fait, c'est good,
+
+824
+00:38:51.910 --> 00:38:55.250
+Ok, Tu peux cliquer sur yes dans,
+
+825
+00:38:55.900 --> 00:39:00.170
+C'est chiant à les changements d'interface de Google,
+
+826
+00:39:00.220 --> 00:39:02.530
+parce qu'effectivement l'interface, elle est différente.
+
+827
+00:39:02.590 --> 00:39:06.730
+Tu vois? Mais malheureusement
+
+828
+00:39:07.170 --> 00:39:08.890
+habituez vous à Google.
+
+829
+00:39:09.110 --> 00:39:13.850
+Ça change quand même assez souvent, malheureusement de
+
+830
+00:39:15.220 --> 00:39:18.440
+de formats et j'envie de dire alors c'est pas tout le temps,
+
+831
+00:39:18.440 --> 00:39:20.240
+mais quand ça arrive, c'est des c'est des
+
+832
+00:39:20.240 --> 00:39:21.480
+mises à jour qui soit important.
+
+833
+00:39:22.860 --> 00:39:24.940
+Et donc on est bon.
+
+834
+00:39:25.240 --> 00:39:28.100
+Et donc on peut dire, t'es sûr qu'il
+
+835
+00:39:28.100 --> 00:39:29.140
+a rien à coche coucher rien du tout.
+
+836
+00:39:29.140 --> 00:39:30.340
+On peut juste dire ok, c'est bon.
+
+837
+00:39:30.340 --> 00:39:35.020
+C'est valider quoi ou confirme account linking.
+
+838
+00:39:36.120 --> 00:39:40.900
+On va est ce
+
+839
+00:39:40.900 --> 00:39:42.540
+Que attend, parce que là est ce qu'il veut te faire.
+
+840
+00:39:42.540 --> 00:39:46.740
+Un tracking à partir de g start j et tracking, non,
+
+841
+00:39:46.740 --> 00:39:49.100
+je pense que t'es bon ou non.
+
+842
+00:39:49.100 --> 00:39:50.420
+C'est bon. C'est bon. C'est pour faire
+
+843
+00:39:50.420 --> 00:39:51.660
+remonter tes info dans 24
+
+844
+00:39:52.300 --> 00:39:53.300
+En quelque dessus.
+
+845
+00:39:55.870 --> 00:39:59.550
+Ok? Et là, active en les bon
+
+846
+00:40:00.170 --> 00:40:03.620
+Moins, Mais va commencé à avoir les premières.
+
+847
+00:40:05.200 --> 00:40:07.420
+Les premières visiteurs qui vont pouvoir arriver
+
+848
+00:40:08.240 --> 00:40:11.060
+là dessus est ce qu'on a fini quand à
+
+849
+00:40:12.240 --> 00:40:14.060
+On est pas mal, on est pas mal.
+
+850
+00:40:14.060 --> 00:40:15.580
+Maintenant, on attend dans le
+
+851
+00:40:15.580 --> 00:40:17.900
+Marché, dans le plan, le plan, le plan, le plan,
+
+852
+00:40:18.600 --> 00:40:22.280
+Le plan À charge
+
+853
+00:40:22.900 --> 00:40:24.960
+à, voilà.
+
+854
+00:40:25.340 --> 00:40:26.640
+Tu peux aller retourner dans ton Merchant
+
+855
+00:40:27.270 --> 00:40:28.720
+Dans mon mer ici.
+
+856
+00:40:29.580 --> 00:40:32.000
+Tu vas dans tuerie fraîche overview.
+
+857
+00:40:32.500 --> 00:40:34.890
+Et donc là on descend un peu,
+
+858
+00:40:34.890 --> 00:40:35.970
+donc on voit qu'il y a les produits.
+
+859
+00:40:35.970 --> 00:40:37.410
+Donc il a des produits qui sont arrivés.
+
+860
+00:40:39.010 --> 00:40:41.210
+Alors on peut aller voir dans, dans product ou à
+
+861
+00:40:41.210 --> 00:40:44.180
+gauche ici ni d'attention.
+
+862
+00:40:44.850 --> 00:40:45.860
+Donc la tapa, pas d'alerte.
+
+863
+00:40:45.890 --> 00:40:47.500
+Donc normalement, c'est bon. Il n'y a pas de souci.
+
+864
+00:40:47.960 --> 00:40:49.820
+Et encore À
+
+865
+00:40:49.820 --> 00:40:53.380
+of stock et in stock limited ou so.
+
+866
+00:40:53.920 --> 00:40:55.420
+Ok, non, c'est goût. Il n'y a pas de souci.
+
+867
+00:40:55.960 --> 00:40:57.810
+Donc là normalement, ' bon, il n'y a pas de
+
+868
+00:40:59.460 --> 00:41:00.460
+Temps. Quoi?
+
+869
+00:41:00.460 --> 00:41:00.810
+
+870
+00:41:01.500 --> 00:41:05.090
+Même Un tru qui disait a business adresse.
+
+871
+00:41:07.350 --> 00:41:10.740
+Ouais tu, je ça. Tu peux, c n'est pas indispensable.
+
+872
+00:41:10.740 --> 00:41:13.140
+Ce n'est pas ça qui va faire ou non que ton store est
+
+873
+00:41:13.680 --> 00:41:15.420
+et est valider ou pas.
+
+874
+00:41:15.420 --> 00:41:17.500
+Mais j'ai envie de dire à Google, plus tu mes d'info,
+
+875
+00:41:17.500 --> 00:41:20.980
+plus tu vas gagner en qualité, en fait te annonces.
+
+876
+00:41:20.980 --> 00:41:24.260
+Donc tu pourras ajouter
+
+877
+00:41:24.880 --> 00:41:26.700
+ce n'est pas indispensable pour faire valider ton store,
+
+878
+00:41:27.090 --> 00:41:28.420
+mais plus tu vas donner d'info,
+
+879
+00:41:28.420 --> 00:41:29.820
+plus tu vas monter en qualité sur
+
+880
+00:41:30.910 --> 00:41:31.910
+Allez.
+
+881
+00:41:32.650 --> 00:41:34.560
+Merci beaucoup cantin on se retrouve
+
+882
+00:41:34.560 --> 00:41:35.600
+dans le prochain épisode.
+
+883
+00:41:36.700 --> 00:41:37.880
+À plus, tant.

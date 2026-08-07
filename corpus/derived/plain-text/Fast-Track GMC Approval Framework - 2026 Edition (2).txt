@@ -1,0 +1,681 @@
+
+===== PAGE 1 =====
+
+
+
+===== PAGE 2 =====
+
+Fast-Track GMC Approval
+Framework | 2026 Edition
+This eBook is protected by copyright law and may not be reproduced, distributed, or transmitted in any form or by any means, including
+photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case
+of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+ terry@terryecom.com
+
+
+===== PAGE 3 =====
+
+By Terry Ecom
+ Founder of GMC HELP and GMC Scout
+Introduction
+This eBook contains enforcement-driven guidance based on live Google Merchant Center reviews,
+weekly audits, and data surfaced from GMC Scout and the GMC HELP community.
+You're holding the definitive playbook used by store owners, agencies, and consultants to achieve
+faster, cleaner approvals inside the Merchant Center.
+Let's get into it.
+
+
+===== PAGE 4 =====
+
+Fast-Track GMC Approval
+ Framework
+ 2026 Edition
+Up-to-date approval guidance based on 500+ real store reviews, live GMC audits, and observed
+Google Merchant Center review patterns.
+Created by Terry Ecom, founder of GMC HELP (the leading free GMC compliance community) and
+GMC Scout (AI-powered Google Merchant Center compliance scanner used across hundreds of live
+stores).
+This framework reflects real approval outcomes observed through:
+- 500+ live store reviews and private client fixes
+- Weekly GMC audits and recovery cases inside GMC HELP
+- Data surfaced by GMC Scout across real Shopify stores
+- Direct patterns observed during Google Merchant Center reviews
+This is not theory. It is enforcement-driven guidance based on what Google is actively checking.
+This framework is designed to help you align correctly and reach approval faster. It does not
+guarantee approval. Google Merchant Center decisions are automated and subject to change.
+
+
+===== PAGE 5 =====
+
+How to Use This Framework
+Read and apply sections in order. Do not skip ahead. Most failures happen before GMC creation or
+during rushed reviews. Each section is written as pass / fail guidance.
+SECTION 1 - How Google Actually Reviews Stores
+Google does not approve stores based on effort, explanations, or intent. Approval is driven by an
+internal trust-scoring system that evaluates consistency, legitimacy, and risk signals across your
+store, Google Merchant Center, and supporting assets.
+What actually happens during review:
+- Google crawls your site and GMC as a machine first, human second
+- Text, structure, metadata, and linkage are compared automatically
+- Human reviewers verify only what automation already flagged
+Critical realities observed across 500+ reviews:
+- Misrepresentation is cumulative, not a single mistake
+- Small inconsistencies compound into failure
+- Some non-compliant stores remain approved temporarily, then auto-reviewed
+- Explanations do not override mismatches
+Core mindset: look, act, and operate like a legitimate brand that ships what it sells - because Google
+is scoring signals, not stories.
+
+
+===== PAGE 6 =====
+
+SECTION 2 - Fast-Track Approval Principles (Non-
+Negotiable)
+These principles are enforced regardless of niche, country, or store size. If any are violated, approval
+odds drop sharply.
+- One store = one identity (never reuse Gmail, phone, address, IP, or content)
+- Consistency beats perfection (matching matters more than wording quality)
+- Fewer GMC reviews = higher success rate (do not rush or repeat review requests blindly)
+- Google compares text, not intent (explanations do not help)
+- Google scores “trust assets” across your store. If key pages are empty (thin About/Policies, 1–2 
+product collections), hidden (policies not linked in footer / hard to access on mobile / noindex), or 
+duplicated (same policies/about/contact across other domains), Google reads it as a 
+nonlegitimate setup and downgrades trust.
+If any principle fails, stop and fix before proceeding.
+
+===== PAGE 7 =====
+
+SECTION 3 - Pre-Build Setup (Before Shopify or GMC
+Exists)
+Most GMC failures originate here. Complete all items before building a store or creating a Merchant
+Center.
+Domain Preparation
+- New domains can be approved
+- Domains aged 30+ days materially improve trust
+- Deleted domains reset age to zero - buy only active, non-deleted domains
+Gmail Preparation (Often Missed)
+- Create a fresh Gmail used only for GMC and Google Ads
+- Warm the Gmail for several days:
+- Subscribe to services
+- Watch YouTube
+- Log into Google apps
+- Send and receive emails
+Google evaluates Gmail behaviour, not just existence.
+Phone Number Strategy
+- Physical SIM cards outperform VoIP numbers
+- Same number must be used for:
+- Gmail verification
+- GMC contact details
+- Store footer
+- Country mismatch is allowed if the number accepts voice calls
+Environment Isolation
+
+
+===== PAGE 8 =====
+
+- Use proxy + anti-detect only for Gmail, GMC, and Ads
+- Never access Shopify inside a proxy (high ban risk)
+If this section is incomplete, do not proceed.
+
+
+===== PAGE 9 =====
+
+SECTION 4 - Store Build Requirements (Trust Signals)
+This section determines whether Google perceives your store as legitimate or risky.
+Contact & Identity (Footer-First Rule)
+- Clickable email using mailto:
+- Voice-capable phone number
+- Real, mappable address
+- Exact consistency across store, policies, and GMC
+Reviewers often check the footer only.
+Address Strategy (Critical for Multi-Store Operators)
+- Never reuse addresses across stores
+- Store address must match GMC
+- Verification documents do not need to match store address
+Addresses function as isolation tools, not proof of identity.
+About Us Page
+- Short, simple, human-written copy
+- Avoid AI-detectable text
+- No exaggerated history, claims, or credentials
+Social Media (High-Risk When Done Early)
+- No social links > weak or new social pages
+- Purchased followers or low activity reduce trust
+- Link socials only after real activity exists
+External Trust Signals
+
+
+===== PAGE 10 =====
+
+- If Trustpilot exists, rating must be 3.0+ before any review
+- Trustpilot below 3.0 is a hard rejection gate
+
+
+===== PAGE 11 =====
+
+SECTION 5 - Policies & Compliance (Top
+Misrepresentation Trigger)
+Visual Overview - How Google Compares Policies
+SHOPIFY POLICIES
+GMC POLICIES
+FOOTER LINKS
+If any one of these differs, the entire store fails the trust check.
+Hard Rules
+- Policies live only in Shopify -> Settings -> Policies
+- Footer links point to /policies/*
+- No duplicate policy pages
+- Wording must match GMC exactly
+Google Checks Line-by-Line
+- Shipping cut-off time + timezone
+- Handling & transit windows
+- Return window & refund timing
+Reference policy templates are provided in Appendix A for guidance only.
+
+
+===== PAGE 12 =====
+
+SECTION 6 - Products, Collections & Feed Rules
+Visual Rule - Collections Requirement
+COLLECTION
+- Product 1
+- Product 2
+- Product 3
+- Product 4
+- Product 5 [MINIMUM PASS]
+< 5 Products [RED FLAG]
+Google treats empty or thin collections as a quality signal.
+Collections
+- Minimum 5 products per collection
+- No empty or hidden collections
+Products
+- Unique titles, descriptions, SKUs
+- No text or collages on images
+- Variant images must match selection
+- Region-correct specs and sizing
+Technical
+- Redirect all 404s
+- Avoid embedded images in descriptions
+
+
+===== PAGE 13 =====
+
+SECTION 7 - GMC Creation & Verification Blueprint
+Fast-Track Creation Flow (Correct Order)
+1. Store Finished
+2. Policies Finalised (Shopify)
+3. Products Uploaded
+4. Create GMC
+5. Verify & Claim Domain
+6. Match Store Policies Word-for-Word
+7. Connect Product Feed
+8. Request Review
+Never create GMC before the store is complete. Google can index incomplete pages.
+Domain Verification
+- Use DNS TXT record method (most reliable)
+- HTML tag and file upload are secondary options
+- Verify HTTPS version of domain
+Policy Matching (Critical)
+- Copy exact wording from Shopify -> Settings -> Policies
+- Do not reword or simplify
+- Paste directly into GMC policy fields
+Feed Connection
+- Use Simprosys app on Shopify
+- Ensure all products are approved in feed
+
+===== PAGE 14 =====
+
+- Fix disapprovals before requesting review
+
+
+===== PAGE 15 =====
+
+SECTION 8 - Review Submission & Post-Approval
+Before Requesting Review
+- Run complete self-audit using GMC Scout or manual checklist
+- Verify footer contact details match GMC exactly
+- Check all policy pages are accessible
+- Ensure no 404 errors exist
+- Test phone number accepts voice calls
+Review Timeline
+- Initial review: 3-5 business days
+- Re-review after rejection: 7-10 days minimum
+- Multiple rapid reviews reduce success rate
+If Rejected
+- Read rejection reason carefully
+- Fix ALL issues, not just the stated one
+- Wait 7-10 days before re-submitting
+- Do not appeal without fixing underlying issues
+Post-Approval Maintenance
+- Google can re-review at any time
+- Maintain policy consistency
+- Keep contact details updated
+- Monitor for policy violations in feed
+
+
+===== PAGE 16 =====
+
+APPENDIX A - Policy Templates
+Please do not copy this text directly. Google checks for duplicate policy pages. Use these templates
+as a guide and modify the wording to ensure 100% compliance with Google.
+Refund & Return Policy Template
+At [Your Store Name], we want you to love your purchase. If, for any reason, you're not satisfied, we
+offer a simple and hassle-free return process.
+30-Day Easy Returns
+You have 30 days from the day you receive your order to return items. Items must be unused, in their
+original condition, and returned with the original packaging, tags, and accessories. Our support team
+will assist you throughout the process. Restocking Fee: $0 - we do not charge any restocking fees for
+returns.
+Return Policy Overview
+Return Window: You have 30 days from the day you receive your order to return items.
+Condition: Items must be unused, in their original condition, and returned with the original packaging,
+tags, and accessories.
+Easy Returns: Our support team will assist you throughout the process.
+Restocking Fee: $0 - we do not charge any restocking fees for returns.
+Return Costs
+For Defective or Incorrect Products: No cost to the customer. This applies when the product is
+incorrect, damaged by the carrier, or defective in any other way.
+For Customer Remorse (Change of Mind): The customer pays the actual return shipping cost. This
+applies when the customer orders the wrong item, it doesn't fit, or they no longer want it. Shipping
+costs are non-refundable.
+How to Return an Item
+
+===== PAGE 17 =====
+
+1. Contact Us: Email [Support Email] with your order number and reason for the return.
+2. Pack Your Item: Repack the item securely in its original packaging, including all accessories, tags,
+and documents.
+3. Send It Back: Ship your return using the instructions provided in your return authorization email.
+You may use the carrier or shipping method recommended in that email.
+Refund Process
+Inspection: Once we receive your return, we'll inspect the item to ensure it meets our return criteria.
+Refund Timing: After approval, your refund will be processed. It typically takes [Up to 7 business
+days] for the refund to appear on your original payment method, depending on your bank or payment
+provider.
+Exchanges
+If you would like to exchange your item for a different size, color, or product, contact us at [Support
+Email] and we will help you with a quick exchange.
+Non-Returnable Items
+For hygiene and safety reasons, some items are not eligible for return. These products will be clearly
+marked as non-returnable on their product pages.
+Questions?
+Visit our FAQs page at [FAQ Page URL] or contact our customer service team.
+Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+
+
+===== PAGE 18 =====
+
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 19 =====
+
+Shipping Policy Template
+At [Your Store Name], we are committed to providing an exceptional shopping experience for our
+customers, including clear and straightforward shipping policies. We offer free shipping on all orders
+within [List of Countries or Regions].
+Shipping Locations
+This shipping policy applies to orders shipped within [List of Countries or Regions].
+Delivery Times
+Below are the estimated delivery times for all packages:
+Order cutoff time: [Cutoff Time and Time Zone]. Orders placed after this time will be processed the
+next business day, which may add an extra day to the delivery estimate.
+Order handling time: [Handling Time Range] (e.g., 1-2 business days, Monday to Friday). Once your
+order is processed, it will be shipped by one of our trusted carriers.
+Transit time: [Transit Time Range] (e.g., 6-8 business days, Monday to Friday).
+Estimated delivery time: [Total Estimated Delivery Range] (e.g., 7-10 business days).
+Carrier Services
+We partner with the following reliable carriers for deliveries within [Applicable Countries or Regions]:
+[List of Carriers, e.g., USPS, UPS, FedEx].
+Shipping Costs
+Free Shipping: All orders within [List of Countries or Regions] qualify for free shipping, with no
+minimum order requirement.
+Paid Shipping (if applicable): For destinations outside our free shipping zones, shipping costs will be
+calculated and displayed at checkout.
+Delivery Issues
+
+===== PAGE 20 =====
+
+If you experience any issues with your delivery, such as delays or lost packages, please contact our
+customer service team immediately. We are here to assist you and ensure your order arrives safely
+and on time.
+Tracking Your Order
+Once your order has been shipped, you will receive an email notification containing a tracking
+number. You can monitor your package's journey on our [Order Tracking Page URL].
+Questions?
+Visit our FAQs page at [FAQ Page URL] or contact our customer service team.
+Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 21 =====
+
+Privacy Policy Template
+Last updated: [Month Day, Year]
+This Privacy Policy describes how [Your Store Name] ("we," "us," or "our") collects, uses, and
+discloses your personal information when you visit or make a purchase from [Your Website URL] (the
+"Site") or otherwise communicate with us (collectively, the "Services").
+Please read this Privacy Policy carefully.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other
+operational, legal, or regulatory reasons. We will post the updated version on the Site and revise the
+"Last updated" date.
+How We Collect and Use Your Personal Information
+To provide and improve our Services, we collect personal information from various sources, as
+described below. We may use your information to communicate with you, process orders, comply
+with legal obligations, enforce our terms of service, and protect our users and business.
+What Personal Information We Collect
+Information You Provide Directly:
+- Contact details (name, address, phone number, and email).
+- Order details (billing/shipping addresses, payment confirmation).
+- Account information (username, password, security details).
+- Customer support communications.
+Information Collected Automatically:
+We automatically collect certain data about your use of our Site using cookies and similar
+technologies (device, browser, IP address, and usage analytics).
+Information from Third Parties:
+We may receive information from vendors, service providers, or social media platforms that help us
+operate the Site and Services.
+
+===== PAGE 22 =====
+
+How We Use Your Personal Information
+- To process orders and deliver products or services.
+- To send account, order, or policy-related communications.
+- To provide customer service and support.
+- For marketing and advertising purposes (where permitted by law).
+- For fraud detection and security purposes.
+- To comply with legal and regulatory requirements.
+Cookies
+We use cookies and similar tracking technologies to improve user experience, run analytics, and
+personalize content. You can control cookies through your browser settings, but disabling them may
+affect functionality.
+How We Disclose Personal Information
+We may share personal information with:
+- Service providers and vendors performing functions on our behalf.
+- Business and marketing partners.
+- Affiliates within our corporate group.
+- Government authorities or regulators where required by law.
+We do not sell or share sensitive personal information without your consent.
+Third-Party Websites and Links
+Our Site may include links to third-party websites not operated by us. We are not responsible for their
+content, policies, or practices. Please review their privacy policies before providing personal
+information.
+Children's Data
+
+
+===== PAGE 23 =====
+
+Our Services are not intended for children, and we do not knowingly collect personal information from
+minors. If you believe your child has shared data with us, please contact us to request deletion.
+Security and Retention of Your Information
+We implement security measures to protect your information but cannot guarantee complete security.
+We retain data as long as necessary to fulfill legal, contractual, or operational obligations.
+Your Rights
+Depending on your location, you may have rights to:
+- Access, correct, or delete your personal information.
+- Request data portability.
+- Restrict or object to processing.
+- Withdraw consent.
+- Lodge a complaint with a data protection authority.
+To exercise your rights, contact us at [Support Email]. We may require verification of identity before
+processing your request.
+International Users
+Your personal information may be transferred, stored, and processed outside your country of
+residence, subject to applicable data protection laws.
+Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 24 =====
+
+Terms of Service Template
+This Terms of Service document outlines the conditions under which [Your Store Name] provides
+access to its website and services.
+Overview
+This website is operated by [Your Store Name]. Throughout the site, the terms "we," "us," and "our"
+refer to [Your Store Name]. [Your Store Name] offers this website, including all information, tools, and
+services available from this site to you, the user, conditioned upon your acceptance of all terms,
+conditions, policies, and notices stated here.
+By visiting our site and/or purchasing something from us, you engage in our "Service" and agree to
+be bound by these Terms of Service, including those additional terms and policies referenced herein
+or available by hyperlink. These Terms apply to all users of the site, including browsers, vendors,
+customers, and contributors of content.
+Please read these Terms carefully before using our website. By accessing or using any part of the
+site, you agree to be bound by these Terms. If you do not agree, you may not access the website or
+use any services.
+1. Online Store Terms
+By agreeing to these Terms, you confirm that you are at least the age of majority in your country of
+residence or have consent from a parent or guardian. You may not use our products for any illegal
+purpose or violate any laws in your jurisdiction. Any breach of these Terms will result in immediate
+termination of your services.
+2. General Conditions
+We reserve the right to refuse service to anyone for any reason at any time. Your content (excluding
+credit card data) may be transferred unencrypted over networks. Credit card information is always
+encrypted during transfer.
+3. Accuracy, Completeness, and Timeliness of Information
+We are not responsible if information on this site is inaccurate, incomplete, or outdated. The material
+is provided for general information only and should not be solely relied upon.
+
+===== PAGE 25 =====
+
+4. Modifications to the Service and Prices
+Prices for products are subject to change without notice. We reserve the right to modify or
+discontinue the Service at any time without notice.
+5. Products or Services
+Certain products or services may be available exclusively online. These products may have limited
+quantities and are subject to return or exchange only according to our Return Policy.
+6. Accuracy of Billing and Account Information
+We reserve the right to refuse or cancel any order. You agree to provide accurate and up-to-date
+purchase and account information for all transactions.
+7. Optional Tools
+We may provide access to third-party tools "as is" without warranties. Your use of optional tools is
+entirely at your own risk.
+8. Third-Party Links
+Third-party links on this site may direct you to websites not affiliated with us. We are not responsible
+for the content or accuracy of third-party materials or websites.
+9. User Comments and Submissions
+By submitting feedback, comments, or ideas, you grant us permission to use and distribute them
+without restriction. You agree not to submit unlawful, defamatory, or harmful material.
+10. Personal Information
+Your submission of personal information is governed by our Privacy Policy.
+11. Errors, Inaccuracies, and Omissions
+We reserve the right to correct any errors or omissions and to change or update information at any
+time without prior notice.
+
+
+===== PAGE 26 =====
+
+12. Prohibited Uses
+You are prohibited from using the site or its content for unlawful purposes, to violate rights, distribute
+malware, or engage in any prohibited activities described herein.
+13. Disclaimer of Warranties; Limitation of Liability
+We do not guarantee uninterrupted or error-free service and shall not be held liable for any damages
+resulting from your use of our website or services.
+14. Indemnification
+You agree to indemnify and hold harmless [Your Store Name] and its affiliates from any claims
+arising from your use of the website or breach of these Terms.
+15. Severability
+If any provision of these Terms is deemed unlawful or unenforceable, the remaining provisions shall
+remain valid and enforceable.
+16. Termination
+These Terms remain effective unless terminated by either party. We may terminate access
+immediately if you breach these Terms.
+17. Entire Agreement
+These Terms, along with our other posted policies, constitute the entire agreement between you and
+[Your Store Name].
+18. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of [Country or State].
+19. Changes to Terms of Service
+
+
+===== PAGE 27 =====
+
+You can review the most current version of these Terms at any time on this page. We reserve the
+right to modify these Terms by posting updates to our website.
+20. Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 28 =====
+
+Billing Terms & Conditions Template
+This Billing Terms and Conditions document outlines the payment and billing practices for [Your Store
+Name].
+1. Accepted Payment Methods
+At [Your Store Name], we offer a variety of secure payment options to ensure a smooth and
+convenient shopping experience. We accept the following payment methods:
+- Credit & Debit Cards: [e.g., Visa, MasterCard, American Express]
+- PayPal
+- Afterpay (where applicable)
+- Apple Pay & Google Pay
+- Bank Transfers (for bulk orders - contact us for details)
+All payments are processed in [Currencies Accepted, e.g., United States Dollars (USD) or Euros
+(EUR)].
+2. Payment Processing
+- Payments must be completed at the time of purchase.
+- Orders will not be processed or shipped until full payment has been received.
+- If a payment is declined or fails, the order will not be confirmed.
+3. Pricing & Currency
+- All prices listed on [Your Store Name or Website] are in [Accepted Currencies].
+- Prices are subject to change without notice.
+- Any applicable taxes and shipping fees will be calculated at checkout.
+4. Secure Payment Processing
+- [Your Store Name] uses SSL encryption and trusted payment gateways to ensure your
+transactions are secure.
+- We do not store your credit card or payment details.
+
+===== PAGE 29 =====
+
+5. Refunds & Chargebacks
+- Refunds are processed according to our Refund & Return Policy.
+- Unauthorized chargebacks will be disputed.
+- If you experience any issues, please contact us first at [Support Email].
+6. Fraud Prevention
+- [Your Store Name] reserves the right to cancel or hold any order suspected of fraud or
+unauthorized activity.
+- Additional identity verification may be requested for high-value transactions.
+7. Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 30 =====
+
+FAQ Template
+Welcome to the [Your Store Name] Frequently Asked Questions (FAQ) page.
+We're here to answer your questions and ensure you have the best shopping experience. If you need
+further assistance, please don't hesitate to contact us.
+Question #1: How long will it take to receive my order?
+Answer: Here are our estimated delivery times:
+- Handling time: [1-2 business days]
+- Transit time: [6-8 business days]
+- Estimated delivery time: [7-10 business days]
+For more details, please refer to our [Shipping Policy URL].
+Question #2: Do you offer free shipping?
+Answer: Yes, we offer free shipping on all orders within [Your Shipping Regions]. For more
+information, please check our [Shipping Policy URL].
+Question #3: Where is [Your Store Name] located?
+Answer: [Your Store Name] is a [Your Country]-based business offering a curated selection of
+high-quality products with shipping available within [Your Shipping Regions].
+Question #4: What if I receive a defective product?
+Answer: If you receive a defective item, we'll replace it at no cost. Please contact us and return the
+item within 30 days. For more information, see our [Return Policy URL].
+Question #5: Can I cancel my order after it's placed?
+Answer: Yes, we offer a 24-hour cancellation window. To cancel your order within this timeframe,
+please contact our support team.
+Question #6: What is your return policy?
+
+===== PAGE 31 =====
+
+Answer: We have a simple and hassle-free return process. For complete details, please visit our
+[Return Policy URL].
+Question #7: When will I get my refund after returning a product?
+Answer: Once we receive and inspect your returned item, your refund will be processed. Refunds
+typically appear on your original payment method within 7 business days. See our [Refund Policy
+URL] for details.
+Question #8: Do you offer any warranties or guarantees on your
+products?
+Answer: Yes, we provide a 30-day warranty on all purchases. For more information, please refer to
+our [Return Policy URL].
+Question #9: How can I contact customer support?
+Answer: You can reach our customer support team through the [Contact Us Page URL] or by
+emailing us at [Support Email].
+Question #10: Do you ship internationally?
+Answer: No, we currently ship exclusively within [Your Shipping Regions].
+Question #11: Do you have a physical store location I can visit?
+Answer: We are an online-only store, allowing us to offer the best prices and widest product
+selection.
+Question #12: Can I place a bulk order for my business or organization?
+Answer: Yes, we accept bulk orders. Please contact our customer support team for details.
+Question #13: What is the process for exchanging a product?
+Answer: For detailed information about product exchanges, please refer to our [Return Policy URL].
+
+
+===== PAGE 32 =====
+
+Question #14: How can I track my order?
+Answer: You can track your order through the [Track Order Page URL] on our website.
+Contact Information
+Store Name: [Your Store Name]
+Address: [Your Business Address]
+Email: [Support Email]
+Phone: [Support Phone Number]
+Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
+Response Time: We aim to reply within [1-2 business days].
+
+
+===== PAGE 33 =====
+
+APPENDIX B - High-Risk Mistakes
+Common mistakes that lead to immediate rejection:
+- Duplicate policy pages
+- Virtual phone numbers
+- Fake or new socials
+- Trustpilot below 3.0
+- Health or outcome claims
+- Rushing reviews
+
+
+===== PAGE 34 =====
+
+Recommended Tool: GMC Scout
+GMC Scout is the AI-powered compliance scanner built specifically for Shopify and Google Merchant
+Center stores.
+- Scan your store before submitting to Google
+- Spot inconsistencies, broken trust signals, and risky metadata
+- Used by 500+ live stores across eCommerce
+Learn more at: https://gmcscout.com
+
+
+===== PAGE 35 =====
+
+Join the Free GMC HELP Skool
+ Community
+The leading free Google Merchant Center support hub online.
+- Weekly approval audits
+- Fix walkthroughs
+- Peer support from compliant store owners
+Join now: https://www.skool.com/gmc-help

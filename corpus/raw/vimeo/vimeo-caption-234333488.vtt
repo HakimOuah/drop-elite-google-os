@@ -1,0 +1,425 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:03.040
+Dans cette vidéo, nous allons voir comment correctement
+
+2
+00:00:03.460 --> 00:00:05.640
+créer du contenu pour vos catégories,
+
+3
+00:00:05.670 --> 00:00:08.760
+mais également pour votre blog d'un point de vue technique.
+
+4
+00:00:09.040 --> 00:00:10.680
+Alors, dans un premier temps déjà,
+
+5
+00:00:10.680 --> 00:00:12.600
+vous pouvez bien entendu regarder ce site
+
+6
+00:00:12.760 --> 00:00:13.840
+internet, voir comment il est fait.
+
+7
+00:00:13.840 --> 00:00:15.440
+Comme vous pouvez le voir, on met toujours une petite
+
+8
+00:00:15.440 --> 00:00:17.200
+description au début, d'accord?
+
+9
+00:00:17.200 --> 00:00:19.960
+Avec, bien entendu, le fameux fil d'Ariane.
+
+10
+00:00:19.960 --> 00:00:22.160
+Généralement on va mettre des produits,
+
+11
+00:00:22.160 --> 00:00:24.720
+donc forcément essayer de mettre toujours en premier lieu.
+
+12
+00:00:24.720 --> 00:00:26.520
+D'ailleurs, ça n'a pas pas été le cas et on va devoir
+
+13
+00:00:26.520 --> 00:00:29.600
+corriger les best sellr en premier parce que veux que c'est
+
+14
+00:00:29.600 --> 00:00:31.200
+cette page qui va que vous cherchez à manquer,
+
+15
+00:00:31.660 --> 00:00:34.480
+mettez les meilleurs produits, sinon forcément,
+
+16
+00:00:34.700 --> 00:00:37.080
+les internautes pu vite se barrer quand, une fois le
+
+17
+00:00:37.080 --> 00:00:39.800
+but, ça va être de répondre correctement à la
+
+18
+00:00:39.800 --> 00:00:40.920
+recherche utilisateur.
+
+19
+00:00:41.350 --> 00:00:42.400
+Ensuite, également,
+
+20
+00:00:42.510 --> 00:00:44.600
+vous avez la possibilité de créer une description
+
+21
+00:00:45.260 --> 00:00:47.160
+si qui d'ailleurs n'est pas absolument pas
+
+22
+00:00:47.160 --> 00:00:48.520
+optimisée, comme on peut voir.
+
+23
+00:00:48.520 --> 00:00:50.560
+Mais encore une fois, en règle de 80,
+
+24
+00:00:50.560 --> 00:00:53.480
+c'est à dire que là je voulais vous montrer une description
+
+25
+00:00:54.100 --> 00:00:57.040
+qui n'est pas optimisée parce que quand vous y retournerez
+
+26
+00:00:57.160 --> 00:00:58.560
+dessus, vous allez voir justement la différence.
+
+27
+00:00:58.560 --> 00:00:59.880
+Dans tous les cas, ça le voit dans le module contenu.
+
+28
+00:01:00.150 --> 00:01:01.360
+Mais d'un point de vue technique,
+
+29
+00:01:01.360 --> 00:01:04.080
+il vous faut également pouvoir manquer une description du
+
+30
+00:01:04.080 --> 00:01:05.880
+coup en bas de vos catégories.
+
+31
+00:01:06.060 --> 00:01:07.840
+Il y a deux manières de l'afficher d'un point de vue
+
+32
+00:01:07.840 --> 00:01:09.560
+technique, soit vous mettez tout simplement le texte comme
+
+33
+00:01:09.560 --> 00:01:12.760
+ça, en respectant bien du coup les la hiérarchie des titres,
+
+34
+00:01:13.190 --> 00:01:15.800
+soit vous pouvez également le mettre en forme d'accordéon.
+
+35
+00:01:16.090 --> 00:01:17.360
+C'est tout à fait possible.
+
+36
+00:01:17.640 --> 00:01:19.880
+L'accordéon n'est pas considéré du tout comme du black
+
+37
+00:01:19.940 --> 00:01:20.960
+at chez Google.
+
+38
+00:01:21.310 --> 00:01:23.440
+Donc n'hésitez pas si votre contenu est très long.
+
+39
+00:01:23.490 --> 00:01:26.000
+D'ailleurs, je vous recommande de faire du long contenu à le
+
+40
+00:01:26.000 --> 00:01:27.400
+mettre en accordéon.
+
+41
+00:01:27.620 --> 00:01:29.760
+Je vois beaucoup de sites qu'ils le mettent en partie caché.
+
+42
+00:01:29.870 --> 00:01:32.440
+Parfois, ça passe parfois ça passe pas sur pareil.
+
+43
+00:01:32.740 --> 00:01:35.880
+Google le déconseille pour l'instant, ça passe,
+
+44
+00:01:36.070 --> 00:01:39.440
+mais le jour ou Google arrive à détecter ce type de choses.
+
+45
+00:01:39.700 --> 00:01:41.240
+Eh bien, vous allez vous faire pénaliser.
+
+46
+00:01:41.240 --> 00:01:42.520
+Donc moi, ce que je vous recommande,
+
+47
+00:01:42.520 --> 00:01:45.760
+c'est si soit d'afficher le texte brut comme ça,
+
+48
+00:01:45.760 --> 00:01:47.160
+de façon dans tous les cas, para va pire,
+
+49
+00:01:47.160 --> 00:01:48.200
+ça fera rouler la personne,
+
+50
+00:01:48.470 --> 00:01:51.360
+soit si c'est vraiment trop long et bien d'utiliser des
+
+51
+00:01:51.390 --> 00:01:54.360
+accordéons concernant du coup, on va voir l'article de blog.
+
+52
+00:01:54.510 --> 00:01:56.000
+Comment, d'un point de vue technique,
+
+53
+00:01:56.110 --> 00:01:57.360
+vous devez le mettre en place.
+
+54
+00:01:58.520 --> 00:02:00.600
+Alors pour le design, on s'en fiche un peu simplement.
+
+55
+00:02:00.860 --> 00:02:02.320
+Il y a quand même des règles à respecter.
+
+56
+00:02:02.500 --> 00:02:05.240
+Il vous faut un conteneur rapproché un accord.
+
+57
+00:02:05.510 --> 00:02:07.800
+Tous les blogs qui performent très bien au si
+
+58
+00:02:08.380 --> 00:02:10.880
+ont souvent un conteneur autour de
+
+59
+00:02:11.390 --> 00:02:13.400
+800 zéro pixels.
+
+60
+00:02:13.430 --> 00:02:14.840
+Donc le conteneur, c'est tout simplement
+
+61
+00:02:15.060 --> 00:02:16.240
+le conteneur de contenus.
+
+62
+00:02:16.480 --> 00:02:19.680
+Pourquoi? Parce que si vos rédacteurs commencent à mettre du
+
+63
+00:02:19.680 --> 00:02:21.520
+contenu sur ce type de conteneurs, eh bien,
+
+64
+00:02:21.520 --> 00:02:23.120
+il est souvent très optimisé pour mobile,
+
+65
+00:02:23.120 --> 00:02:25.000
+étant donné que sur ordinateur,
+
+66
+00:02:25.000 --> 00:02:26.560
+vous voyez le contenu très condensé.
+
+67
+00:02:26.780 --> 00:02:28.440
+Ça, c'est une première chose. La deuxième chose est
+
+68
+00:02:28.440 --> 00:02:30.840
+d'installer un petit système de sommaire.
+
+69
+00:02:31.280 --> 00:02:33.440
+Alors surpres et je ne n'ai pas de bêtises.
+
+70
+00:02:33.440 --> 00:02:34.960
+J'ai oublié le nom du plug, mais je vais pouvoir vous
+
+71
+00:02:34.960 --> 00:02:35.960
+montrer comment il s'appelle.
+
+72
+00:02:36.210 --> 00:02:38.160
+C'est table des matières.
+
+73
+00:02:38.340 --> 00:02:41.040
+Ça doit être, alors ça ne va pas que le vrai vrai nom.
+
+74
+00:02:41.100 --> 00:02:42.480
+On va cliquer ici sur les scènes.
+
+75
+00:02:42.480 --> 00:02:44.560
+Une évaluation forcément, il va nous mène.
+
+76
+00:02:44.560 --> 00:02:48.440
+Donc c'est le qui WP table off. Content.
+
+77
+00:02:48.950 --> 00:02:51.280
+Donc je vous invite à installer ce petit logiciel qui va
+
+78
+00:02:51.280 --> 00:02:53.200
+vous permettre d'insérer automatiquement.
+
+79
+00:02:53.430 --> 00:02:54.920
+Donc là, si vous allez dans insertion,
+
+80
+00:02:55.270 --> 00:02:57.640
+vous allez pouvoir automatiquement insérer
+
+81
+00:02:57.740 --> 00:02:58.840
+au sein des articles du
+
+82
+00:02:58.840 --> 00:02:59.980
+Coup coup un petit sommaire.
+
+83
+00:02:59.980 --> 00:03:01.480
+Ça paraît, ça fait un petit boost.
+
+84
+00:03:01.780 --> 00:03:04.280
+Si n'hésitez pas du quoi utiliser. Voilà.
+
+85
+00:03:04.280 --> 00:03:07.000
+Donc réer, vous faut quand même des polices assez grosses.
+
+86
+00:03:07.220 --> 00:03:09.480
+Voilà normalement ça, c'est la taille réelle.
+
+87
+00:03:10.040 --> 00:03:12.080
+Pourquoi assez grosse? Parce qu'il faut penser au presbytes
+
+88
+00:03:12.080 --> 00:03:15.240
+tout simplement sur des populations un peu plus âgées.
+
+89
+00:03:15.240 --> 00:03:17.280
+Il faut agrandir le texte pour que ça soit lisible.
+
+90
+00:03:17.620 --> 00:03:20.240
+Encore une fois, n'hésitez pas à mettre des images peut vous
+
+91
+00:03:20.240 --> 00:03:22.200
+rajoutez des images, alors plus vos images seront
+
+92
+00:03:22.200 --> 00:03:23.840
+pertinentes, plus c'est intéressant.
+
+93
+00:03:24.180 --> 00:03:25.600
+Et il vous faut du coup des contenus,
+
+94
+00:03:25.600 --> 00:03:27.600
+généralement un peu super à la concurrence.
+
+95
+00:03:27.840 --> 00:03:29.320
+Alors c'est toujours pareil. L'idée, ce n'est pas forcément
+
+96
+00:03:29.320 --> 00:03:30.400
+de la batter pour bla batter,
+
+97
+00:03:30.510 --> 00:03:32.600
+mais généralement plus vous allez faire des longs contenus.
+
+98
+00:03:32.860 --> 00:03:34.240
+Si bien sûr, c'est intéressant.
+
+99
+00:03:34.880 --> 00:03:36.640
+Alors vous allez pouvoir ranker ça.
+
+100
+00:03:36.640 --> 00:03:37.800
+C'est vraiment d'un point de vue technique.
+
+101
+00:03:37.800 --> 00:03:39.760
+Et toujours, encore une fois, veiller qui un point de vue
+
+102
+00:03:39.760 --> 00:03:43.000
+performance, vous obtenez au moins plus 50 en mobile.
+
+103
+00:03:43.620 --> 00:03:46.440
+Voilà, c'est vraiment un très rapide n'a pas de vue
+
+104
+00:03:46.440 --> 00:03:48.360
+technique, parce que la grosse partie de la construction
+
+105
+00:03:48.360 --> 00:03:50.200
+d'un article, on va le voir dans la partie contenu.
+
+106
+00:03:50.660 --> 00:03:52.120
+Voilà. A tout de suite.

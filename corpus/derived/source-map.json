@@ -1,0 +1,267 @@
+[
+  {
+    "source": "corpus/raw/documents/Fast-Track GMC Approval Framework - 2026 Edition (2).pdf",
+    "derived": "corpus/derived/plain-text/Fast-Track GMC Approval Framework - 2026 Edition (2).txt",
+    "method": "pdftotext_layout"
+  },
+  {
+    "source": "corpus/raw/documents/Google_Ads_Scaling_Framework 2026 Edition (5).pdf",
+    "derived": "corpus/derived/plain-text/Google_Ads_Scaling_Framework 2026 Edition (5).txt",
+    "method": "pdftotext_layout"
+  },
+  {
+    "source": "corpus/raw/documents/gmc_checklist_terry_ecom_2026.pdf",
+    "derived": "corpus/derived/plain-text/gmc_checklist_terry_ecom_2026.txt",
+    "method": "pdftotext_layout"
+  },
+  {
+    "source": "corpus/raw/documents/gmc_policy_templates_2026.pdf",
+    "derived": "corpus/derived/plain-text/gmc_policy_templates_2026.txt",
+    "method": "pdftotext_layout"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231587882.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231587882.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231587893.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231587893.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231587930.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231587930.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231588530.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231588530.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231588620.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231588620.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231663658.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231663658.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231663659.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231663659.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231663690.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231663690.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231663788.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231663788.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-231663822.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-231663822.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232117442.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232117442.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232117523.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232117523.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232117816.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232117816.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232117915.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232117915.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232118754.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232118754.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232118785.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232118785.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-232119122.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-232119122.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234180398.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234180398.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234186329.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234186329.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333488.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333488.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333499.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333499.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333543.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333543.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333561.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333561.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333580.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333580.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333583.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333583.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-237446074.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-237446074.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-239785633.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-239785633.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-239787221.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-239787221.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-239791167.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-239791167.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-239965951.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-239965951.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-240313004.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-240313004.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-240359870.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-240359870.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-240591206.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-240591206.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-240715193.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-240715193.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-244603899.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-244603899.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-245994245.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-245994245.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-245994758.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-245994758.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-246208721.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-246208721.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-246485074.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-246485074.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-246532995.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-246532995.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249143021.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249143021.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249178958.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249178958.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249915990.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249915990.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-262936735.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-262936735.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-306109499.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-306109499.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/youtube/43kJQkuviKY.fr-orig.vtt",
+    "derived": "corpus/derived/plain-text/43kJQkuviKY.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/youtube/hhPBbZZ7qHQ.fr-orig.vtt",
+    "derived": "corpus/derived/plain-text/hhPBbZZ7qHQ.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/youtube/l-XUJ9NTN40.fr-orig.vtt",
+    "derived": "corpus/derived/plain-text/l-XUJ9NTN40.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/canonical/sources/de-6417462fa6547-strategie-muse/1.2MAJ2023-transcription.txt",
+    "derived": "corpus/derived/plain-text/de-6417462fa6547-strategie-muse.txt",
+    "method": "canonical_transcript_copy"
+  }
+]

@@ -1,0 +1,489 @@
+---
+name: shopify-product-optimizer
+description: >-
+  Optimise complètement une fiche produit Shopify importée depuis AliExpress (ou toute source brute).
+  Déclenche dès que l'utilisateur donne un ID produit ou dit "optimise ce produit", "fiche produit",
+  "nouveau produit", ou toute formulation impliquant l'optimisation d'une fiche Shopify.
+  Pipeline complet : titre SEO, copywriting, metafields, prix arrondis, variantes traduites, meta SEO.
+---
+
+# Shopify Product Optimizer — Optimisation fiche produit AliExpress
+
+Ce skill transforme une fiche produit Shopify brute (importée depuis AliExpress ou toute autre source)
+en une fiche complète, optimisée pour le SEO et la conversion.
+Toutes les modifications sont appliquées directement sur Shopify.
+
+---
+
+## [À PERSONNALISER] Configuration boutique
+
+Avant d'utiliser ce skill, vérifiez que ces éléments sont configurés :
+
+- **MCP Shopify** : connecté à votre boutique via `~/.claude/settings.json` (voir SETUP.md)
+- **Nom du MCP** : dans ce skill, les outils MCP sont appelés `mcp__shopify__*` — adaptez selon votre config
+- **Langue cible** : ce skill génère du contenu en **français** — adaptez si besoin
+- **Collections** : remplacez la liste d'exemple par vos vraies collections Shopify (étape 3.5)
+
+---
+
+## Étape 1 — Récupération du produit
+
+Utilise `mcp__shopify__get-product-by-id` avec l'ID fourni.
+
+L'ID peut être fourni sous plusieurs formes :
+- Format GID : `gid://shopify/Product/15656760672630`
+- Numéro seul : `15656760672630`
+
+Récupère : titre, description brute, variantes (IDs, options, prix), images, metafields existants.
+
+---
+
+## Étape 2 — Extraction des specs brutes (AVANT tout remplacement)
+
+⚠️ **Priorité absolue** : avant de modifier la description, extraire toutes les specs utiles.
+La description brute contient des informations qui disparaîtront une fois remplacées.
+
+**Conserver :**
+- Matériaux, dimensions, poids
+- Pièces / applications compatibles
+- Source lumineuse, flux lumineux, surface éclairée (si produit luminaire)
+- Tension, alimentation, interrupteur
+- Nombre de têtes/sources, dimmable ou non
+- Style, finition
+
+**Ignorer / supprimer :**
+- ⛔ Origine pays (Chine, Mainland China…)
+- ⛔ Marque / Brand Name (souvent "NONE", "N/A" ou nom fournisseur)
+- ⛔ Numéros de modèle internes fournisseur
+- ⛔ Codes internes, références fournisseur
+- ⛔ Durée ou conditions de garantie
+- ⛔ Labels AliExpress ("semi_Choice", "Choice", "High-concerned chemical: None")
+
+---
+
+## Étape 3 — Récupération des options de variantes (via GraphQL)
+
+Avant de traduire les variantes, récupère les option IDs pour pouvoir les renommer :
+
+```graphql
+{
+  product(id: "gid://shopify/Product/XXXXX") {
+    options {
+      id
+      name
+      position
+      values
+    }
+  }
+}
+```
+
+Note les IDs (`gid://shopify/ProductOption/XXXXX`) pour l'étape de renommage.
+
+---
+
+## Étape 3.5 — Lecture des images produit + sélection des collections
+
+### 3.5.1 — Lecture des images
+
+**Objectif :** comprendre visuellement le produit pour choisir le bon titre et les bonnes collections.
+
+**Règle :** lire **au minimum 1 image**, **au maximum 3 images**.
+- Commencer par l'image en position 1 (première image du produit)
+- Si elle donne suffisamment d'infos (forme, matière, style, couleur) → s'arrêter là
+- Si le produit est ambigu → lire l'image 2, voire la 3. Ne jamais dépasser 3.
+
+> ⚠️ Note : les URLs CDN Shopify peuvent ne pas être accessibles depuis le sandbox Claude Code.
+> Dans ce cas, se rabattre sur le titre AliExpress + description brute + valeurs de variantes pour déduire le produit.
+
+Après lecture (ou déduction), rédiger un bref descriptif visuel en 1-2 phrases :
+> ex. « Plafonnier LED à spirale multi-têtes, structure métallique dorée ou noire, style design moderne. »
+
+Ce descriptif sert à choisir le titre SEO et les collections.
+
+### 3.5.2 — [À PERSONNALISER] Sélection des collections
+
+À partir du descriptif visuel + specs brutes, sélectionner entre **2 et 5 collections** parmi celles de votre boutique.
+
+**Règles :**
+- Minimum 2, maximum 5 collections
+- Prioriser les collections directement représentatives du produit (type, style, pièce, matière)
+- Ne pas forcer des collections qui ne correspondent pas clairement au produit
+
+**Récupérer les IDs de collections** via GraphQL pour les utiliser dans `collectionsToJoin` :
+
+```graphql
+{
+  collections(first: 10, query: "title:[NOM DE COLLECTION]") {
+    nodes {
+      id
+      title
+    }
+  }
+}
+```
+
+---
+
+## Étape 4 — Génération du contenu
+
+Tout le contenu est en **français** (adapter si autre langue), optimisé SEO, orienté conversion.
+
+### 4.1 [À PERSONNALISER] Titre produit
+
+**Structure recommandée :**
+```
+[Catégorie principale] [Type/Style] – [Descriptif], [Argument clé]
+```
+
+**Règles :**
+- Commencer par la **catégorie principale** de votre boutique (ex : "Plafonnier", "Lampe", "Suspension"…)
+- Suivi du **style ou type** spécifique (ex : "Japonais", "Spirale", "Wabi Sabi", "Design")
+- Après le tiret : descriptif court + **argument de conversion** si pertinent ("5 Coloris", "6 Tailles", "Dimmable")
+- Maximum **70 caractères**
+- **Ton professionnel et SEO-friendly** : éviter les formulations trop techniques ("LED E27 90-260V")
+
+**Exemples de structure :**
+- "Plafonnier LED Spirale – Design Minimaliste Or Mat & Noir"
+- "Lampe Suspension Rotin – Style Bohème, 3 Tailles"
+- "Applique Murale Bois – Wabi Sabi, Blanc Chaud"
+
+> ⚠️ L'ordre compte : la catégorie principale vient en premier pour le SEO.
+
+### 4.2 Titrebloc1 et Titrebloc2
+
+Ce sont des **H2** sur la fiche produit — ils doivent :
+- Contenir des **mots-clés SEO** pertinents pour le produit
+- Être **orientés bénéfice client** : formuler comme une promesse ou un avantage, pas une description froide
+- ⛔ Éviter les titres purement techniques ("LED 28W, installation simple")
+- ✅ Parler du bénéfice ressenti, de l'ambiance créée, de l'émotion
+- Courts, percutants, donnent envie de lire la suite
+
+**Exemples :**
+- "Pierre & Bois : une Ambiance Zen Unique dans votre Intérieur"
+- "Lumière Douce & Chaleureuse pour Votre Salon"
+- "3 Tailles au Choix : le Format Parfait pour Chaque Espace"
+
+### 4.3 Textebloc1 et Textebloc2
+
+- **~130 mots chacun**
+- Écrire pour **donner envie d'acheter** — faire ressentir l'ambiance, projeter le client dans son intérieur
+- Mélange bénéfices émotionnels + caractéristiques techniques habillées
+- **Mettre 2 à 4 termes SEO importants en gras** via `"bold": true` dans le rich_text_field
+- Éviter le keyword stuffing — rester naturel et lisible
+- ⛔ Pas de mention de garantie, marque, ou origine
+
+### 4.4 Spécifications — `custom.specifications`
+
+- Type : `rich_text_field` avec liste à puces (unordered list)
+- Extraire un maximum de specs pertinentes depuis la description brute
+- Format : `Caractéristique : valeur`
+- ⛔ Jamais : garantie, marque, pays d'origine, codes internes
+
+### 4.5 Description courte — `custom.description_courte`
+
+- Type : **`single_line_text_field`** (PAS rich_text)
+- **5 à 15 mots** — mot-clé principal + 1 ou 2 points forts
+- Exemple : "Plafonnier LED spirale or mat, 12 à 42 têtes, lumière neutre"
+
+### 4.6 Avantages — `custom.avantages`
+
+- Type : `list.single_line_text_field`
+- **3 avantages**, **2 à 4 mots chacun** — court et percutant
+- Chaque avantage = un vrai bénéfice, pas une spec technique froide
+- ⛔ Jamais de valeurs numériques brutes (wattage, voltage, cm)
+- ✅ Parler de la matière, du style, du confort, de l'ambiance
+- Exemples validés : "Pierre naturelle", "Lumière douce", "2 finitions bois", "Dimmable télécommande"
+
+### 4.7 Description principale (body HTML)
+
+- **50 à 80 mots** — accroche copywriting courte
+- ⛔ **NE PAS dupliquer textebloc1/textebloc2** — ces blocs apparaissent aussi sur la page
+- Rédiger un texte **différent** des blocs : accrocher sur 1 angle (ambiance, matière, style)
+- `<p>` pour paragraphes, **obligatoirement 2 à 4 `<strong>`** sur les mots-clés SEO
+- ⛔ Pas de garantie, pas de marque, pas d'origine
+
+### 4.8 Meta title
+
+- Format : `[Titre SEO] | [Nom de votre boutique]`
+- **Maximum 60 caractères**
+
+### 4.9 Meta description
+
+- **130 à 160 caractères**
+- Mot-clé principal + bénéfice + appel à l'action implicite
+- ⛔ Jamais : "Livraison rapide garantie", garantie produit, mention marque
+
+### 4.10 Handle (slug URL)
+
+- Format : `[categorie]-[type]-[description]` — tout en minuscules, tirets, sans accents
+- Exemple : `plafonnier-led-spirale-or-mat-noir`
+
+---
+
+## Étape 5 — Calcul des nouveaux prix
+
+**Règle d'arrondi psychologique : multiple de 5 supérieur, moins 0,10 €**
+
+```
+nouveau_prix = (ceil(prix_actuel / 5) × 5) - 0.10
+```
+
+Exemples :
+- 86,90 → 90 - 0,10 = **89,90**
+- 176,90 → 180 - 0,10 = **179,90**
+- 134,90 → 135 - 0,10 = **134,90** (inchangé, déjà conforme)
+- 291,90 → 295 - 0,10 = **294,90**
+
+Calculer le nouveau prix pour **chaque variante** avant d'appliquer.
+
+**Alignement par taille/couleur :** si des variantes ne diffèrent que par la couleur (même taille, même fonctionnalité), elles doivent avoir le **même prix**. Aligner sur le prix le plus haut.
+Exception : si la différence de prix source est > 20€, c'est peut-être un matériau différent → garder des prix distincts.
+
+**compare_at_price : toujours `null`** — aucun prix barré, aucune fausse promotion.
+
+---
+
+## Étape 6 — Application sur Shopify
+
+### 6.1 — `update-product` (tout en un seul appel)
+
+```json
+{
+  "id": "gid://shopify/Product/XXXXX",
+  "title": "Votre titre SEO",
+  "descriptionHtml": "<p>...</p>",
+  "handle": "votre-slug-url",
+  "redirectNewHandle": true,
+  "seo": {
+    "title": "Votre titre SEO | Votre Boutique",
+    "description": "Meta description 130-160 caractères..."
+  },
+  "collectionsToJoin": [
+    "gid://shopify/Collection/XXXXX"
+  ],
+  "metafields": [
+    { "namespace": "custom", "key": "titrebloc1", "type": "single_line_text_field", "value": "..." },
+    { "namespace": "custom", "key": "textebloc1", "type": "rich_text_field", "value": "{...}" },
+    { "namespace": "custom", "key": "titrebloc2", "type": "single_line_text_field", "value": "..." },
+    { "namespace": "custom", "key": "textebloc2", "type": "rich_text_field", "value": "{...}" },
+    { "namespace": "custom", "key": "specifications", "type": "rich_text_field", "value": "{...}" },
+    { "namespace": "custom", "key": "description_courte", "type": "single_line_text_field", "value": "..." },
+    { "namespace": "custom", "key": "avantages", "type": "list.single_line_text_field", "value": "[\"Avantage 1\",\"Avantage 2\",\"Avantage 3\"]" }
+  ]
+}
+```
+
+### 6.2 — `manage-product-variants` (prix + traduction valeurs)
+
+Appel unique avec **toutes les variantes**, incluant :
+- `price` : nouveau prix calculé (aligné par taille)
+- `compareAtPrice` : **toujours `null`**
+- `optionValues` : valeurs traduites dans votre langue cible
+
+**Trier les variantes après mise à jour** par ordre logique :
+- Taille croissante (15cm → 20cm → 30cm)
+- Puis couleur alphabétique dans chaque taille
+- Via PUT `/products/{id}.json` avec `"variants": [{"id": vid, "position": i+1}]`
+
+**Supprimer les options à valeur unique :** si une option n'a qu'une seule valeur (ex : "Éclairage" avec uniquement "Blanc chaud"), la supprimer — ça surcharge inutilement la page produit.
+
+### 6.3 — GraphQL `productOptionUpdate` (renommage noms d'options)
+
+Renommer chaque option en français logique (pas une traduction littérale) :
+
+```graphql
+mutation {
+  productOptionUpdate(
+    productId: "gid://shopify/Product/XXXXX",
+    option: { id: "gid://shopify/ProductOption/XXXXX", name: "Modèle" }
+  ) {
+    product { options { id name } }
+    userErrors { field message }
+  }
+}
+```
+
+**Logique de renommage — regarder les valeurs pour choisir le bon nom :**
+- Valeurs de couleur + nb têtes → **"Modèle"**
+- Valeurs de température lumière / dimmable → **"Éclairage"**
+- Valeurs de couleur simple → **"Couleur"**
+- Valeurs de taille → **"Taille"**
+- Valeurs de matière → **"Matière"**
+
+### 6.4 — [À PERSONNALISER] Metafields filtres + dimensions
+
+Ces metafields alimentent les filtres de collection et l'affichage sur la fiche produit.
+
+#### Filtres — toujours remplir les 4
+
+| Clé | Type | Contenu |
+|---|---|---|
+| `custom.couleur` | `list.single_line_text_field` | Couleurs disponibles dans les variantes |
+| `custom.piece` | `list.single_line_text_field` | Pièces compatibles |
+| `custom.style` | `list.single_line_text_field` | Styles du produit |
+| `custom.materiau` | `list.single_line_text_field` | Matériaux principaux |
+
+**⚠️ Vocabulaire contrôlé — utiliser exactement les mêmes valeurs sur tous les produits**
+pour que les filtres de collection fonctionnent correctement.
+
+#### Couleurs — valeurs standardisées (à adapter à votre catalogue)
+
+| Valeur brute | → Valeur filtre |
+|---|---|
+| Matte Gold, Or mat, Gold, Champagne | → **Doré** |
+| Black, Matte Black, Noir mat | → **Noir** |
+| White, Matte White, Blanc mat | → **Blanc** |
+| Chrome, Silver, Silvery | → **Chromé** |
+| Bronze, Antique Bronze | → **Bronze** |
+| Rose Gold, Pink Gold | → **Rose doré** |
+| Gray, Grey | → **Gris** |
+| Brown, Marron, Walnut | → **Marron** |
+| Beige, Cream, Sand | → **Beige** |
+| Green, Vert | → **Vert** |
+| Blue, Bleu | → **Bleu** |
+| Copper, Cuivre | → **Cuivré** |
+
+#### Pièces — valeurs autorisées (exemple)
+
+Salon · Chambre · Salle à manger · Bureau · Hall d'entrée · Cuisine · Salle de bain · Couloir · Terrasse
+
+#### Styles — valeurs autorisées (exemple)
+
+Design · Moderne · Minimaliste · Vintage · Industriel · Scandinave · Classique · Naturel · Japonais · Art déco · Bohème
+
+#### Matériaux — valeurs autorisées (exemple)
+
+Aluminium · Verre · Bois · Fer · Laiton · Acrylique · Cristal · Tissu · Rotin · Bambou · Acier · Marbre · Résine
+
+#### Dimensions — uniquement si le produit a plusieurs tailles
+
+Si le produit a des variantes de taille différentes :
+→ Créer `custom.dimension` en `rich_text_field` avec une liste à puces, une ligne par taille.
+
+**Format par ligne :**
+```
+[Nom de la taille] : D[diamètre] × H[hauteur] cm – [puissance]W – [surface] m²
+```
+
+⚠️ Ne pas créer `custom.dimension` si le produit n'a qu'une seule taille.
+
+---
+
+## Format rich_text_field
+
+```json
+{
+  "type": "root",
+  "children": [
+    {
+      "type": "paragraph",
+      "children": [
+        { "type": "text", "value": "Texte normal " },
+        { "type": "text", "value": "terme en gras", "bold": true },
+        { "type": "text", "value": " suite du texte." }
+      ]
+    }
+  ]
+}
+```
+
+**Liste à puces (pour `specifications` et `dimension`) :**
+```json
+{
+  "type": "root",
+  "children": [
+    {
+      "type": "list",
+      "listType": "unordered",
+      "children": [
+        { "type": "list-item", "children": [{ "type": "text", "value": "Matière : Aluminium" }] },
+        { "type": "list-item", "children": [{ "type": "text", "value": "Tension : 90-260V" }] }
+      ]
+    }
+  ]
+}
+```
+
+---
+
+## Mode batch — traitement de plusieurs produits
+
+Pour traiter de nombreux produits d'un coup, Claude Code peut générer des scripts Python
+qui appliquent toutes les modifications via l'API REST Shopify.
+
+**Structure d'un script batch :**
+
+```python
+#!/usr/bin/env python3
+import json, urllib.request, urllib.error, time
+
+SHOP = "votre-boutique.myshopify.com"   # [À PERSONNALISER]
+TOKEN = "shpat_VOTRE_TOKEN"              # [À PERSONNALISER]
+H = {"X-Shopify-Access-Token": TOKEN, "Content-Type": "application/json"}
+
+def rest(method, path, body=None):
+    url = f"https://{SHOP}/admin/api/2026-01{path}"
+    data = json.dumps(body).encode() if body else None
+    req = urllib.request.Request(url, data=data, headers=H, method=method)
+    try:
+        with urllib.request.urlopen(req) as r: return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        print(f"  ⚠ HTTP {e.code}: {e.read().decode()[:200]}"); return None
+
+def gql(query, variables=None):
+    url = f"https://{SHOP}/admin/api/2026-01/graphql.json"
+    req = urllib.request.Request(url, data=json.dumps({"query":query,"variables":variables or {}}).encode(), headers=H, method="POST")
+    with urllib.request.urlopen(req) as r: return json.loads(r.read())
+
+def rt_bullets(items):
+    """Génère un rich_text_field en liste à puces"""
+    return json.dumps({"type":"root","children":[{"type":"list","listType":"unordered",
+        "children":[{"type":"list-item","children":[{"type":"text","value":i}]} for i in items]}]})
+
+def rt_multi(paragraphs):
+    """Génère un rich_text_field multi-paragraphes avec support gras"""
+    paras = []
+    for seg_list in paragraphs:
+        children = []
+        for text, bold in seg_list:
+            node = {"type":"text","value":text}
+            if bold: node["bold"] = True
+            children.append(node)
+        paras.append({"type":"paragraph","children":children})
+    return json.dumps({"type":"root","children":paras})
+
+import math
+def rnd(p):
+    """Formule prix : ceil(p/5)*5 - 0.10"""
+    return f"{math.ceil(float(p)/5)*5 - 0.10:.2f}"
+
+# Exemple d'utilisation :
+# rnd("86.90") → "89.90"
+# rnd("176.90") → "179.90"
+```
+
+**Avantage du mode batch :** une fois la structure définie pour votre boutique, Claude Code peut
+remplir les données (copy, prix, metafields) pour des dizaines de produits dans un seul script
+sans intervention manuelle.
+
+---
+
+## Checklist de validation — avant de valider une fiche
+
+- [ ] Titre commence par la catégorie principale, max 70 caractères
+- [ ] Handle en minuscules, sans accents, sans mots vides
+- [ ] body_html 50-80 mots, 2-4 `<strong>`, texte DIFFÉRENT des blocs
+- [ ] titrebloc1 et titrebloc2 orientés bénéfice client (pas specs froides)
+- [ ] textebloc1 et textebloc2 ~130 mots chacun, 2-4 termes en gras
+- [ ] specifications : liste à puces, pas de garantie/marque/origine
+- [ ] description_courte : 5-15 mots
+- [ ] avantages : exactement 3, 2-4 mots, pas de valeurs numériques brutes
+- [ ] Meta title max 60 caractères, format `... | Boutique`
+- [ ] Meta description 130-160 caractères
+- [ ] Prix recalculés avec formule `ceil(p/5)*5 - 0.10`
+- [ ] compare_at_price = null (aucun prix barré)
+- [ ] Variantes triées par taille croissante puis couleur
+- [ ] Noms d'options traduits en français logique
+- [ ] Metafields filtres remplis (couleur, pièce, style, matériau)
+- [ ] Valeurs de filtres dans le vocabulaire contrôlé (cohérence entre produits)

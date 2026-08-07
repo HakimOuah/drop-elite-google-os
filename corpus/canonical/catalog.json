@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "course": {
+    "name_observed": "Drop Elite",
+    "platform": "Skool",
+    "owner": null
+  },
+  "corpus_root": ".",
+  "updated_at": "2026-08-07T23:51:35+02:00",
+  "sources": [
+    {
+      "source_id": "de-6417462fa6547-strategie-muse",
+      "title_observed": null,
+      "title_inferred": "Vue d'ensemble de la stratégie de la muse Shopify",
+      "source_label": "1.2 MAJ 2023",
+      "source_url": "https://d1yei2z3i6k35z.cloudfront.net/585286/6417462fa6547_1.2MAJ2023.mp4",
+      "duration_seconds": 1013.908,
+      "language": "fr",
+      "ingested_at": "2026-08-07T23:51:35+02:00",
+      "transcription_status": "AUTOMATIQUE_CONTEXTUALISEE_NON_RELUE",
+      "brief_status": "SOURCE_PILOTE",
+      "relative_dir": "sources/de-6417462fa6547-strategie-muse",
+      "topics": [
+        "muse Shopify",
+        "SEO on-site",
+        "SEA et Google Ads",
+        "blog et email",
+        "SEO off-site",
+        "affiliation",
+        "retargeting",
+        "delegation",
+        "scaling horizontal"
+      ]
+    }
+  ]
+}

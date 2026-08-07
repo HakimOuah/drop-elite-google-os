@@ -1,0 +1,1317 @@
+WEBVTT
+
+1
+00:00:00.230 --> 00:00:02.520
+Dans cette vidéo, nous allons voir les configurations
+
+2
+00:00:02.710 --> 00:00:05.560
+avancées pour justement obtenir un site qui se charge
+
+3
+00:00:05.560 --> 00:00:09.240
+rapidement et tout simplement avoir un bon score sur le
+
+4
+00:00:09.240 --> 00:00:10.520
+fameux Google page p.
+
+5
+00:00:11.160 --> 00:00:13.160
+Alors, il y a quand même déjà quelques règles avant de voir
+
+6
+00:00:13.160 --> 00:00:16.120
+mon écran, il y a quelques règles à vérifier lorsque
+
+7
+00:00:16.120 --> 00:00:17.280
+vous créez votre site internet.
+
+8
+00:00:17.680 --> 00:00:20.640
+D'accord? La première règle, souvent,
+
+9
+00:00:20.690 --> 00:00:23.200
+quand vous créez votre site internet et c'est le plus
+
+10
+00:00:23.200 --> 00:00:25.960
+importante, qu'est ce qui fait le poids d'un site internet?
+
+11
+00:00:26.060 --> 00:00:27.200
+Ce sont les images.
+
+12
+00:00:27.670 --> 00:00:32.080
+Donc voici les règles à respecter, quoi qu'il en coûte,
+
+13
+00:00:32.220 --> 00:00:34.200
+ne jamais utilisé de points pg,
+
+14
+00:00:34.340 --> 00:00:36.000
+à moins que vous ayez une image en transparence.
+
+15
+00:00:36.140 --> 00:00:38.280
+Et encore aujourd'hui, vous avez format wep,
+
+16
+00:00:39.120 --> 00:00:42.600
+utiliser de coup des images JPEG correctement redimensionnée
+
+17
+00:00:42.600 --> 00:00:44.320
+par rapport à ce qu'on appelle le conteneur.
+
+18
+00:00:44.460 --> 00:00:46.280
+Qu'est ce que le conteneur c'est tout simplement
+
+19
+00:00:46.820 --> 00:00:48.240
+là ou ça s'affiche votre image.
+
+20
+00:00:48.380 --> 00:00:50.600
+Il faut que votre image soit correctement dimensionnée,
+
+21
+00:00:50.600 --> 00:00:52.080
+qu'elle soit pas plus grande et que ça ne soit pas votre
+
+22
+00:00:52.080 --> 00:00:54.480
+navigateur qu'il est redimensionnée.
+
+23
+00:00:54.630 --> 00:00:56.760
+Donc vous utilisez du JPEG pour tous vos logo.
+
+24
+00:00:57.180 --> 00:00:59.080
+Ça, encore une fois, normalement,
+
+25
+00:00:59.080 --> 00:01:00.360
+on a dû le voir dans le module précédent,
+
+26
+00:01:00.360 --> 00:01:02.680
+mais utiliser le point svg.
+
+27
+00:01:02.680 --> 00:01:04.760
+Le svg est un format vectoriel très léger.
+
+28
+00:01:05.130 --> 00:01:07.680
+C'est aujourd'hui indispensable pour votre logo.
+
+29
+00:01:08.950 --> 00:01:12.800
+Vous avez des outils sur Shopify et sur wordpres qui vous
+
+30
+00:01:12.800 --> 00:01:15.920
+permettre d'utiliser et de compresser automatiquement vos
+
+31
+00:01:15.980 --> 00:01:17.720
+images et de les convertir en wep.
+
+32
+00:01:18.020 --> 00:01:19.880
+On va voir ça tout de suite chez nous du coup.
+
+33
+00:01:19.880 --> 00:01:21.480
+Donc on se retrouve sur mon écran.
+
+34
+00:01:22.190 --> 00:01:23.840
+Vous avez un petit plugin qui
+
+35
+00:01:23.920 --> 00:01:25.160
+s'appelle i image fail qui est gratuit.
+
+36
+00:01:25.320 --> 00:01:26.480
+Alors le plugin en soit est gratuit,
+
+37
+00:01:26.870 --> 00:01:29.160
+mais il faut payer un abonnement à la suite pour
+
+38
+00:01:29.830 --> 00:01:31.400
+pour optimiser les images.
+
+39
+00:01:31.620 --> 00:01:33.840
+Moi, je vous recommande alors ça dépend votre.
+
+40
+00:01:33.980 --> 00:01:37.600
+Si votre site a vraiment des photos très qualitatives et qui
+
+41
+00:01:37.640 --> 00:01:39.080
+a besoin d'avoir des photos qualitatives,
+
+42
+00:01:39.080 --> 00:01:40.640
+je s'invite à mettre le mode normal.
+
+43
+00:01:41.140 --> 00:01:45.560
+Si votre site a des des photos, on va dire traditionnelles,
+
+44
+00:01:45.630 --> 00:01:47.040
+vous mettez sur agressif,
+
+45
+00:01:47.390 --> 00:01:48.680
+évitez d'utiliser le mode ultra
+
+46
+00:01:48.680 --> 00:01:49.800
+parce que ce n'est pas intéressant.
+
+47
+00:01:50.100 --> 00:01:51.720
+On va du coup cliquer sur optimiser
+
+48
+00:01:51.720 --> 00:01:53.160
+automatiquement les images envoyées.
+
+49
+00:01:53.160 --> 00:01:55.320
+On va bien entendu conserver une copie des images.
+
+50
+00:01:56.030 --> 00:01:58.360
+Bien sûr, les données existent, non, on s'en fiches.
+
+51
+00:01:59.180 --> 00:02:02.160
+On va du coup faire créer des versions webp de vos images et
+
+52
+00:02:02.160 --> 00:02:05.200
+afficher les images au format wep sur le site en utilisant
+
+53
+00:02:05.200 --> 00:02:06.240
+des factures pictures.
+
+54
+00:02:06.780 --> 00:02:09.960
+Si vous avez un CDN, utiliser le CDN, d'ailleurs le CDN,
+
+55
+00:02:09.960 --> 00:02:12.440
+il faut utiliser des cd et on va, on va le faire.
+
+56
+00:02:12.440 --> 00:02:14.760
+La configuration va voir juste après ce que c'est.
+
+57
+00:02:15.910 --> 00:02:18.320
+Ensuite, on va aller dans l'optimisation de masse et on va
+
+58
+00:02:18.320 --> 00:02:20.720
+tout simplement lancer l'optimisation de masse.
+
+59
+00:02:21.030 --> 00:02:23.960
+Donc là, on devrait arriver à l'optimisation de masse.
+
+60
+00:02:23.960 --> 00:02:26.120
+Et puis tout simplement vous cliquer ici sur image,
+
+61
+00:02:26.950 --> 00:02:29.840
+fame hall et on lance donc là, ça va lancer un processus.
+
+62
+00:02:30.020 --> 00:02:31.160
+Si vous êtes sur Shopify,
+
+63
+00:02:31.660 --> 00:02:34.640
+il y a également deselles qui vous permettent de faire ça.
+
+64
+00:02:34.980 --> 00:02:37.760
+Ce n'est pas du tout spécifique avoir presse au commerce.
+
+65
+00:02:38.330 --> 00:02:40.960
+Voici déjà la première astuce de performance,
+
+66
+00:02:40.960 --> 00:02:43.400
+veiller du coup à que toutes vos images soient
+
+67
+00:02:43.820 --> 00:02:45.000
+en point webp.
+
+68
+00:02:45.270 --> 00:02:46.800
+Donc, évitez le pg moi,
+
+69
+00:02:46.800 --> 00:02:49.560
+je ne veux pas avoir de pg sur vos sites et vous utiliser du
+
+70
+00:02:49.560 --> 00:02:52.880
+coût du JP qui vont être transformés en webp le pg,
+
+71
+00:02:52.880 --> 00:02:54.400
+c'est uniquement si vous faites de la transparence,
+
+72
+00:02:54.400 --> 00:02:55.960
+mais je ne vois pas pourquoi vous aurez de la
+
+73
+00:02:55.960 --> 00:02:57.080
+transparence sur votre site internet.
+
+74
+00:02:57.740 --> 00:03:00.680
+La deuxième astuce on en a parlé juste avant.
+
+75
+00:03:00.680 --> 00:03:02.040
+Ça va être d'utiliser un CDN.
+
+76
+00:03:02.220 --> 00:03:03.360
+Si vous êtes sur Shopify et
+
+77
+00:03:03.360 --> 00:03:04.520
+bonne nouvelle, vous en avez déjà.
+
+78
+00:03:04.750 --> 00:03:07.880
+Veillez simplement à ce que ce CDN soit utilisé.
+
+79
+00:03:07.900 --> 00:03:08.920
+Si vous êtes sur vos commerce,
+
+80
+00:03:09.500 --> 00:03:12.720
+il faut à la fois utiliser du coup un plugin de cash que je
+
+81
+00:03:12.720 --> 00:03:14.880
+vous recommande qui s'appelle do les perroquet.
+
+82
+00:03:14.880 --> 00:03:16.240
+Encore une fois, on se retrouve sur mon écran.
+
+83
+00:03:16.470 --> 00:03:17.760
+Donc vous allez activer,
+
+84
+00:03:17.760 --> 00:03:19.600
+activer la mise en cache pour les appareils mobiles,
+
+85
+00:03:19.600 --> 00:03:22.160
+créer un fichier de cash à part pour les mobiles.
+
+86
+00:03:22.200 --> 00:03:25.920
+Indiquez le temps de cash sur lequel ça doit être vidé dont
+
+87
+00:03:25.920 --> 00:03:27.080
+vous allez mettre 12 h.
+
+88
+00:03:27.220 --> 00:03:28.960
+Ça, c'est souvent une bonne configuration,
+
+89
+00:03:29.550 --> 00:03:31.480
+optimiser les fichiers CSS.
+
+90
+00:03:31.480 --> 00:03:33.800
+Vous allez faire donc unifier les fichiers CSS,
+
+91
+00:03:33.800 --> 00:03:35.600
+optimiser le chargement du CS, etc.
+
+92
+00:03:36.100 --> 00:03:37.280
+Si vous êtes sur Shopify,
+
+93
+00:03:38.270 --> 00:03:40.320
+vous avez ça va dépendre de vos thèmes.
+
+94
+00:03:40.630 --> 00:03:42.000
+Donc faites attention.
+
+95
+00:03:42.110 --> 00:03:45.760
+Lorsque vous choisissez votre thème de tout simplement bien
+
+96
+00:03:45.830 --> 00:03:49.560
+veiller à ce que la unification du CSS et du
+
+97
+00:03:49.560 --> 00:03:50.800
+g est bien effectif.
+
+98
+00:03:51.170 --> 00:03:52.400
+C'est valable également en so.
+
+99
+00:03:52.420 --> 00:03:53.600
+Je vous montre un peu la configuration.
+
+100
+00:03:53.600 --> 00:03:55.240
+Donc unifier les fichiers js,
+
+101
+00:03:55.710 --> 00:03:57.760
+chargez le javascript en différé et
+
+102
+00:03:57.760 --> 00:03:59.240
+reporter l'exécution javascript.
+
+103
+00:03:59.260 --> 00:04:00.920
+Il faut noter cette petite phrase qui souvent,
+
+104
+00:04:01.010 --> 00:04:03.600
+sinon vous rajoute des conflits ou se
+
+105
+00:04:03.600 --> 00:04:05.160
+trouve cette petite phrase.
+
+106
+00:04:05.160 --> 00:04:08.440
+Normalement, ils vous la mettent quand vous êtes ici, ok?
+
+107
+00:04:08.460 --> 00:04:10.560
+Sur les médias. Donc on va activer les îlots pour les
+
+108
+00:04:10.560 --> 00:04:11.840
+images et les affré vidéo.
+
+109
+00:04:11.980 --> 00:04:14.520
+Ça c'est pareil. Les îlots sur Shopify format,
+
+110
+00:04:14.720 --> 00:04:16.320
+certains des thèmes l'intègrent.
+
+111
+00:04:16.380 --> 00:04:18.280
+Si vous n'avez pas de les îlots,
+
+112
+00:04:18.280 --> 00:04:21.080
+il faut absolument intégrer un plugin de les îlots pareil.
+
+113
+00:04:21.080 --> 00:04:22.160
+Vous pouvez trouver ça normal.
+
+114
+00:04:22.210 --> 00:04:23.600
+C'est des plus génér gratuit qui vous
+
+115
+00:04:23.600 --> 00:04:24.800
+permettre de mettre ça en place.
+
+116
+00:04:25.470 --> 00:04:29.960
+Donc les zilo, elles a ad,
+
+117
+00:04:30.260 --> 00:04:31.760
+ok, sur le pré chargement.
+
+118
+00:04:31.840 --> 00:04:34.240
+Bien sûr, vous allez pré charger le site map dans le site
+
+119
+00:04:34.260 --> 00:04:36.440
+mac qu'on va mettre en place juste,
+
+120
+00:04:37.300 --> 00:04:38.960
+je ne sais pas dans quel ordre vont être la vidéo,
+
+121
+00:04:38.960 --> 00:04:41.480
+mais soit on la Jamie, soit on le mettra en place
+
+122
+00:04:42.210 --> 00:04:43.840
+juste après le pré chargement de lien.
+
+123
+00:04:43.840 --> 00:04:47.120
+Ce n'est pas indispensable concernant les string.
+
+124
+00:04:47.120 --> 00:04:48.840
+Donc ça, c'est la petite configuration secrète.
+
+125
+00:04:49.260 --> 00:04:51.560
+Il faut absolument que vous mettiez vos attributs. Pourquoi?
+
+126
+00:04:51.560 --> 00:04:53.920
+Parce que quand vous faites, je vous montre quand vous
+
+127
+00:04:53.920 --> 00:04:55.880
+faites, je vais me cliquer sur un ni a un bébé.
+
+128
+00:04:55.950 --> 00:04:57.680
+Vous avez ici sur gol shopping.
+
+129
+00:04:57.750 --> 00:05:00.760
+Vous voyez les attributs auxquels attribue p macha.
+
+130
+00:05:00.900 --> 00:05:03.600
+Eh bien, ça, en fait, ça change et ça permet
+
+131
+00:05:03.620 --> 00:05:04.680
+de ne pas utiliser le cash.
+
+132
+00:05:04.950 --> 00:05:06.880
+Donc bien sûr, non, on veut qu'il y ait du cash pour
+
+133
+00:05:06.880 --> 00:05:08.040
+augmenter la performance.
+
+134
+00:05:08.420 --> 00:05:09.800
+Du coup, il faut absolument que vous
+
+135
+00:05:09.800 --> 00:05:11.080
+mettez ce que je viens de copier coller.
+
+136
+00:05:11.080 --> 00:05:12.520
+En fait, c'est le petit,
+
+137
+00:05:13.020 --> 00:05:14.800
+le petit truc que vous avez dans les googles.
+
+138
+00:05:14.860 --> 00:05:16.680
+Mettez ça en cash. Ça vous permet
+
+139
+00:05:16.680 --> 00:05:17.760
+d'avoir des meilleures performances.
+
+140
+00:05:17.760 --> 00:05:18.880
+Et donc un meilleur taux de comme conversion.
+
+141
+00:05:19.140 --> 00:05:20.800
+Ça, c'est une configuration secrète du
+
+142
+00:05:20.800 --> 00:05:21.840
+coup dans base de données.
+
+143
+00:05:21.840 --> 00:05:24.760
+Ça, je vous invite à le mettre en planification mensuelle,
+
+144
+00:05:25.220 --> 00:05:26.680
+la base de données pareil sur Shopify.
+
+145
+00:05:26.680 --> 00:05:29.400
+Normalement, vous n'avez pas ce problème et CDN, bien sûr,
+
+146
+00:05:29.400 --> 00:05:32.640
+n'hésitez pas activer un CDN, l'âge désactive pour la vidéo,
+
+147
+00:05:32.640 --> 00:05:33.720
+mais sinon on active ici.
+
+148
+00:05:34.750 --> 00:05:37.080
+Donc ça, c'est pour la partie utilisation de cash.
+
+149
+00:05:37.470 --> 00:05:39.440
+Vous avez bien entendu d très comme
+
+150
+00:05:39.720 --> 00:05:41.000
+utiliser un thème rapide.
+
+151
+00:05:41.000 --> 00:05:43.400
+Mais ça, normalement, on est déjà dû le voir dans la vidéo
+
+152
+00:05:43.400 --> 00:05:46.280
+précédente, veiller simplement lors de la construction du
+
+153
+00:05:46.280 --> 00:05:50.560
+site à ne pas avoir plus de deux polices différentes.
+
+154
+00:05:50.940 --> 00:05:53.760
+Si vous avez une troisième police, eh bien,
+
+155
+00:05:53.780 --> 00:05:56.080
+ça peut complètement casser votre corps si déjà
+
+156
+00:05:56.080 --> 00:05:57.200
+une police assez lourde, lourde.
+
+157
+00:05:57.200 --> 00:05:58.680
+Dans l'idéal, il faut avoir qu'une police,
+
+158
+00:05:58.820 --> 00:06:00.760
+si vous voulez avoir un petit branding différent,
+
+159
+00:06:00.760 --> 00:06:02.520
+parce que c'est parfois important d'avoir deux polices,
+
+160
+00:06:02.590 --> 00:06:03.680
+bien utiliser de police.
+
+161
+00:06:03.950 --> 00:06:05.240
+Mais s'il vous plaît,
+
+162
+00:06:05.620 --> 00:06:08.280
+pas trois polices au sein d'un site internet.
+
+163
+00:06:08.370 --> 00:06:11.600
+D'ailleurs, en parlant de police et ça sur Shopify,
+
+164
+00:06:11.600 --> 00:06:13.240
+il faut le faire également à vous devoir renseigner.
+
+165
+00:06:13.240 --> 00:06:15.560
+Encore une fois, moi, je ne suis pas expert Shopify.
+
+166
+00:06:15.950 --> 00:06:17.560
+Vous vous allez trouver du coup des tuto.
+
+167
+00:06:17.580 --> 00:06:18.920
+Je vous donne juste ce qu'il faut
+
+168
+00:06:18.920 --> 00:06:19.960
+faire à vous de le mettre en place.
+
+169
+00:06:20.260 --> 00:06:22.840
+Il faut du coup pré charger dans l'idéal pré,
+
+170
+00:06:22.840 --> 00:06:25.400
+charger les polices de Google,
+
+171
+00:06:25.990 --> 00:06:28.080
+soit donc ça va être dans le module de cash.
+
+172
+00:06:28.150 --> 00:06:32.040
+Donc w, vous pouvez insérer ici dans pré chargement,
+
+173
+00:06:32.190 --> 00:06:34.720
+vous pouvez mettre les requêtes DNS, par exemple,
+
+174
+00:06:34.720 --> 00:06:36.280
+si vous utilisez d'ailleurs trust pilot,
+
+175
+00:06:36.620 --> 00:06:39.760
+si vous utilisez d'autres plugins qui se connectent à
+
+176
+00:06:39.760 --> 00:06:42.560
+d'autres serveurs comme Google font pour les polices,
+
+177
+00:06:42.560 --> 00:06:45.040
+eh bien, il faut mettre ici l'url Google font, d'accord,
+
+178
+00:06:45.040 --> 00:06:47.360
+ça va vous permettre de précharge les requêtes.
+
+179
+00:06:47.700 --> 00:06:48.720
+Si pour les polices,
+
+180
+00:06:48.720 --> 00:06:50.320
+généralement votre thème ou en tout cas,
+
+181
+00:06:50.420 --> 00:06:53.360
+que ce soit sur Shopify ou même si vous êtes sur voie
+
+182
+00:06:53.360 --> 00:06:54.720
+presse, vous piez des extensions.
+
+183
+00:06:55.260 --> 00:06:57.280
+Pensez à précharge vos polices.
+
+184
+00:06:57.590 --> 00:06:59.640
+Donc nous, on a dû construire un site sur
+
+185
+00:06:59.640 --> 00:07:00.760
+astra, donc vous avez dû le voir.
+
+186
+00:07:00.950 --> 00:07:02.120
+Donc là, je vous montre ou c.
+
+187
+00:07:02.120 --> 00:07:04.880
+Vous avez donc d'en personnaliser un anglais performant.
+
+188
+00:07:04.880 --> 00:07:06.840
+Si vous pouvez du coup charger les polices Google le fond
+
+189
+00:07:06.840 --> 00:07:07.960
+localement, d'accord?
+
+190
+00:07:07.960 --> 00:07:10.200
+Ça veut dire quoi? Ça veut dire que au lieu de télécharger
+
+191
+00:07:10.200 --> 00:07:12.600
+depuis Google font, vous allez tout simplement copier les
+
+192
+00:07:12.600 --> 00:07:14.840
+polices sur votre site et ensuite l'utilisateur,
+
+193
+00:07:14.940 --> 00:07:16.200
+les télécharger du site,
+
+194
+00:07:16.270 --> 00:07:18.120
+mais les télécharger également du cd.
+
+195
+00:07:18.430 --> 00:07:20.520
+Donc le CDN, on l'a activé juste avant.
+
+196
+00:07:20.520 --> 00:07:22.200
+Mais pour ceux qui ne savent pas ce que c'est,
+
+197
+00:07:22.200 --> 00:07:23.760
+je vous ai montré où on pouvait l'activer,
+
+198
+00:07:23.790 --> 00:07:25.600
+mais je vous ai pas montré qu'est-ce que c'était réellement?
+
+199
+00:07:25.820 --> 00:07:28.400
+Un CDN? En fait, ça vous permet tout simplement de vous
+
+200
+00:07:28.400 --> 00:07:30.600
+connecter au lieu de vous connecter au serveur.
+
+201
+00:07:30.600 --> 00:07:32.080
+Ou je me trouve donc un serveur français.
+
+202
+00:07:32.300 --> 00:07:33.360
+Si vous êtes en Belgique,
+
+203
+00:07:33.510 --> 00:07:35.800
+vous allez pouvoir télécharger rapidement depuis un autre
+
+204
+00:07:35.800 --> 00:07:37.600
+serveur en Belgique, les images,
+
+205
+00:07:37.600 --> 00:07:39.200
+les vidéos, les feuilles de télé, etc.
+
+206
+00:07:39.300 --> 00:07:41.680
+Et ça va du coup, non pas améliorer le chargement pour les
+
+207
+00:07:41.840 --> 00:07:43.120
+français, si vous avez un serveur en France,
+
+208
+00:07:43.190 --> 00:07:47.120
+mais ça va améliorer le chargement pour tous les étrangers
+
+209
+00:07:47.460 --> 00:07:51.000
+et votre score global va du coup être meilleur pour les CDN.
+
+210
+00:07:51.000 --> 00:07:52.880
+Donc moi, je vous recommande rocket CDN parce qu'il
+
+211
+00:07:52.920 --> 00:07:54.800
+s'intègre bien, mais vous avez également cloudflare,
+
+212
+00:07:54.800 --> 00:07:56.760
+qui est très connu moi, ce que je vous recommande si vous
+
+213
+00:07:56.760 --> 00:07:59.680
+êtes sur du coup commerce d'utiliser Roque CDN.
+
+214
+00:07:59.780 --> 00:08:02.920
+Si vous êtes sur Shopify, vous avez déjà un cd inclus.
+
+215
+00:08:03.220 --> 00:08:05.240
+On va voir maintenant des petites astuces. C'est ça.
+
+216
+00:08:05.240 --> 00:08:09.000
+Je pense que ce type de loel existe également sur Shopify.
+
+217
+00:08:09.500 --> 00:08:12.080
+On a un petit plugin en plus de w perroquet que je vous
+
+218
+00:08:12.080 --> 00:08:13.680
+invite à installer, qui s'appelle per.
+
+219
+00:08:14.580 --> 00:08:16.520
+Ça va vous permettre de désactiver de petits
+
+220
+00:08:16.520 --> 00:08:17.880
+trucs embarqués avec wordpress.
+
+221
+00:08:17.880 --> 00:08:19.920
+Voilà donc moi, je supprime généralement tout ça.
+
+222
+00:08:20.180 --> 00:08:22.600
+Ok, je suis encore une fois du détail, mais bon,
+
+223
+00:08:22.810 --> 00:08:24.720
+même si ça va peut être représenter que un
+
+224
+00:08:25.340 --> 00:08:27.280
+je vous invite vraiment à l'utiliser.
+
+225
+00:08:27.620 --> 00:08:28.760
+Ok, encore une fois,
+
+226
+00:08:28.760 --> 00:08:29.920
+on va voir maintenant sur le plugin
+
+227
+00:08:29.920 --> 00:08:30.960
+élémentaire qu'on utilise.
+
+228
+00:08:30.960 --> 00:08:33.240
+Donc le constructeur simple qu'on a vu dans le module trois,
+
+229
+00:08:33.240 --> 00:08:35.880
+je vais vous montrer les options de performance de ce module
+
+230
+00:08:35.880 --> 00:08:38.560
+également pour aller gratter quelques pour centage dans le
+
+231
+00:08:38.560 --> 00:08:39.800
+score qu'on a vu précédemment.
+
+232
+00:08:39.950 --> 00:08:42.960
+Donc vous allez dans réglage élément ça.
+
+233
+00:08:42.960 --> 00:08:45.360
+Normalement, on a dû déjà désactiver les couleurs
+
+234
+00:08:45.390 --> 00:08:46.760
+dans la construction de site.
+
+235
+00:08:47.060 --> 00:08:49.360
+On va aller dans expérience et vous allez cocher
+
+236
+00:08:49.800 --> 00:08:51.280
+amélioration des chargements des ressources,
+
+237
+00:08:51.280 --> 00:08:55.600
+optimisation du chargement du CS et in line font icon, ok,
+
+238
+00:08:55.600 --> 00:08:58.400
+vous allez, é mettre tout ça vérifie bien sûr que votre site
+
+239
+00:08:58.400 --> 00:08:59.880
+n'est pas bequé, mais normalement,
+
+240
+00:08:59.880 --> 00:09:01.960
+ça devrait déjà améliorer les performances.
+
+241
+00:09:02.340 --> 00:09:04.840
+En règle générale, du coup, il faut éviter,
+
+242
+00:09:04.840 --> 00:09:08.520
+bien sûr de surcharger votre Shopify ou vote wordpress en
+
+243
+00:09:08.520 --> 00:09:09.800
+extension, une extension.
+
+244
+00:09:09.890 --> 00:09:11.800
+C'est souvent des scripts en plus.
+
+245
+00:09:12.270 --> 00:09:15.800
+Donc également, si vous voulez éviter d'avoir un site qui se
+
+246
+00:09:15.800 --> 00:09:19.280
+charge lentement veille à ne pas trop abuser en extension,
+
+247
+00:09:19.280 --> 00:09:22.400
+voilà, ça peut largement faire baisser votre score.
+
+248
+00:09:22.660 --> 00:09:24.280
+Un point également non négligeable.
+
+249
+00:09:24.280 --> 00:09:25.640
+Si vous êtes surpres ou commerce,
+
+250
+00:09:25.640 --> 00:09:27.160
+ça va être votre hébergement.
+
+251
+00:09:27.580 --> 00:09:29.840
+Si vous avez fait toutes les étapes précédentes mais que
+
+252
+00:09:29.840 --> 00:09:32.680
+vous n'avez pas un hébergement de qualité, eh bien,
+
+253
+00:09:32.850 --> 00:09:34.360
+forcément ça, n va pas marché.
+
+254
+00:09:34.820 --> 00:09:37.320
+Moi, en tant qu'agent, nous avons un hébergement spécifique.
+
+255
+00:09:37.320 --> 00:09:39.160
+Donc forcément, je ne pourrais pas le vous recommander parce
+
+256
+00:09:39.160 --> 00:09:40.480
+qu'il faut un minimum du site internet.
+
+257
+00:09:40.860 --> 00:09:41.960
+Par contre, si vous êtes sur voir
+
+258
+00:09:41.960 --> 00:09:43.000
+presque au commerce, c'est simple.
+
+259
+00:09:43.420 --> 00:09:45.560
+Il y a un hébergeur que je vous recommande qui s'appelle
+
+260
+00:09:45.760 --> 00:09:48.800
+kin, qui est clairement le meilleur si vous avez votre
+
+261
+00:09:49.000 --> 00:09:50.640
+première boutique sur vos commerces,
+
+262
+00:09:50.730 --> 00:09:52.960
+parce qu'il va avoir un peu tout
+
+263
+00:09:52.960 --> 00:09:54.000
+ce que j'ai dit précédemment.
+
+264
+00:09:54.260 --> 00:09:57.480
+Et il va avoir également des sur couches de performances à
+
+265
+00:09:57.480 --> 00:09:59.840
+lui de tout seul qui va du coup transformer
+
+266
+00:09:59.840 --> 00:10:01.160
+votre commerce en fusée.
+
+267
+00:10:01.230 --> 00:10:03.120
+Nous, au sein de l'agence, on a également toutes ces sur
+
+268
+00:10:03.120 --> 00:10:04.360
+couches sur notre hébergeur,
+
+269
+00:10:04.360 --> 00:10:05.920
+mais on a un hébergeur spécifique agence.
+
+270
+00:10:06.230 --> 00:10:09.240
+Donc je peux vous donner rapidement les fonctionnalités
+
+271
+00:10:09.240 --> 00:10:10.600
+activer côté hébergeur.
+
+272
+00:10:10.750 --> 00:10:14.360
+Vous allez avoir le module de cash objet qu'un module de
+
+273
+00:10:14.360 --> 00:10:15.840
+cash objet pour la base de données.
+
+274
+00:10:15.870 --> 00:10:18.400
+Donc ça également, il va falloir l'activer et vous avez
+
+275
+00:10:18.800 --> 00:10:22.120
+varnish un cash supplémentaire serveur qui permet d'aller
+
+276
+00:10:22.120 --> 00:10:25.000
+exploser les performances même de Shopify.
+
+277
+00:10:25.000 --> 00:10:26.800
+Souvent, on arrive à avoir des meilleurs scores que Shopify
+
+278
+00:10:26.980 --> 00:10:28.880
+grâce à ces optimisations serveur.
+
+279
+00:10:29.070 --> 00:10:31.520
+Donc, si vous vous lancer sur vos commerces et que vous
+
+280
+00:10:31.520 --> 00:10:33.800
+voulez un hébergeur sérieux, allez chez king star.
+
+281
+00:10:33.970 --> 00:10:36.240
+C'est ceux que je connais qui sont les plus sérieux ou
+
+282
+00:10:36.240 --> 00:10:38.000
+sinon, bien entendu, vous pouvez également
+
+283
+00:10:38.000 --> 00:10:39.080
+venir au sein de notre agence.
+
+284
+00:10:39.270 --> 00:10:40.400
+Nous on a des hébergements avec
+
+285
+00:10:40.400 --> 00:10:41.480
+toutes les sur couches des performances.
+
+286
+00:10:41.590 --> 00:10:43.960
+Nous allons également parler des méga menus.
+
+287
+00:10:43.960 --> 00:10:45.880
+Comme vous avez voulu le voir dans le module trois,
+
+288
+00:10:45.900 --> 00:10:49.400
+on a parlé un peu des méga menus, les méga menus rajoutent,
+
+289
+00:10:49.500 --> 00:10:50.960
+une grande expérience utilisateur,
+
+290
+00:10:51.110 --> 00:10:52.480
+mais d'un point de vue performant,
+
+291
+00:10:52.480 --> 00:10:54.720
+cela peut casser vraiment beaucoup votre performance.
+
+292
+00:10:54.720 --> 00:10:56.360
+Donc, si vous êtes sur des petites niches,
+
+293
+00:10:56.420 --> 00:10:58.200
+je vous invite à utiliser les méga menus.
+
+294
+00:10:58.260 --> 00:10:59.880
+Si vous êtes sur des très grandes niches, comme là,
+
+295
+00:10:59.880 --> 00:11:01.080
+on peut le voir sur bébé.
+
+296
+00:11:01.110 --> 00:11:04.120
+Bien entendu, je vous déconseille les méga menus.
+
+297
+00:11:04.540 --> 00:11:07.240
+Les méga menus explosent complètement vos performances.
+
+298
+00:11:07.360 --> 00:11:09.000
+Pourquoi? Parce que les images vous avez des images,
+
+299
+00:11:09.000 --> 00:11:12.160
+même si elles sont chargées grâce au fameux les îlots qu'on
+
+300
+00:11:12.160 --> 00:11:13.240
+a vus avant par la suite.
+
+301
+00:11:13.300 --> 00:11:14.680
+Et bien, dans tous les cas,
+
+302
+00:11:14.700 --> 00:11:16.040
+ça fait plein d'éléments à charger.
+
+303
+00:11:16.470 --> 00:11:18.720
+Site ne peut pas être rapide également,
+
+304
+00:11:18.870 --> 00:11:21.760
+éviter de rajouter beaucoup de scripts dans tous les sens.
+
+305
+00:11:21.940 --> 00:11:23.400
+Si vous devez rajouter des scripts,
+
+306
+00:11:23.400 --> 00:11:25.560
+comme par exemple à nous, on a rajouté un petit chat.
+
+307
+00:11:26.100 --> 00:11:28.880
+Pensez à les mettre dans ce qu'on appelle le fauteur de
+
+308
+00:11:28.880 --> 00:11:30.880
+votre site internet et non pas dans le a.
+
+309
+00:11:31.020 --> 00:11:33.960
+Voilà pour le point performance, les règles générales.
+
+310
+00:11:33.960 --> 00:11:35.160
+Donc, si vous voulez récapituler,
+
+311
+00:11:35.520 --> 00:11:37.920
+utiliser un système de cache, veiller à vos ressources CSS
+
+312
+00:11:37.920 --> 00:11:40.840
+et script, ça c'est valable à la fois sur Shopify et à la
+
+313
+00:11:40.840 --> 00:11:41.920
+fois sur vos commerces.
+
+314
+00:11:41.990 --> 00:11:44.000
+Évitez les méga menu sur les grandes niches,
+
+315
+00:11:44.300 --> 00:11:46.040
+ne pas utiliser plus de police à la fois.
+
+316
+00:11:46.760 --> 00:11:47.760
+Utilisez le laylo,
+
+317
+00:11:48.020 --> 00:11:49.560
+faites surtout attention aux images et
+
+318
+00:11:49.560 --> 00:11:50.600
+limite le point le plus important.
+
+319
+00:11:50.740 --> 00:11:52.800
+Ne pas utiliser pg, utiliser des
+
+320
+00:11:52.990 --> 00:11:56.360
+JPEG et transformer toutes vos images en format wep,
+
+321
+00:11:56.360 --> 00:11:57.560
+le fameux nouveau format.
+
+322
+00:11:57.560 --> 00:11:59.600
+D'ailleurs, il y a un nouveau format qui va bientôt sortir.
+
+323
+00:12:00.300 --> 00:12:01.720
+Je me rappelle plus du nom, mais bien sûr,
+
+324
+00:12:01.720 --> 00:12:02.840
+tenez vous au courant aussi.
+
+325
+00:12:03.030 --> 00:12:06.120
+L'idée des performances et toujours se tenir au courant pour
+
+326
+00:12:06.120 --> 00:12:07.240
+améliorer ce point.
+
+327
+00:12:07.240 --> 00:12:09.040
+Voilà, on a vu ce premier point.
+
+328
+00:12:09.040 --> 00:12:11.120
+Et puis on va rentrer dans le dur dans une nouvelle vidéo
+
+329
+00:12:11.120 --> 00:12:11.600
+juste après.

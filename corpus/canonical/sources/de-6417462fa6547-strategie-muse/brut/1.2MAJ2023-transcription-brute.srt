@@ -1,0 +1,2880 @@
+1
+00:00:00,000 --> 00:00:10,520
+Alors dans cette vidéo, je vais t'expliquer de A à Z le fonctionnement de la stratégie
+
+2
+00:00:10,520 --> 00:00:13,160
+qu'on va appliquer sur nos boutiques à partir du module 2.
+
+3
+00:00:13,400 --> 00:00:16,640
+Donc la stratégie de fond, elle est assez simple, je t'en ai parlé dans la vidéo précédente.
+
+4
+00:00:16,980 --> 00:00:19,700
+L'objectif, c'est de créer ce que j'appelle une muse.
+
+5
+00:00:20,080 --> 00:00:23,920
+Donc le terme de muse, il a été popularisé par Tim Ferriss et il fait référence à un
+
+6
+00:00:23,920 --> 00:00:25,580
+business quasi passif.
+
+7
+00:00:26,000 --> 00:00:29,980
+Je dis quasi passif car un business qui est vraiment full passif à 100% pour un business
+
+8
+00:00:29,980 --> 00:00:31,380
+pour moi, ça n'existe pas vraiment.
+
+9
+00:00:32,340 --> 00:00:36,040
+Nous, nos business, ils vont être quasi passifs dans le sens où il y a quand même au moins
+
+10
+00:00:36,040 --> 00:00:39,140
+une fois par mois où il va falloir faire un petit check, parler un petit peu avec les
+
+11
+00:00:39,140 --> 00:00:41,060
+équipes à qui on aura délégué certaines tâches.
+
+12
+00:00:41,580 --> 00:00:45,000
+Il va falloir entretenir le site, mais pour ça, si tu ne veux pas le faire toi-même, il
+
+13
+00:00:45,000 --> 00:00:48,280
+faudra le déléguer à des personnes qui vont ajouter des backlinks, je reviendrai sur ce
+
+14
+00:00:48,280 --> 00:00:51,580
+terme plus tard, ajouter des contenus de blog, ajouter des nouveaux produits.
+
+15
+00:00:51,920 --> 00:00:54,860
+Donc ces choses-là, c'est soit toi qui les feras, dans ce cas-là, ce ne sera pas un business
+
+16
+00:00:54,860 --> 00:00:58,380
+passif, soit tu les délégueras à certaines personnes, ce que je te recommande de faire,
+
+17
+00:00:58,380 --> 00:01:01,260
+mais dans ce cas-là, également, il faudra gérer ces personnes de temps en temps.
+
+18
+00:01:01,420 --> 00:01:05,600
+Donc moi, sur mes muses personnelles, je passe à peu près deux heures par mois à m'en
+
+19
+00:01:05,600 --> 00:01:08,880
+occuper parce que j'ai vraiment bien délégué toutes mes boutiques, donc j'ai des process
+
+20
+00:01:08,880 --> 00:01:09,660
+qui sont mis en place.
+
+21
+00:01:09,780 --> 00:01:12,780
+Tout ça, on le verra à la fin de la formation quand on aura monté tout le business.
+
+22
+00:01:13,200 --> 00:01:16,880
+Mais j'ai vraiment structuré de A à Z tout ce qu'il y a à faire comme tâche et
+
+23
+00:01:16,880 --> 00:01:20,940
+j'arrive du coup, via un bras droit également dans mon entreprise, à ne passer que deux heures
+
+24
+00:01:20,940 --> 00:01:23,120
+par jour à gérer plus d'une dizaine de boutiques.
+
+25
+00:01:23,480 --> 00:01:25,820
+Après, j'ai d'autres shops avec des associés où je bosse un peu plus dedans.
+
+26
+00:01:25,820 --> 00:01:29,180
+Enfin bref, globalement, mon business est quasi-passif.
+
+27
+00:01:29,560 --> 00:01:33,000
+Donc il fait référence, pour finir la phrase, à un business quasi-passif qui génère de
+
+28
+00:01:33,000 --> 00:01:34,860
+l'argent de façon automatisée.
+
+29
+00:01:35,300 --> 00:01:38,440
+L'idée, c'est d'avoir un business qui est au service de notre vie et pas l'inverse.
+
+30
+00:01:38,580 --> 00:01:39,640
+Donc ça, je pense que tu l'avais compris.
+
+31
+00:01:40,000 --> 00:01:41,620
+J'en ai parlé un petit peu dans la vidéo précédente.
+
+32
+00:01:41,700 --> 00:01:44,920
+Alors voici le schéma de la création d'une muse avec ma méthode.
+
+33
+00:01:45,060 --> 00:01:48,220
+Donc ce schéma, tu l'as peut-être déjà vu sur mes vidéos YouTube ou sur Telegram
+
+34
+00:01:48,220 --> 00:01:49,100
+ou d'autres endroits.
+
+35
+00:01:49,540 --> 00:01:51,440
+Mais je vais te le réexpliquer ici globalement.
+
+36
+00:01:51,600 --> 00:01:53,340
+L'idée, donc ça ici, ça va être nous.
+
+37
+00:01:53,340 --> 00:01:54,900
+Ça, ça va être notre muse Shopify.
+
+38
+00:01:55,140 --> 00:01:56,160
+Donc ça va être la boutique Shopify.
+
+39
+00:01:56,900 --> 00:02:01,100
+Pour commencer à travailler sur la muse, on va d'abord faire ce qu'on appelle le SEO
+
+40
+00:02:01,100 --> 00:02:01,720
+On-Site.
+
+41
+00:02:01,860 --> 00:02:05,980
+Donc le SEO, c'est toutes les techniques de référencement naturel sur Google pour avoir
+
+42
+00:02:05,980 --> 00:02:07,020
+du trafic gratuit.
+
+43
+00:02:07,400 --> 00:02:09,640
+Et le SEO est décomposé en On-Site.
+
+44
+00:02:09,800 --> 00:02:11,760
+Donc toutes les optimisations à l'intérieur du site.
+
+45
+00:02:12,060 --> 00:02:13,940
+Et la partie Off-Site qui est juste ici.
+
+46
+00:02:14,080 --> 00:02:14,840
+Je vais y revenir juste après.
+
+47
+00:02:15,300 --> 00:02:17,760
+C'est toutes les optimisations qui vont être extérieures au site.
+
+48
+00:02:17,960 --> 00:02:20,280
+Donc le SEO On-Site, la partie optimisation, c'est quoi ?
+
+49
+00:02:20,280 --> 00:02:24,620
+C'est déjà trouver une niche qui a du potentiel, une niche qui a des recherches mensuelles
+
+50
+00:02:24,620 --> 00:02:25,060
+sur Google.
+
+51
+00:02:25,480 --> 00:02:29,520
+Par exemple, on va essayer de trouver une thématique sur laquelle il y a 10 000 personnes
+
+52
+00:02:29,520 --> 00:02:31,820
+qui recherchent, admettons le mot-clé, collier pour chien.
+
+53
+00:02:32,260 --> 00:02:35,860
+Si on voit qu'il y a également 5 000 personnes qui recherchent collier pour chat, on voit
+
+54
+00:02:35,860 --> 00:02:38,620
+qu'il y a aussi 20 000 personnes qui recherchent l'e-chair pour chat.
+
+55
+00:02:38,720 --> 00:02:42,900
+Enfin bref, on va se dire, bon, la thématique des objets pour chat et chien, ça peut être
+
+56
+00:02:42,900 --> 00:02:43,300
+intéressant.
+
+57
+00:02:43,300 --> 00:02:46,460
+Je dis ça purement par hasard, mais dans la suite de la formation, je te montrerai
+
+58
+00:02:46,460 --> 00:02:48,740
+comment trouver des thématiques dans le concret.
+
+59
+00:02:49,240 --> 00:02:52,720
+Ça, ça va être la partie SEO de base, trouver une niche qui est intéressante.
+
+60
+00:02:53,060 --> 00:02:56,380
+Ensuite, on va l'optimiser, donc ce que j'appelle On-Site, c'est-à-dire ajouter
+
+61
+00:02:56,380 --> 00:03:00,840
+beaucoup de produits et un produit sur notre site va être ciblé sur un mot-clé.
+
+62
+00:03:01,300 --> 00:03:04,060
+Pareil pour les collections, je ne vais pas préciser ici, mais chaque collection va
+
+63
+00:03:04,060 --> 00:03:06,960
+être optimisée pour se référencer sur un mot-clé Google.
+
+64
+00:03:07,320 --> 00:03:09,660
+Et pareil pour notre homepage, la page principale.
+
+65
+00:03:09,660 --> 00:03:11,200
+Et finalement, pareil pour le blog.
+
+66
+00:03:11,300 --> 00:03:14,640
+En fait, chaque page sera optimisée sur un mot-clé bien précis.
+
+67
+00:03:14,760 --> 00:03:17,740
+Une fois qu'on aura fait toute la structure On-Site, donc à ce moment-là, on aura déjà
+
+68
+00:03:17,740 --> 00:03:21,620
+un site avec des produits qui seront optimisés pour le SEO de façon On-Site.
+
+69
+00:03:21,800 --> 00:03:26,280
+On va partir sur ce qu'on appelle le SEA, donc le SIN en anglais, intelligent.
+
+70
+00:03:26,720 --> 00:03:30,420
+Le SEA, qu'est-ce que c'est ? Ça ressemble au SEO, c'est en fait la partie Google Ads.
+
+71
+00:03:30,620 --> 00:03:35,260
+Donc de l'anglais, ça veut dire Search Engine Advertising, donc publicité pour advertising.
+
+72
+00:03:35,260 --> 00:03:40,040
+Et ce SEA intelligent, il va servir à une chose globalement, c'est de tester au préalable
+
+73
+00:03:40,040 --> 00:03:40,520
+la niche.
+
+74
+00:03:40,660 --> 00:03:44,440
+C'est-à-dire qu'on va envoyer du trafic sur notre boutique via le SEA intelligent, mais
+
+75
+00:03:44,440 --> 00:03:47,920
+sur des produits qui ont été optimisés au préalable sur des mots-clés qui sont recherchés
+
+76
+00:03:47,920 --> 00:03:48,960
+par les utilisateurs de Google.
+
+77
+00:03:49,180 --> 00:03:52,800
+Et on va pouvoir voir rapidement s'il y a de la traction envers notre site, envers la
+
+78
+00:03:52,800 --> 00:03:54,860
+niche et si on peut passer au reste de la méthode.
+
+79
+00:03:54,940 --> 00:03:58,860
+Maintenant, pourquoi on va faire des campagnes SEA intelligents et pas des campagnes manuelles ?
+
+80
+00:03:58,860 --> 00:04:01,780
+Parce qu'en intelligent, on va avoir des coûts par achat qui sont plus faibles.
+
+81
+00:04:01,780 --> 00:04:04,980
+En tout cas, moi, je trouve et d'expérience, je peux te le dire, les CPA sont plus faibles
+
+82
+00:04:04,980 --> 00:04:06,400
+parce que c'est 80-20.
+
+83
+00:04:06,560 --> 00:04:08,220
+Donc ça, je vais le répéter souvent en cours de la formation.
+
+84
+00:04:08,380 --> 00:04:10,600
+Moi, j'ai une philosophie qui est très 80-20.
+
+85
+00:04:10,760 --> 00:04:14,380
+Donc l'Ouap Pareto, si tu ne connais pas, c'est le fait que 80% des résultats proviennent
+
+86
+00:04:14,380 --> 00:04:15,480
+de 20% des actions.
+
+87
+00:04:15,640 --> 00:04:18,940
+Donc l'idée, c'est toujours encore une fois de ne pas être trop perfectionniste et de
+
+88
+00:04:18,940 --> 00:04:20,680
+se focaliser sur ce qui ramène des résultats.
+
+89
+00:04:21,100 --> 00:04:25,540
+Donc les campagnes SEA intelligents, ce n'est pas les campagnes qui vont être les plus optimisées
+
+90
+00:04:25,540 --> 00:04:28,120
+puisque tu ne vas pas pouvoir gérer toi-même le coup par clic, tu ne vas pas pouvoir
+
+91
+00:04:28,120 --> 00:04:30,680
+gérer exactement quel produit mettre en avant, etc.
+
+92
+00:04:30,680 --> 00:04:33,840
+C'est Google avec son intelligence artificielle qui va le faire lui-même.
+
+93
+00:04:34,200 --> 00:04:36,900
+Mais en contrepartie, ça se gère tout seul et c'est quand même très rentable.
+
+94
+00:04:37,000 --> 00:04:39,960
+Donc si tu veux, moi, je préfère gagner un petit peu moins avec une campagne qui va
+
+95
+00:04:39,960 --> 00:04:43,520
+me demander de deux heures par mois à gérer plutôt qu'avoir un petit peu plus de ventes
+
+96
+00:04:43,520 --> 00:04:47,720
+mais devoir passer cinq heures par jour à gérer mes campagnes, à gérer les coups
+
+97
+00:04:47,720 --> 00:04:50,660
+par clic, à gérer l'euroas, à gérer plein d'indicateurs.
+
+98
+00:04:51,040 --> 00:04:52,520
+Ça, c'est la philosophie 80-20.
+
+99
+00:04:52,680 --> 00:04:55,860
+Et enfin, dernièrement, dernière raison pour laquelle on va utiliser du SI intelligent,
+
+100
+00:04:55,860 --> 00:05:00,660
+c'est parce qu'on a 400 euros offerts pour 400 euros dépensés, donc pour toute ouverture
+
+101
+00:05:00,660 --> 00:05:01,420
+de compte Google Ads.
+
+102
+00:05:01,780 --> 00:05:03,240
+Ça, j'y reviendrai dans le module Google Ads.
+
+103
+00:05:03,360 --> 00:05:05,460
+Mais c'est vraiment un avantage qui est très intéressant.
+
+104
+00:05:05,860 --> 00:05:09,040
+Tu vas pouvoir te permettre de dépenser 400 euros entre guillemets dans le vent.
+
+105
+00:05:09,140 --> 00:05:11,900
+Enfin, on ne va pas dépenser dans le vent puisqu'on va s'en servir pour avoir du leverage.
+
+106
+00:05:12,420 --> 00:05:16,240
+Mais le fait de pouvoir dépenser 400 euros offerts, ça te laisse quand même assez de marge
+
+107
+00:05:16,240 --> 00:05:17,920
+pour tester un site sans te ruiner.
+
+108
+00:05:18,040 --> 00:05:20,940
+Donc les campagnes SI intelligentes, elles vont générer des ventes.
+
+109
+00:05:20,940 --> 00:05:22,940
+Et en plus de ça, elles vont ramener du trafic.
+
+110
+00:05:23,280 --> 00:05:26,420
+Et le trafic, c'est un indicateur, un CEO qui apporte de la puissance.
+
+111
+00:05:26,540 --> 00:05:30,220
+Donc ce trafic-là qui va venir des campagnes, il va booster un petit peu tout le travail
+
+112
+00:05:30,220 --> 00:05:32,680
+qu'on avait fait au préalable sur la partie SEO du site.
+
+113
+00:05:32,800 --> 00:05:36,460
+Ce qu'on va faire ensuite, c'est qu'on va construire un blog thématisé sur notre boutique.
+
+114
+00:05:36,880 --> 00:05:39,480
+C'est important sur notre shop qu'on ne soit pas juste là pour vendre des produits.
+
+115
+00:05:39,680 --> 00:05:42,740
+On va également apporter de la valeur aux gens en leur rédigeant des articles de blog
+
+116
+00:05:42,740 --> 00:05:45,140
+qui seront optimisés selon des mots-clés qui seront recherchés.
+
+117
+00:05:45,220 --> 00:05:46,880
+Encore une fois, on ne va pas faire des articles de blog dans le vent.
+
+118
+00:05:47,360 --> 00:05:49,480
+Ces articles de blog, ils vont générer des ventes
+
+119
+00:05:49,480 --> 00:05:51,260
+puisqu'on va attirer des visiteurs sur le site.
+
+120
+00:05:51,660 --> 00:05:53,480
+Certains vont se dire, ça répond à ma question.
+
+121
+00:05:53,600 --> 00:05:56,140
+Mais en même temps, là, je suis sur un site thématisé, il y a des produits qui m'intéressent.
+
+122
+00:05:56,520 --> 00:05:57,120
+Je vais aller voir.
+
+123
+00:05:57,260 --> 00:05:58,280
+Ça, ça va générer des ventes.
+
+124
+00:05:58,580 --> 00:06:00,540
+Ça va également générer des emails
+
+125
+00:06:00,540 --> 00:06:03,580
+puisqu'on va installer ce que j'appelle une pompe à mail sur la partie du blog.
+
+126
+00:06:03,740 --> 00:06:04,660
+Donc une pompe à mail, c'est quoi ?
+
+127
+00:06:04,660 --> 00:06:06,580
+C'est par exemple un pop-up qui va arriver, qui va dire à ton client
+
+128
+00:06:06,580 --> 00:06:11,240
+« Laisse-moi ton email, tu vas avoir 5% de réduction, 10%, un produit gratuit ou quoi que ce soit. »
+
+129
+00:06:11,240 --> 00:06:12,940
+Donc ces emails, on va les récupérer
+
+130
+00:06:12,940 --> 00:06:15,180
+et on va pouvoir générer de l'argent à partir de ces emails.
+
+131
+00:06:15,300 --> 00:06:16,580
+C'est encore une autre source de trafic.
+
+132
+00:06:16,580 --> 00:06:19,340
+Et troisièmement, ce blog, il va générer aussi du trafic
+
+133
+00:06:19,340 --> 00:06:20,700
+du coup qui va venir du blog
+
+134
+00:06:20,700 --> 00:06:23,500
+et ça va du coup booster le SEO on-site
+
+135
+00:06:23,500 --> 00:06:24,980
+et le SEO global de la boutique.
+
+136
+00:06:25,060 --> 00:06:28,180
+Ensuite, on va passer du coup au deuxième gros pilier du SEO.
+
+137
+00:06:28,380 --> 00:06:29,460
+C'est la partie off-site.
+
+138
+00:06:29,620 --> 00:06:31,540
+Donc en gros, la partie off-site du SEO.
+
+139
+00:06:32,000 --> 00:06:33,740
+J'y reviendrai encore une fois en détail dans le module
+
+140
+00:06:33,740 --> 00:06:35,060
+qui sera déjé au SEO off-site.
+
+141
+00:06:35,160 --> 00:06:36,940
+Mais c'est toutes les techniques qu'on va mettre en place
+
+142
+00:06:36,940 --> 00:06:39,200
+à l'extérieur du site pour donner un peu du jus,
+
+143
+00:06:39,240 --> 00:06:40,380
+ce qu'on appelle du jus SEO.
+
+144
+00:06:40,540 --> 00:06:42,420
+C'est de la puissance SEO au site.
+
+145
+00:06:42,780 --> 00:06:45,580
+Sans SEO off-site, même avec du bon SEO on-site,
+
+146
+00:06:45,580 --> 00:06:47,580
+tu n'auras jamais des résultats qui seront intéressants.
+
+147
+00:06:47,860 --> 00:06:49,080
+Il faut vraiment mélanger les deux.
+
+148
+00:06:49,480 --> 00:06:51,780
+Donc trouver des bons mots-clés sur la partie on-site
+
+149
+00:06:51,780 --> 00:06:53,580
+et faire ce qu'on appelle des backlinks
+
+150
+00:06:53,580 --> 00:06:55,120
+pour la partie off-site notamment.
+
+151
+00:06:55,300 --> 00:06:57,620
+Les backlinks, c'est des liens externes vers ton site.
+
+152
+00:06:57,780 --> 00:06:59,160
+Par exemple, toi, tu es un site pour chien.
+
+153
+00:06:59,520 --> 00:07:01,260
+Tu vas aller voir par exemple un autre site
+
+154
+00:07:01,260 --> 00:07:02,280
+qui vend des produits pour chien.
+
+155
+00:07:02,340 --> 00:07:03,380
+Tu vas lui demander de faire un lien
+
+156
+00:07:03,380 --> 00:07:05,520
+sur son site qui redirige vers le chien.
+
+157
+00:07:05,820 --> 00:07:07,100
+C'est ce qu'on appelle un backlinks.
+
+158
+00:07:07,300 --> 00:07:08,120
+C'est reconnu par Google
+
+159
+00:07:08,120 --> 00:07:09,700
+et ça apporte de la puissance.
+
+160
+00:07:09,920 --> 00:07:10,940
+Le SEO off-site,
+
+161
+00:07:10,940 --> 00:07:13,200
+s'il est bien fait sur des sites qui sont intéressants,
+
+162
+00:07:13,320 --> 00:07:14,540
+il va te rapporter du trafic
+
+163
+00:07:14,540 --> 00:07:16,760
+et donc il va booster la partie SEO globale
+
+164
+00:07:16,760 --> 00:07:19,420
+et il va ramener également ce que j'appelle du jus SEO.
+
+165
+00:07:19,780 --> 00:07:20,560
+C'est de la puissance
+
+166
+00:07:20,560 --> 00:07:22,740
+et ça va venir booster un petit peu toutes tes URL
+
+167
+00:07:22,740 --> 00:07:25,460
+en top résultats des recherches sur Google.
+
+168
+00:07:25,620 --> 00:07:26,800
+Une autre chose qu'on va mettre en place
+
+169
+00:07:26,800 --> 00:07:28,260
+qui est hyper hyper importante,
+
+170
+00:07:28,420 --> 00:07:29,680
+c'est la partie affiliation.
+
+171
+00:07:30,220 --> 00:07:32,480
+Pour générer des ventes de façon passive
+
+172
+00:07:32,480 --> 00:07:34,760
+sans non plus dépenser des milliers d'euros en publicité,
+
+173
+00:07:35,240 --> 00:07:36,660
+l'affiliation, c'est une très bonne alternative
+
+174
+00:07:36,660 --> 00:07:38,460
+et c'est ce que je mets en place sur toutes mes boutiques.
+
+175
+00:07:38,460 --> 00:07:39,900
+L'idée, c'est d'aller contacter des marchands
+
+176
+00:07:39,900 --> 00:07:41,540
+qui vendent des produits similaires au chien
+
+177
+00:07:41,540 --> 00:07:43,360
+en affiliation avec Amazon notamment,
+
+178
+00:07:43,840 --> 00:07:44,520
+mais pas forcément,
+
+179
+00:07:44,640 --> 00:07:45,880
+on peut le faire également avec des blogueurs
+
+180
+00:07:45,880 --> 00:07:46,400
+ou quoi que ce soit,
+
+181
+00:07:46,540 --> 00:07:47,280
+mais tout ça, de toute façon,
+
+182
+00:07:47,340 --> 00:07:48,400
+je reviendrai dans le module DJ.
+
+183
+00:07:48,840 --> 00:07:50,080
+Mais l'idée de base, en gros,
+
+184
+00:07:50,140 --> 00:07:51,080
+c'est d'aller contacter des personnes
+
+185
+00:07:51,080 --> 00:07:51,900
+qui font de l'affiliation
+
+186
+00:07:51,900 --> 00:07:53,680
+et de leur proposer de mettre en avant
+
+187
+00:07:53,680 --> 00:07:55,240
+tes produits sur leur site
+
+188
+00:07:55,240 --> 00:07:56,100
+ou leurs réseaux sociaux
+
+189
+00:07:56,100 --> 00:07:57,780
+pour les influenceurs, blogueurs, etc.
+
+190
+00:07:57,980 --> 00:07:59,240
+Donc tout ça, je ne vais pas le présenter
+
+191
+00:07:59,240 --> 00:08:00,120
+pendant des heures ici
+
+192
+00:08:00,120 --> 00:08:01,100
+puisqu'il y a un module DJ,
+
+193
+00:08:01,240 --> 00:08:02,620
+mais c'est un élément qui est hyper important
+
+194
+00:08:02,620 --> 00:08:04,880
+qui va générer donc des ventes en affiliation
+
+195
+00:08:04,880 --> 00:08:05,960
+mais également du trafic
+
+196
+00:08:05,960 --> 00:08:08,420
+qui va encore une fois booster le SEO de la boutique.
+
+197
+00:08:08,520 --> 00:08:09,340
+Et enfin, dernièrement,
+
+198
+00:08:09,600 --> 00:08:10,340
+super important,
+
+199
+00:08:10,540 --> 00:08:12,540
+on va venir recibler les personnes
+
+200
+00:08:12,540 --> 00:08:13,380
+qui ont visité notre site
+
+201
+00:08:13,380 --> 00:08:14,300
+mais qui n'ont pas fait d'achat.
+
+202
+00:08:14,700 --> 00:08:16,140
+Donc c'est ce qu'on appelle le retargeting.
+
+203
+00:08:16,240 --> 00:08:18,280
+On va le faire avec Facebook Ads et Instagram.
+
+204
+00:08:18,600 --> 00:08:19,560
+Alors là, tu es peut-être en train de te dire
+
+205
+00:08:19,560 --> 00:08:20,860
+en général, je crache un peu
+
+206
+00:08:20,860 --> 00:08:21,900
+sur Facebook Ads et Instagram.
+
+207
+00:08:22,120 --> 00:08:23,680
+Alors oui, je crache dessus
+
+208
+00:08:23,680 --> 00:08:25,640
+pour l'acquisition de clients, d'accord ?
+
+209
+00:08:25,640 --> 00:08:27,080
+Je ne vais jamais chercher des nouveaux clients
+
+210
+00:08:27,080 --> 00:08:28,440
+sur Facebook Ads et Instagram.
+
+211
+00:08:28,620 --> 00:08:30,700
+Par contre, j'utilise Facebook Ads et Instagram
+
+212
+00:08:30,700 --> 00:08:32,880
+pour aller recibler des personnes
+
+213
+00:08:32,880 --> 00:08:34,620
+qui sont allées sur mon site sans faire d'achat
+
+214
+00:08:34,620 --> 00:08:36,480
+via les campagnes Google Ads,
+
+215
+00:08:36,660 --> 00:08:38,180
+via le SEO, via le blog,
+
+216
+00:08:38,280 --> 00:08:39,100
+via l'affiliation, etc.
+
+217
+00:08:39,360 --> 00:08:39,920
+Ces personnes-là,
+
+218
+00:08:39,960 --> 00:08:41,040
+c'est des personnes qui sont chaudes,
+
+219
+00:08:41,140 --> 00:08:42,860
+qui ont exprimé une intention de recherche
+
+220
+00:08:42,860 --> 00:08:43,540
+via Google
+
+221
+00:08:43,540 --> 00:08:45,060
+et eux, s'ils n'ont pas fait d'achat,
+
+222
+00:08:45,120 --> 00:08:45,880
+je vais aller les recibler
+
+223
+00:08:45,880 --> 00:08:47,500
+donc avec des campagnes publicitaires
+
+224
+00:08:47,500 --> 00:08:48,760
+en leur proposant des codes promo,
+
+225
+00:08:48,860 --> 00:08:49,240
+par exemple,
+
+226
+00:08:49,400 --> 00:08:50,420
+pour terminer leur panier.
+
+227
+00:08:50,560 --> 00:08:51,580
+Enfin, plein de petites techniques
+
+228
+00:08:51,580 --> 00:08:52,920
+que je te présenterai dans ce module-ci.
+
+229
+00:08:53,320 --> 00:08:54,280
+Et donc ça, ça va générer
+
+230
+00:08:54,280 --> 00:08:55,560
+du trafic, encore une fois,
+
+231
+00:08:55,840 --> 00:08:56,520
+et des ventes.
+
+232
+00:08:56,600 --> 00:08:58,320
+Donc voilà, ça, c'est l'écosystème global.
+
+233
+00:08:58,640 --> 00:09:00,080
+À tout ça, on va ajouter par-dessus
+
+234
+00:09:00,080 --> 00:09:00,860
+des petites techniques,
+
+235
+00:09:01,040 --> 00:09:01,680
+des petits hacks
+
+236
+00:09:01,680 --> 00:09:02,560
+que je vais te présenter également
+
+237
+00:09:02,560 --> 00:09:03,780
+dans le module qui sera des géo-hacks
+
+238
+00:09:03,780 --> 00:09:04,680
+par rapport aux conversions.
+
+239
+00:09:04,920 --> 00:09:05,520
+Et à la fin,
+
+240
+00:09:05,720 --> 00:09:06,580
+une fois que tu as automatisé
+
+241
+00:09:06,580 --> 00:09:07,160
+toutes les tâches
+
+242
+00:09:07,160 --> 00:09:07,960
+qui ont besoin d'un humain
+
+243
+00:09:07,960 --> 00:09:08,760
+et que tu as automatisé
+
+244
+00:09:08,760 --> 00:09:10,320
+toutes les campagnes de pub
+
+245
+00:09:10,320 --> 00:09:10,840
+avec l'IA,
+
+246
+00:09:11,080 --> 00:09:12,140
+avec les campagnes intelligentes,
+
+247
+00:09:12,460 --> 00:09:13,920
+tu vas te retrouver avec une muse
+
+248
+00:09:13,920 --> 00:09:15,420
+qui est entièrement automatisée
+
+249
+00:09:15,420 --> 00:09:16,400
+et qui génère de l'argent
+
+250
+00:09:16,400 --> 00:09:18,140
+de façon quasi passive.
+
+251
+00:09:18,300 --> 00:09:19,300
+Donc les modules de la formation,
+
+252
+00:09:19,460 --> 00:09:20,520
+je vais les reprendre rapidement,
+
+253
+00:09:20,720 --> 00:09:21,280
+mais grosso modo,
+
+254
+00:09:21,480 --> 00:09:22,100
+c'est tous les points
+
+255
+00:09:22,100 --> 00:09:23,180
+que je viens de te présenter ici
+
+256
+00:09:23,180 --> 00:09:24,640
+sur le petit schéma de la muse.
+
+257
+00:09:24,640 --> 00:09:25,580
+Premièrement,
+
+258
+00:09:25,740 --> 00:09:26,780
+donc la recherche de niches.
+
+259
+00:09:27,140 --> 00:09:27,460
+Ensuite,
+
+260
+00:09:27,580 --> 00:09:29,360
+on va passer au SEO on-site.
+
+261
+00:09:29,900 --> 00:09:30,260
+Ensuite,
+
+262
+00:09:30,440 --> 00:09:31,640
+on va avoir un gros module
+
+263
+00:09:31,640 --> 00:09:33,140
+sur tout ce qui va être graphisme,
+
+264
+00:09:33,320 --> 00:09:34,160
+identité de la marque.
+
+265
+00:09:34,260 --> 00:09:35,180
+Ça, c'est hyper important.
+
+266
+00:09:35,360 --> 00:09:35,520
+D'ailleurs,
+
+267
+00:09:35,560 --> 00:09:35,940
+je m'arrête là
+
+268
+00:09:35,940 --> 00:09:36,460
+avant d'aller plus loin.
+
+269
+00:09:36,560 --> 00:09:37,360
+Les modules sont à suivre
+
+270
+00:09:37,360 --> 00:09:38,200
+étape par étape.
+
+271
+00:09:38,320 --> 00:09:39,120
+Donc c'est déjà trié.
+
+272
+00:09:39,200 --> 00:09:39,660
+Il ne faut pas forcément
+
+273
+00:09:39,660 --> 00:09:41,160
+que tu commences par le module 6,
+
+274
+00:09:41,480 --> 00:09:42,280
+SEO off-site,
+
+275
+00:09:42,400 --> 00:09:43,000
+ensuite le blog,
+
+276
+00:09:43,120 --> 00:09:43,920
+ensuite SEO on-site.
+
+277
+00:09:44,040 --> 00:09:44,700
+Je t'invite vraiment
+
+278
+00:09:44,700 --> 00:09:45,740
+à suivre la formation.
+
+279
+00:09:46,060 --> 00:09:47,140
+Déjà, regarde-la une fois
+
+280
+00:09:47,140 --> 00:09:48,040
+sans rien faire,
+
+281
+00:09:48,200 --> 00:09:49,000
+juste en prenant quelques notes,
+
+282
+00:09:49,080 --> 00:09:49,260
+etc.
+
+283
+00:09:49,760 --> 00:09:50,160
+Et ensuite,
+
+284
+00:09:50,280 --> 00:09:51,340
+regarde-la une deuxième fois
+
+285
+00:09:51,340 --> 00:09:52,020
+en appliquant
+
+286
+00:09:52,020 --> 00:09:53,160
+et tu peux faire du coup
+
+287
+00:09:53,160 --> 00:09:54,120
+tout de A à Z
+
+288
+00:09:54,120 --> 00:09:55,260
+en suivant module par module.
+
+289
+00:09:55,540 --> 00:09:56,240
+Tu auras à chaque fois
+
+290
+00:09:56,240 --> 00:09:57,100
+un récapitulatif
+
+291
+00:09:57,100 --> 00:09:58,140
+de ce que tu dois mettre en place
+
+292
+00:09:58,140 --> 00:09:58,880
+en dessous de la vidéo.
+
+293
+00:09:59,000 --> 00:09:59,700
+Je te mettrai un encadré
+
+294
+00:09:59,700 --> 00:10:00,640
+avec ce que tu dois faire
+
+295
+00:10:00,640 --> 00:10:01,660
+tiré de la vidéo
+
+296
+00:10:01,660 --> 00:10:02,480
+que tu viendras de regarder
+
+297
+00:10:02,480 --> 00:10:03,580
+et tu as juste finalement
+
+298
+00:10:03,580 --> 00:10:04,300
+à te laisser guider
+
+299
+00:10:04,300 --> 00:10:04,840
+par les modules.
+
+300
+00:10:04,960 --> 00:10:05,700
+J'ai vraiment réfléchi ça
+
+301
+00:10:05,700 --> 00:10:06,560
+de façon logique
+
+302
+00:10:06,560 --> 00:10:07,480
+pour que tu n'aies pas besoin
+
+303
+00:10:07,480 --> 00:10:09,120
+d'alterner entre un module
+
+304
+00:10:09,120 --> 00:10:09,700
+et un autre.
+
+305
+00:10:09,820 --> 00:10:11,200
+Tu peux tout suivre de A à Z.
+
+306
+00:10:11,700 --> 00:10:12,260
+Donc troisièmement,
+
+307
+00:10:12,400 --> 00:10:13,160
+les graphismes,
+
+308
+00:10:13,240 --> 00:10:13,900
+l'identité de la marque,
+
+309
+00:10:14,080 --> 00:10:14,460
+le branding.
+
+310
+00:10:14,780 --> 00:10:15,100
+Ensuite,
+
+311
+00:10:15,240 --> 00:10:16,380
+on va passer au blog
+
+312
+00:10:16,380 --> 00:10:17,640
+avec un gros module sur le blog.
+
+313
+00:10:17,640 --> 00:10:18,720
+Comment trouver des requêtes,
+
+314
+00:10:18,820 --> 00:10:20,340
+comment rédiger rapidement du contenu
+
+315
+00:10:20,340 --> 00:10:20,720
+parce que l'idée,
+
+316
+00:10:20,840 --> 00:10:21,700
+ce n'est pas de passer des journées
+
+317
+00:10:21,700 --> 00:10:22,540
+à rédiger du blog.
+
+318
+00:10:23,180 --> 00:10:23,560
+Mais tu verras,
+
+319
+00:10:23,620 --> 00:10:24,020
+j'ai des techniques
+
+320
+00:10:24,020 --> 00:10:25,320
+pour aller assez rapidement.
+
+321
+00:10:25,860 --> 00:10:26,200
+Ensuite,
+
+322
+00:10:26,380 --> 00:10:27,040
+l'email marketing
+
+323
+00:10:27,040 --> 00:10:27,960
+que j'ai écrit ici
+
+324
+00:10:27,960 --> 00:10:28,380
+e-mail.
+
+325
+00:10:28,500 --> 00:10:29,680
+Il faudra que je change
+
+326
+00:10:29,680 --> 00:10:30,320
+du coup dans la slide
+
+327
+00:10:30,320 --> 00:10:31,040
+en mettant e-mail
+
+328
+00:10:31,040 --> 00:10:31,500
+mais c'est bien
+
+329
+00:10:31,500 --> 00:10:32,600
+email marketing.
+
+330
+00:10:32,780 --> 00:10:33,480
+Super important.
+
+331
+00:10:33,800 --> 00:10:34,160
+Sixièmement,
+
+332
+00:10:34,300 --> 00:10:35,360
+on verra toute la partie
+
+333
+00:10:35,360 --> 00:10:36,640
+SEO off-site.
+
+334
+00:10:36,940 --> 00:10:37,140
+Ensuite,
+
+335
+00:10:37,200 --> 00:10:38,620
+on verra la partie Google Ads.
+
+336
+00:10:38,860 --> 00:10:39,040
+Ensuite,
+
+337
+00:10:39,100 --> 00:10:40,160
+on passera au branding
+
+338
+00:10:40,160 --> 00:10:41,320
+et aux réseaux sociaux
+
+339
+00:10:41,320 --> 00:10:42,740
+notamment avec le retargeting
+
+340
+00:10:42,740 --> 00:10:43,540
+qui viendra juste après.
+
+341
+00:10:44,020 --> 00:10:44,600
+Et à la fin,
+
+342
+00:10:44,820 --> 00:10:45,720
+on aura tous les bonus.
+
+343
+00:10:45,720 --> 00:10:46,320
+Donc les bonus,
+
+344
+00:10:46,480 --> 00:10:47,060
+c'est par exemple
+
+345
+00:10:47,060 --> 00:10:48,060
+des contenus de mise à jour
+
+346
+00:10:48,060 --> 00:10:49,300
+que je mettrai par la suite.
+
+347
+00:10:49,660 --> 00:10:50,620
+Ça va être des lives,
+
+348
+00:10:50,720 --> 00:10:51,840
+ça va être des petits hacks,
+
+349
+00:10:51,920 --> 00:10:52,140
+etc.
+
+350
+00:10:52,300 --> 00:10:52,880
+que je vais te rajouter
+
+351
+00:10:52,880 --> 00:10:53,340
+au fur et à mesure
+
+352
+00:10:53,340 --> 00:10:53,880
+de la formation.
+
+353
+00:10:54,200 --> 00:10:54,860
+Et ce n'est pas impossible
+
+354
+00:10:54,860 --> 00:10:55,340
+que dans le temps,
+
+355
+00:10:55,400 --> 00:10:56,040
+je fasse intervenir
+
+356
+00:10:56,040 --> 00:10:57,080
+de nouveaux intervenants,
+
+357
+00:10:57,200 --> 00:10:58,240
+des personnes avec qui je travaille,
+
+358
+00:10:58,340 --> 00:10:59,660
+des personnes avec qui je suis associé.
+
+359
+00:11:00,120 --> 00:11:00,900
+Si je juge
+
+360
+00:11:00,900 --> 00:11:01,780
+que ce qu'elles ont apporté,
+
+361
+00:11:01,880 --> 00:11:03,160
+c'est intéressant pour la formation,
+
+362
+00:11:03,620 --> 00:11:04,500
+même si c'est complémentaire
+
+363
+00:11:04,500 --> 00:11:05,060
+à la stratégie,
+
+364
+00:11:05,140 --> 00:11:06,100
+je les ferai intervenir
+
+365
+00:11:06,100 --> 00:11:07,180
+dans des modules DJ,
+
+366
+00:11:07,340 --> 00:11:08,280
+dans des modules bonus.
+
+367
+00:11:08,380 --> 00:11:09,480
+L'objectif final
+
+368
+00:11:09,480 --> 00:11:10,480
+à la fin de la formation,
+
+369
+00:11:10,740 --> 00:11:11,180
+c'est que tu aies
+
+370
+00:11:11,180 --> 00:11:11,680
+une boutique
+
+371
+00:11:15,720 --> 00:11:16,680
+à 100%,
+
+372
+00:11:16,680 --> 00:11:17,340
+que ça génère
+
+373
+00:11:17,340 --> 00:11:18,660
+du cash flow positif
+
+374
+00:11:18,660 --> 00:11:19,540
+durant toute l'année,
+
+375
+00:11:19,720 --> 00:11:20,800
+pas seulement pendant une période,
+
+376
+00:11:20,880 --> 00:11:21,900
+mais bien pendant toute l'année.
+
+377
+00:11:22,020 --> 00:11:22,180
+Pour ça,
+
+378
+00:11:22,220 --> 00:11:22,780
+on va trouver des niches
+
+379
+00:11:22,780 --> 00:11:23,740
+qui seront adaptées
+
+380
+00:11:23,740 --> 00:11:25,060
+et que tu puisses cumuler
+
+381
+00:11:25,060 --> 00:11:26,080
+plusieurs muses
+
+382
+00:11:26,080 --> 00:11:27,560
+pour scaler horizontalement
+
+383
+00:11:27,560 --> 00:11:28,500
+et pas verticalement.
+
+384
+00:11:28,640 --> 00:11:29,260
+Quelle est la différence
+
+385
+00:11:29,260 --> 00:11:30,440
+entre scaler horizontalement
+
+386
+00:11:30,440 --> 00:11:31,500
+et verticalement ?
+
+387
+00:11:31,500 --> 00:11:31,980
+Si tu veux,
+
+388
+00:11:32,180 --> 00:11:32,660
+les méthodes
+
+389
+00:11:32,660 --> 00:11:33,480
+qui étaient un petit peu
+
+390
+00:11:33,480 --> 00:11:34,020
+à l'ancienne
+
+391
+00:11:34,020 --> 00:11:34,440
+où on te disait
+
+392
+00:11:34,440 --> 00:11:35,740
+de prendre un produit gagnant
+
+393
+00:11:35,740 --> 00:11:37,300
+et de faire une publicité
+
+394
+00:11:37,300 --> 00:11:37,760
+sur Facebook
+
+395
+00:11:37,760 --> 00:11:38,600
+avec influenceurs,
+
+396
+00:11:38,980 --> 00:11:39,700
+l'idée pour générer
+
+397
+00:11:39,700 --> 00:11:40,220
+plus d'argent
+
+398
+00:11:40,220 --> 00:11:40,860
+avec ces boutiques-là,
+
+399
+00:11:40,920 --> 00:11:42,420
+c'est de scaler verticalement.
+
+400
+00:11:42,680 --> 00:11:42,960
+Donc en gros,
+
+401
+00:11:43,020 --> 00:11:43,160
+l'idée,
+
+402
+00:11:43,240 --> 00:11:43,720
+c'est de garder
+
+403
+00:11:45,720 --> 00:11:47,020
+essayer de faire monter les ventes
+
+404
+00:11:47,020 --> 00:11:48,320
+en mettant toujours plus de budget,
+
+405
+00:11:48,560 --> 00:11:49,900
+en trouvant plus d'influenceurs,
+
+406
+00:11:50,060 --> 00:11:50,260
+etc.
+
+407
+00:11:50,760 --> 00:11:52,300
+Mais on scale verticalement
+
+408
+00:11:52,300 --> 00:11:53,140
+sur la même boutique.
+
+409
+00:11:53,560 --> 00:11:54,660
+Le scaling horizontal,
+
+410
+00:11:54,880 --> 00:11:56,100
+ça consiste à avoir du coup
+
+411
+00:11:56,100 --> 00:11:56,640
+une muse
+
+412
+00:11:56,640 --> 00:11:58,020
+et on va aller en dupliquer
+
+413
+00:11:58,020 --> 00:11:58,520
+une autre,
+
+414
+00:11:58,820 --> 00:11:59,380
+encore une autre,
+
+415
+00:11:59,580 --> 00:12:00,060
+encore une autre
+
+416
+00:12:00,060 --> 00:12:00,640
+et on va finalement
+
+417
+00:12:00,640 --> 00:12:02,320
+cumuler plusieurs petits
+
+418
+00:12:02,320 --> 00:12:03,140
+entre guillemets business
+
+419
+00:12:03,140 --> 00:12:04,000
+et c'est ce que j'appelle
+
+420
+00:12:04,000 --> 00:12:05,020
+un scaling horizontal
+
+421
+00:12:05,020 --> 00:12:05,760
+et je trouve ça
+
+422
+00:12:05,760 --> 00:12:06,520
+beaucoup plus intelligent
+
+423
+00:12:06,520 --> 00:12:07,680
+que de scaler verticalement
+
+424
+00:12:07,680 --> 00:12:08,500
+et de faire la course
+
+425
+00:12:08,500 --> 00:12:09,540
+au volume en termes de vente.
+
+426
+00:12:09,680 --> 00:12:10,560
+Alors les points faibles
+
+427
+00:12:10,560 --> 00:12:11,280
+de la stratégie
+
+428
+00:12:11,280 --> 00:12:11,740
+parce que je me dois
+
+429
+00:12:11,740 --> 00:12:12,420
+d'être honnête
+
+430
+00:12:12,420 --> 00:12:13,580
+et de parler des points forts
+
+431
+00:12:13,580 --> 00:12:14,440
+comme des points faibles.
+
+432
+00:12:14,640 --> 00:12:15,540
+Les points faibles pour moi,
+
+433
+00:12:15,720 --> 00:12:16,740
+il y en a deux principaux.
+
+434
+00:12:17,160 --> 00:12:17,560
+Le premier,
+
+435
+00:12:17,700 --> 00:12:18,520
+c'est que c'est difficile
+
+436
+00:12:18,520 --> 00:12:20,060
+de sourcer toute la boutique
+
+437
+00:12:20,060 --> 00:12:20,700
+avec un agent
+
+438
+00:12:20,700 --> 00:12:21,420
+car on va mettre
+
+439
+00:12:21,420 --> 00:12:22,240
+beaucoup de produits.
+
+440
+00:12:22,420 --> 00:12:22,660
+Donc ça,
+
+441
+00:12:22,760 --> 00:12:23,680
+ça implique généralement
+
+442
+00:12:23,680 --> 00:12:24,920
+de travailler avec Aliexpress
+
+443
+00:12:24,920 --> 00:12:25,880
+majoritairement.
+
+444
+00:12:26,380 --> 00:12:27,180
+Donc il y a beaucoup de personnes
+
+445
+00:12:27,180 --> 00:12:27,980
+qui veulent des alternatives.
+
+446
+00:12:28,220 --> 00:12:28,500
+Alors moi,
+
+447
+00:12:28,540 --> 00:12:30,020
+je te le dis sur toutes mes muses
+
+448
+00:12:30,020 --> 00:12:30,980
+et donc depuis 2018,
+
+449
+00:12:31,080 --> 00:12:31,640
+j'ai quand même généré
+
+450
+00:12:31,640 --> 00:12:32,460
+plusieurs millions d'euros
+
+451
+00:12:32,460 --> 00:12:33,520
+de ventes et de chiffre d'affaires.
+
+452
+00:12:33,720 --> 00:12:34,980
+J'ai toujours bossé
+
+453
+00:12:34,980 --> 00:12:35,880
+avec Aliexpress.
+
+454
+00:12:36,140 --> 00:12:36,740
+Donc crois-moi,
+
+455
+00:12:36,860 --> 00:12:37,340
+Aliexpress,
+
+456
+00:12:37,500 --> 00:12:38,620
+c'est en aucun cas un frein.
+
+457
+00:12:38,760 --> 00:12:39,560
+C'est sûr que c'est pas
+
+458
+00:12:39,560 --> 00:12:40,520
+le meilleur fournisseur
+
+459
+00:12:40,520 --> 00:12:42,040
+si on compare avec des artisans français
+
+460
+00:12:42,040 --> 00:12:42,680
+ni quoi que ce soit.
+
+461
+00:12:42,800 --> 00:12:43,280
+Bien évidemment,
+
+462
+00:12:43,420 --> 00:12:43,920
+il faut être honnête.
+
+463
+00:12:44,040 --> 00:12:44,260
+Maintenant,
+
+464
+00:12:44,360 --> 00:12:45,100
+c'est efficace,
+
+465
+00:12:45,180 --> 00:12:46,140
+les produits ne sont pas chers,
+
+466
+00:12:46,280 --> 00:12:46,820
+tu as un catalogue
+
+467
+00:12:46,820 --> 00:12:47,780
+qui est ultra varié
+
+468
+00:12:47,780 --> 00:12:50,580
+et il livre en 7 à 15 jours ouvrés.
+
+469
+00:12:50,740 --> 00:12:51,280
+Donc c'est pas non plus
+
+470
+00:12:51,280 --> 00:12:52,340
+quelque chose qui est arradgé.
+
+471
+00:12:52,780 --> 00:12:52,960
+Moi,
+
+472
+00:12:53,040 --> 00:12:53,580
+sur mes boutiques,
+
+473
+00:12:53,700 --> 00:12:54,380
+c'est full Aliexpress.
+
+474
+00:12:54,680 --> 00:12:55,300
+Alors bien évidemment,
+
+475
+00:12:55,460 --> 00:12:55,980
+sur les produits
+
+476
+00:12:55,980 --> 00:12:57,180
+qu'on appelle best-sellers,
+
+477
+00:12:57,280 --> 00:12:58,660
+ceux qui sont vendus à 80%,
+
+478
+00:12:58,660 --> 00:13:00,200
+c'est possible de les sourcer
+
+479
+00:13:00,200 --> 00:13:01,000
+hors d'Aliexpress
+
+480
+00:13:01,000 --> 00:13:01,620
+par un agent.
+
+481
+00:13:01,720 --> 00:13:02,040
+Mais tout ça,
+
+482
+00:13:02,100 --> 00:13:02,860
+j'y reviendrai dans la fin
+
+483
+00:13:02,860 --> 00:13:03,240
+de l'information
+
+484
+00:13:03,240 --> 00:13:04,280
+parce que c'est pas ce qui est important
+
+485
+00:13:04,280 --> 00:13:04,880
+quand on débute.
+
+486
+00:13:05,020 --> 00:13:06,000
+Mais je t'en parle rapidement
+
+487
+00:13:06,000 --> 00:13:07,120
+pour t'introduire le sujet.
+
+488
+00:13:07,260 --> 00:13:08,800
+Tu peux travailler avec 80%
+
+489
+00:13:08,800 --> 00:13:09,800
+de ta boutique Aliexpress
+
+490
+00:13:09,800 --> 00:13:11,360
+et 20% des best-sellers
+
+491
+00:13:11,360 --> 00:13:11,960
+avec un agent.
+
+492
+00:13:12,460 --> 00:13:12,740
+Moi,
+
+493
+00:13:12,800 --> 00:13:13,160
+personnellement,
+
+494
+00:13:13,220 --> 00:13:14,020
+c'est pas ce que j'ai fait.
+
+495
+00:13:14,140 --> 00:13:14,500
+Si tu veux,
+
+496
+00:13:14,600 --> 00:13:14,660
+moi,
+
+497
+00:13:14,720 --> 00:13:15,400
+sur mes best-sellers,
+
+498
+00:13:15,500 --> 00:13:16,160
+j'ai mis en place
+
+499
+00:13:16,160 --> 00:13:17,320
+des partenariats entre guillemets
+
+500
+00:13:17,320 --> 00:13:18,420
+avec mes fournisseurs Aliexpress
+
+501
+00:13:18,420 --> 00:13:19,840
+qui me personnalisent mes packaging
+
+502
+00:13:19,840 --> 00:13:21,300
+mais ça reste sur Aliexpress.
+
+503
+00:13:21,720 --> 00:13:23,040
+Ils me génèrent des liens spéciaux
+
+504
+00:13:23,040 --> 00:13:24,220
+uniquement pour ma boutique
+
+505
+00:13:24,220 --> 00:13:25,240
+que j'ai pu lier du coup
+
+506
+00:13:25,240 --> 00:13:26,120
+avec une API
+
+507
+00:13:26,120 --> 00:13:27,660
+sur ma boutique Shopify.
+
+508
+00:13:27,900 --> 00:13:28,080
+Vraiment,
+
+509
+00:13:28,160 --> 00:13:28,640
+je te parle de ça
+
+510
+00:13:28,640 --> 00:13:29,360
+mais c'est du détail
+
+511
+00:13:29,360 --> 00:13:29,980
+qu'on verra vraiment
+
+512
+00:13:29,980 --> 00:13:30,440
+dans les bonus
+
+513
+00:13:30,440 --> 00:13:31,060
+pour aller plus loin
+
+514
+00:13:31,060 --> 00:13:31,640
+parce que c'est pas vraiment
+
+515
+00:13:31,640 --> 00:13:32,580
+ce qui est obligatoire au début
+
+516
+00:13:32,580 --> 00:13:33,380
+mais c'est des choses
+
+517
+00:13:33,380 --> 00:13:34,320
+qui sont possibles de faire.
+
+518
+00:13:34,440 --> 00:13:35,080
+Mais tout ça pour dire
+
+519
+00:13:35,080 --> 00:13:36,820
+qu'un des principaux points faibles
+
+520
+00:13:36,820 --> 00:13:37,460
+de la stratégie
+
+521
+00:13:37,460 --> 00:13:39,040
+c'est que tu vas pas pouvoir sourcer
+
+522
+00:13:39,040 --> 00:13:39,580
+comme quand tu fais
+
+523
+00:13:39,580 --> 00:13:40,300
+avec un monoproduit
+
+524
+00:13:40,300 --> 00:13:41,620
+un produit chez un agent,
+
+525
+00:13:41,800 --> 00:13:42,600
+faire un stock chez lui
+
+526
+00:13:42,600 --> 00:13:43,640
+et les envoyer en deux jours.
+
+527
+00:13:43,980 --> 00:13:45,000
+Avec la stratégie de Muse,
+
+528
+00:13:45,100 --> 00:13:46,060
+tu vas avoir 500,
+
+529
+00:13:46,260 --> 00:13:46,960
+600, 800,
+
+530
+00:13:47,080 --> 00:13:48,120
+peut-être voire 1000 produits
+
+531
+00:13:48,120 --> 00:13:48,660
+voire plus
+
+532
+00:13:48,660 --> 00:13:50,240
+selon les thématiques
+
+533
+00:13:50,240 --> 00:13:50,820
+et tu te doutes bien
+
+534
+00:13:50,820 --> 00:13:52,020
+que quand tu as autant de produits,
+
+535
+00:13:52,140 --> 00:13:52,820
+tu peux pas les sourcer
+
+536
+00:13:52,820 --> 00:13:53,420
+un par un
+
+537
+00:13:53,420 --> 00:13:54,420
+chez un agent spécifique.
+
+538
+00:13:54,540 --> 00:13:55,320
+Tu vas devoir travailler
+
+539
+00:13:55,320 --> 00:13:56,540
+avec Aliexpress
+
+540
+00:13:56,540 --> 00:13:57,180
+en flux tendu.
+
+541
+00:13:57,180 --> 00:13:58,300
+Et le deuxième point faible
+
+542
+00:13:58,300 --> 00:13:59,100
+en tout cas pour moi
+
+543
+00:13:59,100 --> 00:14:00,360
+c'est que le potentiel de scaling
+
+544
+00:14:00,360 --> 00:14:01,220
+est plus faible
+
+545
+00:14:01,220 --> 00:14:02,380
+qu'avec du monoproduit
+
+546
+00:14:02,380 --> 00:14:03,000
+en one shop.
+
+547
+00:14:03,120 --> 00:14:03,540
+C'est à dire que moi
+
+548
+00:14:03,540 --> 00:14:04,420
+sur mes muses personnels
+
+549
+00:14:04,420 --> 00:14:05,120
+j'arrive à générer
+
+550
+00:14:05,120 --> 00:14:06,220
+en moyenne entre 500
+
+551
+00:14:06,220 --> 00:14:07,440
+à 2000 euros par jour
+
+552
+00:14:07,440 --> 00:14:08,740
+de CA par boutique
+
+553
+00:14:08,740 --> 00:14:09,360
+quand je mets en place
+
+554
+00:14:09,360 --> 00:14:10,140
+la stratégie de repédit
+
+555
+00:14:10,140 --> 00:14:10,600
+en entier.
+
+556
+00:14:10,740 --> 00:14:11,420
+Alors que les personnes
+
+557
+00:14:11,420 --> 00:14:11,780
+par exemple
+
+558
+00:14:11,780 --> 00:14:13,220
+qui vont faire du monoproduit
+
+559
+00:14:13,220 --> 00:14:14,200
+avec des influenceurs
+
+560
+00:14:14,200 --> 00:14:15,120
+ou avec du Facebook Ads
+
+561
+00:14:15,120 --> 00:14:15,460
+ou autre,
+
+562
+00:14:15,760 --> 00:14:16,500
+c'est possible parfois
+
+563
+00:14:16,500 --> 00:14:17,900
+de faire 10 000 euros par jour,
+
+564
+00:14:18,000 --> 00:14:18,800
+20 000 euros par jour
+
+565
+00:14:18,800 --> 00:14:19,720
+sur une grosse promotion.
+
+566
+00:14:19,920 --> 00:14:20,660
+Moi en mettant en place
+
+567
+00:14:20,660 --> 00:14:21,160
+du SEO,
+
+568
+00:14:21,460 --> 00:14:22,000
+du Google Ads,
+
+569
+00:14:22,060 --> 00:14:22,580
+de l'affiliation,
+
+570
+00:14:22,760 --> 00:14:23,480
+du retargeting etc.
+
+571
+00:14:27,180 --> 00:14:27,760
+de 1000 euros par jour
+
+572
+00:14:27,760 --> 00:14:28,740
+mais en moyenne à l'année
+
+573
+00:14:28,740 --> 00:14:30,220
+c'est entre 500 à 2000 euros par jour
+
+574
+00:14:30,220 --> 00:14:31,320
+et l'idée du coup
+
+575
+00:14:31,320 --> 00:14:32,060
+c'est d'aller scaler
+
+576
+00:14:32,060 --> 00:14:32,980
+horizontalement
+
+577
+00:14:32,980 --> 00:14:33,920
+ces ventes là
+
+578
+00:14:33,920 --> 00:14:35,280
+avec plusieurs boutiques.
+
+579
+00:14:35,400 --> 00:14:36,220
+Si tu arrives admettons
+
+580
+00:14:36,220 --> 00:14:37,700
+à créer 5 muses différentes
+
+581
+00:14:37,700 --> 00:14:38,900
+qui génèrent 1000 euros par jour
+
+582
+00:14:38,900 --> 00:14:39,920
+tu arrives à générer
+
+583
+00:14:39,920 --> 00:14:40,960
+5000 euros par jour
+
+584
+00:14:40,960 --> 00:14:41,740
+et par mois
+
+585
+00:14:41,740 --> 00:14:42,220
+ça va te donner
+
+586
+00:14:42,220 --> 00:14:43,500
+150 000 euros de chiffre d'affaires
+
+587
+00:14:43,500 --> 00:14:44,800
+ce qui est loin d'être dégueulasse.
+
+588
+00:14:44,960 --> 00:14:45,460
+Donc moi en tout cas
+
+589
+00:14:45,460 --> 00:14:46,480
+je trouve ça plus simple
+
+590
+00:14:46,480 --> 00:14:47,400
+avec ces stratégies là
+
+591
+00:14:47,400 --> 00:14:48,860
+de scaler horizontalement
+
+592
+00:14:48,860 --> 00:14:49,560
+que verticalement
+
+593
+00:14:49,560 --> 00:14:50,040
+mais maintenant
+
+594
+00:14:50,040 --> 00:14:50,740
+il faut bien le savoir
+
+595
+00:14:50,740 --> 00:14:51,720
+qu'avec ces boutiques là
+
+596
+00:14:51,720 --> 00:14:52,400
+tu vas pas faire
+
+597
+00:14:52,400 --> 00:14:53,300
+du jour au lendemain
+
+598
+00:14:53,300 --> 00:14:54,440
+20 000 euros de chiffre d'affaires
+
+599
+00:14:54,440 --> 00:14:55,280
+sur une boutique
+
+600
+00:14:55,280 --> 00:14:56,000
+tu vas faire entre
+
+601
+00:14:56,000 --> 00:14:58,080
+500 à 2000 euros par jour
+
+602
+00:14:58,080 --> 00:14:58,920
+ça dépend encore une fois
+
+603
+00:14:58,920 --> 00:14:59,500
+de ce que tu vends
+
+604
+00:14:59,500 --> 00:15:00,520
+si tu es sur du high ticket
+
+605
+00:15:00,520 --> 00:15:01,680
+des produits chers
+
+606
+00:15:01,680 --> 00:15:02,220
+donc tu vas être
+
+607
+00:15:02,220 --> 00:15:02,940
+un petit peu plus haut
+
+608
+00:15:02,940 --> 00:15:03,760
+si tu vends des produits
+
+609
+00:15:03,760 --> 00:15:04,540
+vraiment pas chers
+
+610
+00:15:04,540 --> 00:15:05,840
+à 15, 20, 30 euros
+
+611
+00:15:05,840 --> 00:15:06,420
+tu vas être plutôt
+
+612
+00:15:06,420 --> 00:15:07,960
+sur 500 à 1000 euros par jour
+
+613
+00:15:07,960 --> 00:15:08,740
+et après
+
+614
+00:15:08,740 --> 00:15:09,400
+pour aller chercher
+
+615
+00:15:09,400 --> 00:15:10,520
+vraiment du volume de vente
+
+616
+00:15:10,520 --> 00:15:11,440
+il va falloir créer
+
+617
+00:15:11,440 --> 00:15:12,580
+d'autres muses Shopify.
+
+618
+00:15:12,780 --> 00:15:13,600
+Les points forts maintenant
+
+619
+00:15:13,600 --> 00:15:14,120
+en revanche
+
+620
+00:15:14,120 --> 00:15:15,000
+c'est ce qui est le plus important
+
+621
+00:15:15,000 --> 00:15:15,740
+c'est que premièrement
+
+622
+00:15:15,740 --> 00:15:16,700
+tu vas avoir des résultats
+
+623
+00:15:16,700 --> 00:15:17,940
+à coup sûr rapidement
+
+624
+00:15:17,940 --> 00:15:18,920
+pourquoi je dis
+
+625
+00:15:18,920 --> 00:15:20,060
+des résultats à coup sûr rapidement
+
+626
+00:15:20,060 --> 00:15:20,880
+c'est parce qu'on va pas avoir
+
+627
+00:15:20,880 --> 00:15:22,300
+le testing Facebook à faire
+
+628
+00:15:22,300 --> 00:15:22,760
+encore une fois
+
+629
+00:15:22,760 --> 00:15:23,900
+je fais le parallèle avec les monoproduits
+
+630
+00:15:23,900 --> 00:15:24,780
+sur Facebook Ads etc
+
+631
+00:15:24,780 --> 00:15:25,580
+il fallait à chaque fois
+
+632
+00:15:25,580 --> 00:15:26,860
+faire un sourcing de produits
+
+633
+00:15:26,860 --> 00:15:27,920
+potentiellement gagnants
+
+634
+00:15:27,920 --> 00:15:28,420
+entre guillemets
+
+635
+00:15:28,420 --> 00:15:29,280
+et faire des testings
+
+636
+00:15:29,280 --> 00:15:30,440
+en dépensant des centaines d'euros
+
+637
+00:15:30,440 --> 00:15:32,120
+par produit en testing sur Facebook
+
+638
+00:15:32,120 --> 00:15:33,340
+nous c'est pas ça qu'on va faire
+
+639
+00:15:33,340 --> 00:15:34,240
+notre stratégie
+
+640
+00:15:34,240 --> 00:15:35,840
+elle est basée sur l'intention de recherche
+
+641
+00:15:35,840 --> 00:15:37,140
+donc on va vendre directement
+
+642
+00:15:37,140 --> 00:15:37,660
+à des gens
+
+643
+00:15:37,660 --> 00:15:38,840
+ce qu'ils ont exprimé
+
+644
+00:15:38,840 --> 00:15:39,880
+comme intention de rechercher
+
+645
+00:15:39,880 --> 00:15:40,480
+via Google
+
+646
+00:15:40,480 --> 00:15:41,780
+donc on est sûr de ne pas se tromper
+
+647
+00:15:41,780 --> 00:15:42,660
+deuxième point fort
+
+648
+00:15:42,660 --> 00:15:43,580
+c'est l'aspect long terme
+
+649
+00:15:43,580 --> 00:15:44,300
+encore une fois
+
+650
+00:15:44,300 --> 00:15:45,760
+on va pas vendre un produit gagnant
+
+651
+00:15:45,760 --> 00:15:46,400
+qui va être tendance
+
+652
+00:15:46,400 --> 00:15:47,040
+pendant un mois
+
+653
+00:15:47,040 --> 00:15:47,940
+on va vendre des produits
+
+654
+00:15:47,940 --> 00:15:48,740
+qui sont recherchés
+
+655
+00:15:48,740 --> 00:15:49,840
+toute l'année par les gens
+
+656
+00:15:52,760 --> 00:15:54,900
+ça va être des termes de recherche
+
+657
+00:15:54,900 --> 00:15:55,760
+qui vont être recherchés
+
+658
+00:15:55,760 --> 00:15:56,820
+cette année
+
+659
+00:15:56,820 --> 00:15:57,520
+l'année prochaine
+
+660
+00:15:57,520 --> 00:15:58,040
+dans 2 ans
+
+661
+00:15:58,040 --> 00:15:58,420
+dans 5 ans
+
+662
+00:15:58,420 --> 00:15:58,840
+dans 10 ans
+
+663
+00:15:58,840 --> 00:15:59,820
+c'est des recherches
+
+664
+00:15:59,820 --> 00:16:00,680
+qui sont tout le temps
+
+665
+00:16:00,680 --> 00:16:01,520
+tapées sur Google
+
+666
+00:16:01,520 --> 00:16:02,720
+donc si tu fais une boutique là-dessus
+
+667
+00:16:02,720 --> 00:16:03,900
+tu vas pas avoir des ventes
+
+668
+00:16:03,900 --> 00:16:04,460
+pendant un mois
+
+669
+00:16:04,460 --> 00:16:05,220
+et après ce sera fini
+
+670
+00:16:05,220 --> 00:16:06,080
+tu vas avoir une boutique
+
+671
+00:16:06,080 --> 00:16:07,260
+qui sera vraiment long terme
+
+672
+00:16:07,260 --> 00:16:08,280
+et enfin dernier point
+
+673
+00:16:08,280 --> 00:16:09,280
+l'un des plus importants
+
+674
+00:16:09,280 --> 00:16:10,120
+c'est le fait que tu vas être
+
+675
+00:16:10,120 --> 00:16:11,860
+intouchable par la concurrence
+
+676
+00:16:11,860 --> 00:16:12,500
+pourquoi ?
+
+677
+00:16:12,500 --> 00:16:13,400
+tout simplement parce que
+
+678
+00:16:13,400 --> 00:16:14,260
+contrairement aux boutiques
+
+679
+00:16:14,260 --> 00:16:14,760
+encore une fois
+
+680
+00:16:14,760 --> 00:16:15,780
+qui sont un petit peu fragiles
+
+681
+00:16:15,780 --> 00:16:16,460
+avec Facebook Ads
+
+682
+00:16:16,460 --> 00:16:17,140
+en monoproduit
+
+683
+00:16:17,140 --> 00:16:18,060
+tu te doutes bien
+
+684
+00:16:18,060 --> 00:16:18,880
+que pour un concurrent
+
+685
+00:16:18,880 --> 00:16:19,900
+c'est assez décourageant
+
+686
+00:16:19,900 --> 00:16:21,620
+de pouvoir faire un shop
+
+687
+00:16:21,620 --> 00:16:22,540
+sur lequel il y a déjà
+
+688
+00:16:22,540 --> 00:16:23,720
+un ou plusieurs concurrents
+
+689
+00:16:23,720 --> 00:16:24,620
+qui ont plus de 1000 produits
+
+690
+00:16:24,620 --> 00:16:26,460
+qui ont des dizaines de backlinks
+
+691
+00:16:26,460 --> 00:16:27,200
+voire des centaines
+
+692
+00:16:27,200 --> 00:16:27,780
+qui ont des milliers
+
+693
+00:16:27,780 --> 00:16:28,700
+de trafics mensuels
+
+694
+00:16:28,700 --> 00:16:30,400
+enfin c'est beaucoup plus décourageant
+
+695
+00:16:30,400 --> 00:16:31,820
+que de juste recopier une boutique
+
+696
+00:16:31,820 --> 00:16:33,040
+monoproduit Facebook Ads
+
+697
+00:16:33,040 --> 00:16:34,020
+en ajoutant un produit
+
+698
+00:16:34,020 --> 00:16:34,860
+et la boutique va prendre
+
+699
+00:16:34,860 --> 00:16:35,560
+une journée à construire
+
+700
+00:16:35,560 --> 00:16:36,200
+là l'idée ici
+
+701
+00:16:36,200 --> 00:16:36,780
+c'est de construire
+
+702
+00:16:36,780 --> 00:16:37,960
+des vrais shops solides
+
+703
+00:16:37,960 --> 00:16:38,860
+avec des milliers de produits
+
+704
+00:16:38,860 --> 00:16:39,740
+de le sécuriser
+
+705
+00:16:39,740 --> 00:16:40,440
+avec un SEO
+
+706
+00:16:40,440 --> 00:16:41,500
+qui va être intouchable
+
+707
+00:16:41,500 --> 00:16:42,320
+et donc tu vas forcément
+
+708
+00:16:42,320 --> 00:16:43,600
+faire fuir toutes les personnes
+
+709
+00:16:43,600 --> 00:16:44,640
+qui seraient un peu mal attentionnées
+
+710
+00:16:44,640 --> 00:16:45,880
+qui voudraient recopier ta boutique
+
+711
+00:16:45,880 --> 00:16:46,600
+d'une pierre de goût
+
+712
+00:16:46,600 --> 00:16:47,000
+tout simplement
+
+713
+00:16:47,000 --> 00:16:47,760
+donc voilà on a vu
+
+714
+00:16:47,760 --> 00:16:48,840
+tous les points importants
+
+715
+00:16:48,840 --> 00:16:49,680
+concernant la stratégie
+
+716
+00:16:49,680 --> 00:16:50,240
+de drop elite
+
+717
+00:16:50,240 --> 00:16:51,360
+je te propose qu'on enchaîne
+
+718
+00:16:51,360 --> 00:16:51,900
+tout de suite
+
+719
+00:16:51,900 --> 00:16:52,980
+avec la suite de la formation
+
+720
+00:16:52,980 --> 00:16:53,660
+à tout de suite
+

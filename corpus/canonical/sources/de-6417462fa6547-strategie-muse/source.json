@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "source_id": "de-6417462fa6547-strategie-muse",
+  "course_name_observed": "Drop Elite",
+  "title_observed": null,
+  "title_inferred": "Vue d'ensemble de la stratégie de la muse Shopify",
+  "title_inference_basis": "Le contenu présente explicitement le schéma global de la stratégie Drop Elite et la création d'une muse Shopify.",
+  "source_label": "1.2 MAJ 2023",
+  "source_url": "https://d1yei2z3i6k35z.cloudfront.net/585286/6417462fa6547_1.2MAJ2023.mp4",
+  "source_type": "direct_mp4_cloudfront",
+  "authorization": {
+    "basis": "L'utilisateur déclare avoir l'autorisation du propriétaire pour extraire et transcrire les vidéos.",
+    "recorded_at": "2026-08-07T23:51:35+02:00",
+    "scope": [
+      "extraction audio locale",
+      "transcription locale",
+      "intégration dans un corpus personnel",
+      "dérivation d'un workflow personnel sourcé"
+    ]
+  },
+  "media": {
+    "duration_seconds": 1013.908,
+    "video_codec": "h264",
+    "video_resolution": "1920x1080",
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2,
+    "original_video_size_bytes": 455341601,
+    "stored_audio_size_bytes": 40749327
+  },
+  "transcription": {
+    "language": "fr",
+    "engine": "mlx-whisper",
+    "model": "mlx-community/whisper-turbo",
+    "selected_pass": "contextualized",
+    "status": "AUTOMATIQUE_CONTEXTUALISEE_NON_RELUE",
+    "word_count": 4203,
+    "segment_count": 259,
+    "known_uncertainties": [
+      "l'e-chair pour chat est probablement litière pour chat",
+      "module DJ est probablement module dédié",
+      "certaines expressions finales ont pu être influencées par le prompt contextuel"
+    ]
+  },
+  "observed_content": {
+    "module_context": "L'intervenant dit que la stratégie sera appliquée à partir du module 2.",
+    "lesson_number": null
+  },
+  "files": {
+    "audio": "audio.m4a",
+    "transcript_txt": "transcription.txt",
+    "subtitles_srt": "transcription.srt",
+    "subtitles_vtt": "transcription.vtt",
+    "segments_tsv": "transcription.tsv",
+    "transcript_json": "transcription.json",
+    "lesson_brief": "lesson-brief.md",
+    "raw_first_pass_dir": "brut"
+  },
+  "checksums_sha256": {
+    "audio": "72404d2cefab02af86958d3991f48474e71b9538d57eaf1c5415aef09a888d08",
+    "selected_transcript_txt": "1a95564a05e6263ffcd9c8a892fe8ef65b812fdc05e9de323dfac928961e4aa3"
+  }
+}

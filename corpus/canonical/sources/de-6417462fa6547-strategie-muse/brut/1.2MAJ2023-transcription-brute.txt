@@ -1,0 +1,720 @@
+Alors dans cette vidéo, je vais t'expliquer de A à Z le fonctionnement de la stratégie
+qu'on va appliquer sur nos boutiques à partir du module 2.
+Donc la stratégie de fond, elle est assez simple, je t'en ai parlé dans la vidéo précédente.
+L'objectif, c'est de créer ce que j'appelle une muse.
+Donc le terme de muse, il a été popularisé par Tim Ferriss et il fait référence à un
+business quasi passif.
+Je dis quasi passif car un business qui est vraiment full passif à 100% pour un business
+pour moi, ça n'existe pas vraiment.
+Nous, nos business, ils vont être quasi passifs dans le sens où il y a quand même au moins
+une fois par mois où il va falloir faire un petit check, parler un petit peu avec les
+équipes à qui on aura délégué certaines tâches.
+Il va falloir entretenir le site, mais pour ça, si tu ne veux pas le faire toi-même, il
+faudra le déléguer à des personnes qui vont ajouter des backlinks, je reviendrai sur ce
+terme plus tard, ajouter des contenus de blog, ajouter des nouveaux produits.
+Donc ces choses-là, c'est soit toi qui les feras, dans ce cas-là, ce ne sera pas un business
+passif, soit tu les délégueras à certaines personnes, ce que je te recommande de faire,
+mais dans ce cas-là, également, il faudra gérer ces personnes de temps en temps.
+Donc moi, sur mes muses personnelles, je passe à peu près deux heures par mois à m'en
+occuper parce que j'ai vraiment bien délégué toutes mes boutiques, donc j'ai des process
+qui sont mis en place.
+Tout ça, on le verra à la fin de la formation quand on aura monté tout le business.
+Mais j'ai vraiment structuré de A à Z tout ce qu'il y a à faire comme tâche et
+j'arrive du coup, via un bras droit également dans mon entreprise, à ne passer que deux heures
+par jour à gérer plus d'une dizaine de boutiques.
+Après, j'ai d'autres shops avec des associés où je bosse un peu plus dedans.
+Enfin bref, globalement, mon business est quasi-passif.
+Donc il fait référence, pour finir la phrase, à un business quasi-passif qui génère de
+l'argent de façon automatisée.
+L'idée, c'est d'avoir un business qui est au service de notre vie et pas l'inverse.
+Donc ça, je pense que tu l'avais compris.
+J'en ai parlé un petit peu dans la vidéo précédente.
+Alors voici le schéma de la création d'une muse avec ma méthode.
+Donc ce schéma, tu l'as peut-être déjà vu sur mes vidéos YouTube ou sur Telegram
+ou d'autres endroits.
+Mais je vais te le réexpliquer ici globalement.
+L'idée, donc ça ici, ça va être nous.
+Ça, ça va être notre muse Shopify.
+Donc ça va être la boutique Shopify.
+Pour commencer à travailler sur la muse, on va d'abord faire ce qu'on appelle le SEO
+On-Site.
+Donc le SEO, c'est toutes les techniques de référencement naturel sur Google pour avoir
+du trafic gratuit.
+Et le SEO est décomposé en On-Site.
+Donc toutes les optimisations à l'intérieur du site.
+Et la partie Off-Site qui est juste ici.
+Je vais y revenir juste après.
+C'est toutes les optimisations qui vont être extérieures au site.
+Donc le SEO On-Site, la partie optimisation, c'est quoi ?
+C'est déjà trouver une niche qui a du potentiel, une niche qui a des recherches mensuelles
+sur Google.
+Par exemple, on va essayer de trouver une thématique sur laquelle il y a 10 000 personnes
+qui recherchent, admettons le mot-clé, collier pour chien.
+Si on voit qu'il y a également 5 000 personnes qui recherchent collier pour chat, on voit
+qu'il y a aussi 20 000 personnes qui recherchent l'e-chair pour chat.
+Enfin bref, on va se dire, bon, la thématique des objets pour chat et chien, ça peut être
+intéressant.
+Je dis ça purement par hasard, mais dans la suite de la formation, je te montrerai
+comment trouver des thématiques dans le concret.
+Ça, ça va être la partie SEO de base, trouver une niche qui est intéressante.
+Ensuite, on va l'optimiser, donc ce que j'appelle On-Site, c'est-à-dire ajouter
+beaucoup de produits et un produit sur notre site va être ciblé sur un mot-clé.
+Pareil pour les collections, je ne vais pas préciser ici, mais chaque collection va
+être optimisée pour se référencer sur un mot-clé Google.
+Et pareil pour notre homepage, la page principale.
+Et finalement, pareil pour le blog.
+En fait, chaque page sera optimisée sur un mot-clé bien précis.
+Une fois qu'on aura fait toute la structure On-Site, donc à ce moment-là, on aura déjà
+un site avec des produits qui seront optimisés pour le SEO de façon On-Site.
+On va partir sur ce qu'on appelle le SEA, donc le SIN en anglais, intelligent.
+Le SEA, qu'est-ce que c'est ? Ça ressemble au SEO, c'est en fait la partie Google Ads.
+Donc de l'anglais, ça veut dire Search Engine Advertising, donc publicité pour advertising.
+Et ce SEA intelligent, il va servir à une chose globalement, c'est de tester au préalable
+la niche.
+C'est-à-dire qu'on va envoyer du trafic sur notre boutique via le SEA intelligent, mais
+sur des produits qui ont été optimisés au préalable sur des mots-clés qui sont recherchés
+par les utilisateurs de Google.
+Et on va pouvoir voir rapidement s'il y a de la traction envers notre site, envers la
+niche et si on peut passer au reste de la méthode.
+Maintenant, pourquoi on va faire des campagnes SEA intelligents et pas des campagnes manuelles ?
+Parce qu'en intelligent, on va avoir des coûts par achat qui sont plus faibles.
+En tout cas, moi, je trouve et d'expérience, je peux te le dire, les CPA sont plus faibles
+parce que c'est 80-20.
+Donc ça, je vais le répéter souvent en cours de la formation.
+Moi, j'ai une philosophie qui est très 80-20.
+Donc l'Ouap Pareto, si tu ne connais pas, c'est le fait que 80% des résultats proviennent
+de 20% des actions.
+Donc l'idée, c'est toujours encore une fois de ne pas être trop perfectionniste et de
+se focaliser sur ce qui ramène des résultats.
+Donc les campagnes SEA intelligents, ce n'est pas les campagnes qui vont être les plus optimisées
+puisque tu ne vas pas pouvoir gérer toi-même le coup par clic, tu ne vas pas pouvoir
+gérer exactement quel produit mettre en avant, etc.
+C'est Google avec son intelligence artificielle qui va le faire lui-même.
+Mais en contrepartie, ça se gère tout seul et c'est quand même très rentable.
+Donc si tu veux, moi, je préfère gagner un petit peu moins avec une campagne qui va
+me demander de deux heures par mois à gérer plutôt qu'avoir un petit peu plus de ventes
+mais devoir passer cinq heures par jour à gérer mes campagnes, à gérer les coups
+par clic, à gérer l'euroas, à gérer plein d'indicateurs.
+Ça, c'est la philosophie 80-20.
+Et enfin, dernièrement, dernière raison pour laquelle on va utiliser du SI intelligent,
+c'est parce qu'on a 400 euros offerts pour 400 euros dépensés, donc pour toute ouverture
+de compte Google Ads.
+Ça, j'y reviendrai dans le module Google Ads.
+Mais c'est vraiment un avantage qui est très intéressant.
+Tu vas pouvoir te permettre de dépenser 400 euros entre guillemets dans le vent.
+Enfin, on ne va pas dépenser dans le vent puisqu'on va s'en servir pour avoir du leverage.
+Mais le fait de pouvoir dépenser 400 euros offerts, ça te laisse quand même assez de marge
+pour tester un site sans te ruiner.
+Donc les campagnes SI intelligentes, elles vont générer des ventes.
+Et en plus de ça, elles vont ramener du trafic.
+Et le trafic, c'est un indicateur, un CEO qui apporte de la puissance.
+Donc ce trafic-là qui va venir des campagnes, il va booster un petit peu tout le travail
+qu'on avait fait au préalable sur la partie SEO du site.
+Ce qu'on va faire ensuite, c'est qu'on va construire un blog thématisé sur notre boutique.
+C'est important sur notre shop qu'on ne soit pas juste là pour vendre des produits.
+On va également apporter de la valeur aux gens en leur rédigeant des articles de blog
+qui seront optimisés selon des mots-clés qui seront recherchés.
+Encore une fois, on ne va pas faire des articles de blog dans le vent.
+Ces articles de blog, ils vont générer des ventes
+puisqu'on va attirer des visiteurs sur le site.
+Certains vont se dire, ça répond à ma question.
+Mais en même temps, là, je suis sur un site thématisé, il y a des produits qui m'intéressent.
+Je vais aller voir.
+Ça, ça va générer des ventes.
+Ça va également générer des emails
+puisqu'on va installer ce que j'appelle une pompe à mail sur la partie du blog.
+Donc une pompe à mail, c'est quoi ?
+C'est par exemple un pop-up qui va arriver, qui va dire à ton client
+« Laisse-moi ton email, tu vas avoir 5% de réduction, 10%, un produit gratuit ou quoi que ce soit. »
+Donc ces emails, on va les récupérer
+et on va pouvoir générer de l'argent à partir de ces emails.
+C'est encore une autre source de trafic.
+Et troisièmement, ce blog, il va générer aussi du trafic
+du coup qui va venir du blog
+et ça va du coup booster le SEO on-site
+et le SEO global de la boutique.
+Ensuite, on va passer du coup au deuxième gros pilier du SEO.
+C'est la partie off-site.
+Donc en gros, la partie off-site du SEO.
+J'y reviendrai encore une fois en détail dans le module
+qui sera déjé au SEO off-site.
+Mais c'est toutes les techniques qu'on va mettre en place
+à l'extérieur du site pour donner un peu du jus,
+ce qu'on appelle du jus SEO.
+C'est de la puissance SEO au site.
+Sans SEO off-site, même avec du bon SEO on-site,
+tu n'auras jamais des résultats qui seront intéressants.
+Il faut vraiment mélanger les deux.
+Donc trouver des bons mots-clés sur la partie on-site
+et faire ce qu'on appelle des backlinks
+pour la partie off-site notamment.
+Les backlinks, c'est des liens externes vers ton site.
+Par exemple, toi, tu es un site pour chien.
+Tu vas aller voir par exemple un autre site
+qui vend des produits pour chien.
+Tu vas lui demander de faire un lien
+sur son site qui redirige vers le chien.
+C'est ce qu'on appelle un backlinks.
+C'est reconnu par Google
+et ça apporte de la puissance.
+Le SEO off-site,
+s'il est bien fait sur des sites qui sont intéressants,
+il va te rapporter du trafic
+et donc il va booster la partie SEO globale
+et il va ramener également ce que j'appelle du jus SEO.
+C'est de la puissance
+et ça va venir booster un petit peu toutes tes URL
+en top résultats des recherches sur Google.
+Une autre chose qu'on va mettre en place
+qui est hyper hyper importante,
+c'est la partie affiliation.
+Pour générer des ventes de façon passive
+sans non plus dépenser des milliers d'euros en publicité,
+l'affiliation, c'est une très bonne alternative
+et c'est ce que je mets en place sur toutes mes boutiques.
+L'idée, c'est d'aller contacter des marchands
+qui vendent des produits similaires au chien
+en affiliation avec Amazon notamment,
+mais pas forcément,
+on peut le faire également avec des blogueurs
+ou quoi que ce soit,
+mais tout ça, de toute façon,
+je reviendrai dans le module DJ.
+Mais l'idée de base, en gros,
+c'est d'aller contacter des personnes
+qui font de l'affiliation
+et de leur proposer de mettre en avant
+tes produits sur leur site
+ou leurs réseaux sociaux
+pour les influenceurs, blogueurs, etc.
+Donc tout ça, je ne vais pas le présenter
+pendant des heures ici
+puisqu'il y a un module DJ,
+mais c'est un élément qui est hyper important
+qui va générer donc des ventes en affiliation
+mais également du trafic
+qui va encore une fois booster le SEO de la boutique.
+Et enfin, dernièrement,
+super important,
+on va venir recibler les personnes
+qui ont visité notre site
+mais qui n'ont pas fait d'achat.
+Donc c'est ce qu'on appelle le retargeting.
+On va le faire avec Facebook Ads et Instagram.
+Alors là, tu es peut-être en train de te dire
+en général, je crache un peu
+sur Facebook Ads et Instagram.
+Alors oui, je crache dessus
+pour l'acquisition de clients, d'accord ?
+Je ne vais jamais chercher des nouveaux clients
+sur Facebook Ads et Instagram.
+Par contre, j'utilise Facebook Ads et Instagram
+pour aller recibler des personnes
+qui sont allées sur mon site sans faire d'achat
+via les campagnes Google Ads,
+via le SEO, via le blog,
+via l'affiliation, etc.
+Ces personnes-là,
+c'est des personnes qui sont chaudes,
+qui ont exprimé une intention de recherche
+via Google
+et eux, s'ils n'ont pas fait d'achat,
+je vais aller les recibler
+donc avec des campagnes publicitaires
+en leur proposant des codes promo,
+par exemple,
+pour terminer leur panier.
+Enfin, plein de petites techniques
+que je te présenterai dans ce module-ci.
+Et donc ça, ça va générer
+du trafic, encore une fois,
+et des ventes.
+Donc voilà, ça, c'est l'écosystème global.
+À tout ça, on va ajouter par-dessus
+des petites techniques,
+des petits hacks
+que je vais te présenter également
+dans le module qui sera des géo-hacks
+par rapport aux conversions.
+Et à la fin,
+une fois que tu as automatisé
+toutes les tâches
+qui ont besoin d'un humain
+et que tu as automatisé
+toutes les campagnes de pub
+avec l'IA,
+avec les campagnes intelligentes,
+tu vas te retrouver avec une muse
+qui est entièrement automatisée
+et qui génère de l'argent
+de façon quasi passive.
+Donc les modules de la formation,
+je vais les reprendre rapidement,
+mais grosso modo,
+c'est tous les points
+que je viens de te présenter ici
+sur le petit schéma de la muse.
+Premièrement,
+donc la recherche de niches.
+Ensuite,
+on va passer au SEO on-site.
+Ensuite,
+on va avoir un gros module
+sur tout ce qui va être graphisme,
+identité de la marque.
+Ça, c'est hyper important.
+D'ailleurs,
+je m'arrête là
+avant d'aller plus loin.
+Les modules sont à suivre
+étape par étape.
+Donc c'est déjà trié.
+Il ne faut pas forcément
+que tu commences par le module 6,
+SEO off-site,
+ensuite le blog,
+ensuite SEO on-site.
+Je t'invite vraiment
+à suivre la formation.
+Déjà, regarde-la une fois
+sans rien faire,
+juste en prenant quelques notes,
+etc.
+Et ensuite,
+regarde-la une deuxième fois
+en appliquant
+et tu peux faire du coup
+tout de A à Z
+en suivant module par module.
+Tu auras à chaque fois
+un récapitulatif
+de ce que tu dois mettre en place
+en dessous de la vidéo.
+Je te mettrai un encadré
+avec ce que tu dois faire
+tiré de la vidéo
+que tu viendras de regarder
+et tu as juste finalement
+à te laisser guider
+par les modules.
+J'ai vraiment réfléchi ça
+de façon logique
+pour que tu n'aies pas besoin
+d'alterner entre un module
+et un autre.
+Tu peux tout suivre de A à Z.
+Donc troisièmement,
+les graphismes,
+l'identité de la marque,
+le branding.
+Ensuite,
+on va passer au blog
+avec un gros module sur le blog.
+Comment trouver des requêtes,
+comment rédiger rapidement du contenu
+parce que l'idée,
+ce n'est pas de passer des journées
+à rédiger du blog.
+Mais tu verras,
+j'ai des techniques
+pour aller assez rapidement.
+Ensuite,
+l'email marketing
+que j'ai écrit ici
+e-mail.
+Il faudra que je change
+du coup dans la slide
+en mettant e-mail
+mais c'est bien
+email marketing.
+Super important.
+Sixièmement,
+on verra toute la partie
+SEO off-site.
+Ensuite,
+on verra la partie Google Ads.
+Ensuite,
+on passera au branding
+et aux réseaux sociaux
+notamment avec le retargeting
+qui viendra juste après.
+Et à la fin,
+on aura tous les bonus.
+Donc les bonus,
+c'est par exemple
+des contenus de mise à jour
+que je mettrai par la suite.
+Ça va être des lives,
+ça va être des petits hacks,
+etc.
+que je vais te rajouter
+au fur et à mesure
+de la formation.
+Et ce n'est pas impossible
+que dans le temps,
+je fasse intervenir
+de nouveaux intervenants,
+des personnes avec qui je travaille,
+des personnes avec qui je suis associé.
+Si je juge
+que ce qu'elles ont apporté,
+c'est intéressant pour la formation,
+même si c'est complémentaire
+à la stratégie,
+je les ferai intervenir
+dans des modules DJ,
+dans des modules bonus.
+L'objectif final
+à la fin de la formation,
+c'est que tu aies
+une boutique
+à 100%,
+que ça génère
+du cash flow positif
+durant toute l'année,
+pas seulement pendant une période,
+mais bien pendant toute l'année.
+Pour ça,
+on va trouver des niches
+qui seront adaptées
+et que tu puisses cumuler
+plusieurs muses
+pour scaler horizontalement
+et pas verticalement.
+Quelle est la différence
+entre scaler horizontalement
+et verticalement ?
+Si tu veux,
+les méthodes
+qui étaient un petit peu
+à l'ancienne
+où on te disait
+de prendre un produit gagnant
+et de faire une publicité
+sur Facebook
+avec influenceurs,
+l'idée pour générer
+plus d'argent
+avec ces boutiques-là,
+c'est de scaler verticalement.
+Donc en gros,
+l'idée,
+c'est de garder
+essayer de faire monter les ventes
+en mettant toujours plus de budget,
+en trouvant plus d'influenceurs,
+etc.
+Mais on scale verticalement
+sur la même boutique.
+Le scaling horizontal,
+ça consiste à avoir du coup
+une muse
+et on va aller en dupliquer
+une autre,
+encore une autre,
+encore une autre
+et on va finalement
+cumuler plusieurs petits
+entre guillemets business
+et c'est ce que j'appelle
+un scaling horizontal
+et je trouve ça
+beaucoup plus intelligent
+que de scaler verticalement
+et de faire la course
+au volume en termes de vente.
+Alors les points faibles
+de la stratégie
+parce que je me dois
+d'être honnête
+et de parler des points forts
+comme des points faibles.
+Les points faibles pour moi,
+il y en a deux principaux.
+Le premier,
+c'est que c'est difficile
+de sourcer toute la boutique
+avec un agent
+car on va mettre
+beaucoup de produits.
+Donc ça,
+ça implique généralement
+de travailler avec Aliexpress
+majoritairement.
+Donc il y a beaucoup de personnes
+qui veulent des alternatives.
+Alors moi,
+je te le dis sur toutes mes muses
+et donc depuis 2018,
+j'ai quand même généré
+plusieurs millions d'euros
+de ventes et de chiffre d'affaires.
+J'ai toujours bossé
+avec Aliexpress.
+Donc crois-moi,
+Aliexpress,
+c'est en aucun cas un frein.
+C'est sûr que c'est pas
+le meilleur fournisseur
+si on compare avec des artisans français
+ni quoi que ce soit.
+Bien évidemment,
+il faut être honnête.
+Maintenant,
+c'est efficace,
+les produits ne sont pas chers,
+tu as un catalogue
+qui est ultra varié
+et il livre en 7 à 15 jours ouvrés.
+Donc c'est pas non plus
+quelque chose qui est arradgé.
+Moi,
+sur mes boutiques,
+c'est full Aliexpress.
+Alors bien évidemment,
+sur les produits
+qu'on appelle best-sellers,
+ceux qui sont vendus à 80%,
+c'est possible de les sourcer
+hors d'Aliexpress
+par un agent.
+Mais tout ça,
+j'y reviendrai dans la fin
+de l'information
+parce que c'est pas ce qui est important
+quand on débute.
+Mais je t'en parle rapidement
+pour t'introduire le sujet.
+Tu peux travailler avec 80%
+de ta boutique Aliexpress
+et 20% des best-sellers
+avec un agent.
+Moi,
+personnellement,
+c'est pas ce que j'ai fait.
+Si tu veux,
+moi,
+sur mes best-sellers,
+j'ai mis en place
+des partenariats entre guillemets
+avec mes fournisseurs Aliexpress
+qui me personnalisent mes packaging
+mais ça reste sur Aliexpress.
+Ils me génèrent des liens spéciaux
+uniquement pour ma boutique
+que j'ai pu lier du coup
+avec une API
+sur ma boutique Shopify.
+Vraiment,
+je te parle de ça
+mais c'est du détail
+qu'on verra vraiment
+dans les bonus
+pour aller plus loin
+parce que c'est pas vraiment
+ce qui est obligatoire au début
+mais c'est des choses
+qui sont possibles de faire.
+Mais tout ça pour dire
+qu'un des principaux points faibles
+de la stratégie
+c'est que tu vas pas pouvoir sourcer
+comme quand tu fais
+avec un monoproduit
+un produit chez un agent,
+faire un stock chez lui
+et les envoyer en deux jours.
+Avec la stratégie de Muse,
+tu vas avoir 500,
+600, 800,
+peut-être voire 1000 produits
+voire plus
+selon les thématiques
+et tu te doutes bien
+que quand tu as autant de produits,
+tu peux pas les sourcer
+un par un
+chez un agent spécifique.
+Tu vas devoir travailler
+avec Aliexpress
+en flux tendu.
+Et le deuxième point faible
+en tout cas pour moi
+c'est que le potentiel de scaling
+est plus faible
+qu'avec du monoproduit
+en one shop.
+C'est à dire que moi
+sur mes muses personnels
+j'arrive à générer
+en moyenne entre 500
+à 2000 euros par jour
+de CA par boutique
+quand je mets en place
+la stratégie de repédit
+en entier.
+Alors que les personnes
+par exemple
+qui vont faire du monoproduit
+avec des influenceurs
+ou avec du Facebook Ads
+ou autre,
+c'est possible parfois
+de faire 10 000 euros par jour,
+20 000 euros par jour
+sur une grosse promotion.
+Moi en mettant en place
+du SEO,
+du Google Ads,
+de l'affiliation,
+du retargeting etc.
+de 1000 euros par jour
+mais en moyenne à l'année
+c'est entre 500 à 2000 euros par jour
+et l'idée du coup
+c'est d'aller scaler
+horizontalement
+ces ventes là
+avec plusieurs boutiques.
+Si tu arrives admettons
+à créer 5 muses différentes
+qui génèrent 1000 euros par jour
+tu arrives à générer
+5000 euros par jour
+et par mois
+ça va te donner
+150 000 euros de chiffre d'affaires
+ce qui est loin d'être dégueulasse.
+Donc moi en tout cas
+je trouve ça plus simple
+avec ces stratégies là
+de scaler horizontalement
+que verticalement
+mais maintenant
+il faut bien le savoir
+qu'avec ces boutiques là
+tu vas pas faire
+du jour au lendemain
+20 000 euros de chiffre d'affaires
+sur une boutique
+tu vas faire entre
+500 à 2000 euros par jour
+ça dépend encore une fois
+de ce que tu vends
+si tu es sur du high ticket
+des produits chers
+donc tu vas être
+un petit peu plus haut
+si tu vends des produits
+vraiment pas chers
+à 15, 20, 30 euros
+tu vas être plutôt
+sur 500 à 1000 euros par jour
+et après
+pour aller chercher
+vraiment du volume de vente
+il va falloir créer
+d'autres muses Shopify.
+Les points forts maintenant
+en revanche
+c'est ce qui est le plus important
+c'est que premièrement
+tu vas avoir des résultats
+à coup sûr rapidement
+pourquoi je dis
+des résultats à coup sûr rapidement
+c'est parce qu'on va pas avoir
+le testing Facebook à faire
+encore une fois
+je fais le parallèle avec les monoproduits
+sur Facebook Ads etc
+il fallait à chaque fois
+faire un sourcing de produits
+potentiellement gagnants
+entre guillemets
+et faire des testings
+en dépensant des centaines d'euros
+par produit en testing sur Facebook
+nous c'est pas ça qu'on va faire
+notre stratégie
+elle est basée sur l'intention de recherche
+donc on va vendre directement
+à des gens
+ce qu'ils ont exprimé
+comme intention de rechercher
+via Google
+donc on est sûr de ne pas se tromper
+deuxième point fort
+c'est l'aspect long terme
+encore une fois
+on va pas vendre un produit gagnant
+qui va être tendance
+pendant un mois
+on va vendre des produits
+qui sont recherchés
+toute l'année par les gens
+ça va être des termes de recherche
+qui vont être recherchés
+cette année
+l'année prochaine
+dans 2 ans
+dans 5 ans
+dans 10 ans
+c'est des recherches
+qui sont tout le temps
+tapées sur Google
+donc si tu fais une boutique là-dessus
+tu vas pas avoir des ventes
+pendant un mois
+et après ce sera fini
+tu vas avoir une boutique
+qui sera vraiment long terme
+et enfin dernier point
+l'un des plus importants
+c'est le fait que tu vas être
+intouchable par la concurrence
+pourquoi ?
+tout simplement parce que
+contrairement aux boutiques
+encore une fois
+qui sont un petit peu fragiles
+avec Facebook Ads
+en monoproduit
+tu te doutes bien
+que pour un concurrent
+c'est assez décourageant
+de pouvoir faire un shop
+sur lequel il y a déjà
+un ou plusieurs concurrents
+qui ont plus de 1000 produits
+qui ont des dizaines de backlinks
+voire des centaines
+qui ont des milliers
+de trafics mensuels
+enfin c'est beaucoup plus décourageant
+que de juste recopier une boutique
+monoproduit Facebook Ads
+en ajoutant un produit
+et la boutique va prendre
+une journée à construire
+là l'idée ici
+c'est de construire
+des vrais shops solides
+avec des milliers de produits
+de le sécuriser
+avec un SEO
+qui va être intouchable
+et donc tu vas forcément
+faire fuir toutes les personnes
+qui seraient un peu mal attentionnées
+qui voudraient recopier ta boutique
+d'une pierre de goût
+tout simplement
+donc voilà on a vu
+tous les points importants
+concernant la stratégie
+de drop elite
+je te propose qu'on enchaîne
+tout de suite
+avec la suite de la formation
+à tout de suite

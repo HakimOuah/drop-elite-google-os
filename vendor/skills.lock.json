@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {
+      "name": "brandkit",
+      "version_observed": null,
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/brandkit/SKILL.md",
+          "bytes": 15992,
+          "sha256": "b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede"
+        }
+      ]
+    },
+    {
+      "name": "competitor-profiling",
+      "version_observed": "2.0.0",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/competitor-profiling/SKILL.md",
+          "bytes": 14245,
+          "sha256": "ea7b5b7feb79ead8df038653c33aae96d38890784018a2b0afae9b2a1e21b3af"
+        },
+        {
+          "path": "vendor/agent-skills/competitor-profiling/evals/evals.json",
+          "bytes": 7496,
+          "sha256": "53c34c29378d3c16db7a43189e4d6903a4740bedc09e576246243434d4b6d89a"
+        },
+        {
+          "path": "vendor/agent-skills/competitor-profiling/references/templates.md",
+          "bytes": 4668,
+          "sha256": "710d78cb519012eb7e39f63643e22d7b9026c91c569262b44c45535c10717a91"
+        },
+        {
+          "path": "vendor/agent-skills/competitor-profiling/references/tool-reference.md",
+          "bytes": 7082,
+          "sha256": "37defe4f29d15a74b10e9b0c17d798f62effaa025e2ff8fece377171adbb658a"
+        }
+      ]
+    },
+    {
+      "name": "copywriting",
+      "version_observed": "2.0.1",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/copywriting/SKILL.md",
+          "bytes": 7627,
+          "sha256": "ecdaabca28863d1472f79ba637842fdf4ac2fd9acc92b215ab7f152e757b2a33"
+        },
+        {
+          "path": "vendor/agent-skills/copywriting/evals/evals.json",
+          "bytes": 8118,
+          "sha256": "1cd7c27538b91d46c2b2cd007f2064922a4874ece1f2851b4bd844fe6f78a3e6"
+        },
+        {
+          "path": "vendor/agent-skills/copywriting/references/copy-frameworks.md",
+          "bytes": 7887,
+          "sha256": "f387b6ed4b510efa9f0d3c459f4898971c8b0176e8c34185040cb264eca50186"
+        },
+        {
+          "path": "vendor/agent-skills/copywriting/references/natural-transitions.md",
+          "bytes": 5684,
+          "sha256": "4ff23f8943af2f65b072f26f1c53ce55f19cc26d7be211c11cae8e34b43e859f"
+        }
+      ]
+    },
+    {
+      "name": "cro",
+      "version_observed": "2.0.0",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/cro/SKILL.md",
+          "bytes": 6101,
+          "sha256": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4"
+        },
+        {
+          "path": "vendor/agent-skills/cro/evals/evals.json",
+          "bytes": 7656,
+          "sha256": "62f3003602836e2b49d797ca582e7703629a6b07b131eb77b51b2bb39fe65775"
+        },
+        {
+          "path": "vendor/agent-skills/cro/references/experiments.md",
+          "bytes": 7850,
+          "sha256": "bbcc356c0af36cfaa4556bf9e929deac30c65cafb37f909d7c51d4777fe254ca"
+        },
+        {
+          "path": "vendor/agent-skills/cro/references/form.md",
+          "bytes": 10312,
+          "sha256": "e3115b0fdfb3968915b8e3acdc32a6e5f1d2c6a335ebbed25bee9b601ec573d7"
+        }
+      ]
+    },
+    {
+      "name": "customer-research",
+      "version_observed": "2.0.1",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/customer-research/SKILL.md",
+          "bytes": 12758,
+          "sha256": "f44c116c46904bba256604f62e97048c2872f389a963843254129cc511cdf1ff"
+        },
+        {
+          "path": "vendor/agent-skills/customer-research/evals/evals.json",
+          "bytes": 11007,
+          "sha256": "b24c611c1cf6cbdfd346d9cd33678568c4fc2bb9e4f5036923553454d394560c"
+        },
+        {
+          "path": "vendor/agent-skills/customer-research/references/source-guides.md",
+          "bytes": 16190,
+          "sha256": "56682ea98d781060396fd4009739d071671b3489a0d4c81f0a0ef3078cb5c9ee"
+        }
+      ]
+    },
+    {
+      "name": "ecommerce-copywriting",
+      "version_observed": "1.0.0",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/ecommerce-copywriting/SKILL.md",
+          "bytes": 9226,
+          "sha256": "d1bd048367a3acf9c793a60f5ec450c48420672a8386c89190dd5a9a915b87c2"
+        },
+        {
+          "path": "vendor/agent-skills/ecommerce-copywriting/references/checkout-copy.md",
+          "bytes": 7289,
+          "sha256": "266f70e8265283750a795a406511f2411157069ef3587dcb3c5a5a8d93b75493"
+        },
+        {
+          "path": "vendor/agent-skills/ecommerce-copywriting/references/email-templates.md",
+          "bytes": 10796,
+          "sha256": "33e64c19e669388887ec1581bae139415eeaeaeb7ee377794cc9bd9ddd078a8e"
+        },
+        {
+          "path": "vendor/agent-skills/ecommerce-copywriting/references/product-descriptions.md",
+          "bytes": 7534,
+          "sha256": "b0c7e6b964378fa61aec26e0efcc3406f5f66f0eb3d03b9d82f144331e3dc0eb"
+        },
+        {
+          "path": "vendor/agent-skills/ecommerce-copywriting/references/seo-ecommerce.md",
+          "bytes": 8218,
+          "sha256": "a83f10f1453c853af6a332fecff4b2150b1ec598f7b24cf34e39fd7f5b0fbef0"
+        }
+      ]
+    },
+    {
+      "name": "ecommerce-growth-strategy",
+      "version_observed": null,
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/ecommerce-growth-strategy/SKILL.md",
+          "bytes": 22312,
+          "sha256": "073f6252641779efdfb4e95822136018bfaf59034f8b77b50b486adb3b20a48a"
+        }
+      ]
+    },
+    {
+      "name": "marketing-plan",
+      "version_observed": null,
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/marketing-plan/SKILL.md",
+          "bytes": 21281,
+          "sha256": "548e1bd8f31fdef3ffb8edf4f3218a8162b4ac2f04b639affe547bee6dd0cba0"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/evals/evals.json",
+          "bytes": 7752,
+          "sha256": "3daf07ae3b26f6e5eb468608d640e7a975c333bfae9ec0ba2ca6f7d56aa7e0b6"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/aarrr-framework.md",
+          "bytes": 10766,
+          "sha256": "5c7bf583c2aa62e193789b6b1a88a978bf3ba9dc0c8c6653b53f7f62c0c1a0e3"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/budget-planning.md",
+          "bytes": 8571,
+          "sha256": "8f2a8870df26f713967abafad5b7869bedb7ed5e19840b7b712d23d15d4857a6"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/client-types.md",
+          "bytes": 11386,
+          "sha256": "06e3d0a6f3e9b7195a8c0b43d5186769d1554d1dfd8b1212aca220f9ce09fc01"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/current-state-rubric.md",
+          "bytes": 11656,
+          "sha256": "8ab1d4a4d16ec01c2bf61d83807c0abd857aadd82f3eeaf4e4842b4bbeff1f03"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/example-quietude.md",
+          "bytes": 69116,
+          "sha256": "63c002257ee1f6eaeb7c99c4ab9c650ea8bd8f7586c75e4565c2322faef82a04"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/funding-stage-unlocks.md",
+          "bytes": 9797,
+          "sha256": "49f073653ac32dd42b7e5e10c3deabd7adae8120c41baf0cf813ec20164c6488"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/growth-patterns.md",
+          "bytes": 9534,
+          "sha256": "78284080de090fb82c881266e0dfc958c080d4a5c9575c6e50a83b3271cc5a58"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/idea-cross-reference.md",
+          "bytes": 13418,
+          "sha256": "350fa9c6f4cb4cd8f23698adb8479ae94cd6564a06b2b7cfcdf1430448e68d2f"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/measurement-framework.md",
+          "bytes": 10845,
+          "sha256": "93d9bf9d9e624a6031a27ce61cf1617e3aa5a8fff57e1c6f80194f847234b745"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/methodology.md",
+          "bytes": 16577,
+          "sha256": "59fd621b7fb694b9bbceaeb69f3711e4621d1a594598942e636058e2aa4afcc1"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/ops-stack-mapping.md",
+          "bytes": 12221,
+          "sha256": "9a506816d87ed176c0578d13bbf25c5f8398872d9002b3589e2dfa42ad17c907"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/plan-template.md",
+          "bytes": 18735,
+          "sha256": "bce84c2c3c31c9163a0849a1371aadb13f6ab8b29402e64b7d5b95c316a79656"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-plan/references/team-and-agency-model.md",
+          "bytes": 14537,
+          "sha256": "0c5e55c0992de4d5d24cd299eb46765a8986cb204ebd7c65bce32c868ae0d5f7"
+        }
+      ]
+    },
+    {
+      "name": "marketing-psychology",
+      "version_observed": "2.0.0",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/marketing-psychology/SKILL.md",
+          "bytes": 21884,
+          "sha256": "573bbe4f6e300e7fb75299e314f56e26382d284782caa2ae0e0f33eb2e646548"
+        },
+        {
+          "path": "vendor/agent-skills/marketing-psychology/evals/evals.json",
+          "bytes": 6036,
+          "sha256": "c3b7d15b3008eeb493796e21affd6a0c6e7ce312f9cfeffcdef467857903c733"
+        }
+      ]
+    },
+    {
+      "name": "offers",
+      "version_observed": "1.0.0",
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/offers/SKILL.md",
+          "bytes": 9462,
+          "sha256": "cdc291bdf93b9ce135c39f034283acaee136b453239b7fe712823fae4f2d5a12"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/bonus-stacking.md",
+          "bytes": 7758,
+          "sha256": "872abbfd14501fd0b097f5ae62b9931571152d43b6690b57df5e65ab48aedfbd"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/examples.md",
+          "bytes": 10203,
+          "sha256": "f1033e181845effe8c659800aaf68523686be6bdcb1c5e256c87008e8ea638af"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/guarantee-design.md",
+          "bytes": 8173,
+          "sha256": "daa421558b664fe5a335c6cb764d47755799662c79606551a848bba864255c29"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/offer-anatomy.md",
+          "bytes": 8857,
+          "sha256": "0810080788bedc9b40dc0aba53109991aa816397f4b45e813289985eb8a64cad"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/offer-formats.md",
+          "bytes": 10557,
+          "sha256": "667d87198dcd3b5892151d33a917919141bc718822a2a4add3e9c100891755bb"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/scarcity-urgency.md",
+          "bytes": 7106,
+          "sha256": "4abe51a54188e6c93feb6cface92abc5c8e03212b8ade5bd9366ed159ad3f8f8"
+        },
+        {
+          "path": "vendor/agent-skills/offers/references/value-equation.md",
+          "bytes": 7883,
+          "sha256": "4610ff358be2be643e7783884e628f01e1e0c56915a7924e5ccb92c096121eff"
+        }
+      ]
+    },
+    {
+      "name": "storefront-best-practices",
+      "version_observed": null,
+      "source_observed": "~/.agents/skills",
+      "snapshot_date": "2026-08-08",
+      "files": [
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/SKILL.md",
+          "bytes": 22506,
+          "sha256": "191d60837b5bd6012dc8b033a9818ecdea266da0ab141150b0a10989d78ad7ce"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/breadcrumbs.md",
+          "bytes": 3846,
+          "sha256": "baf256290ec38fb11b2b14851c5f30a6da28c018f791d6715ae818cd1100c1e1"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/cart-popup.md",
+          "bytes": 7187,
+          "sha256": "d7158b4d77f012222bbd534e915f8c82e39052b97d335647ca3d997a113bd5d5"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/country-selector.md",
+          "bytes": 9423,
+          "sha256": "8915f068bdce3262383384ec7a3cd2b472e0d0c81b5a3b8c5843a6e4d2f0750d"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/footer.md",
+          "bytes": 3768,
+          "sha256": "476208c2b636bb6a1e9cfcb01692f8f61da8767e0cfdc863822e3d955b830315"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/hero.md",
+          "bytes": 7196,
+          "sha256": "43143f712d55b06a7c1be24efa9fbdb403173b7a54a8c4192830e551df9af4d1"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/megamenu.md",
+          "bytes": 8847,
+          "sha256": "1081228daddab533962f132d810ef4f59fb80f8afa40be8cb64277a6f244f246"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/navbar.md",
+          "bytes": 13990,
+          "sha256": "535bfaa6c8f7bdb63469706513d766581352f6c43a9e19bdbe935a2248bd1e60"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/popups.md",
+          "bytes": 7357,
+          "sha256": "d2b0120a234997a2848f643b84cc4fdc8a82e6ca5545b602d280d4e5c0866cf6"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/product-card.md",
+          "bytes": 4677,
+          "sha256": "4839cb5a1d16e93e95ef3c761d8088f89559775f21182a2b041646bd7e26d700"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/product-reviews.md",
+          "bytes": 6492,
+          "sha256": "79649df1a70a0fd0a53929fbc3985d85e07b07813c7307f6ae6c7b75cef4d657"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/product-slider.md",
+          "bytes": 5240,
+          "sha256": "ba7fa5550370cf04f89794f6cea96ac4b447afa94c90cf5209ba64e64e42edea"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/components/search.md",
+          "bytes": 3986,
+          "sha256": "fc40e542971d6f4f94ebb4be5db1f8f5f223356ed16078ab158fbe0a4ab5593b"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/connecting-to-backend.md",
+          "bytes": 13752,
+          "sha256": "59da31fee34eab89c63356d4ca979af33954f55a6deee8c1423b1812a5adcabe"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/design.md",
+          "bytes": 12267,
+          "sha256": "dcb77723abef124c405e21a07d75708129944ff77e4fee107d20e97923c4ec61"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/features/promotions.md",
+          "bytes": 10011,
+          "sha256": "54994a90bf2fe83e07a3d0fe2b7778ade488c43277d95d7a8fb150fccc724cf6"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/features/wishlist.md",
+          "bytes": 8269,
+          "sha256": "a1a6bfd0d8211feb3b1ab89de03d9eb544735385241d618bcdd474d2fa5f4b31"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/account.md",
+          "bytes": 12090,
+          "sha256": "4cae49d18b385906e225eb0cb448eb5d1c54b0935adb4f38c4a862d845e5085a"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/cart.md",
+          "bytes": 10611,
+          "sha256": "7e57c5639bff17fb4d453cce34cf834675ef6dec2ca5b652ba0a04ecf2f2fbed"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/checkout.md",
+          "bytes": 22368,
+          "sha256": "51f672eb9b33f95ce392816146bfbadae8893534eae17b43d20c911970c2b954"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/home-page.md",
+          "bytes": 8957,
+          "sha256": "362cdb58fb9bfcf652100422d578944a0b21cf882908652a9cf71227bc8e947c"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/order-confirmation.md",
+          "bytes": 7014,
+          "sha256": "c2f7d853580d143782a85614cfa91b405c8992a886e43b00f6e79da7c28f1796"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/product-details.md",
+          "bytes": 15691,
+          "sha256": "71f8ec4dabd8385b529d2640d0a4f8bf9ff512893df752f6ca773870b31e9b41"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/product-listing.md",
+          "bytes": 15995,
+          "sha256": "b3801affa73fa88d39d069cc6bbfdfdc332ebe7f2b2b4101b68f591540c15820"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/layouts/static-pages.md",
+          "bytes": 9996,
+          "sha256": "769c2dacd7dca7f9b5f6a440efae11dc62ba328610f79d059aa50356b7a9eeff"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/medusa.md",
+          "bytes": 10088,
+          "sha256": "c1b6a0d144aa1338253ded646faa02ae82c0348414647eaa80e722b3cf79b18b"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/mobile-responsiveness.md",
+          "bytes": 7195,
+          "sha256": "a2e9f679dfc03b9b070de40976c5e3248763f794ca6280f946eab0b2401857b2"
+        },
+        {
+          "path": "vendor/agent-skills/storefront-best-practices/reference/seo.md",
+          "bytes": 8123,
+          "sha256": "d8f66ea6c51ab9e18a51f81b2635911851f8f8293fa1cb6fbc16989e6d834a8c"
+        }
+      ]
+    }
+  ]
+}

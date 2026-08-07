@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.370 --> 00:00:01.000
+Salut à tous.
+
+2
+00:00:01.230 --> 00:00:02.240
+Dans cette vidéo,
+
+3
+00:00:02.240 --> 00:00:04.160
+nous allons voir du coup la partie technique.
+
+4
+00:00:04.320 --> 00:00:06.160
+Alors il s'agit encore une fois que d'une introduction,
+
+5
+00:00:06.390 --> 00:00:09.000
+nous allons voir vraiment la technique juste après,
+
+6
+00:00:09.430 --> 00:00:11.520
+mais pour vous, comprenez vraiment les enjeux
+
+7
+00:00:11.520 --> 00:00:12.560
+de cette partie technique.
+
+8
+00:00:12.560 --> 00:00:15.000
+Vous avez trois piliers encore.
+
+9
+00:00:15.540 --> 00:00:18.280
+Il y avait déjà trois piliers en général sur le co,
+
+10
+00:00:18.590 --> 00:00:20.720
+mais sur la technique, vous avez également trois autres
+
+11
+00:00:20.720 --> 00:00:22.840
+piliers qui vont être du coup.
+
+12
+00:00:22.840 --> 00:00:27.160
+La performance l'ergonomie est le balisage, ok,
+
+13
+00:00:27.380 --> 00:00:30.800
+ce qui tout simplement comment Google crall ce qu'on appelle
+
+14
+00:00:30.800 --> 00:00:33.280
+croler votre site, comment il va naviguer au sein de votre
+
+15
+00:00:33.280 --> 00:00:35.800
+site, comment ça a été construit et est ce
+
+16
+00:00:35.890 --> 00:00:37.040
+qu'il navigue facilement.
+
+17
+00:00:37.040 --> 00:00:39.240
+Il arrive à bien détecter vos mots, cl, etc. Du coup.
+
+18
+00:00:39.240 --> 00:00:40.360
+Donc les outils à avoir,
+
+19
+00:00:40.590 --> 00:00:43.920
+vous avez besoin de Google page speed, ok, nous,
+
+20
+00:00:43.920 --> 00:00:46.640
+on va vous montrer dans toute la partie co sur un bébé a
+
+21
+00:00:46.640 --> 00:00:48.680
+bébé est un site internet qui est une très
+
+22
+00:00:48.680 --> 00:00:50.200
+difficile qu'on vient de lancer.
+
+23
+00:00:50.200 --> 00:00:51.240
+On n'a encore aucun résultat,
+
+24
+00:00:51.240 --> 00:00:53.040
+mais on a déjà fait normalement tout le travaillant.
+
+25
+00:00:53.140 --> 00:00:55.080
+Si donc, tout au long de cette formation,
+
+26
+00:00:55.080 --> 00:00:58.240
+vous devriez voir avec nous l'évolution des résultats de
+
+27
+00:00:58.240 --> 00:00:59.880
+cette boutique qui est une niche difficile,
+
+28
+00:01:00.110 --> 00:01:01.440
+mais en même temps, on a tout
+
+29
+00:01:01.440 --> 00:01:02.560
+fait en sorte pour pouvoir manquer.
+
+30
+00:01:02.590 --> 00:01:05.280
+Donc il n'y a pas de raison qu'on n'en obtienne pas quelques
+
+31
+00:01:05.400 --> 00:01:06.800
+position d'ici là du coup.
+
+32
+00:01:06.980 --> 00:01:11.040
+La première étape qui va être de vérifier la vitesse d'un
+
+33
+00:01:11.040 --> 00:01:13.920
+site, vous avez Google page speed insectes.
+
+34
+00:01:14.230 --> 00:01:15.640
+Vous pouvez du coup taper le
+
+35
+00:01:15.640 --> 00:01:16.760
+nom de votre site ou de votre page.
+
+36
+00:01:17.180 --> 00:01:18.480
+Moi, je l'ai déjà fait. Donc on va
+
+37
+00:01:18.600 --> 00:01:20.080
+analyser ensemble un bébé.
+
+38
+00:01:20.220 --> 00:01:23.360
+Ce qu'il faut retenir, c'est qu'il faut généralement 50 ans
+
+39
+00:01:23.360 --> 00:01:25.720
+mobiles et 90 empc.
+
+40
+00:01:25.720 --> 00:01:27.760
+Si vous n'obtenez pas ces scores, eh bien,
+
+41
+00:01:27.760 --> 00:01:30.480
+vous allez voir dans le module d'après comment on obtient
+
+42
+00:01:30.480 --> 00:01:32.000
+facilement ces scores.
+
+43
+00:01:32.340 --> 00:01:34.080
+Ok, donc là c'est en train de charger.
+
+44
+00:01:34.220 --> 00:01:39.120
+Je ne sais pas, je suis 82 en mobile et j'ai en bureau 99.
+
+45
+00:01:39.940 --> 00:01:41.120
+Ce qu'il faut savoir, c'est qu'ici,
+
+46
+00:01:41.120 --> 00:01:42.640
+ça donne des astuces aux développeurs.
+
+47
+00:01:42.640 --> 00:01:45.640
+Encore une fois, parfois les sites commerces et quand même
+
+48
+00:01:45.640 --> 00:01:47.240
+assez lourd, vous avez des extensions, etc.
+
+49
+00:01:47.380 --> 00:01:50.680
+On va voir non pas comment se prendre la tête pour tout
+
+50
+00:01:50.680 --> 00:01:54.000
+supprimer, mais plutôt avec quel type de stratégie on peut
+
+51
+00:01:54.000 --> 00:01:55.400
+facilement augmenter le score.
+
+52
+00:01:56.220 --> 00:01:58.600
+Du coup, le deuxième outil que vous allez avoir besoin,
+
+53
+00:01:59.250 --> 00:02:02.960
+c'est le petit outil de hf qui vous permet tout simplement
+
+54
+00:02:02.960 --> 00:02:06.600
+de vérifier que de votre balisage est ok, encore une fois,
+
+55
+00:02:06.600 --> 00:02:08.240
+sur une page spécifique après on va
+
+56
+00:02:08.240 --> 00:02:09.600
+voir en détail d'autres choses.
+
+57
+00:02:10.030 --> 00:02:11.760
+Mais voilà, ça va être un petit outil.
+
+58
+00:02:11.760 --> 00:02:13.280
+Quand vous allez dans le fontaine, généralement,
+
+59
+00:02:13.280 --> 00:02:15.760
+on a bien la hiérarchie des contenus pour vérifier que
+
+60
+00:02:15.760 --> 00:02:17.080
+toutes les balises sont dans le bon ordre.
+
+61
+00:02:17.860 --> 00:02:19.000
+Voilà et ça,
+
+62
+00:02:19.000 --> 00:02:21.440
+on le voit dans un module juste après le troisième point,
+
+63
+00:02:21.690 --> 00:02:23.000
+c'est l'ergonomie mobile.
+
+64
+00:02:23.400 --> 00:02:26.960
+Alors vous avez plusieurs logiciels qui vous permettent de
+
+65
+00:02:26.980 --> 00:02:28.480
+tester l'ergonomie mobile.
+
+66
+00:02:28.480 --> 00:02:32.440
+Vous avez déjà les outils comme hf qui va vous permettre de
+
+67
+00:02:32.440 --> 00:02:33.800
+crouller vos sites et de voir
+
+68
+00:02:34.440 --> 00:02:36.440
+s'il n'y a pas des soucis techniques à ce niveau.
+
+69
+00:02:36.440 --> 00:02:39.840
+Là, vous avez également des outils comme c aux quant
+
+70
+00:02:39.840 --> 00:02:41.400
+to qui vous permettent de faire des audits assez
+
+71
+00:02:41.600 --> 00:02:42.800
+intéressants d'un point de vue contenu.
+
+72
+00:02:42.800 --> 00:02:44.520
+Mais ça, on le verra plus d'un point de
+
+73
+00:02:44.520 --> 00:02:45.960
+vue dans la partie contenu.
+
+74
+00:02:46.620 --> 00:02:50.040
+Et vous avez des outils comme cross brosser testing
+
+75
+00:02:50.770 --> 00:02:52.400
+cross brosser testing qui vous permet
+
+76
+00:02:52.980 --> 00:02:54.560
+de tester l'expérience utilisateur
+
+77
+00:02:54.560 --> 00:02:55.720
+sous tout types de navigateurs.
+
+78
+00:02:55.720 --> 00:02:57.160
+Si vous n'avez pas forcément un Windows
+
+79
+00:02:57.160 --> 00:02:58.240
+mac, un iPhone, un dro,
+
+80
+00:02:58.980 --> 00:03:01.680
+Ok, vous avez la possibilité déjà tout simplement moi,
+
+81
+00:03:01.680 --> 00:03:03.200
+ce que je vous invite à faire quand vous créez un site
+
+82
+00:03:03.320 --> 00:03:05.120
+internet de toujours naviguer via votre site via votre
+
+83
+00:03:05.120 --> 00:03:07.480
+mobile aujourd'hui, Google et mobile first.
+
+84
+00:03:07.790 --> 00:03:09.400
+Vous avez bien entendu la possibilité,
+
+85
+00:03:09.400 --> 00:03:10.960
+en faisant que droit inspecter,
+
+86
+00:03:11.030 --> 00:03:12.720
+générer un mobile pour naviguer.
+
+87
+00:03:12.790 --> 00:03:13.960
+Mais encore une fois, c'est pas idéal.
+
+88
+00:03:13.960 --> 00:03:16.440
+D'ailleurs là, ça me permet de voir que notre
+
+89
+00:03:16.440 --> 00:03:17.520
+équipe s'est un peu trompé.
+
+90
+00:03:17.520 --> 00:03:19.520
+Elle aurait dû centrer pour ça, soit plus ergonomique.
+
+91
+00:03:19.900 --> 00:03:21.960
+Bon, vous allez dire que spin aille,
+
+92
+00:03:22.070 --> 00:03:23.840
+mais il y a moyen d'améliorer tout ça.
+
+93
+00:03:24.420 --> 00:03:26.480
+Voilà ça. C'est pour l'introduction aux techniques.
+
+94
+00:03:26.480 --> 00:03:27.680
+On va voir, on se retrouve tout de suite
+
+95
+00:03:28.220 --> 00:03:31.720
+sur comment obtenir déjà des performances incroyables avec
+
+96
+00:03:31.720 --> 00:03:33.440
+quelques outils tout de suite.

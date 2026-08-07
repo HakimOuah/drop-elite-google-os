@@ -1,0 +1,1036 @@
+1
+00:00:00,000 --> 00:00:13,200
+Alors dans cette vidéo, je vais t'expliquer de A à Z le fonctionnement de la stratégie qu'on va appliquer sur nos boutiques à partir du module 2.
+
+2
+00:00:13,200 --> 00:00:19,800
+Donc la stratégie de fond, elle est assez simple, je t'en ai parlé dans la vidéo précédente. L'objectif, c'est de créer ce que j'appelle une muse.
+
+3
+00:00:19,800 --> 00:00:25,800
+Donc le terme de muse, il a été popularisé par Tim Ferriss et il fait référence à un business quasi-passif.
+
+4
+00:00:25,800 --> 00:00:31,600
+Je dis quasi-passif car un business qui est vraiment full passif à 100%, pour moi ça n'existe pas vraiment.
+
+5
+00:00:31,600 --> 00:00:38,000
+Nous, nos business, ils vont être quasi-passifs dans le sens où il y a quand même au moins une fois par mois où il va falloir faire un petit check,
+
+6
+00:00:38,000 --> 00:00:44,800
+parler un petit peu avec les équipes à qui on aura délégué certaines tâches. Il va falloir entretenir le site, mais pour ça, si tu veux pas le faire toi-même,
+
+7
+00:00:44,800 --> 00:00:51,600
+il faudra le déléguer à des personnes qui vont ajouter des backlinks, je reviendrai sur ce terme plus tard, ajouter des contenus de blog, ajouter des nouveaux produits.
+
+8
+00:00:51,600 --> 00:00:55,200
+Donc ces choses-là, c'est soit toi qui les feras, dans ces cas-là, ce ne sera pas un business passif,
+
+9
+00:00:55,200 --> 00:01:01,200
+soit tu les délégueras à certaines personnes, ce que je te recommande de faire, mais dans ce cas-là, également, il faudra gérer ces personnes de temps en temps.
+
+10
+00:01:01,200 --> 00:01:08,000
+Donc moi, sur mes muse personnels, je passe à peu près deux heures par mois à m'en occuper parce que j'ai vraiment bien délégué toutes mes boutiques,
+
+11
+00:01:08,000 --> 00:01:12,800
+donc j'ai des process qui sont mis en place. Tout ça, on le verra à la fin de la formation quand on aura monté tout le business.
+
+12
+00:01:12,800 --> 00:01:19,400
+Mais j'ai vraiment structuré de A à Z tout ce qu'il y a à faire comme tâches et j'arrive du coup, via un bras droit également dans mon entreprise,
+
+13
+00:01:19,400 --> 00:01:23,200
+à ne passer que deux heures par jour à gérer plus d'une dizaine de boutiques.
+
+14
+00:01:23,200 --> 00:01:29,200
+Après, j'ai d'autres shops avec des associés où je bosse un peu plus dedans. Enfin bref, globalement, mon business est quasi-passif.
+
+15
+00:01:29,200 --> 00:01:35,200
+Donc il fait référence, pour finir la phrase, à un business quasi-passif qui génère de l'argent de façon automatisée.
+
+16
+00:01:35,200 --> 00:01:39,800
+L'idée, c'est d'avoir un business qui est au service de notre vie et pas l'inverse. Donc ça, je pense que tu l'avais compris.
+
+17
+00:01:39,800 --> 00:01:45,000
+J'en ai parlé un petit peu dans la vidéo précédente. Alors voici le schéma de la création d'une muse avec ma méthode.
+
+18
+00:01:45,000 --> 00:01:49,200
+Donc ce schéma, tu l'as peut-être déjà vu sur mes vidéos YouTube ou sur Telegram ou d'autres endroits,
+
+19
+00:01:49,200 --> 00:01:55,200
+mais je vais te le réexpliquer ici globalement. L'idée, donc ça ici, ça va être nous. Ça, ça va être notre muse Shopify.
+
+20
+00:01:55,200 --> 00:02:02,200
+Donc ça va être la boutique Shopify. Pour commencer à travailler sur la muse, on va d'abord faire ce qu'on appelle le SEO on-site.
+
+21
+00:02:02,200 --> 00:02:07,200
+Donc le SEO, c'est toutes les techniques de référencement naturel sur Google pour avoir du trafic gratuit.
+
+22
+00:02:07,200 --> 00:02:15,200
+Et le SEO est décomposé en on-site, donc toutes les optimisations à l'intérieur du site. Et la partie off-site qui est juste ici, je vais revenir juste après.
+
+23
+00:02:15,200 --> 00:02:20,200
+C'est toutes les optimisations qui vont être extérieures au site. Donc le SEO on-site, la partie optimisation, c'est quoi ?
+
+24
+00:02:20,200 --> 00:02:25,200
+C'est déjà trouver une niche qui a du potentiel, une niche qui a des recherches mensuelles sur Google.
+
+25
+00:02:25,200 --> 00:02:32,200
+Par exemple, on va essayer de trouver une thématique sur laquelle il y a 10 000 personnes qui recherchent, mettons le mot-clé collier pour chien.
+
+26
+00:02:32,200 --> 00:02:38,200
+Si on voit qu'il y a également 5 000 personnes qui recherchent collier pour chat, on voit qu'il y a aussi 20 000 personnes qui recherchent l'e-chair pour chat.
+
+27
+00:02:38,200 --> 00:02:43,200
+Enfin bref, on va se dire bon, la thématique des objets pour chat et chien, ça peut être intéressant.
+
+28
+00:02:43,200 --> 00:02:48,200
+Je dis ça purement par hasard, mais dans la suite de la formation, je te montrerai comment trouver des thématiques dans le concret.
+
+29
+00:02:48,200 --> 00:02:52,200
+Ça, ça va être la partie SEO de base, trouver une niche qui est intéressante.
+
+30
+00:02:52,200 --> 00:03:00,200
+Ensuite, on va l'optimiser, donc ce que j'appelle on-site, c'est-à-dire ajouter beaucoup de produits et un produit sur notre site va être ciblé sur un mot-clé.
+
+31
+00:03:00,200 --> 00:03:06,200
+Pareil pour les collections, je ne vais pas préciser ici, mais chaque collection va être optimisée pour se référencer sur un mot-clé Google.
+
+32
+00:03:06,200 --> 00:03:11,200
+Et pareil pour notre homepage, la page principale et finalement pareil pour le blog.
+
+33
+00:03:11,200 --> 00:03:14,200
+En fait, chaque page sera optimisée sur un mot-clé bien précis.
+
+34
+00:03:14,200 --> 00:03:21,200
+Une fois qu'on aura fait toute la structure on-site, donc à ce moment-là, on aura déjà un site avec des produits qui seront optimisés pour le SEO de façon on-site.
+
+35
+00:03:21,200 --> 00:03:26,200
+On va partir sur ce qu'on appelle le SEA, donc le SIN en anglais intelligent.
+
+36
+00:03:26,200 --> 00:03:30,200
+Le SEA, qu'est-ce que c'est ? Ça ressemble au SEO, c'est en fait la partie Google Ads.
+
+37
+00:03:30,200 --> 00:03:35,200
+Donc de l'anglais, ça veut dire Search Engine Advertising, donc publicité pour advertising.
+
+38
+00:03:35,200 --> 00:03:40,200
+Et ce SEA intelligent, il va servir à une chose globalement, c'est de tester au préalable la niche.
+
+39
+00:03:40,200 --> 00:03:48,200
+C'est-à-dire qu'on va envoyer du trafic sur notre boutique via le SEA intelligent, mais sur des produits qui ont été optimisés au préalable sur des mots-clés qui sont recherchés par les utilisateurs de Google.
+
+40
+00:03:48,200 --> 00:03:54,200
+Et on va pouvoir voir rapidement s'il y a de la traction envers notre site, envers la niche et si on peut passer au reste de la méthode.
+
+41
+00:03:54,200 --> 00:03:58,200
+Maintenant, pourquoi on va faire des campagnes SEA intelligent et pas des campagnes manuelles ?
+
+42
+00:03:58,200 --> 00:04:01,200
+Parce qu'en intelligent, on va avoir des coûts par achat qui sont plus faibles.
+
+43
+00:04:01,200 --> 00:04:06,200
+En tout cas, moi je trouve et d'expérience, je peux te le dire, les CPA sont plus faibles parce que c'est 80-20.
+
+44
+00:04:06,200 --> 00:04:08,200
+Donc ça, je vais le répéter souvent en cours de la formation.
+
+45
+00:04:08,200 --> 00:04:10,200
+Moi, j'ai une philosophie qui est très 80-20.
+
+46
+00:04:10,200 --> 00:04:15,200
+Donc loi Pareto, si tu ne connais pas, c'est le fait que 80% des résultats proviennent de 20% des actions.
+
+47
+00:04:15,200 --> 00:04:20,200
+Donc l'idée, c'est toujours encore une fois de ne pas être trop perfectionniste et de se focaliser sur ce qui ramène des résultats.
+
+48
+00:04:20,200 --> 00:04:25,200
+Donc les campagnes SEA intelligentes, ce n'est pas les campagnes qui vont être les plus optimisées
+
+49
+00:04:25,200 --> 00:04:30,200
+puisque tu ne vas pas pouvoir gérer toi-même le coup par clic, tu ne vas pas pouvoir gérer exactement quel produit mettre en avant, etc.
+
+50
+00:04:30,200 --> 00:04:33,200
+C'est Google avec son intelligence artificielle qui va le faire lui-même.
+
+51
+00:04:33,200 --> 00:04:36,200
+Mais en contrepartie, ça se gère tout seul et c'est quand même très rentable.
+
+52
+00:04:36,200 --> 00:04:41,200
+Donc si tu veux, moi je préfère gagner un petit peu moins avec une campagne qui va me demander de 2h par mois à gérer
+
+53
+00:04:41,200 --> 00:04:50,200
+plutôt qu'avoir un petit peu plus de ventes mais devoir passer 5h par jour à gérer mes campagnes, à gérer les coups par clic, à gérer le ROAS, à gérer plein d'indicateurs.
+
+54
+00:04:50,200 --> 00:04:52,200
+Ça, c'est la philosophie 80-20.
+
+55
+00:04:52,200 --> 00:04:59,200
+Et enfin dernièrement, dernière raison pour laquelle on va utiliser du SEA intelligent, c'est parce qu'on a 400€ offerts pour 400€ dépensés
+
+56
+00:04:59,200 --> 00:05:01,200
+donc pour toute ouverture de compte Google Ads.
+
+57
+00:05:01,200 --> 00:05:03,200
+Ça, j'y reviendrai dans le module Google Ads.
+
+58
+00:05:03,200 --> 00:05:05,200
+Mais c'est vraiment un avantage qui est très intéressant.
+
+59
+00:05:05,200 --> 00:05:09,200
+Tu vas pouvoir te permettre de dépenser 400€ entre guillemets dans le vent.
+
+60
+00:05:09,200 --> 00:05:12,200
+Enfin, on va pas dépenser dans le vent puisqu'on va s'en servir pour avoir du leverage.
+
+61
+00:05:12,200 --> 00:05:18,200
+Mais le fait de pouvoir dépenser 400€ offerts, ça te laisse quand même assez de marge pour tester un site sans te ruiner.
+
+62
+00:05:18,200 --> 00:05:23,200
+Donc les campagnes SEA intelligentes, elles vont générer des ventes et en plus de ça, elles vont ramener du trafic.
+
+63
+00:05:23,200 --> 00:05:26,200
+Et le trafic, c'est un indicateur SEO qui apporte de la puissance.
+
+64
+00:05:26,200 --> 00:05:32,200
+Donc ce trafic-là qui va venir des campagnes, il va booster un petit peu tout le travail qu'on avait fait au préalable sur la partie SEO du site.
+
+65
+00:05:32,200 --> 00:05:36,200
+Ce qu'on va faire ensuite, c'est qu'on va construire un blog thématisé sur notre boutique.
+
+66
+00:05:36,200 --> 00:05:39,200
+C'est important sur notre shop qu'on ne soit pas juste là pour vendre des produits.
+
+67
+00:05:39,200 --> 00:05:44,200
+On va également apporter de la valeur aux gens en leur rédigeant des articles de blog qui seront optimisés selon des mots clés qui seront recherchés.
+
+68
+00:05:44,200 --> 00:05:46,200
+Encore une fois, on va pas faire des articles de blog dans le vent.
+
+69
+00:05:46,200 --> 00:05:51,200
+Ces articles de blog, ils vont générer des ventes puisqu'on va attirer des visiteurs sur le site.
+
+70
+00:05:51,200 --> 00:05:55,200
+Certains vont se dire, ça répond à ma question, mais en même temps là je suis sur un site thématisé, il y a des produits qui m'intéressent.
+
+71
+00:05:55,200 --> 00:05:57,200
+Il y a des produits qui m'intéressent, je vais aller voir.
+
+72
+00:05:57,200 --> 00:05:58,200
+Ça, ça va générer des ventes.
+
+73
+00:05:58,200 --> 00:06:03,200
+Ça va également générer des emails puisqu'on va installer ce que j'appelle une pompe à mail sur la partie du blog.
+
+74
+00:06:03,200 --> 00:06:04,200
+Donc une pompe à mail, c'est quoi ?
+
+75
+00:06:04,200 --> 00:06:11,200
+C'est par exemple un pop-up qui va arriver, qui va dire à ton client, laisse moi ton email, tu vas avoir 5% de réduction, 10%, un produit gratuit ou quoi que ce soit.
+
+76
+00:06:11,200 --> 00:06:15,200
+Donc ces emails, on va les récupérer et on va pouvoir générer de l'argent à partir de ces emails.
+
+77
+00:06:15,200 --> 00:06:16,200
+C'est encore une autre source de trafic.
+
+78
+00:06:16,200 --> 00:06:24,200
+Et troisièmement, ce blog va générer aussi du trafic qui va venir du blog et ça va booster le SEO on-site et le SEO global de la boutique.
+
+79
+00:06:24,200 --> 00:06:29,200
+Ensuite, on va passer du coup au deuxième gros pilier du SEO, c'est la partie off-site.
+
+80
+00:06:29,200 --> 00:06:31,200
+Donc en gros, la partie off-site du SEO.
+
+81
+00:06:31,200 --> 00:06:34,200
+Je reviendrai encore une fois en détail dans le module qui sera déjé au SEO off-site.
+
+82
+00:06:34,200 --> 00:06:40,200
+Mais c'est toutes les techniques qu'on va mettre en place à l'extérieur du site pour donner un peu du jus, ce qu'on appelle du jus SEO.
+
+83
+00:06:40,200 --> 00:06:47,200
+C'est de la puissance SEO au site sans SEO off-site, même avec du bon SEO on-site, tu n'auras jamais des résultats qui seront intéressants.
+
+84
+00:06:47,200 --> 00:06:54,200
+Il faut vraiment mélanger les deux, donc trouver des bons mots-clés sur la partie on-site et faire ce qu'on appelle des backlinks pour la partie off-site notamment.
+
+85
+00:06:54,200 --> 00:06:57,200
+Les backlinks, c'est des liens externes vers ton site.
+
+86
+00:06:57,200 --> 00:06:58,200
+Par exemple, toi, tu es un site pour chien.
+
+87
+00:06:58,200 --> 00:07:01,200
+Tu vas aller voir par exemple un autre site qui vend des produits pour chien.
+
+88
+00:07:01,200 --> 00:07:05,200
+Tu vas lui demander de faire un lien sur son site qui redirige vers le chien.
+
+89
+00:07:05,200 --> 00:07:06,200
+C'est ce qu'on appelle un backlinks.
+
+90
+00:07:06,200 --> 00:07:09,200
+C'est reconnu par Google et ça apporte de la puissance.
+
+91
+00:07:09,200 --> 00:07:16,200
+Le SEO off-site, s'il est bien fait sur des sites qui sont intéressants, il va te rapporter du trafic et donc il va booster la partie SEO globale.
+
+92
+00:07:16,200 --> 00:07:19,200
+Et il va ramener également donc ce que j'appelle du jus SEO.
+
+93
+00:07:19,200 --> 00:07:25,200
+C'est de la puissance et ça va venir booster un petit peu toutes tes URL en top résultats des recherches sur Google.
+
+94
+00:07:25,200 --> 00:07:29,200
+Une autre chose qu'on va mettre en place qui est hyper hyper importante, c'est la partie affiliation.
+
+95
+00:07:29,200 --> 00:07:38,200
+Donc pour générer des ventes de façon passive sans non plus dépenser des milliers d'euros en publicité, l'affiliation c'est une très bonne alternative et c'est ce que je mets en place sur toutes mes boutiques.
+
+96
+00:07:38,200 --> 00:07:43,200
+L'idée c'est d'aller contacter des marchands qui vendent des produits similaires au chien en affiliation avec Amazon notamment.
+
+97
+00:07:43,200 --> 00:07:46,200
+Mais pas forcément, on peut le faire également avec des blogueurs ou quoi que ce soit.
+
+98
+00:07:46,200 --> 00:07:48,200
+Mais tout ça, de toute façon, je reviendrai dans le module DJ.
+
+99
+00:07:48,200 --> 00:07:57,200
+Mais l'idée de base, en gros, c'est d'aller contacter des personnes qui font de l'affiliation et de leur proposer de mettre en avant tes produits sur leur site ou leurs réseaux sociaux pour les influenceurs, blogueurs, etc.
+
+100
+00:07:57,200 --> 00:08:01,200
+Donc tout ça, je ne vais pas le présenter pendant des heures ici puisqu'il y a un module DJ.
+
+101
+00:08:01,200 --> 00:08:08,200
+Mais c'est un élément qui est hyper important qui va générer donc des ventes en affiliation, mais également du trafic qui va encore une fois booster le SEO de la boutique.
+
+102
+00:08:08,200 --> 00:08:14,200
+Et enfin dernièrement, super important, on va venir recibler les personnes qui ont visité notre site mais qui n'ont pas fait d'achat.
+
+103
+00:08:14,200 --> 00:08:16,200
+Donc c'est ce qu'on appelle le retargeting.
+
+104
+00:08:16,200 --> 00:08:18,200
+On va le faire avec Facebook Ads et Instagram.
+
+105
+00:08:18,200 --> 00:08:22,200
+Alors là, tu es en train de te dire, en général, je crache un peu sur Facebook Ads et Instagram.
+
+106
+00:08:22,200 --> 00:08:25,200
+Alors oui, je crache dessus pour l'acquisition de clients.
+
+107
+00:08:25,200 --> 00:08:28,200
+D'accord ? Je ne vais jamais chercher des nouveaux clients sur Facebook Ads et Instagram.
+
+108
+00:08:28,200 --> 00:08:39,200
+Par contre, j'utilise Facebook Ads et Instagram pour aller recibler des personnes qui sont allées sur mon site sans faire d'achat via les campagnes Google Ads, via le SEO, via le blog, via l'affiliation, etc.
+
+109
+00:08:39,200 --> 00:08:43,200
+Ces personnes-là, ce sont des personnes qui sont chaudes, qui ont exprimé une intention de recherche via Google.
+
+110
+00:08:43,200 --> 00:08:50,200
+Et eux, s'ils n'ont pas fait d'achat, je vais aller les recibler avec des campagnes publicitaires en leur proposant des codes promo, par exemple, pour terminer leur panier.
+
+111
+00:08:50,200 --> 00:08:53,200
+Enfin, plein de petites techniques que je te présenterai dans ce module-ci.
+
+112
+00:08:53,200 --> 00:08:56,200
+Et donc ça, ça va générer du trafic, encore une fois, et des ventes.
+
+113
+00:08:56,200 --> 00:08:58,200
+Donc voilà, ça c'est l'écosystème global.
+
+114
+00:08:58,200 --> 00:09:04,200
+A tout ça, on va ajouter par-dessus des petites techniques, des petits hacks que je vais te présenter également dans le module qui sera des géo hacks par rapport aux conversions.
+
+115
+00:09:04,200 --> 00:09:11,200
+Et à la fin, une fois que tu as automatisé toutes les tâches qui ont besoin d'un humain et que tu as automatisé toutes les campagnes de pub avec l'IA, avec les campagnes intelligentes,
+
+116
+00:09:11,200 --> 00:09:18,200
+tu vas te retrouver avec une muse qui est entièrement automatisée et qui génère de l'argent de façon quasi passive.
+
+117
+00:09:18,200 --> 00:09:24,200
+Donc les modules de la formation, je vais les reprendre rapidement, mais grosso modo, c'est tous les points que je viens de te présenter ici sur le petit schéma de la muse.
+
+118
+00:09:24,200 --> 00:09:26,200
+Premièrement, donc la recherche de niche.
+
+119
+00:09:26,200 --> 00:09:29,200
+Ensuite, on va passer au SEO on-site.
+
+120
+00:09:29,200 --> 00:09:34,200
+Ensuite, on va avoir un gros module sur tout ce qui va être graphisme, identité de la marque.
+
+121
+00:09:34,200 --> 00:09:35,200
+Ça, c'est hyper important.
+
+122
+00:09:35,200 --> 00:09:36,200
+D'ailleurs, je m'arrête là, on va d'aller plus loin.
+
+123
+00:09:36,200 --> 00:09:38,200
+Les modules sont à suivre étape par étape.
+
+124
+00:09:38,200 --> 00:09:39,200
+Donc c'est déjà trié.
+
+125
+00:09:39,200 --> 00:09:44,200
+Il ne faut pas forcément que tu commences par le module 6, SEO off-site, ensuite le blog, ensuite SEO on-site.
+
+126
+00:09:44,200 --> 00:09:46,200
+Je t'invite vraiment à suivre la formation.
+
+127
+00:09:46,200 --> 00:09:49,200
+Déjà, regarde-la une fois sans rien faire, juste en prenant quelques notes, etc.
+
+128
+00:09:49,200 --> 00:09:52,200
+Et ensuite, regarde-la une deuxième fois en appliquant.
+
+129
+00:09:52,200 --> 00:09:55,200
+Et tu peux faire du coup tout de A à Z, en suivant module par module.
+
+130
+00:09:55,200 --> 00:09:59,200
+Tu auras à chaque fois un récapitulatif de ce que tu dois mettre en place en dessous de la vidéo.
+
+131
+00:09:59,200 --> 00:10:02,200
+Je ne te mettrai un encadré avec ce que tu dois faire tiré de la vidéo que tu viendras de regarder.
+
+132
+00:10:02,200 --> 00:10:05,200
+Et tu as juste finalement à te laisser guider par les modules.
+
+133
+00:10:05,200 --> 00:10:09,200
+Et tu peux vraiment réfléchir ça de façon logique pour que tu n'aies pas besoin d'alterner entre un module et un autre.
+
+134
+00:10:09,200 --> 00:10:11,200
+Tu peux tout suivre de A à Z.
+
+135
+00:10:11,200 --> 00:10:14,200
+Donc troisièmement, les graphismes, l'identité de la marque, le branding.
+
+136
+00:10:14,200 --> 00:10:17,200
+Ensuite, on va passer au blog avec un gros module sur le blog.
+
+137
+00:10:17,200 --> 00:10:20,200
+Comment trouver des requêtes, comment rédiger rapidement du contenu.
+
+138
+00:10:20,200 --> 00:10:22,200
+Parce que l'idée, ce n'est pas de passer des journées à rédiger du blog.
+
+139
+00:10:22,200 --> 00:10:25,200
+Mais tu verras, j'ai des techniques pour aller assez rapidement.
+
+140
+00:10:25,200 --> 00:10:27,200
+Ensuite, l'email marketing que j'ai écrit ici.
+
+141
+00:10:27,200 --> 00:10:30,200
+Il faut que je change dans la slide en mettant email.
+
+142
+00:10:30,200 --> 00:10:32,200
+Mais c'est bien email marketing.
+
+143
+00:10:32,200 --> 00:10:33,200
+Super important.
+
+144
+00:10:33,200 --> 00:10:36,200
+Sixièmement, on verra toute la partie SEO offsite.
+
+145
+00:10:36,200 --> 00:10:38,200
+Ensuite, on verra la partie Google Ads.
+
+146
+00:10:38,200 --> 00:10:41,200
+Ensuite, on passera au branding et aux réseaux sociaux.
+
+147
+00:10:41,200 --> 00:10:43,200
+Notamment avec le retargeting qui viendra juste après.
+
+148
+00:10:43,200 --> 00:10:45,200
+Et à la fin, on aura tous les bonus.
+
+149
+00:10:45,200 --> 00:10:49,200
+Donc les bonus, c'est par exemple des contenus de mise à jour que je mettrai par la suite.
+
+150
+00:10:49,200 --> 00:10:52,200
+Ça va être des lives, ça va être des petits hacks, etc.
+
+151
+00:10:52,200 --> 00:10:54,200
+Que je vais te rajouter au fur et à mesure de la formation.
+
+152
+00:10:54,200 --> 00:10:57,200
+Et ce n'est pas impossible que dans le temps, je fasse intervenir de nouveaux intervenants.
+
+153
+00:10:57,200 --> 00:11:00,200
+Des personnes avec qui je travaille, des personnes avec qui je suis associé.
+
+154
+00:11:00,200 --> 00:11:03,200
+Si je juge que ce qu'elles ont apporté, c'est intéressant pour la formation.
+
+155
+00:11:03,200 --> 00:11:05,200
+Même si c'est complémentaire à la stratégie.
+
+156
+00:11:05,200 --> 00:11:08,200
+Je les ferai intervenir dans des modules DJ, dans des modules bonus.
+
+157
+00:11:08,200 --> 00:11:13,200
+L'objectif final à la fin de la formation, c'est que tu aies une boutique qui soit long terme.
+
+158
+00:11:13,200 --> 00:11:16,200
+C'est que tu aies quelque chose qui soit délégable entre guillemets à 100%.
+
+159
+00:11:16,200 --> 00:11:19,200
+Que ça génère du cash flow positif durant toute l'année.
+
+160
+00:11:19,200 --> 00:11:21,200
+Pas seulement pendant une période, mais bien pendant toute l'année.
+
+161
+00:11:21,200 --> 00:11:23,200
+Pour ça, on va trouver des niches qui seront adaptées.
+
+162
+00:11:23,200 --> 00:11:28,200
+Et que tu puisses cumuler plusieurs muses pour scaler horizontalement et pas verticalement.
+
+163
+00:11:28,200 --> 00:11:31,200
+Quelle est la différence entre scaler horizontalement et verticalement ?
+
+164
+00:11:31,200 --> 00:11:33,200
+Si tu veux, les méthodes qui étaient un petit peu à l'ancienne.
+
+165
+00:11:33,200 --> 00:11:38,200
+On te disait de prendre un produit gagnant et de faire une publicité sur Facebook avec influenceurs.
+
+166
+00:11:38,200 --> 00:11:42,200
+L'idée pour générer plus d'argent avec ces boutiques là, c'est de scaler verticalement.
+
+167
+00:11:42,200 --> 00:11:50,200
+Donc en gros, l'idée, c'est de garder le même business, la même boutique, mais essayer de faire monter les ventes en mettant toujours plus de budget, en trouvant plus d'influenceurs, etc.
+
+168
+00:11:50,200 --> 00:11:53,200
+Mais on scale verticalement sur la même boutique.
+
+169
+00:11:53,200 --> 00:11:59,200
+Le scaling horizontal, ça consiste à avoir du coup une muse et on va aller en dupliquer une autre, encore une autre, encore une autre.
+
+170
+00:11:59,200 --> 00:12:03,200
+Et on va finalement cumuler plusieurs petits entre guillemets business.
+
+171
+00:12:03,200 --> 00:12:05,200
+Et c'est ce que j'appelle un scaling horizontal.
+
+172
+00:12:05,200 --> 00:12:09,200
+Et je trouve ça beaucoup plus intelligent que de scaler verticalement et de faire la course au volume en termes de vente.
+
+173
+00:12:09,200 --> 00:12:14,200
+Alors les points faibles de la stratégie, parce que je me dois être honnête et de parler des points forts comme des points faibles.
+
+174
+00:12:14,200 --> 00:12:16,200
+Les points faibles pour moi, il y en a deux principaux.
+
+175
+00:12:16,200 --> 00:12:22,200
+Le premier, c'est que c'est difficile de sourcer toute la boutique avec un agent car on va mettre beaucoup de produits.
+
+176
+00:12:22,200 --> 00:12:25,200
+Donc ça, ça implique généralement de travailler avec Aliexpress majoritairement.
+
+177
+00:12:25,200 --> 00:12:27,200
+Donc il y a beaucoup de personnes qui veulent des alternatives.
+
+178
+00:12:27,200 --> 00:12:29,200
+Alors moi, je te le dis sur toutes mes muses.
+
+179
+00:12:29,200 --> 00:12:33,200
+Et donc depuis 2018, j'ai quand même généré plusieurs millions d'euros de vente et de chiffre d'affaires.
+
+180
+00:12:33,200 --> 00:12:35,200
+J'ai toujours bossé avec Aliexpress.
+
+181
+00:12:35,200 --> 00:12:38,200
+Donc crois moi, Aliexpress, c'est en aucun cas un frein.
+
+182
+00:12:38,200 --> 00:12:42,200
+C'est sûr que c'est pas le meilleur fournisseur si on compare avec des artisans français ni quoi que ce soit.
+
+183
+00:12:42,200 --> 00:12:43,200
+Bien évidemment, il faut être honnête.
+
+184
+00:12:43,200 --> 00:12:44,200
+Maintenant, c'est efficace.
+
+185
+00:12:44,200 --> 00:12:45,200
+Les produits sont pas chers.
+
+186
+00:12:45,200 --> 00:12:50,200
+T'as un catalogue qui est ultra varié et il livre en 7 à 15 jours ouvrés.
+
+187
+00:12:50,200 --> 00:12:52,200
+Donc c'est pas non plus quelque chose qui est arradgé.
+
+188
+00:12:52,200 --> 00:12:54,200
+Moi, sur mes boutiques, c'est full Aliexpress.
+
+189
+00:12:54,200 --> 00:12:58,200
+Alors bien évidemment, sur les produits qu'on appelle best-sellers, ceux qui sont vendus à 80%,
+
+190
+00:12:58,200 --> 00:13:01,200
+c'est possible de les sourcer hors d'Aliexpress par un agent.
+
+191
+00:13:01,200 --> 00:13:04,200
+Mais tout ça, j'y reviendrai dans la fin de l'information parce que c'est pas ce qui est important quand on débute.
+
+192
+00:13:04,200 --> 00:13:07,200
+Mais je t'en parle rapidement pour t'introduire le sujet.
+
+193
+00:13:07,200 --> 00:13:12,200
+Tu peux travailler avec 80% de ta boutique Aliexpress et 20% des best-sellers avec un agent.
+
+194
+00:13:12,200 --> 00:13:14,200
+Moi, personnellement, c'est pas ce que j'ai fait.
+
+195
+00:13:14,200 --> 00:13:18,200
+Si tu veux, moi, sur mes best-sellers, j'ai mis en place des partenariats entre guillemets avec mes fournisseurs Aliexpress
+
+196
+00:13:18,200 --> 00:13:20,200
+qui me personnalisent mes packaging.
+
+197
+00:13:20,200 --> 00:13:21,200
+Mais ça reste sur Aliexpress.
+
+198
+00:13:21,200 --> 00:13:27,200
+Il me génère des liens spéciaux uniquement pour ma boutique que j'ai pu lier avec une API sur ma boutique Shopify.
+
+199
+00:13:27,200 --> 00:13:31,200
+Vraiment, je te parle de ça, mais c'est du détail qu'on verra vraiment dans les bonus pour aller plus loin
+
+200
+00:13:31,200 --> 00:13:32,200
+parce que c'est pas vraiment ce qui est obligatoire au début.
+
+201
+00:13:32,200 --> 00:13:34,200
+Mais c'est des choses qui sont possibles de faire.
+
+202
+00:13:34,200 --> 00:13:38,200
+Mais tout ça pour dire qu'un des principaux points faibles de la stratégie, c'est que tu vas pas pouvoir sourcer,
+
+203
+00:13:38,200 --> 00:13:43,200
+comme quand tu fais avec un monoproduit, un produit chez un agent, faire un stock chez lui et les envoyer en deux jours.
+
+204
+00:13:43,200 --> 00:13:49,200
+Avec la stratégie de muse, tu vas avoir 500, 600, 800, peut-être voire 1000 produits, voire plus, selon les thématiques.
+
+205
+00:13:49,200 --> 00:13:53,200
+Et tu te doutes bien que quand tu as autant de produits, tu peux pas les sourcer un par un chez un agent spécifique.
+
+206
+00:13:53,200 --> 00:13:56,200
+Tu vas devoir travailler avec Aliexpress en flux tendu.
+
+207
+00:13:56,200 --> 00:14:02,200
+Et le deuxième point faible, en tout cas pour moi, c'est que le potentiel de scaling est plus faible qu'avec du monoproduit en one-shop.
+
+208
+00:14:02,200 --> 00:14:08,200
+C'est-à-dire que moi, sur mes muse personnels, j'arrive à générer en moyenne entre 500 à 2000 euros par jour de CA par boutique
+
+209
+00:14:08,200 --> 00:14:10,200
+quand je mets en place la stratégie de DropPedit en entier.
+
+210
+00:14:10,200 --> 00:14:15,200
+Alors que les personnes, par exemple, qui vont faire du monoproduit avec des influenceurs ou avec du Facebook Ads ou autre,
+
+211
+00:14:15,200 --> 00:14:19,200
+c'est possible parfois de faire 10 000 euros par jour, 20 000 euros par jour sur une grosse promotion.
+
+212
+00:14:19,200 --> 00:14:25,200
+Moi, en mettant en place du SEO, du Google Ads, de l'affiliation, du retargeting, etc., j'arrive à monter à des journées.
+
+213
+00:14:25,200 --> 00:14:30,200
+Des fois, à Noël, c'est un peu plus que 2 000 euros par jour, mais en moyenne à l'année, c'est entre 500 à 2 000 euros par jour.
+
+214
+00:14:30,200 --> 00:14:35,200
+Et l'idée, du coup, c'est d'aller scaler horizontalement ces ventes-là avec plusieurs boutiques.
+
+215
+00:14:35,200 --> 00:14:40,200
+Si tu arrives, admettons, à créer 5 muse différentes qui génèrent 1 000 euros par jour, tu arrives à générer 5 000 euros par jour.
+
+216
+00:14:40,200 --> 00:14:44,200
+Et par mois, ça va te donner 150 000 euros de chiffre d'affaires, ce qui est loin d'être dégueulasse.
+
+217
+00:14:44,200 --> 00:14:48,200
+Donc moi, en tout cas, je trouve ça plus simple avec cette stratégie-là de scaler horizontalement
+
+218
+00:14:48,200 --> 00:14:49,200
+que verticalement.
+
+219
+00:14:49,200 --> 00:14:53,200
+Mais maintenant, il faut bien le savoir qu'avec ces boutiques-là, tu ne vas pas faire du jour au lendemain
+
+220
+00:14:53,200 --> 00:14:55,200
+20 000 euros de chiffre d'affaires sur une boutique.
+
+221
+00:14:55,200 --> 00:14:58,200
+Tu vas faire entre 500 à 2 000 euros par jour.
+
+222
+00:14:58,200 --> 00:14:59,200
+Ça dépend encore une fois de ce que tu vends.
+
+223
+00:14:59,200 --> 00:15:03,200
+Si tu es sur du high ticket, des produits chers, donc tu vas être un petit peu plus haut.
+
+224
+00:15:03,200 --> 00:15:08,200
+Si tu vends des produits vraiment pas chers, à 15, 20, 30 euros, tu vas être plutôt sur 500 à 1 000 euros par jour.
+
+225
+00:15:08,200 --> 00:15:12,200
+Et après, pour aller chercher vraiment du volume de vente, il va falloir créer d'autres muse Shopify.
+
+226
+00:15:12,200 --> 00:15:18,200
+Les points forts maintenant, en revanche, c'est ce qui est le plus important, c'est que premièrement, tu vas avoir des résultats à coup sûr rapidement.
+
+227
+00:15:18,200 --> 00:15:20,200
+Pourquoi je dis des résultats à coup sûr rapidement ?
+
+228
+00:15:20,200 --> 00:15:22,200
+C'est parce qu'on ne va pas avoir le testing Facebook à faire.
+
+229
+00:15:22,200 --> 00:15:24,200
+Encore une fois, je fais le parallèle avec les monoproduits sur Facebook Ads, etc.
+
+230
+00:15:24,200 --> 00:15:28,200
+Il fallait à chaque fois faire un sourcing de produits potentiellement gagnants entre guillemets
+
+231
+00:15:28,200 --> 00:15:32,200
+et faire des testings en dépensant des centaines d'euros par produit en testing sur Facebook.
+
+232
+00:15:32,200 --> 00:15:33,200
+Nous, ce n'est pas ça qu'on va faire.
+
+233
+00:15:33,200 --> 00:15:35,200
+Notre stratégie, elle est basée sur l'intention de recherche.
+
+234
+00:15:35,200 --> 00:15:40,200
+Donc, on va vendre directement à des gens ce qu'ils ont exprimé comme intention de rechercher via Google.
+
+235
+00:15:40,200 --> 00:15:41,200
+Donc, on est sûr de ne pas se tromper.
+
+236
+00:15:41,200 --> 00:15:43,200
+Deuxième point fort, c'est l'aspect long terme.
+
+237
+00:15:43,200 --> 00:15:46,200
+Encore une fois, on ne va pas vendre un produit gagnant qui va être tendance pendant un mois.
+
+238
+00:15:46,200 --> 00:15:49,200
+On va vendre des produits qui sont recherchés toute l'année par les gens.
+
+239
+00:15:49,200 --> 00:15:52,200
+Admettons que tu décides de faire une boutique sur les bijoux malins,
+
+240
+00:15:52,200 --> 00:15:58,200
+ça va être des termes de recherche qui vont être recherchés cette année, l'année prochaine, dans 2 ans, dans 5 ans, dans 10 ans.
+
+241
+00:15:58,200 --> 00:16:01,200
+Ce sont des recherches qui sont tout le temps tapées sur Google.
+
+242
+00:16:01,200 --> 00:16:05,200
+Donc, si tu fais une boutique là-dessus, tu ne vas pas avoir des ventes pendant un mois et après, ce sera fini.
+
+243
+00:16:05,200 --> 00:16:07,200
+Tu vas avoir une boutique qui sera vraiment long terme.
+
+244
+00:16:07,200 --> 00:16:11,200
+Et enfin, dernier point, l'un des plus importants, c'est le fait que tu vas être intouchable par la concurrence.
+
+245
+00:16:11,200 --> 00:16:12,200
+Pourquoi ?
+
+246
+00:16:12,200 --> 00:16:17,200
+Tout simplement parce que, contrairement aux boutiques, encore une fois, qui sont un petit peu fragiles avec Facebook Ads en monoproduit,
+
+247
+00:16:17,200 --> 00:16:21,200
+tu te doutes bien que pour un concurrent, c'est assez décourageant de pouvoir faire un shop
+
+248
+00:16:21,200 --> 00:16:24,200
+sur lequel il y a déjà un ou plusieurs concurrents qui ont plus de 1000 produits,
+
+249
+00:16:24,200 --> 00:16:28,200
+qui ont des dizaines de backlinks, voire des centaines, qui ont des milliers de trafics mensuels.
+
+250
+00:16:28,200 --> 00:16:33,200
+Enfin, c'est beaucoup plus décourageant que de juste recopier une boutique monoproduit Facebook Ads en ajoutant un produit
+
+251
+00:16:33,200 --> 00:16:35,200
+et la boutique va prendre une journée à construire.
+
+252
+00:16:35,200 --> 00:16:38,200
+Là, l'idée ici, c'est de construire des vrais shops solides avec des milliers de produits,
+
+253
+00:16:38,200 --> 00:16:41,200
+de le sécuriser avec un SEO qui va être intouchable.
+
+254
+00:16:41,200 --> 00:16:44,200
+Et donc, tu vas forcément faire fuir toutes les personnes qui seraient un peu mal attentionnées,
+
+255
+00:16:44,200 --> 00:16:46,200
+qui voudraient recopier ta boutique d'une pierre deux coups, tout simplement.
+
+256
+00:16:46,200 --> 00:16:49,200
+Donc voilà, on a vu tous les points importants concernant la stratégie de Drop Elite.
+
+257
+00:16:49,200 --> 00:16:52,200
+Je te propose qu'on enchaîne tout de suite avec la suite de la formation.
+
+258
+00:16:52,200 --> 00:16:53,200
+A tout de suite.
+
+259
+00:16:53,200 --> 00:16:54,200
+A tout de suite.
+

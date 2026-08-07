@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dérouler la stratégie Drop Elite"
+  short_description: "Appliquer la formation avec preuves et garde-fous"
+  default_prompt: "Utilise $derouler-strategie-drop-elite pour transformer les modules assimilés en plan sourcé et exécutable."

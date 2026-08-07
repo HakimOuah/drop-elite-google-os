@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intégrer des vidéos de formation"
+  short_description: "Transcrire et cataloguer les vidéos autorisées"
+  default_prompt: "Utilise $integrer-videos-formation pour cataloguer et transcrire ces liens vidéo autorisés."
