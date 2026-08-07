@@ -2,6 +2,10 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Maintenance CI
+
+- passage à `actions/checkout@v5` et `actions/setup-python@v6`, compatibles avec le runtime Node.js 24 de GitHub Actions.
+
 ## 2026-08-08 — Initialisation
 
 - création du dépôt privé autonome ;
