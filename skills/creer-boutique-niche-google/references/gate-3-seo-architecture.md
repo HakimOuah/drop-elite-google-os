@@ -10,6 +10,7 @@ Concevoir une architecture qui aide les utilisateurs et les moteurs à comprendr
 - vocabulaire client ;
 - catalogue et attributs produits vrais ;
 - saisonnalité ;
+- carte des volumes dédupliqués par collection et total boutique lorsque le mode `catalogue-volume` est sélectionné ;
 - capacités réelles de production de contenu ;
 - contraintes de variantes, filtres et collections.
 
@@ -25,6 +26,15 @@ Attribuer un rôle unique à chaque URL :
 - page de marque/modèle uniquement si contenu et demande justifient une URL.
 
 Une même intention principale ne doit pas être répartie sur plusieurs pages quasi identiques. Fusionner, canonicaliser ou `noindex` les facettes sans valeur.
+
+## Volumes et URLs en mode `catalogue-volume`
+
+- total commercial nettoyé de la boutique : plancher 30 000 recherches mensuelles France, 40 000+ en zone de confort ;
+- collection cœur : cible 1 000+, bande de revue 800–999 ;
+- collection secondaire : cible 500+, bande de revue 300–499 ;
+- une collection sous sa bande de revue doit être fusionnée, gardée pour le merchandising sans objectif SEO autonome, ou justifiée par une preuve commerciale spécifique ;
+- aucun volume minimum n'est imposé à une fiche produit : elle doit correspondre à un produit vrai et à une intention transactionnelle précise, sans dupliquer une autre URL ;
+- la somme boutique ne compte chaque intention commerciale qu'une seule fois, même si plusieurs synonymes ou pages pourraient la revendiquer.
 
 ## Architecture
 
@@ -72,6 +82,7 @@ Prévoir Search Console et analytics : indexation, requêtes, impressions, CTR, 
 ## Critères de passage
 
 - chaque cluster important a une URL cible unique ;
+- en mode `catalogue-volume`, total boutique et seuils de collections sont calculés sans double comptage, et chaque exception est explicitée ;
 - la navigation et le maillage sont spécifiés ;
 - les facettes/variantes ne créent pas de duplication incontrôlée ;
 - les données structurées pourront refléter les faits ;

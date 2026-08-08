@@ -5,7 +5,7 @@ Ce document explique comment les notions du corpus ont été transformées, corr
 | Porte | Sources de formation dominantes | Notions conservées | Ajouts/corrections du système |
 |---|---|---|---|
 | 0. Contexte | portefeuille `244603899`, suivis `245994245`, `245994758`, `249143021` | regarder les résultats et optimiser dans le temps | post-mortem multi-source, tracking avant diagnostic, focus sur un goulot et registre anti-répétition |
-| 1. Marché/client | `231587893`, `231587930`, `231587882`, `231588530`, `231588620`, `231663659`, `231663690` | choix de niche, demande, concurrence, architecture assez profonde | nettoyage d'intention, VOC/JTBD sourcé, droit de gagner, risques fatals et priorité aux retours terrain |
+| 1. Marché/client | `231587893`, `231587930`, `231587882`, `231588530`, `231588620`, `231663659`, `231663690` | choix de niche, demande, concurrence, architecture assez profonde, heuristique 1 000/150 | nettoyage d'intention, VOC/JTBD sourcé, droit de gagner, risques fatals et seuils projet catalogue-volume |
 | 2. Économie/offre | `232117442`, `232117523`, `232117816`, `232117915`, `234186329` | catalogue cohérent, coût d'intégration, CPC et rentabilité | vérité par variante, coût livré, marge contributive complète, retours/chargebacks, trésorerie et fournisseur de secours |
 | 3. SEO | `231663788`, `231663822`, `234180398`, `234333488/499/543/561/580/583`, `237446074` et 3 YouTube | synergie SEO/SEA, architecture, catégories, briefs, blog, maillage | intention unique par URL, cannibalisation, facettes, données structurées, Search Console, contenu utile et règles antispam actuelles |
 | 4. Storefront | `232117523`, `232119122`, `237446074`, `306109499` + gist | fiche produit, performance, mise en œuvre Shopify/IA | contrat de vérité catalogue, mobile/accessibilité, QA rendue, preuve réelle et séparation génération visuelle/écriture live |
@@ -13,6 +13,14 @@ Ce document explique comment les notions du corpus ont été transformées, corr
 | 6. Test Ads | `239785633`, `240591206`, `246208721` | prérequis, choix de mots-clés, lancement contrôlé | carte de test, plafond de perte, campagne choisie selon l'hypothèse, achat prouvé avant dépense et stop rules |
 | 7. Optimisation | `240715193`, `245994245`, `245994758`, `249143021`, `249178958` | KPI, revue périodique, segmentation selon les données | réconciliation backend/Ads/analytics, diagnostic en cascade et une variable matérielle par expérience |
 | 8. Scaling | `249178958`, `246485074`, `246532995`, document Scaling | scaling par étapes, tracking propre, AOV/CRO et retour au palier précédent | contribution après tous coûts, scénarios, cash, capacité fournisseur/SAV et aucun seuil universel |
+
+## Décision catalogue-volume du 2026-08-08
+
+Les transcriptions enseignent `> 1 000` pour les premiers mots-clés de catégories et `> 150` pour la longue traîne (`vimeo-caption-231588620` [00:05:29–00:05:57]). Elles montrent aussi une catégorie à 450 acceptée (`vimeo-caption-231663822` [00:03:47–00:04:04]), tandis que `hhPBbZZ7qHQ` [00:02:15–00:02:40] refuse un seuil universel pour la catégorie principale.
+
+Hakim fixe donc, pour le mode `catalogue-volume`, la règle opératoire suivante : plancher boutique de 30 000 recherches mensuelles commerciales nettoyées, 40 000+ en zone de confort, 1 000+ pour une collection cœur, 500+ pour une collection secondaire avec tolérance d'environ ±200, et au moins 200 produits distincts au lancement. Le low ticket est autorisé sans plancher de 150 €, sous réserve de l'économie réelle par commande.
+
+Cette règle est `DECISION_PROJET`, pas une exigence officielle Google. Les volumes doivent être France, datés, dédupliqués par intention et nettoyés. Le pipeline historique high-ticket de `chasse-clusters-codex` reste distinct ; en mode catalogue-volume, ses mesures peuvent être utilisées mais pas ses anciens verdicts de prix.
 
 ## Ce qui a été retenu des documents GMC
 

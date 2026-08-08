@@ -13,6 +13,20 @@
 - Canaux :
 - Responsable :
 
+## Mode commercial et seuils
+
+- Mode : catalogue-volume/high-ticket/autre
+- Volume commercial nettoyé total France :
+- Plancher/objectif retenu : 30 000 / 40 000+
+- Collection cœur — cible : 1 000+ ; bande de revue : 800–999
+- Collection secondaire — cible : 500+ ; bande de revue : 300–499
+- Nombre de produits distincts sourçables :
+- Minimum catalogue si `catalogue-volume` : 200
+- Fourchette de prix observée :
+- Plancher de prix : aucun en `catalogue-volume`
+- Source/date/base des volumes :
+- Méthode de déduplication :
+
 ## État existant
 
 - Boutique active : oui/non

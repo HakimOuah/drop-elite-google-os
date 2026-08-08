@@ -47,6 +47,7 @@ def validate_required(errors: list[str]) -> None:
         "corpus/CATALOGUE.md",
         "vendor/skills.lock.json",
         "skills/creer-boutique-niche-google/SKILL.md",
+        "skills/creer-boutique-niche-google/templates/demand-map.md",
         "skills/integrer-videos-formation/SKILL.md",
         "skills/derouler-strategie-drop-elite/SKILL.md",
     ]
@@ -68,6 +69,48 @@ def validate_skills(errors: list[str]) -> None:
                 errors.append(f"frontmatter invalide: {skill_md.relative_to(ROOT)}")
             elif match.group(1) != skill_dir.name:
                 errors.append(f"nom skill {match.group(1)} != dossier {skill_dir.name}")
+
+
+def validate_catalogue_volume_mode(errors: list[str]) -> None:
+    checks = {
+        "skills/creer-boutique-niche-google/references/gate-1-customer-market.md": (
+            "30 000 recherches mensuelles",
+            "40 000 recherches mensuelles ou plus",
+            "1 000 recherches mensuelles ou plus",
+            "500 recherches mensuelles ou plus",
+            "± 200",
+            "200 produits distincts",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-2-economics-sourcing-offer.md": (
+            "aucun prix de vente minimum de 150 €",
+            "Le low ticket est autorisé",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-3-seo-architecture.md": (
+            "aucun volume minimum n'est imposé à une fiche produit",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-4-catalog-storefront.md": (
+            "200 produits distincts, publiables et réellement sourçables",
+        ),
+        "skills/creer-boutique-niche-google/templates/economics.md": (
+            "Articles par commande",
+            "Panier brut encaissé (AOV)",
+        ),
+        "skills/creer-boutique-niche-google/templates/demand-map.md": (
+            "30 000 minimum ; 40 000+ confort",
+            "1 000+",
+            "500+",
+            "200 minimum au lancement",
+        ),
+    }
+    for relative, expected_phrases in checks.items():
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"règle catalogue-volume absente: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for phrase in expected_phrases:
+            if phrase not in text:
+                errors.append(f"règle catalogue-volume manquante dans {relative}: {phrase}")
 
 
 def validate_manifest(errors: list[str]) -> None:
@@ -191,6 +234,7 @@ def main() -> int:
     errors: list[str] = []
     validate_required(errors)
     validate_skills(errors)
+    validate_catalogue_volume_mode(errors)
     validate_manifest(errors)
     validate_vendor_lock(errors)
     validate_policies(errors)

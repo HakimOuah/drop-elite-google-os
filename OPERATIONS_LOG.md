@@ -6,5 +6,6 @@
 | 2026-08-08 | Snapshot des skills sélectionnés | 11 dossiers `vendor/agent-skills` | lockfile + installation en répertoires temporaires | `94c6a1b` poussé sur `main` |
 | 2026-08-08 | Adaptation des politiques | 9 modèles français paramétrés | rendu test sans marqueur résiduel | `94c6a1b` poussé sur `main` |
 | 2026-08-08 | Référencement dans le hub | `HakimOuah/boutiques-drop` | branche et diff vérifiés | PR brouillon `boutiques-drop#1` |
+| 2026-08-08 | Ajout du mode catalogue-volume | portes 1–4, carte de demande, intake et traçabilité | validation sémantique + dépôt complet + installation locale vérifiée | branche `agent/ajuste-seuils-catalogue-volume`, PR brouillon vers `main` |
 
 Ajouter une ligne pour chaque opération durable importante. Les petits détails relèvent de l'historique Git ; les décisions structurantes vont aussi dans `DECISIONS.md`.

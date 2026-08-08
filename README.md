@@ -15,6 +15,8 @@ Une affirmation enseignée dans la formation n'est jamais automatiquement prése
 
 Le point d'entrée est [`skills/creer-boutique-niche-google/SKILL.md`](skills/creer-boutique-niche-google/SKILL.md). Il orchestre neuf portes de décision : contexte, marché, économie/offre, SEO, boutique, GMC/mesure, test Ads, optimisation et scaling.
 
+Son mode `catalogue-volume` accepte le low ticket sans plancher arbitraire lorsque la demande France dédupliquée, l'économie de commande et un catalogue d'au moins 200 produits distincts sont prouvés. Les seuils opératoires sont documentés dans les portes 1 à 4 et restent des décisions de projet, pas des règles officielles Google.
+
 Il route vers les compétences spécialisées existantes lorsqu'elles sont disponibles, notamment la chasse produit France, la recherche client, l'offre, le storefront, la CRO et le copywriting. Il ne duplique pas leurs savoir-faire.
 
 ## Principes non négociables

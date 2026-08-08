@@ -26,3 +26,15 @@
 
 **Décision :** toute évolution durable est inscrite dans le changelog ou le journal d'opérations, validée, commitée et poussée.  
 **Conséquence :** les copies locales installées ne sont jamais l'unique détenteur du travail.
+
+## D-006 — Mode catalogue-volume sans plancher high-ticket
+
+**Date :** 2026-08-08
+
+**Décision :** pour la stratégie Drop Elite `catalogue-volume`, retenir un plancher boutique de 30 000 recherches mensuelles commerciales nettoyées en France, une zone de confort à 40 000+, une cible de 1 000+ pour une collection cœur et 500+ pour une collection secondaire avec tolérance d'environ ±200. Le catalogue de lancement contient au moins 200 produits distincts. Aucun prix minimum de 150 € n'est imposé ; le low ticket est admissible si l'économie de commande est viable.
+
+**Provenance :** décision explicite de Hakim, éclairée par les seuils retrouvés dans les transcriptions ; statut `DECISION_PROJET`.
+
+**Périmètre :** ce mode n'écrase pas le pipeline high-ticket historique de `boutique-pipeline`. Lorsque `chasse-clusters-codex` fournit les mesures, ses anciens verdicts prix/low-ticket ne s'appliquent pas à ce mode.
+
+**Conséquence :** les portes 1 à 4 contrôlent la déduplication des volumes, les seuils de collections, la profondeur de 200 produits et la marge au niveau de la commande plutôt qu'un prix unitaire arbitraire.

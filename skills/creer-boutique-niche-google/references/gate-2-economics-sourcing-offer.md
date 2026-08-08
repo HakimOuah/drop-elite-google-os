@@ -21,6 +21,18 @@ Ne jamais qualifier seulement une vignette ou un prix « à partir de ». Pour c
 
 Si AliExpress ou une autre source bloque l'automatisation, conserver `MANQUANT`. Ne pas bypasser les protections. Les mutations DSers restent humaines sauf autorisation explicite.
 
+## Prix et low ticket en mode `catalogue-volume`
+
+`DECISION_PROJET` du 2026-08-08 : **aucun prix de vente minimum de 150 € ne s'applique** à ce mode. Le low ticket est autorisé lorsque la boutique repose sur un catalogue de lancement d'au moins 200 produits distincts, une demande agrégée conforme à la porte 1 et une économie par commande viable.
+
+Le volume et la profondeur de catalogue ne rendent pas une commande déficitaire acceptable. Pour du low ticket :
+
+- calculer au niveau de la commande le panier moyen, la marge contributive et le CAC de rupture ;
+- tester des bundles, quantités, accessoires, cross-sells et seuils de livraison seulement s'ils sont cohérents et réellement délivrés ;
+- distinguer marge unitaire, marge de commande et marge après acquisition ;
+- ne pas rejeter un produit uniquement parce qu'il est sous 150 €, mais le classer `REPARER_AVANT` ou `STOP` si l'AOV et la contribution ne peuvent pas financer le canal prévu ;
+- ne pas supposer que le SEO compensera automatiquement une économie Google Ads négative.
+
 ## Économie par commande
 
 Calculer au minimum :
@@ -74,6 +86,7 @@ Ne pas fabriquer prix barré, compteur, rareté, avis ou exclusivité. Une garan
 ## Critères de passage
 
 - variante et coût livré prouvés ;
+- prix justifié sans plancher arbitraire et, en low ticket, économie validée au niveau de la commande/AOV ;
 - promesse compatible avec le produit réel ;
 - scénario central positif et scénario prudent connu ;
 - CAC et ROAS de rupture calculés ;

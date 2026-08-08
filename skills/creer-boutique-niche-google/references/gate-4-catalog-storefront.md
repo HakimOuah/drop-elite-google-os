@@ -10,6 +10,12 @@ Pour chaque produit/variante : titre, SKU, prix, comparaison de prix justifiée,
 
 Une photo fournisseur n'autorise pas à déduire une géométrie, un matériau ou un accessoire non confirmé. Les visuels générés doivent préserver le produit et être identifiés/conformes lorsque les plateformes l'exigent.
 
+## Profondeur du catalogue en mode `catalogue-volume`
+
+Le catalogue de lancement contient au moins **200 produits distincts, publiables et réellement sourçables**. Compter une fiche produit correspondant à un objet distinct ; les variantes de taille, couleur, lot ou matériau d'une même fiche ne sont pas 200 produits différents. Un doublon, un produit sans fournisseur vérifiable, une fiche vide ou un produit indisponible ne compte pas.
+
+Répartir ces produits dans les collections validées par la porte 3 afin d'éviter les collections artificielles ou vides. Le low ticket est autorisé et n'entraîne aucun plancher de prix ; chaque produit et l'économie de commande restent soumis à la vérité catalogue et à la porte 2.
+
 ## Hiérarchie de page produit
 
 Au-dessus de la ligne de flottaison mobile :
@@ -63,6 +69,7 @@ Transformer les faits en bénéfices sans les dépasser. Chaque promesse doit po
 ## Critères de passage
 
 - aucune contradiction catalogue/feed/politiques ;
+- en mode `catalogue-volume`, au moins 200 produits distincts admissibles sont vérifiés et correctement distribués ;
 - parcours mobile complet vérifié ;
 - coûts et conditions importants visibles avant achat ;
 - preuve honnête ;

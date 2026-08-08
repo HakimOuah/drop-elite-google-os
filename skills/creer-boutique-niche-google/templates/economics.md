@@ -2,13 +2,16 @@
 
 **Devise :** EUR  
 **Convention TVA :** à définir avec les faits de l'entreprise  
+**Mode économique :** `catalogue-volume|high-ticket|autre`
 **Date des coûts :** {{DATE}}
 
 ## Par commande — scénario central
 
 | Élément | EUR | Source/hypothèse |
 |---|---:|---|
-| Prix encaissé | 0 | |
+| Prix unitaire moyen | 0 | |
+| Articles par commande | 0 | |
+| Panier brut encaissé (AOV) | 0 | |
 | Remise moyenne | 0 | |
 | Remboursement/retour attendu | 0 | |
 | **CA net** | 0 | |
@@ -27,6 +30,8 @@
 
 - ROAS de rupture = CA net / CAC de rupture :
 - ROAS cible avec coussin :
+- Articles moyens par commande :
+- Panier moyen (AOV) :
 - Commandes finançables avant encaissement :
 - Besoin de trésorerie à 7/14/30 jours :
 
@@ -35,6 +40,8 @@
 | Variable | Optimiste | Central | Prudent |
 |---|---:|---:|---:|
 | CAC | | | |
+| Articles par commande | | | |
+| Panier moyen (AOV) | | | |
 | Coût fournisseur livré | | | |
 | Taux de remboursement | | | |
 | Taux de conversion | | | |

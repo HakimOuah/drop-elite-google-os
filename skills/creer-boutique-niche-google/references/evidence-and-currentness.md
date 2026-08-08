@@ -32,6 +32,10 @@ Les notions plus stables — formule de marge, logique expérimentale, hiérarch
 
 Une phrase de cours reçoit `ENSEIGNE_A_VERIFIER` tant qu'elle n'est pas soutenue par une source officielle actuelle ou une preuve locale. Les seuils fixes, calendriers d'approbation, recettes de campagne et affirmations sur les algorithmes sont particulièrement sensibles à la dérive.
 
+## Décisions de projet
+
+Une règle explicitement choisie par Hakim reçoit `DECISION_PROJET`, avec sa date et son périmètre. Elle pilote le workflow concerné sans devenir une exigence officielle de Google ni une donnée de marché observée. Elle peut remplacer une préférence antérieure, mais jamais une obligation légale, une politique de plateforme ou une économie unitaire déficitaire.
+
 ## Contradiction
 
 Ne pas résoudre silencieusement un conflit. Présenter :
