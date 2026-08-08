@@ -38,3 +38,13 @@
 **Périmètre :** ce mode n'écrase pas le pipeline high-ticket historique de `boutique-pipeline`. Lorsque `chasse-clusters-codex` fournit les mesures, ses anciens verdicts prix/low-ticket ne s'appliquent pas à ce mode.
 
 **Conséquence :** les portes 1 à 4 contrôlent la déduplication des volumes, les seuils de collections, la profondeur de 200 produits et la marge au niveau de la commande plutôt qu'un prix unitaire arbitraire.
+
+## D-007 — Assimilation texte distincte de la validation audio
+
+**Date :** 2026-08-08
+
+**Décision :** déclarer les 48 VTT et la transcription pilote `ASSIMILE_TEXTE` après lecture intégrale, tout en conservant les sources VTT en `AUTOMATIQUE_NON_RELUE` au sens audio.
+
+**Pourquoi :** permettre des réponses de coach routées par source sans prétendre corriger les erreurs de transcription, les gestes visuels absents ou la véracité des affirmations.
+
+**Conséquence :** chaque seuil déterminant revient au VTT/timecode et, si possible, au média ; chaque procédure absente devient `MANQUANT_MODULE`. Les tactiques de contournement repérées restent archivées mais portent le statut `EXCLU_SYSTEME`.

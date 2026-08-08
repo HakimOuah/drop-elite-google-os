@@ -2,6 +2,8 @@
 
 Ce document explique comment les notions du corpus ont été transformées, corrigées ou complétées dans `creer-boutique-niche-google`. Les sources de formation sont `ENSEIGNE_A_VERIFIER` tant qu'elles ne sont pas corroborées.
 
+La relecture exhaustive au niveau texte est détaillée dans `corpus/derived/coach-source-index.md`. Les lacunes curriculaires et matérielles sont dans `docs/corpus-gap-audit.md`. Une notion absente de ces sources mais apportée par un autre skill doit être étiquetée `AJOUT_SYSTEME`.
+
 | Porte | Sources de formation dominantes | Notions conservées | Ajouts/corrections du système |
 |---|---|---|---|
 | 0. Contexte | portefeuille `244603899`, suivis `245994245`, `245994758`, `249143021` | regarder les résultats et optimiser dans le temps | post-mortem multi-source, tracking avant diagnostic, focus sur un goulot et registre anti-répétition |
@@ -85,3 +87,9 @@ Les modèles anglais fournis sont une base thématique, pas un texte publiable e
 - causalité expérimentale ;
 - coût d'attention et discipline portfolio ;
 - sauvegarde reproductible, manifestes SHA-256 et GitHub comme source de vérité.
+
+## Frontière coach après relecture exhaustive
+
+Le coach peut restituer la formation avec un routage précis sur niche, architecture, catalogue, SEO on-site, GMC, Shopping, optimisation et scaling par segmentation. Il doit répondre `MANQUANT_MODULE` pour l'email marketing, le SEO off-site complet, l'affiliation, le branding complet, la délégation globale, le module de valorisation et les calculateurs mentionnés mais absents.
+
+Les conseils de masquage pour review, anti-ban, anti-detect, identité artificielle multi-boutiques, valeur de conversion inventée et spinning sont conservés dans les sources mais classés `EXCLU_SYSTEME`.

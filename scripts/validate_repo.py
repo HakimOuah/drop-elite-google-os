@@ -45,11 +45,15 @@ def validate_required(errors: list[str]) -> None:
         "SECURITY.md",
         "corpus/manifest.json",
         "corpus/CATALOGUE.md",
+        "corpus/derived/coach-source-index.md",
+        "docs/corpus-gap-audit.md",
         "vendor/skills.lock.json",
         "skills/creer-boutique-niche-google/SKILL.md",
         "skills/creer-boutique-niche-google/templates/demand-map.md",
         "skills/integrer-videos-formation/SKILL.md",
         "skills/derouler-strategie-drop-elite/SKILL.md",
+        "skills/derouler-strategie-drop-elite/references/coach-routing.md",
+        "skills/derouler-strategie-drop-elite/scripts/resolve_repo.py",
     ]
     for relative in required:
         if not (ROOT / relative).is_file():
@@ -146,6 +150,27 @@ def validate_manifest(errors: list[str]) -> None:
                     errors.append(f"source-map {key} absent: {mapping[key]}")
 
 
+def validate_coach_index(errors: list[str]) -> None:
+    manifest = load_json(ROOT / "corpus" / "manifest.json", errors)
+    index_path = ROOT / "corpus" / "derived" / "coach-source-index.md"
+    if not manifest or not index_path.is_file():
+        return
+    index = index_path.read_text(encoding="utf-8", errors="replace")
+    expected = {
+        record["source_id"]
+        for record in manifest.get("raw_files", [])
+        if record.get("kind") == "caption_vtt"
+    }
+    expected.update(entry["source_id"] for entry in manifest.get("canonical_sources", []))
+    for source_id in sorted(expected):
+        if f"`{source_id}`" not in index:
+            errors.append(f"transcription absente de l'index coach: {source_id}")
+
+    declared_count = len(expected)
+    if f"soit {declared_count} contenus parlés" not in index:
+        errors.append(f"compteur de l'index coach non aligné: attendu {declared_count}")
+
+
 def validate_vendor_lock(errors: list[str]) -> None:
     lock = load_json(ROOT / "vendor" / "skills.lock.json", errors)
     if not lock:
@@ -236,6 +261,7 @@ def main() -> int:
     validate_skills(errors)
     validate_catalogue_volume_mode(errors)
     validate_manifest(errors)
+    validate_coach_index(errors)
     validate_vendor_lock(errors)
     validate_policies(errors)
     validate_security_and_size(errors)

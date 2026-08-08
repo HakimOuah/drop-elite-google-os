@@ -8,6 +8,10 @@
 - `HYPOTHESE` : interprétation à tester.
 - `MANQUANT` / `MANQUANT_MODULE` : donnée ou procédure absente.
 - `CONTREDIT` : incompatible avec une preuve plus forte.
+- `ASSIMILE_TEXTE` : source lue de bout en bout au niveau transcription, sans écoute audio systématique.
+- `ASSIMILE_TEXTE_QUALITE_LIMITEE` : source lue, mais texte ou absence d'images insuffisants pour certaines étapes.
+- `EXCLU_SYSTEME` : élément archivé comme enseignement historique, mais interdit dans les recommandations et exécutions du système.
+- `AJOUT_SYSTEME` : méthode complémentaire issue d'un autre skill, d'une source officielle ou d'une décision projet, non attribuable à Drop Elite.
 
 ## Hiérarchie
 

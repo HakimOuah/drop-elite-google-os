@@ -43,6 +43,8 @@ Suivre [`RESTORE.md`](RESTORE.md). Le dépôt privé est la source de vérité p
 
 La transformation du cours vers les portes et les corrections apportées sont détaillées dans [`docs/corpus-to-skill-traceability.md`](docs/corpus-to-skill-traceability.md).
 
+La relecture sémantique des 49 contenus parlés est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et conseils exclus sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
+
 ## Confidentialité et droits
 
 Le dépôt doit rester privé. Les contenus tiers ne sont pas redistribuables. Voir [`RIGHTS.md`](RIGHTS.md) et [`SECURITY.md`](SECURITY.md).

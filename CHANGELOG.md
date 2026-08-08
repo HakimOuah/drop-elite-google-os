@@ -2,6 +2,16 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Base de connaissance coach exhaustive
+
+- relecture sémantique intégrale des 48 VTT et de la transcription pilote, soit 49 contenus parlés ;
+- création d'un index source par source couvrant enseignements, seuils, limites et tactiques exclues ;
+- création d'un audit des modules, pièces jointes, contradictions et procédures manquants ;
+- ajout d'un routage coach par question et des statuts `ASSIMILE_TEXTE`, `EXCLU_SYSTEME` et `AJOUT_SYSTEME` ;
+- correction de la cartographie de `231663659`, consacrée au domaine expiré ;
+- ajout d'une résolution portable du clone privé pour le skill installé ;
+- validation automatique que chaque transcription du manifest apparaît dans l'index coach.
+
 ## 2026-08-08 — Mode catalogue-volume
 
 - ajout du plancher boutique de 30 000 recherches commerciales nettoyées et de la zone de confort à 40 000+ ;

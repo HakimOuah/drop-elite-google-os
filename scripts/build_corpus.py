@@ -245,7 +245,7 @@ def build() -> None:
         "",
         "## Statut",
         "",
-        "Les VTT sont `AUTOMATIQUE_NON_RELUE`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Le contenu est ingéré et recherchable, mais seuls les passages relus/synthétisés peuvent être qualifiés d'assimilés.",
+        f"Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture sémantique ne corrige leur texte brut. Les {len(vtts)} VTT et la transcription pilote ont toutefois été relus intégralement au niveau texte le 2026-08-08 et sont indexés dans `derived/coach-source-index.md`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Les limites et modules manquants sont consignés dans `docs/corpus-gap-audit.md`.",
         "",
         "## Sources brutes",
         "",

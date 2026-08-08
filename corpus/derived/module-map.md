@@ -13,7 +13,7 @@ Cette carte est fondée sur les introductions parlées et le contenu recherché 
 
 ## Concurrence, synergie SEO/SEA et architecture
 
-- `vimeo-caption-231663659` — analyse concurrentielle.
+- `vimeo-caption-231663659` — recherche et vérification de domaine expiré.
 - `vimeo-caption-231663690` — approfondissement concurrence.
 - `vimeo-caption-231663788` — synergie SEO et SEA.
 - `vimeo-caption-231663822` — architecture complète depuis une niche.
@@ -78,4 +78,6 @@ Cette carte est fondée sur les introductions parlées et le contenu recherché 
 
 ## Limite de couverture
 
-Le lot est intégralement ingéré et recherchable. Il n'est pas intégralement relu à l'écoute. Toute formulation exacte ou seuil déterminant doit être retrouvé dans le VTT avec timecode puis, si possible, vérifié dans le média.
+Le lot est intégralement ingéré, recherchable et relu au niveau texte. Il n'est pas intégralement relu à l'écoute. Toute formulation exacte ou seuil déterminant doit être retrouvé dans le VTT avec timecode puis, si possible, vérifié dans le média.
+
+L'assimilation source par source se trouve dans `coach-source-index.md`. Les modules, pièces jointes, contradictions et procédures absents sont inventoriés dans `docs/corpus-gap-audit.md`.
