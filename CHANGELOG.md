@@ -2,6 +2,16 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Deux états de boutique GMC et Growth
+
+- attribution explicite du corpus à La Méthode Kraken d'Enzo Honoré, tout en conservant les identifiants techniques historiques ;
+- reclassification de la progression boutique sobre → boutique marketing comme méthode Kraken conservée ;
+- ajout des états `GMC_READY` et `GROWTH_MARKETING` et des modes de construction associés ;
+- ajout d'un contrat d'invariants, d'une matrice des modules marketing, d'un protocole de transition et d'un template de preuve ;
+- intégration du workflow aux portes storefront/GMC et au routage coach ;
+- maintien d'une frontière précise avec le contenu différencié pour le contrôleur, les claims trompeurs et la fuite de suspension ;
+- ajout d'une validation automatique de la présence et de la cohérence du workflow.
+
 ## 2026-08-08 — Base de connaissance coach exhaustive
 
 - relecture sémantique intégrale des 48 VTT et de la transcription pilote, soit 49 contenus parlés ;

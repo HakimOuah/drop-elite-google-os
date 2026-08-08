@@ -4,6 +4,8 @@
 
 Prouver qu'un visiteur mobile peut comprendre l'offre, vérifier ce qu'il reçoit, résoudre ses objections et acheter sans friction ni tromperie.
 
+Lorsque la boutique est préparée pour Merchant Center ou enrichie après approbation, appliquer aussi `store-states-gmc-growth.md`. La porte doit nommer l'état construit : `GMC_READY` ou `GROWTH_MARKETING`.
+
 ## Contrat de vérité catalogue
 
 Pour chaque produit/variante : titre, SKU, prix, comparaison de prix justifiée, stock, images, couleur, dimensions, matière, contenu du colis, compatibilité, entretien, avertissements, délai et retours doivent correspondre à la source vérifiée.
@@ -66,6 +68,24 @@ Ne pas valider à partir du code seul. Vérifier sur le storefront réellement r
 
 Transformer les faits en bénéfices sans les dépasser. Chaque promesse doit pouvoir répondre à « quelle caractéristique ou preuve permet de l'affirmer ? ». Traiter les objections observées, pas une liste générique.
 
+## QA par état
+
+### `GMC_READY`
+
+- commerce complet et achetable, jamais une coquille vide ;
+- identité, contact, catalogue, pages statiques, politiques et checkout finalisés ;
+- design de marque cohérent et contenu utile ;
+- modules promotionnels facultatifs désactivés proprement lorsqu'ils ajoutent un risque ou une incohérence inutile ;
+- baseline rendue et versionnée avant soumission.
+
+### `GROWTH_MARKETING`
+
+- invariants `GMC_READY` inchangés ou resynchronisés avec preuve ;
+- bénéfices, promotions, bundles, urgence et preuve sociale justifiables ;
+- modules marketing pilotés par le backend, testés sur mobile et réversibles ;
+- aucune différence de contenu selon l'identité du visiteur ou du robot ;
+- rapport `templates/gmc-growth-transition.md` complété avant publication.
+
 ## Critères de passage
 
 - aucune contradiction catalogue/feed/politiques ;
@@ -75,3 +95,4 @@ Transformer les faits en bénéfices sans les dépasser. Chaque promesse doit po
 - preuve honnête ;
 - performance et accessibilité sans blocage critique ;
 - capture ou rapport de QA daté.
+- état de boutique nommé et, pour une bascule, matrice d'invariants et rollback documentés.

@@ -1,4 +1,4 @@
-# Corpus Drop Elite
+# Corpus de La Méthode Kraken
 
 Ce dossier est la source locale canonique des vidéos autorisées, de leurs transcriptions et des fiches de cours dérivées.
 

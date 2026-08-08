@@ -10,8 +10,8 @@ La relecture exhaustive au niveau texte est détaillée dans `corpus/derived/coa
 | 1. Marché/client | `231587893`, `231587930`, `231587882`, `231588530`, `231588620`, `231663659`, `231663690` | choix de niche, demande, concurrence, architecture assez profonde, heuristique 1 000/150 | nettoyage d'intention, VOC/JTBD sourcé, droit de gagner, risques fatals et seuils projet catalogue-volume |
 | 2. Économie/offre | `232117442`, `232117523`, `232117816`, `232117915`, `234186329` | catalogue cohérent, coût d'intégration, CPC et rentabilité | vérité par variante, coût livré, marge contributive complète, retours/chargebacks, trésorerie et fournisseur de secours |
 | 3. SEO | `231663788`, `231663822`, `234180398`, `234333488/499/543/561/580/583`, `237446074` et 3 YouTube | synergie SEO/SEA, architecture, catégories, briefs, blog, maillage | intention unique par URL, cannibalisation, facettes, données structurées, Search Console, contenu utile et règles antispam actuelles |
-| 4. Storefront | `232117523`, `232119122`, `237446074`, `306109499` + gist | fiche produit, performance, mise en œuvre Shopify/IA | contrat de vérité catalogue, mobile/accessibilité, QA rendue, preuve réelle et séparation génération visuelle/écriture live |
-| 5. GMC/mesure | `239787221`, `239791167`, `239965951`, `240359870`, checklist et Fast-Track | cohérence identité/politiques/feed, liens fonctionnels, pas de claims trompeurs, tracking propre | priorité aux politiques officielles, cohérence page/feed/schema/checkout, transaction ID, valeur/devise et refus des tactiques d'évasion |
+| 4. Storefront | `232117523`, `232119122`, `237446074`, `306109499` + gist | fiche produit, performance, mise en œuvre Shopify/IA et sobriété pré-GMC | contrat de vérité catalogue, états `GMC_READY`/`GROWTH_MARKETING`, mobile/accessibilité, QA rendue, preuve réelle et séparation génération visuelle/écriture live |
+| 5. GMC/mesure | `239787221`, `239791167`, `239965951`, `240313004`, `240359870`, `262936735`, checklist et Fast-Track | cohérence identité/politiques/feed, version sobre pour validation puis ajout marketing, tracking propre | progression en deux états, matrice d'invariants, priorité aux politiques officielles, cohérence page/feed/schema/checkout, transaction ID, valeur/devise et frontière précise avec l'évasion |
 | 6. Test Ads | `239785633`, `240591206`, `246208721` | prérequis, choix de mots-clés, lancement contrôlé | carte de test, plafond de perte, campagne choisie selon l'hypothèse, achat prouvé avant dépense et stop rules |
 | 7. Optimisation | `240715193`, `245994245`, `245994758`, `249143021`, `249178958` | KPI, revue périodique, segmentation selon les données | réconciliation backend/Ads/analytics, diagnostic en cascade et une variable matérielle par expérience |
 | 8. Scaling | `249178958`, `246485074`, `246532995`, document Scaling | scaling par étapes, tracking propre, AOV/CRO et retour au palier précédent | contribution après tous coûts, scénarios, cash, capacité fournisseur/SAV et aucun seuil universel |
@@ -29,6 +29,9 @@ Cette règle est `DECISION_PROJET`, pas une exigence officielle Google. Les volu
 - identité et coordonnées réelles ;
 - cohérence entre footer, politiques, checkout, feed et compte ;
 - pages fonctionnelles, absence de faux avis/urgence/claims ;
+- construction d'un état `GMC_READY` complet et sobre ;
+- ajout post-approbation d'une couche `GROWTH_MARKETING` factuelle et contrôlée ;
+- baseline, matrice d'invariants, QA et rollback pour la transition ;
 - correction de la cause avant une demande d'examen ;
 - surveillance après approbation ;
 - aucune garantie d'approbation.
@@ -46,12 +49,19 @@ Cette règle est `DECISION_PROJET`, pas une exigence officielle Google. Les volu
 
 Ces éléments peuvent orienter un audit, mais doivent être vérifiés auprès de Google et du compte courant.
 
-## Ce qui a été exclu
+## Décision GMC en deux états du 2026-08-08
+
+Hakim demande de conserver la méthode de présentation d'une boutique sobre pour la validation GMC, puis d'ajout du marketing après approbation. Le système sait désormais construire `GMC_READY`, `GROWTH_MARKETING` et `TRANSITION_GMC_TO_GROWTH`.
+
+La frontière retenue n'est pas « avant/après approbation », mais le comportement : la transition est acceptée si la même version est publiée pour tous, si les deux états sont des commerces réels et si les informations déterminantes restent exactes. Sont invariants : identité/contact, produit/variante, prix/stock, livraison/retours, feed/schema/checkout, tracking et consentement. Les modules marketing sont versionnés, prouvés et réversibles.
+
+## Ce qui reste exclu
 
 - proxy/anti-detect comme voie d'approbation ;
 - adresses, téléphones ou identités artificiellement « uniques » ;
 - échauffement de Gmail présenté comme exigence Google ;
 - isolation destinée à masquer des liens ou à fuir une suspension ;
+- contenu différent selon le contrôleur ou restauration consciente d'un claim trompeur/non prouvé ;
 - toute garantie, shortcut ou manipulation du système.
 
 Une entreprise peut légitimement séparer ses opérations et ses accès pour la sécurité. Elle ne doit pas fabriquer des identités ou dissimuler un lien pertinent.
@@ -92,4 +102,4 @@ Les modèles anglais fournis sont une base thématique, pas un texte publiable e
 
 Le coach peut restituer la formation avec un routage précis sur niche, architecture, catalogue, SEO on-site, GMC, Shopping, optimisation et scaling par segmentation. Il doit répondre `MANQUANT_MODULE` pour l'email marketing, le SEO off-site complet, l'affiliation, le branding complet, la délégation globale, le module de valorisation et les calculateurs mentionnés mais absents.
 
-Les conseils de masquage pour review, anti-ban, anti-detect, identité artificielle multi-boutiques, valeur de conversion inventée et spinning sont conservés dans les sources mais classés `EXCLU_SYSTEME`.
+La progression `GMC_READY` → `GROWTH_MARKETING` est conservée et opérationnalisée. Restent `EXCLU_SYSTEME` le contenu différencié pour le contrôleur, les claims trompeurs rétablis après validation, l'anti-ban, l'anti-detect destiné à masquer des liens, l'identité artificielle multi-boutiques, la valeur de conversion inventée et le spinning sans valeur.

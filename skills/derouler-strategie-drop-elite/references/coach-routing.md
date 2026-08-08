@@ -1,4 +1,4 @@
-# Routage du coach Drop Elite
+# Routage du coach de La Méthode Kraken
 
 ## Base obligatoire
 
@@ -22,7 +22,7 @@ L'index prouve que chaque texte a été relu ; il ne remplace pas le VTT pour un
 | Fiches produit | `232117523/816/915`, `237446074`, `306109499` | gist + ecommerce copywriting/storefront | SOP 25–30 pages absent ; vérité SKU indispensable |
 | SEO technique | `232118754/785/9122`, `237446074` | gate 3/4 + sources Search actuelles | scores et réglages datés |
 | Contenu catégories/blog | `234333488/499/543/561/580/583`, `43kJQkuviKY`, `l-XUJ9NTN40` | ecommerce copywriting | longueurs/cadences heuristiques ; spinner exclu |
-| GMC/pré-approbation | `239965951`, `240313004`, documents GMC | gate 5 + règles officielles | cloaking, anti-ban et identités artificielles exclus |
+| GMC/pré-approbation et évolution marketing | `239965951`, `240313004`, `262936735`, documents GMC | gate 5 + `store-states-gmc-growth.md` + règles officielles | conserver la progression en deux états ; exclure seulement tromperie, contenu différencié et fuite de suspension |
 | Tracking achat | `240359870`, `240313004`, `249915990`, `262936735` | gate 5 | valeur/devise/transaction ID/déduplication à prouver |
 | Lancer Google Ads | `239785633`, `240591206` | gate 6 | budgets et 15 conversions non universels |
 | Lire/optimiser le compte | `240715193`, `245994245/758`, `262936735` | gate 7 | réconcilier Ads, analytics et backend |
@@ -53,9 +53,22 @@ Statut : `DECISION_PROJET` de Hakim. En présence d'une source formation différ
 
 Ne jamais répondre uniquement par une moyenne générique quand le corpus contient un désaccord. Présenter le désaccord et expliquer la règle choisie.
 
+## Routage des deux états de boutique
+
+Lorsqu'Hakim demande de préparer, construire ou modifier une boutique autour de GMC :
+
+1. nommer l'état cible `GMC_READY` ou `GROWTH_MARKETING` ;
+2. restituer la méthode Kraken avec `vimeo-caption-240313004` [00:19:10–00:21:15] et, selon le cas, `vimeo-caption-262936735` [01:44:56–01:46:38] ;
+3. router l'exécution vers `creer-boutique-niche-google/references/store-states-gmc-growth.md` ;
+4. produire soit `BUILD_GMC_READY`, soit `BUILD_GROWTH_MARKETING`, soit `TRANSITION_GMC_TO_GROWTH` ;
+5. préserver identité, contact, prix, disponibilité, livraison, retours, feed, schema, checkout et tracking comme invariants ;
+6. compléter `templates/gmc-growth-transition.md` avant toute publication.
+
+Le marketing post-approbation peut enrichir proposition de valeur, storytelling, merchandising, promotions réelles, bundles, preuve sociale réelle, FAQ, email et CRO. Il ne doit pas être présenté comme une autorisation de publier des informations trompeuses ou de servir une autre version au contrôleur.
+
 ## Modules réellement manquants
 
-Répondre `MANQUANT_MODULE` pour une méthode Drop Elite détaillée sur :
+Répondre `MANQUANT_MODULE` pour une méthode Kraken détaillée sur :
 
 - email marketing ;
 - SEO off-site/backlinks ;
@@ -66,15 +79,16 @@ Répondre `MANQUANT_MODULE` pour une méthode Drop Elite détaillée sur :
 - SOP produit 25–30 pages ;
 - calculateurs bROAS, profit moyen et valorisation.
 
-Des skills externes peuvent compléter l'action, mais leur méthode doit être étiquetée `AJOUT_SYSTEME`, pas « enseignée dans Drop Elite ».
+Des skills externes peuvent compléter l'action, mais leur méthode doit être étiquetée `AJOUT_SYSTEME`, pas « enseignée dans La Méthode Kraken ».
 
-## Conseils archivés mais interdits
+## Conseils sensibles et frontière opérationnelle
 
-- cloaking ou masquage temporaire pour obtenir une validation ;
+- **conservé** : construire une boutique `GMC_READY`, stabiliser cette version pendant l'examen, puis ajouter une couche `GROWTH_MARKETING` contrôlée et conforme ;
+- **exclu** : cloaking par user-agent/IP, version spécifique au contrôleur ou restauration consciente d'un claim trompeur/non prouvé ;
 - retrait ultérieur de coordonnées ou modification dissimulée ;
 - CSS présenté comme fuite d'une suspension ;
 - proxy/anti-detect ou identité artificielle multi-boutiques ;
 - valeur de conversion statique inventée ;
 - spinner de contenu.
 
-Quand une question touche ces passages, expliquer ce que la vidéo dit, puis indiquer `EXCLU_SYSTEME` et proposer la voie conforme.
+Quand une question touche ces passages, décrire le comportement exact. Ne pas appliquer `EXCLU_SYSTEME` à toute la méthode en deux états : classifier uniquement l'élément qui franchit la frontière ci-dessus.

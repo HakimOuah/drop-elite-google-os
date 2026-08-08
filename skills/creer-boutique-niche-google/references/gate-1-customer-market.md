@@ -26,7 +26,7 @@ Le volume n'est pas une preuve de rentabilité. Un retour terrain documenté ou 
 
 ### 2a. Seuils du mode `catalogue-volume`
 
-`DECISION_PROJET` du 2026-08-08, applicable à la stratégie Drop Elite de boutique catalogue :
+`DECISION_PROJET` du 2026-08-08, applicable à la stratégie Kraken de boutique catalogue :
 
 - plancher boutique : **30 000 recherches mensuelles commerciales nettoyées en France** sur l'ensemble des intentions distinctes du catalogue ;
 - zone de confort : **40 000 recherches mensuelles ou plus** ; ce nombre n'est pas un plafond ;

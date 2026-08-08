@@ -30,6 +30,10 @@
 ## État existant
 
 - Boutique active : oui/non
+- État storefront observé : `GMC_READY` / `GROWTH_MARKETING` / mixte / non classé
+- État storefront cible : `GMC_READY` / `GROWTH_MARKETING`
+- Mode de construction : `BUILD_GMC_READY` / `BUILD_GROWTH_MARKETING` / `TRANSITION_GMC_TO_GROWTH`
+- Baseline/thème/version et rollback :
 - Trafic/dépenses antérieurs :
 - Tracking achat testé : oui/non/manquant
 - GMC : absent/brouillon/actif/limité/suspendu
@@ -43,6 +47,7 @@
 | Lecture/audit | A |  |  |
 | Brouillons et branche Git | B |  |  |
 | Publication/site live | C |  |  |
+| Bascule GMC-ready → Growth | C |  |  |
 | GMC/revue | C |  |  |
 | Campagnes/dépense | C |  |  |
 | DSers/commande | C |  |  |

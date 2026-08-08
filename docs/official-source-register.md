@@ -20,6 +20,7 @@ Dernière vérification initiale : **2026-08-08**. Vérifier à nouveau avant un
 
 | Sujet | Source primaire | Usage |
 |---|---|---|
+| Utilisation abusive du réseau publicitaire | https://support.google.com/adspolicy/answer/6020954?hl=fr | distinguer évolution normale du site, contenu évasif et contournement des systèmes |
 | Configuration des conversions web | https://support.google.com/google-ads/answer/16560108?hl=fr | prérequis de mesure |
 | Valeurs propres à chaque transaction | https://support.google.com/google-ads/answer/6095947?hl=fr | valeur et devise dynamiques |
 | Déduplication par identifiant de transaction | https://support.google.com/google-ads/answer/6386790?hl=fr | empêcher le double comptage |

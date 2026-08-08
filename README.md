@@ -1,6 +1,8 @@
-# Drop Elite Google OS
+# La Méthode Kraken — Google OS
 
 Système privé, reproductible et sourcé pour concevoir, valider, lancer et améliorer des boutiques de niche orientées Google Ads et SEO en France.
+
+Le dépôt et certains identifiants techniques conservent le nom historique `drop-elite-google-os` pour rester compatibles avec les installations existantes. La formation source est désormais attribuée à **La Méthode Kraken d'Enzo Honoré** conformément à l'indication de Hakim.
 
 Ce dépôt réunit quatre couches qui doivent rester distinctes :
 
@@ -17,12 +19,14 @@ Le point d'entrée est [`skills/creer-boutique-niche-google/SKILL.md`](skills/cr
 
 Son mode `catalogue-volume` accepte le low ticket sans plancher arbitraire lorsque la demande France dédupliquée, l'économie de commande et un catalogue d'au moins 200 produits distincts sont prouvés. Les seuils opératoires sont documentés dans les portes 1 à 4 et restent des décisions de projet, pas des règles officielles Google.
 
+Pour Merchant Center, il sait construire deux états de storefront : `GMC_READY`, commerce complet et sobre pour la validation, puis `GROWTH_MARKETING`, même socle enrichi d'une couche de persuasion, merchandising, offre et CRO. La méthode, la matrice d'invariants et le protocole de bascule sont détaillés dans [`store-states-gmc-growth.md`](skills/creer-boutique-niche-google/references/store-states-gmc-growth.md).
+
 Il route vers les compétences spécialisées existantes lorsqu'elles sont disponibles, notamment la chasse produit France, la recherche client, l'offre, le storefront, la CRO et le copywriting. Il ne duplique pas leurs savoir-faire.
 
 ## Principes non négociables
 
 - Aucun chiffre, avis, délai, stock, certification ou avantage n'est inventé.
-- Aucun contournement de contrôle Google : pas d'identités jetables, anti-detect, cloaking ou fuite après suspension.
+- Aucun contournement de contrôle Google : pas d'identités jetables, anti-detect destiné à masquer des liens, contenu différencié pour le contrôleur ou fuite après suspension. La transition documentée `GMC_READY` → `GROWTH_MARKETING`, identique pour tous et conforme dans les deux états, est une méthode conservée.
 - Une approbation GMC n'est jamais garantie.
 - Aucun budget média n'est lancé sans achat testable avec valeur, devise et identifiant de transaction unique.
 - Le scaling se décide sur la marge contributive et la trésorerie, pas sur `CA - dépenses publicitaires`.
@@ -43,7 +47,7 @@ Suivre [`RESTORE.md`](RESTORE.md). Le dépôt privé est la source de vérité p
 
 La transformation du cours vers les portes et les corrections apportées sont détaillées dans [`docs/corpus-to-skill-traceability.md`](docs/corpus-to-skill-traceability.md).
 
-La relecture sémantique des 49 contenus parlés est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et conseils exclus sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
+La relecture sémantique des 49 contenus parlés est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et méthodes sensibles sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
 
 ## Confidentialité et droits
 

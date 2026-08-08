@@ -1,9 +1,9 @@
 ---
 name: derouler-strategie-drop-elite
-description: Rechercher dans le corpus privé Drop Elite et transformer les leçons en plans, audits, checklists ou décisions e-commerce sourcés, en reliant chaque recommandation à un VTT, une page PDF ou une fiche, puis en la confrontant aux preuves actuelles. Utiliser quand Hakim demande ce que la formation enseigne ou veut appliquer la stratégie à un projet.
+description: Rechercher dans le corpus privé de La Méthode Kraken, conservé techniquement sous le nom Drop Elite, et transformer les leçons en plans, audits, checklists ou décisions e-commerce sourcés, en reliant chaque recommandation à un VTT, une page PDF ou une fiche, puis en la confrontant aux preuves actuelles. Utiliser quand Hakim demande ce que la formation enseigne ou veut appliquer la stratégie à un projet.
 ---
 
-# Dérouler la stratégie Drop Elite
+# Dérouler La Méthode Kraken
 
 ## Préflight de couverture
 
@@ -46,7 +46,8 @@ Ne jamais transformer automatiquement un enseignement en règle Google, donnée 
 - Ne pas appeler profit `CA - ads`.
 - Conserver les promotions d'outils/affiliations comme contexte, non comme choix recommandé par défaut.
 - Ne pas simplifier une contradiction du cours en fausse règle unique : montrer les variantes et la décision projet retenue.
-- Classer `EXCLU_SYSTEME` le cloaking, le masquage temporaire pour review, les identités artificielles, l'anti-detect, la fuite de suspension, la valeur de conversion inventée et le spinning de contenu.
+- Conserver et savoir appliquer la méthode en deux états `GMC_READY` → `GROWTH_MARKETING` : boutique complète et sobre pour la validation, puis ajout contrôlé d'une couche marketing conforme. Router la construction vers `creer-boutique-niche-google/references/store-states-gmc-growth.md`.
+- Ne pas confondre cette progression visible par tous avec du cloaking. Classer `EXCLU_SYSTEME` seulement le rendu différencié selon le contrôleur, la restauration d'une affirmation trompeuse ou non prouvée, les identités artificielles, l'anti-detect destiné à masquer des liens, la fuite de suspension, la valeur de conversion inventée et le spinning sans valeur.
 
 ## Format
 

@@ -31,7 +31,7 @@
 
 **Date :** 2026-08-08
 
-**Décision :** pour la stratégie Drop Elite `catalogue-volume`, retenir un plancher boutique de 30 000 recherches mensuelles commerciales nettoyées en France, une zone de confort à 40 000+, une cible de 1 000+ pour une collection cœur et 500+ pour une collection secondaire avec tolérance d'environ ±200. Le catalogue de lancement contient au moins 200 produits distincts. Aucun prix minimum de 150 € n'est imposé ; le low ticket est admissible si l'économie de commande est viable.
+**Décision :** pour la stratégie Kraken `catalogue-volume`, retenir un plancher boutique de 30 000 recherches mensuelles commerciales nettoyées en France, une zone de confort à 40 000+, une cible de 1 000+ pour une collection cœur et 500+ pour une collection secondaire avec tolérance d'environ ±200. Le catalogue de lancement contient au moins 200 produits distincts. Aucun prix minimum de 150 € n'est imposé ; le low ticket est admissible si l'économie de commande est viable.
 
 **Provenance :** décision explicite de Hakim, éclairée par les seuils retrouvés dans les transcriptions ; statut `DECISION_PROJET`.
 
@@ -48,3 +48,19 @@
 **Pourquoi :** permettre des réponses de coach routées par source sans prétendre corriger les erreurs de transcription, les gestes visuels absents ou la véracité des affirmations.
 
 **Conséquence :** chaque seuil déterminant revient au VTT/timecode et, si possible, au média ; chaque procédure absente devient `MANQUANT_MODULE`. Les tactiques de contournement repérées restent archivées mais portent le statut `EXCLU_SYSTEME`.
+
+## D-008 — Méthode Kraken en deux états de boutique
+
+**Date :** 2026-08-08
+
+**Décision :** attribuer le corpus à La Méthode Kraken d'Enzo Honoré et conserver opérationnellement sa progression : construire un état `GMC_READY` complet et sobre, puis un état `GROWTH_MARKETING` enrichi après validation. Le système doit savoir construire chaque état séparément ou réaliser `TRANSITION_GMC_TO_GROWTH`.
+
+**Provenance :** demande explicite de Hakim, soutenue par `vimeo-caption-240313004` [00:19:10–00:21:15] et `vimeo-caption-262936735` [01:44:56–01:46:38]. Statuts `ENSEIGNE_A_VERIFIER` et `DECISION_PROJET`.
+
+**Contrat :** la boutique reste réelle, identifiable et achetable dans les deux états. Tous les visiteurs voient la même version publiée. Identité/contact, produit/variante, prix/stock, livraison/retours, feed/schema/checkout, tracking et consentement sont des invariants à réconcilier lors de chaque bascule.
+
+**Éléments marketing autorisés :** proposition de valeur, storytelling, merchandising, promotions réelles, prix de référence justifiables, bundles, seuils de livraison, preuve sociale réelle, FAQ, email, contenus SEO et expériences CRO.
+
+**Frontière maintenue :** contenu différent selon le contrôleur, restauration consciente d'un claim trompeur ou non prouvé, retrait des coordonnées/politiques, incohérence volontaire ou fuite de suspension restent `EXCLU_SYSTEME`.
+
+**Conséquence :** toute construction ou transition utilise `references/store-states-gmc-growth.md`, complète `templates/gmc-growth-transition.md`, conserve une baseline, vérifie le rendu et prévoit un rollback avant publication.

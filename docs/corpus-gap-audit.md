@@ -1,4 +1,4 @@
-# Audit des lacunes du corpus Drop Elite
+# Audit des lacunes du corpus de La Méthode Kraken
 
 **Date de relecture :** 2026-08-08
 **Périmètre :** 48 VTT + 1 transcription pilote canonique, soit 49 contenus parlés et 124 489 mots dérivés. Les quatre PDF et le gist Shopify ont également été confrontés aux leçons.
@@ -13,7 +13,7 @@ La frontière honnête est la suivante :
 - **partiellement couvert** : sourcing, offre/CRO, mesure, retargeting, automatisation produit, économie et scaling ;
 - **absent ou trop superficiel** : customer research, branding complet, email, SEO off-site opérationnel, affiliation, délégation d'entreprise, fiscalité, droit français détaillé, sécurité produit et pilotage SAV/retours.
 
-`corpus/derived/coach-source-index.md` conserve le résumé source par source. Le présent document décrit tout ce qui manque, se contredit ou ne doit pas être repris tel quel.
+`corpus/derived/coach-source-index.md` conserve le résumé source par source. Le présent document décrit tout ce qui manque, se contredit ou demande un encadrement opérationnel.
 
 ## 1. Limites matérielles du lot
 
@@ -34,7 +34,7 @@ Le pilote annonce une stratégie plus large que le lot actuel :
 
 | Module annoncé | Repère | Couverture actuelle | Statut |
 |---|---|---|---|
-| Branding et identité de marque | séquence générale du pilote | quelques principes de différenciation et le skill `brandkit`, mais pas le cours Drop Elite | `MANQUANT_MODULE` |
+| Branding et identité de marque | séquence générale du pilote | quelques principes de différenciation et le skill `brandkit`, mais pas le module Kraken complet | `MANQUANT_MODULE` |
 | Email marketing | `de-6417462fa6547-strategie-muse` [10:25–10:32] | capture email évoquée dans le blog, aucune stratégie de flows/campagnes | `MANQUANT_MODULE` |
 | SEO off-site / backlinks | pilote [06:31–07:16] et [10:33–10:36] | principe annoncé, aucune procédure complète d'outreach, sélection, budget ou mesure | `MANQUANT_MODULE` |
 | Affiliation | pilote [07:25–08:08] | principe et cibles évoqués, aucun recrutement, contrat, tracking, commission ou anti-fraude | `MANQUANT_MODULE` |
@@ -136,12 +136,23 @@ Les leçons couvrent la mécanique de compte, mais la méthode complète doit au
 | Domaine expiré | présenté presque indispensable puis comme option | jamais un prérequis ; vérifier historique et choisir selon risque/valeur |
 | SEO/Ads | la formation attribue un effet SEO direct au trafic Ads | ne pas affirmer de causalité ; mesurer séparément acquisition payante et organique |
 
-## 6. Contenus à exclure du système opérationnel
+## 6. Méthode GMC à conserver et exclusions résiduelles
 
-Ces passages restent archivés pour ne pas falsifier la formation, mais le coach ne doit ni les recommander ni les exécuter :
+### Progression conservée
 
-- masquer des claims ou sections, obtenir l'approbation, puis les remettre : `vimeo-caption-240313004` [20:23–20:45] ;
-- retirer du contenu pour une revue et le rétablir plus tard : `vimeo-caption-262936735` [01:34:13–01:46:17] ;
+Le coach doit savoir construire les deux états de boutique suivants :
+
+- `GMC_READY` : commerce complet, achetable et sobre, avec identité, contact, produits, prix, livraison, retours, politiques, feed, schema, checkout et tracking cohérents ;
+- `GROWTH_MARKETING` : même socle avec proposition de valeur, storytelling, merchandising, promotions réelles, bundles, preuves réelles, email et CRO enrichis.
+
+La séquence est enseignée dans `vimeo-caption-240313004` [00:19:10–00:21:15] et renforcée dans `vimeo-caption-262936735` [01:44:56–01:46:38]. Hakim l'adopte comme `DECISION_PROJET`. La même version doit être visible par tous au même moment et les ajouts marketing doivent rester factuels et cohérents. La procédure détaillée se trouve dans `skills/creer-boutique-niche-google/references/store-states-gmc-growth.md`.
+
+### Exclusions résiduelles
+
+Ces comportements restent archivés mais ne doivent ni être recommandés ni exécutés :
+
+- servir une version différente selon user-agent, IP, provenance ou identité supposée du contrôleur ;
+- restaurer sciemment un claim trompeur, interdit ou impossible à prouver après l'approbation ;
 - présenter un CSS comme solution « anti-ban » ou déplacer un compte suspendu sans traiter la cause : `vimeo-caption-239791167` ;
 - proxy/anti-detect et identités multi-boutiques artificiellement isolées : `Fast-Track GMC Approval Framework`, p. 6–8 ;
 - séparer artificiellement société/carte/adresse pour apparaître comme plusieurs annonceurs : `vimeo-caption-262936735` [02:20:03–02:20:19] ;
@@ -149,7 +160,7 @@ Ces passages restent archivés pour ne pas falsifier la formation, mais le coach
 - réécrire mécaniquement du contenu avec un spinner : `43kJQkuviKY` [03:28–03:32] ;
 - envoyer une valeur achat statique de panier moyen quand la valeur réelle échoue ; l'erreur doit être visible et corrigée.
 
-Le remplacement est toujours : identité vraie, contenu final visible, correction de la cause, dossier de preuve et demande de réexamen honnête.
+La progression autorisée reste : identité vraie, socle `GMC_READY` stable, ajout marketing conforme, dossier de preuve, QA et rollback. Une cause réelle de refus doit être corrigée avant réexamen.
 
 ## 7. File de vérification actuelle
 
@@ -173,6 +184,7 @@ Le corpus est suffisant pour expliquer et adapter, avec réserves :
 - comment organiser un catalogue de lancement et ses briefs ;
 - comment préparer une fiche produit SEO/Shopping sans inventer ;
 - comment auditer cohérence site/feed/GMC ;
+- comment construire une boutique `GMC_READY`, une boutique `GROWTH_MARKETING` ou la transition contrôlée entre les deux ;
 - comment vérifier la mesure achat avant Ads ;
 - comment lire requêtes, produits, devices, CPC, CTR, CVR, CPA et ROAS ;
 - quand exclure, corriger le site, consolider ou segmenter ;

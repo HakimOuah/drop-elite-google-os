@@ -49,7 +49,9 @@ def validate_required(errors: list[str]) -> None:
         "docs/corpus-gap-audit.md",
         "vendor/skills.lock.json",
         "skills/creer-boutique-niche-google/SKILL.md",
+        "skills/creer-boutique-niche-google/references/store-states-gmc-growth.md",
         "skills/creer-boutique-niche-google/templates/demand-map.md",
+        "skills/creer-boutique-niche-google/templates/gmc-growth-transition.md",
         "skills/integrer-videos-formation/SKILL.md",
         "skills/derouler-strategie-drop-elite/SKILL.md",
         "skills/derouler-strategie-drop-elite/references/coach-routing.md",
@@ -115,6 +117,44 @@ def validate_catalogue_volume_mode(errors: list[str]) -> None:
         for phrase in expected_phrases:
             if phrase not in text:
                 errors.append(f"règle catalogue-volume manquante dans {relative}: {phrase}")
+
+
+def validate_gmc_growth_states(errors: list[str]) -> None:
+    checks = {
+        "skills/creer-boutique-niche-google/SKILL.md": (
+            "GMC_READY",
+            "GROWTH_MARKETING",
+            "TRANSITION_GMC_TO_GROWTH",
+        ),
+        "skills/creer-boutique-niche-google/references/store-states-gmc-growth.md": (
+            "BUILD_GMC_READY",
+            "BUILD_GROWTH_MARKETING",
+            "Contrat d'invariants",
+            "même état doit être servi à Google et aux clients",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-5-gmc-compliance-tracking.md": (
+            "Cycle `GMC_READY` → `GROWTH_MARKETING`",
+            "templates/gmc-growth-transition.md",
+        ),
+        "skills/creer-boutique-niche-google/templates/gmc-growth-transition.md": (
+            "Contrat d'invariants",
+            "Modules marketing",
+            "Procédure de rollback",
+        ),
+        "skills/derouler-strategie-drop-elite/references/coach-routing.md": (
+            "Routage des deux états de boutique",
+            "store-states-gmc-growth.md",
+        ),
+    }
+    for relative, expected_phrases in checks.items():
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"workflow GMC/Growth absent: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for phrase in expected_phrases:
+            if phrase not in text:
+                errors.append(f"workflow GMC/Growth incomplet dans {relative}: {phrase}")
 
 
 def validate_manifest(errors: list[str]) -> None:
@@ -260,6 +300,7 @@ def main() -> int:
     validate_required(errors)
     validate_skills(errors)
     validate_catalogue_volume_mode(errors)
+    validate_gmc_growth_states(errors)
     validate_manifest(errors)
     validate_coach_index(errors)
     validate_vendor_lock(errors)

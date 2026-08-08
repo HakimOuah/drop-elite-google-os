@@ -15,7 +15,7 @@ Transformer un objectif commercial en système de décisions vérifiables. Le r�
 2. Choisir et consigner le mode économique : `catalogue-volume`, `high-ticket` ou autre hypothèse explicitement définie. Ne pas transférer les seuils d'un mode à l'autre.
 3. Lire `references/operating-model.md`, `references/evidence-and-currentness.md`, `references/action-authorization.md` et `references/specialist-skill-routing.md`.
 4. Si une boutique a déjà reçu du trafic ou de la dépense, commencer par la porte 0 et son post-mortem. Ne pas repartir automatiquement en recherche produit.
-5. Charger seulement la référence de la porte en cours, puis les modules spécialisés nécessaires.
+5. Charger seulement la référence de la porte en cours, puis les modules spécialisés nécessaires. Pour toute construction, préparation GMC ou évolution post-approbation, lire aussi `references/store-states-gmc-growth.md` et consigner l'état cible.
 6. Créer ou mettre à jour un dossier projet avec `scripts/init_project.py` si le travail doit durer au-delà de la conversation.
 
 ## Routage vers les compétences spécialisées
@@ -55,6 +55,15 @@ Ne pas recopier leur méthode intégrale dans un dossier projet. Consigner leur 
 
 Une porte ne passe que si ses critères sont prouvés. Le nombre de jours écoulés, un score arbitraire ou l'envie d'avancer ne remplacent pas une preuve.
 
+## Deux états de boutique constructibles
+
+Le système sait construire et vérifier deux livrables décrits dans `references/store-states-gmc-growth.md` :
+
+- `GMC_READY` : boutique complète, achetable, transparente et volontairement sobre pour l'examen initial ;
+- `GROWTH_MARKETING` : même contrat de vérité avec une couche de copywriting, merchandising, offre et CRO plus développée.
+
+Il sait exécuter `BUILD_GMC_READY`, `BUILD_GROWTH_MARKETING` ou `TRANSITION_GMC_TO_GROWTH`. La bascule est une modification de storefront : elle exige une baseline, une matrice d'invariants, une QA rendue, un rollback et l'autorisation de publication. Ajouter du marketing après validation est conservé comme méthode Kraken ; ce marketing doit rester factuel et cohérent lors de tout contrôle ultérieur.
+
 ## Protocole de chaque porte
 
 1. **Question** — formuler la décision à prendre.
@@ -69,7 +78,7 @@ Une porte ne passe que si ses critères sont prouvés. Le nombre de jours écoul
 
 - Ne pas garantir une approbation GMC, un classement SEO, un CPA ou un revenu.
 - Ne pas inventer persona, volume, marge, avis, identité, délai, matériau, stock ou certification.
-- Ne pas contourner une suspension ou une politique avec anti-detect, cloaking, identité jetable ou comptes de fuite.
+- Ne pas contourner une suspension ou une politique avec anti-detect, contenu différencié selon le contrôleur, identité jetable ou comptes de fuite. La progression documentée `GMC_READY` → `GROWTH_MARKETING`, identique pour tous les visiteurs et conforme dans ses deux états, n'est pas interdite par cette règle.
 - Ne pas appeler « profit » le chiffre d'affaires moins les dépenses publicitaires.
 - Ne pas scaler une campagne avec conversion achat non diagnostiquée, valeur statique erronée ou doublons.
 - Ne pas publier, commander, modifier DSers, lancer une campagne ou dépenser sans autorisation appropriée.

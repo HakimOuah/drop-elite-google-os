@@ -1,4 +1,4 @@
-# Index coach des transcriptions Drop Elite
+# Index coach des transcriptions de La Méthode Kraken
 
 ## Statut de la relecture
 
@@ -8,6 +8,7 @@ Relecture sémantique intégrale effectuée le **2026-08-08** sur les **48 fichi
 - `ASSIMILE_TEXTE_QUALITE_LIMITEE` : le texte a été lu, mais l'automatique, le manque d'image ou des segments pauvres limitent la certitude.
 - `ENSEIGNE_A_VERIFIER` : un seuil, une causalité ou une procédure de la formation doit être confronté aux données actuelles et aux sources officielles.
 - `EXCLU_SYSTEME` : la tactique est conservée comme preuve historique, mais ne doit pas être recommandée ni exécutée.
+- `DECISION_PROJET` : Hakim adopte une méthode pour le système opérationnel avec un périmètre et des frontières explicites ; elle ne devient pas pour autant une règle officielle de Google.
 
 Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir de la parole. Pour une réponse précise, revenir au VTT avec `skills/derouler-strategie-drop-elite/scripts/search_corpus.py` et citer le timecode exact.
 
@@ -161,11 +162,11 @@ Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir
 
 ### `vimeo-caption-239965951` — audit pré-GMC
 
-`ASSIMILE_TEXTE`. Bonne couverture de la cohérence promotion, stock, contact, checkout, paiements, livraison, retours, pages légales, mobile et feed. Les conseils consistant à retirer ultérieurement les coordonnées, minimiser des délais réels ou garantir une approbation sont `EXCLU_SYSTEME`.
+`ASSIMILE_TEXTE`. Bonne couverture de la cohérence promotion, stock, contact, checkout, paiements, livraison, retours, pages légales, mobile et feed. La préparation d'un état sobre `GMC_READY` est conservée. Retirer ensuite les coordonnées, minimiser des délais réels ou garantir une approbation reste `EXCLU_SYSTEME`.
 
 ### `vimeo-caption-240313004` — cas pratique GMC, flux et tracking
 
-`ASSIMILE_TEXTE`. Montre une mise en place Merchant Center/flux, contrôle de cohérence et déduplication des conversions. Les passages invitant à cacher des claims, attendre la validation puis les remettre constituent du cloaking/compliance evasion : `EXCLU_SYSTEME`.
+`ASSIMILE_TEXTE`. Montre une mise en place Merchant Center/flux, contrôle de cohérence et déduplication des conversions. Le passage [00:19:10–00:21:15] enseigne une boutique sobre pendant la validation, une période de stabilité, puis l'ajout de textes ou modules marketing. Hakim conserve cette progression comme `DECISION_PROJET` `GMC_READY` → `GROWTH_MARKETING`. Elle n'est pas assimilée au cloaking si la même version est servie à tous et si les ajouts restent factuels et conformes ; un claim santé trompeur/non prouvé ou un contenu réservé au contrôleur demeure `EXCLU_SYSTEME`.
 
 ### `vimeo-caption-240359870` — conversion achat Google Ads
 
@@ -213,7 +214,7 @@ Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir
 
 ### `vimeo-caption-262936735` — masterclass Q&A Ads, GMC et scaling
 
-`ASSIMILE_TEXTE_QUALITE_LIMITEE`. Session de 2 h 30 couvrant audits de sites/comptes, budget vs CPC, requêtes, exclusions produit, conversion tracking, exclusion de données, tROAS, AOV, frais de port, segmentation profit et PMax. Elle contient aussi des recommandations de masquage temporaire de contenu pour passer une revue, d'identités multi-boutiques artificiellement séparées et de répétition de comptes : ces passages sont `EXCLU_SYSTEME`. Les calculateurs de profit/valorisation du module 13 mentionnés au début sont absents.
+`ASSIMILE_TEXTE_QUALITE_LIMITEE`. Session de 2 h 30 couvrant audits de sites/comptes, budget vs CPC, requêtes, exclusions produit, conversion tracking, exclusion de données, tROAS, AOV, frais de port, segmentation profit et PMax. Le passage [01:44:56–01:46:38] recommande un minimum de textes marketing pendant une demande d'examen ; cette logique alimente désormais le livrable `GMC_READY`, puis la transition documentée vers `GROWTH_MARKETING`. Les identités multi-boutiques artificiellement séparées, répétitions de comptes pour fuir un ban et contenus trompeurs restent `EXCLU_SYSTEME`. Les calculateurs de profit/valorisation du module 13 mentionnés au début sont absents.
 
 ## Documents associés lus
 
@@ -229,3 +230,4 @@ Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir
 3. Restituer d'abord `Ce que la formation enseigne`.
 4. Séparer ensuite `Décision projet`, `preuve actuelle`, `contradiction` et `manquant`.
 5. Ne jamais combler une pièce jointe ou un module absent avec une invention.
+6. Pour GMC, savoir construire les deux états décrits par `skills/creer-boutique-niche-google/references/store-states-gmc-growth.md` et classifier le comportement précis plutôt que d'exclure toute évolution marketing post-approbation.
