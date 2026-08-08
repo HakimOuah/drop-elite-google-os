@@ -2,6 +2,17 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Second lot de transcriptions, mission coach-associé et stratégie pas à pas
+
+- ingestion de 17 nouveaux contenus fournis par Hakim (16 VTT Vimeo + 1 vidéo YouTube « PostPilot ») : netlinking, stratégie de contenu, avis clients, Facebook/retargeting, canal Shopify, SAV, email marketing Klaviyo (6 vidéos) et automatisation sociale Make — le corpus passe de 49 à 66 contenus parlés ;
+- relecture sémantique du second lot et extension de l'index coach (nouvelles sections SEO off-site, réseaux sociaux, SAV, email marketing) ;
+- relecture complète des 49 anciens contenus par quatre agents parallèles et consolidation de la séquence, des seuils et des procédures ;
+- mise à jour de l'audit des lacunes : email, netlinking, SAV et retargeting Meta passent de `MANQUANT_MODULE` à couverts (ressources jointes toujours absentes) ;
+- création de `references/strategie-pas-a-pas.md` : la roadmap opérationnelle en 11 phases, du choix de niche à la multiplication horizontale, sourcée sur les 66 contenus ;
+- création de `references/mission-coach-associe.md` : la finalité du système est d'être le coach de La Méthode Kraken et l'associé de Hakim, avec règle de proactivité (dont l'étude concurrentielle profonde obligatoire après toute sélection de niche) ;
+- création de `docs/parc-sites-enzo-honore.md` : parc de boutiques observé du formateur (capture SAV multi-boutiques), servant de banc de calibrage des niches ;
+- mise à jour des SKILL.md (`creer-boutique-niche-google`, `derouler-strategie-drop-elite`) et du README pour ancrer la posture coach-associé et les nouveaux compteurs du corpus.
+
 ## 2026-08-08 — Deux états de boutique GMC et Growth
 
 - attribution explicite du corpus à La Méthode Kraken d'Enzo Honoré, tout en conservant les identifiants techniques historiques ;

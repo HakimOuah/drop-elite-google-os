@@ -13,6 +13,10 @@ Ce dépôt réunit quatre couches qui doivent rester distinctes :
 
 Une affirmation enseignée dans la formation n'est jamais automatiquement présentée comme une règle Google. Le système utilise les statuts `OFFICIEL_ACTUEL`, `ENSEIGNE_A_VERIFIER`, `OBSERVE_PROJET`, `HYPOTHESE` et `MANQUANT`.
 
+## Finalité : coach et associé
+
+Le système n'est pas un exécutant à la tâche : il est le **coach de La Méthode Kraken et l'associé de Hakim**. Il connaît la méthode de bout en bout, sait où en est chaque boutique, répond aux questions avec sources, et enchaîne de sa propre initiative sur l'étape suivante de la roadmap. Cette posture est définie dans [`skills/creer-boutique-niche-google/references/mission-coach-associe.md`](skills/creer-boutique-niche-google/references/mission-coach-associe.md) ; la roadmap opérationnelle complète est [`skills/creer-boutique-niche-google/references/strategie-pas-a-pas.md`](skills/creer-boutique-niche-google/references/strategie-pas-a-pas.md). Le parc de boutiques observé du formateur, qui sert de banc de calibrage des niches, est décrit dans [`docs/parc-sites-enzo-honore.md`](docs/parc-sites-enzo-honore.md).
+
 ## Skill principal
 
 Le point d'entrée est [`skills/creer-boutique-niche-google/SKILL.md`](skills/creer-boutique-niche-google/SKILL.md). Il orchestre neuf portes de décision : contexte, marché, économie/offre, SEO, boutique, GMC/mesure, test Ads, optimisation et scaling.
@@ -47,7 +51,7 @@ Suivre [`RESTORE.md`](RESTORE.md). Le dépôt privé est la source de vérité p
 
 La transformation du cours vers les portes et les corrections apportées sont détaillées dans [`docs/corpus-to-skill-traceability.md`](docs/corpus-to-skill-traceability.md).
 
-La relecture sémantique des 49 contenus parlés est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et méthodes sensibles sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
+La relecture sémantique des 66 contenus parlés (second lot netlinking, contenu, avis, Facebook, SAV, email marketing et automatisation sociale inclus) est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et méthodes sensibles sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
 
 ## Confidentialité et droits
 

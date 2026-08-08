@@ -9,5 +9,6 @@
 | 2026-08-08 | Ajout du mode catalogue-volume | portes 1–4, carte de demande, intake et traçabilité | validation sémantique + dépôt complet + installation locale vérifiée | PR brouillon `drop-elite-google-os#1` |
 | 2026-08-08 | Relecture exhaustive et base coach | 49 contenus parlés, index, audit des lacunes, routage et portabilité du skill | index exhaustif contrôlé par manifest + validation dépôt + test skill installé | PR brouillon `drop-elite-google-os#1` |
 | 2026-08-08 | Ajout du workflow GMC-ready → Growth | skills coach/global, portes 4–5, template de transition, traçabilité et attribution Kraken | validation sémantique + dépôt complet + copies locales comparées | PR brouillon `drop-elite-google-os#1` |
+| 2026-08-08 | Second lot corpus (17 contenus) + mission coach-associé + stratégie pas à pas | corpus 66 contenus, index coach, audit lacunes, `strategie-pas-a-pas.md`, `mission-coach-associe.md`, `parc-sites-enzo-honore.md`, SKILL.md ×2, README | relecture 4 agents parallèles + `python3 scripts/validate_repo.py` | à pousser |
 
 Ajouter une ligne pour chaque opération durable importante. Les petits détails relèvent de l'historique Git ; les décisions structurantes vont aussi dans `DECISIONS.md`.

@@ -1,0 +1,1413 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.400
+Bien venu du coup dans ce petit module marketing dans
+
+2
+00:00:02.400 --> 00:00:03.840
+lequel on va essayer de comprendre un petit peu,
+
+3
+00:00:03.840 --> 00:00:06.720
+voilà comment structurer le back end de sa marque commerce
+
+4
+00:00:06.720 --> 00:00:09.600
+pour générer un maximum de revenus finalement avec les ime
+
+5
+00:00:10.020 --> 00:00:11.960
+et vous allez voir que ce n'est pas si compliqué que ça,
+
+6
+00:00:11.960 --> 00:00:13.160
+contrairement à ce qu'on pourrait croire.
+
+7
+00:00:13.310 --> 00:00:15.520
+Donc, petite introduction très rapide.
+
+8
+00:00:15.710 --> 00:00:18.360
+Donc, qui suis je pour vous parler de tout ça.
+
+9
+00:00:18.360 --> 00:00:20.320
+Donc moi, je m'appelle un roman re, leurs champ,
+
+10
+00:00:20.420 --> 00:00:22.800
+ça fait quatre ans maintenant que j'ai une agence email
+
+11
+00:00:22.800 --> 00:00:25.320
+marketing et qu'on accompagne des y commerçants.
+
+12
+00:00:25.350 --> 00:00:26.960
+Donc, depuis la création de l'agence,
+
+13
+00:00:27.530 --> 00:00:30.600
+c'est plus de 350 site commerces accompagnés plus de
+
+14
+00:00:30.600 --> 00:00:32.200
+35 000 000 d' régénéré et en moyenne,
+
+15
+00:00:32.340 --> 00:00:35.640
+30 à 50 100 du cas globalement généré avec les
+
+16
+00:00:35.640 --> 00:00:36.760
+emails pour nos clients.
+
+17
+00:00:36.830 --> 00:00:40.720
+Donc, depuis début 2024, on est clavio platinum partner.
+
+18
+00:00:40.990 --> 00:00:44.040
+Donc une des rares agences en France à avoir ce statut qu'on
+
+19
+00:00:44.080 --> 00:00:47.040
+a, on est plutôt plutôt pas trop mal noté.
+
+20
+00:00:47.390 --> 00:00:50.880
+Donc on a quelques exemples d'ema très rapidement pour vous
+
+21
+00:00:50.880 --> 00:00:52.720
+montrer un aperçu avant après.
+
+22
+00:00:52.720 --> 00:00:55.600
+Donc voilà des emails relativement basique qu'il avait pu
+
+23
+00:00:55.600 --> 00:00:57.080
+avoir avant par le précédent,
+
+24
+00:00:57.180 --> 00:01:00.480
+la présidente de personne qui bosser et maintenant des
+
+25
+00:01:00.480 --> 00:01:03.040
+emails plutôt bien bondés avec des visuels sympa
+
+26
+00:01:03.060 --> 00:01:05.160
+ou une image vo de mots.
+
+27
+00:01:05.160 --> 00:01:07.640
+On a beaucoup plus d'informations et des meilleures des
+
+28
+00:01:07.640 --> 00:01:09.480
+meilleures performances là dessus également.
+
+29
+00:01:09.550 --> 00:01:12.200
+Donc, juste pour reprendre un petit peu les emails,
+
+30
+00:01:12.250 --> 00:01:15.640
+parce que ce n'est pas forcément le canal sur lequel on se
+
+31
+00:01:15.840 --> 00:01:17.600
+focalise au début, ce qui est normal,
+
+32
+00:01:17.970 --> 00:01:19.400
+parce qu'au début, on n'a pas d'email.
+
+33
+00:01:19.400 --> 00:01:22.320
+Donc on va aller faire de l'acquisition sur sur
+
+34
+00:01:22.320 --> 00:01:23.400
+les plateformes publicitaires.
+
+35
+00:01:23.710 --> 00:01:24.760
+Mais néanmoins,
+
+36
+00:01:24.760 --> 00:01:26.720
+ça ne veut pas dire que l'email, c'est quelque chose à négliger.
+
+37
+00:01:26.720 --> 00:01:28.520
+Bien au contraire, c'est quelque chose
+
+38
+00:01:29.110 --> 00:01:30.480
+indispensable qu'aujourd'hui,
+
+39
+00:01:30.480 --> 00:01:32.720
+pour n'importe quel marque commerce déjà,
+
+40
+00:01:32.810 --> 00:01:34.600
+c'est quelque chose de vieux.
+
+41
+00:01:34.860 --> 00:01:36.560
+Je veux dire, ça existe depuis plus de 40 ans.
+
+42
+00:01:36.700 --> 00:01:40.280
+Et si je me réfère aux statistiques, c'est en 2023,
+
+43
+00:01:40.280 --> 00:01:42.640
+plus de 300 000 000 000 d'email envoyés chaque jour.
+
+44
+00:01:43.030 --> 00:01:44.640
+Donc 300 000 000 000 chaque jour,
+
+45
+00:01:44.770 --> 00:01:46.920
+c'est juste insane, c'est énorme.
+
+46
+00:01:46.920 --> 00:01:48.600
+Et puis après, quand on regarde les statistiques des
+
+47
+00:01:48.600 --> 00:01:50.640
+performances au niveau des emails, donc on a un héroï
+
+48
+00:01:51.210 --> 00:01:55.080
+moyen de fois 38 dire que sur Facebook, par exemple,
+
+49
+00:01:55.080 --> 00:01:57.000
+on dépense un euro, on a trois ou quatre d'os.
+
+50
+00:01:57.670 --> 00:01:59.840
+Donc on dépense un euro, on fait trois ou quatre euros là
+
+51
+00:01:59.840 --> 00:02:01.520
+avec les emails, on dépense un euro, on fait 38.
+
+52
+00:02:02.030 --> 00:02:04.000
+Donc c'est beaucoup, beaucoup, beaucoup plus intéressant.
+
+53
+00:02:04.020 --> 00:02:06.040
+Et ça devrait, c'est pour cette raison que ça devrait être
+
+54
+00:02:06.100 --> 00:02:07.800
+le piller de votre business.
+
+55
+00:02:08.410 --> 00:02:09.920
+Parce que déjà c'est peu coûteux.
+
+56
+00:02:10.300 --> 00:02:13.240
+Ça va vous permettre de maximiser la rentabilité de votre
+
+57
+00:02:13.240 --> 00:02:14.280
+chum dans sa globalité.
+
+58
+00:02:14.280 --> 00:02:16.520
+Voilà, vous dépensez en a mettre du backend,
+
+59
+00:02:16.940 --> 00:02:18.600
+un backend email en place, vous permettre
+
+60
+00:02:19.360 --> 00:02:20.680
+d'améliorer la rentabilité,
+
+61
+00:02:20.680 --> 00:02:22.240
+d'être plus rentable et forcément
+
+62
+00:02:22.900 --> 00:02:24.720
+de pouvoir dépenser plus en a comme voilà.
+
+63
+00:02:24.720 --> 00:02:26.040
+C'est un vrai cercle vertueux.
+
+64
+00:02:26.300 --> 00:02:28.840
+Et évidemment ça vous permettre de fiser vos clients en
+
+65
+00:02:28.840 --> 00:02:30.320
+favorisant de la récurrence d'achat.
+
+66
+00:02:30.350 --> 00:02:33.600
+Puisque on va pouvoir la une fois qu'on a, on a le client,
+
+67
+00:02:33.600 --> 00:02:35.640
+on a son email, on va pouvoir lui renvoyer des emails pour
+
+68
+00:02:35.640 --> 00:02:37.760
+racheter et plus besoin de dépenser en pub
+
+69
+00:02:37.760 --> 00:02:38.840
+pour le faire racheter à nouveau.
+
+70
+00:02:38.910 --> 00:02:41.800
+Donc voilà, concrètement, je sais que les a,
+
+71
+00:02:41.810 --> 00:02:43.520
+c'est quelque chose qui représente
+
+72
+00:02:44.140 --> 00:02:46.360
+par significatif de votre revenu actuellement,
+
+73
+00:02:46.360 --> 00:02:47.880
+si vous ne faites pas d'email mais voilà
+
+74
+00:02:48.460 --> 00:02:50.040
+ce que je veux dire, c'est que les emails peuvent
+
+75
+00:02:50.040 --> 00:02:52.680
+représenter 20 à 30 % du cas global de votre marque.
+
+76
+00:02:52.680 --> 00:02:54.600
+Donc c'est quand même pas quelque chose de négligeable.
+
+77
+00:02:54.790 --> 00:02:56.880
+Donc si on a 30 avec les emails,
+
+78
+00:02:56.880 --> 00:02:58.840
+on a 70 avec les ads. Comme je vous l'ai
+
+79
+00:02:58.840 --> 00:03:00.290
+Dit, au niveau des adds, on va aller
+
+80
+00:03:00.290 --> 00:03:01.410
+faire de l'acquisition en Cole.
+
+81
+00:03:01.410 --> 00:03:03.050
+Donc ce n'est pas forcément des gens qui nous connaissent.
+
+82
+00:03:03.050 --> 00:03:05.280
+Donc forcément, on ne va pas avoir des vins des roi,
+
+83
+00:03:05.860 --> 00:03:08.080
+au contraire, on des deux ou trois des roi.
+
+84
+00:03:08.110 --> 00:03:10.240
+Donc on est rentable, on gagne de l'argent,
+
+85
+00:03:10.310 --> 00:03:12.000
+mais niveau rent habité, c'est pas fou.
+
+86
+00:03:12.530 --> 00:03:14.520
+C'est quelque chose en tout cas, l'ultra puissant,
+
+87
+00:03:14.580 --> 00:03:15.920
+ça me permet de faire découvrir notre part.
+
+88
+00:03:15.920 --> 00:03:17.480
+Ça nous permet de générer du revenu,
+
+89
+00:03:17.670 --> 00:03:19.080
+mais c'est de plus en plus compliqué,
+
+90
+00:03:19.420 --> 00:03:20.720
+les a de plus en plus cher.
+
+91
+00:03:20.720 --> 00:03:21.840
+Il y a plus en plus d'annonces.
+
+92
+00:03:21.840 --> 00:03:23.280
+Et du coup, ça fait grimper les coups,
+
+93
+00:03:23.460 --> 00:03:24.920
+vu que c'est un système d'enchère.
+
+94
+00:03:24.920 --> 00:03:26.320
+Et c'est là que les emails interviennent.
+
+95
+00:03:26.390 --> 00:03:28.160
+Puisque les 30 % restant,
+
+96
+00:03:28.160 --> 00:03:31.080
+on va pouvoir les générer avec les emails avec un beaucoup
+
+97
+00:03:31.080 --> 00:03:32.480
+plus intéressant que n'importe
+
+98
+00:03:32.480 --> 00:03:33.600
+quelle autre source d'acquisition.
+
+99
+00:03:33.600 --> 00:03:36.760
+Donc fois 30 en fois 40 et globalement,
+
+100
+00:03:36.780 --> 00:03:39.240
+les emails vont améliorer notre air global
+
+101
+00:03:39.780 --> 00:03:41.440
+et nous permettre, comme je l'ai dit,
+
+102
+00:03:41.540 --> 00:03:43.720
+de dépenser davantage au delà de ça,
+
+103
+00:03:43.720 --> 00:03:46.720
+ça va nous permettre aussi de prendre de l'avance sur nos,
+
+104
+00:03:46.980 --> 00:03:50.000
+sur nos concurrents qui se dépensent en a mais peut être qui
+
+105
+00:03:50.000 --> 00:03:52.880
+n'ont pas forcément un back end très optimisé.
+
+106
+00:03:52.950 --> 00:03:54.560
+Donc donc c'est vraiment là.
+
+107
+00:03:54.900 --> 00:03:57.880
+On a 70 avec les a, on va faire du ch,
+
+108
+00:03:57.900 --> 00:04:00.320
+on va faire un peu de beef, mais c'est vraiment avec le
+
+109
+00:04:00.320 --> 00:04:02.080
+marketing, même si on fait que 30 du CR,
+
+110
+00:04:02.080 --> 00:04:03.240
+on a beaucoup plus dérouiller.
+
+111
+00:04:03.240 --> 00:04:05.240
+Donc on va vraiment aller construire notre rentabilité,
+
+112
+00:04:05.340 --> 00:04:09.040
+le bénéfice net sur la partie email et du coup, voilà.
+
+113
+00:04:09.040 --> 00:04:11.960
+Comme je vous l'ai dit, cette synergie email va avoir un un
+
+114
+00:04:11.960 --> 00:04:15.120
+pas significatif sur plusieurs éléments de votre marque.
+
+115
+00:04:15.720 --> 00:04:17.760
+Premièrement, peu deil d'affaires forcément.
+
+116
+00:04:18.240 --> 00:04:19.920
+Deuxièmement, la rentabilité sur le long terme.
+
+117
+00:04:19.970 --> 00:04:21.960
+Comme je vous l'ai dit, on est plus en avec les emails.
+
+118
+00:04:21.960 --> 00:04:23.040
+Troisième point,
+
+119
+00:04:23.070 --> 00:04:25.160
+l'image de marque et la crédibilité forcément
+
+120
+00:04:25.770 --> 00:04:28.480
+avant une communication professionnelle et surtout tout
+
+121
+00:04:28.480 --> 00:04:31.880
+omniprésente, pas forcément lui permettre de ritar guetter
+
+122
+00:04:31.880 --> 00:04:34.520
+en continue le client et de me faire connaître,
+
+123
+00:04:34.520 --> 00:04:36.400
+comme je vous l'ai montrer l'avant après de co,
+
+124
+00:04:36.460 --> 00:04:39.040
+croyez bien qu'on aé le pro forcément,
+
+125
+00:04:39.040 --> 00:04:41.720
+c'est beaucoup plus crédible en terme de marque que si vous
+
+126
+00:04:41.720 --> 00:04:44.600
+recevez des emails, des pavés de textes qui sont pas très
+
+127
+00:04:44.820 --> 00:04:46.840
+pas très lisible, pas très digeste à lire.
+
+128
+00:04:47.100 --> 00:04:48.320
+Et le quatrième point, forcément,
+
+129
+00:04:48.320 --> 00:04:51.080
+c'est l'augmentation de votre nombre de clients récurrents.
+
+130
+00:04:51.080 --> 00:04:53.360
+Donc votre ltv qui va prendre
+
+131
+00:04:54.420 --> 00:04:56.560
+qui va en prendre un coup dans le bon sens du temps.
+
+132
+00:04:56.590 --> 00:04:58.880
+Donc voilà moi, j'aimerais juste vous prendre un exemple
+
+133
+00:04:59.290 --> 00:05:01.320
+forcément, c'est apprendre avec des pincettes,
+
+134
+00:05:01.470 --> 00:05:04.080
+mais c'est juste pour vous montrer un exemple d'avant après
+
+135
+00:05:04.080 --> 00:05:06.480
+concret d'un client sur lequel, en fait,
+
+136
+00:05:06.480 --> 00:05:09.480
+les emails ont eu un retour sur investissement de malades.
+
+137
+00:05:09.480 --> 00:05:11.080
+Donc là, on est en décembre 2000 23,
+
+138
+00:05:11.080 --> 00:05:12.880
+on a un client qui fait 34 c par mois.
+
+139
+00:05:12.880 --> 00:05:14.080
+Il ne fait pas du tout d email, il faut,
+
+140
+00:05:14.080 --> 00:05:15.680
+il a juste deux ou trois email en place
+
+141
+00:05:16.140 --> 00:05:17.160
+sur les 30 zéro de ca.
+
+142
+00:05:17.160 --> 00:05:20.480
+Il fait cinq de son ch et email, donc 1700 euro.
+
+143
+00:05:20.590 --> 00:05:23.600
+Donc là, à ce moment là, il mis contact le mois d'après.
+
+144
+00:05:24.070 --> 00:05:26.960
+Donc, janvier 2000 24, on fait 87 zéros de ca,
+
+145
+00:05:27.040 --> 00:05:28.880
+dont 62 % avec les emails.
+
+146
+00:05:28.880 --> 00:05:31.520
+Donc 54 zéro qui proviennent juste des emails.
+
+147
+00:05:31.520 --> 00:05:33.880
+Et le mois d'après, on fait 110 zéro de ca,
+
+148
+00:05:33.880 --> 00:05:35.800
+dont 90 avec les emails,
+
+149
+00:05:36.310 --> 00:05:37.880
+100 100 zéro avec les emails sur le mois.
+
+150
+00:05:37.880 --> 00:05:39.560
+C'est juste, c'est juste, ou,
+
+151
+00:05:39.580 --> 00:05:42.000
+et c'est quelque chose qui ne nous a pas coûté très cher en
+
+152
+00:05:42.000 --> 00:05:44.240
+terme de heroï peu difficilement, faire mieux.
+
+153
+00:05:44.240 --> 00:05:45.240
+Comme je vous l'ai dit, encore une fois,
+
+154
+00:05:45.240 --> 00:05:46.800
+les emails en envoyé des emails,
+
+155
+00:05:46.800 --> 00:05:48.480
+ça coûte beaucoup moins cher que de target,
+
+156
+00:05:48.530 --> 00:05:50.680
+notre audience sur les réseaux sociaux.
+
+157
+00:05:50.680 --> 00:05:52.200
+Et en plus, les emails sont beaucoup plus calis puisque
+
+158
+00:05:52.200 --> 00:05:53.040
+c'est des personnes qui ont
+
+159
+00:05:53.040 --> 00:05:54.160
+laissé leur email sur votre site.
+
+160
+00:05:54.160 --> 00:05:55.880
+Donc, qui vous connaissent déjà, on n'est pas sur du cold,
+
+161
+00:05:56.220 --> 00:05:59.800
+on est vraiment sur sur des des prospect shows ou
+
+162
+00:06:00.750 --> 00:06:03.120
+dans des prospects ou des prospects très chauds,
+
+163
+00:06:03.120 --> 00:06:04.560
+voire des clients qui ont déjà acheté.
+
+164
+00:06:04.670 --> 00:06:05.840
+Donc voilà.
+
+165
+00:06:05.860 --> 00:06:06.800
+Et sur cette même période,
+
+166
+00:06:06.800 --> 00:06:07.920
+c'est ça que j'aimerais vous montrer.
+
+167
+00:06:07.920 --> 00:06:10.440
+Parce que quand je vous l'ai dit, la récurrence d'achat,
+
+168
+00:06:10.440 --> 00:06:12.200
+c'est quelque chose qu'on va pouvoir améliorer avec les
+
+169
+00:06:12.200 --> 00:06:13.600
+emails là sur cette période.
+
+170
+00:06:13.910 --> 00:06:17.320
+Donc on était donc de décembre à février,
+
+171
+00:06:17.830 --> 00:06:21.120
+j'ai pris du er décembre 2000 23 au 29 février 2000 24,
+
+172
+00:06:21.340 --> 00:06:24.080
+on a eu 2587 clients.
+
+173
+00:06:24.140 --> 00:06:26.600
+Ça, c'est les personnes qui ont passé au moins une commande.
+
+174
+00:06:26.750 --> 00:06:28.680
+Donc on a eu 2587 personnes.
+
+175
+00:06:28.860 --> 00:06:31.960
+On a eu exactement 1987 personnes qui ont passé une seule
+
+176
+00:06:31.960 --> 00:06:34.000
+commande, vraiment, juste une seule commande.
+
+177
+00:06:34.060 --> 00:06:35.800
+Et là après le reste, c'est vraiment de la récurrence.
+
+178
+00:06:35.800 --> 00:06:38.280
+Pendant de 418 personnes qui ont passé deux commandes.
+
+179
+00:06:38.580 --> 00:06:41.000
+On a 416 personnes qui ont passé trois commandes,
+
+180
+00:06:41.150 --> 00:06:43.000
+106 personnes qui ont passé quatre commandes,
+
+181
+00:06:43.000 --> 00:06:45.240
+12 personnes qui ont passé cinq commandes et trois personnes
+
+182
+00:06:45.240 --> 00:06:48.760
+qui ont passé au moins cinq command et tout ça sur une plage
+
+183
+00:06:48.780 --> 00:06:50.520
+de quelques mois, en fait.
+
+184
+00:06:50.900 --> 00:06:52.920
+Et ça, c'est just juste pour vous montrer que c'est réel,
+
+185
+00:06:52.970 --> 00:06:55.520
+cette récurrence d'achat, tous ces clients là,
+
+186
+00:06:55.980 --> 00:06:57.360
+on n'a même pas besoin de dépenser en as.
+
+187
+00:06:57.360 --> 00:06:59.200
+En fait, c'est juste, on leur envoie des emails et rach.
+
+188
+00:06:59.300 --> 00:07:01.520
+Et donc c'est là que les emails,
+
+189
+00:07:01.520 --> 00:07:03.640
+ça devient vraiment puissant parce qu'on va pouvoir vraiment
+
+190
+00:07:03.640 --> 00:07:07.400
+générer du revenu sur le long terme en envoyant des
+
+191
+00:07:07.400 --> 00:07:09.680
+newsletters, en mettant en place des séquences motivées.
+
+192
+00:07:09.680 --> 00:07:11.120
+Donc, ce qu'on verra plus tard dans l'information,
+
+193
+00:07:11.270 --> 00:07:12.800
+mais c'est vraiment ultra puissant.
+
+194
+00:07:12.800 --> 00:07:16.040
+Voilà forcément, comme je le dis, cess,
+
+195
+00:07:16.040 --> 00:07:17.480
+c'était juste pour vous montrer concrètement,
+
+196
+00:07:17.970 --> 00:07:19.400
+c'est quand même à prendre avec des pincettes.
+
+197
+00:07:19.400 --> 00:07:22.040
+Évidemment, les statistiques vont varier énormément en
+
+198
+00:07:22.160 --> 00:07:23.520
+fonction du type de produit que vous allez vendre,
+
+199
+00:07:23.520 --> 00:07:24.880
+est ce qu'on est sur des produits avec de la
+
+200
+00:07:24.880 --> 00:07:25.920
+récurrence d'achat ou pas.
+
+201
+00:07:26.340 --> 00:07:28.160
+Ça va aussi dépendre de la qualité de votre produit
+
+202
+00:07:28.330 --> 00:07:30.560
+forcément convaincre un client
+
+203
+00:07:30.560 --> 00:07:31.960
+satisfait de racheter sur votre boutique.
+
+204
+00:07:31.960 --> 00:07:34.520
+Ce sera beaucoup plus simple que de convaincre quelqu'un
+
+205
+00:07:34.520 --> 00:07:37.480
+qui, pas du tout satisfait et forcément l'expérience client.
+
+206
+00:07:38.730 --> 00:07:39.840
+Quand j'achète quelque part,
+
+207
+00:07:40.180 --> 00:07:42.440
+je reçois ma commande assez rapidement ses cali,
+
+208
+00:07:42.650 --> 00:07:44.160
+c'est propre, bonne expérience client,
+
+209
+00:07:44.300 --> 00:07:46.760
+vu généralement le client est open à
+
+210
+00:07:46.760 --> 00:07:48.120
+racheter potentiellement derrière.
+
+211
+00:07:48.270 --> 00:07:50.640
+Mais si l'expérience en livre en 30 jours
+
+212
+00:07:51.510 --> 00:07:53.400
+dans du papier bulle avec écrit China
+
+213
+00:07:53.910 --> 00:07:55.920
+avec hiéroglyphes en chinois, un peu de partout,
+
+214
+00:07:56.290 --> 00:07:58.680
+c'est moyen, c'est pas, c'est pas, c'est pas top.
+
+215
+00:07:58.950 --> 00:08:00.520
+Donc voilà votre objectif.
+
+216
+00:08:00.820 --> 00:08:03.720
+Si vous voulez généralement 20 dans cinq,
+
+217
+00:08:03.720 --> 00:08:06.080
+30 % de votre c avec les emails, ça être vraiment
+
+218
+00:08:06.860 --> 00:08:09.200
+de maximiser aussi la qualité de votre produit,
+
+219
+00:08:09.200 --> 00:08:13.160
+l'expérience client, parce que en fait l'argent,
+
+220
+00:08:13.160 --> 00:08:14.520
+encore une fois, il est vraiment dans la
+
+221
+00:08:14.720 --> 00:08:16.080
+relation un client satisfait.
+
+222
+00:08:16.080 --> 00:08:18.320
+Il ne faut pas oublier qu'il va parler de vous en bien
+
+223
+00:08:18.460 --> 00:08:19.520
+et il va vous recommander.
+
+224
+00:08:19.520 --> 00:08:21.120
+Et ça, c'est pareil dans n'importe quel business,
+
+225
+00:08:21.120 --> 00:08:22.120
+est ce que ce soit business physique,
+
+226
+00:08:22.320 --> 00:08:24.120
+business d'agence business de ce que voulez moi,
+
+227
+00:08:24.140 --> 00:08:25.560
+par exemple, un moment humble échelle.
+
+228
+00:08:25.560 --> 00:08:27.600
+J'ai bossé avec, peut être 300 410
+
+229
+00:08:27.600 --> 00:08:28.920
+commerçants jusqu'à il y a quelques mois.
+
+230
+00:08:28.920 --> 00:08:30.520
+Je n'avais strictement jamais fait le tube.
+
+231
+00:08:30.520 --> 00:08:32.080
+C'était vraiment que du bouchera bouche oreille.
+
+232
+00:08:32.080 --> 00:08:33.520
+C'est vraiment l'axe. C'est super puissant.
+
+233
+00:08:33.520 --> 00:08:35.040
+Bouche oreille parce que en fait,
+
+234
+00:08:35.060 --> 00:08:36.440
+un client est un client est un client.
+
+235
+00:08:36.780 --> 00:08:38.760
+La première chose et surtout forcément,
+
+236
+00:08:39.250 --> 00:08:42.920
+même si j'ai un client opère un client pour x, suis à là,
+
+237
+00:08:42.940 --> 00:08:44.720
+pas pour mon service, par exemple,
+
+238
+00:08:44.720 --> 00:08:45.760
+il d'arrêt de son site ou soir.
+
+239
+00:08:45.760 --> 00:08:47.560
+Il va revenir par la suite parce qu'il est satisfait.
+
+240
+00:08:47.560 --> 00:08:49.240
+Mon service, ça va être la même chose pour vous.
+
+241
+00:08:49.620 --> 00:08:50.920
+Si la personne achète,
+
+242
+00:08:50.920 --> 00:08:52.680
+elle est satisfaite de vous lancer un nouveau produit.
+
+243
+00:08:52.940 --> 00:08:54.040
+Il y a de force aux chances qu'elle puisse
+
+244
+00:08:54.040 --> 00:08:55.120
+être également intéresser.
+
+245
+00:08:55.300 --> 00:08:58.120
+Si on la continuité de ses besoins,
+
+246
+00:08:58.220 --> 00:08:59.840
+il n'y a pas de raison à partir du moment ou
+
+247
+00:08:59.840 --> 00:09:01.200
+l'expérience est bonne et le produit est bon.
+
+248
+00:09:01.220 --> 00:09:04.360
+Voilà vraiment avoir cette notion, ce mindset long terme.
+
+249
+00:09:04.360 --> 00:09:05.920
+Je vous l'invite à vraiment.
+
+250
+00:09:06.050 --> 00:09:08.600
+C'est quelque chose qui je sais qu'au début, des fois
+
+251
+00:09:09.140 --> 00:09:10.400
+on privilgie que cash,
+
+252
+00:09:11.180 --> 00:09:13.880
+le cash flow et et on néglige la qualité.
+
+253
+00:09:14.260 --> 00:09:15.480
+Je l'ai vu énormément de fois.
+
+254
+00:09:15.670 --> 00:09:17.880
+Mais croyez moi, si vous êtes là pour durer,
+
+255
+00:09:17.880 --> 00:09:19.240
+si vous êtes là pour faire du long terme,
+
+256
+00:09:19.240 --> 00:09:21.880
+si vous êtes là pour faire du caler et foi au processus.
+
+257
+00:09:21.900 --> 00:09:23.920
+Et voilà, soyez conscient que peut être au début,
+
+258
+00:09:23.920 --> 00:09:26.040
+ça sera moins rentable que si vous faites quelque chose de
+
+259
+00:09:26.220 --> 00:09:28.920
+un peu bordeur en drop, sans stock, etc.
+
+260
+00:09:29.270 --> 00:09:30.880
+Mais ce risque, ce que vous allez prendre,
+
+261
+00:09:30.900 --> 00:09:32.880
+il va vraiment vous rendre service plus tard et vous allez
+
+262
+00:09:32.880 --> 00:09:35.880
+en fait bénéficier du héros positif.
+
+263
+00:09:36.110 --> 00:09:39.760
+Bien après des clients qui aujourd'hui sont a depuis des
+
+264
+00:09:39.760 --> 00:09:41.880
+années demain, ils ne font pas de pu, ils font rien,
+
+265
+00:09:42.340 --> 00:09:44.960
+ça tombe, ça tombe, ça tombe parce que on a des clients
+
+266
+00:09:44.960 --> 00:09:47.640
+satisfa mini et des dizaines et des dizaines et des dizaines
+
+267
+00:09:47.640 --> 00:09:50.520
+de milliers de clients qui ont leurs produits donc,
+
+268
+00:09:50.820 --> 00:09:52.560
+et qui utilisent au quotidien le produit.
+
+269
+00:09:52.630 --> 00:09:55.680
+Donc forcément, ces clients là vont parler, vont l'utiliser,
+
+270
+00:09:55.680 --> 00:09:57.680
+vont le montrer sur les réseaux, etc, etc.
+
+271
+00:09:58.110 --> 00:10:01.600
+Donc, forcément, ça a un impact positif sur le long terme.
+
+272
+00:10:01.710 --> 00:10:03.960
+Vous allez devoir créer en compte clavio.
+
+273
+00:10:03.960 --> 00:10:07.040
+Donc là, je soit combat un ancien client.
+
+274
+00:10:07.730 --> 00:10:10.240
+C'est une marque, même plus pour vous dire,
+
+275
+00:10:10.510 --> 00:10:11.680
+mais c'est juste pour vous
+
+276
+00:10:11.680 --> 00:10:12.880
+expliquer un petit peu comment ça se passe.
+
+277
+00:10:12.880 --> 00:10:14.720
+Donc, rendez vous sur clavio point com.
+
+278
+00:10:14.790 --> 00:10:16.480
+Vous êtes cré votre compte là.
+
+279
+00:10:16.480 --> 00:10:19.000
+Vous devriez avoir cet espace là si tout se passe bien,
+
+280
+00:10:19.340 --> 00:10:20.360
+ce que vous allez pouvoir faire,
+
+281
+00:10:20.360 --> 00:10:22.880
+c'est aller dans les settings directement organisation.
+
+282
+00:10:22.880 --> 00:10:24.640
+Là, vous allez pouvoir toutes vos,
+
+283
+00:10:24.640 --> 00:10:27.240
+toutes vos informations là vous allez pouvoir obter
+
+284
+00:10:27.240 --> 00:10:28.360
+vos informations de paiement.
+
+285
+00:10:28.360 --> 00:10:30.760
+Donc tout ça, c'est parce qu'il y a de plus
+
+286
+00:10:31.740 --> 00:10:32.960
+fin, c'est du coup de paiement.
+
+287
+00:10:32.960 --> 00:10:34.600
+C'est important, mais vraiment,
+
+288
+00:10:34.900 --> 00:10:35.960
+la partie qui est importante,
+
+289
+00:10:36.310 --> 00:10:38.000
+vous aurez des ressources en bas de cette vidéo.
+
+290
+00:10:38.050 --> 00:10:40.080
+C'est vraiment d'aller vérifier le nom de domaine,
+
+291
+00:10:40.080 --> 00:10:41.160
+vérifier votre nom de domaine.
+
+292
+00:10:41.510 --> 00:10:43.480
+Donc, par exemple, moi j.
+
+293
+00:10:43.710 --> 00:10:46.560
+Médias, mon domaine, ça va être super important.
+
+294
+00:10:46.560 --> 00:10:48.400
+Donc là normal, vous mettez statique,
+
+295
+00:10:48.550 --> 00:10:50.600
+vous allez devoir rentrer des enregistrements
+
+296
+00:10:51.020 --> 00:10:52.720
+DNS sur votre boutique.
+
+297
+00:10:53.170 --> 00:10:54.640
+C'est pour vérifier le long domaine,
+
+298
+00:10:54.640 --> 00:10:56.360
+pour prouver que le long domaine vous appartient.
+
+299
+00:10:56.360 --> 00:10:58.360
+Et vous pouvez envoyer des emails du coup,
+
+300
+00:10:58.380 --> 00:10:59.280
+un point qui va être ultra
+
+301
+00:10:59.280 --> 00:11:00.320
+important aussi dans le secteur up.
+
+302
+00:11:00.320 --> 00:11:01.800
+Donc là, je me suis sur en notre compte parce que
+
+303
+00:11:01.800 --> 00:11:02.960
+l'autre était déjà connecté.
+
+304
+00:11:03.320 --> 00:11:05.920
+C'était évidemment d'avoir un
+
+305
+00:11:07.220 --> 00:11:09.080
+une intégration du coin à votre CMS.
+
+306
+00:11:09.080 --> 00:11:10.960
+Donc, que vous soyez sur Shopify,
+
+307
+00:11:10.960 --> 00:11:13.520
+voir press ou peu importe et devoir venir ici.
+
+308
+00:11:14.060 --> 00:11:18.240
+Hop. Connecter. Donc installer moi, je ne suis pas connecté.
+
+309
+00:11:18.900 --> 00:11:21.760
+Ok, là vous allez devoir entrer voiture et Shopify là,
+
+310
+00:11:21.760 --> 00:11:22.920
+vous allez créer une liste.
+
+311
+00:11:23.230 --> 00:11:25.680
+Donc là une liste email, c'est juste,
+
+312
+00:11:25.750 --> 00:11:27.200
+vous allez dans la liste et c'est vous créer,
+
+313
+00:11:27.340 --> 00:11:28.520
+je vous montrer ça dans un instant.
+
+314
+00:11:28.900 --> 00:11:30.600
+On va choisir, par exemple la prime liste.
+
+315
+00:11:30.620 --> 00:11:33.960
+Et en fait, on va automatiquement synchroniser les contacts
+
+316
+00:11:33.960 --> 00:11:36.720
+de Shopify vers clav qui veut dire qu'à chaque fois qu'on a
+
+317
+00:11:37.060 --> 00:11:38.400
+un email qui crée dans Shopify,
+
+318
+00:11:38.780 --> 00:11:41.440
+il va automatiquement remonter dans clavio ou dans cette
+
+319
+00:11:41.440 --> 00:11:43.560
+liste là, on a les datas qui synchronisent, ok?
+
+320
+00:11:43.560 --> 00:11:45.040
+Et en fait connect tout Shopify.
+
+321
+00:11:45.040 --> 00:11:47.120
+Et si vous ne voulez pas le créer, le mettre dans lavio
+
+322
+00:11:47.130 --> 00:11:51.800
+liste, vous pouvez créer une liste hop, par exemple,
+
+323
+00:11:52.740 --> 00:11:55.120
+New l, hop, hop.
+
+324
+00:11:55.180 --> 00:11:56.640
+Et du coup, on connectera cette liste.
+
+325
+00:11:56.640 --> 00:11:58.120
+Là est ce que je vous invite à faire aussi.
+
+326
+00:11:58.120 --> 00:12:00.080
+À chaque fois, vous cré une liste et d'aller dans settings
+
+327
+00:12:00.140 --> 00:12:02.600
+et d'aller dans et là vous mettez single,
+
+328
+00:12:03.420 --> 00:12:05.240
+ça veut dire en gros, le single op obtien.
+
+329
+00:12:05.240 --> 00:12:06.680
+Ça me permet, mais qu'à chaque fois qu'une personne
+
+330
+00:12:06.880 --> 00:12:08.720
+s'inscrit et rentre dans une liste
+
+331
+00:12:09.300 --> 00:12:11.600
+est automatiquement ajouté dans la liste et elle reçoit pas
+
+332
+00:12:12.180 --> 00:12:14.600
+un email pour confirmer que oui,
+
+333
+00:12:14.600 --> 00:12:16.200
+elle veut bien rentrer dans la.
+
+334
+00:12:16.700 --> 00:12:19.160
+Si vous ajoutez le double op, elle devra recevoir estimer,
+
+335
+00:12:19.210 --> 00:12:20.240
+l'accepter, etc.
+
+336
+00:12:20.350 --> 00:12:22.560
+Donc on perd pas mal de monde sur la route.
+
+337
+00:12:22.810 --> 00:12:25.080
+C'est pour ça que c'est mieux de mettre en single op pour
+
+338
+00:12:25.080 --> 00:12:27.360
+qu'elle reçoive directement pour qu'elle rende directement
+
+339
+00:12:27.360 --> 00:12:29.840
+dans la liste et callo voilà, reçoive les emails.
+
+340
+00:12:30.180 --> 00:12:33.640
+Si on a créé, on a créé une automatisation derrière toutes
+
+341
+00:12:33.640 --> 00:12:35.520
+les personnes qui rent dans cette liste reçoivent
+
+342
+00:12:36.300 --> 00:12:39.120
+ou créent la liste, mettre en single op in et
+
+343
+00:12:40.830 --> 00:12:43.200
+bien synchroniser les profits Shopify avec
+
+344
+00:12:43.900 --> 00:12:45.200
+les profs de Shopify ou autres.
+
+345
+00:12:45.740 --> 00:12:48.680
+Si vous êtes sur wordpres ou un autre CMS,
+
+346
+00:12:48.820 --> 00:12:50.440
+je vous met tout dans la description.
+
+347
+00:12:50.830 --> 00:12:53.400
+Mais voilà, c'est juste créer le compte clavio.
+
+348
+00:12:53.860 --> 00:12:57.240
+Mettez tous les paramètres dans le domaine
+
+349
+00:12:57.860 --> 00:12:59.200
+ou vous faites tous les ét up.
+
+350
+00:12:59.200 --> 00:13:01.520
+Et comme ça, quand on pourra utiliser clavio directement
+
+351
+00:13:01.520 --> 00:13:03.880
+dans les prochaines vidéos entrant dans le concret avec la
+
+352
+00:13:04.040 --> 00:13:06.040
+création du donc je vous dis a tout de suite dans la
+
+353
+00:13:06.040 --> 00:13:06.440
+prochaine vidéo.

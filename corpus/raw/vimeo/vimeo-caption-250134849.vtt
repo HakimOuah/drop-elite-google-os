@@ -1,0 +1,1573 @@
+WEBVTT
+
+1
+00:00:00.110 --> 00:00:01.550
+Du coup une nouvelle vidéo dans ces vis.
+
+2
+00:00:01.550 --> 00:00:03.670
+On va voir un petit peu comment segmenter et comment
+
+3
+00:00:03.900 --> 00:00:06.910
+optimiser ces performances pour du coup,
+
+4
+00:00:06.910 --> 00:00:10.310
+améliorer en permanence les au niveau des emails et aller
+
+5
+00:00:10.310 --> 00:00:11.950
+charger toujours plus de revenus.
+
+6
+00:00:11.950 --> 00:00:14.030
+Donc, ce qui est important de comprendre au niveau de la
+
+7
+00:00:14.030 --> 00:00:16.750
+segmentation, je pense qu'on a vu très rapidement un peu
+
+8
+00:00:16.750 --> 00:00:19.230
+plus tôt, c'est qu'on va chercher à optimiser
+
+9
+00:00:19.450 --> 00:00:20.590
+un maximum de k pays.
+
+10
+00:00:20.590 --> 00:00:22.910
+Donc tout ce qui va être taux d'ouverture, toute clic, etc.
+
+11
+00:00:23.300 --> 00:00:26.790
+Pour avoir un maximum de déliv et faire en sorte que nos
+
+12
+00:00:26.810 --> 00:00:29.550
+emails soient ouverts par un maximum de personnes et surtout
+
+13
+00:00:29.610 --> 00:00:31.630
+reçus en boîte de réception par le maximum de
+
+14
+00:00:31.630 --> 00:00:32.710
+personnes concernées dans notre base.
+
+15
+00:00:33.020 --> 00:00:34.390
+Donc, ce qui est important de comprendre,
+
+16
+00:00:34.390 --> 00:00:37.670
+c'est que notre base va être segmentée, la base email,
+
+17
+00:00:37.750 --> 00:00:39.790
+ça représente l'intégralité des emails
+
+18
+00:00:39.790 --> 00:00:40.830
+qu'on a dans notre date.
+
+19
+00:00:40.870 --> 00:00:42.550
+A be, on a 100 mini mail,
+
+20
+00:00:42.650 --> 00:00:44.230
+on a 100 mini email dans notre base mail.
+
+21
+00:00:44.570 --> 00:00:46.910
+Et forcément dans cette base mail,
+
+22
+00:00:46.910 --> 00:00:47.910
+on a des emails qui dorment.
+
+23
+00:00:47.910 --> 00:00:49.070
+On a des emails qui ne sont pas actifs.
+
+24
+00:00:49.070 --> 00:00:51.630
+On a des emails qui bount c'est à dire qui ont peut être des
+
+25
+00:00:51.630 --> 00:00:53.870
+erreurs dans l'E email et du coup qui ne sont pas délivrés.
+
+26
+00:00:53.870 --> 00:00:55.030
+Et du coup, ça va être important,
+
+27
+00:00:55.210 --> 00:00:57.830
+les segmenter et d'excuse ces emails là en l'occurrence,
+
+28
+00:00:57.860 --> 00:01:00.070
+pour garder uniquement les personnes engagées.
+
+29
+00:01:00.070 --> 00:01:02.350
+Donc les personnes actifs qui ouvrent nos emails,
+
+30
+00:01:02.410 --> 00:01:03.750
+qui visent nos emails, etc.
+
+31
+00:01:04.210 --> 00:01:06.910
+Et en fait envoyer les emails uniquement à ces personnes là
+
+32
+00:01:06.910 --> 00:01:09.990
+plutôt de l'envoyer à toute la base et forcément notre taux
+
+33
+00:01:09.990 --> 00:01:13.390
+de déité, le taux d'ouverture de manière générale, être bien
+
+34
+00:01:14.110 --> 00:01:16.310
+meilleur et forcément notre dé également.
+
+35
+00:01:16.570 --> 00:01:17.630
+Ça, ça va être quelque chose qui
+
+36
+00:01:17.630 --> 00:01:18.670
+est super important de faire.
+
+37
+00:01:18.680 --> 00:01:20.550
+Comme je vous l'ai dit, sur votre email,
+
+38
+00:01:20.550 --> 00:01:22.110
+vous pouvez avoir par exemple, là en l'occurrence,
+
+39
+00:01:22.260 --> 00:01:23.550
+j'ai 46 000 personnes.
+
+40
+00:01:23.660 --> 00:01:26.510
+Donc ça, c'est le nombre de totales personnes que j'ai dans
+
+41
+00:01:26.510 --> 00:01:28.390
+ma disma sur ces 46 zéro personnes.
+
+42
+00:01:28.390 --> 00:01:30.390
+J'ai déjà 6600 personnes qui sont supprimées
+
+43
+00:01:30.390 --> 00:01:31.550
+pour x ou raison.
+
+44
+00:01:31.930 --> 00:01:33.990
+Ça peut être la personne, c'est désabonné.
+
+45
+00:01:34.250 --> 00:01:35.830
+La personne a été supprimée manuellement.
+
+46
+00:01:36.020 --> 00:01:37.270
+Donc voilà une des raisons.
+
+47
+00:01:37.270 --> 00:01:41.230
+Et du coup là, j'ai 39 770 personnes que gladio considère
+
+48
+00:01:41.240 --> 00:01:42.870
+actif parce qu'elles sont pas supprimées.
+
+49
+00:01:42.870 --> 00:01:44.350
+Mais dans ces 39 zéro personnes,
+
+50
+00:01:44.350 --> 00:01:46.390
+on va venir segmenter ces personnes là,
+
+51
+00:01:46.390 --> 00:01:49.470
+garder uniquement les personnes qui ont ouvert au moins un
+
+52
+00:01:49.470 --> 00:01:52.030
+email lors des 45 derniers jours qui ont déjà été actives
+
+53
+00:01:52.030 --> 00:01:54.310
+sur le site lors des 30 derniers jours qui n'ont pas passé
+
+54
+00:01:54.310 --> 00:01:56.990
+commandes récemment parce veut exclure les personnes qui
+
+55
+00:01:57.070 --> 00:01:59.270
+viennent de passer commandes dans les listes d'envoi.
+
+56
+00:01:59.270 --> 00:02:03.550
+On m'a exclu également les personnes qui on bounce et on va
+
+57
+00:02:03.550 --> 00:02:06.110
+garder les personnes qui peuvent recevoir des voir qu'on se
+
+58
+00:02:06.230 --> 00:02:07.270
+retrouve avec 13 zéro personnes.
+
+59
+00:02:07.420 --> 00:02:09.190
+Donc, en fait de 46 zéro personnes,
+
+60
+00:02:09.190 --> 00:02:10.310
+on se retrouve avec 13 zéro personnes.
+
+61
+00:02:10.330 --> 00:02:11.350
+Et c'est une bonne chose.
+
+62
+00:02:11.370 --> 00:02:13.510
+Est ce que là c'est vraiment 13 zéro personnes qualifiées
+
+63
+00:02:13.510 --> 00:02:15.990
+qu'on envoie des emails, des taux d'ouverture sont bons et
+
+64
+00:02:15.990 --> 00:02:18.470
+voyez qu'on génère beaucoup beaucoup de ventes avec avec ces
+
+65
+00:02:18.470 --> 00:02:21.230
+emails là, je ne sais pas si ces exemples plus que ça,
+
+66
+00:02:21.230 --> 00:02:23.630
+c'est des exemples de campagne qui ont qu'on a
+
+67
+00:02:23.630 --> 00:02:24.830
+envoyé et qui ont général des ventes.
+
+68
+00:02:25.330 --> 00:02:27.910
+Je sais pas si c'est avec ce segment là.
+
+69
+00:02:27.910 --> 00:02:31.030
+Je ne pense pas puisque là du qu à 63 % de taux de version
+
+70
+00:02:31.030 --> 00:02:33.150
+sans revenus, personnes doit sûrement en avoir plus que ça.
+
+71
+00:02:33.300 --> 00:02:36.150
+Mais bref, l'idée, c'est de vous montrer que enseignant
+
+72
+00:02:36.640 --> 00:02:38.350
+votre list e email, vous allez envoyer des
+
+73
+00:02:38.350 --> 00:02:39.630
+emails avec des bonnes statistiques.
+
+74
+00:02:39.630 --> 00:02:42.270
+Donc envoie des taux d'ouverture relativement élevés de 50.
+
+75
+00:02:42.880 --> 00:02:44.750
+C'est très, très bon. Pareil pour les taux de clic
+
+76
+00:02:44.750 --> 00:02:46.670
+relativement élevé et forcément derrière,
+
+77
+00:02:46.670 --> 00:02:48.590
+on génère un maximum devant que ça,
+
+78
+00:02:48.590 --> 00:02:50.590
+c'est vraiment essentiel.
+
+79
+00:02:50.880 --> 00:02:55.150
+C'est primordial de segmenter sa base email pour garder
+
+80
+00:02:55.150 --> 00:02:57.230
+uniquement les emails les plus actifs.
+
+81
+00:02:57.230 --> 00:02:59.480
+Ce qu'il faut comprendre, c'est quand vous envoyez un email
+
+82
+00:02:59.660 --> 00:03:02.440
+et c'est vraiment un tunnel, un tunnel de bacha et l'idée,
+
+83
+00:03:02.440 --> 00:03:04.640
+ça va être de faire passer chaque personne du
+
+84
+00:03:04.640 --> 00:03:06.200
+tunnel à l'étape supérieure.
+
+85
+00:03:06.470 --> 00:03:08.560
+Donc le tunnel, c'est dans un premier temps,
+
+86
+00:03:08.560 --> 00:03:10.000
+ce qu'on cherche à faire, c'est maximiser
+
+87
+00:03:10.000 --> 00:03:11.040
+la délivrable du message.
+
+88
+00:03:11.110 --> 00:03:14.160
+Donc, faire en sorte que le maximum de personnes reçoivent
+
+89
+00:03:14.160 --> 00:03:16.600
+notre email en boîte principale et pas en boîte de promotion
+
+90
+00:03:16.860 --> 00:03:20.200
+par que ça forcément à travers une bonne segmentation,
+
+91
+00:03:20.200 --> 00:03:23.280
+il pour regarder les personnes actifs qui ouvre nos email
+
+92
+00:03:23.300 --> 00:03:25.880
+qui etc, et que ça, ça va être le plus important.
+
+93
+00:03:25.990 --> 00:03:28.200
+Ensuite, le deuxième truc le plus important,
+
+94
+00:03:28.200 --> 00:03:29.640
+ça va être de maximiser les personnes
+
+95
+00:03:29.660 --> 00:03:30.720
+au niveau du taux d'ouverture.
+
+96
+00:03:30.910 --> 00:03:32.960
+Donc ça, ça va se faire au niveau de l'objet.
+
+97
+00:03:32.960 --> 00:03:35.440
+Donc, ce qu'on va pouvoir faire, c'est ab test, l'objet,
+
+98
+00:03:35.460 --> 00:03:37.080
+ce qu'on verra aussi dans un instant.
+
+99
+00:03:37.080 --> 00:03:39.880
+Puis on a un objet qui génère de clics qui génère
+
+100
+00:03:39.950 --> 00:03:42.280
+d'ouverture et plus on va pouvoir délivrer
+
+101
+00:03:42.280 --> 00:03:43.360
+notre message un peu plus grand.
+
+102
+00:03:43.360 --> 00:03:45.720
+Ensuite, forcément, on va vouloir maximiser les taux de
+
+103
+00:03:45.720 --> 00:03:46.920
+clics dans l'email.
+
+104
+00:03:46.950 --> 00:03:49.280
+Donc forcément à travers les différences été,
+
+105
+00:03:49.590 --> 00:03:51.400
+mais également la structure de l'email,
+
+106
+00:03:51.400 --> 00:03:54.040
+on va optimiser l'email de telle manière à ce qu'un maximum
+
+107
+00:03:54.340 --> 00:03:55.440
+de personnes clique dessus.
+
+108
+00:03:55.490 --> 00:03:57.280
+C'est également ce qu'on va voir dans un instant.
+
+109
+00:03:57.310 --> 00:03:59.440
+Dans la prochaine vidéo, il me semble, et en fait,
+
+110
+00:03:59.570 --> 00:04:01.920
+c'est quelque chose qui va nous permettre de maximiser du
+
+111
+00:04:01.920 --> 00:04:04.880
+coup les clics sur les mains et forcément plus on a clic et
+
+112
+00:04:04.880 --> 00:04:06.320
+plus on a personne qui a ré site et plus
+
+113
+00:04:06.580 --> 00:04:07.640
+on est censé faire de l'autre.
+
+114
+00:04:07.640 --> 00:04:10.520
+Donc l'idée, c'est vraiment d'optimiser ce tu là déliv
+
+115
+00:04:11.280 --> 00:04:12.480
+taux d'ouverture, taux de clic,
+
+116
+00:04:12.590 --> 00:04:15.120
+maximiser les donc c'est vraiment de bon sens là.
+
+117
+00:04:15.140 --> 00:04:17.360
+Et c'est super important en cherchant à augmenter
+
+118
+00:04:17.380 --> 00:04:18.600
+du coup, c'est différents cas pays.
+
+119
+00:04:18.700 --> 00:04:20.640
+On va forcément, comme je l'ai dit,
+
+120
+00:04:20.640 --> 00:04:22.680
+affecter la délivrable globale.
+
+121
+00:04:22.680 --> 00:04:24.440
+Donc la déliv, c'est tout simplement un
+
+122
+00:04:24.440 --> 00:04:25.520
+score qui vous est attribué.
+
+123
+00:04:25.780 --> 00:04:27.720
+Si votre score est bon, ça veut dire que quand vous envoyez
+
+124
+00:04:27.720 --> 00:04:29.720
+des emails et tombe en principal, si votre score est,
+
+125
+00:04:29.900 --> 00:04:31.000
+si vous envoyez des emails,
+
+126
+00:04:31.000 --> 00:04:32.560
+il tombe tombent pas en promotion.
+
+127
+00:04:32.560 --> 00:04:34.000
+Donc, forcément le but, c'est d'avoir
+
+128
+00:04:34.970 --> 00:04:36.880
+score qui est le plus proche de sang possible.
+
+129
+00:04:36.900 --> 00:04:39.560
+Et pour ce faire, vous devez respecter certaines métriques
+
+130
+00:04:39.780 --> 00:04:40.840
+au niveau du taux d'ouverture,
+
+131
+00:04:41.100 --> 00:04:42.840
+au moins 33 %, puis on a à 60.
+
+132
+00:04:42.990 --> 00:04:44.600
+Donc c'est top plus crate.
+
+133
+00:04:44.660 --> 00:04:47.560
+On va être au dessus de un prend 20 bande straight,
+
+134
+00:04:47.580 --> 00:04:49.600
+on va être moins un, elle sub.
+
+135
+00:04:50.060 --> 00:04:52.280
+On doit être à moins de 3 %.
+
+136
+00:04:52.280 --> 00:04:55.840
+Et ce spam complaint rate, on doit être à moins de un.
+
+137
+00:04:56.310 --> 00:05:00.400
+Donc voilà les métriques optimisées pour aller chercher une
+
+138
+00:05:00.400 --> 00:05:02.760
+meilleure œuvre habitée et forcément ce que vous avez une
+
+139
+00:05:02.760 --> 00:05:04.520
+bonne livre habitée, vous allez pouvoir continuer à envoyer
+
+140
+00:05:04.520 --> 00:05:07.040
+des emails, générer des ventes et ce sur le long terme.
+
+141
+00:05:07.140 --> 00:05:08.160
+Encore une fois, à l'argent,
+
+142
+00:05:08.160 --> 00:05:09.800
+il est dans la relation, il est sur le long terme.
+
+143
+00:05:10.190 --> 00:05:13.480
+Donc c'est important de vouloir chercher à faire un maximum
+
+144
+00:05:13.480 --> 00:05:15.080
+d'argent, mais le plus longtemps possible,
+
+145
+00:05:15.080 --> 00:05:17.800
+plutôt que de chercher à faire le plus d'argent possible en
+
+146
+00:05:17.800 --> 00:05:20.040
+un minimum de temps et auquel cas vous pouvez tout
+
+147
+00:05:20.040 --> 00:05:21.680
+simplement forr votre réputation,
+
+148
+00:05:21.730 --> 00:05:23.560
+votre nom de domaine et faire lexier,
+
+149
+00:05:23.590 --> 00:05:26.400
+voir des problèmes de de déliv qui peuvent vraiment vous
+
+150
+00:05:26.400 --> 00:05:28.880
+handicaper pendant pendant très longtemps.
+
+151
+00:05:28.900 --> 00:05:31.680
+Et aussi le deuxième facteur qui va faire que payer,
+
+152
+00:05:32.590 --> 00:05:34.680
+segmenter votre audience va vous vous
+
+153
+00:05:34.680 --> 00:05:37.480
+permettre de gagner de l'argent.
+
+154
+00:05:37.730 --> 00:05:40.560
+C'est tout simplement en réduisant les coûts d'outils,
+
+155
+00:05:40.830 --> 00:05:43.600
+leur l'occurrence s clavio class cas d'un client qui payait
+
+156
+00:05:43.620 --> 00:05:45.200
+un zéro par mois, son abonnement clavo,
+
+157
+00:05:45.200 --> 00:05:47.160
+mais qui n'avait pas de segmentation là en segment
+
+158
+00:05:47.160 --> 00:05:49.480
+l'audience déjà, comme je l'ai dit,
+
+159
+00:05:49.790 --> 00:05:51.280
+pour améliorer tout ce qui va être tout
+
+160
+00:05:51.280 --> 00:05:53.160
+d'ouverture, toute clic, etc.
+
+161
+00:05:53.190 --> 00:05:54.960
+Donc notre délivrable de manière générale.
+
+162
+00:05:54.960 --> 00:05:56.080
+Donc ça, c'est le premier point en capital.
+
+163
+00:05:56.460 --> 00:05:58.320
+Et le deuxième point, c'est que forcément avec 30 zéro
+
+164
+00:05:58.320 --> 00:06:00.480
+personnes qu'on va pouvoir réduire l'abonnement et on
+
+165
+00:06:00.480 --> 00:06:01.640
+passe à 550.
+
+166
+00:06:01.870 --> 00:06:05.040
+Donc la personne paye moitié moins cher son plan clavio
+
+167
+00:06:05.040 --> 00:06:06.080
+ce qui n'est pas négligeable.
+
+168
+00:06:06.080 --> 00:06:07.480
+Et sur une année,
+
+169
+00:06:07.480 --> 00:06:10.240
+vous imaginez bien que ça fait des économies monstrueuses.
+
+170
+00:06:10.550 --> 00:06:12.600
+Donc voilà, ça nous permet aussi de faire des économies.
+
+171
+00:06:12.600 --> 00:06:15.200
+Donc c'est vraiment tout dans votre intérêt de segmenter
+
+172
+00:06:15.280 --> 00:06:17.640
+votre audience pour capitaliser dessus tout simplement.
+
+173
+00:06:17.640 --> 00:06:20.240
+Donc, je montrais rapidement un peu comment au segment sur
+
+174
+00:06:20.240 --> 00:06:23.360
+clavio, je vais vous montrer aussi quand toute cette vidéo
+
+175
+00:06:23.510 --> 00:06:25.960
+dans les ressources, les différents segments que vous allez
+
+176
+00:06:25.960 --> 00:06:27.800
+pouvoir créer mais évoque.
+
+177
+00:06:27.810 --> 00:06:29.360
+C'est très, très, très, très simple.
+
+178
+00:06:29.430 --> 00:06:33.920
+Donc hop et vous d'aller dans list des segments hop.
+
+179
+00:06:34.970 --> 00:06:36.470
+Là, je cré enseignements.
+
+180
+00:06:36.970 --> 00:06:39.470
+Par exemple, je peux, si je veux faire un seulement,
+
+181
+00:06:39.470 --> 00:06:43.030
+par exemple, des personnes engagées, typiquement la personne
+
+182
+00:06:44.030 --> 00:06:48.950
+a ouvert au moins et email à l pour des 60 derniers jours.
+
+183
+00:06:49.050 --> 00:06:53.870
+Là, j'ai ajouté une condition et je me ou site,
+
+184
+00:06:56.250 --> 00:07:01.040
+par exemple l'âge, mais, et là je vais cure.
+
+185
+00:07:01.040 --> 00:07:02.760
+Les personnes qui viennent d'acheter sur le site,
+
+186
+00:07:03.420 --> 00:07:06.800
+ce que j'ai point de leur envoyer des place
+
+187
+00:07:07.530 --> 00:07:09.200
+zéro Times de last stand days.
+
+188
+00:07:09.740 --> 00:07:14.320
+Ok. Et voilà,
+
+189
+00:07:14.460 --> 00:07:16.680
+je veux que la personne ne puisse recevoir dès le même
+
+190
+00:07:16.680 --> 00:07:21.580
+marketing et mais pas aussi moi le donne
+
+191
+00:07:22.460 --> 00:07:26.490
+qui email sky zéro Times
+
+192
+00:07:27.550 --> 00:07:28.480
+over, overall Times,
+
+193
+00:07:33.440 --> 00:07:36.280
+spa et Times
+
+194
+00:07:37.570 --> 00:07:42.120
+over overall Times et par exemple,
+
+195
+00:07:42.230 --> 00:07:45.800
+what la donne dans in email,
+
+196
+00:07:47.480 --> 00:07:50.970
+zéro Times Times que même
+
+197
+00:07:51.110 --> 00:07:55.700
+bou ce type?
+
+198
+00:07:58.230 --> 00:07:59.850
+Voilà ça, vraiment les personnes.
+
+199
+00:08:00.590 --> 00:08:04.650
+Oui, erreur dans l'email qui
+
+200
+00:08:04.650 --> 00:08:05.690
+reçoit vraiment pas les emails.
+
+201
+00:08:06.520 --> 00:08:08.490
+Donc là, par exemple, j'ai fait engagé,
+
+202
+00:08:14.340 --> 00:08:15.560
+jai fait un truco feeling, mais voilà,
+
+203
+00:08:15.560 --> 00:08:16.880
+je peux faire vraiment tout un tas de
+
+204
+00:08:16.880 --> 00:08:17.960
+segments basés sur des actions.
+
+205
+00:08:17.960 --> 00:08:19.600
+C'est la personnes achetée, acheté, etc.
+
+206
+00:08:19.710 --> 00:08:20.760
+Pour faire vraiment ce que je veux.
+
+207
+00:08:21.110 --> 00:08:24.360
+Mais dans la dans le fichier, sur cette vidéo,
+
+208
+00:08:24.360 --> 00:08:27.640
+je vous mettrais des exemples relativement basiques et
+
+209
+00:08:27.640 --> 00:08:29.120
+essentiels dont vous aurez besoin.
+
+210
+00:08:29.870 --> 00:08:31.320
+Mais voilà ce qui est important.
+
+211
+00:08:31.320 --> 00:08:34.560
+Encore une fois, c'est de segment ses emails pour garder la
+
+212
+00:08:34.560 --> 00:08:37.240
+crème de la crème et faire en sorte d'avoir des bonnes
+
+213
+00:08:37.270 --> 00:08:39.120
+performance, vraiment ce que vous devez retenir
+
+214
+00:08:39.120 --> 00:08:40.200
+de la segmentation.
+
+215
+00:08:40.310 --> 00:08:44.200
+Donc ça, c'est le premier point et le deuxième point,
+
+216
+00:08:44.300 --> 00:08:46.280
+ça va être l'optimisation.
+
+217
+00:08:46.390 --> 00:08:47.680
+Donc, l'optimisation,
+
+218
+00:08:47.820 --> 00:08:50.480
+il y a plusieurs moyens d'optimiser ces performances.
+
+219
+00:08:50.480 --> 00:08:52.000
+Donc, premièrement, au niveau défaut,
+
+220
+00:08:52.450 --> 00:08:53.880
+comme je vous l'ai dit, on en avait
+
+221
+00:08:53.880 --> 00:08:54.960
+parlé, on peut faire des conditions.
+
+222
+00:08:55.180 --> 00:08:58.440
+La pi, en fait, vous faire des qu'on appelle fait
+
+223
+00:08:59.260 --> 00:09:01.160
+un random random sapa.
+
+224
+00:09:01.160 --> 00:09:04.560
+Donc en fait la aller à formant que la bio va envoyer 50
+
+225
+00:09:05.180 --> 00:09:08.240
+des personnes dans le wi et 50 dans le nom.
+
+226
+00:09:08.340 --> 00:09:11.760
+Et là vous allez pouvoir forcément changer l'objet, changer
+
+227
+00:09:12.380 --> 00:09:13.800
+le contenu, une email, par exemple,
+
+228
+00:09:13.980 --> 00:09:16.320
+je crois qu'on avait deux emails différents et on va pouvoir
+
+229
+00:09:16.320 --> 00:09:19.840
+comparer que n pas en estimé la taux d'ouverture, lui,
+
+230
+00:09:19.840 --> 00:09:21.600
+il est un petit peu supérieur taux de clic.
+
+231
+00:09:21.600 --> 00:09:22.680
+On voit qu'il est un peu plus.
+
+232
+00:09:22.860 --> 00:09:24.240
+Il y est un peu plus important et
+
+233
+00:09:24.240 --> 00:09:25.800
+globalement voit il y en a un.
+
+234
+00:09:25.820 --> 00:09:28.320
+Il y a deux ab 6 % de taux de conversion. Voilà.
+
+235
+00:09:28.340 --> 00:09:29.800
+Et celui ci génère un peu plus de vente.
+
+236
+00:09:29.800 --> 00:09:32.560
+Donc ce n'est pas, c'est pas énorme et flagrant, mais
+
+237
+00:09:33.580 --> 00:09:36.000
+ce fut là, cette email là reste plus intéressant.
+
+238
+00:09:36.000 --> 00:09:37.600
+Donc on va peut être garder cette email.
+
+239
+00:09:37.630 --> 00:09:40.760
+Donc ça, c'est un truc qu'on peut faire, tout simplement.
+
+240
+00:09:40.780 --> 00:09:42.200
+Il suffit d'aller dans la bio.
+
+241
+00:09:43.460 --> 00:09:45.400
+Je vous montre rapidement comment on fait à chaque fois
+
+242
+00:09:45.400 --> 00:09:46.400
+comme ça fera plus simple.
+
+243
+00:09:46.750 --> 00:09:49.560
+Donc je pan abandonné tac.
+
+244
+00:09:49.620 --> 00:09:51.880
+Je suis dedans une au panier abandonné ou autre.
+
+245
+00:09:52.340 --> 00:09:54.040
+Je met mon tac.
+
+246
+00:09:55.500 --> 00:09:57.160
+Et là je mette random simple,
+
+247
+00:09:57.420 --> 00:09:59.960
+mon class que choisir le pour centage des personnes là,
+
+248
+00:09:59.960 --> 00:10:00.960
+je met 50 %.
+
+249
+00:10:01.460 --> 00:10:03.800
+Oui, 50 non tac
+
+250
+00:10:06.070 --> 00:10:07.070
+Hop.
+
+251
+00:10:07.410 --> 00:10:09.580
+Donc là, j'ai mon premier Noël là,
+
+252
+00:10:09.600 --> 00:10:13.800
+je pour faire mon deuxième email et là après,
+
+253
+00:10:13.800 --> 00:10:17.680
+je peux les rattacher comme ça rattaché au bon endroit.
+
+254
+00:10:33.810 --> 00:10:37.640
+Bon, du coup tout simple chez mon random.
+
+255
+00:10:38.460 --> 00:10:39.520
+Et là du coup,
+
+256
+00:10:39.520 --> 00:10:42.520
+je peux avoir deux emails différents du coup forcément.
+
+257
+00:10:42.520 --> 00:10:43.880
+Donc il va falloir y personnaliser.
+
+258
+00:10:44.140 --> 00:10:46.400
+Et après je laisse tourner pendant quelques jours, moi,
+
+259
+00:10:46.400 --> 00:10:48.520
+je vous conseille toujours d'avoir même une centaine de 100
+
+260
+00:10:48.520 --> 00:10:50.080
+personnes qui rentrent dans le flot pour
+
+261
+00:10:50.600 --> 00:10:52.640
+vraiment juger de la pertinence du flot.
+
+262
+00:10:52.660 --> 00:10:56.680
+Si vraiment idée valider ou pas nous voilà premier type d'
+
+263
+00:10:57.060 --> 00:10:59.560
+que vous pouvez faire qui fonctionne bien et qui vous permet
+
+264
+00:10:59.870 --> 00:11:01.600
+d'optimiser le revenu au niveau des.
+
+265
+00:11:01.710 --> 00:11:05.920
+Donc là, on va avoir un ab testing qui cré tout là.
+
+266
+00:11:06.410 --> 00:11:07.920
+C'est typiquement au niveau d'ema.
+
+267
+00:11:07.920 --> 00:11:10.800
+Donc là, on voit qu'on a deux emails différents.
+
+268
+00:11:11.030 --> 00:11:12.520
+Donc c'est pareil au niveau des flots.
+
+269
+00:11:12.520 --> 00:11:15.040
+Donc ab testing au niveau de l'objet, très certainement.
+
+270
+00:11:15.180 --> 00:11:17.520
+Et vous voyez que du coup on a une version a et un taux
+
+271
+00:11:17.520 --> 00:11:19.160
+d'ouverture à 40 une version b avec
+
+272
+00:11:19.160 --> 00:11:20.240
+un taux d'ouverture à 55.
+
+273
+00:11:20.500 --> 00:11:21.720
+La version b également,
+
+274
+00:11:21.720 --> 00:11:22.640
+qui a beaucoup plus de c click
+
+275
+00:11:22.700 --> 00:11:23.920
+et du coup beaucoup plus de vent.
+
+276
+00:11:23.920 --> 00:11:26.720
+Et du coup que l'avi a manuellement choisi ce type d'ma.
+
+277
+00:11:26.850 --> 00:11:28.760
+C'est cette version là qu'on va garder ou qu'on va pouvoir
+
+278
+00:11:29.360 --> 00:11:32.800
+remettre en ab testing pour pour donc là normalement saisi
+
+279
+00:11:33.160 --> 00:11:35.880
+b, ce que c'est même pas d' vient ce screenshot,
+
+280
+00:11:35.970 --> 00:11:37.160
+c'est ici directement.
+
+281
+00:11:37.260 --> 00:11:38.880
+Je vais pouvoir mettre un abbé
+
+282
+00:11:39.760 --> 00:11:42.670
+qui est là.
+
+283
+00:11:42.810 --> 00:11:45.350
+Je suis ici, je pouvoir créer un ab testing
+
+284
+00:11:46.540 --> 00:11:48.070
+tout simplement à ce que voilà.
+
+285
+00:11:48.340 --> 00:11:49.510
+Donc ab test.
+
+286
+00:11:49.980 --> 00:11:51.470
+Donc là, c'est vraiment la b testing
+
+287
+00:11:51.650 --> 00:11:53.320
+direct au niveau des flots.
+
+288
+00:11:53.320 --> 00:11:55.040
+Encore une fois. Donc voilà,
+
+289
+00:11:55.140 --> 00:11:58.120
+je vais choisir une version a une version b version b,
+
+290
+00:11:58.190 --> 00:11:59.520
+voir modifier certaines choses.
+
+291
+00:11:59.590 --> 00:12:01.200
+Donc là, je peux modifier l'objet,
+
+292
+00:12:01.200 --> 00:12:02.560
+mais je peux modifier d'autres éléments.
+
+293
+00:12:02.900 --> 00:12:04.240
+Je peux modifier compte tenu email.
+
+294
+00:12:04.260 --> 00:12:05.520
+Encore une fois, moi, je vous invite,
+
+295
+00:12:05.520 --> 00:12:07.120
+quand vous avez testé à modifier une chose,
+
+296
+00:12:07.780 --> 00:12:12.200
+une par une pour éviter de tester plusieurs choses en même
+
+297
+00:12:12.200 --> 00:12:15.040
+temps et pas de savoir d'ou vient réellement d'ou vient
+
+298
+00:12:15.040 --> 00:12:16.120
+réellement les performances.
+
+299
+00:12:16.750 --> 00:12:18.600
+Donc là, je vais pouvoir changer, par exemple,
+
+300
+00:12:18.620 --> 00:12:19.760
+mon objet tac tac.
+
+301
+00:12:19.980 --> 00:12:23.960
+Ok, et là après, je met publish des tests et là je n'en ai
+
+302
+00:12:25.000 --> 00:12:27.860
+en voilà là, je peux directement voir à b test.
+
+303
+00:12:28.680 --> 00:12:30.740
+Et ici, moi, je suis sens forcément,
+
+304
+00:12:30.760 --> 00:12:33.380
+il y a strictement rien puisque j depuis ça aussi,
+
+305
+00:12:33.380 --> 00:12:35.820
+c'est un truc qui vous permet d' tester et normal que la
+
+306
+00:12:35.890 --> 00:12:39.300
+peut automatiquement manuellement choisir la b winner.
+
+307
+00:12:39.300 --> 00:12:40.300
+Donc ça, ça peut le coup.
+
+308
+00:12:40.410 --> 00:12:42.220
+Donc voilà encore au niveau des flots.
+
+309
+00:12:42.370 --> 00:12:44.980
+Ensuite, on va avoir la b testing au niveau
+
+310
+00:12:45.720 --> 00:12:47.540
+au niveau de l'objet, au niveau des campagnes.
+
+311
+00:12:47.850 --> 00:12:50.020
+Donc ça, c'est un truc qui fonctionne super.
+
+312
+00:12:50.020 --> 00:12:51.460
+Bien là, je vous avais mis un exemple,
+
+313
+00:12:51.600 --> 00:12:53.900
+une mar pendant la fête des mers ou on avait envoyé un email
+
+314
+00:12:54.000 --> 00:12:56.100
+à une portion de la l email.
+
+315
+00:12:56.250 --> 00:12:58.780
+Typiquement, on va l'envoyer à cinq ou 10 de la liste.
+
+316
+00:12:58.920 --> 00:13:02.100
+On a testing sur quelques heures et en fonction
+
+317
+00:13:02.680 --> 00:13:04.220
+de l'objet qui a la meilleure perte,
+
+318
+00:13:04.400 --> 00:13:08.100
+on m'a envoyé le reste de l'email au caisse de la liste avec
+
+319
+00:13:08.570 --> 00:13:11.020
+l'objet qui aura eu le meilleur taux d'ouverture pendant la.
+
+320
+00:13:11.170 --> 00:13:12.660
+Donc là en l'occurrence, c'est ce qu'on avait fait.
+
+321
+00:13:12.920 --> 00:13:15.620
+Un objet. J'étais maman, un objet, un objet,
+
+322
+00:13:15.620 --> 00:13:17.300
+offrir un cadre spécial qui a été envoyé
+
+323
+00:13:17.300 --> 00:13:18.380
+une partie de l'audience.
+
+324
+00:13:18.380 --> 00:13:19.780
+Donc à 1840 personnes,
+
+325
+00:13:19.780 --> 00:13:21.740
+donc ça devait être envoyé plus ou moins,
+
+326
+00:13:21.740 --> 00:13:24.180
+même nombre de personnes avec l'objet jeté ma, sauf que là,
+
+327
+00:13:24.180 --> 00:13:25.820
+on s'est rendu compte qu'on avait beaucoup plus de taux
+
+328
+00:13:25.820 --> 00:13:28.940
+d'ouverture sur cet, sur cet objet là et du coup,
+
+329
+00:13:28.960 --> 00:13:31.500
+on en envoyé à tout le reste de l'audience ou aux 20 zéro
+
+330
+00:13:31.500 --> 00:13:32.780
+personnes avec l'objet.
+
+331
+00:13:32.780 --> 00:13:35.780
+J'étais maman. Voyez que même en envoyant l'objet jeter
+
+332
+00:13:35.780 --> 00:13:36.860
+maman à 20 zéro personnes,
+
+333
+00:13:36.860 --> 00:13:39.580
+on avait 32 de taux d'ouverture versus là à 1800 personnes,
+
+334
+00:13:39.580 --> 00:13:40.780
+on allait 17 taux d'ouverture,
+
+335
+00:13:40.780 --> 00:13:43.300
+sachant que plus on en voit à 10 000 à une personne et plus
+
+336
+00:13:43.300 --> 00:13:45.700
+le taux d'ouverture a tendance à diminuer ce qui est normal.
+
+337
+00:13:45.920 --> 00:13:48.940
+Et là, voyez que même en envoyant le mail a 10 fois plus de
+
+338
+00:13:48.940 --> 00:13:51.540
+monde, on a deux fois plus de taux d'ouverture et même le
+
+339
+00:13:51.620 --> 00:13:53.100
+taux qui qui est beaucoup plus intéressant.
+
+340
+00:13:53.100 --> 00:13:55.700
+Donc forcément notre revenu plein récipient
+
+341
+00:13:56.560 --> 00:13:58.100
+est également deux fois supérieur.
+
+342
+00:13:58.100 --> 00:13:59.260
+Donc c'est juste, c'est juste.
+
+343
+00:13:59.530 --> 00:14:01.980
+Donc ça, c'est un truc que vous allez pouvoir simplement bé
+
+344
+00:14:01.980 --> 00:14:03.660
+tester en allant tout simplement.
+
+345
+00:14:03.690 --> 00:14:06.380
+Donc quand vous allez planifier une campagne, donc là,
+
+346
+00:14:06.490 --> 00:14:08.700
+j'ai une campagne qui est envoyée un segment.
+
+347
+00:14:08.850 --> 00:14:12.100
+Donc là quand cré le segment au l'envoi de la campagne,
+
+348
+00:14:12.100 --> 00:14:13.860
+choisir qui on veut l'envoyer, la par exemple,
+
+349
+00:14:13.930 --> 00:14:16.820
+j'ai segment engagé est
+
+350
+00:14:18.420 --> 00:14:20.420
+ce qui va se passer, c'est que je peux créer un ab test.
+
+351
+00:14:20.960 --> 00:14:22.500
+Là, j'ai ma version à ma version b.
+
+352
+00:14:22.500 --> 00:14:23.540
+Moi, généralement, ce que je fais,
+
+353
+00:14:23.540 --> 00:14:25.380
+c'est que je garde le même contenu, mais je vais surtout
+
+354
+00:14:25.380 --> 00:14:28.220
+modifier l'objet et là que la b testing,
+
+355
+00:14:28.280 --> 00:14:29.300
+on peut décider de le baser.
+
+356
+00:14:29.300 --> 00:14:30.940
+Donc soit sur l'open rate, soit sur quirate,
+
+357
+00:14:30.940 --> 00:14:32.100
+soit sur le place doré.
+
+358
+00:14:32.200 --> 00:14:34.380
+Moi en l'occurrence, n'était plus sur l'open rate,
+
+359
+00:14:34.380 --> 00:14:36.380
+puisque tout l' email est similaire au,
+
+360
+00:14:36.380 --> 00:14:38.900
+ça est vraiment basé sur le taux d'ouverture,
+
+361
+00:14:39.090 --> 00:14:41.380
+mais voilà pouvait le tester sur autre chose.
+
+362
+00:14:41.770 --> 00:14:45.420
+Donc hop, je vais décider d'envoyer à
+
+363
+00:14:45.420 --> 00:14:46.620
+10 de l'audience, par exemple.
+
+364
+00:14:46.930 --> 00:14:48.700
+Donc forcément 10,
+
+365
+00:14:49.040 --> 00:14:51.060
+ça représente personne puisque que j'avais 20 personnes dans
+
+366
+00:14:51.120 --> 00:14:52.560
+les dans mes emails.
+
+367
+00:14:52.560 --> 00:14:55.080
+Donc 10, c'est vraiment que d'elle, mais voilà,
+
+368
+00:14:55.260 --> 00:14:58.040
+je peux en envoyé à 10 15 et je vais faire un test sur
+
+369
+00:14:58.040 --> 00:15:01.920
+plusieurs heures, quatre, cinq h, boum sur quatre h.
+
+370
+00:15:01.920 --> 00:15:04.800
+Donc j'envoie l email à 10 de la base pendant quatre h.
+
+371
+00:15:05.050 --> 00:15:07.480
+C'est un ab testing. Et à l'issue des quatre h,
+
+372
+00:15:07.480 --> 00:15:10.040
+l'objet qui a le meilleur taux d'ouverture qui sera envoyé
+
+373
+00:15:10.060 --> 00:15:12.400
+au reste de l'audience de 90 restant.
+
+374
+00:15:12.400 --> 00:15:16.360
+Voilà au rôle le processus de la bing et tout ça.
+
+375
+00:15:16.360 --> 00:15:18.120
+Ce qui est cool, c'est que automatisé par Claudio.
+
+376
+00:15:18.120 --> 00:15:20.360
+Donc ça vous permet juste de faire le set up au niveau
+
+377
+00:15:20.500 --> 00:15:21.520
+de la création de la campagne.
+
+378
+00:15:21.520 --> 00:15:23.000
+Et après, c'est que clavier qui prend l.
+
+379
+00:15:23.300 --> 00:15:25.920
+Ça, c'est vraiment, voilà un petit peu parce y de la
+
+380
+00:15:26.030 --> 00:15:27.480
+bing tester d'autres choses.
+
+381
+00:15:27.480 --> 00:15:29.560
+Mais voilà, c'est selon moi les meilleurs,
+
+382
+00:15:30.300 --> 00:15:32.280
+les trucs les plus importants à bé tester.
+
+383
+00:15:32.280 --> 00:15:35.680
+Et vous vous verrez des performances variées en fonction,
+
+384
+00:15:36.140 --> 00:15:37.880
+en fonction des ab, à ce que vous allez pour me faire.
+
+385
+00:15:37.940 --> 00:15:39.640
+Et encore une fois, ce que je vous invite à faire,
+
+386
+00:15:39.650 --> 00:15:42.920
+c'est à bé tester une chose après l'autre et,
+
+387
+00:15:43.860 --> 00:15:45.720
+et après de continuellement réitérer,
+
+388
+00:15:46.710 --> 00:15:48.640
+vous avez un ab estim win.
+
+389
+00:15:49.030 --> 00:15:50.400
+Vous prenez la version, ça,
+
+390
+00:15:50.400 --> 00:15:52.760
+les meilleure performance qui vous la mettez en ab estim
+
+391
+00:15:52.760 --> 00:15:56.320
+avec une autre version tout simplement et énormément.
+
+392
+00:15:56.320 --> 00:16:00.080
+Vous êtes censé bien améliorer vos performances avec humaine
+
+393
+00:16:00.080 --> 00:16:00.440
+grâce à ça,

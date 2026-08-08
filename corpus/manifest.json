@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-08T00:35:57+00:00",
+  "generated_at": "2026-08-08T11:19:07+00:00",
   "rights": "private_authorized_personal_use",
-  "raw_file_count": 56,
+  "raw_file_count": 74,
   "raw_files": [
     {
       "path": "corpus/raw/documents/Fast-Track GMC Approval Framework - 2026 Edition (2).pdf",
@@ -279,6 +279,45 @@
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
+      "path": "corpus/raw/vimeo/vimeo-caption-233282981.vtt",
+      "source_id": "vimeo-caption-233282981",
+      "bytes": 8907,
+      "sha256": "45d4f584ec8d8e6c2435ad8c653c54c6cac41ac044f1df5bfa635b9b321eb502",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 369.88,
+      "cue_count": 113,
+      "word_count": 869,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-233283052.vtt",
+      "source_id": "vimeo-caption-233283052",
+      "bytes": 11262,
+      "sha256": "ef2e66090566836b2504cbf873d54db76a945d1e920e70cade39943a92d925c1",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 353.36,
+      "cue_count": 140,
+      "word_count": 1134,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-233700517.vtt",
+      "source_id": "vimeo-caption-233700517",
+      "bytes": 10642,
+      "sha256": "fd995aecd77b69b803751410fa515cc9bf4f0a27217f21f576479f65510d959b",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 352.52,
+      "cue_count": 130,
+      "word_count": 1065,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
       "path": "corpus/raw/vimeo/vimeo-caption-234180398.vtt",
       "source_id": "vimeo-caption-234180398",
       "bytes": 34126,
@@ -318,6 +357,19 @@
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333489.vtt",
+      "source_id": "vimeo-caption-234333489",
+      "bytes": 5824,
+      "sha256": "40c767804c72a39637af3d4ef0856f4b2086718750191709fa65ac39efa83b3e",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 173.44,
+      "cue_count": 76,
+      "word_count": 539,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
       "path": "corpus/raw/vimeo/vimeo-caption-234333499.vtt",
       "source_id": "vimeo-caption-234333499",
       "bytes": 14560,
@@ -328,6 +380,19 @@
       "duration_seconds_last_timecode": 445.72,
       "cue_count": 185,
       "word_count": 1410,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333510.vtt",
+      "source_id": "vimeo-caption-234333510",
+      "bytes": 5799,
+      "sha256": "d413e7650d44efe39d01591b9b76e8c4cd1c7b0bfa3ea96ec918329424086229",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 167.96,
+      "cue_count": 72,
+      "word_count": 574,
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
@@ -370,6 +435,19 @@
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333582.vtt",
+      "source_id": "vimeo-caption-234333582",
+      "bytes": 5588,
+      "sha256": "b398d0fc7e1ae2d2af28827e494f168dfe49c20015610ceba12228348ebbac9a",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 157.0,
+      "cue_count": 69,
+      "word_count": 554,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
       "path": "corpus/raw/vimeo/vimeo-caption-234333583.vtt",
       "source_id": "vimeo-caption-234333583",
       "bytes": 9221,
@@ -380,6 +458,45 @@
       "duration_seconds_last_timecode": 333.81,
       "cue_count": 121,
       "word_count": 890,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333584.vtt",
+      "source_id": "vimeo-caption-234333584",
+      "bytes": 6146,
+      "sha256": "42b17e40d8035adbd512d6bd49de35dee3e42ffc65516b6654535c4e501433db",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 155.76,
+      "cue_count": 77,
+      "word_count": 597,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333596.vtt",
+      "source_id": "vimeo-caption-234333596",
+      "bytes": 2078,
+      "sha256": "25c04f87fb70210ed37380b7c276ff15e51bc9857d61a417f3b1a57708afd2ec",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 56.76,
+      "cue_count": 25,
+      "word_count": 212,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-234333656.vtt",
+      "source_id": "vimeo-caption-234333656",
+      "bytes": 3813,
+      "sha256": "c8ff32402fb8f9e1251cea82c91c069a04bfe37eac5c1381190f57f7955c4d68",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 104.4,
+      "cue_count": 48,
+      "word_count": 367,
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
@@ -539,6 +656,19 @@
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
+      "path": "corpus/raw/vimeo/vimeo-caption-246203665.vtt",
+      "source_id": "vimeo-caption-246203665",
+      "bytes": 3663,
+      "sha256": "6ca0e8a5bb72a5311b8ce0e2914a1718620a1c342f70e7bf019c08f044d2b4a0",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 182.08,
+      "cue_count": 49,
+      "word_count": 362,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
       "path": "corpus/raw/vimeo/vimeo-caption-246208721.vtt",
       "source_id": "vimeo-caption-246208721",
       "bytes": 26304,
@@ -604,6 +734,58 @@
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
+      "path": "corpus/raw/vimeo/vimeo-caption-249495684.vtt",
+      "source_id": "vimeo-caption-249495684",
+      "bytes": 28206,
+      "sha256": "a3d678980f414a2da3f45677ea3ca4279ee659a740688e579e251b973c662cb8",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 786.44,
+      "cue_count": 353,
+      "word_count": 2778,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-249495936.vtt",
+      "source_id": "vimeo-caption-249495936",
+      "bytes": 26619,
+      "sha256": "77c7e3f24c4739b9acbe71c466eef85571664bb117d2e1b82aeddacfcc05098e",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 776.12,
+      "cue_count": 336,
+      "word_count": 2604,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-249496572.vtt",
+      "source_id": "vimeo-caption-249496572",
+      "bytes": 14960,
+      "sha256": "2b613dc5bb274eae268e6df0c41cbf1c85ca7eb0b91a8d88373432021f8ae59b",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 415.4,
+      "cue_count": 187,
+      "word_count": 1450,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-249496725.vtt",
+      "source_id": "vimeo-caption-249496725",
+      "bytes": 45473,
+      "sha256": "56930da5558a50dcf88a6c6827cda4a4c38ceed19410c11fcba3ab827b1c79ed",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 1375.28,
+      "cue_count": 574,
+      "word_count": 4498,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
       "path": "corpus/raw/vimeo/vimeo-caption-249915990.vtt",
       "source_id": "vimeo-caption-249915990",
       "bytes": 37817,
@@ -614,6 +796,32 @@
       "duration_seconds_last_timecode": 1530.05,
       "cue_count": 517,
       "word_count": 3746,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-250134849.vtt",
+      "source_id": "vimeo-caption-250134849",
+      "bytes": 31159,
+      "sha256": "1359bf28c66c63154cf7216e0aa4e3733051e06215af8f188057c8c909a1a953",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 960.44,
+      "cue_count": 393,
+      "word_count": 3091,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/vimeo/vimeo-caption-250135404.vtt",
+      "source_id": "vimeo-caption-250135404",
+      "bytes": 20325,
+      "sha256": "d61162a8401ff954fc73a96abc21052e7d610bccdf48155249181cca4bc0c65a",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 529.36,
+      "cue_count": 256,
+      "word_count": 1978,
       "transcription_status": "AUTOMATIQUE_NON_RELUE"
     },
     {
@@ -707,6 +915,28 @@
       "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
       "ingested_on": "2026-08-08",
       "kind": "platform_metadata_minimized"
+    },
+    {
+      "path": "corpus/raw/youtube/rj6Rx3zinOk.fr-orig.vtt",
+      "source_id": "rj6Rx3zinOk",
+      "bytes": 96850,
+      "sha256": "5054d3efd60505c13226a8361909d9f74c5ef47ba1a5793f9a0764ca06251cf0",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "caption_vtt",
+      "duration_seconds_last_timecode": 664.8,
+      "cue_count": 555,
+      "word_count": 1937,
+      "transcription_status": "AUTOMATIQUE_NON_RELUE"
+    },
+    {
+      "path": "corpus/raw/youtube/rj6Rx3zinOk.metadata.json",
+      "source_id": "rj6Rx3zinOk",
+      "bytes": 391,
+      "sha256": "5a7a7de0d5a81abbaaeb217d46fe83cb0de9fee9f3b6edd5b1902985b0fc1d30",
+      "authorization": "Autorisation du propriétaire déclarée par Hakim le 2026-08-08",
+      "ingested_on": "2026-08-08",
+      "kind": "platform_metadata_minimized"
     }
   ],
   "canonical_sources": [
@@ -735,5 +965,5 @@
       ]
     }
   ],
-  "derived_count": 53
+  "derived_count": 70
 }

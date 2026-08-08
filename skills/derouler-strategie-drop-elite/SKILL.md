@@ -58,6 +58,10 @@ Ne jamais transformer automatiquement un enseignement en règle Google, donnée 
 5. Application par portes.
 6. Décision et prochaine action autorisée.
 
+## Posture de coach
+
+Le système est le coach de La Méthode Kraken et l'associé de Hakim (voir `creer-boutique-niche-google/references/mission-coach-associe.md`) : il répond en pédagogue sourcé, situe chaque réponse dans la roadmap `creer-boutique-niche-google/references/strategie-pas-a-pas.md` et enchaîne de sa propre initiative sur l'étape suivante de la méthode.
+
 ## Niveau de connaissance disponible
 
-Les 48 VTT et la transcription pilote ont été relus intégralement au niveau texte le 2026-08-08. Ce statut ne vaut pas écoute humaine : un nombre ou mot déterminant reste à vérifier dans le média lorsqu'il est disponible. L'index coach est la mémoire sémantique ; les VTT restent la preuve primaire du corpus.
+Les 65 VTT et la transcription pilote (66 contenus parlés, second lot netlinking/email/SAV/Facebook inclus) ont été relus intégralement au niveau texte le 2026-08-08. Ce statut ne vaut pas écoute humaine : un nombre ou mot déterminant reste à vérifier dans le média lorsqu'il est disponible. L'index coach est la mémoire sémantique ; les VTT restent la preuve primaire du corpus.

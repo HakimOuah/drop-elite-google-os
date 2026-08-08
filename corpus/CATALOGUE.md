@@ -1,17 +1,17 @@
 # Catalogue du corpus
 
-Généré le 2026-08-08T00:35:57+00:00.
+Généré le 2026-08-08T11:19:07+00:00.
 
 ## Couverture brute
 
-- 48 fichiers de sous-titres, dernier timecode cumulé 12:34:01, 119,460 mots dérivés ;
+- 65 fichiers de sous-titres, dernier timecode cumulé 14:40:22, 144,069 mots dérivés ;
 - 4 PDF, 79 pages détectées ;
 - 1 source média canonique ;
-- 56 fichiers bruts au total.
+- 74 fichiers bruts au total.
 
 ## Statut
 
-Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture sémantique ne corrige leur texte brut. Les 48 VTT et la transcription pilote ont toutefois été relus intégralement au niveau texte le 2026-08-08 et sont indexés dans `derived/coach-source-index.md`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Les limites et modules manquants sont consignés dans `docs/corpus-gap-audit.md`.
+Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture sémantique ne corrige leur texte brut. Les 65 VTT et la transcription pilote ont toutefois été relus intégralement au niveau texte le 2026-08-08 et sont indexés dans `derived/coach-source-index.md`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Les limites et modules manquants sont consignés dans `docs/corpus-gap-audit.md`.
 
 ## Sources brutes
 
@@ -39,14 +39,23 @@ Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture s
 | `vimeo-caption-232118754` | caption_vtt | 302.44 | 942 | `92dd9eb1465b` |
 | `vimeo-caption-232118785` | caption_vtt | 213.44 | 721 | `b45e38cc3bcf` |
 | `vimeo-caption-232119122` | caption_vtt | 731.6 | 2537 | `bf1337b59849` |
+| `vimeo-caption-233282981` | caption_vtt | 369.88 | 869 | `45d4f584ec8d` |
+| `vimeo-caption-233283052` | caption_vtt | 353.36 | 1134 | `ef2e66090566` |
+| `vimeo-caption-233700517` | caption_vtt | 352.52 | 1065 | `fd995aecd77b` |
 | `vimeo-caption-234180398` | caption_vtt | 4611.33 | 2496 | `89d74158b17b` |
 | `vimeo-caption-234186329` | caption_vtt | 272.16 | 946 | `28f5b399d0ef` |
 | `vimeo-caption-234333488` | caption_vtt | 232.12 | 815 | `1e6442177910` |
+| `vimeo-caption-234333489` | caption_vtt | 173.44 | 539 | `40c767804c72` |
 | `vimeo-caption-234333499` | caption_vtt | 445.72 | 1410 | `3177c0daf892` |
+| `vimeo-caption-234333510` | caption_vtt | 167.96 | 574 | `d413e7650d44` |
 | `vimeo-caption-234333543` | caption_vtt | 474.66 | 1153 | `f19598fd67a1` |
 | `vimeo-caption-234333561` | caption_vtt | 990.52 | 3206 | `200c4264ae6f` |
 | `vimeo-caption-234333580` | caption_vtt | 164.72 | 581 | `5614e68e9320` |
+| `vimeo-caption-234333582` | caption_vtt | 157.0 | 554 | `b398d0fc7e1a` |
 | `vimeo-caption-234333583` | caption_vtt | 333.81 | 890 | `7400bfeb26e1` |
+| `vimeo-caption-234333584` | caption_vtt | 155.76 | 597 | `42b17e40d803` |
+| `vimeo-caption-234333596` | caption_vtt | 56.76 | 212 | `25c04f87fb70` |
+| `vimeo-caption-234333656` | caption_vtt | 104.4 | 367 | `c8ff32402fb8` |
 | `vimeo-caption-237446074` | caption_vtt | 412.17 | 955 | `d0e9685bff9a` |
 | `vimeo-caption-239785633` | caption_vtt | 958.18 | 3007 | `8ecdec3d21a6` |
 | `vimeo-caption-239787221` | caption_vtt | 325.74 | 863 | `6f29e40c8bde` |
@@ -59,12 +68,19 @@ Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture s
 | `vimeo-caption-244603899` | caption_vtt | 734.24 | 2332 | `c9bd611ba161` |
 | `vimeo-caption-245994245` | caption_vtt | 793.96 | 2171 | `cbc27f305b87` |
 | `vimeo-caption-245994758` | caption_vtt | 570.12 | 1880 | `fe21e0c9aae2` |
+| `vimeo-caption-246203665` | caption_vtt | 182.08 | 362 | `6ca0e8a5bb72` |
 | `vimeo-caption-246208721` | caption_vtt | 1028.84 | 2683 | `23ff156b0c1d` |
 | `vimeo-caption-246485074` | caption_vtt | 129.67 | 401 | `99f5d163cd10` |
 | `vimeo-caption-246532995` | caption_vtt | 83.61 | 268 | `e177af5acb39` |
 | `vimeo-caption-249143021` | caption_vtt | 1309.87 | 3556 | `0c05c83b291c` |
 | `vimeo-caption-249178958` | caption_vtt | 1114.44 | 3126 | `b31f1b74d486` |
+| `vimeo-caption-249495684` | caption_vtt | 786.44 | 2778 | `a3d678980f41` |
+| `vimeo-caption-249495936` | caption_vtt | 776.12 | 2604 | `77c7e3f24c47` |
+| `vimeo-caption-249496572` | caption_vtt | 415.4 | 1450 | `2b613dc5bb27` |
+| `vimeo-caption-249496725` | caption_vtt | 1375.28 | 4498 | `56930da5558a` |
 | `vimeo-caption-249915990` | caption_vtt | 1530.05 | 3746 | `535338fbacdb` |
+| `vimeo-caption-250134849` | caption_vtt | 960.44 | 3091 | `1359bf28c66c` |
+| `vimeo-caption-250135404` | caption_vtt | 529.36 | 1978 | `d61162a8401f` |
 | `vimeo-caption-262936735` | caption_vtt | 9027.44 | 24179 | `b1ec59c2aedd` |
 | `vimeo-caption-306109499` | caption_vtt | 705.65 | 2037 | `4e78d560c3d6` |
 | `43kJQkuviKY` | caption_vtt | 222.92 | 712 | `8b171b5a7904` |
@@ -73,3 +89,5 @@ Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture s
 | `hhPBbZZ7qHQ` | platform_metadata_minimized | — | — | `7710b22f6392` |
 | `l-XUJ9NTN40` | caption_vtt | 1031.24 | 2594 | `f25e9214c7b3` |
 | `l-XUJ9NTN40` | platform_metadata_minimized | — | — | `c0eb792fd799` |
+| `rj6Rx3zinOk` | caption_vtt | 664.8 | 1937 | `5054d3efd605` |
+| `rj6Rx3zinOk` | platform_metadata_minimized | — | — | `5a7a7de0d5a8` |

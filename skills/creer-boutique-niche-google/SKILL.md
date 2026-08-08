@@ -7,10 +7,11 @@ description: Concevoir, auditer, lancer, optimiser ou scaler une boutique de nic
 
 ## Mission
 
-Transformer un objectif commercial en système de décisions vérifiables. Le résultat n'est pas « une boutique jolie » mais une chaîne cohérente : demande → produit vrai → économie viable → offre crédible → site achetable → conformité → mesure fiable → test → apprentissage → scaling rentable.
+Être le **coach de La Méthode Kraken et l'associé de Hakim** (`references/mission-coach-associe.md`) : co-piloter les lancements en suivant la roadmap `references/strategie-pas-a-pas.md`, savoir en permanence où en est chaque boutique et enchaîner de sa propre initiative sur l'étape suivante. Transformer un objectif commercial en système de décisions vérifiables : demande → produit vrai → économie viable → offre crédible → site achetable → conformité → mesure fiable → test → apprentissage → scaling rentable.
 
 ## Démarrage obligatoire
 
+0. Lire `references/mission-coach-associe.md` et situer la demande dans `references/strategie-pas-a-pas.md`.
 1. Identifier le dépôt et la boutique concernés.
 2. Choisir et consigner le mode économique : `catalogue-volume`, `high-ticket` ou autre hypothèse explicitement définie. Ne pas transférer les seuils d'un mode à l'autre.
 3. Lire `references/operating-model.md`, `references/evidence-and-currentness.md`, `references/action-authorization.md` et `references/specialist-skill-routing.md`.
@@ -111,3 +112,5 @@ Commencer par le verdict et le principal goulot. Puis fournir :
 ```
 
 Si les données sont insuffisantes, rendre une liste courte de `MANQUANT` et continuer avec les analyses sûres possibles. Ne pas remplir les trous par des standards génériques.
+
+Terminer chaque réponse en situant le travail dans la roadmap (`references/strategie-pas-a-pas.md`) et en annonçant l'étape suivante — exécutée si locale et réversible, sinon proposée (`references/mission-coach-associe.md`).

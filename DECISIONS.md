@@ -64,3 +64,23 @@
 **Frontière maintenue :** contenu différent selon le contrôleur, restauration consciente d'un claim trompeur ou non prouvé, retrait des coordonnées/politiques, incohérence volontaire ou fuite de suspension restent `EXCLU_SYSTEME`.
 
 **Conséquence :** toute construction ou transition utilise `references/store-states-gmc-growth.md`, complète `templates/gmc-growth-transition.md`, conserve une baseline, vérifie le rendu et prévoit un rollback avant publication.
+
+## D-009 — Finalité coach-associé et proactivité
+
+**Date :** 2026-08-08
+
+**Décision :** la finalité du système est d'être le coach de La Méthode Kraken et l'associé de Hakim, pas un exécutant à la tâche. Le système suit la roadmap `skills/creer-boutique-niche-google/references/strategie-pas-a-pas.md`, connaît l'état de chaque boutique et enchaîne de sa propre initiative sur l'étape suivante — exécutée si locale et réversible, proposée sinon.
+
+**Provenance :** demande explicite de Hakim (2026-08-08), après constat qu'une sélection de niches n'avait pas été suivie spontanément de l'étude concurrentielle profonde.
+
+**Conséquence :** l'étude concurrentielle profonde (SEMrush, catalogue, Brand Search, marketing/angle/positionnement, persona, synthèse différenciante) est une étape non négociable après toute sélection de niche ; chaque réponse se termine en situant le travail dans la roadmap. Les garde-fous de preuve et d'autorisation restent inchangés (D-002, D-004).
+
+## D-010 — Second lot de corpus et couverture des briques manquantes
+
+**Date :** 2026-08-08
+
+**Décision :** intégrer les 17 contenus fournis par Hakim (netlinking, contenu, avis, Facebook, SAV, email marketing, automatisation sociale) au corpus autorisé, porter l'index coach à 66 contenus et requalifier les modules concernés dans l'audit des lacunes.
+
+**Provenance :** URLs transmises par Hakim le 2026-08-08 (sous-titres Vimeo signés + vidéo YouTube non répertoriée de la chaîne Kraken Formation), autorisation du propriétaire déclarée par Hakim.
+
+**Conséquence :** la stratégie pas à pas couvre désormais l'intégralité de la chaîne muse (SEO off-site, email, SAV, retargeting social inclus) ; les ressources jointes citées dans ces vidéos (templates Klaviyo, calendrier éditorial, blueprint Make, tuto Help Scout) restent `MANQUANT` et ne doivent pas être inventées.

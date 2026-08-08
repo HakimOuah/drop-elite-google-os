@@ -1,7 +1,7 @@
 # Audit des lacunes du corpus de La Méthode Kraken
 
-**Date de relecture :** 2026-08-08
-**Périmètre :** 48 VTT + 1 transcription pilote canonique, soit 49 contenus parlés et 124 489 mots dérivés. Les quatre PDF et le gist Shopify ont également été confrontés aux leçons.
+**Date de relecture :** 2026-08-08 (mise à jour le 2026-08-08 après le second lot de 17 contenus)
+**Périmètre :** 65 VTT + 1 transcription pilote canonique, soit 66 contenus parlés. Les quatre PDF et le gist Shopify ont également été confrontés aux leçons.
 
 ## Verdict
 
@@ -9,9 +9,9 @@ Le corpus permet déjà de répondre avec beaucoup de contexte sur la **sélecti
 
 La frontière honnête est la suivante :
 
-- **fortement couvert** : niche, catégories, SEO on-site, contenu, flux/GMC, Shopping standard, lecture des KPI et optimisation produit/requête ;
-- **partiellement couvert** : sourcing, offre/CRO, mesure, retargeting, automatisation produit, économie et scaling ;
-- **absent ou trop superficiel** : customer research, branding complet, email, SEO off-site opérationnel, affiliation, délégation d'entreprise, fiscalité, droit français détaillé, sécurité produit et pilotage SAV/retours.
+- **fortement couvert** : niche, catégories, SEO on-site, contenu, flux/GMC, Shopping standard, lecture des KPI, optimisation produit/requête, et depuis le second lot : netlinking (cadence et méthodes), email marketing (flows, campagnes, segmentation Klaviyo), pilotage SAV, doctrine Facebook/retargeting catalogue et publication sociale automatisée ;
+- **partiellement couvert** : sourcing, offre/CRO, mesure, avis clients/réputation, testing Meta au-delà du retargeting, automatisation produit, économie et scaling ;
+- **absent ou trop superficiel** : customer research, branding complet, affiliation, délégation d'entreprise, fiscalité, droit français détaillé, sécurité produit.
 
 `corpus/derived/coach-source-index.md` conserve le résumé source par source. Le présent document décrit tout ce qui manque, se contredit ou demande un encadrement opérationnel.
 
@@ -19,7 +19,7 @@ La frontière honnête est la suivante :
 
 | Lacune | Preuve | Conséquence |
 |---|---|---|
-| Les 48 VTT restent automatiques | `corpus/manifest.json` : `AUTOMATIQUE_NON_RELUE` | un mot, un nombre ou un nom d'outil peut être faux ; réécouter le média quand la précision est déterminante |
+| Les 65 VTT restent automatiques | `corpus/manifest.json` : `AUTOMATIQUE_NON_RELUE` | un mot, un nombre ou un nom d'outil peut être faux ; réécouter le média quand la précision est déterminante |
 | Les vidéos Vimeo ne sont pas présentes | seules les pistes VTT ont été fournies | impossible de relire les écrans, réglages, feuilles de calcul et gestes montrés |
 | Titres et ordre pédagogique Vimeo absents | IDs de captions seulement | intitulés reconstruits et ordre du curriculum incertain |
 | Démonstration rideaux très pauvre textuellement | `vimeo-caption-234180398` : dernier timecode ~76 min, ~2 500 mots | grande partie de l'information probablement visuelle ou silencieuse |
@@ -35,10 +35,11 @@ Le pilote annonce une stratégie plus large que le lot actuel :
 | Module annoncé | Repère | Couverture actuelle | Statut |
 |---|---|---|---|
 | Branding et identité de marque | séquence générale du pilote | quelques principes de différenciation et le skill `brandkit`, mais pas le module Kraken complet | `MANQUANT_MODULE` |
-| Email marketing | `de-6417462fa6547-strategie-muse` [10:25–10:32] | capture email évoquée dans le blog, aucune stratégie de flows/campagnes | `MANQUANT_MODULE` |
-| SEO off-site / backlinks | pilote [06:31–07:16] et [10:33–10:36] | principe annoncé, aucune procédure complète d'outreach, sélection, budget ou mesure | `MANQUANT_MODULE` |
+| Email marketing | `de-6417462fa6547-strategie-muse` [10:25–10:32] | **couvert par le second lot** : `249495684`, `249495936`, `249496725`, `249496572`, `250134849`, `250135404` (flows, campagnes, segmentation, A/B) ; les fichiers ressources cités (templates, calendrier éditorial) restent absents | `COUVERT_SANS_RESSOURCES` |
+| SEO off-site / backlinks | pilote [06:31–07:16] et [10:33–10:36] | **couvert par le second lot** : `234333582`, `234333584`, `234333596` (cadence 4 mois, montée en qualité, méthodes gratuites) ; les vidéos sur le netlinking payant et le live « méthodes ninja » annoncés restent absents | `COUVERT_PARTIEL` |
 | Affiliation | pilote [07:25–08:08] | principe et cibles évoqués, aucun recrutement, contrat, tracking, commission ou anti-fraude | `MANQUANT_MODULE` |
-| Retargeting Meta | pilote [08:14–08:39] | une mise en place Google Display/Demand Gen est présente ; pas de méthode Meta complète | `PARTIEL` |
+| Retargeting Meta | pilote [08:14–08:39] | **renforcé par le second lot** : `233283052` (doctrine), `233282981` (setup catalogue), `246203665` (canal Shopify) ; le testing/scaling Meta complet reste survolé | `PARTIEL` |
+| SAV et rétention | annoncé dans le pilote | **couvert par le second lot** : `233700517` (outils, rôles, métriques, anticipation) ; le tuto Help Scout de la collaboratrice cité en fin de module est absent | `COUVERT_SANS_RESSOURCES` |
 | Délégation et automatisation globales | pilote et Q&A `262936735` [04:50–04:53] | uniquement intégration produit assistée par IA et allusions aux process | `MANQUANT_MODULE` |
 | Vente/valorisation de boutique | `vimeo-caption-262936735` [02:20–02:40] mentionne le module 13 | aucune leçon dédiée ni calculateur | `MANQUANT_MODULE` |
 

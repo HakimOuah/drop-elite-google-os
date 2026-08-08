@@ -2,7 +2,7 @@
 
 ## Statut de la relecture
 
-Relecture sémantique intégrale effectuée le **2026-08-08** sur les **48 fichiers de sous-titres** du lot et sur la **transcription pilote canonique**, soit 49 contenus parlés. Cette relecture porte sur le texte disponible, pas sur une écoute humaine systématique des médias.
+Relecture sémantique intégrale effectuée le **2026-08-08** sur les **65 fichiers de sous-titres** du lot et sur la **transcription pilote canonique**, soit 66 contenus parlés. Le second lot de 17 contenus (netlinking, contenu, avis, Facebook, SAV, email marketing, automatisation sociale) a été fourni par Hakim et relu le 2026-08-08. Cette relecture porte sur le texte disponible, pas sur une écoute humaine systématique des médias.
 
 - `ASSIMILE_TEXTE` : le texte a été lu de bout en bout et ses enseignements ont été classés.
 - `ASSIMILE_TEXTE_QUALITE_LIMITEE` : le texte a été lu, mais l'automatique, le manque d'image ou des segments pauvres limitent la certitude.
@@ -145,6 +145,82 @@ Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir
 ### `l-XUJ9NTN40` — maillage interne
 
 `ASSIMILE_TEXTE`. Relie parents, enfants, catégories sœurs et produits dans une architecture circulable. Le système conserve la logique de navigation utile, mais pas l'obligation d'un schéma mécanique ou de liens forcés.
+
+### `vimeo-caption-234333489` — nombre de produits par catégorie
+
+`ASSIMILE_TEXTE`. Répond à « combien de produits par catégorie » : le maximum, tant que la qualité tient — 300 produits pertinents valent mieux que 50, car la profondeur nourrit la navigation, baisse le taux de rebond et signale la pertinence à Google. Un catalogue plus petit peut battre un plus gros uniquement si les produits sont meilleurs (titres détaillés, bonnes photos, descriptifs de catégorie). La causalité « plus de produits → meilleur ranking » est une heuristique observée chez les concurrents, pas une règle officielle.
+
+### `vimeo-caption-234333510` — stratégie de contenu selon la difficulté de niche
+
+`ASSIMILE_TEXTE`. Distingue mots-clés intentionnistes (catégories, fiches produit) et informatifs (blog). Ratios enseignés : niche thématisée difficile → 1 intentionniste pour 2 informatifs ; niche type de produit → 4 pour 1 ; débutant (type de produit dans un univers) → d'abord couvrir tous les mots-clés intentionnistes de catégories, puis basculer sur l'informatif. Minimum évoqué : 3 articles de blog par mois, à moduler selon budget. Ces ratios sont des heuristiques internes `ENSEIGNE_A_VERIFIER` selon la niche réelle.
+
+### `vimeo-caption-234333656` — avis clients et SEO
+
+`ASSIMILE_TEXTE`. Google agrège de plus en plus les avis externes (type Trustpilot) : la réputation devient un signal SEO. Tactiques : cibler les produits qui satisfont (qualité ou livraison rapide) et envoyer une demande d'avis automatisée vers J+10 (CRM ou Zapier+Shopify), demander un avis juste après une interaction SAV réussie. Le discours mentionne l'incitation par coupons tout en rappelant l'interdiction de payer des avis 5 étoiles : la limite légale/plateforme est explicite, l'incitation « maligne » reste `ENSEIGNE_A_VERIFIER` face aux règles actuelles des plateformes d'avis.
+
+## SEO off-site et netlinking
+
+### `vimeo-caption-234333582` — rôle du netlinking et cadence
+
+`ASSIMILE_TEXTE`. Le netlinking est présenté comme le levier qui départage les concurrents une fois la technique et la pertinence en place ; sans réputation, on reste en page 2-3. Cadence enseignée : 4 premiers mois de liens vers la page d'accueil (mots-clés généralistes de marque), puis cycles de 4 mois sur 2 catégories choisies d'après les données Search Console. Stratégie de montée en gamme : liens massifs peu qualitatifs au début, puis réduction du volume au profit de liens plus qualitatifs à mesure que l'autorité monte. L'efficacité supposée du domaine expiré comme socle reste une hypothèse d'auteur.
+
+### `vimeo-caption-234333584` — netlinking gratuit et « méthodes ninja »
+
+`ASSIMILE_TEXTE`. Deux voies gratuites : échanges de liens contextualisés avec des sites non concurrents (jugés peu rentables en temps par l'auteur), et « méthodes ninja » : poser des liens sur des plateformes à forte autorité — forums (journaldesfemmes), chaîne YouTube avec lien, fils du support technique Google. Ces tactiques d'exploitation de plateformes tierces sont datées et fragiles : à traiter en `ENSEIGNE_A_VERIFIER`, avec risque de nofollow/suppression ; le payant est présenté comme la voie recommandée pour aller vite.
+
+### `vimeo-caption-234333596` — récapitulatif du plan netlinking
+
+`ASSIMILE_TEXTE`. Synthèse opérationnelle : lancer la boutique (idéalement domaine expiré avec backlinks), 4 mois de liens page d'accueil pendant que le contenu travaille, lecture Search Console, puis 2 catégories par cycle de 4 mois en plus de l'accueil, avec qualité de liens croissante.
+
+## Réseaux sociaux et publicité Facebook
+
+### `vimeo-caption-233283052` — doctrine Facebook/Instagram en complément de Google
+
+`ASSIMILE_TEXTE`. Position de l'auteur : Google/SEO d'abord (stabilité), Facebook en booster. Socle minimal sur toutes les boutiques : community management (branding, interaction) + retargeting catalogue dès le lancement à ~5 €/jour — audience récente sans remise, audience 7 jours et plus avec remise. Ensuite, phase de testing : lancer sur Facebook les produits qui ressortent de Google Shopping (avec la limite pull vs push : un produit recherché n'est pas forcément visuel) et les produits tendance de la niche repérés sur les réseaux, environ 10-12 produits testés à petits budgets en recherchant la stabilité sur 3-5 jours avant de pousser. Scaling : UGC, micro-influenceurs, création de contenu.
+
+### `vimeo-caption-233282981` — tutoriel campagne retargeting catalogue
+
+`ASSIMILE_TEXTE_QUALITE_LIMITEE`. Théo (media buyer de l'équipe) monte la campagne type : prérequis Business Manager, pixel, catalogue lié, ~7 jours d'activité du site. Budget 10 €/jour réparti en 2 ensembles : visiteurs 0-7 jours (sans promo) et visiteurs 14-18 jours avec exclusion des récents + code promo. Vente par catalogue, événement de conversion achat, placements automatiques, vigilance sur le ciblage pays (France). Transcription automatique pauvre par endroits ; les libellés exacts de l'interface Meta ont pu changer.
+
+### `vimeo-caption-246203665` — installer le canal Facebook sur Shopify
+
+`ASSIMILE_TEXTE_QUALITE_LIMITEE`. Tutoriel court : canal de vente Facebook/Instagram dans Shopify, association Business Manager, page et pixel, partage de données maximal, validation des CGU. Interface datée, à re-vérifier dans le Shopify actuel.
+
+### `rj6Rx3zinOk` — PostPilot, publication sociale automatisée
+
+`ASSIMILE_TEXTE`. Scénario Make (gratuit jusqu'à 1 000 opérations/mois) : un Google Sheet liste les ID produits Shopify avec un index incrémental ; chaque jour, le scénario récupère un produit, fait réécrire la description avec hashtags par ChatGPT (optionnel), puis publie image + titre + lien sur Facebook, Pinterest et Instagram. Avec un catalogue de 700-800 produits, cela alimente environ deux ans de publication quotidienne sans intervention. Export des ID via une app CSV export filtrée par collection. Blueprint fourni en ressource de la vidéo d'origine, non présent dans le corpus.
+
+## SAV et rétention
+
+### `vimeo-caption-233700517` — le SAV, pilier de LTV
+
+`ASSIMILE_TEXTE`. Contre-pied de l'externalisation low-cost : le SAV est traité comme un investissement central (« le secret de votre réussite »), vitrine de la marque pour clients et prospects. Résultat revendiqué : Trustpilot 4,5+ avec 300 avis authentiques — résultat personnel non généralisable. Méthode : anticipation des problèmes (séquences de suivi de colis, excuses et gestes proactifs), outil dédié (Zendesk ou Help Scout) avec rôles opérateur/manager, escalade des tickets complexes, mini-chat sur site, et pilotage par métriques : temps de première réponse, temps de résolution, satisfaction par opérateur, rapports hebdomadaires et mensuels.
+
+## Email marketing (intervenant invité)
+
+### `vimeo-caption-249495684` — pourquoi l'email et setup Klaviyo
+
+`ASSIMILE_TEXTE`. Module animé par un intervenant d'agence email (Klaviyo Platinum Partner). Thèse : l'email peut représenter 20-30 % du CA avec un ROI bien supérieur aux ads, construit la rentabilité pendant que l'acquisition construit le volume ; cercle vertueux ads→emails→marge→ads. Les chiffres d'agence (ROI ×38, cas clients passant de 34 k€ à 110 k€/mois) sont des résultats non généralisables. Setup : compte Klaviyo, vérification DNS du domaine d'envoi, intégration Shopify, listes en single opt-in, synchronisation des profils.
+
+### `vimeo-caption-249495936` — flows contre campagnes
+
+`ASSIMILE_TEXTE`. Deux familles : les flows (séquences automatisées déclenchées par une action — trigger, filtres, exclusion des acheteurs) qui peuvent porter jusqu'à ~80 % du CA email, et les campagnes/newsletters (envois manuels temporels). Démonstration de création de flow dans Klaviyo : triggers disponibles, conditional splits, delays. Les campagnes servent à entretenir la relation sans sur-solliciter : alterner vente, contenu, engagement.
+
+### `vimeo-caption-249496725` — les six flows essentiels
+
+`ASSIMILE_TEXTE`. Détail des séquences à installer : panier/checkout abandonné (4 emails : rappel bénéfices ~20 min, réassurance ~7 h, code promo ~20 h, urgence ~1 jour, blocs dynamiques du produit abandonné) ; remerciement post-achat (remerciement + upsell code promo le jour même, valeurs de marque, suivi de commande, entretien du produit) ; bienvenue via popup (conditions d'apparition 30-35 s/scroll/intention de sortie, un seul champ email, 5-12 % d'opt-in attendu, single opt-in, relance des non-ouvreurs par objet alternatif) ; abandon de fiche produit (best-seller + stock limité) ; abandon de site (mission puis problème/solution) ; win-back J+30/45 (autres best-sellers puis vente flash 24 h). Mot d'ordre : 2-3 emails ciblés par flow, la qualité avant la quantité.
+
+### `vimeo-caption-249496572` — typologie des campagnes newsletter
+
+`ASSIMILE_TEXTE`. Trois familles de campagnes : promotionnelles (lancements, ventes flash, stock limité, urgence), informationnelles (éducation, problème/solution, conseils — chaque contenu fait la transition vers les produits) et d'engagement (questionnaires, jeux-concours, listes VIP, articles) destinées à maximiser clics et signaux positifs auprès des fournisseurs de messagerie. Ressources jointes (calendrier éditorial annuel, exemples) absentes du corpus.
+
+### `vimeo-caption-250134849` — segmentation et A/B testing
+
+`ASSIMILE_TEXTE`. Envoyer aux seuls profils engagés (ouverture < 45 jours, activité site < 30 jours, exclusion des acheteurs récents, des bounces et des supprimés) : meilleure délivrabilité et coût Klaviyo réduit de moitié dans le cas montré. Repères de santé : ouverture ≥ 33 %, clic > 1,2 %, bounce < 3 %, plainte spam < 1 %. A/B testing : conditional split aléatoire dans les flows (~100 entrées avant de juger), test d'objet sur 10 % de la base pendant quelques heures puis envoi du gagnant aux 90 % restants ; tester une variable à la fois.
+
+### `vimeo-caption-250135404` — erreurs à éviter et structure AIDA
+
+`ASSIMILE_TEXTE`. Erreurs : ne pas envoyer de newsletters (sous ~500 contacts, l'effort peut attendre), spammer de promos, ne pas segmenter, cacher le lien de désinscription (illégal et contre-productif), emails non brandés. Bonnes pratiques : envoi en début de semaine le matin, DA cohérente avec la marque, structure AIDA — objet accroche, catchline visuelle avec CTA dans l'image, un email = un message = une destination de clic.
 
 ## Google, Merchant Center, mesure et publicité
 

@@ -105,6 +105,21 @@
     "method": "vtt_overlap_dedup_v1"
   },
   {
+    "source": "corpus/raw/vimeo/vimeo-caption-233282981.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-233282981.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-233283052.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-233283052.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-233700517.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-233700517.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
     "source": "corpus/raw/vimeo/vimeo-caption-234180398.vtt",
     "derived": "corpus/derived/plain-text/vimeo-caption-234180398.txt",
     "method": "vtt_overlap_dedup_v1"
@@ -120,8 +135,18 @@
     "method": "vtt_overlap_dedup_v1"
   },
   {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333489.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333489.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
     "source": "corpus/raw/vimeo/vimeo-caption-234333499.vtt",
     "derived": "corpus/derived/plain-text/vimeo-caption-234333499.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333510.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333510.txt",
     "method": "vtt_overlap_dedup_v1"
   },
   {
@@ -140,8 +165,28 @@
     "method": "vtt_overlap_dedup_v1"
   },
   {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333582.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333582.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
     "source": "corpus/raw/vimeo/vimeo-caption-234333583.vtt",
     "derived": "corpus/derived/plain-text/vimeo-caption-234333583.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333584.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333584.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333596.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333596.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-234333656.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-234333656.txt",
     "method": "vtt_overlap_dedup_v1"
   },
   {
@@ -205,6 +250,11 @@
     "method": "vtt_overlap_dedup_v1"
   },
   {
+    "source": "corpus/raw/vimeo/vimeo-caption-246203665.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-246203665.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
     "source": "corpus/raw/vimeo/vimeo-caption-246208721.vtt",
     "derived": "corpus/derived/plain-text/vimeo-caption-246208721.txt",
     "method": "vtt_overlap_dedup_v1"
@@ -230,8 +280,38 @@
     "method": "vtt_overlap_dedup_v1"
   },
   {
+    "source": "corpus/raw/vimeo/vimeo-caption-249495684.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249495684.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249495936.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249495936.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249496572.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249496572.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-249496725.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-249496725.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
     "source": "corpus/raw/vimeo/vimeo-caption-249915990.vtt",
     "derived": "corpus/derived/plain-text/vimeo-caption-249915990.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-250134849.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-250134849.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/vimeo/vimeo-caption-250135404.vtt",
+    "derived": "corpus/derived/plain-text/vimeo-caption-250135404.txt",
     "method": "vtt_overlap_dedup_v1"
   },
   {
@@ -257,6 +337,11 @@
   {
     "source": "corpus/raw/youtube/l-XUJ9NTN40.fr-orig.vtt",
     "derived": "corpus/derived/plain-text/l-XUJ9NTN40.txt",
+    "method": "vtt_overlap_dedup_v1"
+  },
+  {
+    "source": "corpus/raw/youtube/rj6Rx3zinOk.fr-orig.vtt",
+    "derived": "corpus/derived/plain-text/rj6Rx3zinOk.txt",
     "method": "vtt_overlap_dedup_v1"
   },
   {
