@@ -1,0 +1,188 @@
+x
+
+
+--- PAGE ---
+
+CHAPITRE 5
+Lancer tes campagnes Google Ads
+(la bonne config)
+
+
+--- PAGE ---
+
+ton compte est propre, ton Merchant validé
+on va lancer ta 1ère campagne sur Google
+de façon simple, stratégique et rentable
+©ATLANTID  - La méthode KRAKEN
+Introduction stratégique
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Dans ce chapitre, tu vas apprendre à lancer :
+Ta première campagne Google Shopping
+Une campagne Search Branding pour capter les gens
+qui tapent le nom de ta marque
+Et une campagne Retargeting dynamique
+
+
+--- PAGE ---
+
+Étape 1 : Créer ta campagne
+Google Shopping
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Objectif : Campagne de base → test produit,
+tester le pixel Google
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Type de campagne : Shopping  (pas Performance
+Max)
+Sélection du Merchant et flux produit
+Budget recommandé : 10 à 20 €/jour
+Ciblage : tous les produits ou uniquement ta collection
+best-sellers
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Bidding : maximiser les conversions
+Suivi des conversions activé
+Lien vers Analytics et Search Console
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Commence simple : un seul groupe de produits,
+un seul pays, un seul objectif
+
+
+--- PAGE ---
+
+Étape 2 : Créer ta campagne
+Search Branding
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Objectif : Protéger ta marque
+et capter les intentions fortes
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Type : campagne Search standard
+Mots-clés à cibler :
+“nom de ta marque”
+“nom du produit + avis”
+“nom du site”
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Annonces textuelles simples mais rassurantes
+(ex : livraison rapide, satisfait ou remboursé)
+Budget recommandé : 5 €/jour
+Astuce : exclure cette campagne du réseau
+Display
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+C’est une petite campagne peu coûteuse…
+mais qui verrouille tes visiteurs chauds
+
+
+--- PAGE ---
+
+Étape 3 : Créer ta campagne
+Retargeting (Display dynamique)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Objectif : Ramener les visiteurs non-convertis
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Type : Display dynamique / Retargeting
+via audience personnalisée
+Audience : “Tous les visiteurs des 30
+derniers jours”
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Points importants :
+Créa dynamique avec images produits (flux
+Merchant)
+Emplacements automatiques
+CPC optimisé / Max conversions
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+C’est une campagne complémentaire,
+qu’on lance après quelques jours de trafic
+
+
+--- PAGE ---
+
+Checklist avant
+validation finale
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Ton pixel est bien actif ?
+Ton site est bien relié à Merchant ?
+Tu as bien exclu les apps, vidéos et Display
+parasites de la Search ?
+Tu as mis des extensions d’annonces (liens site,
+extrait, callout) ?
+Tes campagnes sont bien séparées (pas tout dans
+une Pmax non-maîtrisée) ?
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Si tout est bon, tu peux lancer tes campagnes
+et commencer à collecter des données
+
+
+--- PAGE ---
+
+WHAT WE WILL
+TALK ABOUT
+Tu viens de lancer tes premières vraies campagnes
+Google
+L’aventure commence !
+Next : on va apprendre à lire tes résultats
+et à optimiser ta rentabilité comme un vrai pro
+©ATLANTID  - La méthode KRAKEN
+Conclusion

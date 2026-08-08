@@ -1,0 +1,11 @@
+TO DO LIST KRAKEN
+MODULE 6
+Installation du plugin SEO
+Vérifier sa structure SEO (Hn)
+Mettre en place Google Search Console
+Préparer une stratégie de contenu
+Lancer une campagne de netlinking
+Programmer ses premiers articles de blog
+Optimisation des produits
+Optimisation de la Campagne Charognard
+Calcul du ROAS BE 

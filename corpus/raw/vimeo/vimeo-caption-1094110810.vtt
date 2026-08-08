@@ -1,0 +1,873 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:02.120
+Alors l'objectif de cette vidé,
+
+2
+00:00:02.120 --> 00:00:04.000
+c'est de vous expliquer le fonctionnement de disserte.
+
+3
+00:00:04.140 --> 00:00:06.560
+Je vais l faire en trois parties une partie installation,
+
+4
+00:00:06.580 --> 00:00:08.640
+une partie présentation avec
+
+5
+00:00:09.260 --> 00:00:11.520
+les différents onglets et une partie règle de pluie.
+
+6
+00:00:12.260 --> 00:00:14.040
+Et je finirai par une partie
+
+7
+00:00:14.830 --> 00:00:17.480
+d'importation produit pour vous montrer comment comment
+
+8
+00:00:17.760 --> 00:00:19.400
+fonctionne l'importation produit deux à z
+
+9
+00:00:19.940 --> 00:00:21.560
+de disserte à Shopify.
+
+10
+00:00:22.560 --> 00:00:24.520
+Alors je commence par la première partie
+
+11
+00:00:24.700 --> 00:00:25.840
+qui est l'installation.
+
+12
+00:00:26.930 --> 00:00:29.760
+C'est très simple. Vous allez dans les applications ici,
+
+13
+00:00:30.740 --> 00:00:32.680
+je l'ai déjà installé, mais vous irez,
+
+14
+00:00:32.910 --> 00:00:35.680
+soit vous marquez disserte soit dans les recommander,
+
+15
+00:00:35.680 --> 00:00:37.320
+puisque c'est une des plus utilisées,
+
+16
+00:00:37.590 --> 00:00:39.320
+elle sera ici normalement.
+
+17
+00:00:39.710 --> 00:00:43.320
+Donc vous avez juste à appuyer sur ajouter ensuite aller
+
+18
+00:00:43.320 --> 00:00:46.440
+dans les applications et cliquer ici,
+
+19
+00:00:46.460 --> 00:00:48.280
+ce qui vous ouvre cet ongle là
+
+20
+00:00:49.620 --> 00:00:53.880
+qui vous demandera de créer un compte et de lier le Shopify.
+
+21
+00:00:53.880 --> 00:00:54.760
+Mais c'est très, très simple.
+
+22
+00:00:54.760 --> 00:00:55.920
+Je ne vais pas vous montrer comment faire.
+
+23
+00:00:55.930 --> 00:00:58.160
+C'est, il faut entrer son email et mettre
+
+24
+00:00:58.930 --> 00:01:00.960
+finalement le URL du Shopify.
+
+25
+00:01:01.450 --> 00:01:03.120
+C'est linker. Il faut,
+
+26
+00:01:03.260 --> 00:01:06.240
+il vous faut ajouter l'extension chrome, aller
+
+27
+00:01:07.100 --> 00:01:09.040
+disert du coup que vous pouvez retrouver
+
+28
+00:01:09.780 --> 00:01:11.400
+en marquant diserte comme extension,
+
+29
+00:01:11.670 --> 00:01:13.560
+vous cliquez dessus et vous l'installer,
+
+30
+00:01:13.580 --> 00:01:18.400
+ce qui vous permet de d'avoir ici et d'avoir un bouton
+
+31
+00:01:19.160 --> 00:01:22.720
+a ajouté à diserte le produit à l'express.
+
+32
+00:01:23.120 --> 00:01:24.320
+Alors il y a deux façons. Je vais
+
+33
+00:01:24.320 --> 00:01:25.360
+vous montrer la présentation.
+
+34
+00:01:25.360 --> 00:01:27.920
+Il y a deux façons d'apporter des produits, c'est
+
+35
+00:01:29.470 --> 00:01:30.840
+soit de passer par diserte.
+
+36
+00:01:30.840 --> 00:01:33.080
+Je crois qu'ils ont une section quelque part pour trouver
+
+37
+00:01:33.660 --> 00:01:35.760
+des pour trouver finalement les produits.
+
+38
+00:01:35.760 --> 00:01:37.400
+Mais ça vous devoir.
+
+39
+00:01:37.700 --> 00:01:40.760
+Je passe plutôt pour l' express directement puisque
+
+40
+00:01:41.620 --> 00:01:44.520
+au moins, on est sûr d'avoir une vraie sélection de produits
+
+41
+00:01:45.100 --> 00:01:48.880
+et on n'a pas de problème sur des produits potentiellement
+
+42
+00:01:48.880 --> 00:01:50.840
+qu'on retrouverait pas ici et qu'on serait limité,
+
+43
+00:01:51.420 --> 00:01:52.800
+ce qui était le cas sur Oberlo.
+
+44
+00:01:52.940 --> 00:01:55.520
+Du coup, j'ai jamais procédé comme ça sur disserte.
+
+45
+00:01:56.430 --> 00:01:59.760
+Vous avez une option, faire un tableau,
+
+46
+00:02:00.860 --> 00:02:03.960
+un onglet qui s'appelle import liste, qui est finalement
+
+47
+00:02:05.540 --> 00:02:08.440
+la liste des produits importés depuis express mais qui ne
+
+48
+00:02:08.440 --> 00:02:11.240
+sont pas sur sur Shopify encore.
+
+49
+00:02:11.430 --> 00:02:14.080
+Donc là, j'avais celui là en test puisque
+
+50
+00:02:15.620 --> 00:02:18.200
+je l'ai importé, mais je vais le supprimer pour recommencer
+
+51
+00:02:18.510 --> 00:02:20.200
+dès le départ, je vais le réimporter.
+
+52
+00:02:20.910 --> 00:02:23.240
+Donc ici, vous retrouvez tous les produits importés.
+
+53
+00:02:23.540 --> 00:02:26.360
+Il y a une deuxième section qui vous permet
+
+54
+00:02:26.980 --> 00:02:31.080
+de voir la liste des produits qui sont actuellement sur l
+
+55
+00:02:31.080 --> 00:02:34.800
+express que vous avez envoyé sur Shopify là.
+
+56
+00:02:34.800 --> 00:02:37.240
+Pour l'instant, il n'y a rien, mais on y retournera après
+
+57
+00:02:37.240 --> 00:02:39.000
+vous sur le produit et vous aime,
+
+58
+00:02:39.000 --> 00:02:40.360
+avez une section odeur qui sera
+
+59
+00:02:41.220 --> 00:02:43.880
+qui sera dans la deuxième vidéo sur desserte pour
+
+60
+00:02:43.880 --> 00:02:44.960
+passer les commandes.
+
+61
+00:02:45.460 --> 00:02:50.120
+Et le plus important, je dirais, c'est dans les paramètres,
+
+62
+00:02:51.500 --> 00:02:53.600
+il y a deux, deux paramètres à toucher, je pense.
+
+63
+00:02:53.920 --> 00:02:55.960
+Alors vous pouvez faire un tour, mais pas
+
+64
+00:02:56.720 --> 00:02:58.760
+beaucoup de choses à voir. Vous avez
+
+65
+00:02:58.760 --> 00:02:59.840
+La section shipping.
+
+66
+00:03:00.510 --> 00:03:03.640
+Vous pouvez choisir en fonction des pays,
+
+67
+00:03:05.460 --> 00:03:08.080
+le système de shipping que vous souhaitez privilégier,
+
+68
+00:03:08.300 --> 00:03:10.000
+ce qui fera quand on ira dans les commandes,
+
+69
+00:03:10.000 --> 00:03:12.760
+il choisira toujours ce que vous avez privilégié.
+
+70
+00:03:12.760 --> 00:03:15.040
+Donc, si elle est express standard, shipping n'existe pas.
+
+71
+00:03:15.040 --> 00:03:17.480
+Pouvez en choisir un deuxième, par exemple paquette ou je ne
+
+72
+00:03:17.480 --> 00:03:19.920
+sais pas ce qu'il y aurait, mais j'utilise
+
+73
+00:03:20.600 --> 00:03:23.480
+majorité cela à 90 % pour les commander d'express.
+
+74
+00:03:23.780 --> 00:03:26.440
+Et vous avez une deuxième option, qui est la règle des prix
+
+75
+00:03:27.900 --> 00:03:32.440
+que je vais vous expliquer un petit peu dans les standards.
+
+76
+00:03:32.750 --> 00:03:34.320
+Donc vous cochez la deuxième ou alors
+
+77
+00:03:35.070 --> 00:03:38.480
+vous choisissez celle que vous souhaitez et vous passez par,
+
+78
+00:03:40.740 --> 00:03:43.480
+je vous conseille de regarder les règles de prix.
+
+79
+00:03:43.480 --> 00:03:46.200
+Je crois que dans la formation, il y a un tableau de prix
+
+80
+00:03:47.830 --> 00:03:49.440
+pour les pour les multiplicateurs.
+
+81
+00:03:49.440 --> 00:03:54.040
+Finalement. Donc là, si je faire autant de run qu'on veut,
+
+82
+00:03:54.460 --> 00:03:57.880
+si j'ai un produit qui est inclus entre zéro et cinq,
+
+83
+00:03:58.540 --> 00:04:02.560
+je peux lui ajouter tant ou le multiplier par
+
+84
+00:04:03.340 --> 00:04:04.480
+un médecin, par exemple,
+
+85
+00:04:05.500 --> 00:04:07.920
+ce qui fait que si votre produit coûte trois,
+
+86
+00:04:08.980 --> 00:04:11.880
+il sera multiplié par cinq en prix de vente.
+
+87
+00:04:12.060 --> 00:04:14.920
+Et finalement, il faut faire ça un petit peu partout.
+
+88
+00:04:15.110 --> 00:04:17.440
+Donc là, il faudra que je fasse zéro point à,
+
+89
+00:04:18.060 --> 00:04:19.840
+je peux faire 10 peux faire sept, je peux,
+
+90
+00:04:19.860 --> 00:04:22.280
+je peux vraiment que je vais faire sept par exemple,
+
+91
+00:04:22.620 --> 00:04:24.920
+et là je peux aller jusqu'à 10 et après je peux aller
+
+92
+00:04:24.920 --> 00:04:26.840
+jusqu'à 15 et après 20, etc.
+
+93
+00:04:27.260 --> 00:04:29.840
+Ça vous devoir un petit peu en fonction des produits,
+
+94
+00:04:30.360 --> 00:04:32.520
+fonction des produits, ça, ça change puisque
+
+95
+00:04:34.060 --> 00:04:36.880
+les marges ne sont pas les mêmes pour des brassées ou pour,
+
+96
+00:04:37.380 --> 00:04:39.640
+je ne sais pas, un tableau par exemple.
+
+97
+00:04:41.020 --> 00:04:43.320
+Et à chaque fois vous mettez un multiplicateur ou vous
+
+98
+00:04:43.320 --> 00:04:45.160
+modifier en fonction de
+
+99
+00:04:45.160 --> 00:04:46.200
+la ratee des prix que vous souhaitez.
+
+100
+00:04:46.310 --> 00:04:49.960
+Vous pouvez aussi ajouter une option d'assigner en fin
+
+101
+00:04:50.860 --> 00:04:53.280
+de calcul, un des centimes.
+
+102
+00:04:53.470 --> 00:04:55.440
+Donc là, si mon produit vaut trois euro,
+
+103
+00:04:55.580 --> 00:04:59.400
+je multiplie par cinq, ce qui fera trois fois cinq, 15.
+
+104
+00:04:59.780 --> 00:05:04.600
+Et je lui ajoute quatrevingt 10 centimes ou 95 ou 99 c.
+
+105
+00:05:04.600 --> 00:05:06.800
+Vous voir comme vous voulez faire, je sa
+
+106
+00:05:08.320 --> 00:05:10.040
+l'option est pareil pour le shipping,
+
+107
+00:05:10.040 --> 00:05:11.200
+mais je l'avais déjà enregistré.
+
+108
+00:05:11.780 --> 00:05:14.560
+Et je peux vous montrer la
+
+109
+00:05:15.080 --> 00:05:17.000
+dernière partie qui est l'importation produit.
+
+110
+00:05:17.630 --> 00:05:20.880
+Donc j'ai choisi un produit un peu au hasard sur express.
+
+111
+00:05:21.020 --> 00:05:24.640
+Je vais actualiser parce que je l'ai retiré de disserte
+
+112
+00:05:24.640 --> 00:05:27.080
+entre temps, j'ai un bouton qui permet
+
+113
+00:05:27.780 --> 00:05:31.800
+de l'importer dans l'importe l de diserte qu'on attend que
+
+114
+00:05:32.420 --> 00:05:35.960
+qui s'importe et normalement on va le retrouver
+
+115
+00:05:36.190 --> 00:05:37.280
+dans l'importe liste.
+
+116
+00:05:38.060 --> 00:05:40.920
+Voilà donc si je vais dans l'importe,
+
+117
+00:05:41.310 --> 00:05:43.000
+j'en retrouve le produit que tout à l'heure,
+
+118
+00:05:43.000 --> 00:05:47.440
+j'ai supprimé en test et j'ai, j'ai plusieurs options.
+
+119
+00:05:48.480 --> 00:05:50.360
+Alors vous voyez qu'il est bien dans n'importe l et pas
+
+120
+00:05:50.360 --> 00:05:53.640
+encore dans mes produits puisqu'il n'est pas sur Shopify.
+
+121
+00:05:54.100 --> 00:05:56.840
+On a ce bouton qui nous permet de l'envoyer sur
+
+122
+00:05:56.880 --> 00:05:57.880
+Shopify. Pour l'instant, on
+
+123
+00:05:57.880 --> 00:05:58.960
+ne va pas le faire puisqu'on va
+
+124
+00:05:59.100 --> 00:06:01.800
+passer à l'éditer.
+
+125
+00:06:02.150 --> 00:06:03.440
+Donc je sur éditer.
+
+126
+00:06:04.550 --> 00:06:08.400
+J'ai mon premier choix, c'est de mettre un titre.
+
+127
+00:06:08.590 --> 00:06:11.160
+Donc le titre, c'est finalement votre mot clé sur lequel
+
+128
+00:06:11.160 --> 00:06:14.480
+vous souhaitez positionner votre produit.
+
+129
+00:06:14.670 --> 00:06:18.000
+Donc je trop logique.
+
+130
+00:06:18.950 --> 00:06:22.120
+Vous pouvez choisir de mettre les collections ici,
+
+131
+00:06:22.220 --> 00:06:23.680
+des tags, etc.
+
+132
+00:06:23.940 --> 00:06:25.360
+Moi, je le fais pas ici. C'est pour ça que
+
+133
+00:06:25.360 --> 00:06:26.400
+je fais une deuxième vidéo.
+
+134
+00:06:26.940 --> 00:06:29.800
+Je fais toute cette partie dans Shopify directement.
+
+135
+00:06:29.800 --> 00:06:31.760
+Donc je ne la touche pas. C'est mon moyen.
+
+136
+00:06:32.770 --> 00:06:33.880
+C'est moi qui travaille comme ça.
+
+137
+00:06:33.880 --> 00:06:35.880
+Vous pouvez choisir de le faire directement ici.
+
+138
+00:06:35.880 --> 00:06:37.840
+Ça vous doit pour les variantes.
+
+139
+00:06:37.840 --> 00:06:42.320
+Dans le deuxième ongle, vous retrouvez tous les onglets,
+
+140
+00:06:42.510 --> 00:06:44.120
+tous les toutes les variantes possibles
+
+141
+00:06:44.220 --> 00:06:45.240
+du produit que j'ai import.
+
+142
+00:06:45.630 --> 00:06:48.760
+Donc moi, finalement, c'est juste des signes qui diff
+
+143
+00:06:49.300 --> 00:06:50.760
+et une taille qui ne diff pas,
+
+144
+00:06:50.760 --> 00:06:52.160
+puisque c'est que du 20 centimètre,
+
+145
+00:06:52.500 --> 00:06:54.240
+je ne peux pas la supprimer ici, par exemple,
+
+146
+00:06:54.240 --> 00:06:57.480
+parce que ça serait inutile de mettre une variante de 20 cm
+
+147
+00:06:57.590 --> 00:06:59.400
+puisqu'il n'y a que elle de disponible,
+
+148
+00:07:00.430 --> 00:07:01.560
+mais on peut le faire dans shop.
+
+149
+00:07:01.770 --> 00:07:03.960
+C'est pour ça que je fais aussi cette partie dans
+
+150
+00:07:03.960 --> 00:07:05.400
+shop métal.
+
+151
+00:07:05.400 --> 00:07:07.200
+Je pourrais mettre si, par exemple ici,
+
+152
+00:07:08.980 --> 00:07:10.520
+je pourrais faire tout ici, en fait
+
+153
+00:07:12.000 --> 00:07:13.680
+modifier le nom des variantes.
+
+154
+00:07:13.680 --> 00:07:15.080
+Vous pouvez le faire ici, mais encore une fois,
+
+155
+00:07:15.080 --> 00:07:17.920
+je le fais dans donc je ne vais pas passer plus de temps.
+
+156
+00:07:18.140 --> 00:07:19.640
+Niveau prix. On a fait une règle de prix.
+
+157
+00:07:19.640 --> 00:07:21.000
+Donc on ne touche pas les prix puisque
+
+158
+00:07:22.340 --> 00:07:23.720
+ce sont les prix d'Ali express.
+
+159
+00:07:23.780 --> 00:07:26.000
+Et ils vont être multipliés par notre règle de prix qu'on a
+
+160
+00:07:26.000 --> 00:07:27.280
+vu avant description.
+
+161
+00:07:27.940 --> 00:07:30.560
+Je, vous pouvez aussi faire ici,
+
+162
+00:07:30.560 --> 00:07:34.400
+mais je conseil de le faire sur sur Shopify.
+
+163
+00:07:34.400 --> 00:07:37.200
+C'est bien plus simple. Je garde juste des informations un
+
+164
+00:07:37.200 --> 00:07:40.360
+peu essentielles comme le fait qu'il soit ajustable pour
+
+165
+00:07:40.360 --> 00:07:42.520
+après moi, m'aider à faire la description ou
+
+166
+00:07:42.520 --> 00:07:43.720
+la taille des perles.
+
+167
+00:07:43.820 --> 00:07:46.320
+Par exemple, niveau image, vous pouvez
+
+168
+00:07:47.380 --> 00:07:49.080
+cocher celle que vous souhaitez importer.
+
+169
+00:07:49.080 --> 00:07:52.200
+Donc si je veux, si je ne veux pas cette variante,
+
+170
+00:07:52.200 --> 00:07:53.720
+je décoche ou je supprime.
+
+171
+00:07:54.580 --> 00:07:57.640
+Et si je veux sais pas cette photo en plus,
+
+172
+00:07:57.640 --> 00:07:59.680
+je peux la cocher et l sera.
+
+173
+00:08:00.510 --> 00:08:02.120
+Donc vous choisissez vos images.
+
+174
+00:08:02.120 --> 00:08:04.840
+Chip info, on touche pas puisqu'on est une règle automatique
+
+175
+00:08:05.030 --> 00:08:07.000
+dans le compte qui fait que
+
+176
+00:08:07.550 --> 00:08:08.680
+mais vous voyez que vous pouvez le
+
+177
+00:08:08.680 --> 00:08:10.120
+toucher pour chaque produit.
+
+178
+00:08:10.120 --> 00:08:13.200
+Finalement, je fais une règle générale, c'est plus facile.
+
+179
+00:08:13.950 --> 00:08:18.160
+Donc je sais le produit et je l'envoie.
+
+180
+00:08:18.820 --> 00:08:22.840
+Il me demande sur quel store je veux le mettre puisqu'on
+
+181
+00:08:22.840 --> 00:08:26.440
+peut lier plusieurs comptes à un même disserte, ça peut être
+
+182
+00:08:27.450 --> 00:08:31.040
+assez bien pour gérer plusieurs sites finalement en même
+
+183
+00:08:31.040 --> 00:08:33.040
+temps et passer les commandes au même endroit,
+
+184
+00:08:34.060 --> 00:08:36.240
+il coche de base de la règle des prix.
+
+185
+00:08:36.240 --> 00:08:37.640
+Donc je valide,
+
+186
+00:08:37.640 --> 00:08:40.240
+puisque je veux bien qu'il l'utilise la règle des prix,
+
+187
+00:08:41.060 --> 00:08:44.080
+je veux que ils continuent à se vendre,
+
+188
+00:08:44.080 --> 00:08:46.160
+même s'il est champion de stock parce que je peux
+
+189
+00:08:46.160 --> 00:08:48.200
+potentiellement retrouver un autre fournisseur.
+
+190
+00:08:48.200 --> 00:08:50.440
+Et je n'ai pas envie de perdre une vente
+
+191
+00:08:50.950 --> 00:08:53.680
+sachant que je pourrais retrouver un autre fournisseur et
+
+192
+00:08:53.740 --> 00:08:54.840
+je peux ou pas choisir
+
+193
+00:08:54.840 --> 00:08:56.280
+De le mettre en live en draft.
+
+194
+00:08:56.680 --> 00:08:58.200
+Alors si vous cochez pas, il se met en draft.
+
+195
+00:08:58.230 --> 00:08:59.840
+Donc il sera pas actif sur le site.
+
+196
+00:08:59.980 --> 00:09:01.120
+Si vous avez un site qui tourne,
+
+197
+00:09:01.180 --> 00:09:02.480
+ça peut être une bonne option pour
+
+198
+00:09:03.060 --> 00:09:04.640
+ou pas qu'il soit actif avec des
+
+199
+00:09:05.540 --> 00:09:07.200
+des variantes pas à jour ou pas de description.
+
+200
+00:09:07.710 --> 00:09:10.040
+Mais pour l'exemple, je vais le mettre en live comme
+
+201
+00:09:10.100 --> 00:09:11.600
+ça, c'est bon.
+
+202
+00:09:12.670 --> 00:09:16.320
+J'attends juste qui importe. Ça dure pas très longtemps.
+
+203
+00:09:18.020 --> 00:09:22.400
+Et finalement, on voit qu'il est indiqué envoyé
+
+204
+00:09:23.260 --> 00:09:25.560
+sur Shopify sur un store et
+
+205
+00:09:26.980 --> 00:09:29.480
+on le retrouve évidemment dans les produits du coup du
+
+206
+00:09:29.480 --> 00:09:32.520
+store, on peut dans la porte l pour pas vous mélanger
+
+207
+00:09:32.520 --> 00:09:35.080
+ensuite ça, c'est juste un filtre, ne pas
+
+208
+00:09:35.710 --> 00:09:37.080
+montrer les produits qui sont
+
+209
+00:09:37.980 --> 00:09:40.000
+ne montrer que les produits qui ne sont pas envoyés sur
+
+210
+00:09:40.000 --> 00:09:42.360
+Shopify, ce qui fait que vous ne perdez pas avec les
+
+211
+00:09:42.360 --> 00:09:44.080
+produits qui sont déjà dessus et qui n'y sont
+
+212
+00:09:44.080 --> 00:09:45.120
+pas et que vous voulez travailler.
+
+213
+00:09:46.900 --> 00:09:50.080
+Je passe du coup rapidement sur Shopify,
+
+214
+00:09:50.110 --> 00:09:51.960
+mais ce sera une deuxième partie.
+
+215
+00:09:52.660 --> 00:09:56.740
+Ou je vous montre, je vais vous montrer les
+
+216
+00:09:59.480 --> 00:10:03.140
+le produit bien ici et dans la vidéo suivante,
+
+217
+00:10:03.280 --> 00:10:06.060
+je vous explique finalement la partie deux et la partie
+
+218
+00:10:06.060 --> 00:10:09.140
+finale de l'importation produit sur Shopify.

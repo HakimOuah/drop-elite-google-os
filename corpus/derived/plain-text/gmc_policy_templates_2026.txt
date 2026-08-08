@@ -1,15 +1,12 @@
-
-===== PAGE 1 =====
-
 GMC Policy Templates
- Complete Google Merchant Center Compliance Templates
- 2026 Edition
- By Terry Ecom
- Founder of GMC HELP and GMC Scout
+Complete Google Merchant Center Compliance Templates
+2026 Edition
+By Terry Ecom
+Founder of GMC HELP and GMC Scout
 Ready-to-use policy templates for Google Merchant Center approval
 
 
-===== PAGE 2 =====
+--- PAGE ---
 
 About These Templates
 These policy templates are designed specifically for Google Merchant Center compliance. They are
@@ -20,7 +17,7 @@ Each template includes placeholders (shown in [brackets]) that you must replace 
 information. Ensure all details match exactly across your Shopify store, GMC, and footer.
 
 
-===== PAGE 3 =====
+--- PAGE ---
 
 Refund & Return Policy Template
 At [Your Store Name], we want you to love your purchase. If, for any reason, you're not satisfied, we
@@ -55,7 +52,7 @@ for the refund to appear on your original payment method, depending on your bank
 provider.
 
 
-===== PAGE 4 =====
+--- PAGE ---
 
 Exchanges
 If you would like to exchange your item for a different size, color, or product, contact us at [Support
@@ -74,7 +71,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 5 =====
+--- PAGE ---
 
 Shipping Policy Template
 At [Your Store Name], we are committed to providing an exceptional shopping experience for our
@@ -108,7 +105,7 @@ You can monitor your package's journey on our [Order Tracking Page URL].
 Questions?
 
 
-===== PAGE 6 =====
+--- PAGE ---
 
 Visit our FAQs page at [FAQ Page URL] or contact our customer service team.
 Contact Information
@@ -120,7 +117,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 7 =====
+--- PAGE ---
 
 Privacy Policy Template
 Last updated: [Month Day, Year]
@@ -153,7 +150,7 @@ How We Use Your Personal Information
 - To send account, order, or policy-related communications.
 
 
-===== PAGE 8 =====
+--- PAGE ---
 
 - To provide customer service and support.
 - For marketing and advertising purposes (where permitted by law).
@@ -186,7 +183,7 @@ Depending on your location, you may have rights to:
 - Request data portability.
 
 
-===== PAGE 9 =====
+--- PAGE ---
 
 - Restrict or object to processing.
 - Withdraw consent.
@@ -205,7 +202,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 10 =====
+--- PAGE ---
 
 Terms of Service Template
 This Terms of Service document outlines the conditions under which [Your Store Name] provides
@@ -242,7 +239,7 @@ Certain products or services may be available exclusively online. These products
 quantities and are subject to return or exchange only according to our Return Policy.
 
 
-===== PAGE 11 =====
+--- PAGE ---
 
 6. Accuracy of Billing and Account Information
 We reserve the right to refuse or cancel any order. You agree to provide accurate and up-to-date
@@ -275,7 +272,7 @@ If any provision of these Terms is deemed unlawful or unenforceable, the remaini
 remain valid and enforceable.
 
 
-===== PAGE 12 =====
+--- PAGE ---
 
 16. Termination
 These Terms remain effective unless terminated by either party. We may terminate access immediately
@@ -297,7 +294,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 13 =====
+--- PAGE ---
 
 Billing Terms & Conditions Template
 This Billing Terms and Conditions document outlines the payment and billing practices for [Your Store
@@ -329,7 +326,7 @@ are secure.
 - Unauthorized chargebacks will be disputed.
 
 
-===== PAGE 14 =====
+--- PAGE ---
 
 - If you experience any issues, please contact us first at [Support Email].
 6. Fraud Prevention
@@ -345,7 +342,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 15 =====
+--- PAGE ---
 
 FAQ Template
 Welcome to the [Your Store Name] Frequently Asked Questions (FAQ) page.
@@ -378,7 +375,7 @@ typically appear on your original payment method within 7 business days. See our
 for details.
 
 
-===== PAGE 16 =====
+--- PAGE ---
 
 Question #8: Do you offer any warranties or guarantees on your products?
 Answer: Yes, we provide a 30-day warranty on all purchases. For more information, please refer to our
@@ -405,7 +402,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 17 =====
+--- PAGE ---
 
 About GMC HELP
 GMC HELP is the leading free Google Merchant Center support community, providing weekly approval
@@ -416,4 +413,4 @@ GMC Scout is the AI-powered compliance scanner built specifically for Shopify an
 Center stores. Scan your store before submitting to Google to spot inconsistencies, broken trust
 signals, and risky metadata.
 Learn more: https://gmcscout.com
- Created by Terry Ecom - Founder of GMC HELP and GMC Scout
+Created by Terry Ecom - Founder of GMC HELP and GMC Scout

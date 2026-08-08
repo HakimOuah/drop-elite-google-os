@@ -1,0 +1,225 @@
+WEBVTT
+
+1
+00:00:00.070 --> 00:00:00.720
+Bonjour à tous.
+
+2
+00:00:00.720 --> 00:00:03.120
+J'espère que vous allez bien dans ce module.
+
+3
+00:00:03.120 --> 00:00:04.600
+Dans cette vidé, on va parler du coût
+
+4
+00:00:04.600 --> 00:00:05.720
+de notre stratégie de scaling.
+
+5
+00:00:05.720 --> 00:00:08.440
+Donc, comment est ce que l'on compte atteindre le million
+
+6
+00:00:08.440 --> 00:00:11.800
+d'euros de vente par mois et tous les tests qu'on a réalisés
+
+7
+00:00:11.800 --> 00:00:13.040
+justement de scaling,
+
+8
+00:00:13.040 --> 00:00:14.360
+vous allez avoir les tests qui fonctionnent,
+
+9
+00:00:14.360 --> 00:00:16.120
+des tests qui ne fonctionnent pas dans
+
+10
+00:00:16.120 --> 00:00:17.160
+cette stratégie de scaling.
+
+11
+00:00:17.160 --> 00:00:18.880
+Vous allez avoir, mais évidemment sur les méthodes qui
+
+12
+00:00:19.080 --> 00:00:20.720
+fonctionnent, est ce que l'on a mis en place et ce qui
+
+13
+00:00:20.720 --> 00:00:21.800
+marque pour nous au quotidien.
+
+14
+00:00:21.950 --> 00:00:23.680
+Mais vous allez voir également les testing.
+
+15
+00:00:23.980 --> 00:00:25.880
+Et bien évidemment, ce n'est pas une vérité,
+
+16
+00:00:25.880 --> 00:00:27.040
+ce n'est pas une finalité.
+
+17
+00:00:27.260 --> 00:00:29.760
+Il y a plein d'autres stratégies de scale et de
+
+18
+00:00:29.880 --> 00:00:30.920
+développer votre business.
+
+19
+00:00:31.060 --> 00:00:34.320
+Et ce module vidéo n'est qu'à retour d'expérience.
+
+20
+00:00:34.320 --> 00:00:36.800
+Dans tous les cas, toute cette formation n'est qu'à retour
+
+21
+00:00:36.800 --> 00:00:38.600
+d'expérience et non pas une vérité unique.
+
+22
+00:00:38.640 --> 00:00:40.880
+C'était important pour nous de le préciser.
+
+23
+00:00:40.880 --> 00:00:42.240
+On n'a pas la science infuse,
+
+24
+00:00:42.240 --> 00:00:45.360
+on n'a pas construit une société de 200 employés et on n'est
+
+25
+00:00:45.360 --> 00:00:48.320
+pas coté au quatre 40, on est en train de se développer.
+
+26
+00:00:48.320 --> 00:00:51.240
+On a eu des résultats vraiment sexy et on
+
+27
+00:00:51.240 --> 00:00:52.280
+arrive à ce qu'il est.
+
+28
+00:00:52.280 --> 00:00:55.000
+Et je pense que c'est une certitude qu'on fera 6 000 000
+
+29
+00:00:55.000 --> 00:00:56.400
+d'euros de vente cette année.
+
+30
+00:00:57.030 --> 00:00:58.920
+Mais on a encore pas de choses à apprendre.
+
+31
+00:00:58.920 --> 00:01:01.160
+On continue à évoluer et je voulais vraiment que vous
+
+32
+00:01:01.310 --> 00:01:04.080
+l'intégrer dans ce module 12, ce qui est vraiment du quoi,
+
+33
+00:01:04.080 --> 00:01:06.920
+un module plus expérimental sur lequel on
+
+34
+00:01:07.000 --> 00:01:08.160
+s'est planté, sur lequel vous allez voir.
+
+35
+00:01:08.160 --> 00:01:10.600
+On a perdu de l'argent, mais sur lequel il y a des grosses,
+
+36
+00:01:10.600 --> 00:01:13.040
+grosses grosse pépites et des stratégies et des envies,
+
+37
+00:01:13.040 --> 00:01:16.080
+surtout qu'on a développé des idées qu'on a démarré qui
+
+38
+00:01:16.080 --> 00:01:18.000
+peuvent certainement marcher très, très fort.
+
+39
+00:01:18.000 --> 00:01:20.000
+D'ailleurs, c'est l'objectif aussi de ce groupe,
+
+40
+00:01:20.000 --> 00:01:21.880
+parce que c'est une communauté que l'on construit
+
+41
+00:01:22.250 --> 00:01:23.360
+avant une formation.
+
+42
+00:01:23.460 --> 00:01:25.960
+Il y a des choses que vous allez tester à des choses que
+
+43
+00:01:25.960 --> 00:01:28.320
+vous allez mettre en place qui vont nous aider à améliorer
+
+44
+00:01:28.500 --> 00:01:31.560
+la méthode et ont impatient justement de les découvrir.
+
+45
+00:01:31.700 --> 00:01:33.680
+Par exemple, il y a des gens qui vont la tester sur Shopify
+
+46
+00:01:33.900 --> 00:01:35.160
+pay, de savoir ce que ça va marcher.
+
+47
+00:01:35.160 --> 00:01:37.920
+On a des gens comme Guillaume qui vont plus faire du search
+
+48
+00:01:38.020 --> 00:01:41.440
+que du shopping parce qu'ils vont augmenter les marges avec
+
+49
+00:01:41.440 --> 00:01:42.720
+lesquelles ils vont vendre leurs produits,
+
+50
+00:01:42.720 --> 00:01:44.200
+suis impatiente, voir ce qui va se passer.
+
+51
+00:01:44.260 --> 00:01:46.160
+Et vous aussi, je suis impress de voir ce que vous allez
+
+52
+00:01:46.250 --> 00:01:48.480
+faire et comment est ce que vous allez exploiter tout ça.
+
+53
+00:01:48.660 --> 00:01:51.400
+Et ça va justement être l'occasion de pouvoir échanger bien
+
+54
+00:01:51.400 --> 00:01:53.360
+sur les différentes stratégies de ce sky ligne,
+
+55
+00:01:53.360 --> 00:01:55.560
+mais dans tous les cas, aura l'occasion de se retrouver et
+
+56
+00:01:55.560 --> 00:01:56.200
+d'en parler par la suite.

@@ -1,0 +1,62 @@
+BRIEF CRÉATION DE 
+MAQUETTE GRAPHIQUE
+
+
+--- PAGE ---
+
+Bonjour PRENOM,
+Je suis X de l’entreprise X. Je souhaite réaliser une maquette graphique moderne de
+page d’accueil + fiche produit pour un site e-commerce qui vend des X.
+Voici les briefs nécessaires pour la réalisation de cette prestation.
+PAGE D’ACCUEIL :
+·
+Respecter la disposition du header (seule contrainte graphique).
+Voici le header (les couleurs / typos / icônes sont challengables) :
+·
+Faire 5-6 parties.
+·
+Avoir du texte sur le Hero pour du référencement naturel.
+·
+Parties obligatoires : Témoignages clients et Partie "A propos de la
+boutique".
+·
+Mettre du lorem ipsum.
+·
+Mettre un accordéon en bas de page pour mettre du texte de référencement
+naturel.
+
+
+--- PAGE ---
+
+FICHE PRODUIT :
+·
+Respecter la disposition du thème graphique pour la partie (les couleurs /
+typos/ icônes sont challengables).
+·
+Faire 3-4 parties en dessous de ce bloc.
+·
+Parties obligatoires : Bloc de texte produit + Témoignages clients + Partie "A
+propos de la boutique".
+
+
+--- PAGE ---
+
+Caractéristiques techniques :
+·
+Containeur max 1240px.
+·
+Photos 144dpi min via banque d'image pas de compression sur la maquette
+cela sera fait en intégration.
+·
+Max 2 typos (pour éviter temps de chargement 2 variations par typos ou 4 si
+une seule typo), possibilité adobe font ou google font.
+·
+Livrable en adobe XD.
+Demande complémentaire : Préparer un font book avec les différentes tailles
+pour les Hn
+Exemple de sites :
+·
+Insérer des exemples de site
+Quel serait le tarif / délai pour réaliser cette prestation ?
+Merci et bonne journée,
+PRÉNOM.

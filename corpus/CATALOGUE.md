@@ -1,27 +1,234 @@
 # Catalogue du corpus
 
-Généré le 2026-08-08T11:19:07+00:00.
+Généré le 2026-08-08T13:17:19+00:00.
 
 ## Couverture brute
 
-- 65 fichiers de sous-titres, dernier timecode cumulé 14:40:22, 144,069 mots dérivés ;
-- 4 PDF, 79 pages détectées ;
+- 228 fichiers de sous-titres, dernier timecode cumulé 77:57:46, 807,524 mots dérivés ;
+- 78 PDF, 79 pages détectées ;
 - 1 source média canonique ;
-- 74 fichiers bruts au total.
+- 345 fichiers bruts au total.
 
 ## Statut
 
-Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture sémantique ne corrige leur texte brut. Les 65 VTT et la transcription pilote ont toutefois été relus intégralement au niveau texte le 2026-08-08 et sont indexés dans `derived/coach-source-index.md`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Les limites et modules manquants sont consignés dans `docs/corpus-gap-audit.md`.
+Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture sémantique ne corrige leur texte brut. Les 228 VTT et la transcription pilote ont toutefois été relus intégralement au niveau texte le 2026-08-08 et sont indexés dans `derived/coach-source-index.md`. Les identifiants Vimeo ne fournissent pas à eux seuls un titre observé. Les limites et modules manquants sont consignés dans `docs/corpus-gap-audit.md`.
 
 ## Sources brutes
 
 | Source ID | Type | Durée/pages | Mots | SHA-256 court |
 |---|---|---:|---:|---|
-| `Fast-Track GMC Approval Framework - 2026 Edition (2)` | document_pdf | 35 | 4654 | `8e13f6a1bfc2` |
-| `Google_Ads_Scaling_Framework 2026 Edition (5)` | document_pdf | 14 | 884 | `8035db122073` |
-| `gmc_checklist_terry_ecom_2026` | document_pdf | 13 | 1210 | `ed2c3098c09e` |
-| `gmc_policy_templates_2026` | document_pdf | 17 | 3268 | `dd8a4475deba` |
+| `00-Module_5_Google_Ads-Introduction` | document_pdf | — | 381 | `e1a4ca9f19d0` |
+| `01-Module_5_Google_Ads-Les_bases` | document_pdf | — | 606 | `3137e5517f05` |
+| `05-Module_5_Google_Ads-Premiere_Campagne` | document_pdf | — | 557 | `7ac50eb8e46b` |
+| `06_Module_5_Google_Ads-Comprendre_AnalyserKPIs` | document_pdf | — | 502 | `6e0389b6bd74` |
+| `2.1-Module_5_Google_Ads-Prerequis_techniques` | document_pdf | — | 691 | `46a650720e39` |
+| `2.2-Module_5_Google_Ads-CSS_DSHOP` | document_pdf | — | 445 | `e9694a887540` |
+| `3-me_thodes-de-traduction-dun-site` | document_pdf | — | 79 | `b7699ac6f35b` |
+| `4.1-Module_5_Google_Ads-Merchant_Center` | document_pdf | — | 455 | `cb0728476bbf` |
+| `719f58_Checklist-avant-de-lancer-les-pubs-sur-Google` | document_pdf | — | 116 | `708aebb20fa6` |
+| `82f54f_Module-1-to-do-1` | document_pdf | — | 16 | `f723bb55dadf` |
+| `9e8e8d_Checklist-avant-de-lancer-les-pubs-sur-Google` | document_pdf | — | 116 | `708aebb20fa6` |
+| `BRIEF-SEO.docx` | reference_text | — | — | `12684104b0b4` |
+| `Brief-Article-de-Blog` | document_pdf | — | 132 | `1218e7cbca8b` |
+| `Checklist-SEO-Kraken` | document_pdf | — | 526 | `693716d5e570` |
+| `Checklist-avant-de-lancer-les-pubs-sur-Google` | document_pdf | — | 116 | `708aebb20fa6` |
+| `Choix-statut-juridique-Guide-Kraken` | document_pdf | — | — | `92412a5b501b` |
+| `Diapo intégration produit` | document_pdf | — | 828 | `ee04380bda5f` |
+| `Fast-Track GMC Approval Framework - 2026 Edition (2)` | document_pdf | 35 | 4616 | `8e13f6a1bfc2` |
+| `Fiche-CH10-Conclusion-et-Live` | document_pdf | — | — | `5f7e344ce0bf` |
+| `Fiche_AntiDropshipping_Premium` | document_pdf | — | — | `5d5af8582e42` |
+| `Formation-Kraken-Comment-bien-lancer-son-service-client` | document_pdf | — | 842 | `db394001129c` |
+| `Google_Ads_Scaling_Framework 2026 Edition (5)` | document_pdf | 14 | 867 | `8035db122073` |
+| `INDEX.md` | reference_text | — | — | `e73e3aaa3574` |
+| `Juka - Introduction` | document_pdf | — | 37 | `605be1a5c22c` |
+| `Juka - Les diffe_rents types d_emails` | document_pdf | — | 206 | `ad5e04263155` |
+| `Juka - les campagnes de newsletter` | document_pdf | — | 1156 | `83111767a21e` |
+| `Juka - les flows d_emails` | document_pdf | — | 3587 | `727951ef41e3` |
+| `Juka - segmentation et optimisation` | document_pdf | — | 139 | `78fd90324dc9` |
+| `M13-CH5-KPI-IMPORTANTES` | document_pdf | — | 95 | `51a72720a5b0` |
+| `M13-CH7-les-5-raisons-antivente` | document_pdf | — | 96 | `c4da9047062d` |
+| `M13.CH9-12-e_tapes` | document_pdf | — | 161 | `54ae9c5c7fee` |
+| `M3-CH2-Fiche-Choix-CMS` | document_pdf | — | — | `781c6aa102de` |
+| `Masterclass-Piloter-sa-boutique-comme-une-entreprise` | document_pdf | — | 1831 | `b67f699818b7` |
+| `Module-1-to-do-1` | document_pdf | — | 16 | `f723bb55dadf` |
+| `Module-2-to-do` | document_pdf | — | 36 | `495c9ecf74c4` |
+| `Module-3-Bis-to-do-` | document_pdf | — | 41 | `eeedb2d47f07` |
+| `Module-3-To-Do-List` | document_pdf | — | 80 | `eaf80baa7d76` |
+| `Module-4-to-do-list` | document_pdf | — | 50 | `d79f13b4f266` |
+| `Module-5-to-do` | document_pdf | — | 46 | `4eb34acd8624` |
+| `Module-6-to-do` | document_pdf | — | 49 | `07f49a869ce1` |
+| `NOTRE-ASSURANCE-_-STELLO` | document_pdf | — | 80 | `1df1eb92409f` |
+| `PROCESS.CM_` | document_pdf | — | 2403 | `ca5e1d20ce8c` |
+| `Rapport_Kraken_Ste_phanie_12-03-2026` | document_pdf | — | 2153 | `58c755c148f6` |
+| `Rapport_Kraken_Ste_phanie_19-03-2026` | document_pdf | — | 2173 | `9ac44e0aa0b7` |
+| `Rapport_Kraken_Ste_phanie_26_03_26` | document_pdf | — | 1974 | `dac8d020a408` |
+| `Rapport_Kraken_Stephanie_04_06_26` | document_pdf | — | 1863 | `83abba8014bb` |
+| `Rapport_Kraken_Stephanie_05-03-26` | document_pdf | — | 2095 | `fbe03a77e5b3` |
+| `Rapport_Kraken_Stephanie_09_04_26` | document_pdf | — | 1775 | `f11b7a2ca556` |
+| `Rapport_Kraken_Stephanie_11_06_26` | document_pdf | — | 2680 | `180afa58122b` |
+| `Rapport_Kraken_Stephanie_14_05_26` | document_pdf | — | 2073 | `1d59852977ab` |
+| `Rapport_Kraken_Stephanie_21_05_26` | document_pdf | — | 2627 | `3ccdca1da1d1` |
+| `Rapport_Kraken_Stephanie_23_04_26` | document_pdf | — | 1589 | `e3511f796d7f` |
+| `Rapport_Kraken_Stephanie_25_06_26` | document_pdf | — | 2575 | `dcb525486c44` |
+| `Rapport_Kraken_Stephanie_28_05_26` | document_pdf | — | 2299 | `1a55b0432562` |
+| `Rapport_Kraken_The_o_07_04_26` | document_pdf | — | 1849 | `006b8f2b6383` |
+| `Rapport_Kraken_The_o_10-03-2026` | document_pdf | — | 1718 | `182b3820ed7a` |
+| `Rapport_Kraken_The_o_17-03-2026` | document_pdf | — | 2328 | `2fc1e695f719` |
+| `Rapport_Kraken_The_o_24_03_26` | document_pdf | — | 1768 | `b18643f8bc96` |
+| `Rapport_Kraken_The_o_31_03_26` | document_pdf | — | 2079 | `bd777c19d039` |
+| `Rapport_Kraken_Theo_02_06_26` | document_pdf | — | 2016 | `c7951758835e` |
+| `Rapport_Kraken_Theo_03-03-2026` | document_pdf | — | 1549 | `1fe9f08daab4` |
+| `Rapport_Kraken_Theo_05_05_26` | document_pdf | — | 1979 | `aee4c21cc2a7` |
+| `Rapport_Kraken_Theo_09_06_26` | document_pdf | — | 2276 | `d8432b5a866f` |
+| `Rapport_Kraken_Theo_12_05_26` | document_pdf | — | 2450 | `a90d260b198c` |
+| `Rapport_Kraken_Theo_14_04_26` | document_pdf | — | 2475 | `7995c042c8f6` |
+| `Rapport_Kraken_Theo_19_05_26` | document_pdf | — | 2123 | `ccba97ed6b8a` |
+| `Rapport_Kraken_Theo_21_04_26` | document_pdf | — | 1975 | `4a68aaa5c3a2` |
+| `Rapport_Kraken_Theo_23_06_26` | document_pdf | — | 2722 | `0ae78640742d` |
+| `Rapport_Kraken_Theo_26_05_26` | document_pdf | — | 2343 | `979955df3988` |
+| `Rapport_Kraken_Theo_28_04_26` | document_pdf | — | 1878 | `c16bc9ff1a13` |
+| `Roadmap_Kraken_Shopify_2026` | document_pdf | — | 377 | `975aef1b5fab` |
+| `Roadmap_Kraken_WordPress_2026` | document_pdf | — | 433 | `32d20b6ec575` |
+| `Suivi-des-chiffres-and-pilotage-dun-e-commerce` | document_pdf | — | 1988 | `0ce69c97eb31` |
+| `TEMPLATE.KRAKEN` | document_pdf | — | 1335 | `782580d02b39` |
+| `TEMPLATES-ET-INFOS-IMPORTANTES` | document_pdf | — | 100 | `fb2703817636` |
+| `brief.cre_ation.maquette.graphique` | document_pdf | — | 267 | `0c7af77fe4f3` |
+| `gmc_checklist_terry_ecom_2026` | document_pdf | 13 | 1194 | `ed2c3098c09e` |
+| `gmc_policy_templates_2026` | document_pdf | 17 | 3248 | `dd8a4475deba` |
+| `plugins-kraken` | document_pdf | — | 170 | `e5ccdf437fce` |
+| `process_truspilot` | document_pdf | — | 171 | `04b8179da205` |
 | `shopify-skill-gist-ef84ea5969aafd4935df76f69e919393` | reference_text | — | — | `dccd3c9e4a2c` |
+| `vimeo-caption-1086024731` | caption_vtt | 77.56 | 240 | `f485ad040c93` |
+| `vimeo-caption-1086024758` | caption_vtt | 268.44 | 914 | `3af6a9e12778` |
+| `vimeo-caption-1086024802` | caption_vtt | 228.52 | 844 | `70b58abe5921` |
+| `vimeo-caption-1086024826` | caption_vtt | 465.68 | 1577 | `ad86cd7eb43f` |
+| `vimeo-caption-1086024860` | caption_vtt | 384.96 | 1377 | `51952a4c9d8e` |
+| `vimeo-caption-1087787430` | caption_vtt | 134.32 | 401 | `982cc6b1ac16` |
+| `vimeo-caption-1087787447` | caption_vtt | 373.4 | 1160 | `199a609dcd3e` |
+| `vimeo-caption-1087787479` | caption_vtt | 445.76 | 1329 | `1118d477c77a` |
+| `vimeo-caption-1087787527` | caption_vtt | 668.68 | 1906 | `150e8b4951fb` |
+| `vimeo-caption-1087787588` | caption_vtt | 29.16 | 84 | `389b807a338d` |
+| `vimeo-caption-1087787604` | caption_vtt | 609.18 | 1274 | `b970489b6542` |
+| `vimeo-caption-1087787624` | caption_vtt | 321.69 | 713 | `66c3fb68a435` |
+| `vimeo-caption-1087788564` | caption_vtt | 419.4 | 1519 | `b1f37bc45083` |
+| `vimeo-caption-1087788617` | caption_vtt | 309.6 | 1063 | `5193b93844ba` |
+| `vimeo-caption-1087788644` | caption_vtt | 451.92 | 1520 | `3bd3f1b54958` |
+| `vimeo-caption-1087788677` | caption_vtt | 151.52 | 538 | `56554f6ca206` |
+| `vimeo-caption-1087788701` | caption_vtt | 129.56 | 464 | `58f33306833b` |
+| `vimeo-caption-1087788787` | caption_vtt | 556.76 | 1634 | `15cd5b2d15c4` |
+| `vimeo-caption-1087788832` | caption_vtt | 740.52 | 2353 | `f4cbbec4da5d` |
+| `vimeo-caption-1087788895` | caption_vtt | 1426.72 | 4222 | `f82077b14930` |
+| `vimeo-caption-1087789031` | caption_vtt | 278.65 | 866 | `5ddd3d08478d` |
+| `vimeo-caption-1087789078` | caption_vtt | 280.76 | 914 | `ddfed766cb44` |
+| `vimeo-caption-1087789117` | caption_vtt | 348.39 | 1033 | `9be0bddd669a` |
+| `vimeo-caption-1087789176` | caption_vtt | 432.92 | 1317 | `de3ccb77078e` |
+| `vimeo-caption-1087789240` | caption_vtt | 925.49 | 2730 | `33494d25fdab` |
+| `vimeo-caption-1087789383` | caption_vtt | 4991.46 | 15057 | `cd317beffd9b` |
+| `vimeo-caption-1087789996` | caption_vtt | 221.24 | 789 | `80b805b4108c` |
+| `vimeo-caption-1088387861` | caption_vtt | 52.29 | 133 | `07a061c317d5` |
+| `vimeo-caption-1088387890` | caption_vtt | 1174.56 | 2459 | `a39eace03eac` |
+| `vimeo-caption-1088387939` | caption_vtt | 427.56 | 950 | `66aa41574cc6` |
+| `vimeo-caption-1088387954` | caption_vtt | 152.04 | 335 | `df4a9dee1d9d` |
+| `vimeo-caption-1088387976` | caption_vtt | 151.68 | 328 | `7a5ea28e1d3a` |
+| `vimeo-caption-1088387997` | caption_vtt | 155.08 | 459 | `185ba0e7146e` |
+| `vimeo-caption-1088388038` | caption_vtt | 265.76 | 790 | `8516f24b8415` |
+| `vimeo-caption-1088388088` | caption_vtt | 254.0 | 830 | `d1c3646688e0` |
+| `vimeo-caption-1089119178` | caption_vtt | 365.24 | 1389 | `ca83c3cbe25b` |
+| `vimeo-caption-1089119203` | caption_vtt | 135.36 | 461 | `0b3bbefec3db` |
+| `vimeo-caption-1089119227` | caption_vtt | 280.28 | 909 | `e807c2288d31` |
+| `vimeo-caption-1089119251` | caption_vtt | 370.04 | 1296 | `d8ffaa726fb0` |
+| `vimeo-caption-1089119287` | caption_vtt | 71.88 | 236 | `dd8e336959ce` |
+| `vimeo-caption-1089119313` | caption_vtt | 8022.96 | 24623 | `80c8442bdaa9` |
+| `vimeo-caption-1089119609` | caption_vtt | 1046.0 | 2763 | `1b689e16f3d0` |
+| `vimeo-caption-1089119639` | caption_vtt | 1142.33 | 3208 | `2e70c2de1ab6` |
+| `vimeo-caption-1089119704` | caption_vtt | 935.2 | 2099 | `bd650608107e` |
+| `vimeo-caption-1089119757` | caption_vtt | 679.97 | 1507 | `163cb1bc99ed` |
+| `vimeo-caption-1089119808` | caption_vtt | 6427.27 | 13718 | `8eb1bc236f4a` |
+| `vimeo-caption-1089119904` | caption_vtt | 4181.46 | 7831 | `c00140189650` |
+| `vimeo-caption-1089119981` | caption_vtt | 1383.74 | 3244 | `6f48c4575637` |
+| `vimeo-caption-1089120047` | caption_vtt | 2282.42 | 5758 | `4a22c5284fa6` |
+| `vimeo-caption-1089317522` | caption_vtt | 734.27 | 2424 | `7e740637a35b` |
+| `vimeo-caption-1089317539` | caption_vtt | 173.88 | 626 | `01cc0fd5fbd2` |
+| `vimeo-caption-1089317770` | caption_vtt | 49.56 | 178 | `885c364e8595` |
+| `vimeo-caption-1089317781` | caption_vtt | 157.2 | 526 | `b4afc5aa7636` |
+| `vimeo-caption-1089317804` | caption_vtt | 173.6 | 675 | `333983f04acc` |
+| `vimeo-caption-1089317829` | caption_vtt | 257.32 | 885 | `c766e4a3a44f` |
+| `vimeo-caption-1089375380` | caption_vtt | 1598.83 | 4640 | `8318ee9e986f` |
+| `vimeo-caption-1089375407` | caption_vtt | 1555.51 | 4956 | `9436760bb9d5` |
+| `vimeo-caption-1089375423` | caption_vtt | 375.52 | 1390 | `600433212cfd` |
+| `vimeo-caption-1089375435` | caption_vtt | 8082.57 | 24043 | `460323d4ea01` |
+| `vimeo-caption-1089375629` | caption_vtt | 112.4 | 336 | `5abeb2b14c2e` |
+| `vimeo-caption-1089375656` | caption_vtt | 487.03 | 1386 | `b6a41dd35cdc` |
+| `vimeo-caption-1089375690` | caption_vtt | 730.48 | 2454 | `a3023cc403a1` |
+| `vimeo-caption-1089375719` | caption_vtt | 359.8 | 1390 | `5ae377a44b67` |
+| `vimeo-caption-1089375750` | caption_vtt | 400.48 | 1446 | `59e3605fdebc` |
+| `vimeo-caption-1089375785` | caption_vtt | 432.96 | 1542 | `ba0b3f4e046a` |
+| `vimeo-caption-1089375811` | caption_vtt | 852.22 | 2598 | `afcec982b496` |
+| `vimeo-caption-1089375835` | caption_vtt | 1588.45 | 5473 | `27bb2d81df0b` |
+| `vimeo-caption-1089473725` | caption_vtt | 394.8 | 1435 | `ac3b8d66b9ac` |
+| `vimeo-caption-1089473739` | caption_vtt | 331.16 | 1060 | `55e5930e2efe` |
+| `vimeo-caption-1089486834` | caption_vtt | 116.2 | 466 | `dca1b94b3fcc` |
+| `vimeo-caption-1089486869` | caption_vtt | 512.32 | 1891 | `db7dcd36a983` |
+| `vimeo-caption-1089486926` | caption_vtt | 403.64 | 1297 | `a256ef73e2db` |
+| `vimeo-caption-1089486969` | caption_vtt | 529.04 | 1945 | `be991a75ee37` |
+| `vimeo-caption-1089487029` | caption_vtt | 275.04 | 901 | `7f29b1e5b629` |
+| `vimeo-caption-1089487059` | caption_vtt | 382.76 | 1392 | `5c7bf634e203` |
+| `vimeo-caption-1089487097` | caption_vtt | 713.13 | 1977 | `747cd4726ebf` |
+| `vimeo-caption-1089487136` | caption_vtt | 567.16 | 1996 | `4c72b0355ac9` |
+| `vimeo-caption-1089487199` | caption_vtt | 396.52 | 1351 | `eee3f73a2dcb` |
+| `vimeo-caption-1089658778` | caption_vtt | 819.32 | 2163 | `b3a6d59dfafa` |
+| `vimeo-caption-1089658804` | caption_vtt | 187.89 | 230 | `1daba26112a9` |
+| `vimeo-caption-1089658827` | caption_vtt | 5624.24 | 17841 | `b94d9b3afed1` |
+| `vimeo-caption-1089659047` | caption_vtt | 8934.48 | 26559 | `ef3ca7b884a8` |
+| `vimeo-caption-1089659129` | caption_vtt | 5983.32 | 19801 | `f7fb26fba705` |
+| `vimeo-caption-1089830490` | caption_vtt | 475.75 | 1137 | `1aaf5b7a39c4` |
+| `vimeo-caption-1089830517` | caption_vtt | 143.76 | 404 | `bd8336873c04` |
+| `vimeo-caption-1094109549` | caption_vtt | 724.08 | 1831 | `ce583952db92` |
+| `vimeo-caption-1094109579` | caption_vtt | 1365.61 | 3385 | `bf140c261595` |
+| `vimeo-caption-1094109960` | caption_vtt | 1597.96 | 4120 | `81a60a4d536d` |
+| `vimeo-caption-1094110285` | caption_vtt | 648.36 | 1528 | `d0ecaa789ad3` |
+| `vimeo-caption-1094110421` | caption_vtt | 625.32 | 1643 | `4b6f87d4ae43` |
+| `vimeo-caption-1094110482` | caption_vtt | 573.8 | 1415 | `04a82d65b046` |
+| `vimeo-caption-1094110529` | caption_vtt | 726.92 | 1809 | `6b45f7d0ed50` |
+| `vimeo-caption-1094110690` | caption_vtt | 908.2 | 2374 | `ac9ee645ec94` |
+| `vimeo-caption-1094110810` | caption_vtt | 609.14 | 1688 | `6e605daef16b` |
+| `vimeo-caption-1094110857` | caption_vtt | 746.66 | 1942 | `5cf491993319` |
+| `vimeo-caption-1094110920` | caption_vtt | 833.29 | 1787 | `7369e4247e0b` |
+| `vimeo-caption-1094111008` | caption_vtt | 125.77 | 273 | `f9291c9b5c38` |
+| `vimeo-caption-1095609605` | caption_vtt | 755.28 | 2325 | `fa6e788f2f22` |
+| `vimeo-caption-1095609708` | caption_vtt | 191.76 | 604 | `4a004af87c00` |
+| `vimeo-caption-1095609742` | caption_vtt | 624.08 | 1975 | `75345550112f` |
+| `vimeo-caption-1095610013` | caption_vtt | 410.2 | 1364 | `2d53d8f7057c` |
+| `vimeo-caption-1095610048` | caption_vtt | 105.0 | 364 | `b1e083858d74` |
+| `vimeo-caption-1095610065` | caption_vtt | 72.44 | 220 | `b80aa6e0de03` |
+| `vimeo-caption-1095610086` | caption_vtt | 770.4 | 2543 | `f7a24dde948f` |
+| `vimeo-caption-1096205522` | caption_vtt | 4082.78 | 13001 | `682608d6cc92` |
+| `vimeo-caption-1097663207` | caption_vtt | 7272.68 | 20638 | `dd04e093c941` |
+| `vimeo-caption-1097663488` | caption_vtt | 7475.14 | 22091 | `5ef83d619055` |
+| `vimeo-caption-1097663838` | caption_vtt | 7453.4 | 21797 | `8bc05da8d72d` |
+| `vimeo-caption-1097664963` | caption_vtt | 1620.8 | 5753 | `f655c3bb5071` |
+| `vimeo-caption-1097879593` | caption_vtt | 8200.67 | 24373 | `fc9c43fa9902` |
+| `vimeo-caption-1100102487` | caption_vtt | 1873.52 | 6047 | `5f29db1245da` |
+| `vimeo-caption-1101580762` | caption_vtt | 567.32 | 1618 | `c75f96f17f7a` |
+| `vimeo-caption-1104500250` | caption_vtt | 75.52 | 232 | `ac75ea6a8602` |
+| `vimeo-caption-1107477794` | caption_vtt | 590.24 | 1865 | `8dcc8ef3adaf` |
+| `vimeo-caption-1107477849` | caption_vtt | 308.42 | 968 | `5cc092d6abc7` |
+| `vimeo-caption-1107487271` | caption_vtt | 8381.28 | 24646 | `070d332ade82` |
+| `vimeo-caption-1113226843` | caption_vtt | 604.19 | 1628 | `89725291d655` |
+| `vimeo-caption-1113557750` | caption_vtt | 190.6 | 682 | `ffe8b3cc29bf` |
+| `vimeo-caption-1113558058` | caption_vtt | 165.16 | 600 | `f7634589ee24` |
+| `vimeo-caption-1123473277` | caption_vtt | 7190.44 | 21236 | `83483ff692ef` |
+| `vimeo-caption-1185079535` | caption_vtt | 5865.939 | 14504 | `bdd22ecb86ea` |
+| `vimeo-caption-1185081832` | caption_vtt | 6227.268 | 17324 | `758d44fbf5f7` |
+| `vimeo-caption-1185083483` | caption_vtt | 8090.452 | 18560 | `880de6567130` |
+| `vimeo-caption-1200120016` | caption_vtt | 1501.832 | 3797 | `a73b5bcfa490` |
+| `vimeo-caption-1200120017` | caption_vtt | 480.74 | 1195 | `0eb22a702592` |
+| `vimeo-caption-1200120018` | caption_vtt | 705.65 | 2037 | `4e78d560c3d6` |
+| `vimeo-caption-1200120019` | caption_vtt | 883.592 | 2243 | `30d1a1eed639` |
+| `vimeo-caption-1200122032` | caption_vtt | 331.78 | 943 | `2c9090cfda49` |
+| `vimeo-caption-1200997415` | caption_vtt | 1483.39 | 3704 | `cb2e2ab51651` |
+| `vimeo-caption-1200998073` | caption_vtt | 2307.696 | 5709 | `a27583cdd7d2` |
+| `vimeo-caption-1201000501` | caption_vtt | 681.392 | 1943 | `0360d36f8ba8` |
 | `vimeo-caption-231587882` | caption_vtt | 230.6 | 714 | `821dc07a8356` |
 | `vimeo-caption-231587893` | caption_vtt | 496.12 | 1534 | `80766d0a9c7d` |
 | `vimeo-caption-231587930` | caption_vtt | 526.12 | 1697 | `ef9fcd7131a6` |
@@ -83,11 +290,75 @@ Les VTT sources restent `AUTOMATIQUE_NON_RELUE` au sens audio : aucune lecture s
 | `vimeo-caption-250135404` | caption_vtt | 529.36 | 1978 | `d61162a8401f` |
 | `vimeo-caption-262936735` | caption_vtt | 9027.44 | 24179 | `b1ec59c2aedd` |
 | `vimeo-caption-306109499` | caption_vtt | 705.65 | 2037 | `4e78d560c3d6` |
+| `0oq2E-xdEpk` | caption_vtt | 312.32 | 778 | `0cb53428f3fa` |
+| `0oq2E-xdEpk` | platform_metadata_minimized | — | — | `85bc72d05f9a` |
+| `194gMLHe-ck` | caption_vtt | 3498.079 | 12194 | `203d933a8be9` |
+| `194gMLHe-ck` | platform_metadata_minimized | — | — | `8749a7183694` |
+| `3IMKclWklH4` | caption_vtt | 1271.6 | 3747 | `984f4ec993b3` |
+| `3IMKclWklH4` | platform_metadata_minimized | — | — | `a722e91bcc6d` |
 | `43kJQkuviKY` | caption_vtt | 222.92 | 712 | `8b171b5a7904` |
 | `43kJQkuviKY` | platform_metadata_minimized | — | — | `adffb86253f9` |
+| `7keYfrUv1_c` | caption_vtt | 197.44 | 652 | `5c0af75ec5f9` |
+| `7keYfrUv1_c` | platform_metadata_minimized | — | — | `47b16284782a` |
+| `9vcyc_XPqnk` | caption_vtt | 451.19 | 1362 | `c0fec8cffd0c` |
+| `9vcyc_XPqnk` | platform_metadata_minimized | — | — | `e91bd57e4dab` |
+| `EY_nm5gjY60` | caption_vtt | 200.519 | 623 | `1ab7912464bd` |
+| `EY_nm5gjY60` | platform_metadata_minimized | — | — | `ed09b2501f08` |
+| `IJ75YDugWpk` | caption_vtt | 4070.039 | 13729 | `a4c39f3d5759` |
+| `IJ75YDugWpk` | platform_metadata_minimized | — | — | `64756b9a5ef7` |
+| `JVpcCh0OUfI` | caption_vtt | 320.71 | 1021 | `e4bf7a5fe424` |
+| `JVpcCh0OUfI` | platform_metadata_minimized | — | — | `36aa5c6d9115` |
+| `KSfXtPnk7TE` | caption_vtt | 664.48 | 1847 | `8612e162fd5a` |
+| `KSfXtPnk7TE` | platform_metadata_minimized | — | — | `8122b320daeb` |
+| `LH6ghUCE8x0` | caption_vtt | 6209.28 | 19903 | `fd5c283bd421` |
+| `LH6ghUCE8x0` | platform_metadata_minimized | — | — | `4e98e5e2dd49` |
+| `MD-eW4qpedA` | caption_vtt | 6334.96 | 16778 | `bde634b29208` |
+| `MD-eW4qpedA` | platform_metadata_minimized | — | — | `62c7ed5d2c6d` |
+| `OqtFeWXr8yg` | caption_vtt | 385.16 | 1240 | `d48acca08b12` |
+| `OqtFeWXr8yg` | platform_metadata_minimized | — | — | `6bd61a6df471` |
+| `Pes8R1A3xLY` | caption_vtt | 792.16 | 2382 | `481b2225aa6b` |
+| `Pes8R1A3xLY` | platform_metadata_minimized | — | — | `2237f1fcb761` |
+| `QFHHpT1-tf8` | caption_vtt | 504.8 | 1541 | `85bfd5549e95` |
+| `QFHHpT1-tf8` | platform_metadata_minimized | — | — | `b24db912ba4d` |
+| `QYa5dsJ7W5Y` | caption_vtt | 805.16 | 2685 | `8092d3af1a85` |
+| `QYa5dsJ7W5Y` | platform_metadata_minimized | — | — | `fbd9b12eef08` |
+| `RRehUD4-C5k` | caption_vtt | 361.79 | 1305 | `1717871eb7e1` |
+| `RRehUD4-C5k` | platform_metadata_minimized | — | — | `66137434ad4f` |
+| `Sm2Y6iNzr_c` | caption_vtt | 381.12 | 1149 | `9860e9fc723d` |
+| `Sm2Y6iNzr_c` | platform_metadata_minimized | — | — | `9fea9e0d8dfb` |
+| `Vz08nhnnj5U` | caption_vtt | 986.68 | 2885 | `a48aa276c661` |
+| `Vz08nhnnj5U` | platform_metadata_minimized | — | — | `a2e5789f4026` |
+| `X1wGsUTpocc` | caption_vtt | 156.519 | 451 | `a1edcc5d2d71` |
+| `X1wGsUTpocc` | platform_metadata_minimized | — | — | `8b9f2400a707` |
+| `XhAJG6gopyM` | caption_vtt | 631.651 | 2363 | `74c6f2b6ba24` |
+| `XhAJG6gopyM` | platform_metadata_minimized | — | — | `2de2796a9a2c` |
+| `_Jww5002w7M` | caption_vtt | 409.556 | 1368 | `160a5edff48d` |
+| `_Jww5002w7M` | platform_metadata_minimized | — | — | `c657ef206f80` |
+| `ffuYF6q_-Pg` | caption_vtt | 529.92 | 1556 | `c0c59d9cdf15` |
+| `ffuYF6q_-Pg` | platform_metadata_minimized | — | — | `d815166bd788` |
+| `hOLHoxZj3WA` | caption_vtt | 188.48 | 618 | `ade164b2eb83` |
+| `hOLHoxZj3WA` | platform_metadata_minimized | — | — | `87b339f5e204` |
 | `hhPBbZZ7qHQ` | caption_vtt | 1035.079 | 2703 | `8e68ffdec845` |
 | `hhPBbZZ7qHQ` | platform_metadata_minimized | — | — | `7710b22f6392` |
+| `ihCsWQkmfaE` | caption_vtt | 58.53 | 215 | `7131daa65cde` |
+| `ihCsWQkmfaE` | platform_metadata_minimized | — | — | `b70bb9b1ceda` |
 | `l-XUJ9NTN40` | caption_vtt | 1031.24 | 2594 | `f25e9214c7b3` |
 | `l-XUJ9NTN40` | platform_metadata_minimized | — | — | `c0eb792fd799` |
+| `lfp0oJs_pQ4` | caption_vtt | 266.479 | 843 | `f1eabd235419` |
+| `lfp0oJs_pQ4` | platform_metadata_minimized | — | — | `9e53622504aa` |
+| `mLdRBoyZYOg` | caption_vtt | 7374.28 | 24106 | `c0d15a8885c4` |
+| `mLdRBoyZYOg` | platform_metadata_minimized | — | — | `7394ac6ddca3` |
+| `pA3_RMCY37Y` | caption_vtt | 296.12 | 885 | `a59f680a38ad` |
+| `pA3_RMCY37Y` | platform_metadata_minimized | — | — | `4a36c03c627a` |
+| `py6qQ8xagIw` | caption_vtt | 1230.679 | 4198 | `f550050f6470` |
+| `py6qQ8xagIw` | platform_metadata_minimized | — | — | `93278b53ebbd` |
+| `q0x2428McYg` | caption_vtt | 692.0 | 2458 | `6004b3862b61` |
+| `q0x2428McYg` | platform_metadata_minimized | — | — | `7f95d7d04d83` |
+| `q1dX7ohhExc` | caption_vtt | 180.68 | 551 | `0c14c31470ba` |
+| `q1dX7ohhExc` | platform_metadata_minimized | — | — | `ddd120abdf81` |
 | `rj6Rx3zinOk` | caption_vtt | 664.8 | 1937 | `5054d3efd605` |
 | `rj6Rx3zinOk` | platform_metadata_minimized | — | — | `5a7a7de0d5a8` |
+| `uIqgm_xOfsc` | caption_vtt | 231.4 | 782 | `a30211accd60` |
+| `uIqgm_xOfsc` | platform_metadata_minimized | — | — | `d5e67a8c40ce` |
+| `ywRywYvwQy8` | caption_vtt | 282.36 | 938 | `9cbb02800566` |
+| `ywRywYvwQy8` | platform_metadata_minimized | — | — | `9b023280cc09` |

@@ -1,0 +1,271 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  1  —
+RAPPORT DE SESSION
+19 mars 2026 • Durée : 1h26 • Coach : Stéphanie
+Participants : Nicolas, Aude, Charlotte, Elodie, Pierre
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Tour de table Nicolas — 54 fiches produits intégrées, Merchant Center
+accepté grâce à Quentin
+▶ 00:01 Merchant Center expliqué — Fonctionnement, recettage, erreurs
+courantes détaillées pour Aude
+▶ 00:08 Hot seat Charlotte — Bilan pub mars, ROAS 2.8, niche survie
+abandonnée, fournisseur européen suggéré
+▶ 00:21 Hot seat Elodie — Rachat boutique finalisé, passage agent recommandé,
+packaging commun
+▶ 00:31 Masterclass — Optimiser le tunnel de vente : panier moyen, bundles,
+upsell, email marketing, fidélisation
+▶ 01:14 Questions SEO — Champ lexical, maillage interne, backlinks, fil
+d’Ariane
+⚔ TOUR DE TABLE
+► Nicolas — Avancement boutique & Merchant Center
+Avancement site : Nicolas a intégré 54 fiches produits. Les catégories sont créées (sauf une). La page
+d’accueil n’est pas encore avancée. Léger retard signalé mais le coach considère le travail propre. Nicolas part
+en vacances (Thaïlande).
+Merchant Center : Le Merchant Center d’un client du coach a été accepté grâce à Quentin (coach technique).
+Rappel : Nicolas avait épuisé ses tentatives d’examen et a dû copier son site sous un nouveau nom pour
+représenter. Le coach a détaillé le fonctionnement du Merchant Center pour Aude : vérification de cohérence
+(délais, mentions légales, moyens de paiement), recettage (cacher les éléments non essentiels pour le
+passage), et rôle de Quentin dans le processus.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  2  —
+« Faut pas prendre Nicolas comme exemple. Il a galéré de fou, mais sinon les autres y arrivent
+normalement. »
+— Coach Kraken
+⚔ DÉTAIL DES HOTSEATS
+► Charlotte — Pub Google Ads, saisonnalité & niche survie
+Bilan pub mars : Mois mitigé. Problème en février : Charlotte avait écouté ChatGPT pour lancer une nouvelle
+campagne, ce qui a cassé la dépense publicitaire. Tout a été remis à zéro et la dépense repart. ROAS
+augmenté de 2,4 à 2,8 (sur conseil de Claude). Budget : 120 €/jour. Le coach recommande de laisser tourner
+avec ce ROAS avant d’ajuster.
+Saisonnalité : Charlotte entre en saison creuse (printemps-été) pour sa niche chaussons. Le coach
+recommande de créer des collections mi-saison (claquettes, sandales) et de puber spécifiquement sur ces
+collections, en mettant les produits hivernaux de côté. Objectif : maintenir les signaux positifs vers Google.
+Niche survie abandonnée : Charlotte avait préparé le lancement (sourcing fait, fiches produits prêtes avec
+Claude). Blocage : Obordesk ne peut pas expédier briquets, couteaux de survie, certaines powerbanks. Les kits
+de survie tout-faits disparaissent d’AliExpress. Le volume de recherche était concentré sur « kit de survie », les
+produits individuels n’atteignent pas un panier suffisant.
+Conseil du coach : Chercher un fournisseur européen. Preuve de faisabilité : un site en vente sur Flippa fait du
+dropshipping survie depuis l’Europe (chaussures de sécurité, équipement militaire). Possibilité de kits
+homologués complets. Alternative : concept « compose toi-même ton kit » avec double fournisseur (Obordesk +
+Europe).
+« C’était une bonne idée. La difficulté d’Obordesk rend pas la faisabilité du truc impossible. »
+— Coach Kraken
+► Elodie — Rachat boutique, agent & organisation
+Rachat finalisé : Transfert complet (compteur vendeur basculé, mails, accès). Dernier virement à faire. Elodie
+possède désormais deux boutiques : une en construction (WordPress) et une rachetée (Shopify). Le compteur
+est relié au compte AliExpress du vendeur — le coach a expliqué la procédure pour raccorder son propre
+compte sans perdre le mapping produits.
+Passage agent recommandé : Pour une niche textile, la valeur perçue est critique. Recevoir un produit dans
+un emballage AliExpress nuit à l’image. Le coach recommande de contacter Obordesk ou HAO rapidement
+pour un packaging brandé (pochettes avec nom de marque). Création de compte gratuite, raccordement
+Shopify en 5 minutes.
+Packaging commun : Idée du coach — créer un branding chapeau (type « by Stéphanie ») pour regrouper les
+deux marques sur le même packaging. Cela permet une commande unique chez l’agent, réduit les coûts et crée
+un lien entre les deux boutiques.
+Organisation : Le coach insiste : avec un emploi, deux boutiques et une vie de famille, un planning écrit est
+indispensable. « Le lundi je fais ça, le mardi je fais ça ». Sans planification, risque de dispersion et d’enlisement.
+Elodie s’engage à formaliser son programme pour la semaine suivante.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  3  —
+« Un programme dans ta tête, ça compte pas pour moi. Il faut vraiment que tu arrives à trouver le
+moyen pour rien négliger. »
+— Coach Kraken
+⚙ MASTERCLASS — OPTIMISER LE TUNNEL DE VENTE &
+MAXIMISER LA VALEUR CLIENT
+Le coach a présenté un framework complet pour extraire le maximum de valeur de chaque client acquis.
+Constat de départ : en dropshipping, les marges sont compressées (25-30 % pub, 30-35 % achat produit, 5-10
+% frais fixes, 5-10 % remboursements). L’optimisation du parcours client est le levier principal pour améliorer la
+rentabilité.
+► Les 3 indicateurs clés
+Indicateur
+Type
+Définition
+Panier moyen
+Direct
+Combien dépense le client par achat. Levier le plus actionnable à court terme.
+Coût d’acquisition
+Stratégique
+Combien coûte un nouveau client (Google Ads, influenceurs…).
+LTV (Lifetime Value)
+Pérenne
+Combien un client rapporte sur toute sa durée de vie. Clé de la rentabilité.
+► Structurer l’offre produit (3 niveaux)
+Entrée de gamme — Produit simple, prix accessible. Sert de porte d’entrée pour l’acquisition client.
+Pack économique — Offres quantitatives (2 achetés = 1 offert, pack famille). Augmente le panier moyen.
+Attention : ne fonctionne que si la marge produit absorbe la promotion.
+Pack premium — Offre haut de gamme avec packaging ou service supplémentaire (coffret cadeau, accessoire
+premium). Augmente la valeur perçue et la marge.
+« Une simple augmentation du panier moyen de 10 € peut multiplier le profit par 3. C’est le levier le
+plus important du e-commerce. »
+— Coach Kraken
+► Bundles, Order Bumps & Upsell
+Bundles produits : Regrouper produits complémentaires en une offre (contenu + contenant, produit +
+accessoire). Réduit le coût logistique unitaire car les frais de livraison ne se cumulent pas. Exemples : lunettes +
+étui, coussin voyage + masque sommeil, carafe filtrante + filtres de rechange.
+Order bumps (au checkout) : Offres additionnelles présentées au moment du paiement. Peuvent être
+physiques (accessoire à prix cassé) ou digitaux (extension garantie, livraison suivie à 3,90 €, ebook à 4,90 €).
+Coût zéro pour le vendeur, 20 % de taux d’acceptation suffisent pour un impact significatif.
+Upsell post-achat : Après paiement, proposer un produit à prix cassé en un clic (sans resaisir la CB). Marge
+supérieure car le coût d’acquisition est déjà absorbé. Attention : le bouton « refuser » doit être clairement visible
+pour éviter les litiges.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  4  —
+Livraison comme levier : Fixer un seuil de livraison gratuite légèrement au-dessus du panier moyen (ex. :
+produits à 54 €, seuil à 60 €). Le client ajoute un petit produit pour éviter les frais — augmentation nette du
+panier.
+► Email marketing & fidélisation
+Flows de mail essentiels : Panier abandonné (récupère 15-20 % des commandes perdues), séquence
+post-achat (code promo -20 % sous 24h), offre de bienvenue (10 % pour inscription newsletter). À paramétrer
+une fois, tourne en automatique indéfiniment.
+Campagnes ciblées : Relancer les clients existants lors du lancement d’une nouvelle collection. Coût quasi nul
+(Klaviyo). Acquisition gratuite sur une base déjà qualifiée.
+Fidélisation : Abonnement (box, consommables récurrents type filtres), programme de points fidélité (codes
+promo, accès VIP, avant-premières), parrainage (le parrain et le parrainé reçoivent un avantage). Un client
+fidélisé coûte 5 à 7 fois moins cher qu’un nouveau client à acquérir.
+« Plus vous allez maximiser la valeur de chaque client, plus ça vous permettra d’avoir de la marge
+et de gagner de l’argent. Pensez le client comme un actif. »
+— Coach Kraken
+► Le client comme actif économique
+Le coach insiste : la fidélisation est un marqueur de qualité déterminant pour la valorisation d’une boutique lors
+d’une revente. Plus la clientèle est stable et fidélisée, plus le revenu est prédictible, et plus la valorisation est
+forte. Cette réflexion doit être intégrée dès la recherche de niche : privilégier les produits à rachat multiple, les
+consommables récurrents et les niches où le parrainage est naturel.
+⚙ BONUS — PRINCIPES SEO ÉVOQUÉS
+En réponse à une question d’Elodie sur le référencement de son site de sophrologie, le coach a rappelé les
+fondamentaux du SEO :
+Champ lexical : Ne pas répéter un seul mot-clé (suroptimisation = pénalité Google). Utiliser tout le silo
+sémantique : synonymes, termes adjacents, vocabulaire du métier.
+Maillage interne : Les pages doivent être reliées entre elles pour permettre la circulation du « jus SEO ».
+Structure en silo : page principale → collections → sous-collections → produits.
+Backlinks & réputation : Les liens entrants depuis d’autres sites renforcent la crédibilité. Les réseaux sociaux,
+les avis clients et les canaux de présence multiples contribuent également.
+Signaux comportementaux : Taux de rebond, temps passé sur le site, nombre de pages vues. Google mesure
+l’intérêt réel des visiteurs pour évaluer la pertinence.
+Prime de fraîcheur : Ajout régulier de contenu (blog, réseaux sociaux) pour montrer que le site est vivant et
+actif.
+Fil d’Ariane : Structure hiérarchique des URL (accueil → collection → sous-collection → produit). Se fait
+automatiquement sur Shopify (thème Kraken). Pour du SEO technique avancé (cannibalisation, structure
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  5  —
+technique), se tourner vers Théo.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Profiter des vacances. Reprendre le travail au retour avec les catégories restantes et la page
+d’accueil.
+⚡ Préparer le nouveau Merchant Center avec Quentin dès le retour.
+SECONDAIRE
+○ Finaliser l’optimisation des catégories en temps et en heure.
+○ Se connecter à la session suivante si possible (même en vacances).
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Laisser tourner le ROAS à 2,8 sans toucher pendant quelques jours. Observer la dépense et la
+rentabilité.
+⚡ Créer une collection printemps/été (claquettes, sandales) et lancer une campagne dédiée sur cette
+collection.
+⚡ Chercher un fournisseur européen pour la niche survie. Vérifier Flippa pour identifier des sites
+similaires et leurs fournisseurs.
+SECONDAIRE
+○ Demander conseil à Quentin dans le chat pour monter en compétence Google Ads.
+○ Si fournisseur européen trouvé : relancer la niche survie avec kits homologués ou concept « compose ton
+kit ».
+○ Garder l’option développement chaussons été en parallèle.
+  ⚓  Elodie
+PRIORITAIRE
+⚡ Créer un compte AliExpress et le raccorder à DSers pour la boutique rachetée (sans perdre le
+mapping).
+⚡ Contacter Obordesk ou HAO pour ouvrir un compte agent. Gratuit, 5 minutes.
+⚡ Rédiger un planning hebdomadaire écrit (pas dans la tête) : répartition des tâches entre les deux
+boutiques et le travail principal.
+SECONDAIRE
+○ Réfléchir au branding commun pour un packaging unifié (pochettes avec les deux marques).
+○ Explorer les produits complémentaires pour la première boutique (broches, attaches foulard, accessoires).
+○ Appeler le coach pour caler l’organisation dès lundi/dimanche.
+  ⚓  Aude
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  19/03/2026
+—  6  —
+⚡ Continuer la recherche de niche en intégrant la réflexion tunnel de vente : quels produits
+complémentaires ? Quel potentiel de rachat ? Quel bundle possible ?
+⚡ Penser dès la recherche aux upsell, order bumps et abonnements possibles dans la niche visée.
+SECONDAIRE
+○ Revoir les slides de la masterclass pour intégrer la grille d’analyse du parcours client.
+○ Tester les paniers abandonnés sur des sites concurrents pour observer les flows de mail en action.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Intégrer la logique de maximisation du parcours client dès la recherche de niche.
+⚡ Récupérer les slides PDF de la masterclass Tunnel de vente sur Skool.
+SECONDAIRE
+○ Penser « client comme actif » : privilégier les niches avec potentiel de fidélisation et rachat.
+○ Utiliser Claude/LIA pour analyser les possibilités d’upsell, bundles et ebooks par niche.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Fiches produits Nicolas
+54
+Intégrées, catégories OK
+ROAS Charlotte (ancien)
+2,4
+Insuffisant pour marge confortable
+ROAS Charlotte (nouveau)
+2,8
+Ajusté sur conseil Claude
+Budget pub Charlotte
+120 €/jour
+Dépense pas encore le budget complet
+Part publicité / CA
+25-30 %
+Standard e-commerce dropshipping
+Part achat produit / CA
+30-35 %
+Coût fournisseurs
+Frais fixes / CA
+5-10 %
+Charges récurrentes
+Taux remboursement / CA
+5-10 %
+Retours et litiges
+Récupération paniers abandonnés
+15-20 %
+Via flow de mail automatisé
+Coût client fidélisé vs nouveau
+5-7x moins cher
+Levier clé de rentabilité
+Taux acceptation order bump
+≈ 20 %
+Suffisant pour impact significatif
+Seuil livraison gratuite (ex.)
+60 €
+Pour produits à ≈54 €
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

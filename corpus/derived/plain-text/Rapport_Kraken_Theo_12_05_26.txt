@@ -1,0 +1,311 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  1  —
+RAPPORT DE SESSION
+12 mai 2026 • Durée : 2h01 • Coach : Théo
+Participants : Raphaël, Thibaud, Chiraz, Pierre, Aude, Charlotte, Mika  •  Stéphanie en renfort
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Raphaël — Google Shopping : 430 € dépensés, 772 € de CA réel
+en 7 jours
+▶ 00:18 Tracking, Trustpilot et GEO — stratégie d’autorité long terme
+▶ 00:24 Thibaud — Hermes vs OpenClaw : automatisation Klaviyo, blog et social
+via agents IA
+▶ 00:35 Incidents IA récents — Pocket OS supprime sa DB, Coinbase et le code
+en prod
+▶ 00:41 Hot seat Chiraz — Lancement site Full Stack : ordre des étapes et
+architecture
+▶ 00:51 Masterclass filtres Shopify — métafields liste & collections
+automatisées
+▶ 01:05 Design System Full Stack + Claude — preview design en temps réel
+▶ 01:11 Pierre — matching image 1688 via N8N : limites de l’analyse IA
+▶ 01:25 Aude — accéder à 1688 : extension AliPrice plutôt que création de
+compte
+▶ 01:35 Bug critique thème Full Stack 2.3.1 — modèle produit manquant à
+l’import
+⚔ DÉTAIL DES HOTSEATS
+► Raphaël — Lancement Google Shopping & stratégie d’évolution
+Lancement réussi. Campagne shopping classique à 50 €/jour sur un catalogue de 400-500 produits (sur 950
+au total). Après une semaine : 430 € de dépenses, 447 € de retour trackké sur 4 commandes, 772 € de CA réel
+(plus une commande de 600 € en attente). Taux d’impression perdu à 70 % : normal au lancement.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  2  —
+Tracking. Trackbee à 80 € HT pour deux sites, environ 70 % de tracking effectif. Le coach a partagé Little Data
+comme alternative flex à 0,35 €/commande — intéressant pour les premiers mois (~150 commandes/mois
+avant d’égaler 50 €). Note pour le replay : Little Data a une bonne réputation Shopify App mais reste à valider
+sur la durée.
+Pinterest en parallèle. Campagne shopping dédiée aux produits haut de gamme (10 €/jour) qui a généré une
+commande de 945 € (produit à 999 € avec 5 % de remise par téléphone). Le coach a explicitement validé la
+séparation : produits haut de gamme → Pinterest et organique, produits offre de marché → Google Shopping.
+L’erreur du premier site était inverse.
+« Une semaine à 70 % de pas trackké mais 770 € quasiment réel, c’est ultra bien, ultra
+encourageant et surtout c’est du gros panier moyen. C’est un site que tu peux faire péter. »
+— Coach Kraken
+Stratégie d’autorité et de cycle d’achat. La niche implique un cycle d’achat long (valeur perçue élevée, coup
+de cœur), d’où les pertes de tracking. Le coach insiste sur trois leviers à anticiper : Trustpilot avec envoi
+automatique vers la page d’avis externe sur retours positifs (évite l’abonnement payant de demande auto),
+backlinks pour l’autorité de domaine sur cette grosse niche, et pub catalogue Facebook/Instagram à tester pour
+le retargeting visuel.
+SEO et upsell. Travail SEO déjà dense : meta, descriptions de collections, maillage interne, 5 blogs en
+lancement avec maillage entre eux (scripts Claude basés sur fournisseurs, concurrents, mots-clés, exports
+SEMrush). Manque les backlinks. Sur l’upsell : Raphaël envisageait des upsells AliExpress sur des produits
+clean livrés en 3-5 jours — le coach a déconseillé fermement (15 jours d’écart de livraison casse l’expérience et
+génère du mauvais avis).
+« Lance pas un autre site, développe-le à fond. Lui peut te faire l’équivalent de 10 sites que tu
+aurais lancé à côté en ayant focus que sur un. »
+— Coach Kraken
+► Thibaud — Automatisation via l’agent IA Hermes
+Setup Hermes. Installé sur un petit VPS avec accès Telegram (Discord apparemment plus poussé mais plus
+complexe à configurer). Base de modèles : GPT Codex (plan 20 $/mois quasi-suffisant pour l’usage actuel, 100
+$/mois pour aller plus loin), agent principal sur GPT 5.5. Sous-agents sur Open Router pour les petites tâches
+afin de ne pas cramer les crédits du modèle principal.
+Workflows en production. Tous les lundis matin : génération de mails marketing Klaviyo en HTML propre —
+Hermes analyse les ventes de la semaine précédente sur Shopify et pousse les meilleurs produits/collections,
+avec variation du wording et de l’intitulé à chaque envoi. Même jour : deux brouillons de blog optimisés SEO (le
+workflow N8N a été créé par Hermes lui-même, avec branchements Google Search Console, Shopify et
+maillage interne). Automatisation Instagram et Pinterest également opérationnelle.
+Autonomie vs OpenClaw. L’avantage clé d’Hermes : il résout ses blocages tout seul là où OpenClaw
+demande des directives, avec une vérification automatique en fin de workflow via la version la plus poussée de
+GPT. Cette autonomie tient aussi au fait qu’OpenAI a racheté OpenClaw : l’orchestration d’agents s’est
+nettement améliorée côté GPT 5.5.
+« Là où Claude bloque et tu dois lui donner des directives, lui est carrément autonome. C’est ultra
+autonome ces trucs. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  3  —
+Vigilance. Les premiers brouillons restent à vérifier manuellement : Thibaud a constaté un cas où Hermes
+inserait sa propre réflexion en plein milieu d’un article de blog. L’automatisation ne dispense pas de la relecture,
+surtout sur la prospection et les mails clients.
+► Chiraz — Construction du site sur Full Stack
+Thème installé, ordre des étapes validé. Chiraz a téléchargé la dernière version du thème Full Stack (2.3.1)
+hier. Le coach a clarifié l’ordre opérationnel : (1) créer les métafields, (2) créer les collections en mode
+automatisé par règle (selon métafields), (3) importer un premier produit complet et brancher la page produit, (4)
+faire valider 2-3 produits par Théo ou Stéphanie avant de continuer en masse.
+Masterclass filtres Shopify. Démo live du système de filtres via métafields. Les balises sont à oublier (trop
+limitantes), les filtres se gèrent via champs méta type liste de choix texte (style, couleur, type, sexe, tenue).
+Cocher « utilisable comme filtre » dans la définition. Les filtres apparaissent ensuite dans Shopify Search &
+Discovery (app native obligatoire) où on supprime les filtres par défaut basés sur balises et on ajoute ses
+propres champs méta.
+Choix à faire
+Recommandation
+Raison
+Liste de choix vs texte libre
+Liste
+Évite les fautes/casses (« moderne » vs « Moderne »).
+Liste vs valeur unique
+Liste
+Permet plusieurs valeurs/produit (multi-styles).
+Collections manuelles
+À éviter
+Risque d’oubli sur 50-150 collections.
+Collections automatisées
+Recommandé
+Filtre par métafield = zéro oubli.
+App Search & Discovery
+Obligatoire
+Native Shopify, gérée par tous les thèmes.
+Design System Full Stack + Claude. Le thème embarque un module Design System Démo à ajouter en bas
+de page d’accueil temporairement : il affiche tous les composants (titres, boutons, accordéons, badges, pastilles
+couleur) qui se mettent à jour en temps réel quand on modifie typo ou couleurs dans les paramètres du thème.
+Aude a témoigné : Claude en version gratuite suffit pour obtenir des propositions de codes couleur et de typo —
+le combo Claude + Design System permet des allers-retours rapides sans installer l’app payante.
+« Au pire des cas, il y aura qu’une valeur mais ce sera une liste. Comme ça, si jamais ça doit
+évoluer, ce sera une liste. »
+— Coach Kraken
+► Pierre — Matching image AliExpress → 1688 via N8N
+Workflow en place. Pipeline N8N : image source AliExpress → Rapid API image search by 1688 (8 candidats
+retournés) → module HTTP Gemini 2.5 Flash avec prompt « product matching expert for e-commerce sourcing
+» → récupération du numéro du candidat le plus proche. Stabilité moyenne : variable selon le produit, parfois
+c’est l’API qui déconnecte, parfois Gemini.
+Pistes proposées. Tester d’autres modèles d’analyse d’image (potentiellement des modèles spécialisés sur
+Open Router), ou d’autres APIs de recherche par image sur 1688. Filtre « plus vendus » améliore légèrement la
+pertinence. Comparaison utile : l’extension AliPrice donne souvent de meilleurs résultats que l’API mais reste
+manuelle.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  4  —
+« Forcément il va se tromper trop de fois. Le manuel sur cette partie, c’est presque un gain de
+temps au final. »
+— Coach Kraken
+Note positive. Sur tout le reste du workflow produit (caractéristiques, poids, taille, nombre de poches), Claude
+a rempli un tableau Airtable complet en quelques minutes. La reconnaissance visuelle reste le seul point qui
+résiste à l’automatisation propre.
+► Aude — Accéder à 1688 sans créer de compte
+Aude voulait récupérer des photos supplémentaires de produits (vues arrière notamment, qu’AliExpress
+n’affiche pas toujours) mais l’interface 1688 est en chinois et la traduction automatique Chrome ne fonctionne
+pas bien sur leurs pages. Charlotte a partagé la méthode d’inscription : numéro de téléphone + code SMS +
+captcha visuel (énigme en chinois, brouillée — propose son aide sur WhatsApp). Pierre a proposé une
+alternative directe : l’extension Chrome AliPrice permet de télécharger les images depuis 1688 sans création de
+compte, et compare aussi avec d’autres fournisseurs chinois (Taobao, etc.) depuis une page AliExpress.
+⚙ POINT TECHNIQUE — BUG THÈME FULL STACK 2.3.1
+Stéphanie est intervenue en fin de session pour signaler un problème bloquant : sur la version 2.3.1 du thème
+Full Stack téléchargée récemment, le fichier templates/product.json est absent. Conséquence : impossible
+d’accéder ou de modifier la page produit dans l’éditeur Shopify. Le thème appelle plusieurs métafields
+(custom.avantages, custom.specifications, custom.image_blocking, etc.) qui doivent exister avant l’import pour
+que le modèle se génère.
+Solution court terme (si urgent) : recréer manuellement templates/product.json en copiant le contenu depuis le
+ZIP du thème, puis créer les métafields un par un à chaque erreur à l’enregistrement. Méthode laborieuse mais
+fonctionnelle.
+Solution propre : Théo a contacté Thomas pour correction. Dès mise à jour, message dans le groupe Kraken
+→ supprimer le thème actuel et rettélécharger la nouvelle version dans le panel Skool.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Raphaël
+PRIORITAIRE
+⚡ Mettre en place Trustpilot avec envoi auto vers la page d’avis externe déclenché sur retours
+positifs (évite l’abonnement payant).
+⚡ Lancer la stratégie de backlinks : c’est le levier d’autorité manquant sur cette grosse niche.
+⚡ Monter le budget Google Ads progressivement et surveiller la décroissance du taux d’impression
+perdu.
+SECONDAIRE
+○ Tester search Google Ads sur 1-2 catégories qui ressortent en data ou ventes, mini-budget 5 €/jour.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  5  —
+○ Abandonner l’idée d’upsell AliExpress sur le site clean (différentiel de livraison = mauvais avis).
+○ Prévoir pub catalogue Facebook/Instagram quand prêt : pertinent même sur gros ticket.
+○ Demander à Théo un check des mots-clés en MP s’il y a des produits qui draînent du budget sans vendre.
+  ⚓  Thibaud
+PRIORITAIRE
+⚡ Vigilance manuelle sur les premiers brouillons générés par Hermes (cas d’insertion de réflexion IA
+dans un article observé).
+⚡ Poursuivre l’automatisation Klaviyo et les flows hebdo : c’est le gain de temps le plus net.
+SECONDAIRE
+○ Lors de la migration vers Workspace : connecter Hermes à Gmail pour automatiser les réponses types («
+où est mon colis ») avec lien automatique vers Trustpilot si client satisfait.
+○ Optimiser les flows Klaviyo natifs en complément d’Hermes.
+○ Tester Discord plutôt que Telegram pour le pilotage : sous-agents par channel = plus poussé.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Attendre la mise à jour du thème Full Stack par Thomas (notification dans le groupe Kraken).
+⚡ Une fois le thème corrigé : créer les métafields, puis collections automatisées, puis importer 1
+premier produit complet.
+⚡ Faire valider 2-3 produits par Théo ou Stéphanie avant de basculer en masse.
+SECONDAIRE
+○ Utiliser Claude (version gratuite suffit) en parallèle du module Design System Démo pour la preview
+design.
+○ Si urgence : recréer manuellement templates/product.json + créer les métafields un par un selon les
+erreurs.
+○ Re-vue de la vidéo filtres Shopify enregistrée cet après-midi pour appliquer en autonomie.
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Pour le matching image 1688 : tester d’autres modèles d’analyse (modèles spécialisés Open
+Router) OU basculer en validation manuelle sur cette étape précise.
+SECONDAIRE
+○ Continuer à exploiter Claude pour le remplissage en masse des caractéristiques produits (Airtable) — ROI
+indéniable.
+○ Tester Open Screen ou CleanShot X pour les captures vidéo de travail.
+○ Si retour au manuel sur le matching : vraiment limiter le temps consacré, ne pas perdre une journée
+dessus.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Installer l’extension Chrome AliPrice pour télécharger les images de 1688 sans créer de compte.
+SECONDAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  6  —
+○ Si compte 1688 quand même nécessaire pour les descriptions : numéro de téléphone + SMS + captcha
+(Charlotte aide sur WhatsApp pour l’énigme visuelle).
+○ Profiter d’AliPrice pour comparer plusieurs fournisseurs chinois en un clic depuis AliExpress.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Maintenir la veille fournisseurs 1688 — expertise reconnue par le groupe sur les captchas et la
+connexion.
+SECONDAIRE
+○ Continuer à partager les méthodes pratiques avec les autres membres sur WhatsApp.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Surveiller le groupe Kraken pour l’annonce de mise à jour du thème Full Stack (si version 2.3.1
+installée récemment).
+SECONDAIRE
+○ Travail SEO/contenu/réseaux sociaux à mener en parallèle des Google Ads sur tout site lancé.
+○ Anticiper Trustpilot et la stratégie de backlinks dès les premiers retours positifs.
+○ Pour les agents IA autonomes (Hermes, Codex) : vigilance manuelle sur les premiers cycles de
+production.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/05/2026
+—  7  —
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Budget Google Ads
+50 €/jour
+Campagne shopping classique Raphaël
+Dépenses (7 jours)
+430 €
+Lancement Raphaël
+Retour trackké
+447 €
+Sur 4 commandes
+CA total réel (7 jours)
+772 €
+Hors commande 600 € en attente
+Commande Pinterest
+945 €
+Produit à 999 € avec 5 % de remise
+Catalogue shopping
+400-500 produits
+Sur 950 produits au total
+Taux d’impression perdu
+70 %
+Normal au lancement
+Taux de tracking
+70 %
+Cycle d’achat long sur gros panier
+Trackbee (2 sites)
+80 €/mois HT
+Solution tracking Raphaël
+Little Data
+0,35 €/cmd
+Alternative flex au lancement
+Blogs SEO
+5
+Maillage interne via Claude
+Mots-clés exclus
+400+
+Liste Google Ads Raphaël
+Plan GPT Codex
+20 $/mois
+Base Hermes — suffisant pour usage actuel
+Plan GPT Codex étendu
+100 $/mois
+Pour automatisation plus dense
+Modèle orchestrateur
+GPT 5.5
+Agent principal Hermes recommandé
+Thème Full Stack
+v2.3.1
+Bug template produit à corriger
+API matching image
+Gemini 2.5 Flash
+Stabilité moyenne sur 1688
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

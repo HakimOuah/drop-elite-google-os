@@ -1,0 +1,1045 @@
+WEBVTT
+
+1
+00:00:00.330 --> 00:00:00.680
+Salut.
+
+2
+00:00:00.680 --> 00:00:02.840
+Dans cette vidéo, nous allons voir comment créer un process.
+
+3
+00:00:02.950 --> 00:00:05.400
+L'idée tend de pouvoir suivre facilement du coup
+
+4
+00:00:05.420 --> 00:00:06.480
+ce que fait votre équipe.
+
+5
+00:00:06.480 --> 00:00:08.480
+Comment accélérer justement ça,
+
+6
+00:00:08.510 --> 00:00:12.560
+comment duvoir sans trop d'efforts, vérifier la qualité,
+
+7
+00:00:13.060 --> 00:00:15.480
+le suivi et la rapidité de vos équipes.
+
+8
+00:00:15.550 --> 00:00:17.200
+Donc moi là, je vais vous montrer, bien sûr,
+
+9
+00:00:17.310 --> 00:00:19.280
+avec la partie plutôt référence naturel,
+
+10
+00:00:19.670 --> 00:00:22.400
+l'idée étant de pouvoir refaire un process
+
+11
+00:00:22.990 --> 00:00:26.160
+pour gérer l'intégration des catégories, en si, parce que,
+
+12
+00:00:26.160 --> 00:00:28.240
+comme vous pouvez le voir, on a pré rédigé
+
+13
+00:00:28.660 --> 00:00:29.720
+des catégories en ici.
+
+14
+00:00:29.720 --> 00:00:31.040
+Mais malheureusement, c'est un peu nul.
+
+15
+00:00:31.220 --> 00:00:32.520
+Une fois la fameuse 80,
+
+16
+00:00:32.580 --> 00:00:34.880
+on a créé la boutique a des catégories qui ne sont pas
+
+17
+00:00:35.080 --> 00:00:38.040
+terribles, l'idée étant de pouvoir créer un process complet
+
+18
+00:00:38.220 --> 00:00:42.080
+de a à z pour pouvoir faciliter le suivi de l'intégration.
+
+19
+00:00:42.080 --> 00:00:43.800
+Vraiment purement ici de ces catégories.
+
+20
+00:00:44.110 --> 00:00:46.800
+Donc on va aller sur notion. Donc là moi, je me retrouve.
+
+21
+00:00:46.800 --> 00:00:48.880
+Voilà m. De blog icom.
+
+22
+00:00:48.980 --> 00:00:50.720
+On va pas, voilà, on s'en fiche un peu.
+
+23
+00:00:51.110 --> 00:00:54.440
+L'idée, ça va être de créer du coup. Donc une table d' Bay.
+
+24
+00:00:54.550 --> 00:00:55.560
+L'idée, c'est de pouvoir.
+
+25
+00:00:55.670 --> 00:00:58.000
+Donc rajouter tout simplement un
+
+26
+00:00:58.000 --> 00:00:59.160
+champ pour pouvoir suivre ça.
+
+27
+00:00:59.160 --> 00:01:01.480
+Donc moi, je vais appeler ça du coup le nom de la
+
+28
+00:01:01.480 --> 00:01:03.480
+catégorie Hop.
+
+29
+00:01:04.460 --> 00:01:06.400
+Je vais mettre ici du coup le vient de la catégorie.
+
+30
+00:01:06.420 --> 00:01:11.080
+Ça peut être utile. Donc là, on a besoin d'un nu
+
+31
+00:01:12.860 --> 00:01:14.720
+ici de l'avancement.
+
+32
+00:01:14.720 --> 00:01:16.200
+Donc on peut créer des propriétés.
+
+33
+00:01:16.630 --> 00:01:20.080
+Donc on va mettre plutôt un sélect et on va dire,
+
+34
+00:01:20.460 --> 00:01:24.160
+par exemple, planifier on va mettre
+
+35
+00:01:25.180 --> 00:01:27.320
+en cours ou plutôt en rédaction.
+
+36
+00:01:27.700 --> 00:01:31.320
+Si ça a été envoyé sur un rédacteur, on va mettre
+
+37
+00:01:33.890 --> 00:01:38.000
+prêt à poster Et on va mettre
+
+38
+00:01:38.620 --> 00:01:40.560
+du coup, on va juste mettre prêt à post.
+
+39
+00:01:40.560 --> 00:01:42.880
+On va pas mettre terminer parce que du coup,
+
+40
+00:01:42.880 --> 00:01:45.520
+on va justement rajouter une nouvelle colonnes qui vont
+
+41
+00:01:45.520 --> 00:01:46.680
+être du coup publiées.
+
+42
+00:01:47.180 --> 00:01:49.920
+Et on va mettre une case à coger, l'idée étant de pouvoir
+
+43
+00:01:50.790 --> 00:01:54.000
+filtrer le noion et le notion est pour affliger que le
+
+44
+00:01:54.000 --> 00:01:56.920
+travail qui reste à faire, c'est tout l'intérêt de la
+
+45
+00:01:56.920 --> 00:01:59.880
+puissance de cet outil, c'est de pouvoir justement créer des
+
+46
+00:01:59.880 --> 00:02:03.040
+filles qui vous permet facilement de visualiser du coup les
+
+47
+00:02:03.040 --> 00:02:04.080
+catégories réalisées.
+
+48
+00:02:04.220 --> 00:02:06.120
+Je vais vous montrer du quoi, un exemple rapide.
+
+49
+00:02:06.120 --> 00:02:07.320
+Donc là on ami publié,
+
+50
+00:02:07.580 --> 00:02:09.840
+il nous manque peut-être juste avant d'ailleurs que je
+
+51
+00:02:09.840 --> 00:02:12.360
+mettre tête juste avant va mettre plutôt une date de
+
+52
+00:02:12.360 --> 00:02:16.360
+publication pour pouvoir justement assigner une date de
+
+53
+00:02:16.360 --> 00:02:19.280
+publication et il nous manque justement le responsable.
+
+54
+00:02:20.230 --> 00:02:22.720
+Donc là moi, je vais mettre responsable.
+
+55
+00:02:23.260 --> 00:02:25.440
+Si vous avez une équipe un peu plus grande
+
+56
+00:02:25.950 --> 00:02:27.160
+l'idée, ça va pas.
+
+57
+00:02:27.160 --> 00:02:30.800
+Voilà de prendre une personne et d'aller choper. Justement.
+
+58
+00:02:31.180 --> 00:02:35.480
+Hop m'a dit que mon responsable, si j'ai du coup le ta,
+
+59
+00:02:36.140 --> 00:02:37.800
+il va directement voir ça.
+
+60
+00:02:37.800 --> 00:02:40.280
+Voilà, il est responsable date de publication.
+
+61
+00:02:40.300 --> 00:02:43.200
+Moi, j'ai besoin du coup qu'on va prendre toute la
+
+62
+00:02:43.200 --> 00:02:44.680
+liste des catégories.
+
+63
+00:02:44.680 --> 00:02:47.080
+Donc imaginons prend accessoire pour bébé.
+
+64
+00:02:47.500 --> 00:02:49.720
+Voilà moi, je vais tout simplement copier coller.
+
+65
+00:02:49.800 --> 00:02:50.240
+Alors il y a moyen
+
+66
+00:02:50.250 --> 00:02:51.880
+d'exporter un pour que ça soit plus rapide.
+
+67
+00:02:51.880 --> 00:02:54.320
+Mais je vous demande juste un exemple
+
+68
+00:02:55.460 --> 00:02:57.800
+sur comment organiser ces catégories.
+
+69
+00:02:57.950 --> 00:03:00.040
+L'idée, c'est vraiment que vous pouvez appliquer ce type de
+
+70
+00:03:00.040 --> 00:03:03.200
+côté, surtout un structural de produit sur du si.
+
+71
+00:03:03.600 --> 00:03:06.240
+Alors là, je me suis trompé, j'ai pris d'ailleurs,
+
+72
+00:03:06.240 --> 00:03:09.440
+j'aurais dû acheter l'url juste avant réc lur.
+
+73
+00:03:10.340 --> 00:03:11.520
+Je prends le lien de la catégorie.
+
+74
+00:03:13.270 --> 00:03:17.880
+Donc là, je vais prendre, par exemple, ba, voir. Voilà.
+
+75
+00:03:18.140 --> 00:03:19.800
+Je ne veux pas tous les faire. Je vais montrer
+
+76
+00:03:19.800 --> 00:03:20.960
+rapidement comment on fait.
+
+77
+00:03:22.550 --> 00:03:26.440
+J'ai pris le, je prend du coup d'avoir le titre,
+
+78
+00:03:33.900 --> 00:03:36.320
+Non, je fais un peuple.
+
+79
+00:03:36.460 --> 00:03:39.960
+On a donc ici est dans d'avancement planifié.
+
+80
+00:03:39.960 --> 00:03:41.560
+Donc là, c'est mon rôle. Le planifié.
+
+81
+00:03:41.560 --> 00:03:42.800
+J'ai envie de lui dire que du coup,
+
+82
+00:03:42.800 --> 00:03:46.800
+j'ai besoin pour vendredi prochain, qui du coup un poste,
+
+83
+00:03:47.060 --> 00:03:48.240
+la date, s'il en retard,
+
+84
+00:03:48.260 --> 00:03:49.800
+je vais pouvoir créer un nouveau fait.
+
+85
+00:03:49.800 --> 00:03:53.280
+Je vous montrerais ça juste après hop et celui là,
+
+86
+00:03:53.280 --> 00:03:56.200
+j'ai besoin la semaine d'après je laissé trois jours de
+
+87
+00:03:56.200 --> 00:03:58.640
+plus, je lui mettre par le février 22.
+
+88
+00:03:59.060 --> 00:04:03.760
+Ok, toujours responsable m'a dit et donc là, logiquement,
+
+89
+00:04:04.220 --> 00:04:07.240
+il va recevoir une petite alerte dans ces dates.
+
+90
+00:04:07.740 --> 00:04:10.840
+Et du coup, il aura pour mission de pouvoir simplement
+
+91
+00:04:10.840 --> 00:04:14.080
+travailler dessus, mettre dans l'état
+
+92
+00:04:14.080 --> 00:04:15.360
+d'avancement ou ça en est.
+
+93
+00:04:15.390 --> 00:04:17.520
+Donc moi, je vais pouvoir voir s'il a vraiment lancé.
+
+94
+00:04:17.520 --> 00:04:18.680
+Donc si je me rend rencontre, par exemple,
+
+95
+00:04:18.900 --> 00:04:21.400
+on est le 17 février qui n'a toujours pas mis en rédaction.
+
+96
+00:04:22.100 --> 00:04:24.160
+Il aura un problème. Et je pense que dans cas là,
+
+97
+00:04:24.160 --> 00:04:24.880
+ça sera assez facile
+
+98
+00:04:25.300 --> 00:04:26.560
+de comprendre qu'il n'a pas fait son travail.
+
+99
+00:04:27.380 --> 00:04:29.760
+Et si du coup, il coche la cage, je s'adresse enlever.
+
+100
+00:04:29.760 --> 00:04:32.400
+Donc là pour faire en sorte de voir justement de suivre le
+
+101
+00:04:32.400 --> 00:04:34.680
+travail fini et le travail non suivi, vous pouvez,
+
+102
+00:04:34.680 --> 00:04:36.720
+avec une notion, mettre des filtres.
+
+103
+00:04:36.870 --> 00:04:39.240
+Donc là, par exemple, je vais créer un fil pour dire
+
+104
+00:04:39.820 --> 00:04:43.200
+que je ne veux que publier soit décoché.
+
+105
+00:04:43.310 --> 00:04:45.320
+Donc, si par exemple, je vais cocher,
+
+106
+00:04:45.320 --> 00:04:48.000
+vous allez voir que ça va s'enlever sous l'intérêt.
+
+107
+00:04:48.000 --> 00:04:50.200
+Voilà, je vais contrôler pour venir en arrière,
+
+108
+00:04:50.750 --> 00:04:51.880
+mais c'est tout l'intérêt.
+
+109
+00:04:52.340 --> 00:04:55.680
+Je peux également carrément créer aussi liste de
+
+110
+00:04:55.680 --> 00:04:57.240
+catégories en retard.
+
+111
+00:04:58.100 --> 00:04:59.920
+Je peux dupliqué ça.
+
+112
+00:05:01.340 --> 00:05:06.120
+On va mettre description si en retard.
+
+113
+00:05:06.750 --> 00:05:09.400
+Donc encore une fois, moi, je vais dupliquer.
+
+114
+00:05:09.520 --> 00:05:10.840
+Alors dans l'idée, il aurait fallu faire
+
+115
+00:05:11.420 --> 00:05:14.440
+une date à base qu'elle a même parce que dans ce cas, là là,
+
+116
+00:05:14.440 --> 00:05:15.600
+on est en train de faire de date à base.
+
+117
+00:05:15.630 --> 00:05:17.560
+Mais je vous montre juste pour,
+
+118
+00:05:18.390 --> 00:05:20.240
+pour vous montrer ce qu'on est capable de
+
+119
+00:05:20.240 --> 00:05:21.520
+faire avec des filtres.
+
+120
+00:05:22.500 --> 00:05:24.160
+Je pourrais dire, hop,
+
+121
+00:05:25.540 --> 00:05:29.920
+je veux que date de publication a été dit fort
+
+122
+00:05:30.940 --> 00:05:35.280
+du coup, tout des voilà.
+
+123
+00:05:36.310 --> 00:05:40.280
+Donc, si c'est un, voilà est bon.
+
+124
+00:05:40.540 --> 00:05:43.280
+Si par exemple, j'avais mis ou février un.
+
+125
+00:05:43.280 --> 00:05:45.200
+Donc là faudrait, je rappelle qu'on est pas sur la même
+
+126
+00:05:45.200 --> 00:05:47.840
+data, mais si j'avais connecté les deux database,
+
+127
+00:05:48.320 --> 00:05:49.760
+regardez, je vais vous montrer l'exemple.
+
+128
+00:05:49.780 --> 00:05:54.440
+Je vais le refaire en En mettant plutôt février 10.
+
+129
+00:05:56.100 --> 00:05:57.680
+Si du coup je mets un filtre
+
+130
+00:06:01.710 --> 00:06:05.880
+bout, date de publication, c'est
+
+131
+00:06:07.810 --> 00:06:12.200
+avant, vous allez voir que du coup ici, vous pouvez
+
+132
+00:06:13.070 --> 00:06:15.360
+filtrer et voir que la déception
+
+133
+00:06:16.010 --> 00:06:18.040
+été retard et du coup automatiquement,
+
+134
+00:06:18.040 --> 00:06:20.560
+vous vous créer un tableau pour voir le travail.
+
+135
+00:06:21.140 --> 00:06:22.600
+Je vais vous montrer justement comment en ligne,
+
+136
+00:06:22.600 --> 00:06:24.160
+normalement l'état tab juste après là,
+
+137
+00:06:24.160 --> 00:06:26.800
+je vous demande juste déjà la puissance des filtres
+
+138
+00:06:30.670 --> 00:06:32.930
+Ici, par exemple, on pourrait également afficher tout
+
+139
+00:06:32.930 --> 00:06:34.330
+simplement le travail terminé.
+
+140
+00:06:34.330 --> 00:06:35.530
+Donc pour ça, tout simplement,
+
+141
+00:06:35.530 --> 00:06:37.530
+vous pouvez inverser si c'est publié.
+
+142
+00:06:37.530 --> 00:06:40.490
+Et là vous pouvez voir le coup, tout le travail termin.
+
+143
+00:06:40.880 --> 00:06:43.010
+Donc là, je vous ai montré déjà la plusieurs notions sur
+
+144
+00:06:43.010 --> 00:06:44.850
+uniquement les filtres normalement du coup.
+
+145
+00:06:44.850 --> 00:06:48.370
+Donc si vous voulez faire toujours la même data b de pouvoir
+
+146
+00:06:48.370 --> 00:06:50.570
+afficher les mêmes données et que ça s'affiche bien,
+
+147
+00:06:50.590 --> 00:06:52.330
+en réalité, il n'aurait pas fallu cliquer sur
+
+148
+00:06:52.510 --> 00:06:54.050
+créer une table database.
+
+149
+00:06:54.050 --> 00:06:56.530
+Il aurait fallu créer une ligne database.
+
+150
+00:06:56.950 --> 00:06:58.570
+Et là on aurait pu créer une database.
+
+151
+00:06:58.790 --> 00:07:00.570
+Par exemple, attendez, je vais le faire.
+
+152
+00:07:00.910 --> 00:07:02.410
+Je vais faire plutôt comme ça ici.
+
+153
+00:07:02.410 --> 00:07:04.050
+Je vais l'appeler base de données,
+
+154
+00:07:05.680 --> 00:07:07.690
+base de données du coup, description.
+
+155
+00:07:07.830 --> 00:07:10.010
+Et si à vos bébé,
+
+156
+00:07:12.550 --> 00:07:13.930
+je vais le mettre histoire,
+
+157
+00:07:13.990 --> 00:07:15.690
+je le mets juste à côté histoire de le trouver.
+
+158
+00:07:16.550 --> 00:07:17.810
+La base de données ici.
+
+159
+00:07:18.040 --> 00:07:20.610
+L'idée, c'est vraiment pouvoir le récupérer facilement
+
+160
+00:07:23.150 --> 00:07:24.810
+là ici, je vais faire ligne de ta base.
+
+161
+00:07:25.230 --> 00:07:28.810
+Et normalement, si je tape pas de donner une description,
+
+162
+00:07:29.070 --> 00:07:31.290
+voilà, ça s'affiche ici et là.
+
+163
+00:07:31.290 --> 00:07:33.330
+Normalement, si je refais du premier filtre,
+
+164
+00:07:33.590 --> 00:07:34.610
+les deux sont connectés.
+
+165
+00:07:35.110 --> 00:07:36.690
+Ok, donc là c'est, par exemple,
+
+166
+00:07:36.690 --> 00:07:38.770
+j'appelle je vais le faire correctement.
+
+167
+00:07:38.770 --> 00:07:40.250
+Je vais refaire ce que je vous ai montré.
+
+168
+00:07:41.070 --> 00:07:42.810
+Un du coup, c'est bien.
+
+169
+00:07:42.810 --> 00:07:44.010
+Ça m'a permis de vous montrer une
+
+170
+00:07:44.010 --> 00:07:45.290
+potentielle erreur que vous pouvez faire.
+
+171
+00:07:46.310 --> 00:07:48.890
+Un, je vais mettre par exemple description
+
+172
+00:07:49.390 --> 00:07:52.170
+si Terminée.
+
+173
+00:07:55.040 --> 00:07:59.690
+Donc ici, je vais mettre un filtre, on remet,
+
+174
+00:08:01.240 --> 00:08:03.690
+publié, égale tchèque.
+
+175
+00:08:04.660 --> 00:08:06.970
+Comme vous pouvez le voir ici, ça s'affiche.
+
+176
+00:08:07.010 --> 00:08:08.370
+Bien que cette description,
+
+177
+00:08:08.550 --> 00:08:09.850
+on peut faire exactement la même chose.
+
+178
+00:08:09.850 --> 00:08:13.290
+Quand je vous ai montré avec tâche en retard, description
+
+179
+00:08:14.070 --> 00:08:16.210
+en retard d'ailleurs que je vais mettre plutôt en
+
+180
+00:08:16.210 --> 00:08:17.330
+haut, ça me paraît plus logique.
+
+181
+00:08:18.870 --> 00:08:22.010
+Et ici je vais réinsérer une description.
+
+182
+00:08:23.320 --> 00:08:24.970
+Donc je vais créer une ligne
+
+183
+00:08:25.210 --> 00:08:29.810
+database description.
+
+184
+00:08:34.270 --> 00:08:36.650
+Et donc là en retard, on va remettre nos chiffres.
+
+185
+00:08:36.650 --> 00:08:39.850
+Donc si vous m'avez suivi du coup, on va mettre
+
+186
+00:08:40.360 --> 00:08:43.970
+publié égale un tchèque et on va mettre une date de
+
+187
+00:08:43.970 --> 00:08:46.850
+publication inférieure à
+
+188
+00:08:49.160 --> 00:08:50.890
+aujourd'hui aujourd'hui.
+
+189
+00:08:52.560 --> 00:08:56.760
+Donc là, si je mets, par exemple cette date inférieure,
+
+190
+00:08:56.870 --> 00:08:59.200
+quoi aujourd'hui, donc pour le 10 février, normalement,
+
+191
+00:08:59.500 --> 00:09:02.240
+ça devrait disparaître d'ici pour réapparaît ici.
+
+192
+00:09:03.620 --> 00:09:06.320
+Voilà. Alors ça n'a pas cette dedans.
+
+193
+00:09:06.320 --> 00:09:08.200
+Ça dispara pas parce effect, toujours en production.
+
+194
+00:09:08.420 --> 00:09:10.480
+Par contre, vous voyez ici en tâche en
+
+195
+00:09:10.480 --> 00:09:11.880
+retard, ça s'est bien ajouté.
+
+196
+00:09:11.940 --> 00:09:15.080
+Et si la par je coche ici et bien, dans ce cas là,
+
+197
+00:09:15.080 --> 00:09:17.960
+les deux vont disparaître et ça va apparaître ici.
+
+198
+00:09:19.100 --> 00:09:22.560
+Voilà. Vous voyez, c'est paru ici. Voilà.
+
+199
+00:09:22.620 --> 00:09:24.560
+Je vous montre un petit exemple de comment est ce qu'on
+
+200
+00:09:24.600 --> 00:09:26.280
+pourrait arranger ça.
+
+201
+00:09:26.280 --> 00:09:28.320
+Mais en réalité, une notion est un très flexible.
+
+202
+00:09:28.320 --> 00:09:30.040
+Vous avez tout à fait la possibilité même de
+
+203
+00:09:30.110 --> 00:09:31.400
+mter des vues différentes.
+
+204
+00:09:31.400 --> 00:09:32.520
+On pourrait même, par exemple,
+
+205
+00:09:32.620 --> 00:09:35.240
+mettre une timeline d'intégration dont je vais vous montrer
+
+206
+00:09:35.580 --> 00:09:37.400
+ça juste maintenant, on ne pour pas faire,
+
+207
+00:09:37.420 --> 00:09:39.200
+par exemple, une ligne d Bay.
+
+208
+00:09:39.200 --> 00:09:41.760
+Ils ont toujours, on va réutiliser la
+
+209
+00:09:41.790 --> 00:09:43.360
+fameuse base de données.
+
+210
+00:09:46.200 --> 00:09:47.800
+C'était du coup description.
+
+211
+00:09:47.870 --> 00:09:51.400
+Dans cette description, je me perd avant ce que je fais,
+
+212
+00:09:54.440 --> 00:09:58.930
+description si a un bébé.
+
+213
+00:09:59.550 --> 00:10:02.330
+Et donc là, on pourrait très bien créer une timeline.
+
+214
+00:10:04.950 --> 00:10:08.490
+Et donc là, on verrait normalement de quand est ce que les
+
+215
+00:10:08.610 --> 00:10:10.970
+descriptions si devraient être ajoutées.
+
+216
+00:10:11.070 --> 00:10:14.090
+Ça vous permet d'avoir une bonne vision à reconnecter tous
+
+217
+00:10:14.090 --> 00:10:15.970
+les jours sur vos équipes sur les descriptions.
+
+218
+00:10:16.070 --> 00:10:17.690
+Si vous pouvez voir là,
+
+219
+00:10:17.870 --> 00:10:20.050
+si vous arrivez à une date et que ce n'est pas publié,
+
+220
+00:10:20.050 --> 00:10:22.330
+on pourrait d'ailleurs même mettre un filtre, par exemple,
+
+221
+00:10:22.330 --> 00:10:24.290
+pour dire à l'état de l'avancement
+
+222
+00:10:25.460 --> 00:10:27.610
+n'est pas en rédaction.
+
+223
+00:10:28.110 --> 00:10:30.530
+Là, on pourrait se dire on arrive sur cette date.
+
+224
+00:10:30.910 --> 00:10:32.610
+Qu'est ce qui se passe? Pourquoi est ce que ça
+
+225
+00:10:32.610 --> 00:10:33.690
+n'a pas été envoyé en rédaction?
+
+226
+00:10:33.790 --> 00:10:36.130
+Ça vous permet d'avoir du coup un suivi extrêmement précis.
+
+227
+00:10:36.510 --> 00:10:38.890
+Si par exemple, du coup, je vais me remettre sur
+
+228
+00:10:39.470 --> 00:10:41.810
+la table de base, donc je vais le mettre,
+
+229
+00:10:41.830 --> 00:10:43.490
+je vais reduplique une catégorie.
+
+230
+00:10:43.490 --> 00:10:47.490
+Donc on va prendre, par exemple, bibon Un
+
+231
+00:10:48.230 --> 00:10:51.130
+si je mets biberons et je mets que c'est planifié,
+
+232
+00:10:51.130 --> 00:10:53.050
+mais je mets que le 14 n'a toujours pas été envoyé,
+
+233
+00:10:53.670 --> 00:10:55.850
+que c'est pour 14 et que ça n'a toujours pas été envoyé
+
+234
+00:10:55.850 --> 00:10:56.930
+en rédaction là.
+
+235
+00:10:56.930 --> 00:10:58.730
+Comme vous pouvez le voir, ça s'est rajouté sur la timeline.
+
+236
+00:10:58.950 --> 00:11:00.890
+On est le 11. Voilà un rédacteur.
+
+237
+00:11:00.960 --> 00:11:03.410
+Mais généralement après, ça va dépendre de vos rédacteurs,
+
+238
+00:11:03.410 --> 00:11:04.490
+mais plus de trois jours pour faire un
+
+239
+00:11:04.490 --> 00:11:05.690
+article là, il y a un problème.
+
+240
+00:11:05.690 --> 00:11:08.450
+Ça vous permet d'avoir une alerte de vos équipes.
+
+241
+00:11:08.560 --> 00:11:09.970
+Vous pouvez également créer des
+
+242
+00:11:09.970 --> 00:11:11.410
+notifications pour vous alerter.
+
+243
+00:11:11.550 --> 00:11:13.690
+Et là, ça vous permet du coup d'avoir un suivi et un procès
+
+244
+00:11:13.690 --> 00:11:15.610
+d'équipe extrêmement puissant.
+
+245
+00:11:15.630 --> 00:11:17.730
+Voilà nous. C'est comme ça qu'on crée nos procès de suivi.
+
+246
+00:11:18.000 --> 00:11:19.970
+Bien sûr, les procès, ce n'est pas que du suivi,
+
+247
+00:11:20.140 --> 00:11:22.330
+c'est également dans la création un procès.
+
+248
+00:11:22.360 --> 00:11:25.010
+Donc je vous invite à revoir la
+
+249
+00:11:25.010 --> 00:11:26.410
+partie sur l'intégration produit.
+
+250
+00:11:26.470 --> 00:11:27.810
+On vous fournit un process complet,
+
+251
+00:11:28.320 --> 00:11:30.130
+justement avec des vidéos lo, etc.
+
+252
+00:11:30.180 --> 00:11:32.530
+C'est aussi intéressant de fournir ce type de documentation
+
+253
+00:11:32.750 --> 00:11:35.330
+à vos équipes pour tout simplement traiter une tâche.
+
+254
+00:11:35.630 --> 00:11:38.330
+Moi là, je viens vous montrer un exemple de process de suivi
+
+255
+00:11:38.710 --> 00:11:40.930
+sur notion quand une fois il existe d'autres logiciels,
+
+256
+00:11:41.160 --> 00:11:43.890
+mais c'est notion statue, utilisez le,
+
+257
+00:11:43.990 --> 00:11:45.210
+je vous recommande fortement,
+
+258
+00:11:45.320 --> 00:11:47.490
+vous avez plein de possibilités grâce
+
+259
+00:11:47.670 --> 00:11:48.890
+à ces bases de données.
+
+260
+00:11:48.890 --> 00:11:51.050
+Voilà, on se retrouve du coup dans une prochaine vidéo.
+
+261
+00:11:51.050 --> 00:11:53.130
+Encore une fois, de skying a tout de suite.

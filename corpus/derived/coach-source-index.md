@@ -2,7 +2,7 @@
 
 ## Statut de la relecture
 
-Relecture sémantique intégrale effectuée le **2026-08-08** sur les **65 fichiers de sous-titres** du lot et sur la **transcription pilote canonique**, soit 66 contenus parlés. Le second lot de 17 contenus (netlinking, contenu, avis, Facebook, SAV, email marketing, automatisation sociale) a été fourni par Hakim et relu le 2026-08-08. Cette relecture porte sur le texte disponible, pas sur une écoute humaine systématique des médias.
+Relecture sémantique intégrale effectuée le **2026-08-08** sur les **228 fichiers de sous-titres** du lot et sur la **transcription pilote canonique**, soit 229 contenus parlés. Le second lot de 17 contenus (netlinking, contenu, avis, Facebook, SAV, email marketing, automatisation sociale) a été fourni par Hakim et relu le 2026-08-08. Cette relecture porte sur le texte disponible, pas sur une écoute humaine systématique des médias.
 
 - `ASSIMILE_TEXTE` : le texte a été lu de bout en bout et ses enseignements ont été classés.
 - `ASSIMILE_TEXTE_QUALITE_LIMITEE` : le texte a été lu, mais l'automatique, le manque d'image ou des segments pauvres limitent la certitude.
@@ -292,18 +292,238 @@ Les titres des Vimeo ci-dessous restent des descriptions reconstruites à partir
 
 `ASSIMILE_TEXTE_QUALITE_LIMITEE`. Session de 2 h 30 couvrant audits de sites/comptes, budget vs CPC, requêtes, exclusions produit, conversion tracking, exclusion de données, tROAS, AOV, frais de port, segmentation profit et PMax. Le passage [01:44:56–01:46:38] recommande un minimum de textes marketing pendant une demande d'examen ; cette logique alimente désormais le livrable `GMC_READY`, puis la transition documentée vers `GROWTH_MARKETING`. Les identités multi-boutiques artificiellement séparées, répétitions de comptes pour fuir un ban et contenus trompeurs restent `EXCLU_SYSTEME`. Les calculateurs de profit/valorisation du module 13 mentionnés au début sont absents.
 
-## Documents associés lus
+## Second versement — cours complet Skool (ingéré le 2026-08-08)
 
-- `Fast-Track GMC Approval Framework - 2026 Edition (2)` : préparation GMC, cohérence et modèles, mais aussi proxy/anti-detect, identité isolée et règles d'auteur non officielles ; ces tactiques sont exclues.
-- `gmc_checklist_terry_ecom_2026` : checklist de préparation et suivi, utile comme audit secondaire ; délais, score PageSpeed et isolement multi-boutiques restent à vérifier.
-- `gmc_policy_templates_2026` : base anglophone générique ; les versions `policies-fr/` sont des adaptations paramétrables, pas un avis juridique.
-- `Google_Ads_Scaling_Framework 2026 Edition (5)` : discipline PMax et paliers, mais sa définition `revenu - ad spend = profit` est incorrecte pour piloter une entreprise et a été remplacée par la marge contributive.
+Transcriptions récupérées depuis le Classroom Skool complet (29 modules). Statut `INGERE_TEXTE_BRUT` : le sous-titre automatique est disponible en corpus et le titre est observé depuis la plateforme ; la relecture sémantique fine reste à faire à la demande via `scripts/search_corpus.py`. Les modules déjà relus en profondeur (niche, architecture, SEO on-site, Google Ads 2025, email, SAV, netlinking, Facebook) gardent leurs fiches détaillées plus haut ; cette section recense ce qui complète le corpus.
 
-## Mode d'usage coach
+### Module 0 — Introduction
 
-1. Router la question vers 2 à 6 sources ci-dessus.
-2. Rechercher le passage exact et citer `source_id [timecode]`.
-3. Restituer d'abord `Ce que la formation enseigne`.
-4. Séparer ensuite `Décision projet`, `preuve actuelle`, `contradiction` et `manquant`.
-5. Ne jamais combler une pièce jointe ou un module absent avec une invention.
-6. Pour GMC, savoir construire les deux états décrits par `skills/creer-boutique-niche-google/references/store-states-gmc-growth.md` et classifier le comportement précis plutôt que d'exclure toute évolution marketing post-approbation.
+- `vimeo-caption-1095610048` — Chapitre 1 : Présentation de Tristan `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095610013` — Chapitre 2 : Présentation d'Enzo `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095609742` — Chapitre 5 : Le marché actuel `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1101580762` — Présentation des coachs `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095610086` — Chapitre 4 : Les 5 erreurs en se lançant `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095609708` — Chapitre 6 : Les points clés de la Méthode Kraken `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095610065` — Chapitre 3 : La méthode `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1095609605` — AVANT-PROPOS : A REGARDER AVANT LA FORMATION `INGERE_TEXTE_BRUT`
+
+### Module 1 — Choix de la niche
+
+- `vimeo-caption-1104500250` — Chapitre O : Important avant de commencer `INGERE_TEXTE_BRUT`
+
+### Module 3 — Site WordPress
+
+- `vimeo-caption-1089119178` — Chapitre 5 : Réalisation d'une maquette graphique `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119904` — Partie 6 : Création du Header et Footer `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119251` — Chapitre 8 : Exemple de checkout `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089120047` — Partie 8 : Mise en place du Checkout `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119808` — Partie 5 : Intégration de page accueil `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119981` — Partie 7 : Intégration de fiche produit `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1086024758` — Chapitre 1 : Définition, enjeux et étapes `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119203` — Chapitre 6 : Intégration de la maquette `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119609` — Partie 1 : Réglages de Wordpress `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1086024860` — Chapitre 3 : Maquette VS Template `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119287` — Chapitre 9 : Synergie des extensions `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119757` — Partie 4 : Meta Boxes avec JetEngine `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119227` — Chapitre 7 : 7 erreurs à ne plus faire en design `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119313` — Chapitre 11 : LIVE Application sur boutique `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119704` — Partie 3 : Création des catégories `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1086024802` — Chapitre 2 : Choisir correctement son CMS `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1086024731` — Chapitre 10 : Conclusion et présentation du live `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089119639` — Partie 2 : Paramétrages `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1086024826` — Chapitre 4 : Design et charte graphique `INGERE_TEXTE_BRUT`
+- `X1wGsUTpocc` — Chapitre 13.1 : Consent mode V2 / Théorie `INGERE_TEXTE_BRUT`
+- `EY_nm5gjY60` — Chapitre 13.2 : Consent mode V2 / Pratique `INGERE_TEXTE_BRUT`
+
+### Module 3bis — Site Shopify
+
+- `vimeo-caption-1094109960` — Chapitre 2.2 : Personnalisation du thème `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110482` — Chapitre 5.1 : Réglages et préférences `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110529` — Chapitre 5.2 : Les paramètres `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094109579` — Chapitre 2.1 : Présentation de Shopify `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110857` — Chapitre 8.2 : Import Produit et Commande `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110285` — Chapitre 3 : Choisir entre thème et builder `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094111008` — Chapitre 12 : GTIN et Flux produits `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110421` — Chapitre 4 : Installer un thème et le configurer `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110690` — Chapitre 7 : Les apps indispensables `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1113226843` — Chapitre 11 : Symprosys - Custom Label `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094109549` — Chapitre 1 : Pourquoi choisir Shopify `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110920` — Chapitre 9 : Fiche produit et metaboxe `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1094110810` — Chapitre 8.1 : DSERS `INGERE_TEXTE_BRUT`
+- `0oq2E-xdEpk` — Chapitre 13 : Consent Mode V2 sur Shopify `INGERE_TEXTE_BRUT`
+- `KSfXtPnk7TE` — BONUS 2 : Rentability - Contrôle tes marges `INGERE_TEXTE_BRUT`
+- `3IMKclWklH4` — Présentation du thème : Fullstack x Kraken `INGERE_TEXTE_BRUT`
+
+### Module 4 — Intégration produit
+
+- `vimeo-caption-1107487271` — Chapitre 8 : LIVE Application sur boutique `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1107477794` — Chapitre 5 : Intégration avec AliDropship `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1107477849` — Chapitre 6 : Intégration produit avec DSERS `INGERE_TEXTE_BRUT`
+- `Vz08nhnnj5U` — BONUS -  Ali2Shopify : Intégration avec IA `INGERE_TEXTE_BRUT`
+
+### Module 4B — IA & Automatisations (Claude Code)
+
+- `vimeo-caption-1200120017` — Connecter Claude à Woocommerce via API REST `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1200120019` — Connecter Claude à Shopify : tutoriel `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1200120016` — Claude Code : Structure & premiers pas `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1200120018` — Claude x Shopify : Intégration produits `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1200122032` — Claude Code : IDE & Ergonomie `INGERE_TEXTE_BRUT`
+
+### Archive — Module 5 Google Ads (méthode Charognard)
+
+- `vimeo-caption-1089375435` — Chapitre 14 : LIVE - Application sur vos boutiques `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375719` — Chapitre 4 : L'optimisation de marge avancée `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375407` — Chapitre 10 : Méthode Charognard Optimisation 3 `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375811` — Chapitre 7 : Campagne branding `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375423` — Chapitre 11 : Kraken Scaling `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375380` — Chapitre 9 : Méthode Charognard Optimisation 2 `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375629` — Chapitre 1 : Explication de la stratégie globale `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375750` — Chapitre 5 : Faire valider son compte Google `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375785` — Chapitre 6 : Méthode Charognard `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375690` — Chapitre 3 : Optimisations avancées de flux Kraken `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375656` — Chapitre 2 : Configuration d'un Google Marchand `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089375835` — Chapitre 8 : Méthode Charognard Optimisation 1 `INGERE_TEXTE_BRUT`
+- `Sm2Y6iNzr_c` — Chapitre 13.2 : Configuration de balise Google Ads `INGERE_TEXTE_BRUT`
+- `Pes8R1A3xLY` — Chapitre 13.1 : Configuration de balise Google Ads `INGERE_TEXTE_BRUT`
+
+### Module 6 — Stratégie SEO
+
+- `vimeo-caption-1089317804` — SEMJuice : Editorial & Premium `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089317829` — Rocketlinks : Puissant & Maîtrisé `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089317770` — Ecomlink : Autorité & Stratégie `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089317539` — Suivre et améliorer son SEO avec Search Console `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089317522` — Plugins de performance : bien optimiser son site `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089317781` — SEO Pepper : Simple & Efficace `INGERE_TEXTE_BRUT`
+
+### Module 7 — Email Marketing (Juka)
+
+- `vimeo-caption-1113557750` — Chapitre 7 : Bilan `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1113558058` — Chapitre 8 : Déléguer sa gestion `INGERE_TEXTE_BRUT`
+
+### Module 7 — Email Automation (Brevo)
+
+- `vimeo-caption-1200997415` — Chapitre 1 : Configuration de base - Brevo `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1201000501` — Chapitre 3 : Pop-up de captures & Flows `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1200998073` — Chapitre 2 : Créer et automatiser ses emails `INGERE_TEXTE_BRUT`
+
+### Archive — Module 7 Email (Klaviyo)
+
+- `vimeo-caption-1087787430` — Chapitre 1 : Stratégie sur les e-mails `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787624` — Chapitre 7 : Customisation d'e-mail transactionnel `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787588` — Chapitre 5 : L'équipe email marketing `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787479` — Chapitre 3 : L'e-mail transactionnel et marketing `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787447` — Chapitre 2 : Comment capter des e-mails facilement `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787604` — Chapitre 6 : Installation de Klaviyo sur Shopify `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087787527` — Chapitre 4 : Les flows à mettre en place `INGERE_TEXTE_BRUT`
+
+### Module 9 — SAV (Help Scout)
+
+- `vimeo-caption-1088387997` — Chapitre 7 : Processus d'amélioration des produits `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088388038` — Chapitre 8 : 5 astuces pour diminuer votre SAV `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088387939` — Chapitre 4 : Helpscout - Gestion des tickets `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088387976` — Chapitre 6 : Helpscout - KPI's `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088387890` — Chapitre 3 : Helpscout - Présentation `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088387954` — Chapitre 5 : Helpscout - Suivi opérateur `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088388088` — Chapitre 9 : Mesurer taux de satisfaction et LTV `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1088387861` — Chapitre 2 : Helpscout - Introduction `INGERE_TEXTE_BRUT`
+
+### Module 10 — Travailler avec un agent / ERP
+
+- `vimeo-caption-1087788564` — Chapitre 1 : Pourquoi avoir un agent `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788677` — Chapitre 4 : Installation d'un ERP - Introduction `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788617` — Chapitre 2 : Ce qui nous a fait perdre de l'argent `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788701` — Chapitre 5 : Installation d'un ERP ou export CSV `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788644` — Chapitre 3 : Faire évoluer votre service de marque `INGERE_TEXTE_BRUT`
+
+### Module 11 — Structure légale
+
+- `vimeo-caption-1100102487` — FAQ avec Legal place `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089473725` — Introduction à l'entreprise avec Tristan `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089473739` — Introduction à l'entreprise avec Enzo `INGERE_TEXTE_BRUT`
+- `XhAJG6gopyM` — Chapitre 4bis : La comptabilité en ligne `INGERE_TEXTE_BRUT`
+- `JVpcCh0OUfI` — Chapitre 3bis : Domicilier son entreprise `INGERE_TEXTE_BRUT`
+- `ihCsWQkmfaE` — Chapitre 2 : La création de l'entreprise `INGERE_TEXTE_BRUT`
+- `9vcyc_XPqnk` — Chapitre 3 : Domicilier son entreprise `INGERE_TEXTE_BRUT`
+- `ffuYF6q_-Pg` — Chapitre 4 : La comptabilité en e-commerce `INGERE_TEXTE_BRUT`
+- `_Jww5002w7M` — Chapitre 2bis : La création de l'entreprise `INGERE_TEXTE_BRUT`
+- `RRehUD4-C5k` — Chapitre 1 : Le choix de son statut `INGERE_TEXTE_BRUT`
+
+### Module 12 — Scaling ultime
+
+- `vimeo-caption-1089486869` — Chapitre 2 : Mission, Vision, Valeurs `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089487097` — Chapitre 7 : Méthode de création de processus `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089487199` — Chapitre 9 : Introduction au Scaling Kraken `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089487059` — Chapitre 6 : Notre arme secrète de gestion `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089486926` — Chapitre 3 : Retour d'expérience - Tristan `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089486834` — Chapitre 1 : Intro et disclaimer `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089487029` — Chapitre 5 : Comment recruter - Tristan `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089487136` — Chapitre 8 : Le plan pour avoir un empire `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089486969` — Chapitre 4 : Comment recruter - Enzo `INGERE_TEXTE_BRUT`
+- `mLdRBoyZYOg` — Chapitre 10 : Stratégie de scaling horizontal `INGERE_TEXTE_BRUT`
+- `IJ75YDugWpk` — Chapitre 11 : Scaler votre acquisition de trafic `INGERE_TEXTE_BRUT`
+- `194gMLHe-ck` — Chapitre 12 : Le starter pack du scaling `INGERE_TEXTE_BRUT`
+
+### Module 13 — Revente de boutique
+
+- `vimeo-caption-1087789117` — Chapitre 7 : Les 5 raisons Anti-vente ! `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789176` — Chapitre 8 : Le contrat et la cession du business `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788787` — Chapitre 2 : Présentation de DOTMARKET `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788832` — Chapitre 3 : Présentation du partenariat `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789383` — Chapitre 10 : Interview complète `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789078` — Chapitre 6 : Stratégies pour booster la revente `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789031` — Chapitre 5 : Les KPI importantes `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789240` — Chapitre 9 : 12 étapes pour vendre votre boutique `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087788895` — Chapitre 4 : Estimation de boutique `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1087789996` — Chapitre 1 : La puissance de notre business model `INGERE_TEXTE_BRUT`
+
+### Module 14 — Pour aller plus loin
+
+- `vimeo-caption-1097664963` — Interview avec Cyril membre de la formation `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089658778` — BONUS : stratégie de spying de concurrent SEMRUSH `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089659129` — KRAKEN EXCLU : Achat de nom de domaine expiré `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089658827` — Coaching Google ads : Etude de cas concrète `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089658804` — BONUS : stratégie de spying de concurrent SEMRUSH `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1096205522` — MASTERCLASS : Emailing avec Alicia et Romain `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089659047` — KRAKEN EXCLU : Achat de nom de domaine expiré `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1097879593` — MASTERCLASS : IA et fiche produit avec Nathan `INGERE_TEXTE_BRUT`
+
+### Bonus — Étude de cas Veilleuse
+
+- `vimeo-caption-1089830517` — Première position et intégration produit `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1089830490` — Mise à jour de Veilleuse après 13 jours `INGERE_TEXTE_BRUT`
+
+### Coaching Mindset
+
+- `vimeo-caption-1123473277` — Mindset & Productivité `INGERE_TEXTE_BRUT`
+- `LH6ghUCE8x0` — Mindset et Q&A avec Enzo `INGERE_TEXTE_BRUT`
+- `MD-eW4qpedA` — Masterclass Q4 -  Enzo spécial MINDSET `INGERE_TEXTE_BRUT`
+
+### Conférences / Mastermind (CRO, branding, fiscalité)
+
+- `vimeo-caption-1097663207` — Thomas Giraud : Optimiser son CRO - 1/2 `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1097663488` — Thomas Giraud : Optimiser son CRO - 2/2 `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1097663838` — Hugo Huille : Créer une marque qui te ressemble `INGERE_TEXTE_BRUT`
+- `q0x2428McYg` — Tiziana Caci / Fynovates : Fiscalité Offshore `INGERE_TEXTE_BRUT`
+
+### Bonus — FAQ Legalplace
+
+- `hOLHoxZj3WA` — 7 : S'inscrire à l'IOSS `INGERE_TEXTE_BRUT`
+- `OqtFeWXr8yg` — 9 : Conclusion et discussion sur la loi 2024 `INGERE_TEXTE_BRUT`
+- `ywRywYvwQy8` — 5 : Recommandations et obligations légales `INGERE_TEXTE_BRUT`
+- `uIqgm_xOfsc` — 8 : Créer une micro avec un titre de séjour `INGERE_TEXTE_BRUT`
+- `7keYfrUv1_c` — 4 : IRPP : mon patron saura que j'ai un business ? `INGERE_TEXTE_BRUT`
+- `q1dX7ohhExc` — 3 : Créer ou transférer son entreprise en ZRR `INGERE_TEXTE_BRUT`
+- `lfp0oJs_pQ4` — Introduction - TVA en France, société à l'étranger `INGERE_TEXTE_BRUT`
+- `py6qQ8xagIw` — 1 : Création d'entreprise en France, comptabilité `INGERE_TEXTE_BRUT`
+- `QYa5dsJ7W5Y` — 6 : Regrouper plusieurs activités sous 1 structure `INGERE_TEXTE_BRUT`
+- `QFHHpT1-tf8` — 2 : Passer en société en étant fonctionnaire `INGERE_TEXTE_BRUT`
+
+### Bonus — Parrainage
+
+- `pA3_RMCY37Y` — Guide de parrainage pour la méthode Kraken `INGERE_TEXTE_BRUT`
+
+### Replays
+
+- `vimeo-caption-1185083483` — Replay - 14/04/26 - Théo `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1185081832` — Replay - 13/04/26 - Stéphanie `INGERE_TEXTE_BRUT`
+- `vimeo-caption-1185079535` — Replay - 09/04/26 - Stéphanie `INGERE_TEXTE_BRUT`

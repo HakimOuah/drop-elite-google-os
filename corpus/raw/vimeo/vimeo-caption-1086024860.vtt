@@ -1,0 +1,685 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:00.640
+Salut à tous.
+
+2
+00:00:00.750 --> 00:00:02.920
+Dans cette vidéo, nous allons comprendre déjà comment
+
+3
+00:00:03.200 --> 00:00:05.200
+fonctionnent les thèmes, le temps plating le design.
+
+4
+00:00:05.230 --> 00:00:07.800
+Lorsque vous installez sur un CMS, ce que je vais vous dire,
+
+5
+00:00:07.800 --> 00:00:09.720
+c'est vraiment valable sur l'ensemble des CMS.
+
+6
+00:00:10.180 --> 00:00:13.240
+Ok, il existe du coup trois types de
+
+7
+00:00:13.240 --> 00:00:14.480
+manière de faire des thèmes.
+
+8
+00:00:14.620 --> 00:00:19.120
+Ok, vous avez la première façon qui va être de faire un
+
+9
+00:00:19.200 --> 00:00:21.560
+thème personnalisé complètement sur mesure.
+
+10
+00:00:22.200 --> 00:00:24.640
+Alors faire un thème sur mesure. C'est un peu complexe.
+
+11
+00:00:24.640 --> 00:00:26.280
+Généralement, ça va être des agences qui vont le faire.
+
+12
+00:00:26.620 --> 00:00:27.720
+En tant que dropshipper.
+
+13
+00:00:27.720 --> 00:00:30.200
+Moi, je vous déconseille d'utiliser ce genre de système.
+
+14
+00:00:30.660 --> 00:00:33.400
+Ça va être tout simplement passer par un développeur qui va
+
+15
+00:00:33.400 --> 00:00:35.560
+vous créer un thème de à z sur tous les modules.
+
+16
+00:00:35.760 --> 00:00:37.800
+Alors il existe certes ce qu'on appelle des frameworks,
+
+17
+00:00:37.800 --> 00:00:39.160
+des framework qui sont des lucelles pour
+
+18
+00:00:39.250 --> 00:00:40.960
+aider la création de thème.
+
+19
+00:00:40.960 --> 00:00:43.360
+Je ne pas rentrer dans le détail, mais c'est pourra faire
+
+20
+00:00:43.900 --> 00:00:45.160
+un thème vraiment sur mesure.
+
+21
+00:00:45.540 --> 00:00:49.720
+Un thème sur mesure ne malheureusement coûte très cher et
+
+22
+00:00:49.720 --> 00:00:52.760
+n'est pas du tout dans cette fameuse méthode 80 20,
+
+23
+00:00:53.250 --> 00:00:56.720
+qu'on vous parle tout le temps et qu'on vous recommande de
+
+24
+00:00:56.720 --> 00:01:00.000
+faire la deuxième méthode,
+
+25
+00:01:00.260 --> 00:01:02.720
+ça va être d'acheter un thème tout simplement tout faire que
+
+26
+00:01:02.720 --> 00:01:05.040
+ça soit sur wordpress ou commerce
+
+27
+00:01:05.040 --> 00:01:06.440
+Shopify ou prest shop, par exemple.
+
+28
+00:01:06.460 --> 00:01:07.960
+Là, voilà, je suis allé sur thème forest.
+
+29
+00:01:08.170 --> 00:01:10.720
+C'est un site qui, assez connu pour acheter des thèmes.
+
+30
+00:01:11.390 --> 00:01:13.440
+Souvent, vous pouvez avoir des très beaux thèmes.
+
+31
+00:01:13.440 --> 00:01:15.080
+Vous pouvez aller, vous avez l'impression que
+
+32
+00:01:15.650 --> 00:01:18.160
+c'est vraiment intéressant, simplement, encore une fois,
+
+33
+00:01:18.160 --> 00:01:20.920
+je ne vais pas vous recommander utiliser des thèmes que vous
+
+34
+00:01:20.920 --> 00:01:22.560
+achetez et que vous pré configurer.
+
+35
+00:01:23.630 --> 00:01:26.280
+Bien que ça soit le plus rapide, généralement lancé un choc,
+
+36
+00:01:26.880 --> 00:01:28.320
+pourquoi est ce que je veux ne vous recommande pas.
+
+37
+00:01:28.320 --> 00:01:29.640
+Ça, c'est parce qu'au final,
+
+38
+00:01:29.660 --> 00:01:31.040
+la configuration est un peu longue.
+
+39
+00:01:31.040 --> 00:01:32.520
+Vous allez être bloquée dans un thème.
+
+40
+00:01:32.520 --> 00:01:34.760
+Et au final, ça va être quelque chose d'assez très
+
+41
+00:01:34.760 --> 00:01:36.200
+générique et assez basique.
+
+42
+00:01:36.460 --> 00:01:38.120
+Encore une fois, si vous n'avez pas beaucoup d'argent,
+
+43
+00:01:38.120 --> 00:01:39.880
+vous n'aurez pas forcément le choix de passer par là.
+
+44
+00:01:40.350 --> 00:01:43.360
+Mais il existe une solution juste après qu'on va voir qui
+
+45
+00:01:43.360 --> 00:01:46.600
+peut potentiellement vous intéresser l'avantage du code,
+
+46
+00:01:46.660 --> 00:01:48.040
+ces thèmes que vous achetez,
+
+47
+00:01:48.040 --> 00:01:50.200
+ça vous permet voilà de dépenser pas beaucoup d'argent et
+
+48
+00:01:50.200 --> 00:01:52.040
+d'avoir un site qui a quand même une
+
+49
+00:01:52.040 --> 00:01:53.120
+tête un peu professionnelle.
+
+50
+00:01:53.120 --> 00:01:55.000
+Bien qu'encore une fois le marché du drop shipping,
+
+51
+00:01:55.900 --> 00:01:58.000
+voilà, se développe vite.
+
+52
+00:01:58.190 --> 00:02:01.160
+Donc, encore une fois, je vous déconseille d'acheter ces
+
+53
+00:02:01.160 --> 00:02:02.640
+thèmes à moins vraiment que vous êtes débutant.
+
+54
+00:02:02.640 --> 00:02:04.720
+Mais normalement, si vous êtes, si vous regardez nos vidéos,
+
+55
+00:02:04.720 --> 00:02:07.840
+vous êtes déjà soit expérimenté, soit voilà.
+
+56
+00:02:07.990 --> 00:02:10.640
+Vous êtes quelqu'un qui a compris qu'on fait du business.
+
+57
+00:02:10.740 --> 00:02:12.120
+Et du coup, quand on fait du business,
+
+58
+00:02:12.120 --> 00:02:13.440
+il y a un minimum d'investissement.
+
+59
+00:02:13.590 --> 00:02:15.800
+Donc, encore une fois, si vous faites appel aussi à des
+
+60
+00:02:15.800 --> 00:02:18.120
+agences, faites attention qui n'achètent pas tout simplement
+
+61
+00:02:18.120 --> 00:02:20.560
+ce type de thème qu' qu'on trouve sur thème forest.
+
+62
+00:02:20.770 --> 00:02:22.760
+C'est très bien pour desmar et vraiment si vous êtes sur
+
+63
+00:02:22.760 --> 00:02:24.200
+débutants, mais encore une fois,
+
+64
+00:02:24.200 --> 00:02:25.440
+il y a une solution qui est beaucoup mieux.
+
+65
+00:02:25.540 --> 00:02:28.440
+Et je vais vous la présenter juste après la troisième
+
+66
+00:02:28.440 --> 00:02:30.680
+possibilité du coup, c'est d'utiliser son appelle des thèmes
+
+67
+00:02:30.790 --> 00:02:33.160
+pour développeurs, des thèmes adoptifs.
+
+68
+00:02:33.340 --> 00:02:34.480
+Il y en a plusieurs. Il y a
+
+69
+00:02:34.490 --> 00:02:35.920
+astra le monde sur vos commerces.
+
+70
+00:02:35.920 --> 00:02:38.440
+Vous en avez plusieurs, vous avez, je les connais pas tous,
+
+71
+00:02:38.440 --> 00:02:39.440
+mais il y en a vraiment beaucoup.
+
+72
+00:02:39.540 --> 00:02:41.520
+Je suppose également sur Shopify, il y en a pas mal.
+
+73
+00:02:41.550 --> 00:02:44.320
+L'idée, c'est quoi? C'est que vous avez à la fois la
+
+74
+00:02:44.320 --> 00:02:48.320
+possibilité d'avoir des outils qui vont permettre aux
+
+75
+00:02:48.520 --> 00:02:50.680
+développeurs de changer le thème et donc de
+
+76
+00:02:50.680 --> 00:02:51.800
+vous créer un thème sur mesure.
+
+77
+00:02:52.150 --> 00:02:54.760
+Mais vous avez également la possibilité de ce qu'on appelle
+
+78
+00:02:54.760 --> 00:02:57.280
+télécharger des templates au sein de ce thème de
+
+79
+00:02:57.440 --> 00:02:59.640
+développeurs qui vont du coup vous permettre
+
+80
+00:03:00.470 --> 00:03:02.240
+d'avoir des exemples.
+
+81
+00:03:02.240 --> 00:03:04.400
+Donc, par exemple, sur le site d' astra.
+
+82
+00:03:05.550 --> 00:03:06.840
+Donc je vais apprendre, bien sûr, le premium.
+
+83
+00:03:07.240 --> 00:03:08.960
+Alors je vais voir si il n'y pas pas possibilité de
+
+84
+00:03:08.960 --> 00:03:10.200
+taper des e commerce là.
+
+85
+00:03:10.200 --> 00:03:11.400
+Voilà ces trucs de restaurant.
+
+86
+00:03:11.500 --> 00:03:13.320
+Il y a forcément des choses e commerce.
+
+87
+00:03:14.380 --> 00:03:18.200
+Je cherche un, je sais qu'il sais qu'il y a des e commerces
+
+88
+00:03:18.260 --> 00:03:21.640
+que je vois comment je pourrais et commerce.
+
+89
+00:03:22.700 --> 00:03:25.840
+Voilà. Vous avez des chopes qui sont prêtes à l'emploi
+
+90
+00:03:26.100 --> 00:03:27.200
+en fonction des niches.
+
+91
+00:03:27.260 --> 00:03:29.200
+Encore une fois, le design n'est pas sur mesure,
+
+92
+00:03:29.230 --> 00:03:30.280
+mais quel est l'avantage?
+
+93
+00:03:30.490 --> 00:03:32.120
+L'avantage, c'est que du coup, vous,
+
+94
+00:03:32.220 --> 00:03:34.440
+si vous avez peu de budgets mais que vous avez compris les
+
+95
+00:03:34.560 --> 00:03:36.520
+prochains mods que je vais vous présenter dans l'importance
+
+96
+00:03:36.620 --> 00:03:39.640
+de passer par un graphiste pour vraiment faire votre site
+
+97
+00:03:39.840 --> 00:03:42.600
+internet, vous avez la possibilité d'installer ce type de
+
+98
+00:03:42.600 --> 00:03:46.320
+thème qui du coup est modulable et d'installer un tempate
+
+99
+00:03:46.320 --> 00:03:48.080
+pour commencer, quand vous aurez un peu plus d'argent,
+
+100
+00:03:48.080 --> 00:03:50.680
+vous pouvez, après passer par un graphiste professionnel qui
+
+101
+00:03:50.680 --> 00:03:53.520
+va retravailler, de suivre, vous aurez pas la la nécessité
+
+102
+00:03:53.520 --> 00:03:55.720
+de changer de thème, c'est à dire qu'il suffira simplement
+
+103
+00:03:55.940 --> 00:03:58.240
+de changer la configuration de ce thème.
+
+104
+00:03:58.240 --> 00:03:59.480
+Mais vous pouvez garder ce thème,
+
+105
+00:03:59.480 --> 00:04:02.480
+étant donné que c'est un thème pour développeurs également.
+
+106
+00:04:02.690 --> 00:04:05.040
+C'est un thème qui, à la fois qui peut être simple parce que
+
+107
+00:04:05.040 --> 00:04:06.720
+vous pouvez importer des modèles,
+
+108
+00:04:06.790 --> 00:04:09.200
+mais vous avez également la possibilité de
+
+109
+00:04:09.200 --> 00:04:10.680
+retravailler dessus pour développeurs.
+
+110
+00:04:10.680 --> 00:04:12.560
+C'est pour ça que moi, je suis un grand fan au sein de
+
+111
+00:04:12.560 --> 00:04:14.640
+l'agence qu'on fait ce qu'on appelle des sites semi.
+
+112
+00:04:14.640 --> 00:04:16.840
+Sur mesure de ce thème, on a également plein d'autres qui
+
+113
+00:04:16.840 --> 00:04:18.040
+sont tout à fait intéressants.
+
+114
+00:04:18.150 --> 00:04:19.560
+Mais l'avantage, c'est que ce thème
+
+115
+00:04:20.070 --> 00:04:22.320
+peut se ploguer à des logiciels
+
+116
+00:04:22.320 --> 00:04:23.520
+qu'on va appeler page builder.
+
+117
+00:04:23.520 --> 00:04:25.280
+Les page builder, ce sont des logiciels d'édition
+
+118
+00:04:26.100 --> 00:04:28.200
+qui permettent d'éditer facilement cette internet et
+
+119
+00:04:28.200 --> 00:04:30.240
+justement de télécharger ces fameux tempêtes que je vous
+
+120
+00:04:30.360 --> 00:04:32.000
+présente juste là sur mon écran,
+
+121
+00:04:32.510 --> 00:04:35.720
+vous avez le plus connu sur warres, qui s'appelle elementor.
+
+122
+00:04:35.720 --> 00:04:39.040
+Vous avez également sur Shopify le page builder qui
+
+123
+00:04:39.120 --> 00:04:40.720
+s'appelle page fly, qui est le plus connu.
+
+124
+00:04:40.940 --> 00:04:44.040
+Encore une fois, elementor il est un peu super à page,
+
+125
+00:04:44.190 --> 00:04:45.680
+mais voilà, ça se développe.
+
+126
+00:04:46.140 --> 00:04:48.240
+Il y a vraiment des choses qui sont intéressantes
+
+127
+00:04:48.830 --> 00:04:49.840
+d'un point de vue Shopify et l.
+
+128
+00:04:49.840 --> 00:04:51.120
+L'écosystème Shopify va très vite.
+
+129
+00:04:51.230 --> 00:04:54.160
+Vous avez aussi des thèmes modulables sur Shopify.
+
+130
+00:04:54.160 --> 00:04:55.680
+Je vous donnerais en exemple parce qu'en encore une fois,
+
+131
+00:04:55.680 --> 00:04:57.160
+moi, je ne suis pas expert Shopify.
+
+132
+00:04:57.160 --> 00:04:58.320
+Donc je vais essayer de vous retrouver.
+
+133
+00:04:58.380 --> 00:05:01.080
+Et je vais l'indiquer dans la description des exemples de
+
+134
+00:05:01.110 --> 00:05:03.040
+thèmes que je vais appeler modulables,
+
+135
+00:05:03.100 --> 00:05:05.960
+qui sont potentiellement à la fois pour développeurs et à la
+
+136
+00:05:05.960 --> 00:05:07.760
+fois qui vont vous permettre d'importer des templates.
+
+137
+00:05:08.380 --> 00:05:12.120
+Voilà encore une fois, si vous avez un peu de budget,
+
+138
+00:05:12.140 --> 00:05:13.760
+je vous recommande vraiment et vous allez voir,
+
+139
+00:05:13.760 --> 00:05:17.160
+ça coûte pas si cher que ça de créer des designs via
+
+140
+00:05:17.160 --> 00:05:18.240
+des graphistes professionnels.
+
+141
+00:05:18.540 --> 00:05:20.760
+Et je vais vous montrer du coup comment on travaille
+
+142
+00:05:20.760 --> 00:05:21.920
+tout ça juste avant.
+
+143
+00:05:21.920 --> 00:05:23.880
+Dans la prochaine vidéo, on va voir quelles sont les règles
+
+144
+00:05:23.880 --> 00:05:26.480
+très rapidement, un de design, juste trois exemples de site.
+
+145
+00:05:27.270 --> 00:05:29.600
+Vous pouvez vous inspirer et je vais vous donner deux sites
+
+146
+00:05:29.600 --> 00:05:31.200
+ou vous allez pouvoir chercher des designs qui
+
+147
+00:05:31.200 --> 00:05:32.240
+correspondent à votre niche.
+
+148
+00:05:32.380 --> 00:05:34.880
+En attendant, vous pouvez tout à fait installer le thème
+
+149
+00:05:35.010 --> 00:05:37.800
+astra sur votre site wordpress ou commerce ou
+
+150
+00:05:38.790 --> 00:05:40.320
+site de tempête équivalent.
+
+151
+00:05:40.320 --> 00:05:41.560
+Encore une fois, je vous rappelle l'idée,
+
+152
+00:05:41.650 --> 00:05:43.080
+c'est d'être lavage pourpre.
+
+153
+00:05:43.110 --> 00:05:45.680
+Donc, essayer de trouver peut être des nouveaux thèmes
+
+154
+00:05:45.680 --> 00:05:47.960
+modulables qui viennent de sortie, qui ont des bonnes
+
+155
+00:05:49.010 --> 00:05:51.640
+notes de la part de développeurs ou d'agences ou aux
+
+156
+00:05:51.640 --> 00:05:52.880
+spécialistes pour presque pour commerce.
+
+157
+00:05:53.020 --> 00:05:55.480
+Et pour Shopify des sites recommandés par les
+
+158
+00:05:55.480 --> 00:05:56.840
+agences Shopify, il
+
+159
+00:05:56.840 --> 00:05:59.240
+Faut arrêter de faire confiance au dropper qui vous
+
+160
+00:05:59.240 --> 00:06:00.720
+recommande des thèmes, mais plutôt,
+
+161
+00:06:00.800 --> 00:06:03.480
+regardez ce que les agences vous recommandent.
+
+162
+00:06:03.480 --> 00:06:05.920
+Parce que c'est là dessus, vous allez faire du cours des
+
+163
+00:06:05.920 --> 00:06:09.080
+thèmes, d'avoir des designs long terme d'un site évolutif.
+
+164
+00:06:09.460 --> 00:06:11.600
+Et du coup, même si vous commencez petit et quil,
+
+165
+00:06:11.600 --> 00:06:13.440
+y a des err sur votre site, vous allez la possibilité de
+
+166
+00:06:13.720 --> 00:06:15.120
+développer votre titres sans tout recommencer.
+
+167
+00:06:15.500 --> 00:06:17.640
+On se retrouve du coup tout de suite sur la prochaine vidéo
+
+168
+00:06:17.660 --> 00:06:19.000
+sur les règles de design générale.
+
+169
+00:06:19.000 --> 00:06:20.360
+Encore une fois, ça va être une vidéo rapide
+
+170
+00:06:21.790 --> 00:06:24.520
+pour justement vous montrer à quel niveau de qualité vous
+
+171
+00:06:24.520 --> 00:06:24.960
+devez tant.

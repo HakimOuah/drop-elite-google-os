@@ -1,0 +1,293 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  1  —
+RAPPORT DE SESSION
+26 mars 2026 • Durée : 1h34 • Coach : Stéphanie
+Participants : Elodie, Thibaud, Charlotte, Gaël, Émilie, Aude
+Absent : Nicolas (en vacances)
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Elodie — Rachat boutique WordPress prêt-à-porter : mapping,
+variations, optimisation fiches
+▶ 00:27 Point Thibaud — Boutiques en croissance, lancement réseaux sociaux,
+vigilance marges
+▶ 00:36 Masterclass — Construire un actif revendable : valorisation,
+structure, process
+▶ 01:13 Questions Charlotte — Sourcing, stock, niches et process pour la
+revente
+▶ 01:23 Questions Gaël — Compléments alimentaires, champignons adaptogènes,
+logistique 3PL
+⚔ DÉTAIL DES HOTSEATS
+► Elodie — Rachat boutique WordPress (prêt-à-porter)
+Contexte : Elodie a racheté une deuxième boutique (WooCommerce, niche jupes/prêt-à-porter) à bas prix, en
+connaissance de cause. Le site est une carcasse à optimiser : environ 120 produits en place, dont beaucoup
+avec des liens fournisseurs cassés (erreurs 404 sur AliExpress).
+Liens AliExpress cassés : Le coach a clarifié que les liens qui sautent ne signifient pas que le produit n’existe
+plus. AliExpress est une marketplace de revendeurs : les URL changent, mais le produit reste disponible chez
+d’autres vendeurs. Solution : recherche par image inversée sur AliExpress pour retrouver le même produit.
+Démonstration en direct.
+Conseil clé : ne pas remapper les 300 produits d’un coup (les liens resauteront dans 2 mois). Mapper
+uniquement au moment de la commande. Ou passer directement par un agent, ce qui élimine le besoin de
+mapping.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  2  —
+« Ne te tape pas le mapping des 300 produits parce que dans 2 mois les liens auront sauté de
+nouveau. Tu peux mapper le produit une fois qu’il a été commandé. »
+— Coach Kraken
+Problèmes WooCommerce identifiés :
+Problème
+Priorité
+Détail
+Bouton ajout panier inactif
+Critique
+Aucune variation par défaut sélectionnée (couleur + taille).
+Couleur unique en variation
+A corriger
+Ex : « doré » seule option = attribut, pas variation.
+Tailles dans le désordre
+Critique
+S, XL, L, M... Perte de crédibilité en prêt-à-porter.
+Attributs en anglais
+A corriger
+« blue » au lieu de « bleu ». A traduire.
+Manque de photos
+Important
+Seulement 2 photos/produit. Minimum 4 recommandé.
+Balises alt absentes
+SEO
+Aucun texte alternatif sur les images. Noms de fichiers bruts.
+Pas de guide des tailles
+Conversion
+Indispensable en prêt-à-porter (longueur, morpho).
+Attributs manquants
+UX
+Matière, type de ceinture, longueur non renseignés.
+Catégories non optimisées
+SEO/UX
+Pas de texte de collection, pas de maillage interne.
+Solution attributs/tailles : Créer les attributs globaux (XS à 5XL) dans WooCommerce > Produits > Attributs,
+puis les associer via « Ajouter existant » sur chaque fiche. Les tailles seront automatiquement dans le bon
+ordre. Procédure démontrée en direct.
+Planning validé : Elodie reste en mode monocouche (full produit) sur les deux boutiques (Shopify +
+WordPress). Jour 1 = Shopify, Jour 2 = WordPress, Jour 3 = variable selon disponibilité. Pas d’éparpillement.
+« Moi, je vois les tailles dans le mauvais ordre, je me dis c’est pas un site de confiance. Pour un site
+de prêt-à-porter, c’est un manque de crédibilité de fou. »
+— Coach Kraken
+► Thibaud — Point de situation
+Les boutiques de Thibaud tournent bien. La deuxième boutique, en ralentissement depuis fin février, est en train
+de repartir. Lancement des réseaux sociaux (Instagram, TikTok). Pas d’impact des augmentations de prix liées
+à la Chine pour l’instant.
+Conseil du coach : Rester vigilant sur les marges. Les prix augmentent de manière aléatoire (pétrole,
+expéditions, contournements maritimes). Surveiller activement même si l’impact n’est pas encore visible.
+⚙ MASTERCLASS — CONSTRUIRE UN ACTIF REVENDABLE
+Le coach a présenté une masterclass complète sur la construction d’un e-commerce pensé comme un actif
+patrimonial valorisable, même sans intention immédiate de revente.
+► Pourquoi penser « revente » dès le départ ?
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  3  —
+Un site construit pour être revendable fonctionne mieux : structure saine, délégation possible, système
+autonome. 90 % des e-commerces audités sont invendables ou bradés. Causes principales : plateformes
+inadaptées (Wix, UPOT), dépendance aux ads, architecture confuse, data non fiable, marges floues,
+comptabilité absente.
+« Même si vous voulez pas revendre, le fait de construire un actif pour qu’il puisse être revendable
+vous permet d’avoir une structure plus saine et qui roulera mieux. »
+— Coach Kraken
+► Ce que regarde un acheteur
+Rentabilité : Marge réelle, stabilité du profit sur 24 mois, coûts d’acquisition, frais fixes détaillés. Le chiffre
+d’affaires seul ne vaut rien : c’est la marge qui fait tout. Seuil minimum : 20 % de marge nette.
+Stabilité : Tendance haussière ou stable sur 24 mois. Un site en décroissance fait fuir les acheteurs.
+Vérification des pics artificiels avant vente.
+Trafic diversifié : Aucun canal ne doit dépasser 60 % du trafic total. Idéal : SEO + SEA + email + social +
+direct. Un site 100 % MTA = valorisation très réduite.
+Scalabilité : Niche avec potentiel de développement, possibilité d’accélérer sans tout reconstruire. Les process,
+les RH, le SAV, la logistique doivent pouvoir suivre.
+► Critères minimum de revente
+Critère
+Seuil
+Détail
+Historique
+12-24 mois min.
+Idéal : 3-4 ans d’ancienneté
+Profit
+Stable ou croissant
+Aucune décroissance notable
+Marge nette
+20 % minimum
+En dessous, valorisation effondrée
+Trafic
+Diversifié
+Aucun canal > 60 % du total
+Multiple valorisation
+17 à 20x
+Profit mensuel net (EBE)
+Logistique
+Maîtrisée
+Délais réels, coûts documentés
+Process
+Documentés
+Transmissibles sans le fondateur
+Comptes
+Dissociés
+Tout sur adresse contact@ dédiée
+► Piliers d’un actif solide
+Structure claire : Arborescence catégories logique, optimisée SEO et UX, maillage interne cohérent. Si
+l’acheteur ne navigue pas facilement, il en déduit que le client non plus.
+Acquisition saine : Le SEO est le pilier, les ads sont un levier. Un site avec SEO solide et peu d’ads est le plus
+attractif : l’acheteur voit le levier de croissance immédiat. Email marketing valorisé (base propre, segments, LTV
+client élevée).
+Logistique maîtrisée : Délais réels documentés, coûts clairs (port, retours, entrepôt), suivi SAV structuré avec
+ratios. Ne jamais dépendre d’un fournisseur unique.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  4  —
+Sourcing : Les acheteurs préfèrent : agent européen (Obordesk) > agent Asie > AliExpress. Le dropshipping
+pur AliExpress/DSers est déprécié à la revente. Un stock sur les bestsellers est un plus (valorisé séparément du
+multiple).
+Process documentés : Documenter chaque action dès le début (Google Doc, Loom, vidéo). Permet la
+délégation, la continuité en cas d’urgence, et une passation fluide à la revente. Format libre, l’important c’est
+que ça existe.
+Comptes dissociés : Chaque boutique sur une adresse contact@ dédiée. Tous les services (Aftership, Google
+Ads, Shopify...) créés avec cette adresse. Pas de compte personnel mélangé. Un compte Shopify par boutique.
+« Tout est impeccable, c’est pas après qu’on rend les choses impeccables, c’est au moment de la
+construction qu’on rend les choses impeccables. »
+— Coach Kraken
+► Red flags qui tuent une vente
+Dépendance Facebook Ads / mono-canal. Fournisseur unique sans alternative. Faux avis. Mensonges sur les
+délais de livraison (vente annulée par clause suspensive : cas réel exposé). Marge trop faible. Décroissance.
+Comptes personnels mélangés. Merchant Center saturé par multiboutiques.
+► Shopify vs WooCommerce à la revente
+Pour les petites boutiques, Shopify est plus facile à revendre car plus accessible aux acheteurs non techniques
+(reconversion, primo-investisseurs). WooCommerce convient aux structures plus importantes avec équipe
+technique. La facilité de reprise influence directement le pool d’acheteurs potentiels.
+► Questions Charlotte & Gaël
+Charlotte — Niches difficiles à revendre : Consommable (normes strictes, certifications obligatoires). Petit
+ticket / bazar à 14€ (impact taxes importation, concurrence GiFi/Action). Gros produits OK si logistique
+européenne impeccable.
+Gaël — Compléments alimentaires (champignons adaptogènes) : Marché mondial estimé à 26 milliards,
+projection 36 milliards d’ici 2030. Fournisseur identifié en Pologne mais MOQ élevé (1 000-2 000 pièces).
+Conseil : chercher des grossistes en marque blanche avec MOQ plus faible pour limiter l’investissement initial.
+Le coach a un contact fournisseur français à retrouver.
+Gaël — 3PL / logistique : Pas compliqué à mettre en place. L’agent peut également servir de logisticien
+(réception, reconditionnement, expédition automatique). Point d’attention : négocier les prix de stockage.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Elodie
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  5  —
+⚡ Sélectionner des variations par défaut (couleur + taille) sur chaque fiche produit pour activer le
+bouton ajout panier.
+⚡ Créer les attributs globaux de taille (XS à 5XL) dans WooCommerce > Attributs, puis les associer
+sur chaque produit.
+⚡ Supprimer les variations inutiles (couleur unique) et les convertir en attributs simples.
+⚡ Repasser sur chaque fiche : vérifier prix, calculer marge, sourcer le produit (recherche image
+inversée), ajouter attributs (matière, fermeture, longueur).
+SECONDAIRE
+○ Ajouter des photos supplémentaires (minimum 4 par produit) : détails ceinture, matière, porté.
+○ Renseigner les balises alt sur toutes les images + renommer les fichiers.
+○ Créer un guide des tailles pour le prêt-à-porter.
+○ Optimiser les catégories : texte de collection + maillage interne.
+○ Ne pas remapper tous les produits : mapper uniquement à la commande ou passer par un agent.
+  ⚓  Thibaud
+PRIORITAIRE
+⚡ Surveiller activement les marges sur les deux boutiques (impact prix pétrole, expéditions).
+⚡ Continuer le développement réseaux sociaux (Instagram, TikTok).
+SECONDAIRE
+○ Préparer la documentation des process pour anticiper la scalabilité.
+○ Contacter le coach en cas de fluctuation de marge détectée.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Documenter ses process dès maintenant (Google Doc ou Loom) : sourcing, intégration,
+commande, SAV.
+⚡ Créer tous les comptes boutique sur une adresse contact@ dédiée (Aftership, Google Ads,
+Shopify...).
+SECONDAIRE
+○ Constituer un stock bestsellers (valorisé séparément à la revente).
+○ Tenir un tableau de comptabilité détaillé dès maintenant.
+  ⚓  Gaël
+PRIORITAIRE
+⚡ Prospecter des grossistes marque blanche champignons adaptogènes avec MOQ plus faible.
+⚡ Contacter le coach pour le contact fournisseur français.
+⚡ Préparer le dossier détaillé : volumes de recherche, avatar client, produits envisagés.
+SECONDAIRE
+○ Explorer la fabrication packaging/étiquettes en Asie + logisticien en France.
+○ Vérifier les certifications et normes obligatoires pour le consommable.
+○ Démarrer sur 5-6 produits pour limiter l’investissement MOQ initial.
+  ⚓  Émilie
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/03/2026
+—  6  —
+PRIORITAIRE
+⚡ Dissocier les comptes et adresses mail entre ses différentes boutiques.
+⚡ Voir en détail avec le coach la procédure de dissociation.
+SECONDAIRE
+○ Préparer un inventaire des services couplés à dissocier.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Créer et tenir à jour un tableau de comptabilité mensuel (marges, dépenses pub, frais fixes).
+⚡ Documenter chaque process dès sa première exécution (Google Doc, Loom, vidéo).
+SECONDAIRE
+○ Créer tous les comptes boutique sur adresse contact@ dédiée (pas d’adresse perso).
+○ Récupérer les slides PDF de la masterclass sur Skool.
+○ Structurer le SEO dès le départ pour diversifier les sources de trafic.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Sites e-commerce invendables
+90 %
+Audits réalisés par le coach (hors Kraken)
+Multiple de valorisation
+17 à 20x
+Profit mensuel net (EBE)
+Marge nette minimum acheteur
+20 %
+En dessous, valorisation effondrée
+Historique minimum
+12-24 mois
+Idéal : 3-4 ans
+Canal max / trafic total
+60 %
+Au-delà = risque de dépendance
+Produits boutique Elodie (WP)
+≈ 120
+Carcasse à optimiser fiche par fiche
+Photos minimum par produit
+4
+Recommandation coach
+Champignons adaptogènes
+(marché)
+26 Mds €
+Projection 36 Mds d’ici 2030
+MOQ fournisseur Pologne
+1 000-2 000
+Pièces minimum par commande
+Opérationnel cible / semaine
+< 10h
+Pour être considéré comme business passif
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

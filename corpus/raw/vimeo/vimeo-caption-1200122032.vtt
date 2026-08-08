@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:02.080 --> 00:00:05.020
+Hello, je vous fais la petite V2 pour Claude Code.
+
+2
+00:00:05.060 --> 00:00:08.680
+Dans la première vidéo, j'ai
+
+3
+00:00:08.760 --> 00:00:12.090
+fait le tour avec le terminal, ce qui a permis de voir un petit peu toutes les
+
+4
+00:00:13.720 --> 00:00:17.460
+commandes principales basiques à utiliser et surtout le
+
+5
+00:00:17.520 --> 00:00:18.040
+concept de
+
+6
+00:00:18.080 --> 00:00:21.960
+quand est-ce qu'on les
+
+7
+00:00:22.020 --> 00:00:25.000
+utilise, pourquoi, l'utilité, etc.
+
+8
+00:00:26.080 --> 00:00:28.799
+Je vous conseille quand même de la regarder au cas où. Si vous ne l'avez pas vue.
+
+9
+00:00:29.200 --> 00:00:33.040
+La deuxième se penche plutôt sur un outil qui sera beaucoup plus simple à
+
+10
+00:00:33.060 --> 00:00:36.780
+prendre en main. C'est un éditeur de texte classique assez
+
+11
+00:00:36.820 --> 00:00:39.419
+connu. Moi, j'utilise Cursor de base.
+
+12
+00:00:40.660 --> 00:00:42.080
+VS Code fait le taf,
+
+13
+00:00:42.240 --> 00:00:46.089
+c'est l'outil sur lequel il
+
+14
+00:00:46.100 --> 00:00:50.080
+s'est basé. Je vous mettrai le lien de Cursor ou de VS Code, il y aura peut-être
+
+15
+00:00:50.100 --> 00:00:53.980
+les deux. L'idée, c'est que je vous montre directement
+
+16
+00:00:54.120 --> 00:00:54.900
+à quoi ça ressemble.
+
+17
+00:00:56.340 --> 00:00:58.260
+C'est un éditeur de texte qui vous permet d'avoir
+
+18
+00:00:59.320 --> 00:01:03.300
+aussi un éditeur de fichiers. Je veux dire qu'on a une gestion
+
+19
+00:01:03.320 --> 00:01:07.220
+des fichiers sur la gauche. Là, on est directement dans le projet dans lequel je
+
+20
+00:01:07.240 --> 00:01:08.620
+travaille pour ne pas leak
+
+21
+00:01:09.440 --> 00:01:10.260
+tous mes fichiers, mais
+
+22
+00:01:11.120 --> 00:01:14.880
+l'idée, c'est d'ouvrir directement le dossier
+
+23
+00:01:14.940 --> 00:01:18.220
+Claude que je vous ai conseillé de créer, dans lequel il y aura tous vos projets.
+
+24
+00:01:18.320 --> 00:01:21.300
+Ici, vous pourrez naviguer dans les projets, dans les dossiers, etc.,
+
+25
+00:01:22.240 --> 00:01:22.880
+comme vous le souhaitez.
+
+26
+00:01:24.340 --> 00:01:28.200
+Ça nous permet simplement d'avoir accès aux
+
+27
+00:01:28.220 --> 00:01:32.120
+fichiers, de voir ce que Claude écrit dedans et en quelques clics
+
+28
+00:01:32.140 --> 00:01:36.030
+sur le côté gauche de l'outil, d'accéder aux
+
+29
+00:01:36.060 --> 00:01:38.100
+fichiers tout simplement. Ça peut être assez pratique.
+
+30
+00:01:40.420 --> 00:01:44.020
+Vous voyez, en haut, on a le système de fichiers, on a le système de recherche et
+
+31
+00:01:44.060 --> 00:01:47.900
+on a le logo Claude que je vais vous montrer comment installer, puisque dans le
+
+32
+00:01:47.960 --> 00:01:51.580
+dernier ici, dans les basiques, il y a les extensions.
+
+33
+00:01:51.600 --> 00:01:54.100
+Dans les extensions, si vous venez de l'installer,
+
+34
+00:01:55.640 --> 00:01:56.340
+vous avez
+
+35
+00:01:57.180 --> 00:01:58.160
+à rechercher Claude.
+
+36
+00:01:59.240 --> 00:02:02.240
+Je vais cliquer dessus, ça va m'ouvrir dans le côté extension.
+
+37
+00:02:02.600 --> 00:02:04.900
+Moi, il est déjà installé puisque je l'ai désinstallé, mais il y a juste
+
+38
+00:02:06.500 --> 00:02:10.380
+à faire « Installer » et automatiquement, il se mettra
+
+39
+00:02:10.500 --> 00:02:14.300
+ici ou ici, en dessous. À vous de l'ouvrir après, ça
+
+40
+00:02:14.320 --> 00:02:16.900
+permettra d'ouvrir la seconde partie qu'on va voir juste après.
+
+41
+00:02:16.940 --> 00:02:19.320
+Mais l'idée, c'est vraiment un petit plugin qui s'installe
+
+42
+00:02:19.720 --> 00:02:23.640
+dans l'éditeur de texte général qui vous permet d'avoir
+
+43
+00:02:23.660 --> 00:02:25.720
+cette interface que je vais vous montrer juste après.
+
+44
+00:02:25.760 --> 00:02:29.520
+Là, vous voyez, de base, ça fait un petit peu ce système-là,
+
+45
+00:02:29.600 --> 00:02:31.390
+c'est-à-dire qu'on a un système d'onglets.
+
+46
+00:02:31.440 --> 00:02:33.520
+Si je vais dans « To do », que je fais
+
+47
+00:02:35.000 --> 00:02:38.780
+une sauvegarde et que j'ouvre « Memory », vous voyez, on a bien
+
+48
+00:02:40.360 --> 00:02:44.240
+tous nos fichiers sur lesquels on peut naviguer et on a surtout un onglet Claude.
+
+49
+00:02:44.380 --> 00:02:47.900
+Le top serait de faire en sorte que,
+
+50
+00:02:48.680 --> 00:02:52.410
+par exemple, si je clique sur un fichier, en haut, on peut fractionner, ce qui fait
+
+51
+00:02:52.420 --> 00:02:56.350
+qu'on a deux vues. Je peux balancer Claude sur un côté, fermer la « To do »
+
+52
+00:02:56.400 --> 00:02:59.549
+ici, elle reste à gauche. Là, vous voyez, on a les dossiers
+
+53
+00:02:59.560 --> 00:03:02.500
+fichiers, les documents texte,
+
+54
+00:03:04.100 --> 00:03:08.020
+là où il y a le contenu et à droite, la fenêtre de
+
+55
+00:03:08.080 --> 00:03:11.920
+Claude directement, qui est une interface beaucoup plus simple que
+
+56
+00:03:12.120 --> 00:03:13.300
+ce qu'on pourrait avoir dans le terminal.
+
+57
+00:03:13.920 --> 00:03:14.900
+Je pense que c'est
+
+58
+00:03:16.000 --> 00:03:19.049
+peut-être mieux à prendre en main, en tout cas si vous débutez ou si vous préférez
+
+59
+00:03:19.080 --> 00:03:19.640
+l'interface,
+
+60
+00:03:20.760 --> 00:03:21.400
+je comprendrai
+
+61
+00:03:22.500 --> 00:03:26.460
+sans problème. C'est proche
+
+62
+00:03:26.480 --> 00:03:26.960
+de l'app
+
+63
+00:03:28.060 --> 00:03:31.880
+de Claude. On peut upload, on peut ajouter des éléments, on peut rechercher sur
+
+64
+00:03:31.920 --> 00:03:33.100
+Internet.
+
+65
+00:03:34.120 --> 00:03:37.920
+Là, vous voyez sur la gauche, si je sélectionne,
+
+66
+00:03:38.880 --> 00:03:42.520
+bon là, ça ne va pas marcher, mais
+
+67
+00:03:43.420 --> 00:03:47.060
+on peut sélectionner un fichier. Vous voyez, ça va changer de fichier en bas, dans
+
+68
+00:03:47.080 --> 00:03:47.580
+le contexte.
+
+69
+00:03:48.430 --> 00:03:50.860
+On peut dire : « Travaille dans ce fichier » ou etc.
+
+70
+00:03:51.880 --> 00:03:54.630
+Là, il comprend directement ce qu'on fait et ce qu'on veut.
+
+71
+00:03:55.400 --> 00:03:56.640
+Là, si j'avais une
+
+72
+00:03:58.060 --> 00:04:01.540
+vraie liste de tâches, je pourrais dire : « Travaille sur ça » et il comprendrait
+
+73
+00:04:01.600 --> 00:04:02.420
+parce que je l'ai sélectionné.
+
+74
+00:04:03.300 --> 00:04:07.240
+Ça, c'est pour cette partie-là. Ensuite, on a le petit icône qui est
+
+75
+00:04:07.260 --> 00:04:07.780
+un slash.
+
+76
+00:04:08.860 --> 00:04:11.700
+Si vous avez vu la partie un, on a vu qu'il y avait des commandes.
+
+77
+00:04:12.200 --> 00:04:13.810
+Vous voyez, ici, elles sont beaucoup plus simplifiées.
+
+78
+00:04:14.800 --> 00:04:15.920
+C'est un peu plus joli, on va dire.
+
+79
+00:04:17.120 --> 00:04:18.130
+Qu'est-ce qu'il y avait comme commande ?
+
+80
+00:04:19.200 --> 00:04:22.760
+On avait les modèles. Vous voyez les modèles, l'avantage ici dans cette app,
+
+81
+00:04:23.080 --> 00:04:27.000
+dans ce petit plugin, c'est que déjà, on peut cliquer dessus pour voir un petit
+
+82
+00:04:27.020 --> 00:04:30.540
+peu tout ce qui est proposé par défaut et surtout, si j'ai envie de changer de
+
+83
+00:04:30.580 --> 00:04:30.900
+modèle,
+
+84
+00:04:31.920 --> 00:04:33.200
+ça se fait beaucoup plus simplement.
+
+85
+00:04:34.220 --> 00:04:35.720
+Là, si je fais « défaut », on est
+
+86
+00:04:37.580 --> 00:04:38.080
+passé
+
+87
+00:04:38.900 --> 00:04:41.380
+sur Opus. L'effort, c'est pareil. Vous voyez, je switche.
+
+88
+00:04:41.740 --> 00:04:45.240
+Je clique dessus et ça change d'effort. C'est beaucoup plus simple.
+
+89
+00:04:45.360 --> 00:04:49.160
+Je vais repasser « write ». Pareil, on peut désactiver le thinking, etc.
+
+90
+00:04:49.780 --> 00:04:53.450
+Je vous laisserai faire un petit tour, mais c'est beaucoup plus simple à
+
+91
+00:04:53.680 --> 00:04:57.580
+prendre en main. Sinon, c'est exactement le même système
+
+92
+00:04:57.620 --> 00:05:00.460
+que dans Claude. C'est juste que là, c'est beaucoup plus simple pour ajouter des
+
+93
+00:05:00.520 --> 00:05:00.980
+fichiers, etc.
+
+94
+00:05:01.820 --> 00:05:05.420
+Beaucoup plus simple pour changer les paramétrages ou lancer des commandes, parce
+
+95
+00:05:05.460 --> 00:05:07.640
+qu'ici, on peut filtrer et donc rechercher une commande, etc.
+
+96
+00:05:08.460 --> 00:05:12.060
+Ça permet vraiment d'avoir un accès ultra-simple à Claude et
+
+97
+00:05:12.540 --> 00:05:16.520
+en même temps dans ses contenus et dans ses dossiers fichiers sur la
+
+98
+00:05:16.540 --> 00:05:16.860
+gauche.
+
+99
+00:05:17.660 --> 00:05:20.440
+Voilà pour cette partie. N'hésitez pas à regarder la partie un qui permet quand
+
+100
+00:05:20.460 --> 00:05:24.080
+même d'expliquer un petit peu tout le côté structure, tout le côté contexte, tout
+
+101
+00:05:24.100 --> 00:05:27.040
+le côté effort, etc., un peu plus en détail que ça.
+
+102
+00:05:28.220 --> 00:05:31.780
+J'espère que ça vous aura aidé et à la prochaine vidéo.

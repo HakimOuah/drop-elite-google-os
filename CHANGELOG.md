@@ -2,6 +2,15 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Cours Skool complet ingéré (229 contenus) + documents + stratégie enrichie
+
+- récupération du **Classroom Skool complet** (29 modules) via l'onglet Classroom : 131 transcriptions Vimeo + 32 YouTube ingérées dans le corpus (66 → **229 contenus parlés**), 89 replays de coaching archivés dans `corpus/replays-coaching/`, 77 documents (slides PDF, checklists, briefs, templates, roadmaps) dans `corpus/raw/documents/` (7 fiches Marketplace écartées) ;
+- extraction du texte des PDF via pymupdf ; index `coach-source-index.md` étendu (section « Second versement », statut `INGERE_TEXTE_BRUT`), compteur porté à 229, validation OK ;
+- relecture ciblée des nouveaux modules par agents parallèles et enrichissement de `strategie-pas-a-pas.md` : construction Shopify de A à Z, intégration produit assistée par **Claude Code** (MCP Shopify, API REST Woo, skill + agent vérificateur), **agent fournisseur + ERP** (phase 9bis), tracking server-side, email **Brevo**, **scaling horizontal + international hreflang**, **revente/valorisation** (DOTMARKET), cash-flow ;
+- note d'arbitrage sur la divergence **méthode « charognard » (archive) vs lancement direct tROAS (module 2025)** ;
+- nouveau `references/structure-legale-fr.md` (statut, micro+SASU, TVA dropshipping, comptabilité, expatriation — daté, à re-vérifier 2026) ;
+- `docs/inventaire-classroom-skool.md` (carte de couverture des 29 modules) ; audit des lacunes requalifié (délégation, revente désormais `COUVERT`).
+
 ## 2026-08-08 — Second lot de transcriptions, mission coach-associé et stratégie pas à pas
 
 - ingestion de 17 nouveaux contenus fournis par Hakim (16 VTT Vimeo + 1 vidéo YouTube « PostPilot ») : netlinking, stratégie de contenu, avis clients, Facebook/retargeting, canal Shopify, SAV, email marketing Klaviyo (6 vidéos) et automatisation sociale Make — le corpus passe de 49 à 66 contenus parlés ;

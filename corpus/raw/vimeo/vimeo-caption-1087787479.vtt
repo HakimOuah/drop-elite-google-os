@@ -1,0 +1,661 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.380
+Je vais rapidement du coup vous présenter la différence
+
+2
+00:00:02.380 --> 00:00:05.000
+entre l' email transactionnel l'E email, qui a pour
+
+3
+00:00:05.000 --> 00:00:07.080
+but de générer du marketing,
+
+4
+00:00:07.080 --> 00:00:08.680
+l' email marketing et la
+
+5
+00:00:08.920 --> 00:00:09.960
+stratégie qu'on va avoir derrières ça.
+
+6
+00:00:10.020 --> 00:00:12.000
+Si vous ne maîtrisez pas encore les commerces,
+
+7
+00:00:12.000 --> 00:00:15.400
+tout ce qui va être validation de commande, les
+
+8
+00:00:15.940 --> 00:00:20.280
+emails de suivi de votre de votre commande,
+
+9
+00:00:20.940 --> 00:00:23.800
+ce sont ce qu'on appelle des emails de transactions.
+
+10
+00:00:23.800 --> 00:00:26.240
+C'est à dire les emails, un peu basiques,
+
+11
+00:00:26.920 --> 00:00:29.800
+configurer déjà de base en général sur le CMS que vous allez
+
+12
+00:00:29.960 --> 00:00:33.960
+utiliser press Shopify presse un shop, importe qui,
+
+13
+00:00:33.960 --> 00:00:35.880
+effectivement vont valider une transaction.
+
+14
+00:00:35.900 --> 00:00:38.360
+Ça, c'est ce que l'on appelle l'email transactionnel.
+
+15
+00:00:38.940 --> 00:00:41.080
+Le travail que l'on va faire sur l'email transactionnel,
+
+16
+00:00:41.220 --> 00:00:44.280
+ça va être de coller le gabarit
+
+17
+00:00:44.790 --> 00:00:48.200
+avec votre identité visuelle pour que vos emails soient
+
+18
+00:00:48.420 --> 00:00:50.640
+nickel, brandy à votre nom.
+
+19
+00:00:51.100 --> 00:00:54.000
+On va également faire quelques customisation sur ces
+
+20
+00:00:54.020 --> 00:00:55.200
+emails transactionnelles.
+
+21
+00:00:55.660 --> 00:00:59.280
+Par exemple, l'email numéro un de validation de commande.
+
+22
+00:00:59.580 --> 00:01:02.920
+On va l'utiliser pour faire de la publicité,
+
+23
+00:01:02.950 --> 00:01:04.000
+pour faire du marketing.
+
+24
+00:01:04.420 --> 00:01:08.000
+Le premier email que l'on va envoyer après la validation du
+
+25
+00:01:08.000 --> 00:01:09.920
+client va ressembler à ça.
+
+26
+00:01:09.920 --> 00:01:12.480
+On va vous mettre un exemple. Ça va être un email de vente.
+
+27
+00:01:12.490 --> 00:01:16.400
+C'est à dire que comme notre client ici, il attend email,
+
+28
+00:01:16.580 --> 00:01:18.320
+le validation de commande.
+
+29
+00:01:18.380 --> 00:01:20.040
+En général, tout le monde attend cet email.
+
+30
+00:01:20.060 --> 00:01:21.120
+On sait qu'on va le recevoir.
+
+31
+00:01:21.120 --> 00:01:23.520
+Et du coup, on va les checker avant,
+
+32
+00:01:24.340 --> 00:01:27.000
+on va mettre un délai sur cet email de validation de
+
+33
+00:01:27.000 --> 00:01:28.280
+commande, un délai d'une minute,
+
+34
+00:01:28.420 --> 00:01:29.800
+délai de deux minutes maximum.
+
+35
+00:01:31.020 --> 00:01:35.080
+Et on va tout de suite dès la validation d'une commande,
+
+36
+00:01:35.080 --> 00:01:38.240
+faire partir un animal marketing en disant à notre client
+
+37
+00:01:38.710 --> 00:01:40.680
+vous venez de commander sur notre site.
+
+38
+00:01:41.760 --> 00:01:45.240
+Profitez pendant 30 minutes pendant une heure de cette offre
+
+39
+00:01:45.270 --> 00:01:48.440
+irrésistible avec ce code de réduction
+
+40
+00:01:49.540 --> 00:01:53.280
+de 20 %, par exemple avec les frais de port gratuits.
+
+41
+00:01:53.780 --> 00:01:56.360
+Et en gros, vous avez envie d'acheter quelque chose.
+
+42
+00:01:56.670 --> 00:01:59.440
+Vous l'avez enlevé de votre panier. Faites vous plaisir.
+
+43
+00:02:00.020 --> 00:02:01.640
+On vous offre un discount spécial.
+
+44
+00:02:01.740 --> 00:02:03.880
+On est vraiment dans la stratégie du pied dans la porte.
+
+45
+00:02:03.930 --> 00:02:06.040
+C'est votre client qui vient d'acheter qui est le plus
+
+46
+00:02:06.040 --> 00:02:07.440
+susceptible de racheter quelque chose.
+
+47
+00:02:07.700 --> 00:02:10.280
+Et donc du coup, en mettant ce petit délai et en ajoutant
+
+48
+00:02:10.280 --> 00:02:12.480
+cet email, le marketing dans notre séquence de
+
+49
+00:02:12.480 --> 00:02:15.440
+transactionnel, on va avoir des ventes aussi incroyables que
+
+50
+00:02:15.440 --> 00:02:16.880
+c'est le plus paraître depuis 2016
+
+51
+00:02:16.880 --> 00:02:18.000
+que j'ai découvert cette stratégie.
+
+52
+00:02:18.000 --> 00:02:19.640
+Je m'étais dit mais c'est beaucoup trop gros.
+
+53
+00:02:19.900 --> 00:02:21.040
+Les gens, ils viennent d'acheter.
+
+54
+00:02:21.040 --> 00:02:23.280
+Ils ne sont pas prêts à racheter quelque chose et on arrive
+
+55
+00:02:23.280 --> 00:02:26.120
+à avoir des taux d'ouverture qui sont bien évidemment
+
+56
+00:02:26.120 --> 00:02:28.040
+délirants, vu que tout le monde attend cet email.
+
+57
+00:02:28.540 --> 00:02:32.320
+Et on va faire un objet d'ema qui va nous aider,
+
+58
+00:02:32.320 --> 00:02:36.520
+bien évidemment, à avoir un taux d'ouverture,
+
+59
+00:02:36.520 --> 00:02:39.760
+c'est à dire validation de votre commande avant validation
+
+60
+00:02:39.760 --> 00:02:41.840
+de votre commande avec le nom de la boutique
+
+61
+00:02:42.540 --> 00:02:43.760
+et ça fonctionne.
+
+62
+00:02:43.820 --> 00:02:46.640
+Et donc, du coup, on fait cette offre un peu irrésistible
+
+63
+00:02:46.790 --> 00:02:48.400
+avec ce copying de dire bah, voilà.
+
+64
+00:02:48.420 --> 00:02:49.800
+Si vous avez laissé quelque chose dans votre
+
+65
+00:02:49.800 --> 00:02:51.160
+panier, faites vous plaisir.
+
+66
+00:02:51.630 --> 00:02:53.800
+Achetez le, profitez des frais gratuits.
+
+67
+00:02:54.310 --> 00:02:56.000
+Bref, c'est cadeaux. C'est pour nous.
+
+68
+00:02:56.460 --> 00:03:00.320
+Et c'est vraiment ce bonus de première commande sur le
+
+69
+00:03:00.320 --> 00:03:01.800
+site et ça fonctionne.
+
+70
+00:03:01.800 --> 00:03:05.120
+On a vraiment un taux de recommande ici qui
+
+71
+00:03:05.120 --> 00:03:06.160
+est qui est assez excitant.
+
+72
+00:03:06.160 --> 00:03:08.600
+Et dans tous les cas, même si on avait ne serait ce que un
+
+73
+00:03:08.940 --> 00:03:11.760
+ça fonctionnerait, sera toujours un de plus de marge
+
+74
+00:03:12.300 --> 00:03:14.520
+à aller chercher, c'est la marge, aller chercher son colis.
+
+75
+00:03:14.630 --> 00:03:17.000
+Mais là, vraiment, vous allez voir que vous allez réussir à
+
+76
+00:03:17.040 --> 00:03:20.800
+avoir des 10, 15 % de clients qui
+
+77
+00:03:20.800 --> 00:03:22.480
+recommandent dès cette étape là.
+
+78
+00:03:22.580 --> 00:03:25.320
+Et donc, du coup, ça va booster votre l TV.
+
+79
+00:03:25.460 --> 00:03:27.400
+Ça va booster votre valeur par client.
+
+80
+00:03:27.660 --> 00:03:30.880
+Et c'est vraiment quelque chose, un petit AC à utiliser et à
+
+81
+00:03:31.940 --> 00:03:34.000
+et à gérer tout simplement au niveau du
+
+82
+00:03:34.000 --> 00:03:35.120
+coût du transactionnel.
+
+83
+00:03:35.250 --> 00:03:37.080
+C'est à peu près tout ce que l'on va modifier.
+
+84
+00:03:37.080 --> 00:03:41.800
+On va bien évidemment faire des séquences spécifiques sur le
+
+85
+00:03:41.800 --> 00:03:43.560
+suivi de notre colis.
+
+86
+00:03:43.560 --> 00:03:45.680
+On en vous en parlera juste après.
+
+87
+00:03:46.020 --> 00:03:48.280
+Et on vous donnera également à l'intégralité de nos
+
+88
+00:03:48.480 --> 00:03:50.520
+séquences types que l'on utilise pour de nos
+
+89
+00:03:50.520 --> 00:03:51.680
+différentes boutiques.
+
+90
+00:03:51.750 --> 00:03:53.720
+Vous aurez uniquement qu'à les reprendre,
+
+91
+00:03:53.750 --> 00:03:56.400
+qu'elle est modifiée et puis à les intégrer.
+
+92
+00:03:56.870 --> 00:03:58.200
+Mais je vais vous expliquer
+
+93
+00:03:58.200 --> 00:03:59.360
+rapidement comment ça fonctionne.
+
+94
+00:03:59.540 --> 00:04:03.040
+Le marketing par mail maintenant est nos différents emails
+
+95
+00:04:03.040 --> 00:04:04.720
+marketing que l'on va envoyer,
+
+96
+00:04:05.240 --> 00:04:07.240
+ainsi que la stratégie qu'on utilise par mail.
+
+97
+00:04:07.260 --> 00:04:10.000
+Il est important de ne pas spamer les gens, d'accord?
+
+98
+00:04:10.260 --> 00:04:13.720
+Il est important de garder une bonne relation avec votre l
+
+99
+00:04:13.770 --> 00:04:17.000
+email et de faire que votre liste email aime vous
+
+100
+00:04:17.000 --> 00:04:18.800
+lire comment faire.
+
+101
+00:04:19.620 --> 00:04:22.120
+On va créer du contenu qui les intéresse.
+
+102
+00:04:22.540 --> 00:04:27.200
+On va leur partager justement à un début des articles que
+
+103
+00:04:27.200 --> 00:04:30.360
+l'on va rédiger sur leur site sur le site avec un bouton
+
+104
+00:04:30.550 --> 00:04:33.480
+lire la suite pour les amener sur le site internet.
+
+105
+00:04:34.100 --> 00:04:35.800
+Le rythme que je vous recommande,
+
+106
+00:04:36.050 --> 00:04:40.120
+c'est deux emails par semaine, un email de marketing,
+
+107
+00:04:40.340 --> 00:04:42.360
+un email de contenu, d'accord?
+
+108
+00:04:42.900 --> 00:04:44.960
+Ce serait pour moi vraiment le minimum.
+
+109
+00:04:45.780 --> 00:04:46.880
+Si on fait un,
+
+110
+00:04:47.820 --> 00:04:51.760
+on va faire un peu de contenu et de la vente, d'accord?
+
+111
+00:04:52.270 --> 00:04:55.120
+L'idée va être toujours d'apporter quelque chose à vos
+
+112
+00:04:55.360 --> 00:04:58.680
+prospects dans vos emails tout au long de l'année,
+
+113
+00:04:58.950 --> 00:05:01.640
+pour pouvoir, bien évidemment tabasser,
+
+114
+00:05:01.640 --> 00:05:05.400
+c'est-à-dire faire plusieurs emails marketing consécutifs
+
+115
+00:05:05.400 --> 00:05:08.720
+sans forcément avoir de valeur ajoutée lors des grosses
+
+116
+00:05:08.800 --> 00:05:11.200
+périodes de fête avec un taux d'ouverture maximum.
+
+117
+00:05:11.910 --> 00:05:14.000
+Mais vous devez penser que votre taux d'ouverture
+
+118
+00:05:14.000 --> 00:05:15.120
+est le truc le plus important.
+
+119
+00:05:15.140 --> 00:05:17.040
+Un taux d'ouverture, taux de clics sont les données que vous
+
+120
+00:05:17.040 --> 00:05:19.920
+devez suivre et sont vraiment les informations les plus
+
+121
+00:05:19.920 --> 00:05:22.320
+importantes parce que vous pouvez avoir une base de 50 zéro.
+
+122
+00:05:22.340 --> 00:05:23.680
+Si personnes vous ouvre, personne ne
+
+123
+00:05:23.680 --> 00:05:24.720
+vous lit, ce n'a aucun intérêt.
+
+124
+00:05:24.870 --> 00:05:28.360
+Donc, il faut vraiment réussir à garder cette relation avec
+
+125
+00:05:28.540 --> 00:05:32.840
+la communauté et utiliser un maximum d'outils pour faire que
+
+126
+00:05:32.840 --> 00:05:35.040
+les gens continuent de vous suivre, continuent de vous lire,
+
+127
+00:05:35.530 --> 00:05:39.600
+voire même voient vos emails à leurs amis parce qu'il y a de
+
+128
+00:05:39.600 --> 00:05:40.680
+la valeur à l'intérieur.
+
+129
+00:05:40.900 --> 00:05:43.760
+À partir de là, à vous de définir votre stratégie marketing,
+
+130
+00:05:43.760 --> 00:05:46.600
+qu'est ce que vous allez mettre dans les emails?
+
+131
+00:05:46.670 --> 00:05:49.440
+L'idée que je vous ai donné de mettre un morceau d'article
+
+132
+00:05:49.470 --> 00:05:52.840
+avec un lire à la suite pour inviter les gens sur votre site
+
+133
+00:05:53.080 --> 00:05:55.600
+internet est une bonne stratégie pour avanter de la valeur
+
+134
+00:05:55.700 --> 00:05:56.720
+et renvoyer du trafic
+
+135
+00:05:56.720 --> 00:05:57.720
+Vers votre votre site.
+
+136
+00:05:58.020 --> 00:06:01.840
+Il y a également du coup l'email, un peu de base.
+
+137
+00:06:02.140 --> 00:06:05.200
+Moi, j'aime tourner en fonction des produits,
+
+138
+00:06:05.200 --> 00:06:06.280
+c'est à dire que toutes les semaines,
+
+139
+00:06:06.460 --> 00:06:08.400
+je vais avoir un focus produit différent.
+
+140
+00:06:08.580 --> 00:06:10.320
+Par exemple, on peut imaginer
+
+141
+00:06:11.340 --> 00:06:14.280
+un mois par catégorie ou par sous catégorie de votre site.
+
+142
+00:06:14.740 --> 00:06:17.160
+Et à travers chaque email marketing,
+
+143
+00:06:17.160 --> 00:06:19.880
+vous allez faire une offre spécifique avec un code de
+
+144
+00:06:19.880 --> 00:06:21.840
+réduction sur des catégories.
+
+145
+00:06:22.180 --> 00:06:27.120
+Par exemple, j'aime mettre en place des ventes privées à
+
+146
+00:06:27.120 --> 00:06:28.480
+chaque fin de mois encore.
+
+147
+00:06:28.940 --> 00:06:32.560
+Le dernier email marketing de chaque mois est une
+
+148
+00:06:33.130 --> 00:06:37.600
+vente privée dans lequel on a une catégorie cachée sur le
+
+149
+00:06:37.600 --> 00:06:42.120
+site sur lequel on met des produits sur lequel on tabas les
+
+150
+00:06:42.140 --> 00:06:44.960
+marges et sur lequel on offre à nos
+
+151
+00:06:45.600 --> 00:06:46.800
+prospects qui n'ont jamais acheté.
+
+152
+00:06:47.180 --> 00:06:50.440
+On offre à nos clients une opportunité de racheter et
+
+153
+00:06:50.440 --> 00:06:54.040
+d'augmenter l ltv ces stratégies vent, nous privés, moi,
+
+154
+00:06:54.110 --> 00:06:56.920
+j'adore, ça va vous permettre également d'écouler vos stocks
+
+155
+00:06:56.920 --> 00:06:58.160
+quand vous avez du stock qui traîne.
+
+156
+00:06:58.420 --> 00:07:00.640
+Et ça va vous permettre d'apporter de la valeur à vos
+
+157
+00:07:00.640 --> 00:07:03.360
+clients et d'apporter bien un avantage.
+
+158
+00:07:03.360 --> 00:07:06.240
+Encore une fois, de lire votre email et de ne pas les
+
+159
+00:07:06.240 --> 00:07:08.840
+fermer, les ventes privées doivent être vraiment temporaires
+
+160
+00:07:09.220 --> 00:07:12.560
+et respecter vraiment cette un peu naturelle.
+
+161
+00:07:13.100 --> 00:07:15.600
+Ce sont des idées de stratégie qu'on met en place qui nous
+
+162
+00:07:15.600 --> 00:07:19.160
+apportent un maximum de résultats et que je vous recommande
+
+163
+00:07:19.160 --> 00:07:20.480
+également de mettre en place.
+
+164
+00:07:21.270 --> 00:07:23.520
+Dans la vidéo suivante, on va parler du coup des différents
+
+165
+00:07:23.530 --> 00:07:25.760
+flots marketing à mettre en place que je vous recommande.

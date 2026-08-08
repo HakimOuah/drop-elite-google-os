@@ -1,0 +1,323 @@
+INTÉGRATION 
+PRODUITS 
+LES ERREURS À NE PAS COMMETTRE 
+
+
+--- PAGE ---
+
+LE SOURCING 
+
+
+--- PAGE ---
+
+●Les produits de votre site feront votre site, 
+ils sont la part la plus importante 
+●Vous ne vendrez aux clients que des 
+produits qu’ils recherchent .
+
+
+--- PAGE ---
+
+Ne pas chercher l’innovation, les produits qui 
+fonctionnent déjà fonctionneront encore !
+
+
+--- PAGE ---
+
+La base du sourcing sur AliExpress.
+●
+Trier les produits selon le nombre de commandes. 
+●
+Varier les termes de recherche et la langue.
+●
+Attention aux pages multi-produits, ils peuvent être bien 
+placés, mais cela n’est pas représentatif et complique le 
+travail de l’intégration.
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+Le choix du produit 
+●
+Un produit avec un nombre minimum de commandes 
+●
+Des avis  de clients nombreux et illustrés
+●
+Des photos de qualité professionnelle  et en nombre minimum
+●
+Des stocks sufﬁsants
+●
+Une description complète et détaillée (alimentation-notice, 
+dimensions…)
+●
+Pensez aux associations de produits possibles 
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+Le choix du fournisseur est essentiel
+●
+Simplicité des échanges 
+●
+Réactivité 
+●
+Qualité de service 
+●
+●
+Délais de livraisons et packaging
+Vériﬁez systématiquement  la note et le nombre d’abonnés du 
+fournisseur. Une fois le contact établi, faites-vous un ﬁchier avec 
+vos meilleurs fournisseurs. 
+
+
+--- PAGE ---
+
+Avec de bons produits et de bons 
+fournisseurs, vous allez diminuer 
+le SAV et le temps de gestion 
+opérationnel du quotidien.
+
+
+--- PAGE ---
+
+LE TEXTE
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+●
+Le titre du produit doit être unique et sufﬁsamment clair et descriptif, 
+il doit également correspondre le plus possible à la requête du client 
+pour que Google lui présente votre produit.
+●
+Pour un texte optimisé, faites une rapide recherche de mots clefs qui 
+correspondent à votre produit et faites les apparaitre en gras dans le 
+texte. 
+●
+Si le texte est trop long, scindez-le en paragraphes et ajoutez des 
+sous-titres
+●
+Le texte doit être informatif et séduisant pour susciter l’achat, mais 
+n’oubliez pas qu’il a également une vocation SEO.
+●
+Chaque texte doit être unique 
+
+
+--- PAGE ---
+
+●
+Ajoutez une dimension commerciale à votre texte ( AIDA ) 
+A pour « Attention »
+I pour « Intérêt »
+D pour « Désir »
+A pour « Action »
+●
+Aidez-vous d’un logiciel comme “Jarvis “ pour développer votre 
+argumentaire et sortir de votre syntaxe habituelle.
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+LES PHOTOS
+
+
+--- PAGE ---
+
+●
+Attention : changer la photo principale du produit pour la différencier de celle de 
+AliExpress
+●
+Bien s’assurer que chaque photo accompagne chaque variation 
+●
+Pas de logo, d’écriture ou de liserés sur les photos pour éviter les rejets de Google 
+Ads
+●
+Dans les photos secondaires, mettre en avant des photos life style pour que le 
+client puisse se mettre en situation.
+●
+Mettre en avant les photos sur fond blanc en image principale si possible
+Bien paramétrer les variations pour simpliﬁer le passage des commandes en 
+automatique 
+●
+Dans le back ofﬁce, renommer et décrire la photo cf image
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+LES ATTRIBUTS
+
+
+--- PAGE ---
+
+●
+Lever les freins à la conversion en ajoutant le maximum 
+de détails techniques ( matière, taille, caractéristiques…)
+●
+Il faut répondre à toutes les questions que le client 
+pourrait se poser ( alimentation, utilisation …)
+●
+Pour les textiles, ajouter un guide des tailles si possible
+●
+Vous pouvez également utiliser les attributs comme ﬁltre 
+pour votre site.
+●
+Attention à ne pas polluer le site avec des attributs 
+anarchiques, se référer aux attributs préenregistrés
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+LES VARIATIONS
+
+
+--- PAGE ---
+
+●
+Paramétrer les variations de manière claire et intelligible 
+pour le client
+●
+Simpliﬁer la nomenclature des variations
+●
+Ne pas casser le lien avec le fournisseur pour simpliﬁer
+ le passage des commandes et la gestion de stock
+●
+Ne pas multiplier les propositions de choix, le client est 
+impatient
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+LE PRIX
+
+
+--- PAGE ---
+
+●Adapter sa marge selon le prix d’achat 
+●Rester cohérent
+●Veille une veille concurrentielle des produits sur 
+Google shopping
+●Attention au prix de la livraison
+●Harmoniser la terminaison des prix 
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+LES DÉTAILS
+
+
+--- PAGE ---
+
+●
+Présélectionner les variations pour limiter les actions du client et 
+simpliﬁer l’achat
+●
+Ne pas nommer un produit comme une sous-catégorie 
+pour éviter les collisions d’URL 
+●
+Bien attribuer une catégorie principale et une sous-catégorie pour 
+chaque produit 
+●
+Prendre le temps de bien rédiger la méta-description 
+●
+Variez les descriptions SEO des catégories pour éviter le duplicate 
+content 
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+Liens utiles 
+https://alidropship.com/
+https://yourtext.guru/login
+https://app.jasper.ai/
+https://languagetool.org/fr
+pexels.com/fr
+
+
+--- PAGE ---
+
+INTEGRATION EN IMAGE 
+
+
+--- PAGE ---
+
+
+
+--- PAGE ---
+
+A vous de jouer  !

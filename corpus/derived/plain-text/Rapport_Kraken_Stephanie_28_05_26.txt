@@ -1,0 +1,287 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  1  —
+RAPPORT DE SESSION
+28 mai 2026 • Durée : 1h45 • Coach : Stéphanie
+Participants : Emeric, Manuel, Charlotte, Elodie, Aude, Chiraz, Zaridge, Samuel
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Emeric — Remplir une collection avant de la publier au menu, et se
+faire un rétro-planning opérationnel
+▶ 00:01 Débat avis importés (Judge.me / AliExpress) — Le risque DGCCRF tranché
+▶ 00:14 Hotseat Manuel — Audit complet : un checkout cassé qui explique zéro
+vente en 2 ans
+▶ 00:48 Charlotte — Lancement de la 2e boutique, délais de livraison et cas
+Monaco
+▶ 00:54 Internationalisation — Site multilingue, volume par pays, comptes
+Google Ads dédiés
+▶ 01:01 Elodie — Ouverture d’un litige AliExpress pas à pas (SAV en direct)
+▶ 01:13 Aude — Balises alt, design de la homepage, et l’attente du retour de
+Théo
+▶ 01:26 Templates SAV — Une bibliothèque de réponses pour gagner du temps et
+se détacher émotionnellement
+▶ 01:41 Outils IA — Sonnet 4.6 pour discuter, Opus 4.7 pour le fond ; prudence
+avec RankerFox
+⚔ DÉTAIL DES HOTSEATS
+► Emeric — Collections progressives & avis importés
+Collections : Emeric construit ses collections produit par produit. La consigne est de remplir entièrement une
+collection (produits + texte optimisé) avant de l’ajouter au menu, pour qu’aucun client ne tombe sur une page «
+en travaux ». En parallèle, se faire un rétro-planning opérationnel avec un créneau fixe (ex. lundi après-midi)
+pour cadrer les modifications sans charge mentale, et garder le reste de la semaine pour une autre niche ou
+activité.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  2  —
+Avis importés : le cœur du hotseat. Emeric importe des avis via Judge.me depuis AliExpress en modifiant
+texte, nom et date. Le coach pose la limite : ces avis aident à la conversion mais ne sont pas justifiables lors
+d’un contrôle DGCCRF (on demande le numéro de commande et l’e-mail du client). Faux avis inventés et
+récompenses contre avis sont interdits. Recommandation : viser des avis authentiques, soigner le SAV pour les
+obtenir, et modérer sans tricher — un 3 étoiles crédible vaut mieux qu’une page de 5 étoiles uniforme.
+« Pour la pérennité de la boutique, j’ai des clients qui ont que des vrais avis et, avec le temps, tu
+arrives à avoir un paquet de vrais avis. »
+— Stéphanie
+► Manuel — Audit complet : boutique bien-être masculin
+Constat : Manuel pilote depuis 2 ans une boutique WordPress/WooCommerce dans le bien-être intime
+masculin (3 produits, drop depuis la Chine, marge x4), sans acquisition payante — uniquement SEO et
+organique. Résultat : zéro vente en 2 ans.
+Blocages techniques : l’audit en direct révèle une erreur critique WordPress sur le checkout : personne ne
+peut acheter, ce qui explique à lui seul l’absence de ventes. S’ajoutent des coquilles : boutons et textes en
+anglais sur un site censé être français, dates et promotions périmées (2024), absence de variations (couleur),
+watermarks et nom de marque tiers sur les images.
+SEO & architecture : le site n’a pas d’architecture (3 produits, pas de silos). Le mot-clé cible « flashlight »
+(volume 12 000) n’apparaît nulle part dans l’éditorial — seulement dans l’URL — donc impossible de s’y
+positionner. Les concurrents directs ont une vraie architecture : dizaines de catégories, textes de 300+ mots et
+5-6 images par produit, maillage interne, blog mêlant informationnel et commercial.
+Indicateur
+Valeur
+Commentaire clé
+Produits en ligne
+3
+Catalogue insuffisant
+CA sur 2 ans
+0 €
+Checkout non fonctionnel
+Marge produit
+x4
+Drop depuis la Chine
+Volume « flashlight »
+12 000
+Mot-clé absent de l’éditorial
+Followers Instagram
+< 100
+Seule acquisition : SEO / organique
+Feuille de route : priorité absolue = débloquer le checkout (vérifier Stripe connecté/actif, alertes
+WooCommerce, test d’achat en navigation privée). Ensuite corriger les coquilles, créer les variations, puis
+recherche de mots-clés (Semrush) pour bâtir une architecture, élargir le catalogue et travailler éditorial,
+positionnement et avatar client. Revenir la semaine prochaine avec une liste de mots-clés + volumes associés.
+« Voilà l’explication de pourquoi les gens n’achètent pas : parce qu’ils ne peuvent pas acheter. »
+— Stéphanie
+► Charlotte — Lancement 2e boutique & livraison
+Lancement : Charlotte lance sa deuxième boutique (produits volumineux, fournisseurs majoritairement
+AliExpress Europe, certaines collections sourcées en Chine). En cours : indexation des pages, puis Semrush et
+Merchant Center. Conseil livraison : annoncer des délais larges et transparents — pour des produits
+volumineux, un délai assumé ne freine pas l’achat (parallèle avec la fabrication sur mesure, où 3 mois passent
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  3  —
+sans friction).
+Cas Monaco / Suisse : une cliente de Monaco ne pouvait pas commander ; après ajout de Monaco, les frais
+d’expédition ressortaient à 25 $ pour 15-45 jours de délai (marge x3 sur la livraison). Conclusion : retirer
+Monaco (non rentable), ce n’est pas un problème de livrabilité mais de coût. Même logique pour la Suisse : frais
+plus élevés, CGV spécifiques, numéro de téléphone client obligatoire.
+International : pour ouvrir d’autres pays — site multilingue avec détection de langue, recherche de volume de
+mots-clés traduits, campagnes Google Ads par pays (comptes distincts + période de rodage à chaque fois).
+Ouvrir un pays revient à ouvrir une nouvelle boutique : ne pas tout ouvrir d’un coup (trésorerie), prioriser les
+marchés cohérents (l’Allemagne ressort comme piste plausible).
+« Indique-le, même si les délais sont un peu longs : si tu vends des produits volumineux, les gens
+sont plus enclins à attendre. »
+— Stéphanie
+► Elodie — SAV : ouvrir un litige AliExpress
+Process en direct : ouverture d’un litige AliExpress sur un problème de taille (taille chinoise mal indiquée). Le
+parcours : commande → retour et remboursement → motif « la taille ne convient pas » → photos/vidéos si
+défaut → choix du mode de renvoi (point relais, étiquette) → remboursement sur carte bleue (délai plus long
+que l’avoir, mais préférable).
+Le réflexe à retenir : AliExpress propose un remboursement partiel (3,99 € au lieu de 39,86 €) pour éviter le
+retour — exactement la tactique de préservation de trésorerie enseignée pour son propre SAV. Quand le retour
+se justifie, refuser l’offre et continuer la demande.
+Stripe : sur les remboursements WooCommerce, choisir le remboursement automatique. Si le solde Stripe est
+à zéro (versement intégral automatique vers la banque), le remboursement ne passe pas. Solution adoptée :
+laisser un minimum (env. 50 €) en permanence sur Stripe.
+« Là, tu as le SAV qui fait le job : ils veulent pas se défaire de leur trésorerie. Exactement ce que je
+t’ai appris à toi. »
+— Stéphanie
+► Aude — Balises alt, design & attente du retour de Théo
+Balises alt : Aude attend le retour de Théo (en vacances jusqu’à mercredi) pour l’intégration produits. Sur les
+balises alt, ne pas y passer des heures : la méthode est titre produit + mot-clé + spécificité (ex. « robe longue
+satinée à col drapé, vue de dos »), généré rapidement avec l’IA. Sur ~250 produits × 6 images, c’est
+anecdotique et ne doit pas devenir une tâche chronophage.
+En attendant Théo : travailler ce qui est à portée — finaliser le design de la homepage et les bonnes images
+(regain de motivation), puis les textes de catégories (module dédié de la formation, en priorisant le volume de
+recherche), le sourcing, voire un premier article de blog. Pour la mise à jour de thème (2.4) : envoyer un
+message à Théo avant de la lancer, car il a inséré un bout de code JSON qui pourrait sauter — et ne pas
+attendre son retour pour poser les questions sur le WhatsApp (Enzo peut répondre).
+« Une balise alt, c’est anecdotique. C’est pas censé être une tâche qui doit te prendre la tête. »
+— Stéphanie
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  4  —
+⚙ PRINCIPES TRANSVERSAUX
+Pas de masterclass formelle cette semaine : la session était un tour de table à hotseats. Les principes ci-dessous
+reviennent en transversal sur plusieurs membres.
+Avis clients : rester dans les clous. Importer des avis aide à la conversion mais expose à un risque DGCCRF
+— il faut pouvoir justifier chaque avis (numéro de commande, e-mail). Faux avis et récompenses contre avis
+sont interdits. Privilégier l’authenticité et une modération mesurée. À la revente, des avis achetés dévalorisent
+fortement le site lors d’un audit.
+Architecture de niche : produit vs thématique. Une architecture, ce n’est pas trois produits : ce sont des silos
+bâtis sur une recherche de mots-clés (Semrush), avec catégories, textes descriptifs et maillage interne. Niche
+produit (ex. la jupe : longue, courte, midi, plissée…) vs niche thématique (ex. bébé : biberons, vaisselle,
+vêtements…). Le mot-clé cible doit apparaître dans l’éditorial, pas seulement dans l’URL.
+SAV & trésorerie. Les litiges AliExpress (remboursement, réexpédition, retour) restent accessibles tant qu’on
+ne passe pas par un agent — les agents (type Obordesk, HAO) n’acceptent pas les retours actuellement, mais
+offrent l’étiquette Colissimo (via Yun Express) et la suppression de facture/pub. Côté trésorerie : laisser un
+minimum sur Stripe pour les remboursements automatiques. Les templates SAV font gagner du temps et créent
+une distance émotionnelle.
+« Si tu utilises des templates pour tous les messages à la con, ça te permet d’avoir une
+distanciation émotionnelle qui te fait pas péter les plombs. »
+— Stéphanie
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Remplir entièrement chaque nouvelle collection (produits + texte) avant de l’ajouter au menu —
+jamais de page visible en « travaux ».
+⚡ Trancher sur les avis importés : viser l’authenticité, ralentir/arrêter l’import (DGCCRF = justification
+non tenable).
+SECONDAIRE
+○ Finaliser le rétro-planning opérationnel : créneau hebdo fixe pour les modifs.
+○ Anticiper la contrainte calendrier (tournage qui démarre le 15).
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Débloquer le checkout en priorité absolue : Stripe connecté/actif, alertes WooCommerce, test
+d’achat en navigation privée (erreur critique WordPress).
+⚡ Corriger toutes les coquilles : boutons/textes en anglais → français, dates 2024, promo de
+livraison périmée.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  5  —
+⚡ Créer les variations produit (couleur) pour que le client puisse choisir.
+SECONDAIRE
+○ Retirer les watermarks et le nom de marque tiers sur les images.
+○ Recherche de mots-clés (Semrush) et intégration de « flashlight » dans l’éditorial ; élargir le catalogue
+au-delà de 3 produits.
+○ Travailler éditorial/SEO (catégories, blog, à propos, backlinks, ambassadeurs) et définir positionnement +
+avatar.
+○ Revenir la semaine prochaine avec une liste de mots-clés + volumes de recherche.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Annoncer des délais de livraison larges et transparents (produits volumineux + fournisseurs Chine
+sur certaines collections).
+⚡ Finaliser indexation + Semrush + Merchant Center pour le lancement.
+SECONDAIRE
+○ Retirer Monaco des marchés (frais x3 non rentables) ; même prudence pour la Suisse (CGV + frais +
+téléphone obligatoire).
+○ International : ne pas ouvrir trop de pays d’un coup ; refaire la recherche de volume par pays avant
+d’ouvrir.
+  ⚓  Elodie
+PRIORITAIRE
+⚡ Maîtriser le process litige AliExpress : refuser le remboursement partiel quand le retour se justifie,
+choisir le remboursement CB.
+SECONDAIRE
+○ Laisser un minimum (env. 50 €) sur Stripe pour que les remboursements WooCommerce passent en
+automatique.
+○ Compléter la bibliothèque de templates SAV (gain de temps + distance émotionnelle).
+  ⚓  Aude
+PRIORITAIRE
+⚡ Faire les balises alt rapidement et en lot avec l’IA (titre + mot-clé + spécificité) — ne pas y passer
+des heures.
+⚡ En attendant Théo (mercredi) : finaliser le design de la homepage et les bonnes images.
+SECONDAIRE
+○ Travailler les textes de catégories (module dédié) en priorisant le volume de recherche ; continuer le
+sourcing.
+○ Mise à jour thème 2.4 : message à Théo avant de lancer (risque sur le code JSON ajouté) — sans
+attendre son retour.
+  ⚓  Zaridge
+PRIORITAIRE
+⚡ Relancer le support Payoneer (>7 jours) pour corriger l’erreur d’adresse ; ne pas recréer de compte
+(doublon = refus définitif).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/05/2026
+—  6  —
+SECONDAIRE
+○ Continuer à avancer sur le reste en attendant le déblocage du setup de paiement.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Trancher la question des avis en connaissance de cause : lire le texte de loi (DGCCRF), privilégier
+l’authenticité, modérer sans tricher.
+SECONDAIRE
+○ Utiliser des templates SAV pour fluidifier le traitement et se détacher émotionnellement.
+○ Optimiser l’usage de l’IA : Sonnet 4.6 pour la conversation, Opus 4.7 pour le travail de fond (économie de
+tokens).
+○ Poser les questions sur le WhatsApp sans attendre (Théo en vacances jusqu’à mercredi ; Enzo peut
+répondre).
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Manuel — produits en ligne
+3
+Catalogue à élargir
+Manuel — CA sur 2 ans
+0 €
+Checkout non fonctionnel
+Manuel — marge produit
+x4
+Drop depuis la Chine
+Volume « flashlight »
+12 000
+Mot-clé produit principal
+Manuel — followers Insta
+< 100
+Seule acquisition : SEO/organique
+Manuel — prix de vente
+env. 100 €
+Légèrement sous la concurrence
+Concurrents — texte produit
+300+ mots
+5-6 images par produit
+Charlotte — frais Monaco
+25 $
+Délai 15-45 jours
+Charlotte — commande annulée
+85 €
+2 paires (retour non souhaité)
+Elodie — remboursement litige
+39,86 €
+Taille non conforme
+Elodie — offre partielle AliExpress
+3,99 €
+À refuser si retour justifié
+Elodie — solde mini Stripe
+50 €
+Pour remboursements auto
+Emeric — avis importés
+1 / jour
+Ralenti (avant 2-3/jour)
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

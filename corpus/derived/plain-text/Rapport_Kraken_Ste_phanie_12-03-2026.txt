@@ -1,0 +1,296 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  1  —
+RAPPORT DE SESSION
+12 mars 2026 • Durée : 1h23 • Coach : Stéphanie
+Participants : Nicolas, Thibaud, David, Yannis, Elodie, Chiraz, Gaël, Charlotte, Aude
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Nicolas — Avancement site : 62 produits restants, Merchant Center,
+départ vacances
+▶ 00:05 Thibaud — 4 boutiques actives, ROAS, Trustpilot, stratégie multicanal
+▶ 00:24 David — Lancement Shopify, thème Full Stack, architecture à valider
+▶ 00:31 Yannis — Début formation, question ratio de rentabilité
+▶ 00:33 Elodie — Site sophrologie terminé, site foulards en cours, acquisition
+boutique textile
+▶ 01:06 Chiraz — Niche ceinture sélectionnée, début mots-clés
+▶ 01:10 Gaël — Découverte formation, Shopify vs WooCommerce, mobile money
+⚔ DÉTAIL DES TOURS DE TABLE
+► Nicolas — Sprint final avant vacances
+Avancement site : 62 produits restants à compléter (descriptions). Le site est quasi terminé. Nicolas part en
+Thaïlande le 23 mars pour 3 semaines. Le lancement est reporté au retour de vacances.
+Problème Merchant Center : Le premier site avait été refusé par le GMC. Le coach rappelle la consigne initiale
+: faire valider le Merchant Center avant de compléter 250 fiches produits. Nicolas a choisi de terminer
+l’intégration malgré tout pour ne pas perdre de temps.
+Point vocabulaire : Le coach corrige le conditionnel (« si le GMC passe » → « quand il passera »). État d’esprit
+positif exigé.
+« Change ton vocabulaire. C’est pas si, c’est quand il passera. On enlève le conditionnel de la
+formulation. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  2  —
+► Thibaud — 4 boutiques, ROAS & stratégie multicanal
+Situation générale : 4 boutiques actives. La 4ème approche du ROAS. Une boutique en baisse de ventes
+depuis une dizaine de jours (février était bon, mars en retrait). Cause probable : saisonnalité transition
+hiver/printemps. Pas de nouvelle boutique prévue — priorité à la stabilisation des 4 existantes avant le Q4.
+Canal / Action
+Statut
+Commentaire clé
+Facebook Ads
+Souhaité mais
+bloqué
+Déteste les créatifs. Cherche prestataire Fiverr.
+Trustpilot
+Lancé (1 boutique)
+Note de base 3,5. Stratégie : proches + clients satisfaits.
+Blog / SEO
+En cours
+Cocons sémantiques avec Claude. Backlinks à acheter.
+Emailing
+Actif
+1 envoi/sem. Paniers abandonnés + welcome = CA.
+Instagram
+Créé puis abandonné
+Découragé par le zéro abonnés.
+Pinterest
+Démarré
+Épingles sur 1ère boutique.
+Conseil du coach sur l’acquisition : Monter en compétence sur Facebook Ads plutôt que déléguer (coût
+élevé : agences à 1 000€/mois minimum). Déléguer le SAV et les tâches sans ROI direct. L’acquisition se paye
+le plus cher en délégation.
+Conseil multicanal : Travailler Instagram, SEO, SEA, Pinterest en cohérence. L’enrichissement multicanal
+renforce le SEO et la crédibilité de marque. Reposter des réels de professionnels dans la niche pour créer de
+l’engagement et de la visibilité algorithmique.
+Blog : Catégoriser le blog comme l’architecture produit. Créer plusieurs blogs sur Shopify, pages collection
+blog, maillage interne cohérent.
+Routine : Programmer le contenu à l’avance avec l’IA. Publier quotidiennement ne prend que quelques
+secondes si tout est préparé. Mettre en place un planning par jour de la semaine pour automatiser l’opérationnel
+et libérer le cerveau pour le développement.
+« Plus tu seras organisé, plus tu auras une routine, moins tu te rendras compte. Tu vas le faire
+comme un petit robot parce que tu auras tout programmé. »
+— Coach Kraken
+► David — Lancement du site Shopify
+Avancées : Nom de domaine acheté, Gmail Pro activé, Shopify pris. Logo simple (typo aérée, pas de
+pictogramme). Choix du thème Full Stack pour aller vite, personnalisation au code ultérieurement si besoin.
+Priorité absolue avant de construire : Vérifier que chaque catégorie de l’architecture est sourçable sur
+AliExpress. Ne pas créer de collections, de textes ni de maillage avant cette validation. Risque : se retrouver
+avec des catégories sans produit.
+Autonomie : Le coach encourage David à avancer seul (design, typo, couleurs, métafields) et à ne solliciter
+que s’il bloque. Exemples cités : Nicolas et Thibaud ont construit leurs sites en totale autonomie.
+« Vérifie d’abord que tu puisses tout sourcer. Sinon, c’est le faire à l’envers. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  3  —
+► Yannis — Début de formation avec son frère
+Formation commencée il y a environ 1 semaine et demie. Yannis et son frère travaillent chacun de leur côté et
+mettent en commun le mardi ou mercredi. Le frère (absent ce soir) communique déjà avec le coach sur
+WhatsApp pour les niches.
+Question sur le ratio de rentabilité (RR) : Le coach détaille la méthode — sourcer 10 produits (exclure les
+extrêmes), calculer le prix moyen, diviser par le CPC. Seuil minimum : > 100. En dessous, la rentabilité en pub
+est compromise.
+« Ratio de rentabilité en dessous de 100 signifie que tu arriveras pas à trouver de la marge et de la
+rentabilité en pub. »
+— Coach Kraken
+► Elodie — Sophrologie terminée, foulards & acquisition textile
+Site sophrologie (terminé) : Site vitrine Elodie Façon Sophrologie achevé avec blog, mentions légales,
+CGU/CGV. Corrections à apporter : 2 H1 sur la page d’accueil (en garder un seul), H3 sans mot-clé principal,
+blocs non cliquables (autoRéflexologie, stop tabac) — ajouter les liens vers les pages de destination.
+Point
+Statut
+Action
+2 H1 page d’accueil
+À corriger
+Passer le 2ème en H2.
+H3 sans mot-clé
+À corriger
+Ajouter « sophrologue » dans chaque H3.
+Blocs non cliquables
+À corriger
+Ajouter liens vers pages de destination.
+Référencement
+À faire
+Annuaires, forums sophrologie, Doctolib, etc.
+Site foulards (Shopify, en cours) : 30 à 40 produits intégrés. Bug identifié : les photos de variations/couleurs
+ne s’affichent pas au clic. Bullet points incohérents sur certaines fiches (tout à la suite au lieu de lignes
+séparées). Le coach rappelle de corriger chaque problème au moment où il est identifié, pas « après ».
+Tutoiement (« tu pourrais aimer ») inadapté à la clientèle — à remplacer par du vouvoiement.
+Acquisition boutique textile : Transfert en cours (fin prévue sous quelques jours). Le prédécesseur vendait en
+SEO uniquement, quelques ventes en 2025. Priorités immédiates : recettage complet, changement mentions
+légales, parcours client test, raccordement AliExpress/DSers, validation Merchant Center pour passer en
+Google Ads. Attention textile : guides de tailles obligatoires, éviter la duplication de produits (même modèle en X
+couleurs = X fiches → regrouper en variations). Varier le catalogue, ajouter des accessoires pour gonfler le
+panier moyen.
+« Il vaut mieux corriger au moment où tu identifies le problème. Quand tu devras repasser sur tout,
+ça va être un enfer. »
+— Coach Kraken
+► Chiraz — Niche ceinture validée
+Chiraz a été malade cette semaine, peu d’avancement. Niche ceinture sélectionnée. Début de la recherche de
+mots-clés et analyse concurrentielle. L’arborescence n’est pas encore construite.
+Niche sac à main : Intérêt mais retours négatifs de Mika (testé 1 an, abandonné) et Thibaud. Le coach propose
+de faire un comparatif détaillé avec leurs retours d’expérience au moment opportun, pour déterminer si
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  4  —
+l’approche serait différente.
+Rappel : Formation commencée il y a 3 semaines seulement. Niche choisie = étape clé franchie. Maintenant,
+on déroule.
+► Gaël — Découverte & questions stratégiques
+Gaël est en phase de découverte de la formation. Abonnement Rank Fox activé, utilisation de Claude. 3 niches
+identifiées mais pas encore analysées en détail (sémantique, arborescence).
+Question Shopify vs WooCommerce : Le coach recommande Shopify pour les débutants (intuitif, pas de
+bugs, support intégré, plugins simples). WooCommerce pour les profils techniques capables de réparer
+eux-mêmes les problèmes de code. Coût Shopify : ~30$/mois + % ventes. WooCommerce : gratuit mais
+maintenance technique payante (développeurs, agence). L’un dans l’autre, le coût est comparable.
+Question mobile money (Afrique de l’Ouest) : Gaël souhaite vendre en Afrique via mobile money. Le coach
+n’a pas de réponse immédiate, va se renseigner. Conseil : poser la question dans le groupe WhatsApp.
+« Shopify, c’est quand même beaucoup plus intuitif, beaucoup plus simple. Et il y a quasiment 99%
+aucun bug de fonctionnement. »
+— Coach Kraken
+⚙ NOTE — PAS DE MASTERCLASS CE SOIR
+Pas de masterclass prévue cette semaine en raison du nombre de tours de table. Masterclass prévue la
+semaine prochaine (sauf si trop de hotseats).
+Demande de Chiraz : Préparer une liste des logiciels indispensables (débutant → avancé) avec les budgets
+associés. Le coach consultera Théo et Mika pour compiler la liste.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Terminer les 62 fiches produits restantes avant le départ du 23 mars.
+⚡ Faire valider le Merchant Center dès le retour de vacances — première action au retour.
+SECONDAIRE
+○ Page d’accueil : pas obligatoire avant le départ, à finaliser au retour.
+○ Préparer le plan post-vacances : GMC validé → pub → emailing → ventes.
+○ Ne pas lancer en vacances.
+  ⚓  Thibaud
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  5  —
+⚡ Monter en compétence Facebook Ads plutôt que déléguer : c’est le canal le plus cher en
+délégation.
+⚡ Mettre en place un planning de publication réseaux sociaux (IA pour le contenu, routine
+quotidienne).
+⚡ Stabiliser les 4 boutiques avant d’en ouvrir d’autres. Objectif : Q4 nickel.
+SECONDAIRE
+○ Trustpilot : récolter 10+ avis via proches + clients satisfaits (lien evaluate).
+○ Structurer le blog en catégories cohérentes (architecture blog = architecture produit).
+○ Acheter des backlinks pour renforcer le score SEO.
+○ Déléguer le SAV et les tâches sans ROI direct.
+  ⚓  David
+PRIORITAIRE
+⚡ Vérifier que CHAQUE catégorie de l’architecture est sourçable — avant toute création de
+collection.
+⚡ Installer le thème Full Stack et commencer la construction du site (design, typo, couleurs).
+SECONDAIRE
+○ Construire une page collection type + page produit type, puis dupliquer.
+○ Envoyer l’avancement sur WhatsApp (public ou privé) pour feedback.
+○ Confirmer le sourcing AliExpress avec le coach quand prêt.
+  ⚓  Yannis
+PRIORITAIRE
+⚡ Mettre en commun le travail de niche avec son frère mardi/mercredi.
+⚡ Appliquer la méthode RR : 10 produits, exclure extrêmes, prix moyen / CPC > 100.
+SECONDAIRE
+○ Contacter le coach sur WhatsApp pour toute question.
+○ Visionner les replays des sessions précédentes pour rattraper.
+  ⚓  Elodie
+PRIORITAIRE
+⚡ Sophrologie : corriger les 2 H1, ajouter mots-clés dans H3, ajouter liens sur les blocs. Se faire
+référencer (annuaires, forums, Doctolib).
+⚡ Foulards : continuer intégration produit + catégorie. Corriger les bugs au fil de l’eau.
+⚡ Acquisition textile : recettage complet dès réception des accès (mentions légales, parcours client,
+DSers, Merchant Center).
+SECONDAIRE
+○ Textile : prévoir guides de tailles, regrouper couleurs en variations, varier le catalogue.
+○ Ajouter des accessoires pour gonfler le panier moyen + créer des liens entre les 2 boutiques.
+○ Remplacer le tutoiement par du vouvoiement sur les fiches produits.
+  ⚓  Chiraz
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  6  —
+⚡ Continuer la recherche de mots-clés sur la niche ceinture.
+⚡ Construire l’arborescence complète de la niche.
+SECONDAIRE
+○ Niche sac : mettre de côté pour l’instant, on réévaluera avec les retours de Mika et Thibaud.
+○ Contacter le coach sur WhatsApp dès que la santé le permet.
+  ⚓  Gaël
+PRIORITAIRE
+⚡ Analyser en détail les 3 niches identifiées (sémantique, arborescence, volumes, CPC, RR).
+⚡ Présenter les niches au coach pour validation.
+SECONDAIRE
+○ Se familiariser avec Shopify (recommandé par le coach pour un débutant).
+○ Poser la question mobile money dans le groupe WhatsApp.
+○ Contacter le coach en privé pour discuter de la niche spécifique (vente de services).
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Pas de masterclass cette semaine. Prévue la semaine prochaine.
+⚡ Envoyer les demandes de sujets de masterclass au coach.
+SECONDAIRE
+○ Demander le replay si non publié sur Skool (contacter Mika sur WhatsApp).
+○ Ne pas prendre d’abonnements logiciels coûteux sans en avoir besoin au quotidien.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Produits restants Nicolas
+62
+Descriptions à compléter avant le 23/03
+Boutiques actives Thibaud
+4
+Stabilisation avant Q4
+Agence Meta Ads (fixe/mois)
+1 000 € min.
+Coût délégation acquisition (réf. agence Testa)
+Trustpilot — note de base
+3,5 / 5
+7 avis générés automatiquement par Trustpilot
+Objectif avis Trustpilot
+10-50
+Base solide pour crédibilité
+Produits foulards Elodie
+30-40
+Intégration en cours
+Ratio de rentabilité seuil
+> 100
+Prix moyen shopping / CPC
+Abonnement Shopify
+~30 $/mois
++ % sur les ventes
+Formation Chiraz
+3 semaines
+Niche ceinture sélectionnée
+Formation Yannis
+~1,5 semaine
+Avec son frère, en phase recherche de niche
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  12/03/2026
+—  7  —
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

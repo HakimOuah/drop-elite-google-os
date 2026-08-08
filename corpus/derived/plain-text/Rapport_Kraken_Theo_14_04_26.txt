@@ -1,0 +1,287 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  1  —
+RAPPORT DE SESSION
+14 avril 2026 • Durée : 2h15 • Coach : Théo
+Participants : Pierre, Raph, Omar, Mika, Gaël, Thibaud, Aude, Thomas, Emeric
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Pierre signale le MCP Shopify officiel désormais dispo dans Claude
+Code
+▶ 00:03 Hot seat Raph — Niche déco 600 produits, retour testing Pinterest
+▶ 00:07 Débat tranché — First variant vs. toutes variantes en Google Shopping
+▶ 00:27 Hot seat Omar — Niche plantes artificielles, méthodo RR manuelle
+▶ 00:49 Discussion tracking — Parcel Panel, 17track, alternatives WooCommerce
+▶ 01:19 Hot seat Aude — Création d’un logo SVG via Claude, intégration Shopify
+▶ 01:41 Thomas — « Ça existe les niches rentables ? » : le seuil à viser
+▶ 01:47 Automatisation images — Sharp pour webp, NCNN pour upscale via Claude
+Code
+▶ 02:07 Abonnements Claude — Pro vs. Max, stratégie Opus / Sonnet
+⚔ DÉTAIL DES HOTSEATS
+► Raph — Niche déco : variantes de taille & split campagnes
+Contexte. Nouveau site déco quasi prêt à lancer : 600 produits retenus sur 900 sourcés, mix AliExpress et
+fournisseur direct. Chaque produit dispose en moyenne de 4 variantes de taille (jusqu’à 8 sur certains), avec
+des écarts de prix importants (40 € pour les petites, jusqu’à 400 € pour les grandes).
+Question 1 — Variantes de taille en Shopping. Faut-il pousser toutes les variantes ou jouer la first variant ?
+Le coach tranche nettement pour la first variant sur ce type de produit (tableaux, posters, déco déclinée en
+tailles) : le client cherche d’abord un design, pas une dimension précise. First variant = prix bas affiché =
+meilleur CTR, puis la sélection de taille se fait sur la fiche produit. Les rares recherches explicites avec
+dimension représentent une minorité, et même dans ce cas la variante exacte n’est pas garantie d’apparaître.
+Gain secondaire : moins de SKU à tester, budget Shopping concentré.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  2  —
+« Si je faisais du poster ou du tableau, first variant direct. Ça se joue au design, le mec trouve sa
+taille après sur la fiche produit. »
+— Coach Kraken
+Question 2 — Split des campagnes. Avec un type de produit unique qui traverse plusieurs styles, pas d’intérêt
+à découper par catégorie : une seule architecture de campagne, avec first variant qui harmonise
+mécaniquement les prix affichés en bas de fourchette.
+Retour testing Pinterest. Sur une première niche déco plus haut de gamme testée en parallèle, Pinterest
+Shopping a tourné correctement là où Google Shopping attirait surtout des curieux. ROAS viable grâce au
+panier moyen élevé (± 600 €/produit). Le coach recommande de tester aussi Facebook Ads pour la déco haut
+de gamme — créa image statique suffit.
+« Déjà de un, t’as le prix plus bas, ça augmente ton CTR. Et de deux, en général le mec clique, il
+choisit sa taille sur la fiche. »
+— Coach Kraken
+► Omar — Niche plantes artificielles : méthodo RR manuelle
+Contexte. Retour d’Omar après une pause. Exploration rapide sur les plantes artificielles : volumes corrects,
+CPC élevés, concurrence présente mais accessible. Le fichier présenté affichait des ratios de rentabilité autour
+de 100 sur les deux plus grosses requêtes (fleur artificielle, plante artificielle) — juste la limite, donc critique.
+Sous-niche
+RR constaté
+Point bloquant
+Plante artificielle
+RR ≈ 65
+Mot-clé principal, trop de mini-pots tirent la moyenne
+Fleur artificielle
+RR ≈ 100
+Limite. Il faut vendre des bouquets, pas des tiges seules
+Olivier artificiel
+À creuser
+Sous-catégorie prometteuse, à revalider manuellement
+Plante art. extérieure
+RR annoncé ≈
+95
+À recalculer : filtre ≥ 50 cm, retirer extrêmes
+Le vrai sujet : la méthodologie de calcul du RR. Omar avait laissé Claude calculer une moyenne brute à
+partir des pages concurrentes envoyées en vrac. Problème : le mix agrège des mini-pots à 7 € et des grandes
+plantes à 150 €. Si la stratégie est de vendre uniquement des grandes plantes, la moyenne brute ne représente
+rien.
+Méthode corrigée en direct. Pour chacune des 5 (voire 10) premières sous-catégories : (1) taper le mot-clé
+dans Google, identifier le concurrent principal en organique ou shopping, (2) sur sa page collection, trier par
+popularité, (3) appliquer un filtre de taille (≥ 50 cm) pour exclure les petits pots incohérents, (4) exclure
+manuellement les aberrations visuelles (branche seule, arbre tombant, e-gift card), (5) copier la sélection
+propre, coller dans Perplexity ou Claude, demander la moyenne puis relancer en retirant les extrêmes.
+Dernier check : la marge réelle. Un RR à 200 ne suffit pas : si la grande plante coûte 70 € sourcée pour un
+prix de vente de 100 €, ça ne passe pas. Les grandes plantes sont volumineuses = frais d’expédition à intégrer.
+Vérifier le x3 marge avant de valider.
+« L’IA c’est bien mais lui dire « fais-moi le prix moyen » au pif, ça marche pas. Il faut sélection
+manuelle : que les grosses, pas les mini-pots. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  3  —
+► Aude — Création d’un logo SVG via Claude
+Contexte. Aude démarre et s’est fait générer par Claude un concept de logo typographique pour son site (ses
+deux prénoms avec un élément doré central comme trait d’union). Question : comment transformer ce logo
+HTML affiché dans l’aperçu en fichier utilisable sur Shopify ?
+Solution — passer par du SVG. Comme le logo est purement typographique (courbes et lignes, pas de pixel),
+demander à Claude de le régénérer au format SVG fonctionne bien : c’est du code vectoriel, Claude est efficace
+sur ce format. La demande doit être précise : version principale, fond transparent, sans tirer ni sous-titre, taille
+ajustable.
+Intégration Shopify. Deux options validées en direct. (1) Upload classique dans Paramètres → Logo & Favicon
+: le SVG est accepté, hauteur ajustable via le curseur du thème. (2) Bloc HTML personnalisé dans l’en-tête :
+plus flexible mais le SVG généré par Claude est parfois trop fin — demander à Claude d’épaissir les traits via
+modification du code.
+Faveicon. Claude décline spontanément la version favicon (icone simplifiée avec l’élément central). Même
+méthode : version SVG → upload dans le même panneau Shopify.
+« Vu que c’est que de la typo, Claude peut vraiment le faire en SVG. Et après, tu peux lui demander
+d’épaissir les traits si c’est trop fin. »
+— Coach Kraken
+► Thomas — Les niches rentables existent-elles ?
+Question directe de Thomas : « Ça existe les niches rentables ? » Réponse nette du coach : oui, et le filtre le
+plus simple pour en trouver c’est de viser des produits qui se vendent au-dessus de 70-100 € pièce. Sur du
+produit à 30 € avec 10 € de coût d’acquisition, la marge absolue est intenable ; sur du 100 €+, les 10 €
+d’acquisition laissent une marge confortable à construire dessus.
+Effet boule de neige. Lancer une niche simple à rentabiliser au début fait gagner du temps, de l’argent et de
+l’expérience — qui servira pour des niches plus difficiles ensuite. L’inverse (lancer sur une niche dure par
+impatience) coûte plus cher en tout (temps perdu inclus).
+« C’est plus simple d’être rentable sur des produits où t’as plus de marge en montant absolu. 70,
+100 balles, c’est là que ça devient confortable. »
+— Coach Kraken
+⚙ TECHNIQUE & OUTILS — AUTOMATISATION CLAUDE CODE
+La seconde moitié de la session a été consacrée à l’automatisation du workflow e-commerce via Claude Code.
+Plusieurs blocs distincts :
+MCP Shopify officiel dans Claude Code. Pierre signale que Shopify a publié un toolkit MCP officiel (Shopify
+Dev MCP) directement intégrable via la marketplace de plugins Claude Code. Différence avec le connecteur
+manuel utilisé jusqu’ici : setup en une ligne de commande, maintenance Shopify. À tester pour valider si ce
+nouveau MCP consomme moins de contexte que l’existant.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  4  —
+Tracking commandes — le débat Parcel Panel / 17track / alternatives. Discussion déclenchée par une
+question de Pierre sur l’abonnement DSers pour le tracking automatique. Synthèse :
+Solution
+Tarif indicatif
+Cas d’usage
+Parcel Panel
+11$ (200 cmd) → 23$ (500)
+→ 59$ (2 000)
+Standard Shopify, sync auto si 10h remonte le tracking
+17track (API)
+≈ 2 centimes / tracking
+Usage via Claude Code, recommandé pour WooCommerce
+Aftership
+119$ pour 5 000 quotas / 12
+mois
+Plus cher, pas prioritaire
+Order Tracker
+—
+Alternative mentionnée par Thibaud
+Sur Shopify + DSers, le tracking remonte automatiquement en version gratuite. Sur WooCommerce, la chaîne
+est plus artisanale : soit Parcel Panel avec plugin dédié, soit bidouille via 17track et Claude Code (le « workflow
+Mathieu » évoqué en session passe par du PHP généré avec Claude qui injecte le tracking dans order note).
+Traitement images automatisé via Claude Code. Claude Code n’a pas d’outil natif de génération d’images
+mais peut orchestrer n’importe quelle librairie CLI :
+⚡ Conversion WebP. Sharp (Node.js) ou Pillow (Python) — Claude installe la dépendance lui-même et
+convertit un dossier entier en une ligne de commande. Coût en tokens quasi nul, tout le travail est exécuté
+localement par la librairie.
+⚡ Upscale. upscayl-ncnn (moteur open source derrière l’app Upscayl), utilisable en ligne de commande.
+Consomme du CPU/GPU local mais pas de crédits payants. Pilotable par Claude Code au même titre que
+Sharp.
+⚡ Traduction & mises en situation. Claude peut lire les images, détecter un texte chinois à traduire, ou
+identifier qu’il manque une photo zoomée / portée. Décrire précisément « ce que je veux » et « ce que je ne
+veux pas » dans le skill. La sélection amont des images (via DSers) reste plus économique que laisser Claude
+trier 40 photos AliExpress.
+« Il peut lire l’image. Donc à partir de là, il peut faire toutes les étapes qu’on a dit. Il y a vraiment pas
+de limite. »
+— Coach Kraken
+Abonnements Claude — Pro vs. Max, Opus vs. Sonnet. L’abonnement Pro est largement saturé dès qu’on
+fait de l’intégration produits. Max (≈ 100 €/mois) laisse une marge très confortable : utilisation hebdo constatée
+chez Théo et Mika autour de 25-32 % du quota. Stratégie recommandée : Opus pour le démarrage (mise en
+place, stratégie, plan), Sonnet pour l’exécution en masse (intégration répétitive, code). Les 100 $ de crédits
+offerts servent de filet de sécurité automatique en cas de dépassement du quota via l’usage natif de l’app — à
+conserver pour les semaines exceptionnellement chargées.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Raph
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  5  —
+⚡ Configurer Google Shopping en first variant uniquement sur toutes les collections déclinées en
+tailles.
+⚡ Lancer le site 600 produits avec une seule structure de campagne Shopping, pas de split par
+catégorie.
+⚡ Préparer un test Facebook Ads sur la niche déco haut de gamme (créa image statique suffit).
+SECONDAIRE
+○ Continuer à optimiser Pinterest en parallèle (ROAS déjà positif).
+○ Garder le site « valises » sous monitoring même si marges faibles — capitaliser sur l’apprentissage.
+○ Vérifier après 2 semaines que le titre Shopping n’affiche pas la variante par défaut.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Refaire le calcul RR manuellement sur les 5 premières sous-catégories plantes artificielles : filtre ≥
+50 cm, exclusion des aberrations, retrait des extrêmes.
+⚡ Vérifier le coût d’achat sourcé des grandes plantes pour valider la marge x3 (pas seulement le RR).
+⚡ En parallèle, identifier 1-2 autres niches candidates d’ici la semaine prochaine.
+SECONDAIRE
+○ Sur la fleur artificielle, limiter l’offre aux bouquets — exclure les tiges seules.
+○ Vérifier les frais d’expédition spécifiques aux grandes plantes (volume, pas poids).
+○ Envoyer l’avancement au coach sur WhatsApp sans attendre la prochaine session.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Redemander à Claude le SVG du logo avec traits plus épais (screenshot de la version fine en
+appui).
+⚡ Uploader le SVG final dans Paramètres → Logo sur Shopify, ajuster la hauteur.
+⚡ Générer aussi la version favicon (icône seule) en SVG et l’uploader.
+SECONDAIRE
+○ Sauvegarder le code SVG du logo dans un fichier local (backup).
+○ Continuer à explorer Shopify en partant des demandes simples vers Claude, comme fait aujourd’hui.
+○ Ne pas hésiter à rejouer la même méthode pour d’autres éléments visuels (bannières, icones de
+catégorie).
+  ⚓  Thomas
+PRIORITAIRE
+⚡ Recentrer la recherche de niche sur des produits à prix de vente > 70-100 €.
+⚡ Lancer dès qu’une niche validée est identifiée — l’apprentissage vient de la mise en action.
+SECONDAIRE
+○ Ne pas s’engager dans une niche difficile par impatience : l’inverse coûte plus cher en temps et budget.
+○ Documenter les niches écartées pour éviter de repasser dessus.
+  ⚓  Pierre
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/04/2026
+—  6  —
+⚡ Tester le MCP Shopify officiel dans Claude Code, comparer conso de contexte vs. le connecteur
+actuel.
+⚡ Intégrer Sharp ou Pillow dans le workflow d’intégration produits pour conversion WebP
+automatique.
+⚡ Ajouter upscayl-ncnn en ligne de commande pour l’upscale d’images avant import.
+SECONDAIRE
+○ Documenter le workflow final dans le skill Claude Code (prompts « je veux / je ne veux pas »).
+○ Évaluer si une stratégie de duplication de boutique (multi-marchés) est plus efficace que recréation from
+scratch via n8n/Airtable.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Filtre niche : viser des produits à prix de vente > 70-100 € pour maximiser les chances de
+rentabilité rapide.
+⚡ Stratégie Claude : Opus pour le démarrage (stratégie, plan), Sonnet pour l’exécution en masse.
+SECONDAIRE
+○ Vérifier son abonnement Claude : Pro saturé rapidement, Max laisse une marge considérable en contexte
+coaching.
+○ Tester le nouveau MCP Shopify officiel si Shopify dans la stack.
+○ Garder un œil sur les alternatives de tracking (17track via API) si WooCommerce.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Site déco Raph — produits
+600
+Retenus sur 900 sourcés
+Pinterest Ads test Raph
+300 € / 3 ventes
+Panier ≈ 600 €, ROAS positif
+Plantes art. — filtre taille
+≥ 50 cm
+Exclut mini-pots pour recalcul RR
+Plante art. (RR brut)
+≈ 65
+Faussé par mix petites/grandes
+Seuil prix produit rentable
+> 70-100 €
+Règle Thomas pour marge absolue
+Parcel Panel — plan démarrage
+11 $ / 200 cmd
+Shopify, 5,5 ct par tracking
+17track API
+≈ 2 ct / tracking
+5 000 quotas / 119 $ sur 12 mois
+Abonnement Claude Max
+≈ 100 € / mois
+Marge confortable en usage coaching
+Usage hebdo Max constaté
+25-32 %
+Théo et Mika, utilisation intensive
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

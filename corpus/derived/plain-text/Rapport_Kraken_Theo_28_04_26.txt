@@ -1,0 +1,245 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  1  —
+RAPPORT DE SESSION
+28 avril 2026 • Durée : 2h03 • Coach : Théo
+Participants : Hugo, Aude, Pierre, Emeric, Charlotte, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Hugo — Google Merchant Center : la cause des refus
+décortiquée
+▶ 00:09 Niche paravent — Quand les CPC tuent la rentabilité malgré le volume
+▶ 00:11 Rappel clé — Taux de conversion 1 % minimum, en dessous tout calcul
+est faux
+▶ 00:26 Niche tête de lit — Marge serrée mais viable à 20 % net
+▶ 00:31 Niche canapé modulable — LA piste à creuser, analyse du concurrent
+kimo-sofa
+▶ 00:43 Stratégie fournisseur — Contacter en direct, l’étape qui débloque tout
+▶ 01:18 Stack scraping AliExpress — NPM gratuit (Emeric) vs RapidAPI à 8
+$/mois
+▶ 01:48 Mika — SaaS images Shopify : connexion directe au catalogue en cours
+⚔ DÉTAIL DES HOTSEATS
+► Hugo — Merchant Center & boutique appliques
+Refus Google Merchant Center (site rideaux) : après plusieurs renvois, Hugo soupçonne un robot Google de
+s’être basé sur une ancienne version. Le coach écarte l’hypothèse : si le check est repassé le lendemain, même
+automatisé, il a vu la version à jour — il reste donc un élément incohérent.
+Diagnostic en live : les délais affichés ne correspondent pas entre les différentes sources. Sur le site, livraison
+annoncée en 8-12 jours globalement, tandis que Merchant Center demande deux lignes distinctes — délai de
+traitement (1-2 jours ouvrés) et délai d’acheminement (7-10 jours ouvrés). Mêler « jours » et « hors weekend »
+dans les mentions crée une incohérence déclarative à corriger.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  2  —
+Boutique appliques (autre niche) : 280 produits intégrés manuellement en environ 14 heures (les photos
+AliExpress étant trop hétérogènes pour automatiser proprement). Première boutique pure stratégie Kraken pour
+Hugo : 45 collections complètes, scrap de l’ensemble du catalogue AliExpress.
+« Si le robot est repassé le lendemain, il a vu tes modifs. Il y a sûrement un truc encore manquant.
+»
+— Coach Kraken
+► Hugo — Analyse de trois niches (paravent, tête de lit, canapé)
+Hugo a structuré son analyse via un tableau de rentabilité bâti avec Claude, intégrant CPC moyen, panier
+moyen, taux de conversion, marge produit, frais Shopify et coûts produit. Trois niches passées au crible.
+Niche
+Verdict
+Commentaire clé
+Paravent
+Écarté
+CPC 0,60€, panier 100€. Marge 50 % insuffisante.
+Paravent
+intérieur/extérieur
+Bloqué
+CPC OK mais 80 % de marge nécessaire — sourcing impossible.
+Tête de lit
+Viable
+Panier 150-200€, marge 50 %, conv. 1 % → 20 % net.
+Canapé modulable
+# À creuser
+Panier 700-1000€+, CPC très bas, peu de dropshippers.
+Recadrage majeur du coach — taux de conversion : Hugo partait sur 0,5 % par sécurité. Le coach a tranché
+: 1 % minimum reste pessimiste. En dessous, le calcul de rentabilité se trompe d’un facteur 2 et fait écarter des
+niches viables. Une fois la simulation refaite à 1 % sur la tête de lit, elle est passée de zéro à environ 20 % de
+marge nette.
+« Même 1 %, c’est large. Si tout est bien fait, t’es largement au-dessus. 1 %, c’est déjà pas bien. »
+— Coach Kraken
+Focus canapé modulable : la courbe ne fait que monter depuis 2020, aucun dropshipper sérieux sur le
+mot-clé, uniquement des marques. Le concurrent kimo-sofa retient l’attention : 1 000 de volume mensuel, 96
+annonces actives, branding propre (Oeko-Tex, packaging marque), structure derrière étoffée (deux gérants,
+multiples SCI dans la literie). Les fondateurs testent en parallèle tous types de canapés (deux places, trois
+places, méridienne, pouf).
+Stratégie envisagée : se positionner sur « canapé modulable » avec un produit phare à prix d’entrée (moins de
+1 000€), cible classe moyenne, petits appartements. Sourcing surmesure via Alibaba ou fournisseur européen
+(revendre la même logistique que Cdiscount via Octopia est une piste). Le coach valide la viabilité à condition
+de tenir un véritable taf de fournisseur en amont.
+« Tu voulais de la barrière à l’entrée — là t’en as une grosse. Si tu trouves le fournisseur, ça peut
+être un bon test. »
+— Coach Kraken
+Conseil tactique — tester les CPC en réel : plutôt que de s’appuyer sur les estimations Google (fourchettes
+larges), le coach recommande à Hugo d’utiliser un de ses sites existants pour caler une mini-collection paravent
+et obtenir un CPC réel. Écart attendu de 30 à 35 centimes possible — ça change tout le calcul.
+Variantes couleurs — rappel UX/SEO : créer une fiche produit distincte par coloris (catalogue plus riche, tests
+shopping par couleur) mais afficher sur chaque fiche le sélecteur des autres coloris qui redirige vers la fiche
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  3  —
+concernée. Évite la fuite du client qui ne voit pas la couleur souhaitée.
+► Pierre, Emeric & Mika — Stack scraping AliExpress & images
+Débat de stack — scraping AliExpress : Pierre travaille sur Airtable + N8N, souhaite garder un visuel tableur ;
+Emeric a basculé sur une skill Claude Code qui utilise le NPM aliexpress-product-scraper et génère un JSON
+propre (titre, specs, images, prix, catégories) en 33 secondes pour seulement 176 tokens — pratiquement
+gratuit.
+L’alternative payante : via RapidAPI, l’API E-commerce Data Hub (8 $/mois pour 300 calls/jour) couvre
+AliExpress + 1688 (recherche par image, fiche produit, reviews, store, catégories). Le coach l’a
+personnellement utilisée pour scraper 1688 à partir d’images AliExpress (qualité nettement supérieure).
+Trade-off identifié : le NPM est gratuit et stable, mais expose au risque de breakage si AliExpress modifie sa
+structure de page — la skill devra alors être ré-ajustée. L’API payante absorbe ces changements
+automatiquement. Dans les deux cas, l’output reste un fichier exploitable par les skills de rédaction de fiche
+produit en aval.
+« Le JSON est propre, il y a toutes les infos pertinentes. Si c’est que 176 tokens, même pas besoin
+de calculer. »
+— Coach Kraken
+Images produit — prompts Nano Banana : Mika a partagé le retour d’expérience sur ses prompts retravaillés
+pendant plus d’un mois et demi. Pour la simple suppression de fond + ombre + upscale, la stabilité atteint
+environ 99 %. Pour l’ajout de mannequins, c’est plutôt 50-60 % — il faut multiplier les détails (cadrage, lumière,
+termes photographiques). Mika développe en parallèle une connexion directe au catalogue Shopify pour traiter
+l’ensemble d’une boutique.
+⚙ MÉTHODE & RAPPELS DU COACH
+Pas de masterclass formelle cette session, mais plusieurs principes structurants ont été réaffirmés en hotseat et
+méritent d’être extraits.
+Taux de conversion — Ne jamais descendre sous 1 % dans les simulations de rentabilité, même en mode
+pessimiste. Un site bien construit dépasse largement ce seuil. Travailler avec 0,5 % conduit systématiquement
+à écarter de bonnes niches.
+Tester les CPC en réel — Les estimations Google donnent des fourchettes trop larges. Dès qu’un site existant
+le permet, caler une mini-collection sur la niche étudiée pour obtenir un CPC vérifié plutôt que de trancher sur
+des données estimées.
+Contacter les fournisseurs en direct — Sur une niche à barrière d’entrée (canapé, paravent), inutile d’espérer
+qu’un concurrent partage son fournisseur — il n’a aucun intérêt à le faire. Aller directement, scrap Google Maps
+multi-pays, mailer en série. C’est l’étape qui débloque les vraies réponses sur la marge.
+Variantes & SEO — Une fiche par coloris/dimension, avec sélecteur croisé entre fiches. Permet de tester en
+shopping coloris par coloris et de mesurer la performance réelle de chaque variante.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  4  —
+« Ton point, c’est qu’il faut que tu contactes les fournisseurs. Ça va te libérer plein de choses sur
+tes questions. »
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Hugo
+PRIORITAIRE
+⚡ Corriger Merchant Center : deux lignes distinctes (expedition 1-2j ouvrés, livraison 7-10j ouvrés),
+homogénéiser « jours ouvrés » partout.
+⚡ Lancer la recherche fournisseur canapé modulable : scrap Google multi-pays
+revendeurs/grossistes B2B + mailing série + relance LinkedIn du fondateur kimo-sofa.
+⚡ Tester un CPC paravent réel via une mini-collection sur un site existant avant d’abandonner
+définitivement.
+SECONDAIRE
+○ Refaire les calculs de rentabilité tête de lit + canapé avec un taux de conversion fixé à 1 % minimum.
+○ Vérifier la piste Octopia/Cdiscount pour le stock canapé (livraison rapide, logistique mutualisée).
+○ Suivre les annonces Google Transparency du concurrent kimo-sofa sur plusieurs semaines pour identifier
+les produits qu’il garde actifs.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Envoyer le site au coach en MP pour audit individuel dès que prêt.
+SECONDAIRE
+○ Continuer l’intégration en parallèle pendant l’attente du retour.
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Trancher entre stack NPM gratuit (skill Claude Code d’Emeric) et API RapidAPI à 8 $/mois en
+fonction du volume mensuel ciblé.
+⚡ Tester la recherche par image AliExpress + 1688 pour récupérer des visuels de meilleure qualité.
+SECONDAIRE
+○ Garder l’architecture Airtable + N8N en surface si elle apporte un confort visuel, mais migrer le moteur de
+scraping vers Claude Code.
+○ Mesurer le coût en tokens d’un cycle complet (scrap + rédaction fiche) avant de généraliser.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Lancer les premières campagnes Google Ads sur le premier site (intégration terminée côté
+produit).
+⚡ Investiguer l’écart de prix systématique entre AliExpress et le backend DSers — vérifier devise et
+variante prise par défaut.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  5  —
+SECONDAIRE
+○ Partager la skill complète de scraping avec Pierre (NPM + prompts d’extraction conditionnés par
+variantes).
+○ Documenter le process orchestré (création dossier produit → scrap → retouche image → rédaction
+Google Sheet) pour ses prochains sites.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Recalibrer tous les tableaux de rentabilité sur un taux de conversion plancher de 1 % — pas en
+dessous.
+SECONDAIRE
+○ Créer une fiche produit par coloris/variante avec sélecteur croisé entre fiches pour préparer les tests
+shopping.
+○ Tester un cycle de scraping AliExpress via skill Claude Code (NPM aliexpress-product-scraper) avant
+d’investir dans une API payante.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Taux de conversion plancher
+1 %
+Seuil minimum pour toute simulation
+Paravent — volume
+5 000
+Mot-clé principal niche Hugo
+Paravent — CPC moyen
+0,60 €
+Trop élevé vs panier
+Paravent — panier moyen
+100 €
+Marge 50 % insuffisante
+Tête de lit — panier moyen
+150-200 €
+Avec marge 50 % et conv. 1 %
+Tête de lit — marge nette est.
+env. 20 %
+Viable, fournisseurs à chercher
+Canapé modulable — panier
+700-1000+ €
+Marge possible à 350€ d’achat max
+Canapé modulable — impressions
+100 000+ / 3 mois
+Volume Google sur un mot-clé
+kimo-sofa — volume mensuel
+1 000
+Concurrent référence
+kimo-sofa — annonces actives
+96
+Phase de test multi-produits
+Scraping NPM — tokens / produit
+176
+Quasi-gratuit
+Scraping NPM — temps / produit
+33 s
+AliExpress product scraper
+RapidAPI E-commerce Data Hub
+8 $/mois
+300 calls / jour
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  28/04/2026
+—  6  —
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

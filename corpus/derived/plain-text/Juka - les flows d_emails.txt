@@ -1,0 +1,1502 @@
+https://juka.io/ 
+Générer du cash en automatique avec les flows  
+ 
+Le but ici est de se concentrer sur la création des flows essentiels pour votre 
+marque e-commerce, en s'inspirant d'une marque qui a existé et qui a généré un 
+revenu considérable grâce aux emails : Sleek. 
+Voici les performance de cette marque à l’époque: 
+ 
+Pour chacun des flows essentiels à mettre en place sur votre boutique, nous 
+allons lister 6 points clés : 
+ 
+1.​
+Le trigger : l’événement déclencheur de la séquence automatisée. 
+2.​ L’exemple d’email : tiré d’une marque de lingerie d’incontinence vue lors de 
+la présentation (Sleek). 
+3.​ Le délai d’envoi entre chaque email. 
+4.​ Exemple d’objet pour chaque email. 
+5.​ Exemple de preview texte pour chaque email. 
+6.​ Exemple de contenu email général que vous pouvez copier/coller 
+directement. 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Pour rappel, ces éléments sont des indications pour vous aider à démarrer 
+rapidement et obtenir vos premiers résultats. 
+Vous pouvez personnaliser ce contenu en fonction de votre niche et de vos 
+produits. 
+N’oubliez pas de consulter le module SEGMENTATION ET OPTIMISATION pour 
+améliorer vos performances. 
+Séquence panier abandonné :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+1er email partira 15-20 minutes après le trigger 
+ 
+Exemple à copier coller :  
+ 
+Objet : Votre colis est prêt à être expédié 
+Preview texte : Avez-vous rencontré un problème avec votre commande ?  
+ 
+Contenu :  
+ 
+Bonjour  {{ first_name|default:"" }},   
+ 
+Nous avons remarqué que vous avez commencé à faire des achats sur notre site 
+mais que vous n'avez pas complété votre commande. 
+ 
+Peut-être y a-t-il quelque chose que nous pouvons faire pour vous aider ?   
+ 
+Voici quelques informations qui pourraient vous être utiles :   
+ 
+Livraison 100% OFFERTE : Profitez de la livraison gratuite pour toute commande 
+supérieure sur le site!  
+ 
+Garantie satisfait ou remboursé : Si vous changez d'avis, aucun souci, vous 
+disposez de [X] jours pour nous renvoyer votre produit et bénéficier d’un 
+remboursement intégral. 
+ 
+Et si vous avez besoin de plus d'informations, n’hésitez pas à répondre 
+directement à ce mail pour que notre équipe puisse vous aider.  
+ 
+  
+CTA : FINALISER MA COMMANDE  
+URL :  {{ event.extra.checkout_url}} 
+ 
+Nous espérons vous revoir très bientôt sur notre site !  
+ 
+ Cordialement,   
+ 
+L'équipe de [nom de votre marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2ème email partira 16h après le 1er mail  
+ 
+Exemple à copier coller :  
+ 
+Objet : Nos +3’000 clients en parlent mieux que nous 
+Preview texte : Ne vous fiez pas à nos paroles !  
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Contenu :  
+ 
+Bonjour  {{ first_name|default:"" }} 
+  
+Sachez que depuis 2022, ce sont plus de 10 000 clients fidèles qui nous font 
+confiance en choisissant d’utiliser au quotidien notre produit phare : {{ 
+event.ProductName }}. 
+Notre mission est claire : apporter davantage de bonheur au quotidien à travers 
+des produits qualitatifs et au meilleur prix, afin de les rendre accessibles au plus 
+grand nombre !  
+Grâce à notre large gamme de produits, que vous appréciez tant, nous souhaitons 
+avoir un impact positif sur davantage de personnes, et peut-être que la prochaine 
+personne satisfaite sera vous, {{ first_name|default:"" }} ! 
+Constatez par vous-même les récents avis vérifiés de nos clients sur le site : 
+●​ Allison Y : "15 jours fait pour moi. Tres satisfaite du résultat, un teint hâlé de la 
+tête au pieds. Beaucoup de compliments de bonne mine" 
+●​ Angel B : "Reprendre un avis sur le site" 
+●​ Chahine T : "Reprendre un avis sur le site” 
+Comme ces personnes conquises par nos produits, nous sommes persuadés {{ 
+first_name|default:"" }}, que vous serez la prochaine personne satisfaite à profiter 
+des bienfaits de nos produits. 
+​
+CTA : FINALISER MA COMMANDE  
+URL :  {{ event.extra.checkout_url}} 
+ 
+En vous souhaitant une excellente journée, 
+ 
+ L'équipe de [nom de votre marque] 
+ Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3ème email partira 1 jour après le 2 ème mail  
+ 
+Exemple à copier coller :  
+ 
+Objet : Nous avons un cadeau pour vous 🎁  
+Preview texte : Profitez-en pendant qu’il en est encore temps 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+Contenu :  
+ 
+J'espère que vous allez bien. Nous avons remarqué que vous n'avez pas finalisé 
+votre achat et souhaitions nous assurer que tout allait bien. 
+Nous comprenons que vous puissiez être indécis, surtout si c'est la première fois 
+que vous envisagez d'acheter chez nous. 
+Pour vous aider à franchir le pas, nous avons le plaisir de vous offrir un code 
+promotionnel exclusif vous permettant de bénéficier de -10% de réduction. 
+Votre code est : OFF10 ou {% coupon_code ‘OFF10’ %} 
+Ce code est personnel et ne se trouve sur aucun autre site. Profitez-en vite, il 
+expire dans moins de 48 heures ! 
+Si vous avez des questions ou besoin d'un peu plus d'informations, n'hésitez pas à 
+nous contacter en répondant directement à ce mail. 
+CTA : J’EN PROFITE MAINTENANT 
+URL :  {{ event.extra.checkout_url}} 
+Au plaisir de vous revoir bientôt sur notre site ! 
+Cordialement, 
+L'équipe de [nom de votre marque] 
+P.S. : Nous n'offrons pas souvent des codes promotionnels... considérez cela 
+comme un petit secret entre nous ! 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+ 
+ 
+ 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4ème email partira 1 jour après le 3 ème mail  
+Exemple à copier coller :  
+ 
+Objet : Votre cadeau expire dans quelques heures 
+Preview texte : Il ne vous reste plus beaucoup de temps ! 
+ 
+ 
+Contenu :  
+Vite, {{ first_name|default:"" }} ! 
+Bien que nous sachions que vous avez besoin des produits laissés dans votre 
+panier, nous ne pouvons plus attendre… 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+D’autres personnes raffolent de ces mêmes articles, qui sont en forte demande en 
+ce moment ! 
+Initialement, nous les avions mis de côté pour vous, mais nos stocks diminuent à 
+vue d'œil et, malheureusement, nous ne pouvons pas décider à votre place, {{ 
+first_name|default:"" }} ! 
+C'est votre dernière chance pour obtenir -10% de réduction aujourd’hui sur votre 
+commande avec le code : 
+OFF10 ou {% coupon_code ‘OFF10’ %} 
+Ce soir minuit le code aura expiré. ​
+​
+Nous sommes convaincus que nos produits vous permettront d’atteindre vos 
+objectifs…​
+​
+N’oubliez pas :  
+-​
+La livraison est 100% OFFERTE 
+-​
+Tous nos produits sont garantie satisfait ou remboursé 
+-​
++10’000 clients satisfait à notre actif 
+Profitez dès maintenant de notre offre aujourd’hui sans aucun risque 
+CTA : UTILISER MON CODE PROMO  
+URL :  {{ event.extra.checkout_url}} 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+——————————————————————————————— 
+Séquence de remerciements  
+ 
+ 
+Ici nous avons mis 20 jours en supposant 
+que notre livraison dure en moyenne 20 
+jours. Cette variable s'adapte à votre site 
+en fonction de vos délais de livraison. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1ème email partira 5 minute après le trigger  
+ 
+Exemple à copier coller :  
+ 
+Objet : Merci pour votre confiance 
+Preview texte : Nous avons un petit cadeau pour vous ! 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Contenu :  
+Merci {{ first_name|default:"" }} ! 
+Nous tenons à vous exprimer notre profonde gratitude. C’est un vrai plaisir de 
+vous compter parmi nos fidèles clients et nous tenions à vous remercier 
+sincèrement. 
+Nous sommes certains que vous serez enchanté par votre choix et nous sommes 
+impatients de voir comment vous profiterez de votre nouvel achat ! 
+Si vous avez la moindre question ou besoin d'assistance, n'hésitez pas à cliquer sur 
+le lien ci-dessous. Nous sommes là pour vous aider à chaque étape. 
+En signe de notre appréciation, nous vous offrons 20% de réduction sur votre 
+commande d'aujourd'hui avec le code promo : 
+VIP20 ou {% coupon_code ‘VIP20’ %} 
+CTA : UTILISER MON CODE PROMO  
+URL 
+:  
+posturya.fr/discount/VIP20 
+ou 
+site.com/discount/{% 
+coupon_code 
+‘WELCOME5’ %} 
+Ne laissez pas passer cette offre exclusive ! Utilisez votre code avant l'expédition 
+de votre commande et profitez de cette occasion unique. 
+À très bientôt, 
+L’équipe [nom de votre marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+ 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+2ème email partira 4 jours après le 1er email  
+ 
+Exemple à copier coller :  
+ 
+Objet : Voici notre raison d’être ! 
+Preview texte : Nous avons un seul objectif 
+ 
+ 
+ 
+Contenu :  
+Bonjour {{ first_name|default:"" }},  
+Nous tenions à vous remercier une nouvelle fois pour la confiance que vous nous 
+avez accordée en passant commande chez nous. 
+Vous savez, {{ first_name|default:"" }}, nous sommes une petite entreprise à taille 
+humaine, et chaque client compte vraiment pour nous ! 
+Savoir que nos produits aident des milliers de personnes nous comble de 
+bonheur ❤️ 
+Notre seul et unique objectif, ce qui nous importe réellement, est de vous 
+accompagner au quotidien pour atteindre vos objectifs grâce à l'utilisation de nos 
+produits ! 
+Nous sommes convaincus que ces mêmes produits auront un impact significatif 
+sur votre quotidien et avons hâte de connaître votre retour une fois que vous 
+aurez reçu votre colis.​
+Vous recevrez sous 72 heures un lien de suivi pour suivre l’avancement de votre 
+commande. 
+ 
+CTA : VOIR LE SITE 
+URL : site.com 
+Au plaisir de vous rendre service, 
+L’équipe [Nom marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3ème email partira 3  jours après le 2eme email  
+Exemple à copier coller :  
+ 
+Objet : Suivez votre commande ! 
+Preview texte : Votre commande est en route ! 
+ 
+ 
+ 
+Contenu :  
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+Merci beaucoup pour votre commande. Nous sommes heureux de vous informer 
+que votre colis a été expédié et est maintenant en route vers votre domicile. 
+Encore un petit peu de patience ! Il sera entre vos mains d’ici quelques jours.  
+En attendant, vous pourrez vérifier le statut de votre commande et suivre son 
+acheminement en utilisant le lien de suivi ci-dessous.​
+​
+Sachez que nous envoyons nos colis depuis nos entrepôts à l’étranger et que la 
+livraison peut durer 3 à 10 jours à compter de la réception de cet email. 
+Nous sommes conscients que cela peut vous sembler long, mais sachez que nous 
+devrions prochainement changer notre logistique pour vous proposer une 
+livraison plus rapide. 
+CTA : SUIVRE MA COMMANDE  
+URL : Mettre un lien ou les clients sont en mesure de suivre leur commande 
+Merci de votre compréhension et à très bientôt ! 
+L’équipe [Nom marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+ 
+——————————————————————————————— 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4ème email partira 3  jours après le 3eme email  
+Exemple à copier coller :  
+ 
+Objet : Votre futur indispensable 
+Preview texte : Votre commande arrive bientôt 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+informations sur le contenu  
+ 
+Ce mail n’est pas obligatoire, et consiste à apporter du contenu relatif au 
+produits commandé et surtout faire un rappel sur la livraison. ​
+​
+L’idée c’est vraiment de donner un guide d’utilisation sur le/les produits qui ont 
+été commandés ou comment prendre soin des produits commandés dans le cas 
+de l’exemple ci-dessus avec Sleek. 
+ 
+Le produit étant propre à chacun je vous invite donc à rédiger le contenu de 
+votre côté en fonction des spécificités de votre produits.​
+​
+À la suite de ce contenu vous pourrez ajouté :  
+ 
+Nous sommes heureux de vous informer que ce n’est qu’une question de jours 
+avant que votre commande ne soit livrée si ce n’est pas encore le cas.  
+ 
+CTA : SUIVRE MA COMMANDE  
+URL : Mettre un lien ou les clients sont en mesure de suivre leur commande 
+​
+Merci encore pour votre patience et nous espérons vous revoir très bientôt. 
+ 
+Cordialement, 
+ 
+L’équipe [Nom marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+Séquence de bienvenue  
+ 
+ 
+Ici le nom de la liste dépendra 
+de ce que vous aurez créé de 
+votre côté.  
+​
+Pour nous il s’agit de la liste 
+NEW LEAD comme on nous 
+l’avons vu dans la vidéo : “Les 
+fondamentaux des emails et 
+configuration de votre compte 
+Klaviyo” 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1ème email partira directement quand la personne rentre dans la liste  
+Exemple à copier coller :  
+ 
+Objet : Voici votre cadeau 
+Preview texte : Il expire dans 24 heures 
+ 
+ 
+Contenu :  
+ 
+Félicitations {{ first_name|default:"" }} 
+Vous bénéficiez de -5% OFFERT sur votre prochaine commande avec le code 
+promo : 
+  
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+WELCOME5 ou {% coupon_code ‘WELCOME5’ %} 
+CTA : UTILISER MON CODE PROMO  
+URL :  
+site.com/discount/WELCOME5 ou site.com/discount/{% coupon_code 
+‘WELCOME5’ %} 
+(possible 
+de 
+faire 
+une 
+réduction 
+comme 
+ceci 
+: 
+site.com/discount/WELCOME5?redirect=%products/15021011927364) 
+(le %2F est l’équivalent d’un / dans l’url. Vous avez juste à prendre la fin du lien de 
+votre produit ou collection pour faire la redirection) 
+** ATTENTION, nos stocks sont très limités et ce code promo expire dans 24 heures 
+alors ne perdez pas de temps. ** 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
++​ AJOUTER UNE RELANCE (même mail avec objet différent, voir vidéo) 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+2ème email partira 1 jour après le 1er mail  
+Exemple à copier coller :  
+ 
+Objet : Bienvenue dans le club ! 
+Preview texte : Nous sommes ravis de vous compter parmi nous  
+ 
+ 
+Contenu :  
+ 
+Bonjour {{ first_name|default:"" }} 
+Nous sommes ravis de vous accueillir dans la famille  !  
+Comme vous, nous sommes engagés dans la recherche de solutions simples, 
+efficaces et économiques pour vous aider à faire face à [problématiques] 
+Vous avez fait le bon choix en nous rejoignant. Pour vous en assurer, nous vous 
+offrons une garantie de remboursement de 30 jours ainsi qu’une livraison offerte. 
+ Testez nos produits sans risques et découvrez par vous-même leur efficacité. 
+Explorez notre gamme complète et trouvez le modèle qui répond à vos besoins et 
+qui vous accompagnera chaque jour dans votre objectif de [objectif du client] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+Séquence Browse Abandonment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1er email qui part directement après le trigger  
+Exemple à copier coller :  
+ 
+Objet : Vous avez l'œil ! 
+Preview texte : Visiblement notre best-seller ne vous a pas laissé indifférent  
+ 
+ 
+Contenu :  
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Bonjour {{ first_name|default:"" }}, {TIMER} 
+ Il semblerait que vous ayez récemment jeté un coup d'œil sur notre site en 
+cliquant sur ce produit : 
+(Bloc produit dynamic) 
+La bonne nouvelle, c'est que ce produit est l'un de nos best-sellers. Tous nos 
+clients s'accordent à dire que nous sommes les meilleurs en se basant sur les 
+nombreux avis vérifiés récoltés sur le site.  
+La mauvaise nouvelle pour vous {{ first_name|default:"" }}, c’est que nous n'avons 
+plus que quelques unités de ce produit en stock et que nous ne pouvons 
+malheureusement pas garantir qu'il sera encore disponible dans les prochains 
+jours … 
+CTA : J’EN PROFITE  
+URL : {{ event.URL }} ou site.com 
+En vous souhaitant une excellente journée, 
+L’équipe [nom marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+Séquence Site abandonment  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+1er email qui part directement après le trigger  
+ 
+Exemple à copier coller :  
+ 
+Objet : Votre essentiel au quotidien 
+Preview texte : Découvrez ce qu'il se fait de mieux !  
+ 
+ 
+Contenu :  
+Notre mission est simple : 
+ 
+Vous aider à enfin dire adieux à vos problèmes de dos grâce à des produits 
+performants, accessibles et pensés pour durer. 
+  
+Avec des années de recherche et des milliers de clients satisfaits, on peut le dire : 
+nos produits font la différence. 
+  
+Ils sont conçus pour vous aider à soulager vos problèmes, et c’est ce qui nous 
+motive chaque jour à vous offrir le meilleur ❤️ 
+  
+ 
+Osez la révolution avec [Nom marque / Nom produit] ❤️ 
+L'objectif est simple ! 
+Permettre aux plus grand nombre d’enfin (promesse de vos produits) avec des 
+produits qualitatifs et économiques. 
+Après des années de développement et plusieurs dizaines de milliers de clients 
+satisfaits plus tard, nous pouvons fermement affirmer que nos produits sont ce 
+qui se fait de mieux sur le marché ! 
+Ils ont été spécialement conçus pour vous permettre d’atteindre vos objectifs de 
+XXX et c’est cette même raison qui nous pousse chaque jour à vous offrir ce qu’il y 
+a de meilleur ❤️ 
+Alors {{ first_name|default : » » }}, prêt à découvrir notre gamme de produits ?  
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+2ème email qui part 1 jour après le premier  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemple à copier coller :  
+ 
+Objet : Vous méritez ce qu’il y a de meilleur ! 
+Preview texte : Découvrez notre univers 
+ 
+ 
+Contenu :  
+ 
+[Le problème spécifique] peut sérieusement affecter notre qualité de vie, 
+engendrant souvent [mentionner des conséquences générales liées au problème, 
+telles que l'anxiété, le manque de confort, la frustration, etc.]. 
+Hélas, les solutions traditionnelles à ce problème sont souvent coûteuses, 
+inaccessibles pour beaucoup, et loin d'être respectueuses de l'environnement. De 
+plus, elles peuvent compromettre notre bien-être et notre estime de soi, du fait 
+de leur [mentionner des défauts comme l'inefficacité, le manque d'esthétique, 
+etc.]. 
+C'est pour répondre à ces défis que nous avons créé notre gamme de produits 
+[description générale du produit, par exemple : "innovants, abordables et 
+écologiques, conçus pour être à la fois efficaces et esthétiques"]. Nos produits sont 
+[mentionner des avantages spécifiques comme réutilisables, économiques, 
+élégants, etc.], offrant ainsi une alternative durable et attrayante à ce qui existe sur 
+le marché. 
+Alors, êtes-vous prêt à découvrir [le produit ou la solution] qui changera votre 
+quotidien ? 
+CTA : VOIR LE SITE  
+URL : site.com 
+En vous souhaitant une excellente journée,  
+L’équipe [nom marque] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+——————————————————————————————— 
+Séquence Winback 
+ 
+ 
+ 
+Là aussi le nombre de jour va varier en fonction de la 
+longueur de votre séquence dans le temps  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1er email qui part 50 jours après le trigger  
+ 
+Exemple à copier coller :  
+ 
+Objet : Votre essentiel au quotidien 
+Preview texte : Découvrez ce qui se fait de mieux !  
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+Contenu :  
+Bonjour {{ first_name|default:"" }} 
+Nous comprenons combien il peut être difficile de trouver le produit idéal qui 
+réponde parfaitement à vos besoins. 
+C'est pourquoi nous tenions à vous présenter aujourd'hui nos meilleures ventes ! 
+Celles qui ont su gagner la confiance et le cœur de notre communauté.  
+Que vous recherchiez [ajuster en fonction du type de produit, par exemple : "les 
+solutions les plus efficaces", "les innovations les plus récentes", "le meilleur 
+confort"], vous trouverez certainement quelque chose qui vous conviendra 
+parfaitement dans cette sélection. 
+Voici nos produits les plus appréciés : 
+[Liste ou description des produits] 
+Nous sommes convaincus que vous trouverez parmi ces favoris celui qui enrichira 
+votre quotidien. 
+CTA : VOIR LE SITE 
+URL : site.com  
+En vous souhaitant le meilleur 
+L’équipe [Site] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+——————————————————————————————— 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+2ème email qui part 5 jour après le 1er  
+ 
+Exemple à copier coller :  
+ 
+Objet : Vous avez été tiré au sort {{ first_name|default:"" }} !  
+Preview texte : L’offre se termine ce soir minuit ! 
+ 
+ 
+Contenu :  
+ 
+Bonne nouvelle {{ first_name|default:"" }} ! 
+Nous avons remarqué que cela faisait un moment que nous n'avions pas eu le 
+plaisir de vous voir sur notre site. Nous espérons que tout va bien pour vous ! 
+Pour vous remercier de faire partie de notre communauté et vous inviter à 
+redécouvrir ce que nous avons à offrir, nous avons organisé une vente flash 
+exclusive pour certains de nos clients fidèles, et vous en faites partie. 
+En tant que client privilégié, nous sommes ravis de vous offrir -20% de réduction 
+avec le code promo : [CODE PROMO].​
+​
+FLASH20 ou /{% coupon_code 'FLASH20' %}​
+​
+CTA : J’EN PROFITE​
+URL 
+: 
+site.com/discount/ 
+FLASH20 
+ou 
+site.com/discount/{% 
+coupon_code 
+'BIENVENUE10' %} 
+** ATTENTION : Ce code promo est uniquement valable aujourd’hui jusqu’à ce soir 
+minuit ** 
+En vous souhaitant une belle journée  
+L’équipe [Site] 
+Vous ne souhaitez pas recevoir nos e-mails ? {% unsubscribe 'Se désabonner' %}. 
+ 
+ 
+ 
+Notes importantes concernant la séquence de bienvenue :  
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+L’arme fatale au service des emails  
+ 
+Important de toujours créer une liste (en single opt in) dans laquelle on va pouvoir 
+rediriger les personnes qui rentre via la pop up et ensuite créer un flow d’e-mail 
+avec comme trigger : la personne rentre dans la liste. ​
+​
+Dans notre exemple ici on va créer dans un premier temps la liste NEW LEAD 
+dans klaviyo :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On va ensuite créer l’envoi d’email automatique pour toutes les personnes qui 
+entrent dans la liste.  
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il ne vous reste plus qu’à drag and drop l’email et à le rédiger 
+Dernière étape qui est la plus importante concerne la création de la pop up  
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+Vous pouvez créer à partir de 0 en cliquant sur “create new form” ou à partir d’un 
+template existant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Je choisis un template en renseignant la liste sur laquelle je veux rediriger les 
+personnes qui rentrent leur email.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+Je vérifie que les informations sont correctes au niveau du bouton  
+Action = Submit form 
+List to submit = NEW LEAD 
+After submit = Show next Step 
+ 
+Ensuite il vous faudra modifier les conditions d’apparition de la pop up  
+ 
+ 
+
+
+--- PAGE ---
+
+https://juka.io/ 
+ 
+Enfin, il vous faudra :  
+-​
+modifier la pop up à votre image 
+-​
+modifier la page de “success” (en haut à droite) 
+-​
+finalement activer la pop up en cliquant sur “publish” 
+ 
+ 
+ 
+ 
+ 

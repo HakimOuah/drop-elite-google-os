@@ -1,0 +1,267 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  1  —
+RAPPORT DE SESSION
+9 avril 2026 • Durée : 1h37 • Coach : Stéphanie
+Participants : Aude, Chiraz, Thibaud, Emeric, Gaël, Viviane, Charlotte
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Reprise Aude — Création des métafields dynamiques FAQ sur Shopify
+▶ 00:08 Hotseat Chiraz — Architecture site ceintures, brainstorming collectif
+▶ 00:20 Débat structure du menu : genre vs style en tête de silo
+▶ 00:46 Technique SEO — Tester singulier/pluriel et variantes de mots-clés
+▶ 01:00 Aude finalise ses balises FAQ3 en direct avec le coach
+▶ 01:13 Hotseat Viviane — Review fiches produits, titres, couleurs SEO
+▶ 01:25 Affichage produits — 4 colonnes desktop, carousel mobile 2 colonnes
+▶ 01:29 Emeric — Merchant Center validé du premier coup en 5h
+⚔ DÉTAIL DES HOTSEATS
+► Aude — Métafields dynamiques FAQ (suite)
+Objectif : créer les balises dynamiques pour que chaque fiche produit puisse afficher une FAQ personnalisée.
+Processus : Paramètres → Champs et méta → Objet produits → Ajouter une définition. Une définition «
+question FAQ1 » (texte une seule ligne) + une définition « réponse FAQ1 » (texte multiligne ou enrichi pour gras
+et maillage). Répéter pour FAQ2, FAQ3, FAQ4.
+Appel dans le modèle : Boutique en ligne → Modifier le thème → Page produit → FAQ. Sur chaque question
+de la carcasse, appeler la balise dynamique correspondante via la petite pile de pièces. Ne pas oublier
+d’enregistrer — Shopify n’a pas de sauvegarde auto.
+Logique SEO : garder les mêmes questions sur toutes les fiches peut avoir du sens, mais les réponses doivent
+être personnalisées par produit pour servir réellement l’intention client. Le coach a guidé Aude pas à pas sur la
+FAQ3 en fin de session pour débloquer l’appel des balises depuis la fiche produit du verre à martini.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  2  —
+« Une fois qu’on a les mains dedans, tout devient un peu évident et intuitif. Même si au début ça
+paraît être une montagne. »
+— Stéphanie
+► Chiraz — Architecture site ceintures
+Objectif de la session : structurer l’architecture du site. Première supposition de Chiraz : ranger par genre
+(homme/femme/enfant), puis par style, matière ou couleur en second niveau. Le coach a lancé un brainstorming
+collectif pour enrichir la liste de mots-clés à tester sur SEMrush.
+Mots-clés remontés par le groupe à tester :
+Dimension
+Pistes fortes
+Autres pistes à tester
+Matières
+toile / tissu
+simili, silicone, élastique, métallique, strass, cuir suédé
+Styles
+foulard / bijou
+cowboy, cash billet, magnétique, réversible, à boucle, boucle interchangeable,
+ardillon, militaire, japonaise, tressée, banane, sans trou
+Tenues
+pour robe /
+manteau
+pour pantalon, pour jupe, de costume, sport
+Couleurs oubliées
+camel / beige
+bleu marine, rose, grise
+Méthode de recherche de mots-clés. Toujours tester singulier ET pluriel (ceinture bijou 390 vs ceinture bijoux
+1 300), tester les variantes (ceinture homme vs ceinture pour homme), vérifier la SERP Google pour confirmer
+qu’un synonyme répond à la même intention (ceinture foulard 720 = foulard ceinture, même produit). Écarter les
+mots-clés sans volume même s’ils existent chez les concurrents, sauf si une catégorie a un intérêt UX fort
+(logique d’usage client).
+Débat genre vs style en tête de silo. Deux options sur la table :
+Option A — Homme / Femme / Enfant en tête, avec style/matière/couleur en sous-catégories. Approche des
+concurrents spécialisés.
+Option B — Style / Matière / Couleur en tête, avec homme/femme en sous-catégories. Approche différenciante.
+Le coach n’a pas tranché : tester les deux via Claude ou Chat GPT (mindmap visuel), voir laquelle est la plus
+cohérente. Attention : ne pas faire différent juste pour être différent. Les gros volumes (ceinture homme 1 300,
+ceinture femme ~400) doivent apparaitre quelque part dans l’arborescence, quelle que soit l’option choisie.
+Principe tête de silo / collection. Une tête de silo n’est pas forcément un mot-clé (ex. « accessoires », « par
+style ») — c’est un regroupement logique UX. Les collections en dessous, elles, doivent être des mots-clés avec
+volume. Sur Shopify, pas de hiérarchie réelle de collections : tout est au même niveau, la structure visuelle est
+uniquement navigationnelle.
+Mot-clé long train → produit, pas collection. Ex. « ceinture homme cuir réversible » = un produit rangé
+simultanément dans ceinture cuir, ceinture réversible, ceinture homme et, si applicable, la couleur.
+« Parfois, il ne faut pas faire différent juste pour que ce soit différent. Regarde si ça vaut le coup et
+si tu arrives à faire une architecture cohérente. »
+— Stéphanie
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  3  —
+► Viviane — Review fiches produits porte-bébé
+Viviane a intégré 60 fiches produits. Le coach passe une fiche type en revue. Points positifs : bullet points en
+place, photos bien cadrées, structure descriptif + caractéristiques opérationnelle.
+Corrections apportées en direct :
+Élément
+Problème
+Correction
+Titres internes (H2)
+Trop gros, écrasent le texte
+Passer en « moyen » voire « petit » dans le thème
+Titre produit H1
+Taille visuelle écrasante
+« Petit » — plus fluide, notamment sur mobile
+Variation « taille unique »
+Inutile si pas d’autre choix
+Supprimer sauf volonté d’indiquer
+Couleur « brun »
+Peu de volume SEO
+Remplacer par « marron » (majorité)
+Photo étirée
+Proportions déformées
+Re-cadrer
+Produits associés en bas
+2 colonnes, maillage faible
+4 colonnes desktop + carousel mobile 2 col.
+Principe SEO couleur : toujours privilégier le terme majoritaire dans les requêtes. « Bleu » plutôt que « bleu
+fondant » sauf vraie différence produit. La fiche répond à une intention de recherche — rester généraliste quand
+les requêtes le sont.
+Affichage produits bas de page : Modifier le thème → Produit par défaut → cliquer dans le vide à côté des
+produits recommandés → panneau droite → quantité max 4, désactiver carousel desktop, activer carousel
+mobile (2 colonnes).
+« Une fiche produit, tu la crées pour répondre à une intention de recherche. Pense toujours
+majorité. »
+— Stéphanie
+⚙ POINT TECHNIQUE — MERCHANT CENTER & IA
+Emeric — Merchant Center validé du premier coup. Flux envoyé via Simprosys à 11h02, tout coché vert à
+16h, aucun message d’alerte. Validation très rapide (~5 heures). Consigne du coach : attendre le lendemain
+pour confirmer que tout reste stable avant de brancher Google Ads. Si validation tient, feu vert pour continuer
+l’intégration produits.
+Règle IA et intégration produits. Discussion de fond entre Emeric, Chiraz et le coach. Emeric partage sa
+méthode : intégrer manuellement les 10-20 premiers produits pour comprendre tous les champs méta et la
+logique d’intégration, puis automatiser tâche par tâche via des skills Claude Code. Le coach rappelle la règle de
+Théo : toujours commencer en manuel pour savoir prompter l’IA correctement ensuite. Une fois la logique
+métier comprise, l’automatisation brique par brique est efficace.
+« Tu peux pas t’imaginer que ça va se faire tout seul avec l’IA. Il faut avoir fait le chemin toi-même
+pour créer les bonnes briques. »
+— Emeric
+⚓ PLAN D’ACTION PAR MEMBRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  4  —
+  ⚓  Aude
+PRIORITAIRE
+⚡ Finir les balises dynamiques FAQ3 et FAQ4 sur les fiches produits (même process : métafields +
+appel dans le modèle page produit).
+⚡ Personnaliser les questions/réponses FAQ par fiche produit — mêmes questions globalement,
+réponses adaptées au produit.
+SECONDAIRE
+○ Regarder les vidéos YouTube de Denzo avec Théo pour suivre visuellement le process de création de
+site.
+○ En cas de blocage : partager l’écran ou contacter le coach sur WhatsApp sans attendre la session.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Tester sur SEMrush tous les mots-clés remontés en session (matières, styles, couleurs, tenues) —
+volume, CPC, KD.
+⚡ Tester systématiquement singulier/pluriel et variantes (ceinture homme vs ceinture pour homme,
+ceinture cuir vs ceinture en cuir).
+⚡ Soumettre le tableau complet à l’IA (Claude ou Chat GPT) avec deux demandes d’architecture :
+Option A (par genre) et Option B (par style) — comparer visuellement.
+SECONDAIRE
+○ Visualiser l’architecture à plat sur papier ou mindmap avant validation.
+○ Envoyer photos et avancement au coach sur WhatsApp sans attendre la session suivante.
+○ Préparer le choix du thème Shopify et du style de boutique pour la semaine prochaine.
+  ⚓  Viviane
+PRIORITAIRE
+⚡ Modifier les titres de toutes les fiches produits (H2 en « moyen », H1 en « petit ») via Modifier le
+thème.
+⚡ Remplacer « brun » par « marron » dans les attributs couleur.
+⚡ Supprimer les variations « taille unique » inutiles.
+SECONDAIRE
+○ Corriger la photo étirée repérée lors de la review.
+○ Continuer l’intégration manuelle avant de passer à l’IA (règle : 10-20 produits manuels minimum).
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Vérifier demain que le Merchant Center reste tout vert et sans alerte.
+⚡ Si OK : continuer l’intégration des produits restants et brancher Google Ads.
+SECONDAIRE
+○ Partager l’issue dans la communauté — validation au 1er coup est rare et utile pour tous.
+  ★  Tous les membres
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  5  —
+PRIORITAIRE
+⚡ Règle IA : commencer en manuel (10-20 produits) avant toute automatisation, pour maîtriser les
+champs méta et savoir prompter correctement.
+SECONDAIRE
+○ Workflow IA : décomposer en petites briques (skills Claude Code), valider chaque étape, assembler
+progressivement.
+○ Pour chaque mot-clé : tester singulier/pluriel et variantes avant de trancher sur le nom de collection.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Ceinture homme (volume)
+1 300
+Gros mot-clé à préserver
+Ceinture femme (volume)
+env. 400
+Différentiel net avec homme
+Ceinture foulard (volume)
+720
+Mot-clé validé
+Foulard en ceinture (volume)
+38
+Variante écartée
+Ceinture bijou (singulier)
+390
+À écarter
+Ceinture bijoux (pluriel)
+1 300
+Version retenue, profil féminin
+Ceinture homme luxe
+3 600
+Mot-clé fort, à genrer
+Ceinture femme luxe
+2 400
+Mot-clé fort, à genrer
+Ceinture luxe
+1 003
+À garder en plus du genré
+Ceinture toile homme
+260
+Sous-catégorie testée
+Ceinture toile (France)
+110
+Tester « ceinture tissu »
+Ceinture tressée homme
+1 000
+Sous-niche à exploiter
+Ceinture tressée
+700
+Base sous-niche
+Ceinture sport (volume)
+390
+KD 13 — complément
+Ceinture japonaise
+env. 500
+Profil féminin
+Ceinture pour manteau
+170
+Volume faible
+Fiches Viviane intégrées
+60
+Avant passage IA
+Merchant Center Emeric
+env. 5 h
+Validation du 1er coup
+Règle manuel avant IA
+10-20 produits
+Pré-requis automatisation
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/04/2026
+—  6  —
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

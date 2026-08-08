@@ -1,0 +1,1729 @@
+WEBVTT
+
+1
+00:00:00.740 --> 00:00:03.790
+Bonjour à tous et bienvenue dans cette septième vidéo de
+
+2
+00:00:03.850 --> 00:00:05.150
+ce module d'intégration.
+
+3
+00:00:05.170 --> 00:00:06.230
+On se trouve aujourd'hui pour
+
+4
+00:00:06.230 --> 00:00:07.550
+l'intégration de la fiche produit.
+
+5
+00:00:10.100 --> 00:00:11.990
+Donc, comme on disait la dernière fois, la fiche produit,
+
+6
+00:00:11.990 --> 00:00:15.070
+on va la design une seule fois et ensuite grâce au je Engine
+
+7
+00:00:15.070 --> 00:00:17.510
+qu'on est mis en place dans la troisième ou quatrième vidéo,
+
+8
+00:00:18.130 --> 00:00:20.270
+ça va pouvoir se dupliquer en plusieurs fois.
+
+9
+00:00:21.000 --> 00:00:22.470
+C'est à dire que chaque fois qu'on ajoutera un produit,
+
+10
+00:00:22.490 --> 00:00:25.470
+ce sera le même temps play de produit qui s'appliquera
+
+11
+00:00:25.730 --> 00:00:27.070
+grâce à nos champs.
+
+12
+00:00:27.380 --> 00:00:28.710
+Donc on va commencer tout de suite.
+
+13
+00:00:28.710 --> 00:00:29.950
+On va se rendre dans le dashboard.
+
+14
+00:00:30.740 --> 00:00:32.800
+On voit ensuite pouvoir se rendre dans modèles,
+
+15
+00:00:33.190 --> 00:00:34.480
+laisser les modèles d'élément,
+
+16
+00:00:37.980 --> 00:00:39.080
+les modèles d'élément,
+
+17
+00:00:41.280 --> 00:00:44.640
+un modèle enregistré ici.
+
+18
+00:00:44.640 --> 00:00:47.120
+Donc ça, c'est notre, c'est notre template par défaut.
+
+19
+00:00:47.120 --> 00:00:48.280
+Nous on va en créer un nouveau.
+
+20
+00:00:53.400 --> 00:00:54.800
+Alors ajouter section
+
+21
+00:01:00.240 --> 00:01:03.020
+et fiches
+
+22
+00:01:03.060 --> 00:01:06.900
+produit comme ça.
+
+23
+00:01:06.900 --> 00:01:08.060
+On va savoir que c'est sur ce site
+
+24
+00:01:08.160 --> 00:01:10.980
+là, on va créer un modèle.
+
+25
+00:01:13.570 --> 00:01:15.310
+On se retrouve donc sur les modèles d'élément.
+
+26
+00:01:15.410 --> 00:01:17.070
+Là, il propose des modèles par défaut.
+
+27
+00:01:17.220 --> 00:01:18.390
+Nous on ne va pas en choisir.
+
+28
+00:01:20.060 --> 00:01:21.720
+On ne peut prendre de modèles ici,
+
+29
+00:01:22.380 --> 00:01:23.520
+on pouvoir créer la section.
+
+30
+00:01:25.970 --> 00:01:26.980
+Donc ce qu'on va faire,
+
+31
+00:01:26.980 --> 00:01:31.060
+c'est qu'on va commencer la création De la section.
+
+32
+00:01:31.160 --> 00:01:34.440
+Si je produit, voilà comme ceci ci,
+
+33
+00:01:34.540 --> 00:01:36.120
+on va la mettre en grand écran.
+
+34
+00:01:38.830 --> 00:01:40.890
+Et donc il me faut de colonnes.
+
+35
+00:01:43.260 --> 00:01:45.200
+Ce qu'on va faire, c'est qui si on va afficher le titre,
+
+36
+00:01:46.100 --> 00:01:49.120
+le titre un et la description, une titre,
+
+37
+00:01:49.190 --> 00:01:51.320
+bloc un et description bloc une comme on avait fait
+
+38
+00:01:53.290 --> 00:01:54.870
+sur le quand on est mis en place le GT,
+
+39
+00:01:55.170 --> 00:01:58.310
+on va mettre l'image numéro un et on son un deuxième bloc ou
+
+40
+00:01:58.310 --> 00:02:00.790
+on inversera, on mettra l'image à gauche et le
+
+41
+00:02:00.790 --> 00:02:01.950
+titre et la description à droite.
+
+42
+00:02:06.000 --> 00:02:08.730
+Donc, pour ce faire, on peut aller dans titre ici
+
+43
+00:02:09.270 --> 00:02:11.170
+et dans les balises dynamiques,
+
+44
+00:02:11.230 --> 00:02:14.730
+on va descendre et il doit y avoir la je Jane custom field
+
+45
+00:02:16.260 --> 00:02:19.200
+et comme ça dedans, on retrouve titre bloc un.
+
+46
+00:02:21.680 --> 00:02:23.610
+Donc ici, ça affiche rien. C'est normal.
+
+47
+00:02:25.780 --> 00:02:29.330
+C'est parce que on n'est pas sur un produit en particulier.
+
+48
+00:02:29.330 --> 00:02:31.250
+Là, on est juste sur un modèle pour l'instant,
+
+49
+00:02:31.250 --> 00:02:32.850
+on va faire comme ça et on va voir ce que ça donne
+
+50
+00:02:32.870 --> 00:02:34.050
+du coup suite.
+
+51
+00:02:34.050 --> 00:02:36.690
+On va ajouter, on va voir ce que ça donne sur les produits.
+
+52
+00:02:36.690 --> 00:02:38.570
+Ensuite, on va ajouter un éditeur de texte,
+
+53
+00:02:39.720 --> 00:02:41.310
+même principe pour les tirs de textes.
+
+54
+00:02:41.310 --> 00:02:43.070
+On va se rendre dans je jeune que to field
+
+55
+00:02:44.010 --> 00:02:46.350
+et ici description bloc
+
+56
+00:02:50.170 --> 00:02:54.770
+De l'autre côté, on va intégrer une image image.
+
+57
+00:02:56.330 --> 00:02:58.790
+Et ici même principe, balise dynamique.
+
+58
+00:03:00.050 --> 00:03:01.710
+Je Engine custom image.
+
+59
+00:03:03.750 --> 00:03:08.170
+Et donc image, description, bloc un
+
+60
+00:03:08.860 --> 00:03:10.680
+sur les produits, pas sur les variations.
+
+61
+00:03:14.030 --> 00:03:18.800
+J'ai vfi d. Tout bien fait partout. Titre bloc un ici.
+
+62
+00:03:18.800 --> 00:03:23.320
+C'est bon. Et description bloc un sur les produits.
+
+63
+00:03:23.320 --> 00:03:26.200
+C'est bon. Donc ça, on va pouvoir mettre à jour.
+
+64
+00:03:26.200 --> 00:03:30.440
+Ensuite, on va un truc que j'ai oublié avant de vous montrer
+
+65
+00:03:31.540 --> 00:03:33.410
+qu'on va retourner sur le site,
+
+66
+00:03:36.040 --> 00:03:38.220
+en pouvoir aller dans veilleuse sur le
+
+67
+00:03:38.220 --> 00:03:39.300
+dashboard d'une nouvelle fois.
+
+68
+00:03:44.160 --> 00:03:48.100
+Et ici, dans apparence, éditeur de fichiers des thèmes,
+
+69
+00:03:48.100 --> 00:03:50.460
+c'est ici qu'on avait écrit la fonction
+
+70
+00:03:51.450 --> 00:03:53.110
+ou on avait mis le CSS pour la police.
+
+71
+00:03:53.250 --> 00:03:55.830
+Et si on avait écrit la fonction dans fonction par PHP
+
+72
+00:03:55.890 --> 00:03:57.940
+ici, voilà.
+
+73
+00:03:58.240 --> 00:04:02.780
+Ici, vous avez la fonction qui permettait de mettre une
+
+74
+00:04:02.780 --> 00:04:03.820
+police personnalisée, etc.
+
+75
+00:04:04.200 --> 00:04:05.900
+Non, on en a une de plus que j'ai rajouté
+
+76
+00:04:05.900 --> 00:04:07.580
+avant qui est celle ci.
+
+77
+00:04:08.420 --> 00:04:10.590
+Donc c'est, elle est toujours la même.
+
+78
+00:04:10.590 --> 00:04:13.670
+Donc forcer la description ça et ici,
+
+79
+00:04:13.670 --> 00:04:17.110
+vous voyez elementor template haidi 74 non n'est pas sur le
+
+80
+00:04:17.230 --> 00:04:20.990
+74 sur le 1236, vous voyez ici dans l'url.
+
+81
+00:04:22.180 --> 00:04:24.390
+Donc qu'est ce que c'est la différence?
+
+82
+00:04:26.500 --> 00:04:27.720
+Je vais vous montrer rapidement,
+
+83
+00:04:29.700 --> 00:04:32.480
+il y a des produits qui ont commencé à être ajoutés,
+
+84
+00:04:33.830 --> 00:04:36.090
+par exemple ici, si on va dans ce produit là
+
+85
+00:04:38.270 --> 00:04:40.250
+depuis la dernière fois, il s'est passé quelques jours
+
+86
+00:04:41.140 --> 00:04:43.370
+qu'il a commencé à y avoir des éléments.
+
+87
+00:04:43.370 --> 00:04:44.890
+Donc ici, c'est le template de base.
+
+88
+00:04:45.230 --> 00:04:48.440
+Ça, c'est le template de 74 que vous retrouvez dans modèle
+
+89
+00:04:48.440 --> 00:04:51.280
+produit nous, on ne veut pas celui là.
+
+90
+00:04:52.020 --> 00:04:53.720
+On veut, on veut celui qu'on est en train de créer.
+
+91
+00:04:54.380 --> 00:04:55.720
+Et du coup, on va aller dans
+
+92
+00:04:57.240 --> 00:05:00.220
+Ici et au lieu de 74, on va mettre
+
+93
+00:05:00.950 --> 00:05:02.300
+comme ça 230.
+
+94
+00:05:04.370 --> 00:05:06.030
+On va mettre à jour le fichier.
+
+95
+00:05:10.550 --> 00:05:12.010
+Et ici vous avez,
+
+96
+00:05:12.010 --> 00:05:14.090
+pour avoir que modèle fiche produit va se
+
+97
+00:05:14.090 --> 00:05:15.450
+transformer en fiche produit veilleuse.
+
+98
+00:05:15.450 --> 00:05:17.210
+Du coup, ça va ajouter le
+
+99
+00:05:17.210 --> 00:05:18.250
+modèle qu'on est en train de créer.
+
+100
+00:05:18.430 --> 00:05:19.690
+Voilà ça, c'est le modèle.
+
+101
+00:05:19.900 --> 00:05:23.380
+Voyez, il n'y a rien pour l'instant, rien d'afficher.
+
+102
+00:05:23.470 --> 00:05:25.060
+C'est le modèle qu'on est en train de créer.
+
+103
+00:05:26.860 --> 00:05:29.640
+Et ici, vous pouvez voir fich je produits veilleux.
+
+104
+00:05:29.640 --> 00:05:30.720
+Donc si je li ici,
+
+105
+00:05:30.780 --> 00:05:33.120
+je vais directement aller sur élémentaire, modifier du coup
+
+106
+00:05:33.740 --> 00:05:36.120
+la section fiche produits veilleuse ferme ici,
+
+107
+00:05:36.120 --> 00:05:38.510
+on va l'ouvrir là à la place, nous voilà,
+
+108
+00:05:38.510 --> 00:05:39.950
+il s'en sur fiche produits veilleuse.
+
+109
+00:05:39.950 --> 00:05:41.790
+Donc encore une fois, il n'y a rien qui s'affiche.
+
+110
+00:05:41.790 --> 00:05:45.150
+C'est normal. C'est encore une fois,
+
+111
+00:05:45.150 --> 00:05:47.190
+parce que c'est un modèle de fiche et du coup,
+
+112
+00:05:47.450 --> 00:05:48.830
+ça s'affiche pas par défaut.
+
+113
+00:05:50.840 --> 00:05:52.550
+C'est un peu un point négatif d'élément,
+
+114
+00:05:52.860 --> 00:05:54.310
+mais ça s'affiche pas par défaut,
+
+115
+00:05:54.410 --> 00:05:56.270
+vu qu'il n'y a aucun produit de sélectionné.
+
+116
+00:05:57.830 --> 00:05:59.370
+Il y a aucune description. Vu que c'est
+
+117
+00:05:59.370 --> 00:06:00.450
+une balise dynamique.
+
+118
+00:06:01.110 --> 00:06:02.210
+Je vais rafraîchir quand même.
+
+119
+00:06:04.540 --> 00:06:06.790
+Donc, ce qu'on va faire, c'est que moi ici,
+
+120
+00:06:06.790 --> 00:06:08.430
+j'avais sur mon deuxième écran, j'ai un modèle,
+
+121
+00:06:11.090 --> 00:06:12.150
+un modèle de fiche produit,
+
+122
+00:06:13.460 --> 00:06:15.950
+donc je vais le faire en accéléré.
+
+123
+00:06:15.950 --> 00:06:19.170
+Ou alors je vais couper et je vais tout faire.
+
+124
+00:06:19.190 --> 00:06:21.650
+Et une fois que j'ai fini la fich produit, on se retrouvera.
+
+125
+00:06:22.310 --> 00:06:23.850
+Une fois que j'ai fini, intégrer la fiche produit,
+
+126
+00:06:24.590 --> 00:06:26.690
+on se retrouve une fois que tout est intégré.
+
+127
+00:06:27.210 --> 00:06:30.890
+A tout de suite. Donc voilà donc du coup on a fini
+
+128
+00:06:31.470 --> 00:06:34.370
+et j'ai juste fait les deux sections que je devais faire par
+
+129
+00:06:34.370 --> 00:06:36.810
+rapport au design ici que j'ai sur le côté.
+
+130
+00:06:38.590 --> 00:06:40.610
+Il y aura quelques modifications à faire, mais là,
+
+131
+00:06:41.030 --> 00:06:42.410
+il faut qu'on avance sur la produit.
+
+132
+00:06:42.520 --> 00:06:45.950
+Donc on, par exemple, je vois ici
+
+133
+00:06:47.190 --> 00:06:49.810
+que j'aurais pu mettre ici sur cette colonne là
+
+134
+00:06:51.670 --> 00:06:54.290
+de la marge interne à gauche et à droite, par exemple,
+
+135
+00:06:54.430 --> 00:06:57.810
+la droite 30 et à
+
+136
+00:06:57.810 --> 00:06:59.970
+gauche 20.
+
+137
+00:07:03.080 --> 00:07:04.940
+Et ça, en fait, c'est juste histoire d'espace.
+
+138
+00:07:04.960 --> 00:07:08.780
+Un petit peu ici et ici soit trop collé ici.
+
+139
+00:07:08.780 --> 00:07:11.580
+Si j'ai réfléchi, voir que ça se dessert un petit peu
+
+140
+00:07:15.150 --> 00:07:18.860
+comme ça, ça laisse un petit peu plus de d'espace.
+
+141
+00:07:19.000 --> 00:07:23.940
+On pourrait en rajouter encore un petit peu à gauche,
+
+142
+00:07:24.300 --> 00:07:26.220
+40 et à droite, 40 aussi, par exemple.
+
+143
+00:07:30.900 --> 00:07:32.710
+Mais ça voilà, c'est du, c'est du détail.
+
+144
+00:07:35.360 --> 00:07:36.700
+Je pas rafraîchir cette page.
+
+145
+00:07:40.980 --> 00:07:43.000
+Voilà là, on voit que ça laisse un petit peu d'air,
+
+146
+00:07:43.000 --> 00:07:44.880
+mais de façon, l'image ici est pas très belle.
+
+147
+00:07:44.880 --> 00:07:45.960
+L'image devrait être changée.
+
+148
+00:07:46.460 --> 00:07:48.820
+Il y a deux ou trois trucs, mais cette image là, en fait,
+
+149
+00:07:48.870 --> 00:07:51.100
+c'est ça, c'est les comme on disait
+
+150
+00:07:51.100 --> 00:07:52.140
+c'est l'image de la catégorie.
+
+151
+00:07:52.770 --> 00:07:55.020
+Donc, en fait, quand l'équipe qui rajoute les produits
+
+152
+00:07:55.620 --> 00:07:57.700
+déclare cette image comme image,
+
+153
+00:07:58.010 --> 00:08:00.100
+produit comme image de catégorie.
+
+154
+00:08:00.310 --> 00:08:03.340
+Maintenant, sur toute la catégorie, l' sur la catégorie
+
+155
+00:08:04.290 --> 00:08:07.180
+veilleuse lune et toutes les veilleuses lune,
+
+156
+00:08:07.180 --> 00:08:08.780
+elles auront cette section ici.
+
+157
+00:08:08.780 --> 00:08:12.120
+Et par exemple, si on va dans veilleuses animaux,
+
+158
+00:08:12.420 --> 00:08:14.400
+je ne sais pas si je passe des animaux.
+
+159
+00:08:14.580 --> 00:08:16.160
+Il y en a quelques unes qui ont été rajoutées.
+
+160
+00:08:17.180 --> 00:08:18.430
+Si on va sur la fiche produit,
+
+161
+00:08:18.570 --> 00:08:20.830
+on peut voir ici que pareil voilà.
+
+162
+00:08:20.970 --> 00:08:22.630
+Et les textes ont changé automatiquement.
+
+163
+00:08:23.130 --> 00:08:24.510
+Et si voilà veilleux animaux,
+
+164
+00:08:25.170 --> 00:08:27.750
+ça change automatiquement par rapport à ce que l'équipe
+
+165
+00:08:27.750 --> 00:08:32.190
+produit a mis comme image, comme description comme titre,
+
+166
+00:08:32.450 --> 00:08:33.910
+on voit bien qu'on est veilleux animaux.
+
+167
+00:08:34.970 --> 00:08:37.630
+Si on va sur veilleuse, projection,
+
+168
+00:08:37.630 --> 00:08:39.790
+je ne sais pas s'il y en a pour l'instant une.
+
+169
+00:08:43.810 --> 00:08:46.630
+Et donc ici, on peut voir une image du produit ici,
+
+170
+00:08:46.630 --> 00:08:49.310
+une veilleuse qui vous transporte et veilleuse lune.
+
+171
+00:08:50.830 --> 00:08:52.250
+Et ici, ça ajoute encore une
+
+172
+00:08:53.350 --> 00:08:55.880
+une description par rapport à veilleuse lune.
+
+173
+00:08:58.390 --> 00:08:59.570
+Il y en a, il y en a plusieurs.
+
+174
+00:09:00.230 --> 00:09:02.930
+Il y a, il y a plusieurs descriptions,
+
+175
+00:09:02.930 --> 00:09:04.450
+il y a plusieurs et ça, à chaque fois,
+
+176
+00:09:04.450 --> 00:09:07.090
+c'est l'équipe produit qui la renseignent et nous le fait de
+
+177
+00:09:07.090 --> 00:09:09.730
+créer un seul modèle en disant titre un, titre deux,
+
+178
+00:09:09.730 --> 00:09:11.930
+description une description deux image, une image deux.
+
+179
+00:09:12.310 --> 00:09:14.130
+Ça change par rapport à ce que l' produit a
+
+180
+00:09:14.130 --> 00:09:15.370
+déclaré en ajoutant les produits.
+
+181
+00:09:15.870 --> 00:09:18.410
+Ça évite de faire à chaque fois une fiche produit par
+
+182
+00:09:18.410 --> 00:09:22.290
+produit, ce qui serait un travail conséquent quand il y a 30
+
+183
+00:09:22.290 --> 00:09:24.810
+produits, ça prend du temps, mais ça va quand il y en a 800,
+
+184
+00:09:25.960 --> 00:09:28.530
+bien qu'on va pouvoir créer 800 800 pages produits.
+
+185
+00:09:29.950 --> 00:09:34.770
+Donc voilà donc ensuite ce qu'il faut.
+
+186
+00:09:34.850 --> 00:09:37.210
+C'est une description. Si nous sur nos fiches produits,
+
+187
+00:09:37.210 --> 00:09:39.250
+on ajoute une description si dans laquelle on va mettre des
+
+188
+00:09:39.250 --> 00:09:41.730
+mots clés qui va permettre le référencements de ces
+
+189
+00:09:41.730 --> 00:09:43.890
+produits par rapport à Google.
+
+190
+00:09:45.080 --> 00:09:49.170
+Donc on va pouvoir créer la comment dire la description.
+
+191
+00:09:49.550 --> 00:09:51.210
+Si qui ira ici en dessous.
+
+192
+00:09:51.880 --> 00:09:54.010
+Pour ce faire, on retourne dans le dashboard de wordpres,
+
+193
+00:09:54.010 --> 00:09:58.710
+on va sur je et je ne trouve pas
+
+194
+00:09:59.740 --> 00:10:04.650
+je et on va dans le listing dans listing.
+
+195
+00:10:04.650 --> 00:10:06.490
+Voilà. On peut voir qu'on a de description si on a
+
+196
+00:10:06.490 --> 00:10:07.570
+quelque chose qui est déjà créé.
+
+197
+00:10:08.520 --> 00:10:10.610
+Donc c'est un poste. Donc ce qu'on va faire, c'est qu'on va
+
+198
+00:10:11.890 --> 00:10:15.500
+l'effacer celui ci, non?
+
+199
+00:10:16.080 --> 00:10:17.580
+On peut l'effacer parce que l'équipe
+
+200
+00:10:17.580 --> 00:10:18.620
+produit a déjà commencé.
+
+201
+00:10:19.450 --> 00:10:23.350
+Donc non, on va rétablir ça, on ne va pas l'effacer.
+
+202
+00:10:30.610 --> 00:10:31.660
+Donc on va dans tous
+
+203
+00:10:36.370 --> 00:10:38.230
+et on va plutôt faire modifier avec les mentors.
+
+204
+00:10:38.230 --> 00:10:41.820
+On va travailler à partir de celle là. Voilà.
+
+205
+00:10:41.820 --> 00:10:42.820
+En fait, il faut créer un nouveau
+
+206
+00:10:42.820 --> 00:10:44.220
+listing qu'on appelle description.
+
+207
+00:10:44.480 --> 00:10:49.220
+Si qu'on met en poste et on peut modifier avec élément,
+
+208
+00:10:49.310 --> 00:10:51.300
+c'est une section comme ça qu'on va pouvoir ajouter.
+
+209
+00:10:52.820 --> 00:10:54.320
+Et donc voilà.
+
+210
+00:10:54.630 --> 00:10:58.040
+Donc ici, on peut voir voilà ici,
+
+211
+00:10:58.040 --> 00:11:02.530
+vous créez du coup une section et dedans,
+
+212
+00:11:02.600 --> 00:11:03.930
+vous faites une nouvelle fois.
+
+213
+00:11:03.930 --> 00:11:05.050
+Donc on va effacer. Par exemple,
+
+214
+00:11:05.200 --> 00:11:08.770
+vous allez dans balise dynamique, je Engine
+
+215
+00:11:09.950 --> 00:11:12.050
+que image et cette fois
+
+216
+00:11:14.400 --> 00:11:15.620
+ça doit être image.
+
+217
+00:11:15.620 --> 00:11:20.420
+Et si et vous faites ça pour les trois au lieu de ici
+
+218
+00:11:20.790 --> 00:11:22.940
+titre si et description ici au lieu de titre,
+
+219
+00:11:23.010 --> 00:11:24.420
+bloc un et description bloc.
+
+220
+00:11:25.930 --> 00:11:30.180
+Donc vous mettez image si description ici au petit ratio,
+
+221
+00:11:31.800 --> 00:11:36.500
+vous pouvez publier et ensuite moi,
+
+222
+00:11:36.500 --> 00:11:37.780
+j'ai un style particulier ici,
+
+223
+00:11:37.780 --> 00:11:40.180
+mais j'ai déjà vous montré comment on on l'affiche.
+
+224
+00:11:40.450 --> 00:11:42.780
+Ensuite, vous retournez sur votre fiche produit,
+
+225
+00:11:43.450 --> 00:11:47.460
+vous créer une section simple que vous pouvez tirer pour
+
+226
+00:11:47.500 --> 00:11:49.810
+centrer et dedans.
+
+227
+00:11:49.950 --> 00:11:53.840
+Il y a un widget qui s'appelle listing grid.
+
+228
+00:11:57.420 --> 00:12:00.190
+Vous choisissez le listing ici nous savait description.
+
+229
+00:12:00.650 --> 00:12:05.510
+Si nous voilà,
+
+230
+00:12:05.690 --> 00:12:07.510
+ça ajoute les grid.
+
+231
+00:12:08.300 --> 00:12:11.830
+Nous on en veut une et on veut post number un
+
+232
+00:12:14.030 --> 00:12:16.610
+ça, c'est plusieurs descriptions aussi qui sont créées.
+
+233
+00:12:17.230 --> 00:12:20.690
+Et à chaque fois ça en mettre une aléatoirement.
+
+234
+00:12:21.430 --> 00:12:23.690
+Ça va en afficher une aléatoirement sur les fich produits
+
+235
+00:12:24.220 --> 00:12:26.570
+cette veille solaire par rapport toujours
+
+236
+00:12:26.790 --> 00:12:29.600
+à à la catégorie.
+
+237
+00:12:31.380 --> 00:12:32.990
+Donc, pour faire par rapport à la catégorie,
+
+238
+00:12:33.130 --> 00:12:34.150
+il faut aller dans
+
+239
+00:12:39.810 --> 00:12:40.100
+plus.
+
+240
+00:12:41.860 --> 00:12:44.440
+Je crois que c'est dans post querie, ajouter un élément,
+
+241
+00:12:44.790 --> 00:12:49.280
+type post et auteur.
+
+242
+00:12:49.280 --> 00:12:51.240
+Ensuite, on va dans post.
+
+243
+00:12:51.240 --> 00:12:52.640
+Bye dit ici,
+
+244
+00:12:55.110 --> 00:12:56.970
+on va dans le je jeune custom field.
+
+245
+00:12:57.190 --> 00:12:59.770
+Et cette fois c'est et
+
+246
+00:13:03.470 --> 00:13:05.490
+CCC, c'est la description es.
+
+247
+00:13:05.490 --> 00:13:10.380
+Si je suis pas
+
+248
+00:13:10.380 --> 00:13:12.940
+sûr, on vérifie ici.
+
+249
+00:13:13.160 --> 00:13:15.780
+Oui, c'est ça. C'était bien ça, description.
+
+250
+00:13:15.920 --> 00:13:17.140
+Si comme ça, ça affiche bien
+
+251
+00:13:17.760 --> 00:13:21.820
+une section supplémentaire ici par rapport à la catégorie.
+
+252
+00:13:22.090 --> 00:13:24.060
+Donc, normalement, si on va sur veilleux animaux
+
+253
+00:13:25.020 --> 00:13:28.380
+comprend n'importe laquelle du coup.
+
+254
+00:13:28.380 --> 00:13:29.740
+Normalement ça,
+
+255
+00:13:30.560 --> 00:13:32.980
+un peu de douceur qui est bou est l'ami idéale veille
+
+256
+00:13:32.980 --> 00:13:35.100
+chouette auquel la description ici haut.
+
+257
+00:13:35.170 --> 00:13:39.850
+Elle est correcte. Si je prends le lapin
+
+258
+00:13:46.790 --> 00:13:49.130
+ici, je pense que c'est parce que la
+
+259
+00:13:50.100 --> 00:13:51.970
+c'est parce que ça vient d'être ajouté aucune
+
+260
+00:13:51.970 --> 00:13:53.130
+description n'ajouter pour l'instant.
+
+261
+00:13:53.440 --> 00:13:57.910
+Donc ça, mais par défaut, par exemple,
+
+262
+00:13:58.010 --> 00:14:00.870
+sur sur la petite veilleuse en forme de lune ici,
+
+263
+00:14:05.870 --> 00:14:06.330
+la lune.
+
+264
+00:14:06.790 --> 00:14:09.490
+Ok, donc ça fait bien la description ici.
+
+265
+00:14:09.870 --> 00:14:12.850
+Du coup, il reste plus que le style à faire pour que ça
+
+266
+00:14:12.850 --> 00:14:13.930
+corresponde à la même enquête.
+
+267
+00:14:14.200 --> 00:14:16.130
+Donc, une nouvelle fois, je vais le faire en accélérer,
+
+268
+00:14:17.700 --> 00:14:20.330
+parce que toute façon il n'y a rien qui change par rapport à
+
+269
+00:14:20.330 --> 00:14:23.380
+l'habitude, À tout le
+
+270
+00:14:23.380 --> 00:14:24.740
+élémentaire qu'on a pu faire jusqu'ici.
+
+271
+00:14:24.740 --> 00:14:26.420
+Il n'y a rien qui change. Donc se trouve tout de suite.
+
+272
+00:14:27.080 --> 00:14:29.020
+Voilà donc on a donc notre description.
+
+273
+00:14:29.280 --> 00:14:33.300
+Si que je viens de terminer qui se présente comme ça,
+
+274
+00:14:33.950 --> 00:14:35.540
+voyez juste la description,
+
+275
+00:14:36.010 --> 00:14:37.700
+l'image ici qu'on avait tout à l'heure
+
+276
+00:14:39.120 --> 00:14:41.460
+un background comme ça de couleur un peu verte
+
+277
+00:14:42.330 --> 00:14:44.340
+avec les petites étoiles que j'ai
+
+278
+00:14:44.340 --> 00:14:45.460
+récupérées de la page d'accueil.
+
+279
+00:14:45.930 --> 00:14:47.660
+Donc rien de bien compliqué.
+
+280
+00:14:48.320 --> 00:14:50.940
+Il manque juste une section du couple par rapport au design
+
+281
+00:14:51.100 --> 00:14:54.560
+qui sera la f AQ.
+
+282
+00:14:56.010 --> 00:14:59.120
+C'est intéressant d'avoir une fq sur les fiches produits.
+
+283
+00:14:59.740 --> 00:15:02.110
+Donc pour ça, on va, on va retourner sur la fiche produit
+
+284
+00:15:02.330 --> 00:15:06.910
+ici et en dessous, on va créer une nouvelle section
+
+285
+00:15:07.480 --> 00:15:08.830
+qu'on va pouvoir étirer
+
+286
+00:15:09.000 --> 00:15:13.200
+aussi sur la colonne.
+
+287
+00:15:13.390 --> 00:15:17.310
+Donc j'ai un fond de couleur un peu jaune
+
+288
+00:15:18.350 --> 00:15:19.650
+que j'ai récupéré ici.
+
+289
+00:15:21.990 --> 00:15:23.350
+Alors, la couleur, c'est
+
+290
+00:15:31.610 --> 00:15:35.730
+f quatre des sept.
+
+291
+00:15:36.710 --> 00:15:39.170
+Voilà. Et j'ai une bordure
+
+292
+00:15:41.000 --> 00:15:42.490
+avec un rayon de 15.
+
+293
+00:15:42.780 --> 00:15:44.410
+C'est ce que j'ai mis à peu près partout.
+
+294
+00:15:45.180 --> 00:15:46.800
+Voilà donc ensuite,
+
+295
+00:15:46.800 --> 00:15:49.680
+on veut pouvoir mettre un titre avec écrit f AQ tout simple.
+
+296
+00:15:50.700 --> 00:15:55.560
+Voilà un titre en h qu'on va centrer lequel on veut
+
+297
+00:15:56.980 --> 00:16:00.920
+fq et ensuite
+
+298
+00:16:01.900 --> 00:16:05.990
+on a un module qui s'appelle Soit va et vient,
+
+299
+00:16:07.900 --> 00:16:09.200
+on a soit ce module là,
+
+300
+00:16:10.910 --> 00:16:13.160
+soit le module accordéon.
+
+301
+00:16:13.160 --> 00:16:17.750
+Il me semble accordéon ici.
+
+302
+00:16:18.390 --> 00:16:21.750
+Alors il y a la seule différence qu'il y a entre les deux.
+
+303
+00:16:21.750 --> 00:16:23.350
+Je met à jour, on va regarder ensemble.
+
+304
+00:16:28.330 --> 00:16:29.590
+Il n'y a pas beaucoup de différences entre
+
+305
+00:16:29.590 --> 00:16:30.670
+les deux, ce qui va de faire la même chose.
+
+306
+00:16:30.670 --> 00:16:33.510
+Mais voilà le l'accordéon.
+
+307
+00:16:33.650 --> 00:16:36.910
+Le premier va être ouvert de base. Alors que va et vient?
+
+308
+00:16:37.170 --> 00:16:38.270
+Il y aura seulement les titres.
+
+309
+00:16:38.270 --> 00:16:41.630
+Il faudra les ouvrir et les fermer accordéon.
+
+310
+00:16:41.630 --> 00:16:43.310
+Il sera ouvert en fait de base
+
+311
+00:16:46.580 --> 00:16:50.380
+là accordéon.
+
+312
+00:16:50.380 --> 00:16:54.270
+Il sera donc ouvert de base quand par exemple,
+
+313
+00:16:55.130 --> 00:16:56.910
+si je ferme les deux que je rafraîchis ma page,
+
+314
+00:16:57.060 --> 00:17:00.710
+j'en aurai toujours un normalement qui se rouvre.
+
+315
+00:17:00.730 --> 00:17:02.070
+Le premier sera toujours ouvert.
+
+316
+00:17:03.060 --> 00:17:04.550
+Donc ce n'est pas très dérangeant,
+
+317
+00:17:05.650 --> 00:17:07.220
+mais ça peut prendre un peu de place sur la
+
+318
+00:17:07.240 --> 00:17:08.340
+sur la page pour rien.
+
+319
+00:17:08.610 --> 00:17:12.040
+Donc moi, j'ai tendance à préférer, va et vient après.
+
+320
+00:17:12.210 --> 00:17:15.680
+C'est, c'est comme
+
+321
+00:17:16.350 --> 00:17:17.720
+vous préférez vous.
+
+322
+00:17:18.140 --> 00:17:19.400
+Il n'y a pas vraiment de règle.
+
+323
+00:17:20.910 --> 00:17:24.880
+Donc du coup pour va et vient donc moi, j'ai gardé,
+
+324
+00:17:24.940 --> 00:17:26.760
+va et vient effacer celui ci.
+
+325
+00:17:28.070 --> 00:17:29.840
+Donc ça se présente comme ça. C'est tout simple.
+
+326
+00:17:30.260 --> 00:17:33.080
+Ici, je peux choisir l'icône.
+
+327
+00:17:34.100 --> 00:17:36.320
+Je Peux choisir vraiment l'icône que je veux.
+
+328
+00:17:37.240 --> 00:17:39.260
+Je peux mettre pour mettre le panier,
+
+329
+00:17:39.560 --> 00:17:40.980
+ça fait vraiment automatiquement.
+
+330
+00:17:43.000 --> 00:17:46.420
+Et je peux choisir une fois que c'est actif ou quand c'est
+
+331
+00:17:46.420 --> 00:17:47.980
+actif, pas la quand c'est fermé.
+
+332
+00:17:49.710 --> 00:17:53.320
+Ensuite, je peux choisir également si je veux que mon icône
+
+333
+00:17:53.810 --> 00:17:56.720
+passe à droite, moi, je vais laissé à droite
+
+334
+00:17:59.670 --> 00:18:02.810
+et ensuite du coup espace entre ça,
+
+335
+00:18:02.810 --> 00:18:04.370
+c'est l'espace entre les différents titres.
+
+336
+00:18:07.130 --> 00:18:11.070
+Moi, je vais laisser deux bases. Ça c'est pour le titre.
+
+337
+00:18:11.130 --> 00:18:12.590
+Je peux mettre un arrière plan sur le titre,
+
+338
+00:18:12.650 --> 00:18:15.190
+une couleur différente, pareil pour le contenu.
+
+339
+00:18:15.370 --> 00:18:16.670
+On peut mettre une couleur sur le contenu
+
+340
+00:18:17.250 --> 00:18:18.590
+et pas sur le titre par exemple.
+
+341
+00:18:20.680 --> 00:18:23.090
+Donc on va le laisser d'origine également.
+
+342
+00:18:26.840 --> 00:18:28.500
+On va mettre après,
+
+343
+00:18:28.690 --> 00:18:32.380
+peut mettre un arrière plan de couleur, par exemple.
+
+344
+00:18:34.600 --> 00:18:35.780
+Par exemple, on peut faire ça.
+
+345
+00:18:35.780 --> 00:18:37.140
+On peut mettre pareil sur les titres
+
+346
+00:18:37.660 --> 00:18:39.860
+arrière plan blanc et ou comme ça, ça fait
+
+347
+00:18:41.080 --> 00:18:43.580
+ça laisse le derrière blanc comme ça.
+
+348
+00:18:43.720 --> 00:18:46.620
+On peut ajouter une bordure que moi sur le mien, on
+
+349
+00:18:50.790 --> 00:18:53.190
+peut mettre une bordure de 15.
+
+350
+00:18:53.290 --> 00:18:57.800
+Par exemple, je que ça fonctionne, fonctionne pas,
+
+351
+00:18:59.700 --> 00:19:00.720
+ça ne sert pas à grand chose.
+
+352
+00:19:00.910 --> 00:19:02.640
+Mais donc voilà comment faire.
+
+353
+00:19:03.540 --> 00:19:05.160
+Et pour, pour ce qui est du contenu,
+
+354
+00:19:05.410 --> 00:19:07.240
+quand on clique sur va et vient ici,
+
+355
+00:19:07.300 --> 00:19:09.280
+on peut modifier le titre ici.
+
+356
+00:19:09.830 --> 00:19:12.440
+Bonjour, et là dedans. Je m'appelle.
+
+357
+00:19:17.630 --> 00:19:18.650
+Voilà par exemple,
+
+358
+00:19:19.590 --> 00:19:21.850
+si ensuite le titre on peut faire pareil pour le titre
+
+359
+00:19:21.920 --> 00:19:24.410
+deux, au revoir.
+
+360
+00:19:25.070 --> 00:19:27.850
+Après, vous avez tout fait compris le principe.
+
+361
+00:19:28.270 --> 00:19:31.530
+Je peux les ouvrir, les fermer et ajouter des nouveaux
+
+362
+00:19:31.530 --> 00:19:35.170
+éléments et dupliqué, un élément comme ceci.
+
+363
+00:19:35.950 --> 00:19:37.730
+Voilà pas plus compliqué que ça.
+
+364
+00:19:41.010 --> 00:19:43.740
+Pour les FAQ, ça peut être pratique d'avoir un système
+
+365
+00:19:43.740 --> 00:19:44.860
+de questions réponses ici.
+
+366
+00:19:46.760 --> 00:19:49.900
+Ça permet aux clients avant d'acheter sur la page produit
+
+367
+00:19:50.360 --> 00:19:54.220
+sur la fiche produit de pouvoir voir les temps de livraison,
+
+368
+00:19:55.640 --> 00:19:57.500
+la qualité de vos produits d'ou viennent des
+
+369
+00:19:57.500 --> 00:19:58.780
+produits, etc, etc.
+
+370
+00:19:58.920 --> 00:20:00.820
+Ça peut être intéressant d'avoir une
+
+371
+00:20:00.860 --> 00:20:01.980
+f FAQ sur la fiche produit.
+
+372
+00:20:02.840 --> 00:20:04.540
+Encore une fois, pas d'obligation c.
+
+373
+00:20:05.470 --> 00:20:09.820
+C'est juste une recommandation, mais rien n'est obligé.
+
+374
+00:20:11.890 --> 00:20:14.260
+Donc voilà donc moi, je pas la styliser en vidéo.
+
+375
+00:20:14.260 --> 00:20:18.620
+Ça sert à rien. Comme je vais laisser comme ça.
+
+376
+00:20:18.620 --> 00:20:21.660
+Comme ça, on peut voir qu'on a notre fiche produit ici.
+
+377
+00:20:24.690 --> 00:20:27.700
+Donc voilà, on a notre fich produit j raf.
+
+378
+00:20:28.090 --> 00:20:29.340
+J'ai rafraîchir comme ça.
+
+379
+00:20:30.990 --> 00:20:32.410
+Voilà là, on peut voir qu'on a notre
+
+380
+00:20:32.590 --> 00:20:33.810
+je produit avec notre f FAQ.
+
+381
+00:20:34.240 --> 00:20:37.490
+Donc il manque de la marche ici.
+
+382
+00:20:37.490 --> 00:20:39.690
+Il manque quelques petits trucs pour que
+
+383
+00:20:39.690 --> 00:20:40.810
+ce soit plus propre.
+
+384
+00:20:40.880 --> 00:20:43.370
+Mais ça, on ne veut pas faire de mise en page ensemble comme
+
+385
+00:20:43.370 --> 00:20:46.490
+ça, ça ne ser pas à grand chose de façon,
+
+386
+00:20:46.560 --> 00:20:49.040
+vous vous commencez à avoir bien compris les mentors,
+
+387
+00:20:49.040 --> 00:20:51.080
+je pense, on a vu quand même beaucoup de choses durant
+
+388
+00:20:51.450 --> 00:20:53.040
+cette première vidéo.
+
+389
+00:20:54.510 --> 00:20:57.560
+Donc voilà, lai. Je produits se présente comme ça.
+
+390
+00:20:57.580 --> 00:21:00.440
+Moi, j'ai retouchais des différents effets en CSS
+
+391
+00:21:01.870 --> 00:21:04.280
+pour avoir quelque chose de plus présentable.
+
+392
+00:21:05.660 --> 00:21:07.150
+Mais sinon, c'est comme ça.
+
+393
+00:21:07.150 --> 00:21:08.470
+Donc qu'on crée la fiche produit.
+
+394
+00:21:09.060 --> 00:21:11.670
+Donc, si, comme vous l'avez vu avant
+
+395
+00:21:12.330 --> 00:21:14.430
+sur n'importe quel veilleux sur laquelle on ira,
+
+396
+00:21:15.260 --> 00:21:20.010
+on aura donc on aura donc
+
+397
+00:21:20.710 --> 00:21:22.930
+la même mise en page pour toutes.
+
+398
+00:21:29.820 --> 00:21:32.110
+Nous voilà comme ça. On a la même mise en page pour toutes.
+
+399
+00:21:32.220 --> 00:21:35.880
+Donc c comme plus agréable comme ça,
+
+400
+00:21:36.540 --> 00:21:38.720
+ça a évité de créer une fiche produit à chaque fois,
+
+401
+00:21:38.780 --> 00:21:39.840
+à chaque fois qu'on a juste un produit
+
+402
+00:21:39.860 --> 00:21:41.080
+de fich produits différents.
+
+403
+00:21:41.500 --> 00:21:43.120
+Là, au moins ça se duplique automatiquement.
+
+404
+00:21:43.460 --> 00:21:45.840
+Et c'est, c'est un fini ici.
+
+405
+00:21:46.300 --> 00:21:48.520
+Si l'équipe produit a des produits demain après demain,
+
+406
+00:21:48.520 --> 00:21:50.040
+dans six mois, la fiche produit
+
+407
+00:21:50.560 --> 00:21:51.600
+s'appliquera toujours en dessous.
+
+408
+00:21:52.230 --> 00:21:55.200
+Donc c'est comme plus agréable, même pour nous,
+
+409
+00:21:55.200 --> 00:21:57.640
+en tant qu l'intégrateur, ça nous évite à chaque fois qu'il
+
+410
+00:21:57.640 --> 00:21:59.200
+y a un produit qui doit être ajouté de créer une fiche,
+
+411
+00:21:59.740 --> 00:22:03.520
+pas au moins, c'est beaucoup plus simple, c'est automatique.
+
+412
+00:22:04.070 --> 00:22:05.840
+Donc on en a terminé pour cette
+
+413
+00:22:06.460 --> 00:22:08.080
+vidéo sur les sur la fiche produit
+
+414
+00:22:09.390 --> 00:22:10.850
+sur la mise en place de la fiche produit.
+
+415
+00:22:12.230 --> 00:22:16.250
+Et donc on se retrouvera dans la huitième vidéo pour ce que
+
+416
+00:22:16.250 --> 00:22:17.370
+l'on appelle le check out.
+
+417
+00:22:17.660 --> 00:22:22.560
+C'est la personnalisation de
+
+418
+00:22:22.560 --> 00:22:25.880
+la page commande avec une page de remerciements desselles
+
+419
+00:22:25.880 --> 00:22:29.600
+pour faire de la vente croisée, etc, etc.
+
+420
+00:22:29.670 --> 00:22:31.280
+Donc on, ça se passera sur cette page
+
+421
+00:22:31.280 --> 00:22:32.400
+qui est la page commande.
+
+422
+00:22:35.690 --> 00:22:36.980
+Donc voilà. Pour l'instant,
+
+423
+00:22:37.000 --> 00:22:38.660
+on a sept pages en page commande.
+
+424
+00:22:38.830 --> 00:22:40.340
+Comme vous le voyez, c'est moche.
+
+425
+00:22:40.340 --> 00:22:43.580
+Le panier est actuellement, c'est moche, nous on le fera,
+
+426
+00:22:44.840 --> 00:22:49.460
+on le rendra un peu plus beaux des modèles de page commande
+
+427
+00:22:50.080 --> 00:22:51.540
+et de paniers, etc.
+
+428
+00:22:51.970 --> 00:22:53.460
+Donc on verra ça dans la huitième.
+
+429
+00:22:53.520 --> 00:22:57.180
+Et donc dernière vidéo de ce gros module d'intégration.
+
+430
+00:22:58.680 --> 00:23:01.580
+Je vous remercie d'avoir regardé cette vidéo là et on se
+
+431
+00:23:01.700 --> 00:23:03.220
+retrouve très vite pour la huitième vidéo.
+
+432
+00:23:03.360 --> 00:23:03.740
+À bientôt.

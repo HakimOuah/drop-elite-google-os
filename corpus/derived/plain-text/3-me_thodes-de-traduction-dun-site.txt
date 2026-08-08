@@ -1,0 +1,19 @@
+3 méthodes
+Via un logiciel en API
+Avantages : Rapide et fiable, SEO correct et rapide à mettre en place.
+Désavantage : Non flexible.
+Référence : https://weglot.com/
+Via un logiciel en multisites 
+Avantage : La solution la plus flexible
+Désavantage : Long à mettre en place
+Référence : https://multilingualpress.org/
+Via un plugin :
+Avantages : Solution intermédiaire niveau flexibilité et durée 
+d’implémentation
+Désavantage : Risque de bugs / incompatibilité
+Référence : https://polylang.pro/
+de traduction
+d’un site
+.
+.
+.

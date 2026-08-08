@@ -1,0 +1,8853 @@
+WEBVTT
+
+1
+00:00:05.780 --> 00:00:09.060
+J'écris un mini message et j'arrive. C'est Aymeric.
+
+2
+00:00:31.450 --> 00:00:32.880
+Ok, allez-y.
+
+3
+00:00:33.640 --> 00:00:36.840
+Je partage mon écran.
+
+4
+00:00:37.760 --> 00:00:38.720
+En espérant que ça marche.
+
+5
+00:00:43.900 --> 00:00:46.380
+Je dis « en espérant que ça marche » parce que juste avant était en call avec
+
+6
+00:00:46.400 --> 00:00:49.900
+Valentin et quand j'ai Antigravity qui tourne, mon
+
+7
+00:00:50.660 --> 00:00:51.680
+MacBook ne suit plus.
+
+8
+00:00:52.900 --> 00:00:56.820
+Ce coup-ci, on a la niche
+
+9
+00:00:56.830 --> 00:01:00.560
+des luminaires, qui est assez énorme pour le coup.
+
+10
+00:01:01.120 --> 00:01:01.340
+Oui.
+
+11
+00:01:02.320 --> 00:01:02.900
+On a fait
+
+12
+00:01:04.300 --> 00:01:06.120
+le travail de
+
+13
+00:01:07.120 --> 00:01:10.840
+calculer l'average price sold. On l'a vraiment bien fait en prenant le
+
+14
+00:01:10.860 --> 00:01:13.340
+shopping, les premiers résultats, en allant sur Amazon, etc.
+
+15
+00:01:14.500 --> 00:01:18.240
+Et il me semble que Valentin, tu scrapais toutes les infos et tu faisais la
+
+16
+00:01:18.300 --> 00:01:19.580
+moyenne avec Claude.
+
+17
+00:01:21.700 --> 00:01:21.820
+Donc
+
+18
+00:01:22.720 --> 00:01:26.400
+ça, c'est plutôt accurate, parce qu'il nous donnait le ratio rentabilité.
+
+19
+00:01:26.720 --> 00:01:29.820
+Ensuite, on avait un prix médian. Là, j'ai mis la barre haute du prix médian.
+
+20
+00:01:31.000 --> 00:01:34.320
+Je scrapais la première page pour chaque terme de tous les produits pour nous
+
+21
+00:01:34.340 --> 00:01:35.500
+donner un ordre de prix,
+
+22
+00:01:36.540 --> 00:01:37.980
+pour avoir une idée des marges
+
+23
+00:01:39.260 --> 00:01:42.640
+qui sont possibles à effectuer avec un pourcentage, et avec nos
+
+24
+00:01:42.820 --> 00:01:46.800
+ranges en low range, en middle range et high range.
+
+25
+00:01:48.380 --> 00:01:51.320
+On s'est basé là-dessus. Ensuite,
+
+26
+00:01:52.740 --> 00:01:53.760
+j'ai commencé à faire
+
+27
+00:01:54.860 --> 00:01:57.020
+l'arborescence, qui est juste énorme.
+
+28
+00:01:58.080 --> 00:02:00.460
+Énorme parce qu'elle est allée de cette manière-là.
+
+29
+00:02:00.860 --> 00:02:04.700
+Oui, en vrai, je ne vous l'ai pas dit la dernière fois, mais le plus simple,
+
+30
+00:02:05.100 --> 00:02:06.400
+avant de faire tout ce travail,
+
+31
+00:02:07.360 --> 00:02:07.800
+c'est de faire
+
+32
+00:02:10.220 --> 00:02:11.280
+presque un export
+
+33
+00:02:12.100 --> 00:02:16.030
+SEMrush sur luminaire, où ça va lister toutes les collections KD, volumes
+
+34
+00:02:16.060 --> 00:02:19.620
+et tout, et faire à la limite sur les 10 premières collections RR.
+
+35
+00:02:19.700 --> 00:02:23.400
+Là, vous avez fait le RR, plus les prix Ali, plus un
+
+36
+00:02:23.420 --> 00:02:23.740
+gros...
+
+37
+00:02:25.880 --> 00:02:29.100
+Je ne sais plus le nom que ça a, le doc que tu as mis juste après, la mind map.
+
+38
+00:02:30.640 --> 00:02:34.400
+Tout ça, si je vous dis : « Bon, bof. » Vous avez passé une heure
+
+39
+00:02:34.440 --> 00:02:34.800
+facile
+
+40
+00:02:35.840 --> 00:02:36.120
+perdue.
+
+41
+00:02:36.900 --> 00:02:39.400
+Tu es gentil, oui. On apprécie.
+
+42
+00:02:41.960 --> 00:02:45.840
+En tout cas, on verra, on va en parler, mais ne vous
+
+43
+00:02:45.880 --> 00:02:49.780
+emmerdez pas autant. En tout cas, moi, je trouve que c'est un
+
+44
+00:02:49.860 --> 00:02:53.720
+peu perte de temps de faire tout ça, même si effectivement, j'ai plus de données
+
+45
+00:02:53.760 --> 00:02:57.180
+pour analyser. Mais si je trouve que c'est intéressant, je vous demande
+
+46
+00:02:57.200 --> 00:02:59.140
+d'approfondir et comme ça, là, vous passez du temps.
+
+47
+00:03:00.460 --> 00:03:03.460
+Sachez-le pour les prochaines fois.
+
+48
+00:03:03.980 --> 00:03:05.100
+Quels sont les éléments
+
+49
+00:03:06.400 --> 00:03:08.000
+qu'il te faudrait, toi, par exemple, pour
+
+50
+00:03:09.040 --> 00:03:09.840
+la première étape ?
+
+51
+00:03:09.900 --> 00:03:13.560
+En gros, là, j'imagine que c'est un export SEMrush jusqu'à
+
+52
+00:03:13.880 --> 00:03:14.060
+KD.
+
+53
+00:03:14.860 --> 00:03:18.490
+On est d'accord ? Ça, plus le RR sur les 10 premières,
+
+54
+00:03:19.400 --> 00:03:19.940
+ça me suffit.
+
+55
+00:03:20.700 --> 00:03:22.960
+On ne l'a fait pas non plus sur rien, mais on l'a fait sur-
+
+56
+00:03:23.300 --> 00:03:26.220
+Oui, mais c'est tout le côté à droite, plus le mind map.
+
+57
+00:03:26.300 --> 00:03:28.880
+Le mind map, presque, je m'en fous.
+
+58
+00:03:28.940 --> 00:03:30.410
+C'est vraiment juste les collections pour moi.
+
+59
+00:03:30.940 --> 00:03:34.210
+Et après, on fait le mind map si je trouve que c'est intéressant et là, vous passez
+
+60
+00:03:34.240 --> 00:03:34.740
+du temps à le faire.
+
+61
+00:03:35.620 --> 00:03:37.600
+Ok. Donc là, j'ai un petit seum si tu ne valides pas.
+
+62
+00:03:41.240 --> 00:03:43.480
+En fait, ce qui m'emmerde avec luminaire, c'est
+
+63
+00:03:43.580 --> 00:03:46.520
+comme si tu mettais...
+
+64
+00:03:50.060 --> 00:03:52.200
+Comment je peux trouver un exemple parlant
+
+65
+00:03:54.100 --> 00:03:56.700
+? Luminaire, c'est le type de produit.
+
+66
+00:03:58.300 --> 00:04:00.140
+Quand tu mets « luminaire salon », tu as de tout.
+
+67
+00:04:03.240 --> 00:04:04.680
+Je ne sais pas comment expliquer ça, mais
+
+68
+00:04:07.240 --> 00:04:09.579
+j'aurais essayé de nicher dans luminaire.
+
+69
+00:04:10.000 --> 00:04:13.880
+C'est bizarre qu'il y ait de la requête, donc peut-être
+
+70
+00:04:13.920 --> 00:04:17.640
+que ça fonctionne. Qu'est-ce qui se passe quand tu mets « luminaire salle de bain »
+
+71
+00:04:17.661 --> 00:04:19.731
+? Vas-y, fais un Google, montre-nous.
+
+72
+00:04:20.519 --> 00:04:22.960
+Je n'ai pas mon VPN, ça va me ramener en tailleur.
+
+73
+00:04:23.380 --> 00:04:27.280
+Au pire, je le fais. Attends. « Luminaire salle
+
+74
+00:04:27.300 --> 00:04:27.820
+de bain », j'ai dit
+
+75
+00:04:28.660 --> 00:04:28.660
+?
+
+76
+00:04:28.820 --> 00:04:29.219
+Oui.
+
+77
+00:04:29.500 --> 00:04:30.600
+Qu'est-ce qui sort ?
+
+78
+00:04:32.480 --> 00:04:32.880
+De tout.
+
+79
+00:04:34.640 --> 00:04:36.280
+Donc en fait,
+
+80
+00:04:39.640 --> 00:04:41.300
+pourquoi pas, mais
+
+81
+00:04:42.720 --> 00:04:45.720
+déjà, vous allez être plus larges parce qu'il faudra sûrement découper par type de
+
+82
+00:04:45.740 --> 00:04:46.340
+luminaire, donc
+
+83
+00:04:47.340 --> 00:04:49.080
+au final, toutes les sous-niches de luminaires.
+
+84
+00:04:49.100 --> 00:04:49.520
+Et de deux,
+
+85
+00:04:51.160 --> 00:04:54.100
+les CTR
+
+86
+00:04:54.400 --> 00:04:58.300
+en général, donc Google Ads et sur votre site,
+
+87
+00:04:59.060 --> 00:04:59.870
+ils vont être plus bas et
+
+88
+00:05:01.460 --> 00:05:02.980
+du coup, le taux de rebond aussi, parce que
+
+89
+00:05:04.080 --> 00:05:05.460
+quelqu'un qui recherche, j'en sais rien,
+
+90
+00:05:06.400 --> 00:05:06.880
+un lustre,
+
+91
+00:05:08.060 --> 00:05:11.860
+s'il n'y en a pas beaucoup sur la page où vous renvoyez, il va quitter.
+
+92
+00:05:12.120 --> 00:05:12.820
+Tu vois ce que je veux dire
+
+93
+00:05:13.700 --> 00:05:15.940
+? C'est là où ça me fait un peu peur, c'est sur ça.
+
+94
+00:05:16.220 --> 00:05:20.120
+CTR Google Ads et le taux de rebond, je pense, ou alors, il faut bien
+
+95
+00:05:20.160 --> 00:05:21.920
+faire le site, mais du coup, vous allez être super larges.
+
+96
+00:05:22.780 --> 00:05:23.000
+C'est ça qui
+
+97
+00:05:24.040 --> 00:05:25.560
+m'embête un peu.
+
+98
+00:05:25.600 --> 00:05:29.260
+J'ai classifié. Il y a un côté, où il y a les différents types.
+
+99
+00:05:30.800 --> 00:05:33.760
+Je vais avoir un extérieur, pareil, après, différents types, niveau extérieur.
+
+100
+00:05:33.800 --> 00:05:36.400
+Je vais avoir par pièce : salon, cuisine, chambre, etc.
+
+101
+00:05:38.300 --> 00:05:38.840
+Par style
+
+102
+00:05:40.680 --> 00:05:42.120
+et par matériau.
+
+103
+00:05:42.740 --> 00:05:42.960
+Oui.
+
+104
+00:05:44.600 --> 00:05:45.000
+En soi,
+
+105
+00:05:46.500 --> 00:05:47.660
+pour le coup, c'est une grosse niche.
+
+106
+00:05:47.940 --> 00:05:48.160
+Elle est
+
+107
+00:05:49.180 --> 00:05:53.140
+presque trop large. Comme je l'ai expliqué, dans le sens où dans les
+
+108
+00:05:53.180 --> 00:05:56.670
+luminaires salon, tu as les appliques, les lustres,
+
+109
+00:05:58.740 --> 00:06:01.860
+les plafonniers, tout ce genre de sous-niches qu'il y a dedans.
+
+110
+00:06:02.080 --> 00:06:06.020
+C'est très large. Après, il y a du volume, les RR ont l'air
+
+111
+00:06:06.080 --> 00:06:09.640
+OK. Les KD aussi. Les
+
+112
+00:06:09.680 --> 00:06:13.440
+CPC, c'est normal que luminaire de base
+
+113
+00:06:13.460 --> 00:06:16.820
+soit à 0,73, c'est le mot-clé ultra-générique.
+
+114
+00:06:16.860 --> 00:06:20.492
+Extérieur, il est un peu cher45 extérieur
+
+115
+00:06:20.532 --> 00:06:21.272
+encore.
+
+116
+00:06:22.772 --> 00:06:26.172
+Ils sont à peu près OK. Si on retire ceux-là, ils sont à peu près à 30, 25
+
+117
+00:06:26.212 --> 00:06:27.092
+centimes, donc c'est bien.
+
+118
+00:06:32.612 --> 00:06:34.532
+La dernière fois, vous étiez trop
+
+119
+00:06:35.752 --> 00:06:37.872
+petit, là, vous êtes trop gros, je pense.
+
+120
+00:06:38.752 --> 00:06:42.572
+On a réussi à trouver des termes dans les 40 000, 50 000.
+
+121
+00:06:42.732 --> 00:06:43.432
+Donc là, on a trouvé.
+
+122
+00:06:44.392 --> 00:06:45.142
+Dans les luminaires,
+
+123
+00:06:47.432 --> 00:06:49.492
+essaye applique ou...
+
+124
+00:06:52.752 --> 00:06:54.892
+Je ne sais plus ce qu'il y a en type de luminaire, mais
+
+125
+00:06:56.072 --> 00:06:59.692
+tous ceux-là, tous les sous-types de luminaires, ils sont bons en termes de volume.
+
+126
+00:07:03.352 --> 00:07:03.472
+Oui.
+
+127
+00:07:08.832 --> 00:07:12.232
+Tu as suspension. Tu as suspension, tu as applique murale, tu as
+
+128
+00:07:12.312 --> 00:07:13.072
+plafonnier.
+
+129
+00:07:14.252 --> 00:07:16.872
+Par exemple, tu veux dire que suspension, ça pourrait être la niche ?
+
+130
+00:07:16.912 --> 00:07:17.092
+Oui.
+
+131
+00:07:18.072 --> 00:07:18.612
+OK.
+
+132
+00:07:18.632 --> 00:07:21.372
+Plafonnier, ça peut être la niche, applique, ça peut être la niche, spot, ça peut
+
+133
+00:07:21.392 --> 00:07:24.451
+être la niche, LED, ça peut être la niche. Lampadaire, ça peut être la niche.
+
+134
+00:07:24.511 --> 00:07:27.792
+Tout ça, ce sont des niches. Ce sont les sous-niches de luminaire.
+
+135
+00:07:28.552 --> 00:07:29.652
+OK, je capte.
+
+136
+00:07:31.432 --> 00:07:32.972
+Je ne sais pas si tu as un SEMrush ouvert ou
+
+137
+00:07:33.912 --> 00:07:35.092
+un Ahrefs ou peu importe.
+
+138
+00:07:36.292 --> 00:07:37.102
+Tu en testes un,
+
+139
+00:07:38.092 --> 00:07:39.162
+applique murale par exemple,
+
+140
+00:07:40.192 --> 00:07:42.142
+et tu auras les volumes. Logiquement,
+
+141
+00:07:43.232 --> 00:07:44.332
+tu es très bien
+
+142
+00:07:45.772 --> 00:07:49.612
+et tu es mieux niché dans le sens où la personne qui
+
+143
+00:07:49.672 --> 00:07:52.952
+va taper applique murale, elle veut une applique murale.
+
+144
+00:07:53.092 --> 00:07:54.072
+Luminaire,
+
+145
+00:07:54.992 --> 00:07:58.992
+c'est
+
+146
+00:07:59.002 --> 00:08:02.872
+un peu large, je pense. J'aurais peur de ça, en tout cas, d'avoir un CTR un
+
+147
+00:08:02.912 --> 00:08:04.712
+peu pourri et donc galérer un peu.
+
+148
+00:08:07.572 --> 00:08:08.712
+Mais peut-être que je ne me trompe.
+
+149
+00:08:09.242 --> 00:08:11.292
+Tu vois, tu as 50 000 clics sur applique murale ?
+
+150
+00:08:11.972 --> 00:08:14.752
+Où ça ?
+
+151
+00:08:14.812 --> 00:08:16.891
+Premier keyword en idée.
+
+152
+00:08:18.172 --> 00:08:18.512
+Ah oui, OK.
+
+153
+00:08:18.972 --> 00:08:22.872
+Oui. Fais
+
+154
+00:08:22.892 --> 00:08:24.292
+voir tous les mots clés maintenant.
+
+155
+00:08:26.172 --> 00:08:28.132
+Tu peux aller dans « Exact » : tu as les
+
+156
+00:08:29.572 --> 00:08:30.992
+mots clés exacts au départ.
+
+157
+00:08:31.992 --> 00:08:35.732
+Et là, tu as une idée de la niche. Cette vue-là me suffit
+
+158
+00:08:35.773 --> 00:08:39.512
+presque. Et là, on est aux 50 000. Le mot clé, déjà, il est à 50.
+
+159
+00:08:40.512 --> 00:08:40.653
+Oui.
+
+160
+00:08:40.992 --> 00:08:42.052
+Il y a plein de sous-collections.
+
+161
+00:08:42.952 --> 00:08:45.172
+Tu peux descendre, il y a beaucoup de sous-collections.
+
+162
+00:08:46.232 --> 00:08:47.452
+Elle est ouf. OK.
+
+163
+00:08:47.712 --> 00:08:51.632
+Là, voilà un exemple. Luminaire, encore
+
+164
+00:08:51.672 --> 00:08:54.792
+une fois, on peut essayer d'analyser, mais je serais plus à
+
+165
+00:08:55.432 --> 00:08:58.052
+choisir du luminaire, j'irais dans une sous-niche.
+
+166
+00:08:58.692 --> 00:09:02.652
+Là, je suis sûr qu'au niveau CTR, je n'ai pas de la fausse recherche et des taux
+
+167
+00:09:02.672 --> 00:09:03.572
+de rebond de m***e, etc.
+
+168
+00:09:04.992 --> 00:09:07.672
+Non, mais on est vraiment niché dans cette sous-niche de l'applique murale.
+
+169
+00:09:07.692 --> 00:09:11.472
+Et encore mieux pour Google aussi, en termes de SEO, vous allez vous positionner
+
+170
+00:09:11.572 --> 00:09:13.392
+beaucoup plus simplement que si vous faites tous les luminaires.
+
+171
+00:09:14.492 --> 00:09:16.952
+Exact. Ok, cool. Je capte un peu l'idée.
+
+172
+00:09:17.092 --> 00:09:19.472
+Luminaire, comme tu dis, c'est trop large. Je capte maintenant ce que tu veux dire.
+
+173
+00:09:20.272 --> 00:09:21.512
+Après, ça se fait.
+
+174
+00:09:22.992 --> 00:09:23.892
+Le seul souci,
+
+175
+00:09:25.032 --> 00:09:27.932
+ce n'est pas grave d'être trop large parce qu'en Google Ads, vous aurez tout et
+
+176
+00:09:27.972 --> 00:09:28.832
+vous allez tout tester.
+
+177
+00:09:29.812 --> 00:09:31.832
+Il y aura un truc qui va marcher, mais
+
+178
+00:09:32.832 --> 00:09:35.532
+c'est surtout les CTR et les taux de rebond qui me font peur.
+
+179
+00:09:35.792 --> 00:09:36.692
+Et le positionnement SEO.
+
+180
+00:09:37.572 --> 00:09:40.792
+Là où vous le corrigez, par exemple, sur applique murale.
+
+181
+00:09:41.472 --> 00:09:42.992
+Parce qu'au moins, on est vraiment ciblé.
+
+182
+00:09:43.032 --> 00:09:44.792
+Parce que là, vous êtes spécialiste de ça.
+
+183
+00:09:45.432 --> 00:09:48.932
+Oui. Ok. Ça roule dans ce cas, au moins on a une
+
+184
+00:09:48.972 --> 00:09:50.991
+piste. Ensuite, on avait une autre idée.
+
+185
+00:09:51.192 --> 00:09:55.032
+Là, je ne l'ai pas autant creusée en faisant l'arborescence. On a déjà fait ça.
+
+186
+00:09:55.062 --> 00:09:58.272
+Ce sont les housses de couette. Les performances sont un peu moins
+
+187
+00:09:58.312 --> 00:10:01.872
+intéressantes tout de même, mais le volume est quand même intéressant.
+
+188
+00:10:01.901 --> 00:10:04.072
+Housse de couette, on ne peut pas se tromper.
+
+189
+00:10:04.092 --> 00:10:05.472
+Après, différents types de housses de couette.
+
+190
+00:10:06.772 --> 00:10:07.552
+Mais tu vois, le RR,
+
+191
+00:10:08.872 --> 00:10:09.192
+on est
+
+192
+00:10:10.272 --> 00:10:12.952
+pas mal, mais on n'est pas aussi bien que des luminaires.
+
+193
+00:10:12.961 --> 00:10:16.802
+Mais c'est quand même plus simple en termes de shipment qu'un luminaire.
+
+194
+00:10:16.952 --> 00:10:20.132
+Les marges peut-être un peu plus faibles. Oui, carrément.
+
+195
+00:10:20.612 --> 00:10:24.472
+Ça, ça va être chaud de faire de la pub, par exemple. Là, OK.
+
+196
+00:10:27.612 --> 00:10:30.732
+Essayez de m'expliquer un peu votre calcul.
+
+197
+00:10:30.792 --> 00:10:34.292
+Là, c'est le prix moyen. On va prendre la première ligne, 60 balles, c'est vendu en
+
+198
+00:10:34.312 --> 00:10:38.031
+moyenne. Et vous, vous l'achetez à 30, du coup, marge de 30, c'est ça ?
+
+199
+00:10:38.091 --> 00:10:38.692
+Oui.
+
+200
+00:10:38.952 --> 00:10:42.692
+Frais Stripe, net, pourcentage de...
+
+201
+00:10:43.092 --> 00:10:45.512
+Oui. Comment vous calculez pourcentage de marge ?
+
+202
+00:10:47.072 --> 00:10:51.672
+Ah
+
+203
+00:10:51.712 --> 00:10:52.072
+oui, d'accord.
+
+204
+00:10:53.532 --> 00:10:56.492
+Même s'il y a un peu plus de trucs inclus dedans.
+
+205
+00:10:57.432 --> 00:10:59.132
+Oui, c'est avant, c'est du brut.
+
+206
+00:10:59.992 --> 00:11:00.172
+Oui.
+
+207
+00:11:01.352 --> 00:11:04.712
+En sachant qu'il faudrait
+
+208
+00:11:04.792 --> 00:11:07.152
+minimum 50 %.
+
+209
+00:11:08.272 --> 00:11:08.712
+Oui.
+
+210
+00:11:09.272 --> 00:11:11.912
+Et il y en a assez peu, c'est un peu plus compliqué.
+
+211
+00:11:12.662 --> 00:11:12.662
+On
+
+212
+00:11:14.952 --> 00:11:15.902
+le voit aussi dans les RR :
+
+213
+00:11:16.852 --> 00:11:20.422
+140, 111, 120. On dit d'aller au-dessus de 100, mais moi, je
+
+214
+00:11:20.492 --> 00:11:24.392
+conseille presque 150 parce qu'après, tes marges ne suivent pas.
+
+215
+00:11:24.732 --> 00:11:28.452
+C'est un peu compliqué. On le voit sur les produits d'après où tu as
+
+216
+00:11:28.692 --> 00:11:32.612
+300, 226. Là, tu as du 69 %, 57 %, là,
+
+217
+00:11:32.692 --> 00:11:33.012
+tu es OK.
+
+218
+00:11:34.732 --> 00:11:36.432
+Sauf qu'on a un volume un peu plus faible.
+
+219
+00:11:36.472 --> 00:11:38.032
+Oui.
+
+220
+00:11:39.572 --> 00:11:43.512
+Les CPC
+
+221
+00:11:43.592 --> 00:11:43.712
+sont
+
+222
+00:11:44.612 --> 00:11:45.132
+à 40.
+
+223
+00:11:48.312 --> 00:11:50.112
+Tu as l'avantage d'avoir un produit facile.
+
+224
+00:11:52.952 --> 00:11:55.772
+Il n'y a pas de casse, il n'y a pas d'électronique, comparé aux luminaires.
+
+225
+00:11:57.132 --> 00:11:58.652
+Le volume est très bon.
+
+226
+00:11:59.592 --> 00:12:02.512
+Par contre, tes RR sont faibles, tes CPC sont un peu hauts.
+
+227
+00:12:05.212 --> 00:12:08.752
+Du coup, tes marges ne sont pas ultra-intéressantes.
+
+228
+00:12:10.872 --> 00:12:14.492
+Un peu risqué, je dirais. Ça se crée, encore une fois, tout se fait.
+
+229
+00:12:14.612 --> 00:12:17.152
+Premier site, si vous voulez
+
+230
+00:12:18.432 --> 00:12:22.072
+être un peu plus sûr d'être sur un truc tranquille et ne pas galérer dès le début,
+
+231
+00:12:22.332 --> 00:12:25.376
+peut-être, je ne conseillerais pas ça au début.Un peu compliqué.
+
+232
+00:12:25.576 --> 00:12:28.636
+Il va falloir un moment avant que ce soit rentable.
+
+233
+00:12:30.856 --> 00:12:33.116
+Ok, ça roule. Impeccable. Salut Pierre.
+
+234
+00:12:33.176 --> 00:12:34.856
+Pourquoi c'était les deux choses ?
+
+235
+00:12:35.266 --> 00:12:35.656
+S'il y a autre chose-
+
+236
+00:12:35.776 --> 00:12:36.816
+Salut la team.
+
+237
+00:12:38.736 --> 00:12:39.436
+Salut.
+
+238
+00:12:41.696 --> 00:12:45.056
+C'est good pour nous. On va laisser la place aux autres.
+
+239
+00:12:46.276 --> 00:12:49.236
+Il y avait qu'un autre site, le deuxième, c'est Cancel.
+
+240
+00:12:50.576 --> 00:12:50.776
+OK.
+
+241
+00:12:52.696 --> 00:12:56.256
+Qu'est-ce que je voulais dire ? Essayer soit d'en trouver
+
+242
+00:12:56.316 --> 00:12:59.616
+d'autres, soit de fouiller dans les luminaires si ça vous intéresse, en sachant
+
+243
+00:12:59.656 --> 00:13:02.176
+qu'il y a des désavantages. C'est un peu technique,
+
+244
+00:13:03.076 --> 00:13:05.176
+ça peut casser, il y a un peu d'électronique.
+
+245
+00:13:05.216 --> 00:13:06.556
+Ce n'est pas vraiment de l'électronique, mais
+
+246
+00:13:07.476 --> 00:13:11.136
+ça peut tomber en panne. Mais il y a des
+
+247
+00:13:11.156 --> 00:13:13.976
+sous-niches potentiellement qui ont des points verts un peu partout.
+
+248
+00:13:15.556 --> 00:13:16.016
+Pourquoi pas
+
+249
+00:13:17.096 --> 00:13:17.096
+?
+
+250
+00:13:17.156 --> 00:13:19.016
+Ok, ça marche, on va creuser ça.
+
+251
+00:13:20.736 --> 00:13:22.676
+Comme j'ai dit au début, ne vous emmerdez pas.
+
+252
+00:13:24.076 --> 00:13:27.916
+Le deuxième doc que tu m'as montré suffisait à
+
+253
+00:13:29.676 --> 00:13:30.276
+déterminer
+
+254
+00:13:31.436 --> 00:13:32.296
+à poursuivre ou pas.
+
+255
+00:13:33.116 --> 00:13:36.316
+On prend vraiment les 10 premiers
+
+256
+00:13:36.756 --> 00:13:40.316
+termes de la niche et puis on s'arrête là pour se donner une idée.
+
+257
+00:13:41.236 --> 00:13:43.656
+C'est ça. Si
+
+258
+00:13:44.156 --> 00:13:47.836
+ça peut être intéressant, je vous le dis et vous faites toute la
+
+259
+00:13:47.916 --> 00:13:49.876
+suite que vous avez faite pour luminaires.
+
+260
+00:13:51.836 --> 00:13:52.616
+Ok, cool.
+
+261
+00:13:59.896 --> 00:14:02.976
+C'est Mathieu. Je ne sais pas si je l'ai dit, c'est David, c'est Charlotte.
+
+262
+00:14:04.836 --> 00:14:07.396
+Mika et Pierre, je l'ai dit. Pierre est reparti.
+
+263
+00:14:08.456 --> 00:14:11.716
+Vous n'avez pas d'autres questions pour la niche ?
+
+264
+00:14:12.256 --> 00:14:14.896
+Vous avez vu ma vidéo sur SEO Brèche pour trouver les niches ?
+
+265
+00:14:14.936 --> 00:14:16.276
+Je ne sais pas si je vous ai demandé la dernière fois.
+
+266
+00:14:17.576 --> 00:14:19.656
+Celle dans la formation ?
+
+267
+00:14:19.696 --> 00:14:19.856
+Oui.
+
+268
+00:14:21.376 --> 00:14:22.936
+Ça
+
+269
+00:14:23.036 --> 00:14:26.916
+marche bien. Je parle
+
+270
+00:14:26.936 --> 00:14:30.796
+d'Amazon dedans, mais franchement, on peut vraiment tout mettre en termes de
+
+271
+00:14:30.876 --> 00:14:33.456
+grosses catégories et ça peut donner beaucoup d'idées de mots clés.
+
+272
+00:14:34.416 --> 00:14:35.495
+Ça permet de trouver des niches
+
+273
+00:14:36.856 --> 00:14:37.316
+rapidement.
+
+274
+00:14:38.836 --> 00:14:42.656
+C'était surtout sur les volumes où c'était compliqué d'avoir quelque chose qui
+
+275
+00:14:42.676 --> 00:14:46.636
+était à 40 000, 50 000. Après,
+
+276
+00:14:49.736 --> 00:14:53.596
+comme j'ai dû l'expliquer la dernière fois, ça peut être moins,
+
+277
+00:14:54.096 --> 00:14:57.496
+ça peut être 25, 30, mais
+
+278
+00:14:58.296 --> 00:15:01.856
+si vous avez un panier moyen beaucoup plus élevé, ce qui fera que sur le total,
+
+279
+00:15:02.856 --> 00:15:05.056
+il y aura le CA à peu près équivalent
+
+280
+00:15:05.136 --> 00:15:08.776
+à une niche à 50 000 où tu vends à
+
+281
+00:15:08.976 --> 00:15:12.676
+40. Si ton panier moyen est à 100 balles sur une niche où tu es à 25,
+
+282
+00:15:13.096 --> 00:15:13.256
+ça
+
+283
+00:15:14.096 --> 00:15:15.056
+s'équilibre comme ça aussi.
+
+284
+00:15:15.876 --> 00:15:19.196
+À prendre en compte. Mais les luminaires, il y a un avantage,
+
+285
+00:15:19.316 --> 00:15:22.916
+c'est que le prix moyen va être haut et en plus, il y a du volume.
+
+286
+00:15:23.456 --> 00:15:25.136
+Donc pourquoi pas ?
+
+287
+00:15:26.536 --> 00:15:27.216
+Mais il y a
+
+288
+00:15:28.176 --> 00:15:31.785
+beaucoup de niches. Il faut juste passer du temps sur les
+
+289
+00:15:31.816 --> 00:15:32.196
+outils.
+
+290
+00:15:33.356 --> 00:15:34.816
+Il y a beaucoup de niches avec beaucoup de volume.
+
+291
+00:15:35.816 --> 00:15:38.416
+Après, ne vous arrêtez pas encore une fois aux 50 000.
+
+292
+00:15:39.396 --> 00:15:41.636
+J'ai dû le dire, mais ce n'est pas que le point
+
+293
+00:15:43.276 --> 00:15:46.396
+important. Vous pouvez être en dessous et que ça soit intéressant aussi.
+
+294
+00:15:47.736 --> 00:15:49.756
+Si le panier moyen le permet.
+
+295
+00:15:50.256 --> 00:15:51.136
+Ok, cool.
+
+296
+00:15:55.216 --> 00:15:59.036
+Je ne sais pas s'il y a quelqu'un qui veut passer, vu qu'on a
+
+297
+00:15:59.076 --> 00:16:03.056
+déjà fini celui-là. Je vais regarder le nom, peut-être
+
+298
+00:16:03.096 --> 00:16:03.676
+qu'il est là.
+
+299
+00:16:04.856 --> 00:16:08.636
+C'est Thomas. Thomas qui s'est désinscrit
+
+300
+00:16:08.696 --> 00:16:10.956
+parce qu'il avait un autre rendez-vous qu'il n'avait pas vu.
+
+301
+00:16:12.356 --> 00:16:13.876
+Je ne sais pas s'il y a quelqu'un qui veut passer,
+
+302
+00:16:14.496 --> 00:16:18.476
+timing hot site, s'il a un
+
+303
+00:16:18.516 --> 00:16:20.176
+truc à montrer, des questions.
+
+304
+00:16:21.556 --> 00:16:22.336
+Dites-moi tout.
+
+305
+00:16:29.236 --> 00:16:32.476
+Sinon, je ferais direct le truc Ninja Linking.
+
+306
+00:16:39.026 --> 00:16:42.216
+Dites-moi aussi pour Claude. J'ai fait la vidéo
+
+307
+00:16:43.576 --> 00:16:47.496
+pour le connecter à Shopify. Je vais en faire une pour le connecter à WooCommerce.
+
+308
+00:16:48.456 --> 00:16:52.396
+Ce sera beaucoup plus simple parce qu'il y a un
+
+309
+00:16:52.436 --> 00:16:54.236
+truc fait exprès dans WooCommerce pour ça.
+
+310
+00:16:55.216 --> 00:16:57.376
+Et je vais faire aussi une vidéo
+
+311
+00:16:59.616 --> 00:17:00.816
+où je partagerai,
+
+312
+00:17:01.936 --> 00:17:05.796
+je pense, le skill, ce qui permet de travailler les produits, qui
+
+313
+00:17:05.816 --> 00:17:09.796
+sera à modifier. Le problème de ça, c'est qu'il sera adapté
+
+314
+00:17:09.896 --> 00:17:13.676
+à une façon de faire. Ce sera une base, mais qu'il faudra
+
+315
+00:17:13.716 --> 00:17:16.336
+modifier. Je ferai une troisième vidéo où ce sera
+
+316
+00:17:17.416 --> 00:17:18.376
+exemple en live
+
+317
+00:17:20.296 --> 00:17:20.596
+de
+
+318
+00:17:21.696 --> 00:17:22.196
+Claude qui
+
+319
+00:17:23.336 --> 00:17:24.237
+s'occupe d'un produit
+
+320
+00:17:25.156 --> 00:17:27.176
+automatiquement, dont les images.
+
+321
+00:17:28.096 --> 00:17:29.956
+Le skill décrira tout ce qu'il fait.
+
+322
+00:17:30.816 --> 00:17:33.216
+À vous, après, j'expliquerai dans la vidéo d'adapter le
+
+323
+00:17:34.496 --> 00:17:36.996
+skill en fonction de vos besoins, de vos produits, de votre niche.
+
+324
+00:17:37.036 --> 00:17:40.056
+Ça peut varier des spécifications
+
+325
+00:17:40.076 --> 00:17:42.196
+des images ou du produit.
+
+326
+00:17:43.216 --> 00:17:44.816
+Ça, ce sont les trois vidéos que j'ai.
+
+327
+00:17:45.496 --> 00:17:49.236
+Je ne sais pas si vous avez d'autres idées qui seraient liées à Claude ou
+
+328
+00:17:49.376 --> 00:17:51.876
+à l'IA de manière générale, qui pourraient aider au site.
+
+329
+00:17:52.356 --> 00:17:53.736
+Je ne sais pas si vous avez des idées sur ça.
+
+330
+00:18:07.216 --> 00:18:10.256
+C'était quoi ta question ? Je n'ai pas bien compris.
+
+331
+00:18:12.636 --> 00:18:14.196
+Vu que j'ai fait la vidéo sur Shopify,
+
+332
+00:18:15.516 --> 00:18:18.016
+je vais faire la même sur WooCommerce et je vais en faire une qui intègre le
+
+333
+00:18:18.116 --> 00:18:19.236
+produit et qui montre le skill
+
+334
+00:18:20.516 --> 00:18:24.396
+que j'ai fait, qui intègre de A à Z tout ce qu'il faut dedans, qui va remplir la
+
+335
+00:18:24.416 --> 00:18:25.696
+description, les métaphiles et tout.
+
+336
+00:18:26.296 --> 00:18:29.376
+Je me disais : « Est-ce qu'il n'y a pas une idée d'autres vidéos pendant que j'y
+
+337
+00:18:29.396 --> 00:18:33.380
+suis, qui pourraient tourner après ?Qui est dans l'idée d'un
+
+338
+00:18:33.400 --> 00:18:34.980
+truc que je n'ai pas pensé direct.
+
+339
+00:18:35.440 --> 00:18:39.220
+Je n'ai pas encore terminé ta vidéo.
+
+340
+00:18:39.350 --> 00:18:41.370
+Hier, je n'ai regardé que la moitié, parce qu' étant
+
+341
+00:18:43.640 --> 00:18:46.060
+dimanche avec les gamins, j'ai un peu moins de temps.
+
+342
+00:18:47.740 --> 00:18:47.850
+Je ne
+
+343
+00:18:48.719 --> 00:18:50.080
+pense pas que tu aies oublié quelque chose.
+
+344
+00:18:50.840 --> 00:18:50.920
+Si
+
+345
+00:18:51.860 --> 00:18:51.860
+?
+
+346
+00:18:52.760 --> 00:18:56.700
+Non, pour le tuto, pour le connectage Shopify, je ne pense pas que j'ai oublié
+
+347
+00:18:56.720 --> 00:18:59.459
+un truc, mais pour des vidéos supplémentaires, qu'est-ce qui
+
+348
+00:19:01.480 --> 00:19:02.540
+serait intéressant
+
+349
+00:19:03.800 --> 00:19:05.620
+pour ajouter dans le module IA ?
+
+350
+00:19:05.820 --> 00:19:06.480
+Oui, OK.
+
+351
+00:19:09.080 --> 00:19:09.539
+Un
+
+352
+00:19:10.640 --> 00:19:13.860
+petit tuto, je pense, pour les articles de
+
+353
+00:19:13.900 --> 00:19:15.620
+blog.
+
+354
+00:19:16.540 --> 00:19:17.640
+Ça pourrait être intéressant. Je
+
+355
+00:19:20.120 --> 00:19:22.200
+crois que Pierre l'avait déjà demandé, non ?
+
+356
+00:19:24.280 --> 00:19:25.520
+C'était Pierre ou Mathieu, je ne sais plus.
+
+357
+00:19:25.560 --> 00:19:28.520
+Il y avait quelqu'un qui l'avait demandé.
+
+358
+00:19:30.940 --> 00:19:33.180
+Le truc de l'article de blog, c'est un peu chiant.
+
+359
+00:19:39.720 --> 00:19:43.580
+L'article de blog, c'est chiant parce qu'avant, il
+
+360
+00:19:43.620 --> 00:19:46.340
+faut tout le process de la strat et de
+
+361
+00:19:48.360 --> 00:19:52.240
+la structure, à quoi va ressembler le blog
+
+362
+00:19:52.280 --> 00:19:55.750
+en général, les articles, les instructions et l'intention
+
+363
+00:19:55.840 --> 00:19:58.100
+surtout. Le plus chiant, c'est l'intention.
+
+364
+00:19:58.600 --> 00:20:00.300
+Il faut un gros truc complet.
+
+365
+00:20:02.000 --> 00:20:02.380
+Je ne sais pas.
+
+366
+00:20:03.620 --> 00:20:06.000
+Moi, pour l'instant, j'avoue que je
+
+367
+00:20:07.200 --> 00:20:10.060
+donne les idées, mais c'est Wiseland qui les génère.
+
+368
+00:20:10.940 --> 00:20:14.540
+Pourquoi
+
+369
+00:20:15.180 --> 00:20:16.620
+pas. Après, le problème, c'est que c'est dur aussi.
+
+370
+00:20:16.680 --> 00:20:19.440
+La stratégie, ça dépend de tellement de trucs, tellement de la niche.
+
+371
+00:20:20.120 --> 00:20:22.280
+Je ne sais pas trop comment je pourrais faire la vidéo tournée sur ça.
+
+372
+00:20:22.880 --> 00:20:24.360
+C'est quel produit que tu utilises ?
+
+373
+00:20:24.420 --> 00:20:24.860
+Celui de-
+
+374
+00:20:25.620 --> 00:20:25.900
+Ouais.
+
+375
+00:20:26.160 --> 00:20:26.630
+Du Wizard ?
+
+376
+00:20:27.180 --> 00:20:27.340
+Oui.
+
+377
+00:20:27.380 --> 00:20:27.860
+Wiseland ?
+
+378
+00:20:27.880 --> 00:20:28.500
+Oui, c'est ça.
+
+379
+00:20:29.300 --> 00:20:29.580
+Il est bon
+
+380
+00:20:30.380 --> 00:20:30.380
+?
+
+381
+00:20:30.500 --> 00:20:31.080
+Oui, franchement.
+
+382
+00:20:31.320 --> 00:20:32.440
+Je ne l'ai pas testé.
+
+383
+00:20:33.000 --> 00:20:36.830
+Incroyable. D'ailleurs, dedans, je ne sais pas comment ils ont
+
+384
+00:20:36.900 --> 00:20:37.080
+fait.
+
+385
+00:20:38.500 --> 00:20:38.800
+Ils ont
+
+386
+00:20:40.080 --> 00:20:43.640
+des options dans l'article où tu peux générer les images
+
+387
+00:20:44.580 --> 00:20:47.120
+et les images qui vont s'incorporer dans l'article.
+
+388
+00:20:47.860 --> 00:20:48.300
+Franchement,
+
+389
+00:20:49.560 --> 00:20:51.230
+je ne sais pas quelle IA ils utilisent.
+
+390
+00:20:51.460 --> 00:20:53.540
+J'ai essayé de fouiller, j'ai essayé
+
+391
+00:20:53.620 --> 00:20:56.940
+d'aller dans les métadatas de l'image,
+
+392
+00:20:57.600 --> 00:21:00.660
+mais à mon avis, il l'a remodifié. J'ai essayé de
+
+393
+00:21:00.669 --> 00:21:04.620
+demander à plusieurs IA si elles arrivaient à détecter de quelle IA
+
+394
+00:21:04.660 --> 00:21:07.419
+c'était fait, je n'ai pas trouvé. Mais elles sont incroyables.
+
+395
+00:21:07.480 --> 00:21:08.280
+Elles sont clean,
+
+396
+00:21:09.340 --> 00:21:12.440
+elles décrivent ultra bien la partie de l'article.
+
+397
+00:21:12.840 --> 00:21:16.620
+C'est vraiment des images. Ils ont vraiment travaillé le truc pour
+
+398
+00:21:16.660 --> 00:21:16.840
+que
+
+399
+00:21:18.040 --> 00:21:19.160
+la personne qui n'a pas envie de lire,
+
+400
+00:21:20.520 --> 00:21:21.320
+elle voit l'image,
+
+401
+00:21:22.200 --> 00:21:25.940
+elle comprend, on va dire, 50 % de ce que va dire
+
+402
+00:21:25.980 --> 00:21:29.860
+la partie. Et si elle a envie de lire, l'image lui a
+
+403
+00:21:29.900 --> 00:21:33.639
+donné envie. Ils ont travaillé le truc pour que les images soient
+
+404
+00:21:33.760 --> 00:21:37.740
+pro et vraiment, tu comprennes à chaque fois ce qui va se passer dans
+
+405
+00:21:37.760 --> 00:21:39.500
+l'article, dans la partie, je veux dire,
+
+406
+00:21:40.720 --> 00:21:43.920
+parce que tu peux faire plusieurs images, donc plusieurs parties, plusieurs images.
+
+407
+00:21:44.720 --> 00:21:46.920
+Franchement, je ne sais pas ce qu'ils utilisent.
+
+408
+00:21:46.930 --> 00:21:50.740
+Pour le coup, ils ont vraiment tout un
+
+409
+00:21:50.820 --> 00:21:54.300
+process avant génération de recherche d'intention.
+
+410
+00:21:55.480 --> 00:21:59.400
+Voir ce que font, je dis au pif parce que je ne sais pas exactement en
+
+411
+00:21:59.440 --> 00:22:03.160
+détail ce qu'ils font, mais je dirais peut-être les 5, 10 premiers concurrents sur
+
+412
+00:22:03.200 --> 00:22:04.520
+la SERP, sur la requête que tu veux.
+
+413
+00:22:05.080 --> 00:22:05.600
+Ils analysent,
+
+414
+00:22:06.580 --> 00:22:08.740
+je ne sais pas encore une fois ce qu'ils analysent, mais peut-être les Hn ou
+
+415
+00:22:08.760 --> 00:22:12.540
+peut-être même le contenu, pour voir ce que la SERP demande et
+
+416
+00:22:12.580 --> 00:22:15.780
+l'intention. Ils font un article lié à ça.
+
+417
+00:22:16.320 --> 00:22:18.440
+Et en général, leur truc fait que
+
+418
+00:22:19.660 --> 00:22:22.760
+l'objectif, c'est de faire mieux que ce qu'il y a déjà dans la SERP sur la requête.
+
+419
+00:22:23.520 --> 00:22:27.260
+Ça sort vraiment des articles clean, belles images, bon
+
+420
+00:22:27.300 --> 00:22:30.880
+contenu facile à lire, c'est aéré, les Hn
+
+421
+00:22:30.960 --> 00:22:33.140
+sont très bien faits. Franchement,
+
+422
+00:22:34.780 --> 00:22:35.680
+je ne peux que recommander leur truc.
+
+423
+00:22:38.580 --> 00:22:39.280
+Salut Théo.
+
+424
+00:22:40.120 --> 00:22:42.380
+Six questions au niveau des images, parce que là, je suis dessus.
+
+425
+00:22:43.160 --> 00:22:46.900
+Est-ce que quand tu crées des images, par exemple, tu donnes ton skills pour tes
+
+426
+00:22:46.960 --> 00:22:47.780
+images ? Le
+
+427
+00:22:48.680 --> 00:22:50.560
+problème que j'ai, c'est que de un,
+
+428
+00:22:51.600 --> 00:22:53.410
+c'est quand même pas mal d'images qui sont très bien.
+
+429
+00:22:53.760 --> 00:22:55.999
+Par contre, il y a quand même quelques-unes qui
+
+430
+00:22:56.420 --> 00:22:58.600
+ont
+
+431
+00:22:58.620 --> 00:23:01.040
+un bug.
+
+432
+00:23:01.080 --> 00:23:02.700
+Je ne sais pas si c'est moi, mais tu bugues pas mal.
+
+433
+00:23:03.020 --> 00:23:03.720
+Non, on n'entend pas.
+
+434
+00:23:08.700 --> 00:23:09.660
+Là, on ne t'entend plus du tout.
+
+435
+00:23:12.500 --> 00:23:14.100
+Tu m'entends bien ?
+
+436
+00:23:15.360 --> 00:23:15.580
+Non.
+
+437
+00:23:20.800 --> 00:23:22.280
+Parce que je suis en déplacement là.
+
+438
+00:23:25.080 --> 00:23:28.020
+Là, ça allait un peu mieux, mais
+
+439
+00:23:29.320 --> 00:23:29.780
+pas trop.
+
+440
+00:23:30.480 --> 00:23:33.180
+M***e. Ce n'est pas grave. Je te ferai un vocal, au
+
+441
+00:23:33.260 --> 00:23:34.760
+pire.
+
+442
+00:23:34.840 --> 00:23:38.080
+D'accord.
+
+443
+00:23:39.640 --> 00:23:42.080
+Si à un moment, tu vois que ça passe ou que tu peux le
+
+444
+00:23:43.280 --> 00:23:45.300
+vocal to text dans le chat, n'hésite pas.
+
+445
+00:23:45.820 --> 00:23:46.660
+Comme ça, je répondrai dans le
+
+446
+00:23:48.280 --> 00:23:50.100
+truc par rapport aux images.
+
+447
+00:23:54.200 --> 00:23:56.860
+Pour les articles, je ne sais pas trop.
+
+448
+00:23:58.180 --> 00:24:02.100
+Parce qu'en gros, l'idée, c'est : il faut la stratégie et après, il faut faire
+
+449
+00:24:02.140 --> 00:24:02.800
+les articles.
+
+450
+00:24:04.780 --> 00:24:06.280
+Je ne préfère pas trop le faire avec Claude.
+
+451
+00:24:08.040 --> 00:24:08.360
+Parce que
+
+452
+00:24:09.300 --> 00:24:10.380
+c'est comme le chat, il
+
+453
+00:24:10.960 --> 00:24:14.900
+n'y aura pas l'intention qui va avec et
+
+454
+00:24:14.940 --> 00:24:17.100
+donc ça ne va pas se positionner, donc ça ne sert à rien.
+
+455
+00:24:18.080 --> 00:24:19.060
+Si l'intention n'est pas bonne,
+
+456
+00:24:21.640 --> 00:24:25.480
+ça ne va pas se positionner. Pour les vidéos sur WordPress et le
+
+457
+00:24:25.520 --> 00:24:26.420
+MCP,
+
+458
+00:24:27.860 --> 00:24:29.100
+attends encore, il y a
+
+459
+00:24:30.780 --> 00:24:31.500
+Nova Mira.
+
+460
+00:24:35.100 --> 00:24:35.740
+Ok.
+
+461
+00:24:37.180 --> 00:24:40.532
+Nova MiraLa
+
+462
+00:24:41.332 --> 00:24:43.072
+taxe fédérale sur l'aviation. Ça veut dire quoi ?
+
+463
+00:24:43.092 --> 00:24:44.732
+On ne peut pas toucher à l'aviation.
+
+464
+00:24:46.212 --> 00:24:48.991
+Credi par database.
+
+465
+00:24:51.232 --> 00:24:51.572
+Ok.
+
+466
+00:24:52.832 --> 00:24:55.952
+Ça a l'air un peu dangereux s'il a accès à la base de données.
+
+467
+00:24:59.592 --> 00:25:00.572
+Après,
+
+468
+00:25:01.512 --> 00:25:05.332
+je voulais faire un truc basique via l'API.
+
+469
+00:25:06.592 --> 00:25:07.892
+Normalement, via l'API, il peut tout faire.
+
+470
+00:25:09.352 --> 00:25:10.952
+Il peut tout faire sur le site.
+
+471
+00:25:12.192 --> 00:25:15.912
+Effectivement, dans la database, il ne pourra pas, mais on s'en f**t, non
+
+472
+00:25:17.772 --> 00:25:17.772
+?
+
+473
+00:25:20.112 --> 00:25:20.592
+Je ne sais pas.
+
+474
+00:25:21.672 --> 00:25:25.112
+J'avoue que je ne connais pas encore assez le point sur
+
+475
+00:25:25.372 --> 00:25:26.472
+WordPress pour ça, mais
+
+476
+00:25:27.912 --> 00:25:30.932
+je lui ai demandé ce matin, il m'a trouvé deux moyens de le faire.
+
+477
+00:25:32.512 --> 00:25:36.232
+Il a fallu les tester et en fonction de mes tests, ce qui est le mieux, je ferai la
+
+478
+00:25:36.292 --> 00:25:38.252
+vidéo. Mais à mon avis, ce sera l'API
+
+479
+00:25:39.612 --> 00:25:41.232
+de base de WordPress qui est dedans.
+
+480
+00:25:43.612 --> 00:25:45.551
+Il m'a dit qu'on peut accéder à tout.
+
+481
+00:25:46.112 --> 00:25:48.872
+Comme on l'a déjà dit plein de fois, de toute façon, ça va encore bouger.
+
+482
+00:25:49.932 --> 00:25:53.672
+Tu as vu Forge de Mistral ? Tu as un peu regardé ou pas ?
+
+483
+00:25:53.812 --> 00:25:55.392
+Non. Forge ?
+
+484
+00:25:55.412 --> 00:25:55.662
+Forge.
+
+485
+00:25:57.052 --> 00:25:58.352
+Forge Mistral. J'ai vu
+
+486
+00:25:59.592 --> 00:26:01.312
+Perplexity Computer, qu'ils avaient fait.
+
+487
+00:26:04.712 --> 00:26:07.832
+C'est la course de toute manière, donc ça ne va plus s'arrêter.
+
+488
+00:26:10.232 --> 00:26:12.672
+Pour l'instant, CloudCode est plutôt
+
+489
+00:26:15.452 --> 00:26:19.132
+sur la place numéro une du podium, mais il ne va peut-être pas y rester.
+
+490
+00:26:21.752 --> 00:26:23.452
+Ça fait quoi, Forge, exactement ?
+
+491
+00:26:23.492 --> 00:26:24.492
+C'est à peu près le même.
+
+492
+00:26:26.832 --> 00:26:29.052
+C'est une gestion genre fichiers et tout ?
+
+493
+00:26:29.092 --> 00:26:30.172
+Oui, je n'ai pas
+
+494
+00:26:31.632 --> 00:26:33.372
+approfondi le sujet, mais je l'ai vu passer.
+
+495
+00:26:33.832 --> 00:26:38.622
+Ça
+
+496
+00:26:38.692 --> 00:26:40.672
+fait un peu de bruit comme CloudCode.
+
+497
+00:26:43.812 --> 00:26:45.152
+C'est marrant, je n'ai pas du tout entendu.
+
+498
+00:26:45.252 --> 00:26:46.992
+Moi, j'ai par contre Perplexity
+
+499
+00:26:48.492 --> 00:26:50.372
+Computer, ça, j'en ai pas mal entendu parler.
+
+500
+00:26:50.791 --> 00:26:53.012
+Je n'ai pas testé parce qu'il faut l'abonnement max.
+
+501
+00:26:54.192 --> 00:26:56.972
+Je n'ai pas compris à quoi servait le computer de Perplexity.
+
+502
+00:26:57.932 --> 00:26:58.932
+C'est de l'agentique.
+
+503
+00:26:58.992 --> 00:26:59.492
+Oui, c'est comme
+
+504
+00:27:01.152 --> 00:27:01.412
+Cloud-
+
+505
+00:27:02.432 --> 00:27:03.672
+CloudCode ou comme Forge.
+
+506
+00:27:04.772 --> 00:27:05.492
+Oui.
+
+507
+00:27:05.552 --> 00:27:05.852
+Ok.
+
+508
+00:27:09.012 --> 00:27:10.292
+Je crois qu'on peut l'utiliser
+
+509
+00:27:11.672 --> 00:27:15.352
+avec l'abonnement classique, mais il faut rajouter des crédits.
+
+510
+00:27:16.512 --> 00:27:17.292
+Il faut payer.
+
+511
+00:27:19.032 --> 00:27:20.792
+Je voulais voir justement les pricing.
+
+512
+00:27:20.932 --> 00:27:24.732
+Parce que j'ai le pro de Perplexity parce que j'ai pris l'abonnement un an.
+
+513
+00:27:26.212 --> 00:27:29.352
+Moi, il m'a dit que je voulais utiliser Computer parce qu'ils le mettent vachement
+
+514
+00:27:29.372 --> 00:27:31.322
+en avant dans l'interface, mais il faut rajouter des crédits.
+
+515
+00:27:32.692 --> 00:27:33.132
+Ok.
+
+516
+00:27:35.252 --> 00:27:37.852
+C'est quoi, genre des crédits type call API
+
+517
+00:27:38.812 --> 00:27:38.812
+?
+
+518
+00:27:39.012 --> 00:27:40.572
+Je pense, mais je ne l'ai pas poussé.
+
+519
+00:27:40.692 --> 00:27:43.512
+Je n'ai pas compris à quoi ça servait.
+
+520
+00:27:48.792 --> 00:27:52.752
+Ok. Il faudra que je check aussi. Après, il y a tellement
+
+521
+00:27:52.772 --> 00:27:53.632
+de trucs à tester.
+
+522
+00:27:59.052 --> 00:28:02.872
+Ok, à part les articles, qu'est-ce qu'il y a dans produits
+
+523
+00:28:03.792 --> 00:28:04.532
+? Je ne sais pas.
+
+524
+00:28:07.152 --> 00:28:10.832
+Quand il y aura un truc clean pour Google Ads, je ferai, je pense aussi, vidéo.
+
+525
+00:28:11.952 --> 00:28:15.672
+J'allais t'en parler justement pour faire un dashboard de remontée de data.
+
+526
+00:28:16.552 --> 00:28:18.832
+En fait, j'ai vu qu'on pouvait le connecter à Google Ads.
+
+527
+00:28:19.192 --> 00:28:22.932
+Pourquoi pas un dashboard, mais juste aussi
+
+528
+00:28:23.032 --> 00:28:26.932
+un truc hebdo ou journalier d'analyse de
+
+529
+00:28:26.992 --> 00:28:27.772
+données du Google Ads.
+
+530
+00:28:29.432 --> 00:28:32.532
+Parce que moi, je pense que ça serait pas mal de pouvoir le relier à sa boutique,
+
+531
+00:28:32.562 --> 00:28:34.792
+que ce soit Shopify ou WordPress, pour
+
+532
+00:28:35.792 --> 00:28:38.402
+comparer les données des produits, que tu aies vraiment un retour.
+
+533
+00:28:38.402 --> 00:28:41.772
+Parce que tu sais, avec les problèmes de remontée de données, tu saurais vraiment
+
+534
+00:28:41.792 --> 00:28:42.972
+quels produits se vendent ou pas.
+
+535
+00:28:46.392 --> 00:28:49.972
+Je ne comprends pas. C'est toi qui avais déjà
+
+536
+00:28:50.052 --> 00:28:51.152
+le problème où tu
+
+537
+00:28:52.652 --> 00:28:53.792
+fais un dashboard.
+
+538
+00:28:54.872 --> 00:28:56.491
+Oui, mais c'est un dashboard manuel.
+
+539
+00:28:57.551 --> 00:29:00.511
+Moi, je n'ai pas trouvé mieux. Après, il faut payer des trucs comme Treebudle.
+
+540
+00:29:01.092 --> 00:29:04.612
+Là, ce serait quoi l'avantage d'avoir un dashboard où tu as les ventes sur tes
+
+541
+00:29:04.652 --> 00:29:07.672
+produits live sur ton WooCommerce et à côté,
+
+542
+00:29:07.792 --> 00:29:10.412
+ton Google Ads ?
+
+543
+00:29:11.092 --> 00:29:13.632
+Le but, ce serait que ça se fasse automatiquement parce que moi, je fais des
+
+544
+00:29:13.672 --> 00:29:14.852
+exports CSV, du coup c'est
+
+545
+00:29:16.792 --> 00:29:19.052
+long à faire. C'est un peu chiant, il faut faire les exports et tout.
+
+546
+00:29:19.792 --> 00:29:21.592
+Là, l'idée, si c'était en live,
+
+547
+00:29:22.872 --> 00:29:26.692
+tu verrais que tel produit que tu pub, potentiellement, tu as de la perte de
+
+548
+00:29:26.712 --> 00:29:30.132
+données et Google n'a pas détecté les ventes, mais peut-être que tu as fait deux,
+
+549
+00:29:30.172 --> 00:29:30.612
+trois ventes.
+
+550
+00:29:31.532 --> 00:29:33.892
+Et si tu n'avais pas cette donnée-là, tu l'aurais coupée parce que tu pensais que
+
+551
+00:29:33.932 --> 00:29:34.772
+le produit ne marchait pas.
+
+552
+00:29:35.732 --> 00:29:38.952
+Tu aurais pu déjà pour tes CSV, tu aurais un petit N8N et
+
+553
+00:29:39.012 --> 00:29:40.251
+c'était plié.
+
+554
+00:29:41.472 --> 00:29:43.752
+Oui, c'est vrai. Je ne l'ai pas fait.
+
+555
+00:29:43.792 --> 00:29:45.962
+Tu aurais pu te casser la tête. C'est
+
+556
+00:29:47.052 --> 00:29:50.512
+juste pour faire remonter tes ventes qui ne sont pas prises en compte par Google
+
+557
+00:29:50.592 --> 00:29:51.412
+Ads, c'est ça ?
+
+558
+00:29:51.572 --> 00:29:52.512
+Oui, complètement, c'est ça.
+
+559
+00:29:53.572 --> 00:29:55.392
+C'est pour avoir les données complètes sur un produit,
+
+560
+00:29:56.202 --> 00:30:00.072
+pas seulement avec Google Ads, mais vraiment de savoir même la
+
+561
+00:30:00.092 --> 00:30:03.342
+vente organique qu'il y a sur ce produit, les ventes non traquées, parce que tu
+
+562
+00:30:03.372 --> 00:30:03.492
+sais,
+
+563
+00:30:04.352 --> 00:30:07.132
+je ne sais pas comment c'est sur Shopify, mais sur WordPress, il y a marqué que
+
+564
+00:30:07.212 --> 00:30:09.732
+c'est une vente directe ou une vente non traquée.
+
+565
+00:30:09.892 --> 00:30:12.432
+Tu sais à peu près que ça vient de Google Ads en général quand c'est comme ça.
+
+566
+00:30:13.412 --> 00:30:16.632
+Moi, ce que j'ai fait, en tout cas sur mon Looker Studio,
+
+567
+00:30:17.332 --> 00:30:21.312
+c'est que j'ai séparé les ventes qui sont de Google Ads, les ventes qui sont
+
+568
+00:30:21.352 --> 00:30:23.492
+organiques et les ventes qui sont non classées.
+
+569
+00:30:24.012 --> 00:30:27.972
+Et je considère dans mon analyse de pub que les ventes qui sont non
+
+570
+00:30:28.012 --> 00:30:29.452
+classées sont des ventes Google Ads.
+
+571
+00:30:30.812 --> 00:30:32.292
+Tu vois, typiquement,
+
+572
+00:30:33.392 --> 00:30:37.172
+si Claude a accès à ton Google Ads et à ton shop, tu lui dis juste ça, il va
+
+573
+00:30:37.212 --> 00:30:40.812
+vérifier les deux et comparer et ne pas te dire : « Ce produit, il faut le couper
+
+574
+00:30:40.892 --> 00:30:43.512
+parce qu'il y a eu des ventes en organique ou parce qu'il y a eu du direct.
+
+575
+00:30:43.842 --> 00:30:45.592
+» Potentiellement, ces data n'ont pas été remontées.
+
+576
+00:30:46.412 --> 00:30:48.112
+À quoi va servir ton dashboard à la fin ?
+
+577
+00:30:48.172 --> 00:30:50.732
+Ce sera pour toi manuellement, mais tu t'en fous, tu vas plus l'utiliser après.
+
+578
+00:30:51.572 --> 00:30:55.252
+Oui, parce que tu veux automatiser pour que ce soit Claude qui fasse les décisions.
+
+579
+00:30:55.652 --> 00:30:56.212
+Dans l'idéal,
+
+580
+00:30:57.152 --> 00:31:00.462
+si tu veux, ton dashboard, c'est pour que quand tu veux analyser des produits, tu
+
+581
+00:31:00.472 --> 00:31:02.592
+ailles regarder ce qui se passe et pourquoi.
+
+582
+00:31:02.652 --> 00:31:05.772
+Mais s'il a accès aux deux, s'il te fait un retour
+
+583
+00:31:06.052 --> 00:31:09.772
+journalier ou hebdo d'un
+
+584
+00:31:09.972 --> 00:31:13.432
+produit qui ne perfore pas bien, il vérifie quand même sur ton
+
+585
+00:31:13.472 --> 00:31:17.232
+WooCommerce s'il y a eu des ventes, comment elles ont été taguées, si c'est direct
+
+586
+00:31:17.252 --> 00:31:18.142
+ou autre. Et
+
+587
+00:31:19.792 --> 00:31:21.732
+après, c'est à lui de mouliner et de faire
+
+588
+00:31:22.992 --> 00:31:26.392
+son résultat et de dire : « Bon, ce produit, tu peux le couper, il n'a pas fait de
+
+589
+00:31:26.432 --> 00:31:29.172
+vente ou alors il n'en a fait que deux, mais c'était en organique » ou ce genre de
+
+590
+00:31:29.192 --> 00:31:29.392
+trucs.
+
+591
+00:31:29.932 --> 00:31:33.552
+En gros, tu voudrais qu'il fasse plutôt des comptes rendus quotidiens
+
+592
+00:31:33.852 --> 00:31:36.012
+plutôt qu'avoir un dashboard ? Parce que le dashboard, ce que j'aime bien, c'est
+
+593
+00:31:36.032 --> 00:31:39.832
+que c'est toi qui regardes, tu as les données en temps réel et ça te guide.
+
+594
+00:31:40.392 --> 00:31:43.812
+En fait, l'avantage, c'est que s'il fait ce que j'ai expliqué,
+
+595
+00:31:44.332 --> 00:31:47.872
+il peut très bien te faire un système de dashboard ou de log où tu as
+
+596
+00:31:49.532 --> 00:31:50.492
+ligne par ligne,
+
+597
+00:31:52.032 --> 00:31:54.692
+tous les jours ou toutes les semaines, un récap.
+
+598
+00:31:55.692 --> 00:31:59.552
+Tu n'as pas besoin d'aller toi, à la main, dans ton dashboard pour aller
+
+599
+00:31:59.612 --> 00:32:01.332
+vérifier tel produit, tel produit à gauche.
+
+600
+00:32:02.832 --> 00:32:05.252
+Oui, c'est une bonne idée aussi, ça peut être pas mal.
+
+601
+00:32:05.632 --> 00:32:08.612
+Tu fais ça avec Claude Code ? Parce que moi, je ne m'y suis toujours pas mis.
+
+602
+00:32:09.012 --> 00:32:12.992
+Ça, je ne l'ai pas fait, mais c'était l'idée que si tu le connectes à
+
+603
+00:32:13.032 --> 00:32:15.332
+Google Ads et donc qu'il a accès à ton site, il peut
+
+604
+00:32:16.812 --> 00:32:20.212
+merger les données et te faire ce genre de compte rendu.
+
+605
+00:32:21.952 --> 00:32:24.252
+OK. Comment tu fais pour connecter
+
+606
+00:32:25.092 --> 00:32:27.552
+Claude à Google Ads et à ton site
+
+607
+00:32:28.472 --> 00:32:30.252
+? C'est via l'interface de Claude
+
+608
+00:32:31.352 --> 00:32:31.352
+?
+
+609
+00:32:32.092 --> 00:32:35.892
+Là, je ne sais pas. J'ai regardé rapidement ce matin, il y a un truc
+
+610
+00:32:35.932 --> 00:32:37.992
+Google Ads qui est fait exprès, mais il faut un
+
+611
+00:32:39.172 --> 00:32:39.692
+MCC,
+
+612
+00:32:39.752 --> 00:32:43.572
+le truc de
+
+613
+00:32:43.632 --> 00:32:47.432
+Google où c'est un compte général qui regroupe un compte, je ne sais plus le nom
+
+614
+00:32:47.442 --> 00:32:48.822
+que ça a. Je crois que c'est MCC.
+
+615
+00:32:50.312 --> 00:32:51.532
+Le master je ne sais quoi ?
+
+616
+00:32:51.992 --> 00:32:53.012
+Le master compte.
+
+617
+00:32:53.832 --> 00:32:57.622
+Oui, ça, j'ai parce que tu es obligé si tu as plusieurs comptes
+
+618
+00:32:57.622 --> 00:32:58.062
+publicités,
+
+619
+00:32:59.632 --> 00:33:00.192
+en théorie.
+
+620
+00:33:00.271 --> 00:33:01.672
+Il y a deux types de
+
+621
+00:33:01.771 --> 00:33:06.692
+master
+
+622
+00:33:06.772 --> 00:33:10.452
+compte. Il faut aussi un accès genre API
+
+623
+00:33:10.552 --> 00:33:13.112
+Google Ads. Ça a l'air un peu chiant à mettre en place.
+
+624
+00:33:14.372 --> 00:33:17.832
+Je n'ai pas poussé le truc, mais l'idée, c'est que je pense que
+
+625
+00:33:17.912 --> 00:33:21.892
+dans quelques jours ou semaines, il y aura un truc qui
+
+626
+00:33:21.912 --> 00:33:24.512
+sera intégré directement et ce sera beaucoup plus simple d'y accéder.
+
+627
+00:33:25.192 --> 00:33:28.652
+Donc pourquoi me faire c***r à galérer quand je sais que dans
+
+628
+00:33:29.972 --> 00:33:32.672
+10 jours, il y a le truc qui sera en un clic à faire ?
+
+629
+00:33:32.852 --> 00:33:35.952
+C'est pour ça que je ne m'y suis pas encore mis.
+
+630
+00:33:36.112 --> 00:33:37.212
+Je sais que ça avance trop vite,
+
+631
+00:33:38.532 --> 00:33:39.532
+donc je ne me précipite pas.
+
+632
+00:33:41.412 --> 00:33:44.672
+Mais l'idée, c'est qu'une fois qu'il sera connecté comme il faut et qu'il peut lire
+
+633
+00:33:44.692 --> 00:33:45.092
+les données,
+
+634
+00:33:46.332 --> 00:33:49.022
+il y aura trop de trucs à faire. Tout ce que tu fais manuellement, il pourra te
+
+635
+00:33:49.032 --> 00:33:49.692
+l'automatiser.
+
+636
+00:33:49.852 --> 00:33:51.572
+C'est bien ça.
+
+637
+00:33:53.632 --> 00:33:56.892
+Il pourrait même couper les produits tout seul.
+
+638
+00:33:57.072 --> 00:34:00.692
+Ça dépendra de comment ils font leur truc, mais logiquement,
+
+639
+00:34:00.752 --> 00:34:01.212
+oui.
+
+640
+00:34:02.952 --> 00:34:06.592
+Après, tu pourras même, si tu parlais de dashboard, tu peux avoir
+
+641
+00:34:06.652 --> 00:34:10.632
+un centre de contrôle où il te mettra par
+
+642
+00:34:10.672 --> 00:34:14.572
+exemple à couper, il te mettra la liste, il te mettra les data et
+
+643
+00:34:14.612 --> 00:34:15.432
+à toi de valider.
+
+644
+00:34:16.752 --> 00:34:20.513
+Oui, ça, c'est bien. Il y avait un mec de Google Ads qui vendait un
+
+645
+00:34:20.612 --> 00:34:21.832
+SAS comme ça. Je ne sais plus comment il s'appelait.
+
+646
+00:34:24.132 --> 00:34:28.112
+Sur YouTube, il vendait un truc où justement, tu connectais automatiquement ton
+
+647
+00:34:28.192 --> 00:34:31.212
+site Google Ads et il te mettait des alertes sur les produits, etc.
+
+648
+00:34:32.192 --> 00:34:34.473
+C'est marrant parce que je voulais faire ça il y a
+
+649
+00:34:34.592 --> 00:34:38.553
+six mois, quand je faisais un peu les
+
+650
+00:34:38.592 --> 00:34:42.072
+outils, mais je ne l'ai pas fait, heureusement, je pense, parce que
+
+651
+00:34:42.993 --> 00:34:46.072
+dans deux semaines,
+
+652
+00:34:47.473 --> 00:34:48.672
+Claude le fera automatiquement.
+
+653
+00:34:50.072 --> 00:34:51.533
+À mon avis, il y a beaucoup de SAS qui vont crever.
+
+654
+00:34:53.513 --> 00:34:55.892
+Pas forcément, parce que tout le monde ne va pas se mettre à Claude.
+
+655
+00:34:57.292 --> 00:34:58.312
+Mais ils vont perdre des clients.
+
+656
+00:34:58.732 --> 00:35:02.692
+En fait, ça dépend les niches, mais il va quand même y en avoir beaucoup qui vont
+
+657
+00:35:02.712 --> 00:35:03.091
+crever.
+
+658
+00:35:04.712 --> 00:35:06.632
+Tout ce qui est analyse de données, par exemple.
+
+659
+00:35:07.751 --> 00:35:09.292
+Il n'y a pas besoin de se mettre à Claude pour...
+
+660
+00:35:10.352 --> 00:35:11.432
+Tu balances juste tes fichiers.
+
+661
+00:35:13.052 --> 00:35:16.372
+Il y a quand même un paquet d'outils, je pense, qui vont galérer un peu.
+
+662
+00:35:16.692 --> 00:35:18.492
+Ou alors, il faudra qu'ils ajoutent une vraie valeur ajoutée.
+
+663
+00:35:19.012 --> 00:35:20.652
+Antipoison a reçu 64
+
+664
+00:35:22.212 --> 00:35:23.052
+700 appels.
+
+665
+00:35:23.392 --> 00:35:25.812
+Encore une fois, on est dedans tout le temps.
+
+666
+00:35:26.312 --> 00:35:28.212
+La majorité des gens sont encore sur ChatGPT.
+
+667
+00:35:30.012 --> 00:35:33.652
+Oui, mais même ChatGPT. Je n'ai pas d'idée de SAS, mais
+
+668
+00:35:34.392 --> 00:35:38.072
+je pense que, par exemple, typiquement, le
+
+669
+00:35:38.132 --> 00:35:41.932
+truc qu'il expliquait, le SAS qui se connecte à son
+
+670
+00:35:41.972 --> 00:35:44.712
+Google Ads et qui lui dit les produits avec des warnings,
+
+671
+00:35:46.772 --> 00:35:50.292
+je pense que ça doit sûrement se faire aujourd'hui,
+
+672
+00:35:51.252 --> 00:35:53.832
+mais c'est un peu technique. Dans un mois ou deux,
+
+673
+00:35:55.552 --> 00:35:59.032
+même dans ChatGPT, il y aura un truc pour connecter son Google Ads en un clic et
+
+674
+00:35:59.132 --> 00:35:59.432
+basta.
+
+675
+00:36:01.212 --> 00:36:01.752
+Je pense.
+
+676
+00:36:03.632 --> 00:36:07.452
+Ils sont tous en train de fabriquer leur MCP clean pour que tous les
+
+677
+00:36:07.532 --> 00:36:08.612
+IA y aient accès facilement.
+
+678
+00:36:09.792 --> 00:36:11.792
+Ça, ça va vite arriver. Ils vont tous avoir des trucs
+
+679
+00:36:13.252 --> 00:36:17.032
+clé en main qu'ils vont sortir et donc les IA auront toutes accès à n'importe
+
+680
+00:36:17.072 --> 00:36:18.552
+quoi pour le gérer.
+
+681
+00:36:21.632 --> 00:36:22.712
+Donc, il n'y aura pas besoin d'être technique.
+
+682
+00:36:26.592 --> 00:36:28.472
+Du coup, j'ai vu que
+
+683
+00:36:29.392 --> 00:36:33.212
+pour les images avec le skill, tu arrives à avoir
+
+684
+00:36:33.272 --> 00:36:37.092
+les images vraiment fidèles au produit, carrément, ou des éléments.
+
+685
+00:36:38.892 --> 00:36:39.052
+Ça,
+
+686
+00:36:40.052 --> 00:36:42.792
+c'est une mise en situation.
+
+687
+00:36:43.752 --> 00:36:43.882
+Je ne
+
+688
+00:36:44.792 --> 00:36:48.212
+sais pas. Oui, ça dépend des produits, j'imagine.
+
+689
+00:36:48.992 --> 00:36:50.532
+Après, à toi de guider sur tes
+
+690
+00:36:50.572 --> 00:36:56.108
+prompts.Ce
+
+691
+00:36:56.148 --> 00:36:58.928
+que je vais dire dans la vidéo que je vais tourner sur
+
+692
+00:37:00.668 --> 00:37:02.428
+mon Claude qui modifie un produit,
+
+693
+00:37:03.268 --> 00:37:07.148
+et ça va servir à ça, c'est qu'il faut itérer à
+
+694
+00:37:07.168 --> 00:37:07.368
+mort.
+
+695
+00:37:08.268 --> 00:37:11.768
+Il va faire des tests. Tu lui demandes de faire des tests, il donne un
+
+696
+00:37:11.808 --> 00:37:13.948
+résultat, tu lui expliques pourquoi ce n'est pas bon
+
+697
+00:37:15.188 --> 00:37:15.988
+et au fur et à mesure,
+
+698
+00:37:16.968 --> 00:37:17.528
+il engrange,
+
+699
+00:37:18.568 --> 00:37:21.288
+il note tout pour qu'à la fin,
+
+700
+00:37:22.248 --> 00:37:25.648
+ça soit de moins en moins et qu'il minimise les erreurs.
+
+701
+00:37:25.668 --> 00:37:26.688
+Et là, c'est un peu ce que tu décris.
+
+702
+00:37:26.728 --> 00:37:26.898
+Tu veux
+
+703
+00:37:28.488 --> 00:37:32.468
+avoir des images vraiment fidèles au produit, c'est à expliquer dans ton prompt.
+
+704
+00:37:33.188 --> 00:37:36.628
+Quand il va te faire un rendu qui n'est pas fidèle, tu lui expliques que si tu veux
+
+705
+00:37:36.648 --> 00:37:37.908
+que ça soit fidèle à l'image,
+
+706
+00:37:39.028 --> 00:37:42.948
+prends ça en compte, et ça, et machin, et Live Stage, ne veux pas ça
+
+707
+00:37:42.988 --> 00:37:46.788
+en fond. Il faut vraiment tester,
+
+708
+00:37:47.468 --> 00:37:50.968
+faire des retours à Claude pour qu'il adapte ses prompts,
+
+709
+00:37:51.868 --> 00:37:52.768
+ses instructions.
+
+710
+00:37:55.528 --> 00:37:58.768
+Mika doit bien connaître ça parce qu'à mon avis, il a fait pas mal de
+
+711
+00:38:00.268 --> 00:38:00.668
+prompts
+
+712
+00:38:02.068 --> 00:38:03.808
+pour Nano sur son outil.
+
+713
+00:38:05.108 --> 00:38:07.428
+C'est ce que je lui disais en commentaire.
+
+714
+00:38:11.068 --> 00:38:13.288
+C'est pour ça que j'ai fini par faire un prompt builder avec
+
+715
+00:38:14.168 --> 00:38:17.828
+toutes les instructions. Et en fonction des caractéristiques choisies,
+
+716
+00:38:18.688 --> 00:38:22.568
+il a un prompt long comme le bras et il sait exactement comment il doit le
+
+717
+00:38:22.628 --> 00:38:23.048
+générer.
+
+718
+00:38:24.818 --> 00:38:28.728
+S'ils veulent faire manuellement, il n'y a que, comme tu le dis, il
+
+719
+00:38:28.748 --> 00:38:30.348
+faut itérer, le corriger,
+
+720
+00:38:31.188 --> 00:38:32.128
+le réorienter.
+
+721
+00:38:33.408 --> 00:38:33.928
+Il faut itérer.
+
+722
+00:38:35.688 --> 00:38:39.468
+Avec un prompt minimum, l'appliquer à un ensemble de produits.
+
+723
+00:38:40.748 --> 00:38:42.108
+Ouais, forcément.
+
+724
+00:38:42.928 --> 00:38:44.148
+Ça ne marche pas fort.
+
+725
+00:38:44.208 --> 00:38:44.308
+C'est
+
+726
+00:38:45.448 --> 00:38:49.328
+ce que je disais avant sur le skills que je filerai quand je ferai la vidéo
+
+727
+00:38:49.408 --> 00:38:51.708
+pour intégrer les produits, il ne sera pas adapté à toutes les niches.
+
+728
+00:38:52.588 --> 00:38:52.848
+Je ne vais pas
+
+729
+00:38:54.268 --> 00:38:56.088
+faire un truc ultra généraliste parce qu'il ne sera pas
+
+730
+00:38:57.448 --> 00:39:00.088
+parfait s'il est trop généraliste.
+
+731
+00:39:00.148 --> 00:39:04.068
+Je vais l'adapter à la niche test que je vais lancer pour montrer en vidéo.
+
+732
+00:39:04.588 --> 00:39:07.098
+Il ne sera pas adapté à une autre niche parce qu'il y aura des détails qui ne
+
+733
+00:39:07.108 --> 00:39:10.608
+feront que. Il faudra tester, améliorer, itérer
+
+734
+00:39:11.468 --> 00:39:14.268
+pour qu'il soit adapté à votre site, à votre niche.
+
+735
+00:39:15.488 --> 00:39:17.088
+Du clé en main, ce n'est pas trop possible.
+
+736
+00:39:17.388 --> 00:39:18.168
+Là, ce n'est pas possible.
+
+737
+00:39:20.088 --> 00:39:23.808
+Attends. Niveau
+
+738
+00:39:23.848 --> 00:39:24.768
+consommation, Claude.
+
+739
+00:39:26.628 --> 00:39:30.508
+Comment tu as fait pour être aux limites en max alors qu'il y a du fois
+
+740
+00:39:30.548 --> 00:39:31.418
+deux en plus ?
+
+741
+00:39:31.448 --> 00:39:32.028
+Ouais, c'est clair.
+
+742
+00:39:33.108 --> 00:39:36.828
+Franchement, je bourrine, je ne sais pas comment tu as fait.
+
+743
+00:39:37.868 --> 00:39:39.427
+Je n'ai aucune idée de comment tu as fait.
+
+744
+00:39:39.908 --> 00:39:43.888
+Dimanche matin, en deux, trois heures, j'ai fait une appli complète de suivi
+
+745
+00:39:45.288 --> 00:39:46.308
+alimentaire avec
+
+746
+00:39:47.388 --> 00:39:51.308
+calcul des macros, glucides, lipides, protéines.
+
+747
+00:39:51.328 --> 00:39:51.708
+Bref,
+
+748
+00:39:53.028 --> 00:39:53.508
+une appli
+
+749
+00:39:54.428 --> 00:39:55.368
+bien fournie quand même.
+
+750
+00:39:56.408 --> 00:39:57.448
+Je n'ai pas atteint les limites.
+
+751
+00:39:58.628 --> 00:39:58.988
+Franchement,
+
+752
+00:40:00.468 --> 00:40:03.688
+je ne sais pas comment tu fais des miracles.
+
+753
+00:40:04.288 --> 00:40:07.328
+Claude relié à l'API
+
+754
+00:40:07.708 --> 00:40:09.548
+Gemini pour création.
+
+755
+00:40:10.528 --> 00:40:10.868
+OK.
+
+756
+00:40:11.988 --> 00:40:13.808
+Les prompts assez précis.
+
+757
+00:40:15.168 --> 00:40:17.628
+D'ailleurs,
+
+758
+00:40:18.948 --> 00:40:19.468
+tu peux
+
+759
+00:40:20.568 --> 00:40:23.528
+filer ton API à Claude, mais j'imagine que c'est ce que tu as fait.
+
+760
+00:40:23.548 --> 00:40:25.328
+Mais tu as aussi le Gemini CLI.
+
+761
+00:40:26.728 --> 00:40:30.468
+Claude y aura accès, il faut juste le log et après, il fait tout ce qu'il veut.
+
+762
+00:40:30.948 --> 00:40:34.128
+Le but, c'est typiquement pendant la journée, Claude fait tel produit.
+
+763
+00:40:34.908 --> 00:40:36.428
+Oui, moi aussi, c'est le but.
+
+764
+00:40:37.728 --> 00:40:40.088
+Une fois qu'il a tout le process, après, tu n'as plus qu'à lui dire
+
+765
+00:40:41.008 --> 00:40:43.508
+: « Fais les 70 produits que j'ai importés hier. » Et bam.
+
+766
+00:40:47.608 --> 00:40:48.148
+Je le fume.
+
+767
+00:40:49.148 --> 00:40:50.848
+Je ne sais pas comment tu fais pour le fumer.
+
+768
+00:40:54.748 --> 00:40:55.188
+Franchement,
+
+769
+00:40:57.468 --> 00:40:59.098
+j'étais presque deg de ne
+
+770
+00:41:00.088 --> 00:41:01.068
+pas l'utiliser au max.
+
+771
+00:41:03.288 --> 00:41:06.768
+Je ne sais plus quand c'était, j'ai fait une semaine assez intensive.
+
+772
+00:41:08.828 --> 00:41:09.868
+Je crois que j'étais à 30 %
+
+773
+00:41:11.788 --> 00:41:13.427
+d'utilisation sur la semaine.
+
+774
+00:41:15.168 --> 00:41:16.648
+Ça fait quand même de la marge.
+
+775
+00:41:18.008 --> 00:41:20.368
+Après, est-ce que ce n'est que Claude Code ou tu as un Open Claude ?
+
+776
+00:41:20.458 --> 00:41:22.528
+Et là, c'est peut-être un peu différent parce qu'il va te bourriner des
+
+777
+00:41:22.808 --> 00:41:23.268
+sous-agents.
+
+778
+00:41:24.428 --> 00:41:26.708
+Est-ce que tu ne fais que de l'opus aussi ? Ça peut aider.
+
+779
+00:41:28.268 --> 00:41:31.048
+Ce sont deux trucs qui peuvent faire que ça va te fumer tes crédits.
+
+780
+00:41:34.848 --> 00:41:38.128
+Pour les articles,
+
+781
+00:41:38.168 --> 00:41:41.828
+voilà. Les images, ce sera dans ma vidéo.
+
+782
+00:41:48.008 --> 00:41:51.728
+Ce que j'ai fait aussi, c'est que je lui ai filé un export de la niche
+
+783
+00:41:51.798 --> 00:41:52.128
+test
+
+784
+00:41:53.048 --> 00:41:56.908
+à Semrush et je lui ai dit déjà de sauvegarder quelque part pour lui,
+
+785
+00:41:56.948 --> 00:42:00.198
+pour qu'il ait accès. De deux, pour qu'il ait accès aux noms de
+
+786
+00:42:00.228 --> 00:42:03.748
+produits, pour avoir une base, pour ne pas inventer n'importe quoi.
+
+787
+00:42:03.778 --> 00:42:03.828
+Il
+
+788
+00:42:04.848 --> 00:42:07.568
+peut inventer, mais il se base quand même sur les mots clés que je lui ai donnés.
+
+789
+00:42:07.598 --> 00:42:11.288
+De plus, il a créé les collections automatiquement aussi dans Shopify.
+
+790
+00:42:11.848 --> 00:42:13.028
+Je lui ai filé les trucs, je lui ai dit
+
+791
+00:42:14.268 --> 00:42:16.848
+: « Retire les doublons, choisis les plus logiques.
+
+792
+00:42:17.208 --> 00:42:18.748
+» Il a tout importé.
+
+793
+00:42:19.668 --> 00:42:23.028
+Il a créé toutes mes collections. Je crois qu'il y en avait 50 ou 60.
+
+794
+00:42:24.568 --> 00:42:26.848
+Il a tout créé en 10 secondes.
+
+795
+00:42:27.708 --> 00:42:30.468
+Là où c'est quand même assez chiant de créer toutes les collections manuellement.
+
+796
+00:42:31.228 --> 00:42:34.128
+Sous-collection, collection, il a tout fait en 10 secondes.
+
+797
+00:42:35.008 --> 00:42:38.248
+J'imagine, bien expliqué, bien prompté,
+
+798
+00:42:38.448 --> 00:42:42.268
+bonne instruction, qu'il pourra aussi générer
+
+799
+00:42:42.428 --> 00:42:45.828
+les descriptions de catégories dans chacune, de manière
+
+800
+00:42:45.848 --> 00:42:46.488
+automatique.
+
+801
+00:42:51.508 --> 00:42:55.308
+Les images, c'est assez chiant, mais ça se fait. Il a ajouté aussi les alt texts.
+
+802
+00:42:55.648 --> 00:42:59.488
+Meta title, meta description, il le faisait. Les variantes, il les gérait nickel.
+
+803
+00:43:00.808 --> 00:43:02.248
+C'est de protéger nos enfants.
+
+804
+00:43:02.308 --> 00:43:03.648
+Les pages produits étaient bonnes.
+
+805
+00:43:03.688 --> 00:43:06.268
+À partir du moment où on installe un thème, il n'y a plus qu'à le
+
+806
+00:43:07.128 --> 00:43:10.668
+configurer pour son site et fin de l'histoire, on a le site.
+
+807
+00:43:11.848 --> 00:43:15.648
+S'il n'y a pas de questions, je vais parler un peu
+
+808
+00:43:15.748 --> 00:43:15.948
+de
+
+809
+00:43:16.828 --> 00:43:17.628
+ninja linking.
+
+810
+00:43:23.228 --> 00:43:25.428
+Il faut que je trouve des exemples.
+
+811
+00:43:27.328 --> 00:43:31.278
+Je ne suis pas un pro de
+
+812
+00:43:31.948 --> 00:43:34.388
+ça, mais je pense que je peux apporter un peu de
+
+813
+00:43:35.608 --> 00:43:38.388
+conseils, de détails, de valeur dessus.
+
+814
+00:43:39.508 --> 00:43:41.808
+Mais prenez en compte que je ne suis pas un pro du ninja linking.
+
+815
+00:43:41.948 --> 00:43:43.848
+Je n'en fais pas depuis 15 ans, etc.
+
+816
+00:43:45.168 --> 00:43:48.468
+L'idée, c'est de faire
+
+817
+00:43:50.728 --> 00:43:51.388
+des liens
+
+818
+00:43:53.068 --> 00:43:53.868
+pour son site,
+
+819
+00:43:56.188 --> 00:43:56.948
+nofollow ou pas.
+
+820
+00:43:58.188 --> 00:43:59.108
+C'est mieux que ce soit follow.
+
+821
+00:44:00.488 --> 00:44:00.648
+Mais
+
+822
+00:44:02.368 --> 00:44:05.948
+le nofollow peut être intéressant pour de l'autorité,
+
+823
+00:44:07.228 --> 00:44:09.708
+sur des sites qu'on va trouver
+
+824
+00:44:12.508 --> 00:44:13.188
+gratuitement.
+
+825
+00:44:14.628 --> 00:44:17.268
+L'idée c'est que ce soit gratuit, sinon c'est de l'achat de backlink.
+
+826
+00:44:20.228 --> 00:44:22.968
+Mais le problème, c'est comment on trouve ces liens.
+
+827
+00:44:23.208 --> 00:44:26.608
+D'ailleurs, je ne connais pas les services et je ne les ai pas utilisés, mais j'ai
+
+828
+00:44:26.688 --> 00:44:30.108
+vu des services proposer
+
+829
+00:44:32.828 --> 00:44:33.748
+comme un abonnement
+
+830
+00:44:36.268 --> 00:44:39.968
+mensuel avec des tarifs différents où par exemple tu as trois,
+
+831
+00:44:40.148 --> 00:44:41.468
+cinq liens et l'autre temps tu en as 10, etc.,
+
+832
+00:44:42.588 --> 00:44:43.968
+qui font le travail à votre place,
+
+833
+00:44:44.848 --> 00:44:48.548
+d'aller chercher des liens liés à la thématique ninja,
+
+834
+00:44:48.848 --> 00:44:50.168
+sur du forum ou des trucs un peu
+
+835
+00:44:51.088 --> 00:44:53.448
+plus intéressants que les m****s que vous allez trouver sur
+
+836
+00:44:54.308 --> 00:44:55.448
+tous les sites vendent des backlinks.
+
+837
+00:44:55.668 --> 00:44:55.968
+D'ailleurs,
+
+838
+00:44:57.328 --> 00:44:59.648
+je trouve que c'est de pire en pire les backlinks.
+
+839
+00:45:01.268 --> 00:45:03.708
+Il y a de plus en plus de gens qui trafiquent
+
+840
+00:45:05.108 --> 00:45:08.988
+les data du site pour se ranker sur des
+
+841
+00:45:09.028 --> 00:45:11.908
+mots clés à la c*n, faire croire qu'ils ont du trafic,
+
+842
+00:45:13.568 --> 00:45:16.828
+trafiquer l'autorité. Des fois, vous payez des backlinks
+
+843
+00:45:17.188 --> 00:45:20.868
+20, 30, 50 balles qui envoient zéro, littéralement,
+
+844
+00:45:22.108 --> 00:45:25.568
+voire négatif parce qu'ils sont vraiment à c***r.
+
+845
+00:45:25.588 --> 00:45:27.948
+Donc faites gaffe à ça, c'est un vrai taf.
+
+846
+00:45:29.848 --> 00:45:33.528
+Je ne sais même pas quelle plateforme conseiller.
+
+847
+00:45:35.188 --> 00:45:37.588
+Souvent, c'est soit trop cher, soit de la m***e.
+
+848
+00:45:39.448 --> 00:45:43.088
+Je ne sais même pas quoi vous dire sur les plateformes pour les liens.
+
+849
+00:45:44.188 --> 00:45:47.838
+La technique que j'avais par rapport aux backlinks, que j'ai toujours,
+
+850
+00:45:48.348 --> 00:45:51.428
+c'est que je fais directement des recherches Google.
+
+851
+00:45:51.908 --> 00:45:54.568
+C'est, entre guillemets, des termes.
+
+852
+00:45:54.608 --> 00:45:57.088
+Par exemple, je l'ai fait pour mon agence immobilière ici, j'avais fait par exemple
+
+853
+00:45:57.228 --> 00:45:57.908
+« real estate
+
+854
+00:45:58.928 --> 00:45:59.528
+» plus
+
+855
+00:46:00.348 --> 00:46:03.988
+« guest post », ce qui fait que c'est des sites nichés qui ouvrent au guest
+
+856
+00:46:04.048 --> 00:46:07.828
+post. Et après, je prenais leur URL, je regardais effectivement le score sur
+
+857
+00:46:07.908 --> 00:46:10.768
+Ahrefs, sur Semrush, mais surtout Majestic.
+
+858
+00:46:10.788 --> 00:46:14.228
+Je trouve que Majestic est assez clean en termes de résultats.
+
+859
+00:46:14.237 --> 00:46:17.608
+Il fallait surtout qu'il ait un bon résultat sur Majestic pour que je valide,
+
+860
+00:46:19.288 --> 00:46:21.988
+pour que je sache que le netlinking soit vraiment propre.
+
+861
+00:46:22.388 --> 00:46:22.457
+Ou
+
+862
+00:46:24.788 --> 00:46:28.388
+alors j'allais voir mes concurrents et je les mettais directement sur Majestic
+
+863
+00:46:28.728 --> 00:46:31.368
+et je voyais c'était quoi leur meilleur backlink et ensuite je les contactais.
+
+864
+00:46:32.548 --> 00:46:34.348
+Oui, donc tu le faisais vraiment manuellement toi ?
+
+865
+00:46:34.388 --> 00:46:34.888
+Tu listais
+
+866
+00:46:35.748 --> 00:46:36.728
+manuellement tes backlinks.
+
+867
+00:46:37.388 --> 00:46:39.948
+Oui, exactement. Ça prend un peu de temps effectivement.
+
+868
+00:46:39.978 --> 00:46:40.748
+Il y aurait peut-être moyen de
+
+869
+00:46:42.888 --> 00:46:44.868
+développer un truc avec Cloudcode ou peu importe.
+
+870
+00:46:45.548 --> 00:46:49.168
+En tout cas, j'avais des backlinks pas très chers et de
+
+871
+00:46:49.248 --> 00:46:50.368
+bonne qualité pour le coup.
+
+872
+00:46:51.968 --> 00:46:55.668
+Tu les contactais, tu leur demandais s'il y avait moyen de faire un article
+
+873
+00:46:55.688 --> 00:46:57.328
+ou directement vendre ?
+
+874
+00:46:57.338 --> 00:47:00.288
+Exactement. Au fur et à mesure, ce qu'il s'est passé,
+
+875
+00:47:01.108 --> 00:47:02.908
+c'est qu'il y a des personnes qui me contactaient en direct.
+
+876
+00:47:02.948 --> 00:47:05.888
+Maintenant, je reçois tous les jours des emails ou des messages sur WhatsApp de
+
+877
+00:47:05.948 --> 00:47:07.048
+mecs qui me proposent leurs services,
+
+878
+00:47:08.708 --> 00:47:11.298
+plus ou moins chers. Mais à chaque fois, je fais le travail de checker sur les
+
+879
+00:47:11.298 --> 00:47:13.128
+différentes plateformes que j'ai citées.
+
+880
+00:47:14.348 --> 00:47:16.788
+Ce qui fait que j'ai des backlinks pas chers qui sont de bonne qualité en général.
+
+881
+00:47:17.828 --> 00:47:20.777
+Et ninja linking, tu en as fait aussi ?
+
+882
+00:47:22.568 --> 00:47:23.708
+Je pense que je l'ai fait indirectement.
+
+883
+00:47:23.768 --> 00:47:27.648
+J'avais pris un petit Indien pour me faire un truc dans le genre, où ça devait
+
+884
+00:47:27.708 --> 00:47:29.288
+surtout booster mon Google My Business.
+
+885
+00:47:31.768 --> 00:47:34.548
+Après, c'est très compliqué à tracker en termes de résultats, je trouve.
+
+886
+00:47:37.268 --> 00:47:41.488
+Surtout
+
+887
+00:47:41.498 --> 00:47:44.168
+si tu fais tout, si tu fais du ninja linking, des vrais liens et peut-être du
+
+888
+00:47:44.228 --> 00:47:47.428
+trafic à côté, c'est quasiment impossible de voir ce qui-
+
+889
+00:47:47.908 --> 00:47:51.898
+Le ninja linking, peut-être que ça peut être intéressant pour le ranking sur les
+
+890
+00:47:51.968 --> 00:47:52.328
+LLM.
+
+891
+00:47:53.408 --> 00:47:57.148
+Parce que souvent les backlinks, c'est plus pour du Google, pour de
+
+892
+00:47:57.188 --> 00:48:01.088
+l'autorité. Mais peut-être qu'aujourd'hui, les IA prennent en compte également
+
+893
+00:48:01.097 --> 00:48:03.418
+le fait que tu es un peu partout sur Internet plutôt que
+
+894
+00:48:04.368 --> 00:48:06.628
+sur cette stratégie que l'algo Google
+
+895
+00:48:06.708 --> 00:48:10.668
+utilise. Par exemple, ils vont prendre en compte
+
+896
+00:48:10.888 --> 00:48:13.858
+si tu as une page Facebook, si tu as du YouTube et tout ça, c'est déjà du nofollow,
+
+897
+00:48:13.928 --> 00:48:14.408
+par exemple.
+
+898
+00:48:20.008 --> 00:48:23.628
+Oui,
+
+899
+00:48:24.328 --> 00:48:26.928
+effectivement, les réseaux sociaux, ça apporte de l'autorité.
+
+900
+00:48:27.808 --> 00:48:28.778
+D'ailleurs, ça
+
+901
+00:48:29.648 --> 00:48:33.298
+ne sert
+
+902
+00:48:33.528 --> 00:48:35.988
+à rien de faire 15
+
+903
+00:48:37.128 --> 00:48:39.848
+réseaux sociaux si vous ne faites rien dessus, mais c'est bien d'en avoir un ou
+
+904
+00:48:39.928 --> 00:48:42.508
+deux qui sont pertinents avec votre site et que vous essayez de travailler un
+
+905
+00:48:42.548 --> 00:48:43.388
+minimum pour avoir
+
+906
+00:48:44.668 --> 00:48:45.488
+un peu de points
+
+907
+00:48:46.388 --> 00:48:47.868
+positifs aux yeux de Google.
+
+908
+00:48:49.268 --> 00:48:52.448
+C'est important de le faire.
+
+909
+00:48:56.468 --> 00:49:00.308
+Ça va être assez simple en soi, mais on va essayer de
+
+910
+00:49:01.108 --> 00:49:04.624
+donner plusieurs exemplesL'idée, c'est
+
+911
+00:49:04.704 --> 00:49:08.644
+qu'en général, il y a plein de
+
+912
+00:49:08.684 --> 00:49:09.624
+trucs pour
+
+913
+00:49:11.724 --> 00:49:15.564
+trouver des liens. En général, ce qui se fait et ce qui marche bien,
+
+914
+00:49:15.664 --> 00:49:16.484
+c'est du forum.
+
+915
+00:49:18.044 --> 00:49:20.124
+L'idée, c'est qu'on va
+
+916
+00:49:21.504 --> 00:49:23.764
+tester une thématique. Quelle thématique
+
+917
+00:49:25.404 --> 00:49:27.304
+? Je crois que j'avais noté deux, trois trucs.
+
+918
+00:49:29.004 --> 00:49:32.654
+Il y a deux moyens. Il y a des full prints qu'on va essayer, qu'on va mettre dans
+
+919
+00:49:32.664 --> 00:49:32.984
+Google.
+
+920
+00:49:33.724 --> 00:49:37.604
+Je ne sais même pas
+
+921
+00:49:37.624 --> 00:49:40.024
+comment l'expliquer. Ce sont des
+
+922
+00:49:42.324 --> 00:49:45.794
+sortes de variables que tu mets dans Google qui permettent de trier un peu les
+
+923
+00:49:45.824 --> 00:49:48.943
+résultats de recherche. Et deuxième truc, c'est
+
+924
+00:49:51.004 --> 00:49:54.184
+d'analyser d'autres sites ou
+
+925
+00:49:54.364 --> 00:49:57.864
+concurrents ou autres qui sont dans votre thématique,
+
+926
+00:49:58.304 --> 00:50:01.964
+qui potentiellement ont fait des liens et qui potentiellement ont fait aussi
+
+927
+00:50:02.064 --> 00:50:06.044
+du link-ja linking, et donc aller voir les spots qu'ils
+
+928
+00:50:06.064 --> 00:50:09.963
+ont trouvés et voir s'ils sont intéressants ou pas.
+
+929
+00:50:10.004 --> 00:50:12.784
+En gros, il y a deux étapes. La première,
+
+930
+00:50:14.284 --> 00:50:15.844
+je ne sais pas trop la thématique par contre.
+
+931
+00:50:17.644 --> 00:50:19.384
+On n'a pas un truc trop chiant ?
+
+932
+00:50:20.814 --> 00:50:31.764
+Qu'est-ce
+
+933
+00:50:31.784 --> 00:50:34.484
+que je pourrais mettre
+
+934
+00:50:42.304 --> 00:50:42.304
+?
+
+935
+00:50:44.344 --> 00:50:46.334
+Peut-être les luminaires, vu que vous en parliez.
+
+936
+00:50:47.244 --> 00:50:50.244
+J'ai peur que ça soit un peu chaud, mais je ne sais pas. On va tester.
+
+937
+00:50:50.264 --> 00:50:53.364
+On va voir ce que ça donne. Peut-être qu'il y a des forums
+
+938
+00:50:53.564 --> 00:50:57.474
+déco ou autres. On va voir ce que
+
+939
+00:50:57.504 --> 00:50:58.104
+ça donne.
+
+940
+00:51:05.864 --> 00:51:08.964
+Je lui ai demandé une liste, je ne les connais pas tous par cœur et puis il m'en a
+
+941
+00:51:09.384 --> 00:51:10.924
+filé quelques-unes intéressantes.
+
+942
+00:51:11.164 --> 00:51:11.264
+On
+
+943
+00:51:12.264 --> 00:51:12.804
+va
+
+944
+00:51:19.284 --> 00:51:20.064
+tester la première.
+
+945
+00:51:21.484 --> 00:51:24.564
+Il faudrait que je vous fasse un partage, mais je vais juste aller sur Google.
+
+946
+00:51:25.714 --> 00:51:25.714
+«
+
+947
+00:51:28.604 --> 00:51:30.024
+Inurl
+
+948
+00:51:31.064 --> 00:51:31.064
+».
+
+949
+00:51:33.604 --> 00:51:35.684
+Je vais déjà checker que ce ne soit pas pourri.
+
+950
+00:51:38.344 --> 00:51:42.094
+Je ne sais pas si je mets « luminaire » ou « déco »,
+
+951
+00:51:42.724 --> 00:51:43.454
+mais c'est « luminaire ».
+
+952
+00:51:47.844 --> 00:51:49.424
+Ok, je fais un partage.
+
+953
+00:51:51.384 --> 00:51:52.044
+Je
+
+954
+00:51:52.744 --> 00:51:57.604
+pourrais
+
+955
+00:51:57.764 --> 00:52:01.664
+mettre entre guillemets. Déjà, ce que j'ai
+
+956
+00:52:01.704 --> 00:52:03.784
+écrit, je ne sais pas si on voit bien, je vais peut-être faire un zoom.
+
+957
+00:52:05.504 --> 00:52:07.684
+C'est un exemple, il y en a plein. Je pourrais faire une liste.
+
+958
+00:52:08.704 --> 00:52:10.413
+Lia peut vous faire une liste. Ce
+
+959
+00:52:12.204 --> 00:52:15.774
+n'est pas très compliqué en soi, mais là, on dit que dans l'URL, on veut qu'il y
+
+960
+00:52:15.774 --> 00:52:16.294
+ait « forum ».
+
+961
+00:52:18.404 --> 00:52:23.264
+Quand
+
+962
+00:52:23.304 --> 00:52:26.324
+on le met entre guillemets, c'est qu'on veut qu'il y ait ce mot clé dedans aussi
+
+963
+00:52:26.344 --> 00:52:29.724
+dans la requête qui va être montrée.
+
+964
+00:52:29.744 --> 00:52:32.764
+Logiquement, il y aura le mot clé « luminaire » quelque part dedans.
+
+965
+00:52:33.324 --> 00:52:34.104
+Là, on le voit ici, on
+
+966
+00:52:35.344 --> 00:52:35.884
+le voit là.
+
+967
+00:52:37.264 --> 00:52:40.864
+Logiquement, il doit être partout puisque je l'ai mis
+
+968
+00:52:40.904 --> 00:52:43.274
+ici. Et « inurl forum »,
+
+969
+00:52:43.464 --> 00:52:46.124
+là, on est bien dans le
+
+970
+00:52:46.144 --> 00:52:47.784
+/forum.
+
+971
+00:52:51.844 --> 00:52:52.284
+Là aussi.
+
+972
+00:52:53.164 --> 00:52:55.584
+Je ne sais pas si vous voyez tout en bas à gauche. Je ne suis pas sûr.
+
+973
+00:52:55.624 --> 00:52:56.644
+Je ne crois pas qu'on voit les
+
+974
+00:52:57.864 --> 00:52:58.204
+handles.
+
+975
+00:53:00.224 --> 00:53:04.184
+L'idée, là, j'ai mis « forum »,
+
+976
+00:53:04.204 --> 00:53:08.084
+mais il y a plein de trucs. Je vais essayer peut-être d'en
+
+977
+00:53:08.124 --> 00:53:10.284
+faire plusieurs. Je vais en ouvrir un autre.
+
+978
+00:53:10.324 --> 00:53:15.324
+Je
+
+979
+00:53:15.334 --> 00:53:18.084
+ne sais plus qui m'avait parlé la dernière fois de PhpBB.
+
+980
+00:53:18.384 --> 00:53:19.724
+Non, ce n'est pas Mathieu, je ne sais plus.
+
+981
+00:53:23.823 --> 00:53:24.823
+Oui, c'était Mathieu.
+
+982
+00:53:28.304 --> 00:53:31.844
+C'est une idée, mais je pense que je filerai la liste, on la mettra
+
+983
+00:53:31.884 --> 00:53:33.344
+dans le school.
+
+984
+00:53:34.204 --> 00:53:37.084
+Je ferai une liste un peu complète des trucs.
+
+985
+00:53:37.904 --> 00:53:39.524
+Je vais juste en ouvrir deux, trois.
+
+986
+00:53:40.324 --> 00:53:42.044
+Je vais voir ceux qui sont un peu intéressants à montrer.
+
+987
+00:53:43.604 --> 00:53:44.064
+Il y avait «
+
+988
+00:53:46.624 --> 00:53:47.684
+forum », « mai ».
+
+989
+00:53:50.024 --> 00:53:51.354
+Il y avait « luminaire ».
+
+990
+00:54:06.904 --> 00:54:10.684
+Et ce n'était pas s'inscrire. Oui, ajouter un
+
+991
+00:54:10.724 --> 00:54:11.124
+commentaire.
+
+992
+00:54:18.204 --> 00:54:19.764
+Voilà, ça, c'est le deuxième.
+
+993
+00:54:22.544 --> 00:54:24.604
+J'ai mis les deux entre guillemets, mais on n'est pas obligé.
+
+994
+00:54:25.984 --> 00:54:29.434
+Il faudrait voir comment sont bien les full prints, mais peut-être que là, je fais
+
+995
+00:54:29.564 --> 00:54:31.964
+une erreur, je n'en sais rien. En tout cas, ça a l'air d'à peu près marcher parce
+
+996
+00:54:31.984 --> 00:54:34.864
+que là, on voit par exemple Boutique à dizaines. Ça a l'air d'être une boutique.
+
+997
+00:54:40.884 --> 00:54:42.364
+Oui, il y a bien « Ajouter un commentaire ».
+
+998
+00:54:42.604 --> 00:54:44.304
+De toute façon, il faudra souvent s'inscrire.
+
+999
+00:54:44.984 --> 00:54:47.104
+Ça, ça va être un autre point sur ça.
+
+1000
+00:54:49.364 --> 00:54:52.774
+Je vais lui demander de me faire le spécial
+
+1001
+00:54:52.784 --> 00:54:55.064
+luminaire. Fais-moi les exemples.
+
+1002
+00:54:56.294 --> 00:54:56.294
+«
+
+1003
+00:54:57.664 --> 00:54:58.324
+Deco luminaire
+
+1004
+00:54:58.334 --> 00:55:05.748
+».Je
+
+1005
+00:55:05.788 --> 00:55:08.228
+vais juste revenir à celui-là. On va parler de celui-là pendant qu'il me fait la
+
+1006
+00:55:08.268 --> 00:55:12.228
+liste. L'idée, c'est que j'ai possiblement plein de liens
+
+1007
+00:55:12.288 --> 00:55:15.228
+qui ont forum dans l'URL et qui parlent de luminaires.
+
+1008
+00:55:15.608 --> 00:55:19.528
+Il faut utiliser plein de mots clés en fonction de la niche que vous avez.
+
+1009
+00:55:19.588 --> 00:55:23.368
+Vous mettez les mots clés. Pareil, l'IA peut vous aider à déterminer les mots clés
+
+1010
+00:55:23.388 --> 00:55:25.368
+qui seront pertinents, qui seront liés à votre niche.
+
+1011
+00:55:25.708 --> 00:55:27.808
+Je prends un exemple assez large, mais imaginons que
+
+1012
+00:55:28.628 --> 00:55:32.448
+vous faites des veilleuses. Vous mettez
+
+1013
+00:55:32.468 --> 00:55:34.888
+peut-être « veilleuse » et peut-être des mots clés qui sont associés à tout ça.
+
+1014
+00:55:36.228 --> 00:55:37.688
+Logiquement, ça nous sort des
+
+1015
+00:55:40.648 --> 00:55:44.208
+trucs qui sont intéressants. Je vais ouvrir le premier. On va faire un partage.
+
+1016
+00:55:45.088 --> 00:55:48.828
+Là, on est sur la
+
+1017
+00:55:48.888 --> 00:55:51.408
+catégorie, ce n'est peut-être pas le top.
+
+1018
+00:55:51.458 --> 00:55:54.768
+Après, à vous de
+
+1019
+00:55:55.888 --> 00:55:58.088
+faire une recherche. Logiquement, il y a une partie recherche.
+
+1020
+00:55:58.188 --> 00:56:00.448
+Il faut peut-être se connecter des fois, là, on le voit ici.
+
+1021
+00:56:00.488 --> 00:56:02.928
+Faire une recherche liée aux mots clés de votre niche.
+
+1022
+00:56:03.628 --> 00:56:06.048
+Mais là, imaginons, je vois des lampes extérieures.
+
+1023
+00:56:06.928 --> 00:56:07.848
+On peut regarder ce qu'il y a dedans.
+
+1024
+00:56:08.888 --> 00:56:12.618
+Déjà, le premier point qui serait intéressant, c'est
+
+1025
+00:56:12.648 --> 00:56:15.288
+d'aller voir, décoration intérieure, encore, ça peut le faire.
+
+1026
+00:56:15.838 --> 00:56:17.268
+« Minions en ville », OK. Ça
+
+1027
+00:56:18.208 --> 00:56:19.948
+n'a pas l'air d'être un gros truc.
+
+1028
+00:56:20.968 --> 00:56:23.168
+Mais l'idée, ça serait de trouver un lien déjà.
+
+1029
+00:56:26.308 --> 00:56:27.318
+Là, on en voit un.
+
+1030
+00:56:30.148 --> 00:56:33.768
+J'imagine que par exemple, c'est un mec qui a fait son ninja
+
+1031
+00:56:33.808 --> 00:56:34.468
+linking pour
+
+1032
+00:56:36.468 --> 00:56:37.888
+son site, j'ai l'impression.
+
+1033
+00:56:38.888 --> 00:56:41.088
+« Jetez un coup d'œil sûr, j'ai commandé machin.
+
+1034
+00:56:41.138 --> 00:56:41.138
+»
+
+1035
+00:56:41.608 --> 00:56:45.568
+En plus, on
+
+1036
+00:56:45.588 --> 00:56:48.248
+peut se mettre en invité. Pas besoin de s'inscrire, j'ai l'impression.
+
+1037
+00:56:48.408 --> 00:56:51.988
+Je ne sais pas. Je fais un inspecter. Est-ce qu'on le voit ?
+
+1038
+00:56:52.028 --> 00:56:52.948
+On ne le voit pas, p****n.
+
+1039
+00:56:55.688 --> 00:56:58.688
+Non, je ne le voyais pas. L'idée, c'est de voir si
+
+1040
+00:57:00.168 --> 00:57:01.608
+les liens dans les
+
+1041
+00:57:03.508 --> 00:57:06.068
+discussions sont nofollow ou pas.
+
+1042
+00:57:06.148 --> 00:57:06.848
+Là, par exemple,
+
+1043
+00:57:07.828 --> 00:57:09.188
+ils ne le sont pas.
+
+1044
+00:57:10.008 --> 00:57:10.928
+Enfin, ils sont nofollow.
+
+1045
+00:57:12.588 --> 00:57:13.648
+Après, il y a des petites techniques
+
+1046
+00:57:21.268 --> 00:57:21.388
+pour
+
+1047
+00:57:22.608 --> 00:57:24.628
+gruger le nofollow sur certains sites.
+
+1048
+00:57:24.668 --> 00:57:27.588
+Ça dépend de ce qui est fait derrière.
+
+1049
+00:57:29.308 --> 00:57:29.727
+Ça
+
+1050
+00:57:32.208 --> 00:57:33.188
+dépend comment c'est fait derrière.
+
+1051
+00:57:33.548 --> 00:57:34.848
+Mais des fois, c'est du bot,
+
+1052
+00:57:36.568 --> 00:57:39.988
+une automation qui va détecter si c'est un lien.
+
+1053
+00:57:40.537 --> 00:57:43.128
+Parce que si le lien est fait par exemple interne.
+
+1054
+00:57:43.748 --> 00:57:47.028
+Le site, c'est deladeco.fr.
+
+1055
+00:57:47.808 --> 00:57:51.188
+Est-ce que les sites internes à deladeco.fr sont nofollow ?
+
+1056
+00:57:51.728 --> 00:57:55.348
+C'est ça qu'il faut détecter. Et s'ils ne le sont pas, réfléchissez à comment vous
+
+1057
+00:57:55.428 --> 00:57:58.068
+pouvez faire en sorte que ça fasse quand même un lien à votre site.
+
+1058
+00:57:59.068 --> 00:58:02.248
+Je vous ai donné un truc, vous furettez le truc.
+
+1059
+00:58:02.668 --> 00:58:03.788
+Là, en soi, les nofollow,
+
+1060
+00:58:05.488 --> 00:58:07.868
+ça peut, comme je l'ai dit tout à l'heure, donner un peu d'autorité.
+
+1061
+00:58:07.948 --> 00:58:09.848
+Après, pareil, son nom de domaine.
+
+1062
+00:58:09.878 --> 00:58:10.768
+De un, on check si
+
+1063
+00:58:11.848 --> 00:58:15.748
+les liens sont follow ou pas. Et après, on peut checker sur SEMrush
+
+1064
+00:58:15.808 --> 00:58:16.768
+ou Majestic comme
+
+1065
+00:58:17.728 --> 00:58:19.528
+Sylvain disait, pour voir un peu les stats.
+
+1066
+00:58:20.368 --> 00:58:22.028
+Des fois, ça ne servira complètement à rien.
+
+1067
+00:58:22.508 --> 00:58:26.448
+En général, si c'est gratuit, ça peut toujours valoir le coup de
+
+1068
+00:58:26.488 --> 00:58:28.408
+mettre son lien, même si c'est nofollow.
+
+1069
+00:58:28.468 --> 00:58:30.468
+Après, en général, vous allez privilégier du follow.
+
+1070
+00:58:30.888 --> 00:58:34.748
+Ça donnera du jus pour le coup. Pour voir si l'article se
+
+1071
+00:58:34.828 --> 00:58:38.168
+positionne. On l'a vu oui. Enfin non, on n'a même pas vu oui.
+
+1072
+00:58:38.528 --> 00:58:40.708
+Après, il y a effectivement voir si l'article se positionne.
+
+1073
+00:58:42.308 --> 00:58:42.908
+Il
+
+1074
+00:58:44.188 --> 00:58:45.428
+y a un moyen d'indexer
+
+1075
+00:58:46.328 --> 00:58:50.108
+la page où vous avez posté aussi pour que Google crawl la page que vous avez
+
+1076
+00:58:51.148 --> 00:58:55.088
+commentée pour aller récupérer votre lien et donc voir que
+
+1077
+00:58:55.128 --> 00:58:57.168
+vous faites un lien vers votre site et donc filer le jus, etc.
+
+1078
+00:58:58.848 --> 00:59:02.188
+D'ailleurs, je vais ouvrir en Curfox.
+
+1079
+00:59:02.228 --> 00:59:06.088
+On va aller check ce site pour voir un peu les données
+
+1080
+00:59:06.868 --> 00:59:07.268
+qu'il a.
+
+1081
+00:59:23.188 --> 00:59:24.368
+OK, donc là, je copie
+
+1082
+00:59:25.507 --> 00:59:26.228
+l'URL.
+
+1083
+00:59:28.568 --> 00:59:30.408
+Je vais dans SEMrush.
+
+1084
+00:59:32.108 --> 00:59:32.188
+Je
+
+1085
+00:59:32.248 --> 00:59:39.568
+vais
+
+1086
+00:59:39.648 --> 00:59:42.548
+vous partager.
+
+1087
+00:59:54.588 --> 00:59:55.768
+Est-ce que là, vous voyez ?
+
+1088
+00:59:58.068 --> 01:00:01.288
+J'ai mis l'URL en haut. On voit les stats du domaine.
+
+1089
+01:00:01.428 --> 01:00:05.088
+On voit qu'il avait un peu de trafic avant, que ce n'est pas tant que ça en ce
+
+1090
+01:00:05.128 --> 01:00:06.868
+moment. Je vais mettre sur les six derniers mois.
+
+1091
+01:00:07.988 --> 01:00:10.888
+Ce n'est pas du gros trafic. Il a 20 d'authority.
+
+1092
+01:00:14.728 --> 01:00:16.148
+300 de trafic organique.
+
+1093
+01:00:17.768 --> 01:00:21.528
+Ce n'est pas un gros domaine, mais si c'était du follow,
+
+1094
+01:00:21.568 --> 01:00:24.008
+pourquoi pas ? C'est toujours un lien possiblement en plus.
+
+1095
+01:00:25.548 --> 01:00:27.728
+L'avantage, c'est que si c'est gratuit,
+
+1096
+01:00:29.268 --> 01:00:32.748
+autant les accumuler. Si c'est ultra-pertinent, que c'est follow,
+
+1097
+01:00:33.508 --> 01:00:37.428
+que c'est vraiment thématisé, lié à votre site,
+
+1098
+01:00:39.688 --> 01:00:43.188
+il n'y aura presque pas de limite de ce n'est pas intéressant.
+
+1099
+01:00:43.308 --> 01:00:46.688
+À partir du moment où c'est thématique, c'est quasiment toujours
+
+1100
+01:00:46.728 --> 01:00:48.058
+intéressant. Après, là, ce n'est pas
+
+1101
+01:00:49.028 --> 01:00:49.488
+un gros site.
+
+1102
+01:00:52.148 --> 01:00:53.258
+C'est
+
+1103
+01:00:54.348 --> 01:00:55.128
+à prendre en compte.
+
+1104
+01:00:56.708 --> 01:00:59.208
+Je vais retourner ici,
+
+1105
+01:01:00.328 --> 01:01:01.348
+repartager ça.
+
+1106
+01:01:03.288 --> 01:01:04.468
+On a vu le premier,
+
+1107
+01:01:05.328 --> 01:01:07.328
+ce n'est pas du nofollow et on a vu les stats
+
+1108
+01:01:08.188 --> 01:01:11.848
+sur SEMrush. Je peux ouvrir le deuxième et on va faire pareil.
+
+1109
+01:01:12.128 --> 01:01:16.018
+L'idée, c'est longC'est du travail long et chiant.
+
+1110
+01:01:16.858 --> 01:01:20.738
+Le but, c'est qu'on en trouve un quand même, je pense.
+
+1111
+01:01:21.758 --> 01:01:23.878
+Je ne sais pas si on voit celui-là, « partager cet onglet
+
+1112
+01:01:25.398 --> 01:01:25.398
+».
+
+1113
+01:01:27.398 --> 01:01:30.958
+Systemd.fr. Je vais vite fait check les stats
+
+1114
+01:01:31.798 --> 01:01:32.338
+dès le début.
+
+1115
+01:01:38.338 --> 01:01:38.938
+Lui, il a
+
+1116
+01:01:41.218 --> 01:01:42.418
+44 d'authority,
+
+1117
+01:01:44.918 --> 01:01:48.598
+104 trafic organique. Là, déjà, c'est plus intéressant, mais
+
+1118
+01:01:48.858 --> 01:01:49.818
+ça veut dire potentiellement
+
+1119
+01:01:52.318 --> 01:01:54.498
+nofollow. On va voir, ce n'est pas obligatoire.
+
+1120
+01:01:54.838 --> 01:01:54.918
+Là,
+
+1121
+01:01:56.438 --> 01:01:59.038
+c'est un plus gros site : 104 trafics, 44 d'authority,
+
+1122
+01:02:00.478 --> 01:02:02.797
+180 000 mots clés organiques, etc.
+
+1123
+01:02:03.758 --> 01:02:06.658
+M***e, j'ai cliqué sur un truc. Je retourne sur le site, on va essayer de trouver
+
+1124
+01:02:06.678 --> 01:02:07.078
+un lien.
+
+1125
+01:02:09.338 --> 01:02:11.018
+C'est un bon exemple de voir déjà
+
+1126
+01:02:12.018 --> 01:02:13.458
+si ce lien est nofollow.
+
+1127
+01:02:14.478 --> 01:02:18.038
+Même les liens internes à
+
+1128
+01:02:18.297 --> 01:02:19.478
+Systemd sont nofollow.
+
+1129
+01:02:21.298 --> 01:02:24.998
+Deuxième exemple, nofollow direct.
+
+1130
+01:02:25.478 --> 01:02:30.588
+Pareil,
+
+1131
+01:02:30.658 --> 01:02:33.988
+l'idée, c'est d'essayer de trouver un sujet qui est
+
+1132
+01:02:34.338 --> 01:02:34.818
+cohérent.
+
+1133
+01:02:36.298 --> 01:02:38.138
+Soit, il y a le truc de recherche, soit,
+
+1134
+01:02:38.158 --> 01:02:42.098
+dans Google,
+
+1135
+01:02:42.158 --> 01:02:43.318
+vous mettez « Systemd
+
+1136
+01:02:44.298 --> 01:02:47.578
+» plus un mot clé et possiblement, ça va vous retomber des
+
+1137
+01:02:48.858 --> 01:02:52.198
+pages positionnées qui ont votre mot clé et qui seront potentiellement
+
+1138
+01:02:55.058 --> 01:02:56.338
+une discussion liée à
+
+1139
+01:02:57.298 --> 01:02:57.878
+votre niche.
+
+1140
+01:02:58.758 --> 01:02:59.178
+Là, pour
+
+1141
+01:03:00.078 --> 01:03:03.138
+l'exemple, je m'en fous, c'est juste pour voir si je ne trouve pas des liens.
+
+1142
+01:03:27.218 --> 01:03:30.978
+Et une fois que j'aurai trouvé un vrai exemple où il y a du dofollow, je parlerai
+
+1143
+01:03:30.998 --> 01:03:34.258
+de comment possiblement poster, parce qu'il ne faut pas que ça fasse trop spam.
+
+1144
+01:03:36.238 --> 01:03:37.827
+Je crois que c'est celui où j'étais tout à l'heure.
+
+1145
+01:03:37.858 --> 01:03:38.858
+Je n'ai pas trouvé un lien
+
+1146
+01:03:40.898 --> 01:03:42.468
+qui n'est pas sur Systemd.
+
+1147
+01:03:43.378 --> 01:03:44.658
+Si ça se trouve, ils ne les acceptent même pas.
+
+1148
+01:03:46.398 --> 01:03:49.498
+C'est possible aussi vu qu'il y a quand même 104 trafics.
+
+1149
+01:03:49.818 --> 01:03:51.318
+On va voir, mais
+
+1150
+01:03:52.838 --> 01:03:54.418
+je crois que je suis retourné dans le même.
+
+1151
+01:03:59.878 --> 01:04:01.158
+J'ai aucune idée d'où aller.
+
+1152
+01:04:03.078 --> 01:04:05.318
+J'essaie de voir par rapport aux vues s'il n'y a pas un gros truc.
+
+1153
+01:04:07.698 --> 01:04:09.918
+Systemd devis.
+
+1154
+01:04:25.698 --> 01:04:29.468
+Je ne
+
+1155
+01:04:29.538 --> 01:04:30.138
+trouve pas de lien.
+
+1156
+01:04:38.198 --> 01:04:40.618
+Après, ça me demande de savoir jusqu'à quel point ça peut être possiblement
+
+1157
+01:04:40.658 --> 01:04:42.568
+automatisé par Claude pour trouver des spots,
+
+1158
+01:04:43.838 --> 01:04:45.398
+avec toute une directive de
+
+1159
+01:04:46.598 --> 01:04:47.298
+check les liens,
+
+1160
+01:04:48.978 --> 01:04:49.138
+etc.
+
+1161
+01:04:50.438 --> 01:04:53.638
+Check les data du nom de domaine. À mon avis, il y a moyen de faire un truc un peu
+
+1162
+01:04:53.658 --> 01:04:53.918
+clean.
+
+1163
+01:04:55.598 --> 01:04:58.198
+Je ne trouve pas de lien, donc j'abandonne, c'est chiant.
+
+1164
+01:04:58.518 --> 01:05:00.038
+De toute façon, c'est un travail chiant et long.
+
+1165
+01:05:00.158 --> 01:05:03.728
+Vu que c'est un exemple et que je m'en fous, que ce n'est pas pour moi, j'avoue que
+
+1166
+01:05:03.738 --> 01:05:05.718
+je n'ai pas envie de passer 15 minutes à essayer de trouver un lien.
+
+1167
+01:05:06.518 --> 01:05:10.298
+De toute façon, même le lien vers le
+
+1168
+01:05:10.338 --> 01:05:14.318
+devis de Systemd est nofollow. Donc, il y a de grandes chances que ça soit un
+
+1169
+01:05:14.338 --> 01:05:15.468
+nofollow. Après, encore une fois,
+
+1170
+01:05:16.318 --> 01:05:17.858
+il a de l'autorité, il a du trafic.
+
+1171
+01:05:18.958 --> 01:05:22.618
+Si c'est bien placé, ça fait toujours un peu d'autorité vers son site.
+
+1172
+01:05:23.658 --> 01:05:24.018
+Pourquoi pas ?
+
+1173
+01:05:25.678 --> 01:05:29.138
+Je repartage ici. Je ne sais pas pourquoi j'ai coupé.
+
+1174
+01:05:32.098 --> 01:05:32.998
+On va essayer d'en trouver un autre.
+
+1175
+01:05:33.218 --> 01:05:35.218
+J'ai mis « luminaire », mais est-ce qu'on ne pourrait pas mettre un autre truc ?
+
+1176
+01:05:36.078 --> 01:05:37.698
+Je vais anticiper quand même deux, trois audits.
+
+1177
+01:05:38.898 --> 01:05:41.978
+On va voir ce que c'est.
+
+1178
+01:05:42.018 --> 01:05:45.138
+Vous êtes tombés sur des bons vieux forums dégueulasses.
+
+1179
+01:05:46.778 --> 01:05:50.538
+Est-ce qu'il y a du lien ? Il y a des extensions,
+
+1180
+01:05:50.598 --> 01:05:52.078
+d'ailleurs, on va les installer.
+
+1181
+01:05:57.598 --> 01:05:58.458
+Dofollow.
+
+1182
+01:05:59.778 --> 01:06:01.018
+Je ne sais plus le nom.
+
+1183
+01:06:01.858 --> 01:06:02.498
+Link Checker
+
+1184
+01:06:03.738 --> 01:06:04.038
+? Non.
+
+1185
+01:06:05.578 --> 01:06:06.198
+Si, c'est ça.
+
+1186
+01:06:18.278 --> 01:06:22.058
+Je ne sais pas les
+
+1187
+01:06:22.118 --> 01:06:24.678
+meilleures. Je ne sais pas si vous en avez d'ailleurs, si vous connaissez à en
+
+1188
+01:06:24.718 --> 01:06:27.497
+conseiller. Mais bon, je vais installer les premiers que je vois qui a l'air OK.
+
+1189
+01:06:28.738 --> 01:06:31.658
+L'idée, c'est d'avoir une extension qui, quand on sera sur
+
+1190
+01:06:33.058 --> 01:06:33.738
+la page,
+
+1191
+01:06:35.278 --> 01:06:37.978
+va lancer le plugin.
+
+1192
+01:06:38.838 --> 01:06:38.928
+P****n, il
+
+1193
+01:06:40.358 --> 01:06:42.198
+ne marche pas, il faut que j'actualise.
+
+1194
+01:06:46.818 --> 01:06:47.778
+Ok, c'est de la m***e.
+
+1195
+01:06:52.678 --> 01:06:54.598
+Je ne sais pas si vous le voyez. Non, vous ne le voyez pas.
+
+1196
+01:06:54.618 --> 01:06:57.218
+On peut highlight les nofollow et highlight les dofollow.
+
+1197
+01:06:58.438 --> 01:07:00.158
+Je ne sais pas si vous voyez les carrés. Oui.
+
+1198
+01:07:01.178 --> 01:07:05.158
+Là, on voit bien les carrés et c'est que les dofollow que j'ai mis.
+
+1199
+01:07:07.118 --> 01:07:10.078
+L'idée, c'est de les détecter plus rapidement et plus
+
+1200
+01:07:10.118 --> 01:07:13.158
+simplement. On va aller sur deux, trois pages et on va voir si dans les
+
+1201
+01:07:13.198 --> 01:07:16.668
+messages, on trouve un lien. P****n, il faut le réactiver
+
+1202
+01:07:19.578 --> 01:07:21.738
+Et ça a l'air d'être justement un forum PhpBB.
+
+1203
+01:07:23.258 --> 01:07:26.258
+De base, ces forums ont toujours les liens
+
+1204
+01:07:27.358 --> 01:07:29.698
+en dofollow et il n'y a aucun lien qui est en nofollow.
+
+1205
+01:07:30.798 --> 01:07:32.898
+C'est pour ça que ce sont des bons spots.
+
+1206
+01:07:36.678 --> 01:07:36.998
+Yes.
+
+1207
+01:07:40.078 --> 01:07:43.858
+Les constructeurs du forum PhpBB ont mis tous les liens de
+
+1208
+01:07:43.898 --> 01:07:44.418
+base.
+
+1209
+01:07:44.818 --> 01:07:48.738
+C'est pour ça qu'on voit partout PhpBB dans les
+
+1210
+01:07:48.778 --> 01:07:49.497
+footprint.
+
+1211
+01:07:55.358 --> 01:07:58.878
+C'est bien parce qu'on pourra tester après avec le footprint PhpBB.
+
+1212
+01:07:58.918 --> 01:08:02.778
+Je ne sais pas si vous l'avez vu en bas, je ne
+
+1213
+01:08:03.798 --> 01:08:07.078
+connais pas assez, mais est-ce que tous l'ont dans le footer ?
+
+1214
+01:08:07.378 --> 01:08:08.238
+J'imagine que
+
+1215
+01:08:09.078 --> 01:08:09.418
+oui.
+
+1216
+01:08:10.158 --> 01:08:12.038
+Il me semble que oui, parce que c'est un truc gratuit.
+
+1217
+01:08:12.338 --> 01:08:13.638
+OK.
+
+1218
+01:08:14.458 --> 01:08:18.119
+Donc facile à retrouver. Ce sont des forums
+
+1219
+01:08:18.258 --> 01:08:19.159
+souvent très moches comme ça,
+
+1220
+01:08:20.038 --> 01:08:21.239
+mais on s'en f**t.
+
+1221
+01:08:22.138 --> 01:08:24.338
+Comme Mathieu le dit,
+
+1222
+01:08:25.458 --> 01:08:25.898
+je te crois,
+
+1223
+01:08:27.079 --> 01:08:30.579
+j'imagine qu'ils sont tous dofollow à chaque fois, donc je n'ai même pas besoin de
+
+1224
+01:08:30.598 --> 01:08:32.338
+checker tous les PhpBB.
+
+1225
+01:08:33.159 --> 01:08:37.018
+Il me semble que oui. Je crois que c'est vraiment dans la construction du
+
+1226
+01:08:37.058 --> 01:08:39.418
+forum. Ce n'est pas possible de mettre en nofollow les liens.
+
+1227
+01:08:39.498 --> 01:08:39.638
+OK.
+
+1228
+01:08:41.239 --> 01:08:43.418
+De toute façon, là, on le voit, c'est du dofollow.
+
+1229
+01:08:44.838 --> 01:08:48.199
+C'est peut-être fait exprès, mais à chaque fois, tous les liens sont bien en
+
+1230
+01:08:49.138 --> 01:08:52.748
+dofollow. C'est un bon exemple potentiel de site où on pourrait le placer.
+
+1231
+01:08:52.958 --> 01:08:56.777
+Là, on est sur des réparations de lampes à LED, ce n'est peut-être pas le meilleur
+
+1232
+01:08:57.098 --> 01:08:59.978
+truc. Après, ça dépend comment vous placez aussi le
+
+1233
+01:09:00.798 --> 01:09:02.458
+message et la réponse, etc.
+
+1234
+01:09:03.398 --> 01:09:05.818
+À partir de là, vu qu'on a trouvé un truc.
+
+1235
+01:09:08.338 --> 01:09:09.438
+Je ne sais pas si c'est vraiment pertinent.
+
+1236
+01:09:09.858 --> 01:09:11.898
+Collectionneurs utilisateurs d'ordinateurs anciens.
+
+1237
+01:09:13.538 --> 01:09:16.699
+S'il y a une discussion liée
+
+1238
+01:09:18.758 --> 01:09:22.079
+à votre niche, même si c'est un truc d'ordi,
+
+1239
+01:09:23.079 --> 01:09:26.858
+ça peut être pertinent. Dans le sens où la discussion est quand même
+
+1240
+01:09:26.898 --> 01:09:30.619
+tournée sur le luminaire. Dans l'idéal, il faut que le
+
+1241
+01:09:30.678 --> 01:09:33.358
+domaine en soi soit plus basé sur votre thématique.
+
+1242
+01:09:33.798 --> 01:09:37.218
+C'est pareil logiquement, tous les outils font ça,
+
+1243
+01:09:37.279 --> 01:09:39.128
+mais sur SEMrush, je me demande s'ils ne
+
+1244
+01:09:39.279 --> 01:09:42.518
+parlent pas de ça à un
+
+1245
+01:09:42.579 --> 01:09:43.699
+endroit.
+
+1246
+01:09:44.818 --> 01:09:45.478
+Je crois que oui.
+
+1247
+01:09:47.898 --> 01:09:51.079
+De la thématique, je n'en sais rien, mais je crois que oui.
+
+1248
+01:09:51.579 --> 01:09:53.498
+Pour moi, pour du ninja linking, tu t'en fous.
+
+1249
+01:09:53.978 --> 01:09:56.418
+À partir du moment où il y a ton mot clé, tu le mets.
+
+1250
+01:09:56.738 --> 01:09:57.858
+Après...
+
+1251
+01:09:58.038 --> 01:09:58.478
+Tu fais de la masse.
+
+1252
+01:09:59.078 --> 01:10:01.508
+Oui, tu fais de la masse, mais
+
+1253
+01:10:01.778 --> 01:10:05.758
+ce sera forcément plus pertinent aux yeux de Google si c'est lié à ta
+
+1254
+01:10:05.778 --> 01:10:06.478
+thématique aussi.
+
+1255
+01:10:07.518 --> 01:10:09.598
+Tu peux faire de la masse de petits liens, mais
+
+1256
+01:10:10.798 --> 01:10:14.318
+ce sera quand même logiquement plus puissant si c'est lié à la thématique aussi.
+
+1257
+01:10:15.098 --> 01:10:18.898
+Et surtout la discussion. C'est un peu bizarre dans un truc de
+
+1258
+01:10:18.938 --> 01:10:22.918
+brocante de mettre ton lien. Enfin brocante, ce n'est pas le
+
+1259
+01:10:22.938 --> 01:10:23.378
+bon exemple.
+
+1260
+01:10:23.858 --> 01:10:26.058
+C'est parce que justement, tu peux toujours relier à ta niche.
+
+1261
+01:10:26.098 --> 01:10:29.978
+Par exemple, brocante, tu peux dire : « Je vends un luminaire
+
+1262
+01:10:30.298 --> 01:10:31.478
+de tel site. »
+
+1263
+01:10:31.487 --> 01:10:33.598
+Site de fromage, tu fais comment pour lier à ton truc de luminaire
+
+1264
+01:10:34.978 --> 01:10:35.978
+? Tu vois ce que je veux dire ?
+
+1265
+01:10:36.018 --> 01:10:38.658
+Je vais chercher une lampe pour la fondue savoyarde.
+
+1266
+01:10:38.678 --> 01:10:38.707
+J'en
+
+1267
+01:10:39.558 --> 01:10:39.898
+sais rien.
+
+1268
+01:10:40.618 --> 01:10:43.898
+En vrai, il y a toujours moyen, comme tu dis, mais tu es d'accord avec moi
+
+1269
+01:10:43.938 --> 01:10:47.798
+qu'on ne peut pas trop savoir, mais ça paraît logique que
+
+1270
+01:10:47.838 --> 01:10:50.058
+ce soit plus legit pour Google que-
+
+1271
+01:10:50.798 --> 01:10:53.728
+Complètement. Je pense que ça donne plus de puissance quand c'est un site qui est
+
+1272
+01:10:53.778 --> 01:10:57.598
+thématisé, que la discussion est thématisée et qu'il y a des gens qui
+
+1273
+01:10:58.218 --> 01:11:01.158
+vont sur le forum, qui cliquent même sur ton lien.
+
+1274
+01:11:01.668 --> 01:11:05.358
+Mais vu que le ninja linking, c'est un peu de la masse pas chère et qu'en plus,
+
+1275
+01:11:05.778 --> 01:11:07.578
+sur les forums, il y a de fortes chances que tu te fasses ban.
+
+1276
+01:11:07.668 --> 01:11:11.318
+Souvent les
+
+1277
+01:11:11.478 --> 01:11:14.998
+modérateurs savent qu'il y a des spammeurs qui viennent mettre des liens, ils sont
+
+1278
+01:11:15.038 --> 01:11:15.738
+souvent très
+
+1279
+01:11:16.598 --> 01:11:20.478
+rudes. J'ai fait pas mal de ninja linking sur du forum PhpBB, tu te fais supprimer
+
+1280
+01:11:20.518 --> 01:11:23.038
+tes liens en masse tout le temps. Il faut vraiment bourriner.
+
+1281
+01:11:25.198 --> 01:11:27.358
+Au bout d'un moment, je n'en avais plus r**n à f****e, je m'étais sur n'importe
+
+1282
+01:11:27.378 --> 01:11:30.018
+quel site alors que ça n'avait aucun rapport avec ma niche.
+
+1283
+01:11:30.198 --> 01:11:33.838
+J'essayais de thématiser. Et justement, avec une IA, tu lui demandes comment tu
+
+1284
+01:11:33.858 --> 01:11:34.758
+arriverais à faire un lien
+
+1285
+01:11:35.998 --> 01:11:36.638
+pour thématiser.
+
+1286
+01:11:37.478 --> 01:11:40.138
+C'est ça. L'idée après, c'est que quand on poste,
+
+1287
+01:11:40.397 --> 01:11:44.368
+dans l'idéal, c'est de trouver une discussion qui est à peu près logique à
+
+1288
+01:11:44.398 --> 01:11:47.598
+votre thématique. Après, l'idée, c'est qu'on copie tout le contenu, toute la
+
+1289
+01:11:47.678 --> 01:11:51.398
+discussion. On explique à l'IA qu'on veut poser un lien
+
+1290
+01:11:51.738 --> 01:11:55.538
+ninja sur un forum et lui demander d'essayer de trouver un
+
+1291
+01:11:55.598 --> 01:11:58.998
+truc qui répond potentiellement à un message ou à la discussion,
+
+1292
+01:11:59.478 --> 01:12:00.398
+qui incorpore
+
+1293
+01:12:01.258 --> 01:12:01.618
+un peu
+
+1294
+01:12:03.098 --> 01:12:04.118
+indirect le lien.
+
+1295
+01:12:04.978 --> 01:12:05.858
+C'est un peu l'objectif.
+
+1296
+01:12:06.998 --> 01:12:10.628
+Ça vous évite de réfléchir. Parce
+
+1297
+01:12:11.398 --> 01:12:14.278
+qu'encore une fois, c'est un truc long, chiant, il y a du ban,
+
+1298
+01:12:15.338 --> 01:12:17.438
+tout ne sera pas posté comme il faut.
+
+1299
+01:12:18.578 --> 01:12:20.037
+Il
+
+1300
+01:12:25.698 --> 01:12:26.318
+faut
+
+1301
+01:12:27.118 --> 01:12:31.097
+vraiment prendre en compte qu'il y a possiblement des modérateurs qui
+
+1302
+01:12:31.118 --> 01:12:33.818
+vont checker les messages et voir si ce n'est pas trop spam.
+
+1303
+01:12:33.858 --> 01:12:37.818
+L'idée, c'est vraiment d'essayer d'être le
+
+1304
+01:12:37.858 --> 01:12:41.518
+plus naturel possible. L'IA, même si de base, l'IA n'est pas
+
+1305
+01:12:41.558 --> 01:12:44.738
+naturelle, elle va quand même vous aider à essayer de trouver un sujet ou répondre
+
+1306
+01:12:44.758 --> 01:12:48.058
+à un message en mettant possiblement un lien vers votre site
+
+1307
+01:12:49.218 --> 01:12:51.378
+de la façon la plus naturelle possible dans les discussions.
+
+1308
+01:12:51.698 --> 01:12:52.498
+C'est un peu l'objectif.
+
+1309
+01:12:53.398 --> 01:12:57.018
+Tu n'as pas
+
+1310
+01:12:57.078 --> 01:12:59.038
+la technique des PhpBB.
+
+1311
+01:12:59.858 --> 01:13:00.158
+Non.
+
+1312
+01:13:01.678 --> 01:13:03.258
+Un truc que j'ai appris, qui est génial.
+
+1313
+01:13:04.378 --> 01:13:07.518
+Si tu mets un lien direct, c'est ton premier message, tu vas te faire ban,
+
+1314
+01:13:08.478 --> 01:13:09.618
+90 % de chances que tu te fasses ban.
+
+1315
+01:13:09.638 --> 01:13:12.078
+Sauf s'il n'y a pas de modérateur sur le forum, ce qui arrive.
+
+1316
+01:13:12.398 --> 01:13:14.918
+Mais quand il n'y a pas de modérateur, c'est moins bien parce que le site est un
+
+1317
+01:13:14.958 --> 01:13:17.268
+peu plus poubelle. Il y a des liens partout, c'est dégueulasse.
+
+1318
+01:13:18.158 --> 01:13:22.064
+Mais souvent, il y a des modérateursSi tu mets un lien, ils vont te bannir.
+
+1319
+01:13:22.074 --> 01:13:25.694
+Donc ce que tu fais, c'est que tu prépares un message ou tu prépares ton spot là où
+
+1320
+01:13:25.714 --> 01:13:27.594
+tu vas mettre le lien, mais tu ne le mets pas tout de suite.
+
+1321
+01:13:27.854 --> 01:13:31.844
+Tu attends que le message s'enterre et quand tu viens éditer le message et
+
+1322
+01:13:31.914 --> 01:13:35.874
+remettre le lien dessus, tu peux totalement le faire et ça passe inaperçu.
+
+1323
+01:13:35.914 --> 01:13:39.634
+Et là, tu auras ton dofollow sur le truc et en plus, le message
+
+1324
+01:13:39.874 --> 01:13:42.374
+aura été modéré, donc les gens auront vu que tu n'es pas un spammeur.
+
+1325
+01:13:43.134 --> 01:13:43.774
+C'est complètement c*n.
+
+1326
+01:13:44.074 --> 01:13:47.914
+Après, ça peut être modéré, mais effectivement, tu réduis beaucoup tes
+
+1327
+01:13:47.954 --> 01:13:48.214
+chances.
+
+1328
+01:13:49.054 --> 01:13:52.814
+Moi, sur le coup, je ne me suis jamais fait bannir un message, justement,
+
+1329
+01:13:53.714 --> 01:13:56.794
+quand tu viens éditer. Mais des fois, j'édite deux, trois mois après parce que
+
+1330
+01:13:57.354 --> 01:14:00.034
+j'avais un tableau où j'oublie et je dis : « Ah oui, c'est vrai, il faut que je
+
+1331
+01:14:00.074 --> 01:14:00.714
+revienne dessus. »
+
+1332
+01:14:01.474 --> 01:14:03.974
+C'est bien que tu parles du tableau parce que justement, je voulais en parler.
+
+1333
+01:14:04.034 --> 01:14:07.684
+L'idée, c'est que tous les spots que vous allez trouver, vous faites
+
+1334
+01:14:08.054 --> 01:14:10.654
+par exemple un Google Sheet avec un système de date.
+
+1335
+01:14:11.254 --> 01:14:14.474
+Et c'est bien que tu parles aussi de rééditer parce
+
+1336
+01:14:14.494 --> 01:14:18.444
+qu'on peut répondre directement dans un truc, mais
+
+1337
+01:14:18.454 --> 01:14:21.734
+on peut aussi créer une discussion directe.
+
+1338
+01:14:22.374 --> 01:14:25.834
+Et tu peux occuper la discussion en la tournant
+
+1339
+01:14:26.374 --> 01:14:29.774
+sur des réponses qui vont être liées à ta thématique.
+
+1340
+01:14:30.254 --> 01:14:33.184
+Et toi, comme tu l'as dit plus tard, possiblement répondre en disant : «
+
+1341
+01:14:33.194 --> 01:14:35.274
+Maintenant, j'ai trouvé ça. Merci pour vos réponses ».
+
+1342
+01:14:35.874 --> 01:14:38.454
+Et tu mets le lien ou alors, effectivement, rééditer plus tard.
+
+1343
+01:14:39.234 --> 01:14:40.554
+C'est là que le Google Sheet va être utile.
+
+1344
+01:14:41.254 --> 01:14:41.654
+Il
+
+1345
+01:14:44.934 --> 01:14:48.094
+y a plein d'autres solutions, mais le Google Sheet, c'est un peu le truc basique où
+
+1346
+01:14:48.114 --> 01:14:52.054
+vous allez mettre les liens et le jour et vous allez
+
+1347
+01:14:52.094 --> 01:14:55.054
+dire un peu ce qui s'est passé. À vous de mettre un système de couleurs ou de mots
+
+1348
+01:14:55.074 --> 01:14:58.774
+clés ou je ne sais quoi, pour que vous n'oubliiez pas dans un mois,
+
+1349
+01:14:59.634 --> 01:15:02.934
+possiblement d'éditer, possiblement de répondre à la discussion que vous allez
+
+1350
+01:15:02.994 --> 01:15:06.514
+créer plus tard, J+7 ou J+14 ou un mois plus tard,
+
+1351
+01:15:07.094 --> 01:15:09.314
+ou éditer le lien comme Mathieu l'a dit.
+
+1352
+01:15:10.794 --> 01:15:13.724
+Le Google Sheet va être ultra-utile pour ça et pour savoir où vous en êtes,
+
+1353
+01:15:14.794 --> 01:15:18.254
+pour savoir qu'est-ce que vous avez fait, à quelle date, avec le lien,
+
+1354
+01:15:18.474 --> 01:15:21.934
+possiblement, de la discussion, pour aller aussi possiblement checker si votre lien
+
+1355
+01:15:21.954 --> 01:15:25.454
+est toujours actif ou pas, pour apprendre des erreurs, possiblement, que vous avez
+
+1356
+01:15:25.494 --> 01:15:27.554
+faites aussi. Peut-être que sur des forums,
+
+1357
+01:15:28.894 --> 01:15:32.774
+vous allez un peu apprendre petit à petit ce qu'il ne fallait pas dire ou est-ce
+
+1358
+01:15:32.794 --> 01:15:33.934
+qu'il fallait directement poser le lien.
+
+1359
+01:15:34.394 --> 01:15:37.474
+C'est ce genre de détails qui va faire aussi que tu apprends et c'est bien d'avoir
+
+1360
+01:15:37.554 --> 01:15:40.234
+les liens où tu as posté, comme ça, tu vois ce qui s'est passé.
+
+1361
+01:15:40.294 --> 01:15:44.174
+Effectivement,
+
+1362
+01:15:44.214 --> 01:15:47.154
+c'est un bon conseil que d'éditer plus tard en général.
+
+1363
+01:15:47.954 --> 01:15:49.174
+Ce n'est pas mal. Et surtout,
+
+1364
+01:15:50.754 --> 01:15:54.534
+créer une discussion qui va être liée et où tu pourras donner une
+
+1365
+01:15:54.574 --> 01:15:55.094
+réponse
+
+1366
+01:15:55.974 --> 01:15:59.774
+logique. Le message passera mieux et en plus, ce sera mieux thématisé.
+
+1367
+01:16:00.174 --> 01:16:02.554
+C'est pas mal aussi, parce que tu choisis directement.
+
+1368
+01:16:03.804 --> 01:16:05.474
+Après, encore une fois, il faut être naturel.
+
+1369
+01:16:06.574 --> 01:16:08.184
+On est sur un forum, il parle de quoi
+
+1370
+01:16:09.074 --> 01:16:10.994
+? On essaie de trouver un sujet pas trop
+
+1371
+01:16:12.534 --> 01:16:16.114
+spammy et intelligent et on essaie de lancer une discussion.
+
+1372
+01:16:16.134 --> 01:16:19.674
+Il y a des gens qui vont répondre. On répond un peu aux gens et possiblement, à un
+
+1373
+01:16:19.714 --> 01:16:23.494
+moment donné, soit on édite un des messages, soit on répond avec
+
+1374
+01:16:23.834 --> 01:16:25.794
+le lien qui sera le vôtre.
+
+1375
+01:16:27.234 --> 01:16:27.874
+Je
+
+1376
+01:16:30.254 --> 01:16:32.154
+pense qu'on a un peu parlé des commentaires.
+
+1377
+01:16:33.294 --> 01:16:34.134
+Il faut s'inscrire.
+
+1378
+01:16:36.594 --> 01:16:40.114
+On n'édite ou pas, on répond logiquement au fil de la discussion.
+
+1379
+01:16:40.584 --> 01:16:44.134
+Pour en revenir ici, j'imagine qu'il y en
+
+1380
+01:16:44.194 --> 01:16:45.414
+a f***u...
+
+1381
+01:16:46.874 --> 01:16:50.174
+Oui, parfait. Là, ce n'est pas in URL pour luminaire, c'est
+
+1382
+01:16:52.134 --> 01:16:55.453
+juste poweredbyphpbb.
+
+1383
+01:16:56.674 --> 01:16:57.214
+Je ne sais
+
+1384
+01:16:58.174 --> 01:17:03.754
+pas
+
+1385
+01:17:03.794 --> 01:17:05.864
+s'il faut mettre un plus entre les deux. Je ne crois pas.
+
+1386
+01:17:09.734 --> 01:17:12.614
+La deuxième potentielle print
+
+1387
+01:17:14.614 --> 01:17:17.734
+: powered ou éclairage intérieur.
+
+1388
+01:17:18.554 --> 01:17:20.534
+On va essayer de changer de mot clé.
+
+1389
+01:17:27.194 --> 01:17:30.293
+Lampe LED. Je ne sais pas si ça va marcher comme mot clé.
+
+1390
+01:17:33.814 --> 01:17:36.674
+On a mis ça, on va checker un site.
+
+1391
+01:17:38.274 --> 01:17:39.634
+Effectivement, ils ont tous la même gueule.
+
+1392
+01:17:41.534 --> 01:17:43.744
+Et là, comme tu disais, tu sais quoi, ça va être bien ?
+
+1393
+01:17:43.774 --> 01:17:47.054
+On va checker s'ils sont tous dofollow.
+
+1394
+01:17:48.134 --> 01:17:51.974
+Il n'y a pas de lien, c'est nul. Ça mène sur quoi ? PDF.
+
+1395
+01:17:56.534 --> 01:17:57.734
+Lui, il a mis son...
+
+1396
+01:18:00.194 --> 01:18:00.994
+Professionnel.
+
+1397
+01:18:02.354 --> 01:18:03.934
+Tu connais, Mathieu ?
+
+1398
+01:18:04.094 --> 01:18:06.634
+De mettre en signature son lien ?
+
+1399
+01:18:06.694 --> 01:18:06.894
+Oui.
+
+1400
+01:18:07.434 --> 01:18:09.984
+C'est vraiment spammy, mais je ne sais pas.
+
+1401
+01:18:09.994 --> 01:18:11.754
+Après, à mon avis, il faut avoir un peu de passif.
+
+1402
+01:18:13.734 --> 01:18:17.644
+Ou alors, si ça se trouve, ce n'est pas un modo ou autre, je ne
+
+1403
+01:18:17.694 --> 01:18:18.894
+crois pas. Sinon, ce serait écrit.
+
+1404
+01:18:19.874 --> 01:18:22.524
+Je ne sais pas. Ce qui est bien, c'est que tu apparais sur tous les
+
+1405
+01:18:23.394 --> 01:18:27.114
+messages que tu commentes. Mais après, son truc, il n'est pas contextualisé, il a
+
+1406
+01:18:27.154 --> 01:18:27.874
+juste mis le lien.
+
+1407
+01:18:27.934 --> 01:18:30.854
+Après, s'il est dans des discussions,
+
+1408
+01:18:31.654 --> 01:18:32.134
+pourquoi pas ?
+
+1409
+01:18:32.144 --> 01:18:32.554
+Oui, c'est vrai.
+
+1410
+01:18:34.574 --> 01:18:36.434
+À mon avis, là, pour le coup, c'est pareil.
+
+1411
+01:18:36.714 --> 01:18:38.304
+Encore une fois, je ne suis pas un pro de ça, mais
+
+1412
+01:18:39.134 --> 01:18:39.354
+là,
+
+1413
+01:18:41.754 --> 01:18:43.694
+il vaut mieux que ce soit sur un truc où vous êtes un peu actif.
+
+1414
+01:18:44.934 --> 01:18:45.974
+Parce que mon avis, sinon,
+
+1415
+01:18:46.814 --> 01:18:48.974
+ils ne vont pas accepter. Encore une fois, je n'en sais rien, mais
+
+1416
+01:18:49.234 --> 01:18:51.314
+j'imagine que
+
+1417
+01:18:52.274 --> 01:18:53.014
+premier message,
+
+1418
+01:18:53.834 --> 01:18:56.394
+tu réponds tranquille, mais par contre, tu as ton lien, tu as ton truc en
+
+1419
+01:18:56.434 --> 01:18:59.954
+signature. Je pense qu'il faut être un peu actif.
+
+1420
+01:19:00.334 --> 01:19:03.954
+Là, encore une fois, c'est un truc chiant, mais ça pourrait mériter pour une
+
+1421
+01:19:03.994 --> 01:19:04.334
+niche,
+
+1422
+01:19:06.094 --> 01:19:06.574
+je ne sais pas,
+
+1423
+01:19:07.734 --> 01:19:11.674
+une heure tous les dimanches soirs, enfin peu
+
+1424
+01:19:11.694 --> 01:19:12.734
+importe, une heure par
+
+1425
+01:19:13.574 --> 01:19:17.153
+semaine ou une heure, deux heures par semaine, mais espacées.
+
+1426
+01:19:18.014 --> 01:19:21.854
+Vous faites d'après un listing de trucs, vous répondez un peu
+
+1427
+01:19:21.934 --> 01:19:23.314
+régulièrement à des trucs à la c*n.
+
+1428
+01:19:23.734 --> 01:19:25.394
+Avec l'IA, encore une fois, ça prend deux secondes.
+
+1429
+01:19:25.894 --> 01:19:29.716
+Il y a une discussion qui s'est créée sur un sujetVous
+
+1430
+01:19:29.716 --> 01:19:33.066
+demandez à chat de faire un message sans lien, sans rien, juste pour
+
+1431
+01:19:33.126 --> 01:19:35.566
+participer, qu'on voit qu'il y a un peu de posts,
+
+1432
+01:19:35.626 --> 01:19:38.566
+qu'il y ait des data sur votre profil.
+
+1433
+01:19:39.206 --> 01:19:41.686
+C'est un peu du
+
+1434
+01:19:43.766 --> 01:19:46.966
+travail en amont chiant qui va donner des résultats intéressants plus tard parce
+
+1435
+01:19:47.006 --> 01:19:49.566
+que possiblement, vous ne vous faites pas ban.
+
+1436
+01:19:49.986 --> 01:19:53.025
+Possiblement, vous choisissez les bons forums où il y a
+
+1437
+01:19:53.046 --> 01:19:56.416
+un peu de jus, où c'est des trucs
+
+1438
+01:19:56.506 --> 01:19:59.106
+intéressants. Après, vous avez possiblement
+
+1439
+01:20:00.186 --> 01:20:03.366
+des signatures et posez des liens un peu plus facilement partout.
+
+1440
+01:20:03.386 --> 01:20:03.526
+Ce qu'on
+
+1441
+01:20:07.886 --> 01:20:08.706
+peut faire aussi, c'est
+
+1442
+01:20:09.546 --> 01:20:13.226
+dans la signature, au lieu de mettre l'URL comme le gars l'a fait,
+
+1443
+01:20:13.786 --> 01:20:17.526
+tu mets une petite image, genre le logo de ta boutique et sur ton
+
+1444
+01:20:17.546 --> 01:20:18.626
+logo, tu mets le lien.
+
+1445
+01:20:20.226 --> 01:20:22.006
+Les modérateurs y passent.
+
+1446
+01:20:23.886 --> 01:20:25.326
+C'est moins flag.
+
+1447
+01:20:25.846 --> 01:20:28.046
+Tu penses ? Je ne sais pas.
+
+1448
+01:20:28.306 --> 01:20:29.326
+J'ai fait beaucoup de forums
+
+1449
+01:20:30.506 --> 01:20:34.386
+dans les années 2000 et c'était déjà le cas à l'époque, le spam, ce n'était
+
+1450
+01:20:34.446 --> 01:20:37.986
+pas bien vu. C'est une petite manière moins flag
+
+1451
+01:20:38.066 --> 01:20:40.686
+de poster du lien plus facilement.
+
+1452
+01:20:42.626 --> 01:20:46.046
+Ou dans ton message, les gars mettaient des liens sur les
+
+1453
+01:20:46.186 --> 01:20:47.286
+emojis ou les trucs dans le genre.
+
+1454
+01:20:47.296 --> 01:20:49.006
+Sur les points, oui. C'est possible.
+
+1455
+01:20:49.886 --> 01:20:52.686
+C'est plus discret, mais du coup, en termes de SEO, ce n'est pas terrible de faire
+
+1456
+01:20:52.726 --> 01:20:52.846
+ça.
+
+1457
+01:20:55.006 --> 01:20:55.666
+C'est sûr, mais
+
+1458
+01:20:57.806 --> 01:21:01.066
+peut-être dans l'optique d'en faire une chiée de spam,
+
+1459
+01:21:02.406 --> 01:21:04.686
+ça peut être une solution. Après, oui,
+
+1460
+01:21:05.766 --> 01:21:07.326
+sur la virgule, ça ne se voit pas.
+
+1461
+01:21:08.746 --> 01:21:10.766
+Il me semble que les PHPBB,
+
+1462
+01:21:11.566 --> 01:21:15.486
+dans ton profil, tu peux mettre le lien de ton site, mais alors
+
+1463
+01:21:15.506 --> 01:21:17.686
+du coup, il apparaîtra sur ta page de profil.
+
+1464
+01:21:17.706 --> 01:21:21.126
+Donc c'est moins intéressant au niveau SEO, mais si vraiment, tu n'arrives pas à
+
+1465
+01:21:21.206 --> 01:21:21.766
+placer un...
+
+1466
+01:21:22.466 --> 01:21:26.066
+Tu peux le faire. Ou alors, dans ta réponse, tu
+
+1467
+01:21:26.166 --> 01:21:26.826
+intègres un mot
+
+1468
+01:21:27.866 --> 01:21:28.846
+avec la couleur de fond.
+
+1469
+01:21:30.186 --> 01:21:32.426
+Oui, mais ça reste souligné sur les PHPBB, il me semble, non ?
+
+1470
+01:21:33.546 --> 01:21:35.766
+Les liens restent soulignés, malheureusement.
+
+1471
+01:21:35.806 --> 01:21:37.086
+Oui, pour la plupart.
+
+1472
+01:21:37.745 --> 01:21:38.286
+Donc c'est flag .
+
+1473
+01:21:49.866 --> 01:21:53.566
+Après, je me demande, j'en sais rien, mais mettre une image
+
+1474
+01:21:53.806 --> 01:21:55.026
+qui est une image de son site,
+
+1475
+01:21:56.106 --> 01:21:56.726
+comment ça marche
+
+1476
+01:21:58.606 --> 01:21:58.606
+?
+
+1477
+01:21:58.666 --> 01:22:00.706
+Oui, tu peux le faire, tu peux insérer une image, bien sûr.
+
+1478
+01:22:01.306 --> 01:22:01.886
+Ça donne du jus
+
+1479
+01:22:03.566 --> 01:22:03.566
+?
+
+1480
+01:22:03.666 --> 01:22:05.866
+Je n'ai pas vraiment vérifié. Je ne sais pas.
+
+1481
+01:22:06.066 --> 01:22:08.566
+Mathieu, toi qui as expérimenté un peu plus, apparemment.
+
+1482
+01:22:09.366 --> 01:22:10.606
+Les images, je ne sais pas, non, pour le coup.
+
+1483
+01:22:11.386 --> 01:22:14.166
+Mais tu veux dire en embed, du coup, avec le lien de ton site ?
+
+1484
+01:22:14.366 --> 01:22:15.946
+Oui, directement sur l'image.
+
+1485
+01:22:15.966 --> 01:22:18.426
+Ça pourrait être une bonne idée. Je ne sais pas du tout.
+
+1486
+01:22:18.556 --> 01:22:20.226
+Pour le coup, je ne sais pas si ça donne du jus.
+
+1487
+01:22:21.626 --> 01:22:22.766
+Oui, je ne sais pas.
+
+1488
+01:22:23.886 --> 01:22:26.186
+C'est une bonne question à poser à Liam, ça. Je n'en sais rien du tout.
+
+1489
+01:22:26.706 --> 01:22:29.966
+Parce que je me dis : « Ce n'est pas un lien, du coup.
+
+1490
+01:22:31.126 --> 01:22:34.586
+» Après, il peut être quand même linké à l'URL image.
+
+1491
+01:22:35.306 --> 01:22:39.246
+Mais je ne sais pas. Après, de toute façon, ça amène sur une image, ce n'est pas
+
+1492
+01:22:39.266 --> 01:22:39.606
+l'endroit.
+
+1493
+01:22:41.106 --> 01:22:44.866
+Ou alors l'image amène sur le lien, mais à ce moment-là, ça tue trop d'intérêt.
+
+1494
+01:22:46.006 --> 01:22:48.246
+Je n'en sais rien, il faudrait que je checke ça, comment ça marche.
+
+1495
+01:22:48.926 --> 01:22:49.726
+En
+
+1496
+01:22:52.166 --> 01:22:54.146
+mettant ça, par exemple, on a
+
+1497
+01:22:56.326 --> 01:22:57.125
+quasiment que du
+
+1498
+01:22:58.786 --> 01:23:00.086
+PHPBB, logiquement.
+
+1499
+01:23:01.326 --> 01:23:03.846
+À vous d'analyser. Je crois qu'il y a des extensions aussi.
+
+1500
+01:23:03.906 --> 01:23:05.686
+Je me demande si Majestic le font pas.
+
+1501
+01:23:06.466 --> 01:23:07.166
+Attends, je
+
+1502
+01:23:09.086 --> 01:23:09.626
+vais regarder.
+
+1503
+01:23:11.226 --> 01:23:13.306
+Il y a des trucs gratuits. Est-ce que Majestic, ils ont le truc gratuit
+
+1504
+01:23:15.146 --> 01:23:17.306
+? Pour avoir les données, je ne sais plus ce que j'utilise.
+
+1505
+01:23:17.346 --> 01:23:21.246
+Je l'ai sur le PC, dans mon
+
+1506
+01:23:21.286 --> 01:23:24.586
+navigateur où j'ai les données. Ça ne vous dit pas un truc,
+
+1507
+01:23:24.646 --> 01:23:27.446
+les stats dans la SERP
+
+1508
+01:23:28.686 --> 01:23:30.946
+? Genre Authority, backlink et tout.
+
+1509
+01:23:31.806 --> 01:23:33.046
+C'est quoi l'extension qui fait ça ?
+
+1510
+01:23:34.826 --> 01:23:35.306
+Ça ne vous parle pas
+
+1511
+01:23:37.066 --> 01:23:37.066
+?
+
+1512
+01:23:44.706 --> 01:23:48.126
+Ce n'est pas Ubersuggest qui le fait directement dans la SERP ?
+
+1513
+01:23:48.646 --> 01:23:50.345
+Je ne sais pas. Je vais tester.
+
+1514
+01:23:51.506 --> 01:23:54.506
+Ubersuggest.
+
+1515
+01:23:55.506 --> 01:23:56.026
+Peut-être.
+
+1516
+01:23:57.746 --> 01:23:59.986
+On va tester. J'ai installé deux trucs, on va voir ce que ça donne.
+
+1517
+01:24:01.386 --> 01:24:03.966
+Tac, actualise. Oui.
+
+1518
+01:24:05.326 --> 01:24:07.066
+Ce n'est pas celui que j'ai, mais
+
+1519
+01:24:09.046 --> 01:24:10.066
+potentiellement, c'est des données.
+
+1520
+01:24:10.106 --> 01:24:12.486
+Mais c'est un peu le même système, ça met l'authority et tout.
+
+1521
+01:24:14.566 --> 01:24:15.836
+Donc oui, il le fait. Après,
+
+1522
+01:24:16.046 --> 01:24:19.846
+c'est établi par Moz.
+
+1523
+01:24:19.986 --> 01:24:21.326
+Ce n'est pas
+
+1524
+01:24:22.266 --> 01:24:24.426
+Ubersuggest qui font leurs propres calculs.
+
+1525
+01:24:26.026 --> 01:24:29.966
+Déjà, possiblement, là, ça peut être une extension, donc c'est Ubersuggest en
+
+1526
+01:24:30.266 --> 01:24:32.066
+extension Chrome. Et le deuxième,
+
+1527
+01:24:33.226 --> 01:24:34.286
+on va voir s'il fonctionne.
+
+1528
+01:24:39.386 --> 01:24:43.316
+Je me demande si ce n'est pas gratuit, Majestic, pour avoir l'extension
+
+1529
+01:24:43.326 --> 01:24:47.266
+Chrome. Ça vous dit aussi un truc ? Extension Chrome Majestic gratuite pour avoir
+
+1530
+01:24:47.306 --> 01:24:50.546
+les données vite fait. Peut-être que oui, vous ferez le check.
+
+1531
+01:24:51.786 --> 01:24:53.346
+Ceux qui sont intéressés par ça, vous ferez le check.
+
+1532
+01:24:53.826 --> 01:24:57.686
+L'idée, c'est aussi de choisir possiblement ceux
+
+1533
+01:24:57.726 --> 01:24:59.106
+qui sont un peu intéressants.
+
+1534
+01:25:00.426 --> 01:25:03.326
+Ça ne sert à rien de prendre du 1, 2, 3, 5, 10.
+
+1535
+01:25:04.326 --> 01:25:07.446
+Autant partir, là, on voit qu'il y a du 40, 50 partout.
+
+1536
+01:25:08.466 --> 01:25:11.446
+Après, généralement, ils vont être aussi listés potentiellement par autorité.
+
+1537
+01:25:13.166 --> 01:25:14.106
+À peu près. Ça
+
+1538
+01:25:14.906 --> 01:25:17.745
+va dépendre du mot clé, du coup, mais en général, là, ils ne vont pas mettre les
+
+1539
+01:25:17.806 --> 01:25:19.076
+deux, sauf si c'est vraiment des
+
+1540
+01:25:21.066 --> 01:25:21.906
+long trend, peut-être.
+
+1541
+01:25:23.646 --> 01:25:26.266
+Je ne sais pas, je pense, j'ai fait le tour. C'est basique en soi.
+
+1542
+01:25:27.306 --> 01:25:31.026
+Après, il y a juste peut-être les full prix qui vont faire que vous le cherchez sur
+
+1543
+01:25:31.206 --> 01:25:34.818
+plein dePlein de footprints différents et vos mots clés.
+
+1544
+01:25:35.438 --> 01:25:39.318
+Après, c'est juste une question de : on va sur le site, on analyse le
+
+1545
+01:25:39.358 --> 01:25:40.518
+site.
+
+1546
+01:25:41.638 --> 01:25:42.738
+Est-ce que c'est du follow ou pas ?
+
+1547
+01:25:43.518 --> 01:25:48.598
+Après,
+
+1548
+01:25:48.678 --> 01:25:51.738
+on répond juste au truc, on essaie de glisser son lien et
+
+1549
+01:25:52.458 --> 01:25:53.518
+l'expérience fera que
+
+1550
+01:25:54.938 --> 01:25:55.698
+vous allez
+
+1551
+01:25:57.078 --> 01:25:59.598
+mettre des trucs pertinents et pas vous faire ban instant.
+
+1552
+01:26:00.078 --> 01:26:03.538
+On a donné deux, trois tips sur ça. Je pense que j'ai fait le tour, au final.
+
+1553
+01:26:06.178 --> 01:26:06.298
+Non
+
+1554
+01:26:08.198 --> 01:26:08.198
+?
+
+1555
+01:26:08.378 --> 01:26:10.518
+Il y a aussi le fait d'aller les chercher par rapport
+
+1556
+01:26:11.598 --> 01:26:13.598
+à des sites de forum, de concurrents.
+
+1557
+01:26:13.718 --> 01:26:15.998
+Oui, tu as raison. Ça, j'avais noté.
+
+1558
+01:26:17.078 --> 01:26:19.338
+Je pense que ce point-là, je ne sais pas.
+
+1559
+01:26:19.378 --> 01:26:20.858
+Encore une fois, je pense qu'on a fait le tour.
+
+1560
+01:26:20.998 --> 01:26:24.727
+C'est juste une question de : qu'est-ce que vous tapez pour trouver les sites
+
+1561
+01:26:25.218 --> 01:26:27.508
+? Et après, comment vous détectez si c'est un bon endroit ?
+
+1562
+01:26:27.518 --> 01:26:31.398
+Est-ce qu'ils sont du follow ? À vous de poster correctement et ne pas être trop
+
+1563
+01:26:31.438 --> 01:26:33.858
+c*n sur ça, utilisez l'IA pour essayer.
+
+1564
+01:26:34.218 --> 01:26:36.938
+Encore une fois, on peut éditer, on peut créer la discussion,
+
+1565
+01:26:38.478 --> 01:26:39.738
+essayer d'être le plus naturel.
+
+1566
+01:26:41.338 --> 01:26:44.038
+Ça reste quand même un peu de la logique.
+
+1567
+01:26:44.378 --> 01:26:48.218
+Le deuxième truc pour faire ça, pour trouver les spots,
+
+1568
+01:26:48.618 --> 01:26:51.778
+parce que possiblement, on en loupe des ultra-intéressants,
+
+1569
+01:26:52.938 --> 01:26:53.218
+ou alors,
+
+1570
+01:26:54.098 --> 01:26:57.238
+il y a un autre moyen de les trouver plus facilement, c'est d'aller voir
+
+1571
+01:26:57.318 --> 01:26:58.658
+des sites
+
+1572
+01:26:59.498 --> 01:27:00.838
+qui en ont déjà fait,
+
+1573
+01:27:01.998 --> 01:27:02.818
+qui n'ont pas été ban,
+
+1574
+01:27:05.238 --> 01:27:08.198
+qui ont déjà posté sur les forums, qui n'ont pas été ban, qui ont peut-être trouvé
+
+1575
+01:27:08.238 --> 01:27:09.178
+des spots intéressants, etc.
+
+1576
+01:27:09.998 --> 01:27:13.258
+Là, il faut analyser les backlinks des gens qui ont
+
+1577
+01:27:15.238 --> 01:27:16.118
+déjà fait le travail pour vous.
+
+1578
+01:27:18.318 --> 01:27:19.218
+Et pour ça,
+
+1579
+01:27:20.078 --> 01:27:23.958
+il faudrait que je trouve une
+
+1580
+01:27:24.018 --> 01:27:27.918
+niche aussi. Les lampes, à mon avis, je ne pense pas qu'on trouve
+
+1581
+01:27:27.958 --> 01:27:28.578
+des trains.
+
+1582
+01:27:29.938 --> 01:27:33.158
+Je testerai, mais je ne pense pas. L'idée,
+
+1583
+01:27:33.938 --> 01:27:35.438
+c'était de trouver des sites qui sont
+
+1584
+01:27:36.498 --> 01:27:40.418
+des profils soit plus SEO, soit plus affiliation, qui se feront plus
+
+1585
+01:27:40.438 --> 01:27:44.138
+ce genre de liens, je pense. Et donc trouver des
+
+1586
+01:27:44.198 --> 01:27:44.538
+niches
+
+1587
+01:27:45.498 --> 01:27:49.418
+et donc trouver des sites dans la même niche et donc analyser leur
+
+1588
+01:27:49.458 --> 01:27:53.327
+backlink. J'avais noté deux,
+
+1589
+01:27:53.358 --> 01:27:54.658
+trois trucs liés à ma ficelle.
+
+1590
+01:27:56.098 --> 01:27:59.218
+J'ai peur que ça soit un peu trop
+
+1591
+01:27:59.558 --> 01:28:01.298
+concurrentiel et donc qu'il n'y ait pas trop de
+
+1592
+01:28:02.898 --> 01:28:04.978
+forums, mais on va check. Si je mets ça,
+
+1593
+01:28:05.798 --> 01:28:07.318
+en général, ce qui va ressortir...
+
+1594
+01:28:07.558 --> 01:28:09.198
+Il faudrait peut-être mettre un
+
+1595
+01:28:10.318 --> 01:28:11.618
+truc un peu plus niché.
+
+1596
+01:28:13.518 --> 01:28:14.458
+Voyons voir celui-là.
+
+1597
+01:28:17.938 --> 01:28:20.378
+Là, je suis sur une sorte de comparatif.
+
+1598
+01:28:21.698 --> 01:28:23.168
+Pourquoi pas, on va tester ça. Là,
+
+1599
+01:28:25.658 --> 01:28:27.438
+je ne suis peut-être pas du tout dans la niche, mais l'idée,
+
+1600
+01:28:27.518 --> 01:28:31.418
+encore une fois, il y a plein de moyens, c'est tout ça
+
+1601
+01:28:31.458 --> 01:28:35.278
+qui va jouer, de trouver les sites qui, possiblement, font
+
+1602
+01:28:35.598 --> 01:28:38.958
+eux-mêmes du ninja linking. C'est pour ça, en général, ce sont les sites qui vont
+
+1603
+01:28:39.018 --> 01:28:42.638
+être quasiment full SEO ou qui sont en affiliation.
+
+1604
+01:28:43.158 --> 01:28:46.688
+Là, par exemple, « meilleur » ou « avis machin », ce sont
+
+1605
+01:28:46.698 --> 01:28:49.458
+généralement des sites d'affiliation.
+
+1606
+01:28:50.438 --> 01:28:53.618
+J'ai pris l'exemple des purificateurs, mais qu'est-ce qui pourrait être lié
+
+1607
+01:28:53.678 --> 01:28:54.958
+à la déco
+
+1608
+01:28:56.458 --> 01:28:56.818
+? En
+
+1609
+01:28:57.078 --> 01:29:02.998
+vrai,
+
+1610
+01:29:03.047 --> 01:29:07.458
+pourquoi
+
+1611
+01:29:08.658 --> 01:29:10.588
+pas ? Parce que animaux, mais non. C'est
+
+1612
+01:29:10.778 --> 01:29:21.678
+de
+
+1613
+01:29:21.738 --> 01:29:24.418
+trouver un truc dans les luminaires, mais c'est un peu compliqué.
+
+1614
+01:29:24.758 --> 01:29:28.118
+Ou au moins dans la déco. Quel type de produit ?
+
+1615
+01:29:28.198 --> 01:29:30.138
+Ce qu'on va un peu chercher dans la déco.
+
+1616
+01:29:33.798 --> 01:29:36.478
+Je peux essayer « meilleures lampes », je ne sais quoi, mais je ne suis pas sûr
+
+1617
+01:29:36.538 --> 01:29:38.998
+qu'on va tomber sur du ecom. J'ai peur que...
+
+1618
+01:29:39.548 --> 01:29:41.138
+« Meilleures lampes LED
+
+1619
+01:29:43.158 --> 01:29:43.158
+».
+
+1620
+01:29:45.078 --> 01:29:46.138
+On
+
+1621
+01:29:49.857 --> 01:29:52.177
+va voir ce que ça donne. Oui, les meilleures, non.
+
+1622
+01:29:57.578 --> 01:29:59.498
+Non, ça va pas être le bon...
+
+1623
+01:30:01.758 --> 01:30:05.438
+C'est vrai que ça peut être un peu chiant à trouver dans le bio ecom.
+
+1624
+01:30:08.558 --> 01:30:10.758
+« Meilleur canapé », peut-être
+
+1625
+01:30:12.918 --> 01:30:12.918
+?
+
+1626
+01:30:19.878 --> 01:30:20.978
+Non, on ne va pas essayer de
+
+1627
+01:30:22.058 --> 01:30:22.618
+comparatif.
+
+1628
+01:30:24.858 --> 01:30:26.178
+Est-ce qu'on trouve du...
+
+1629
+01:30:27.998 --> 01:30:28.838
+Il va y avoir que de l'ecom ici.
+
+1630
+01:30:37.378 --> 01:30:39.158
+Tant pis, je fais les purificateurs d'air.
+
+1631
+01:30:39.198 --> 01:30:39.978
+Vous essayerez de trouver
+
+1632
+01:30:41.138 --> 01:30:44.478
+les mots clés qui sont liés à ça. L'idée, encore une fois, c'est de trouver
+
+1633
+01:30:44.658 --> 01:30:47.818
+possiblement full SEO, petite niche ou
+
+1634
+01:30:48.978 --> 01:30:52.738
+affiliation, pour trouver, par exemple, ce genre de site que j'ai ouvert.
+
+1635
+01:30:54.578 --> 01:30:57.278
+M***e, il est partagé depuis tout à l'heure. Je n'étais pas sur le Google.
+
+1636
+01:30:58.918 --> 01:31:00.558
+Le but, c'est de trouver ce genre de site.
+
+1637
+01:31:02.198 --> 01:31:04.658
+On ne va pas être du tout thématisé sur la déco, mais on s'en f**t.
+
+1638
+01:31:05.138 --> 01:31:07.578
+Le but, c'est juste de montrer ce domaine
+
+1639
+01:31:09.018 --> 01:31:12.338
+dans SEMrush pour voir si on arrive à trouver des spots.
+
+1640
+01:31:14.898 --> 01:31:18.798
+Et à vous d'utiliser les bons mots clés pour trouver des sites liés à votre
+
+1641
+01:31:18.838 --> 01:31:19.198
+niche.
+
+1642
+01:31:20.678 --> 01:31:21.538
+Je départage
+
+1643
+01:31:23.918 --> 01:31:24.858
+et je repartage
+
+1644
+01:31:26.098 --> 01:31:26.298
+ça.
+
+1645
+01:31:28.718 --> 01:31:29.798
+M***e, ça n'a pas collé.
+
+1646
+01:31:32.098 --> 01:31:34.458
+Ça
+
+1647
+01:31:34.498 --> 01:31:40.518
+partage.C'est
+
+1648
+01:31:40.538 --> 01:31:41.778
+d'aller dans les domaines référents.
+
+1649
+01:31:45.758 --> 01:31:48.958
+On peut trier follow ou non, on s'en f**t à la limite.
+
+1650
+01:31:50.568 --> 01:31:52.618
+Sauf si vous voulez que du follow, vous mettez follow.
+
+1651
+01:31:53.098 --> 01:31:55.218
+On va trier par AS, par exemple.
+
+1652
+01:31:56.218 --> 01:31:59.138
+Peut-être qu'il n'y aura rien du tout.
+
+1653
+01:32:02.458 --> 01:32:05.598
+Ce qu'on peut check, par exemple, je vois qu'il y a Futura Sciences.
+
+1654
+01:32:06.638 --> 01:32:08.718
+Je vérifie que c'est bien un site de m***e.
+
+1655
+01:32:14.998 --> 01:32:18.178
+Ça a l'air. Attendez, je revérifie un truc.
+
+1656
+01:32:22.738 --> 01:32:25.418
+C'est quoi ça ? Non, OK.
+
+1657
+01:32:26.298 --> 01:32:28.578
+Ça m'a l'air OK comme exemple.
+
+1658
+01:32:29.678 --> 01:32:30.498
+Je retourne ici,
+
+1659
+01:32:31.838 --> 01:32:32.858
+je retrie par AS.
+
+1660
+01:32:34.698 --> 01:32:39.918
+Déjà,
+
+1661
+01:32:39.938 --> 01:32:42.308
+on peut voir aussi comment ils ont eu
+
+1662
+01:32:43.958 --> 01:32:45.778
+le lien BFM.
+
+1663
+01:32:48.678 --> 01:32:50.558
+Peut-être qu'ils ont payé aussi, on va voir.
+
+1664
+01:32:56.918 --> 01:32:58.937
+Si ça se trouve, j'ai pris un gros site, je ne sais pas.
+
+1665
+01:33:08.418 --> 01:33:09.698
+D'accord. À mon avis,
+
+1666
+01:33:11.378 --> 01:33:12.938
+ils ont dû acheter un lien, j'imagine.
+
+1667
+01:33:13.778 --> 01:33:15.258
+Oui, les liens médias, c'est souvent payé.
+
+1668
+01:33:15.558 --> 01:33:17.478
+Un BFM, ça coûte 3 000, 4 000 € quand même.
+
+1669
+01:33:17.558 --> 01:33:17.698
+Oui.
+
+1670
+01:33:18.918 --> 01:33:19.958
+Mais ce n'est pas très rentable.
+
+1671
+01:33:25.838 --> 01:33:27.778
+C'était juste par curiosité, parce que des fois,
+
+1672
+01:33:30.398 --> 01:33:31.218
+tu peux trouver des
+
+1673
+01:33:33.158 --> 01:33:34.518
+techniques qu'ils ont utilisées.
+
+1674
+01:33:36.338 --> 01:33:37.158
+Bon, là, BFM, c'était
+
+1675
+01:33:38.238 --> 01:33:41.668
+écrit en plus : « Article
+
+1676
+01:33:43.518 --> 01:33:46.298
+n'est pas rédigé par la rédaction ». On voit qu'il est dégueulasse en plus.
+
+1677
+01:33:46.838 --> 01:33:49.258
+C'est eux qui ont dû filer leur article et effectivement, qui ont dû payer.
+
+1678
+01:33:49.898 --> 01:33:52.558
+Ils n'ont pas glissé leur lien quelque part, c'est leur article à eux,
+
+1679
+01:33:53.938 --> 01:33:57.258
+qui est d'ailleurs peut-être partagé, si ça se partage, les articles.
+
+1680
+01:33:57.288 --> 01:33:58.698
+Il faudrait vérifier, mais il y en a deux.
+
+1681
+01:33:59.678 --> 01:34:03.498
+Peut-être que c'est un article partagé. On s'en f**t à la limite.
+
+1682
+01:34:04.618 --> 01:34:06.397
+Ça peut venir de I-Référencier, je pense.
+
+1683
+01:34:07.158 --> 01:34:09.278
+En général, c'est eux qui vendent.
+
+1684
+01:34:09.958 --> 01:34:12.518
+Du partagé ? Ou le BFM ?
+
+1685
+01:34:12.558 --> 01:34:16.138
+Oui, c'est ça, du lien partagé. Après, ça peut être un autre, mais c'est souvent
+
+1686
+01:34:17.418 --> 01:34:18.898
+avec ce genre de plateforme.
+
+1687
+01:34:20.958 --> 01:34:21.268
+Là, ils
+
+1688
+01:34:22.278 --> 01:34:23.878
+avaient combien ? 65 quand même.
+
+1689
+01:34:25.958 --> 01:34:28.818
+Après, c'est l'authority score de SEMrush, mais bon, 65.
+
+1690
+01:34:31.278 --> 01:34:32.718
+Comment il a glissé son truc
+
+1691
+01:34:35.098 --> 01:34:36.198
+? Il est là. Il dit quoi
+
+1692
+01:34:37.678 --> 01:34:41.138
+? Il a vraiment glissé quand même. 2012 ? Attends.
+
+1693
+01:34:42.478 --> 01:34:44.177
+Non, c'est l'inscription. Quoi ?
+
+1694
+01:34:55.158 --> 01:34:57.898
+C'était bien RS Santé. Comment vous expliquez
+
+1695
+01:34:59.118 --> 01:35:00.818
+que le mec ait 17 000 messages sur
+
+1696
+01:35:01.758 --> 01:35:02.518
+Futura Sciences
+
+1697
+01:35:03.718 --> 01:35:03.718
+?
+
+1698
+01:35:03.878 --> 01:35:04.898
+Il a bien rodé le compte.
+
+1699
+01:35:06.738 --> 01:35:08.598
+Ou alors, c'est des mecs qui louent.
+
+1700
+01:35:11.438 --> 01:35:13.038
+Ça se loue ? Il y a un service comme ça ?
+
+1701
+01:35:14.398 --> 01:35:18.358
+Il y a des services Ninja Linking, mais je ne pense pas qu'ils utilisent le
+
+1702
+01:35:18.418 --> 01:35:19.558
+même compte parce que c'est hyper risqué.
+
+1703
+01:35:19.598 --> 01:35:20.738
+Imagine, le compte saute,
+
+1704
+01:35:22.498 --> 01:35:23.738
+tu perds tout. Donc, je ne sais pas.
+
+1705
+01:35:23.978 --> 01:35:25.858
+En même temps, ça fait 14 ans qu'il poste.
+
+1706
+01:35:26.978 --> 01:35:30.778
+Oui, mais est-ce que c'est lui ou est-ce que c'est un mec qui a ça et qui a posé
+
+1707
+01:35:30.798 --> 01:35:32.858
+deux liens comme ça et qui a fait payer ? Tu vois ce que je veux dire ?
+
+1708
+01:35:33.278 --> 01:35:34.578
+Non, mais si ça se trouve, c'est juste naturel.
+
+1709
+01:35:34.698 --> 01:35:36.718
+Pour le coup, ça peut vraiment l'être.
+
+1710
+01:35:37.418 --> 01:35:41.078
+C'est quoi l'autre site ? Tekoya, c'est quoi ?
+
+1711
+01:35:41.158 --> 01:35:44.558
+En vrai, ça ressemble à un message naturel d'un gars.
+
+1712
+01:35:46.178 --> 01:35:46.978
+Tu crois ?
+
+1713
+01:35:47.138 --> 01:35:50.618
+Il faudrait regarder. Il faudrait regarder si tous les messages, ce ne sont que des
+
+1714
+01:35:50.658 --> 01:35:53.698
+liens ou si c'est vraiment naturel, mais on dirait un truc naturel.
+
+1715
+01:35:54.858 --> 01:35:56.058
+Il n'y a pas moyen de...
+
+1716
+01:35:56.938 --> 01:35:57.557
+Pardon, vas-y Mathieu.
+
+1717
+01:35:58.078 --> 01:36:00.398
+On dirait qu'il met les liens pour prouver ce qu'il est en train de dire dans son
+
+1718
+01:36:00.418 --> 01:36:01.858
+message, donc ça peut être naturel.
+
+1719
+01:36:01.918 --> 01:36:03.338
+Oui, c'est ça. Liens pas de...
+
+1720
+01:36:03.678 --> 01:36:04.018
+OK.
+
+1721
+01:36:04.858 --> 01:36:08.838
+Il n'y a pas moyen de voir si Tekoya, ça fait partie des backlinks du
+
+1722
+01:36:08.878 --> 01:36:10.658
+site également ? De RS Santé.
+
+1723
+01:36:14.238 --> 01:36:17.738
+Pour voir si ce sont peut-être deux sites qui sont à lui au final.
+
+1724
+01:36:20.978 --> 01:36:23.118
+M***e, comment ça s'écrivait
+
+1725
+01:36:24.598 --> 01:36:24.598
+?
+
+1726
+01:36:26.478 --> 01:36:27.018
+Désolé, je
+
+1727
+01:36:28.598 --> 01:36:31.198
+suis
+
+1728
+01:36:35.998 --> 01:36:38.458
+sur PC, ce ne sont pas les mêmes touches.
+
+1729
+01:36:41.338 --> 01:36:42.478
+Non, mais ça n'a pas l'air de trouver.
+
+1730
+01:36:42.638 --> 01:36:46.618
+Après,
+
+1731
+01:36:46.638 --> 01:36:48.508
+ça a l'air... Il est où ?
+
+1732
+01:36:55.238 --> 01:36:55.348
+Ça a
+
+1733
+01:36:56.218 --> 01:36:56.658
+l'air d'être
+
+1734
+01:36:56.778 --> 01:37:01.038
+une
+
+1735
+01:37:01.078 --> 01:37:01.578
+marque.
+
+1736
+01:37:04.298 --> 01:37:06.138
+Effectivement, c'est abusé,
+
+1737
+01:37:06.978 --> 01:37:07.658
+mais tant mieux pour lui.
+
+1738
+01:37:09.938 --> 01:37:10.498
+Du coup, ils sont
+
+1739
+01:37:11.498 --> 01:37:12.118
+follow, ceux-là.
+
+1740
+01:37:16.178 --> 01:37:19.618
+Non, nofollow. Attends, mais qu'est-ce qu'il me raconte
+
+1741
+01:37:20.518 --> 01:37:24.258
+? Si, il est nofollow, je suis trop c*n. OK, bref, lui, il fait un peu d'autorité.
+
+1742
+01:37:25.048 --> 01:37:25.048
+Ça,
+
+1743
+01:37:26.758 --> 01:37:27.378
+on s'en f**t.
+
+1744
+01:37:28.298 --> 01:37:31.898
+Ça, média de presse. Oui, c'est là que vous voyez un peu les
+
+1745
+01:37:31.938 --> 01:37:32.658
+catégories aussi.
+
+1746
+01:37:33.598 --> 01:37:36.038
+Bien-être, santé et wellbeing, machin.
+
+1747
+01:37:38.078 --> 01:37:40.818
+On va essayer d'en trouver un. Assurance.
+
+1748
+01:37:42.998 --> 01:37:44.478
+Média de presse, juste pour voir ce que
+
+1749
+01:37:44.618 --> 01:37:49.158
+c'estEst-ce
+
+1750
+01:37:49.178 --> 01:37:52.018
+que c'est dans l'article ? Est-ce que c'est du commentaire ?
+
+1751
+01:37:53.138 --> 01:37:54.458
+J'ai l'impression que c'est dans l'article.
+
+1752
+01:37:56.318 --> 01:37:59.218
+On n'a toujours pas trouvé un spot qu'il avait utilisé.
+
+1753
+01:37:59.458 --> 01:38:02.298
+Peut-être qu'il n'en a pas fait. C'est pour ça que c'est long et chiant.
+
+1754
+01:38:03.778 --> 01:38:07.718
+Là, j'ai pris les purificateurs, il faut analyser une dizaine de sites, d'autres
+
+1755
+01:38:07.738 --> 01:38:08.338
+mots clés.
+
+1756
+01:38:09.318 --> 01:38:10.878
+C'est quand même un travail et c'est long.
+
+1757
+01:38:11.938 --> 01:38:14.518
+C'est gratuit, mais c'est long. Pas en argent.
+
+1758
+01:38:14.578 --> 01:38:17.818
+On va les mettre en follow
+
+1759
+01:38:18.078 --> 01:38:20.878
+pour continuer, pour ne pas passer 15 heures.
+
+1760
+01:38:23.238 --> 01:38:26.838
+On va essayer d'en voir quelques-uns. On va voir ça.
+
+1761
+01:38:32.278 --> 01:38:34.597
+À mon avis, son lien est dans le...
+
+1762
+01:38:35.618 --> 01:38:35.918
+Ouais.
+
+1763
+01:38:42.838 --> 01:38:43.318
+Soit
+
+1764
+01:38:44.658 --> 01:38:46.018
+il
+
+1765
+01:38:50.178 --> 01:38:53.928
+a dû acheter un lien. «
+
+1766
+01:38:56.098 --> 01:38:58.598
+Ecologist journal.
+
+1767
+01:39:04.657 --> 01:39:04.657
+»
+
+1768
+01:39:06.638 --> 01:39:12.978
+Ensuite.
+
+1769
+01:39:26.638 --> 01:39:27.478
+On s'en f**t.
+
+1770
+01:39:49.798 --> 01:39:51.638
+Mon client ne répond pas, donc je suis de retour.
+
+1771
+01:39:58.418 --> 01:40:57.838
+J'essaie
+
+1772
+01:40:57.878 --> 01:41:01.238
+de trouver un truc où il aurait Ninja, mais j'ai pas l'impression.
+
+1773
+01:41:03.018 --> 01:41:04.018
+Il a juste acheté du lien.
+
+1774
+01:41:07.718 --> 01:41:11.478
+On va essayer un autre. Je retourne
+
+1775
+01:41:11.558 --> 01:41:13.858
+sur l'autre que vous ne voyez pas, mais peu importe.
+
+1776
+01:41:14.928 --> 01:41:17.048
+« Meilleur purificateur d'air », on va essayer d'en trouver un.
+
+1777
+01:41:17.878 --> 01:41:19.898
+Ou alors il faut que j'essaie de trouver un autre mot clé.
+
+1778
+01:41:21.158 --> 01:41:22.448
+J'avais mis « niche ».
+
+1779
+01:41:25.358 --> 01:41:27.198
+J'avais mis
+
+1780
+01:41:28.058 --> 01:41:28.058
+«
+
+1781
+01:41:33.078 --> 01:41:33.678
+lumière rouge
+
+1782
+01:41:35.038 --> 01:41:36.018
+», « meilleur casque
+
+1783
+01:41:37.198 --> 01:41:37.898
+lumière rouge
+
+1784
+01:41:39.638 --> 01:41:39.638
+».
+
+1785
+01:41:42.458 --> 01:41:44.117
+Ça ne va pas du tout être un bon exemple.
+
+1786
+01:41:52.518 --> 01:41:54.898
+Vous n'avez pas une idée de mot clé
+
+1787
+01:41:56.218 --> 01:42:00.058
+pour trouver des sites un peu SEO ou affiliation liés à la déco, en
+
+1788
+01:42:00.098 --> 01:42:03.558
+meilleur quelque chose qui ne serait pas un truc trop ecom.
+
+1789
+01:42:04.828 --> 01:42:08.418
+Vous n'avez pas une idée pour que je trouve un site à analyser dans ses backlinks ?
+
+1790
+01:42:09.718 --> 01:42:11.418
+Ou si vous avez d'autres pistes parce que je dis
+
+1791
+01:42:12.858 --> 01:42:13.258
+SEO
+
+1792
+01:42:15.118 --> 01:42:17.038
+affiliation pour essayer de trouver ces sites-là.
+
+1793
+01:42:17.058 --> 01:42:18.898
+Parce qu'en général, pour moi, c'est plus ce
+
+1794
+01:42:20.578 --> 01:42:22.598
+genre de personnes qui vont faire du Ninja.
+
+1795
+01:42:22.608 --> 01:42:24.658
+Mais je ne sais pas si vous avez d'autres idées sur ça.
+
+1796
+01:42:25.007 --> 01:42:25.007
+«
+
+1797
+01:42:28.918 --> 01:42:29.748
+Meilleur. » « Meilleure
+
+1798
+01:42:29.838 --> 01:42:41.738
+déco
+
+1799
+01:42:41.818 --> 01:42:42.378
+salon » pour voir.
+
+1800
+01:42:49.448 --> 01:42:52.638
+Non. Si, mais on
+
+1801
+01:42:54.138 --> 01:42:55.038
+va trouver des gros sites.
+
+1802
+01:42:56.178 --> 01:42:56.188
+Je
+
+1803
+01:42:56.718 --> 01:43:09.198
+vais
+
+1804
+01:43:09.208 --> 01:43:10.238
+sur un site de déco.
+
+1805
+01:43:18.198 --> 01:43:18.198
+«
+
+1806
+01:43:22.318 --> 01:43:41.228
+Meilleure
+
+1807
+01:43:41.298 --> 01:43:43.118
+table de jardin » on va essayer.
+
+1808
+01:43:47.598 --> 01:43:47.598
+«
+
+1809
+01:43:49.458 --> 01:43:53.318
+ComparatifÇa, ça va être un gros truc
+
+1810
+01:43:53.338 --> 01:43:54.958
+aussi. Amazon Ecom.
+
+1811
+01:43:56.858 --> 01:44:00.518
+Ça, c'est quoi ?
+
+1812
+01:44:01.078 --> 01:44:01.998
+Ça ne va pas marcher.
+
+1813
+01:44:04.318 --> 01:44:07.018
+C'est trop gros comme mot clé.
+
+1814
+01:44:27.118 --> 01:44:30.298
+Du coup, c'est dur de trouver des sites d'affiliation.
+
+1815
+01:44:40.358 --> 01:44:41.358
+Je vais réessayer « canapé ».
+
+1816
+01:44:54.118 --> 01:44:56.118
+On peut tester ce site.
+
+1817
+01:44:57.558 --> 01:44:59.398
+On va surtout trouver des trucs, mais on verra bien.
+
+1818
+01:45:08.478 --> 01:45:09.098
+On peut checker ça.
+
+1819
+01:45:10.578 --> 01:45:12.298
+L'idée, c'est quand même de trouver au moins un.
+
+1820
+01:45:15.858 --> 01:45:25.838
+Annuaire.
+
+1821
+01:45:57.218 --> 01:45:59.778
+Un chien d'erreur, je crois.
+
+1822
+01:46:53.098 --> 01:46:53.778
+Bon, je ne trouve pas.
+
+1823
+01:47:05.178 --> 01:47:06.118
+Tu cherches quoi précisément ?
+
+1824
+01:47:06.138 --> 01:47:10.038
+Essayer de trouver des spots depuis
+
+1825
+01:47:10.078 --> 01:47:11.678
+des backlinks dans
+
+1826
+01:47:12.718 --> 01:47:13.798
+ta thématique.
+
+1827
+01:47:15.498 --> 01:47:17.698
+Je vais peut-être trouver ça, mais ça n'a pas l'air.
+
+1828
+01:47:20.418 --> 01:47:20.978
+Il faut voir.
+
+1829
+01:47:23.058 --> 01:47:23.118
+Je
+
+1830
+01:47:24.498 --> 01:47:28.498
+ne
+
+1831
+01:47:28.558 --> 01:47:31.078
+sais pas comment ça va marcher, il n'y a pas de commentaire, il faudrait voir.
+
+1832
+01:47:31.848 --> 01:47:34.278
+À mon avis, ce sera voir le CNS et tout.
+
+1833
+01:47:34.998 --> 01:47:37.938
+L'idée,
+
+1834
+01:47:39.498 --> 01:47:42.428
+c'est d'essayer de trouver
+
+1835
+01:47:48.278 --> 01:47:51.938
+des concurrents ou des sites proches de votre niche.
+
+1836
+01:47:53.618 --> 01:47:53.958
+Pour moi,
+
+1837
+01:47:54.958 --> 01:47:58.518
+le principe, c'est d'essayer de trouver des trucs vraiment nichés
+
+1838
+01:47:58.998 --> 01:48:02.918
+SEO ou affiliation, parce que ça va être le profil
+
+1839
+01:48:02.998 --> 01:48:06.158
+qui va faire du ninja linking. Sur du ecom en général,
+
+1840
+01:48:07.478 --> 01:48:08.538
+vous pouvez en checker, mais
+
+1841
+01:48:09.738 --> 01:48:13.658
+il n'y aura pas de spot ninja linking parce qu'ils ne vont soit pas
+
+1842
+01:48:13.678 --> 01:48:17.168
+en faire, soit acheter des liens. Il y en aura quelques-uns qui le feront, mais à
+
+1843
+01:48:17.168 --> 01:48:19.358
+mon avis, ce sera des trucs bien spécifiques et bien nichés SEO.
+
+1844
+01:48:19.438 --> 01:48:21.438
+C'est pour ça que je dis SEO affiliation.
+
+1845
+01:48:21.798 --> 01:48:25.558
+L'objectif, c'est de trouver des sites liés à votre thématique,
+
+1846
+01:48:26.478 --> 01:48:29.178
+assez nichés. Pas des énormes sites parce que
+
+1847
+01:48:29.218 --> 01:48:31.968
+vous allez être noyés, ça va être compliqué de les
+
+1848
+01:48:31.998 --> 01:48:35.538
+trouver. Ou alors il y aura plus de travail à les trouver.
+
+1849
+01:48:37.878 --> 01:48:41.078
+Exemple, « Quel canapé ? » Ce n'est pas un énorme site.
+
+1850
+01:48:41.158 --> 01:48:44.838
+Malheureusement, je n'ai pas tout fouillé, mais il y a peut-être
+
+1851
+01:48:44.898 --> 01:48:47.198
+des spots quelque part, il faudrait
+
+1852
+01:48:48.078 --> 01:48:48.867
+continuer à fouiller.
+
+1853
+01:48:50.398 --> 01:48:53.038
+C'est un bon exemple, je pense. C'est juste que je n'ai pas trouvé de lien
+
+1854
+01:48:54.358 --> 01:48:55.718
+à part deux, trois
+
+1855
+01:48:58.998 --> 01:48:59.398
+annuaires.
+
+1856
+01:49:01.738 --> 01:49:05.628
+Mais l'idée, c'est d'aller voir leurs backlinks à eux, qui sont dans
+
+1857
+01:49:05.658 --> 01:49:09.618
+votre thématique, voir où potentiellement, ils ont posté et fait du ninja linking
+
+1858
+01:49:09.738 --> 01:49:10.678
+et ça vous donne d'autres spots.
+
+1859
+01:49:12.878 --> 01:49:15.958
+Sauf cas où vous trouvez des trucs un peu pépites, où il y en a plein dedans et le
+
+1860
+01:49:15.998 --> 01:49:18.258
+mec, il ne fait quasiment que ça, tant mieux.
+
+1861
+01:49:18.538 --> 01:49:20.118
+Sinon, comme on l'a vu, c'est un peu
+
+1862
+01:49:21.198 --> 01:49:23.418
+plus compliqué, mais c'est une solution qui fonctionne.
+
+1863
+01:49:24.088 --> 01:49:26.098
+Pour le coup, j'en ai fait,
+
+1864
+01:49:27.638 --> 01:49:30.098
+l'idée est comme ça, j'ai trouvé plein de spots dedans parce que le mec ne faisait
+
+1865
+01:49:30.118 --> 01:49:30.398
+que ça.
+
+1866
+01:49:32.698 --> 01:49:34.788
+Au moins, je montrais le truc même si je n'ai pas trouvé le
+
+1867
+01:49:35.978 --> 01:49:39.377
+spot directement. Mais l'idée est là.
+
+1868
+01:49:39.398 --> 01:49:43.278
+On a la liste, on analyse. On voit si c'est un spot où on
+
+1869
+01:49:43.318 --> 01:49:43.858
+peut placer
+
+1870
+01:49:44.738 --> 01:49:47.038
+un commentaire, un lien au forum ou autre.
+
+1871
+01:49:47.078 --> 01:49:49.188
+Possiblement, on a un concurrent qui nous
+
+1872
+01:49:51.138 --> 01:49:51.998
+a listé des spots
+
+1873
+01:49:53.018 --> 01:49:56.958
+bien nichés, déjà sélectionnés, possiblement bien, à voir, à analyser.
+
+1874
+01:49:57.918 --> 01:50:01.702
+Voilà les deux points pour çaJ'espère que ce n'est pas...
+
+1875
+01:50:01.712 --> 01:50:02.882
+À mon avis, c'est un peu fouilli.
+
+1876
+01:50:03.742 --> 01:50:07.672
+Il y a un peu d'astuces dedans pour ceux qui auront envie d'en faire,
+
+1877
+01:50:07.722 --> 01:50:08.582
+je pense.
+
+1878
+01:50:11.502 --> 01:50:11.942
+Voilà.
+
+1879
+01:50:16.382 --> 01:50:20.302
+Il faut surtout trouver un moyen d'automatiser ça pour ne pas passer
+
+1880
+01:50:20.322 --> 01:50:20.772
+sa life à
+
+1881
+01:50:22.002 --> 01:50:22.622
+faire-
+
+1882
+01:50:23.082 --> 01:50:24.322
+J'imagine qu'il y a des SAS pour.
+
+1883
+01:50:26.502 --> 01:50:30.122
+J'imagine que ça existe. Mais maintenant,
+
+1884
+01:50:30.622 --> 01:50:31.522
+je pense que
+
+1885
+01:50:33.222 --> 01:50:34.522
+process bien expliqué,
+
+1886
+01:50:36.102 --> 01:50:36.502
+je ne sais pas si
+
+1887
+01:50:38.002 --> 01:50:39.662
+Claude peut directement scraper.
+
+1888
+01:50:41.122 --> 01:50:43.982
+Peut-être qu'il faudrait des services externes ou peut-être qu'il y a un moyen de
+
+1889
+01:50:44.102 --> 01:50:45.242
+contourner le truc. Je n'en sais rien.
+
+1890
+01:50:45.502 --> 01:50:48.222
+Je n'ai pas assez utilisé tout ce qui est scraping pour
+
+1891
+01:50:50.742 --> 01:50:53.982
+voir s'il arrive à trouver. Mais l'idée, c'est pareil, de lui expliquer comment on
+
+1892
+01:50:54.022 --> 01:50:57.062
+trouve ces trucs, qu'il soit thématisé,
+
+1893
+01:50:58.362 --> 01:51:01.842
+faire des vérifs. Est-ce qu'on peut possiblement ajouter un commentaire
+
+1894
+01:51:02.382 --> 01:51:04.981
+? Peut-être qu'il nous trouve directement les bonnes discussions, etc.
+
+1895
+01:51:05.341 --> 01:51:08.062
+Peut-être en lui filant les footprints qui
+
+1896
+01:51:09.502 --> 01:51:13.462
+scrapent la SERP pour les lister et les analyser et que lui,
+
+1897
+01:51:13.582 --> 01:51:16.722
+mensuellement, hebdomadairement ou
+
+1898
+01:51:16.902 --> 01:51:20.292
+journalièrement, il vous fait une liste de potentiels
+
+1899
+01:51:20.922 --> 01:51:21.862
+sites où vous pouvez
+
+1900
+01:51:23.682 --> 01:51:25.562
+le faire. Et puis même d'ailleurs, dans un deuxième temps,
+
+1901
+01:51:26.422 --> 01:51:27.642
+un peu plus complexe à mon avis.
+
+1902
+01:51:32.442 --> 01:51:36.022
+Il y a peut-être moyen qu'il poste aussi automatiquement.
+
+1903
+01:51:37.082 --> 01:51:40.802
+Il lit la discussion, il fait un post, il met le lien, il a le lien de votre site
+
+1904
+01:51:40.842 --> 01:51:44.582
+et donc possiblement, il choisit là où ça va diriger en fonction de la discussion.
+
+1905
+01:51:45.262 --> 01:51:49.022
+Ça peut se faire, mais c'est un peu complexe, mais ça doit se faire.
+
+1906
+01:51:49.082 --> 01:51:52.572
+J'imagine que ça se fait. Je ne suis pas pro là-dedans, mais j'imagine que ça se
+
+1907
+01:51:52.582 --> 01:51:53.001
+fait.
+
+1908
+01:52:03.502 --> 01:52:07.042
+Google ne traite pas l'attribut source comme un backlink.
+
+1909
+01:52:08.402 --> 01:52:09.422
+Donc l'image, ça ne marche pas.
+
+1910
+01:52:11.682 --> 01:52:14.422
+Trafic référent via une image anticipée.
+
+1911
+01:52:14.782 --> 01:52:18.591
+OK. Donc l'image ne marche
+
+1912
+01:52:18.622 --> 01:52:18.901
+pas.
+
+1913
+01:52:28.102 --> 01:52:28.862
+On
+
+1914
+01:52:32.682 --> 01:52:34.362
+verra à qui ça apportera un peu de
+
+1915
+01:52:35.822 --> 01:52:38.502
+valeur pour ceux qui veulent se casser le c*l à trouver des liens.
+
+1916
+01:52:41.362 --> 01:52:43.302
+Je peux te kidnapper deux secondes pour te montrer
+
+1917
+01:52:45.162 --> 01:52:47.822
+l'analyse des suspensions luminaires ? Je l'ai analysée en même temps.
+
+1918
+01:52:47.862 --> 01:52:48.202
+Vas-y.
+
+1919
+01:52:48.211 --> 01:52:49.922
+Que tu me dises ton point de vue en deux minutes.
+
+1920
+01:52:49.962 --> 01:52:53.402
+Oui, suspension. Je crois qu'on ne l'avait même pas dit, mais il y avait suspension
+
+1921
+01:52:53.422 --> 01:52:53.622
+aussi.
+
+1922
+01:52:55.702 --> 01:52:59.682
+Je l'avais déjà validée à quelqu'un, donc je peux te la prévalider d'avance.
+
+1923
+01:52:59.862 --> 01:53:03.782
+De toute façon, je ne vois pas de niche luminaire que je ne peux pas valider.
+
+1924
+01:53:03.802 --> 01:53:06.902
+Elles sont toutes OK. Alors oui, il y aura plus ou moins de monde dessus, il y aura
+
+1925
+01:53:06.922 --> 01:53:09.242
+plus ou moins de monde de la formation, mais elles
+
+1926
+01:53:10.322 --> 01:53:11.282
+sont toutes quasiment nickel.
+
+1927
+01:53:12.202 --> 01:53:14.782
+Après, on fait du CPC, puis on voit qui rentre le premier.
+
+1928
+01:53:16.822 --> 01:53:19.662
+Mais grosso modo, ça, ce sont les mots clés principaux.
+
+1929
+01:53:21.062 --> 01:53:23.122
+Là, sur les deux premiers, tu en as des bonnes marges, lui également.
+
+1930
+01:53:23.922 --> 01:53:26.792
+Là, moins, tout ce qui est lumière chambre, parce que j'imagine que c'est moins
+
+1931
+01:53:28.642 --> 01:53:31.522
+poussé en termes de recherche que du design ou du bois.
+
+1932
+01:53:32.522 --> 01:53:33.442
+Ça, c'est so-so.
+
+1933
+01:53:34.962 --> 01:53:36.702
+Tout dépend ce qu'on attend ensuite derrière.
+
+1934
+01:53:38.162 --> 01:53:41.062
+Après, à voir aussi comment vous allez analyser les prix moyens et tout.
+
+1935
+01:53:41.382 --> 01:53:41.542
+Mais
+
+1936
+01:53:42.462 --> 01:53:45.422
+vu que les CPC sont bas et que tes prix moyens sont assez hauts.
+
+1937
+01:53:46.342 --> 01:53:49.202
+Non, mais tes RR sont ultra-haut, OK. Mais comment ça se fait que ta marge...
+
+1938
+01:53:50.931 --> 01:53:50.931
+?
+
+1939
+01:53:51.022 --> 01:53:52.882
+Là, j'ai ma median price.
+
+1940
+01:53:53.982 --> 01:53:57.862
+Je prends mon average price sold et median price AliExpress.
+
+1941
+01:53:57.922 --> 01:53:59.682
+D'accord, c'est acheté ultra-cher.
+
+1942
+01:54:01.582 --> 01:54:02.922
+Dans le genre de cas-là,
+
+1943
+01:54:03.762 --> 01:54:06.362
+je ne sais pas comment tu as fait ton check pour avoir 59.
+
+1944
+01:54:07.022 --> 01:54:09.922
+Peut-être refaire un check avec des mots clés différents, peut-être, ou voir si
+
+1945
+01:54:09.962 --> 01:54:12.862
+vraiment c'est ces prix-là. À mon avis, vu les RR,
+
+1946
+01:54:13.782 --> 01:54:16.621
+je ne vois pas comment tu n'es pas rentable sur ce genre de niche.
+
+1947
+01:54:17.522 --> 01:54:20.602
+Après, c'est pareil, ça, c'est vraiment le prix médian.
+
+1948
+01:54:21.462 --> 01:54:24.462
+Ici, on a des ranges qui sont un peu différents.
+
+1949
+01:54:25.122 --> 01:54:28.882
+Lui, par exemple, qui nous montre un prix de 54, ça va de 25 à
+
+1950
+01:54:29.062 --> 01:54:29.522
+40 en soi.
+
+1951
+01:54:30.902 --> 01:54:32.762
+Ça va également plus cher en fonction de ce qu'on montre.
+
+1952
+01:54:32.802 --> 01:54:34.622
+Et j'imagine que les prix également varient sur les
+
+1953
+01:54:36.002 --> 01:54:38.562
+vendus en fonction de la typologie de produit.
+
+1954
+01:54:39.742 --> 01:54:43.382
+Ce n'est pas une énorme
+
+1955
+01:54:43.442 --> 01:54:46.942
+niche dans le sens où je pense que dans luminaire, il y a plus gros, mais tu as
+
+1956
+01:54:46.982 --> 01:54:48.122
+l'avantage que
+
+1957
+01:54:49.262 --> 01:54:52.282
+là, tu as mis suspension luminaire et tu n'as pris que ces mots-clés, mais tu as
+
+1958
+01:54:52.702 --> 01:54:54.162
+suspension tout court
+
+1959
+01:54:55.442 --> 01:54:59.002
+au final. Parce qu'encore une fois, luminaire, c'est le terme
+
+1960
+01:54:59.062 --> 01:55:02.962
+général, on va dire. Donc tu as suspension machin, suspension sans le mot-clé
+
+1961
+01:55:02.982 --> 01:55:05.502
+luminaire. Et là, à mon avis, tu augmentes un peu le trafic.
+
+1962
+01:55:06.362 --> 01:55:08.342
+Et donc tu deviens vraiment intéressant comme niche.
+
+1963
+01:55:09.362 --> 01:55:10.182
+C'est vrai, ça.
+
+1964
+01:55:12.922 --> 01:55:13.462
+M***e, OK.
+
+1965
+01:55:14.862 --> 01:55:16.322
+Il faut reprendre un peu. On regardera ça après.
+
+1966
+01:55:16.382 --> 01:55:19.522
+Oui, mais je pense qu'elle sera bonne. Attends, mais moi, je peux check vite fait.
+
+1967
+01:55:19.662 --> 01:55:20.502
+Je vais regarder.
+
+1968
+01:55:21.922 --> 01:55:23.422
+Non, j'ai fermé aussi, p****n.
+
+1969
+01:55:35.482 --> 01:55:47.032
+Suspension.
+
+1970
+01:55:47.032 --> 01:55:48.942
+Suspension, qu'est-ce qu'on a ?
+
+1971
+01:55:50.282 --> 01:55:53.722
+Tu vois suspension rotin, tu l'as dans tes mots clés ?
+
+1972
+01:55:53.792 --> 01:55:55.182
+Juste pour exemple.
+
+1973
+01:55:58.362 --> 01:56:01.182
+Oui, il a 1 000 de recherches. Pardon, suspension luminaire.
+
+1974
+01:56:01.662 --> 01:56:05.538
+Suspension rotin, il a 8 k.Si tu
+
+1975
+01:56:06.258 --> 01:56:09.158
+utilises ces mots-clés, qui sont vraiment la base du mot-clé,
+
+1976
+01:56:10.638 --> 01:56:12.138
+tu élargis énormément ta niche.
+
+1977
+01:56:13.438 --> 01:56:16.678
+Pour le coup, ça mériterait
+
+1978
+01:56:16.998 --> 01:56:20.717
+que vous travailliez un petit peu les RR, les marges et que vous faites
+
+1979
+01:56:20.778 --> 01:56:22.078
+un doc. Mais pour moi,
+
+1980
+01:56:23.078 --> 01:56:24.658
+si elle vous plaît, carrément.
+
+1981
+01:56:25.538 --> 01:56:26.998
+Les CAD sont pas abusés.
+
+1982
+01:56:28.058 --> 01:56:29.238
+C'est une niche
+
+1983
+01:56:31.438 --> 01:56:31.638
+ok.
+
+1984
+01:56:32.858 --> 01:56:34.118
+Ok. Cool.
+
+1985
+01:56:34.518 --> 01:56:37.678
+Suspension cuisine, pareil, 4 000, tu rajoutes 4 000, tu rajoutes 8 000.
+
+1986
+01:56:38.278 --> 01:56:39.478
+Tu accumules tout ça,
+
+1987
+01:56:40.478 --> 01:56:42.738
+ton trafic est facile à 50 sur les 10 premières.
+
+1988
+01:56:43.678 --> 01:56:45.918
+Oui, c'est ça. Au lieu de rajouter luminaire à chaque fois.
+
+1989
+01:56:45.938 --> 01:56:46.038
+Oui,
+
+1990
+01:56:46.978 --> 01:56:50.318
+tu t'ajoutais de la longue traîne, presque.
+
+1991
+01:56:51.078 --> 01:56:51.517
+Exact.
+
+1992
+01:56:54.398 --> 01:56:55.138
+Abat-jour etc.
+
+1993
+01:56:56.258 --> 01:56:59.578
+En plus, suspension c'est quand même assez large comme terme, donc c'est quand même
+
+1994
+01:56:59.598 --> 01:57:02.478
+niché, mais il y a tellement de produits qui sont des suspensions que
+
+1995
+01:57:03.298 --> 01:57:03.458
+c'est
+
+1996
+01:57:04.518 --> 01:57:08.018
+une des plus grosses des luminaires.
+
+1997
+01:57:08.438 --> 01:57:10.038
+Ça nous permet également d'avoir plein de catégories.
+
+1998
+01:57:10.078 --> 01:57:11.898
+Et bizarrement, c'est une des moins faites
+
+1999
+01:57:12.898 --> 01:57:14.058
+dans Kraken.
+
+2000
+01:57:15.258 --> 01:57:17.598
+Parce qu'ils sont tous allés dans...
+
+2001
+01:57:19.198 --> 01:57:21.938
+Oui, mais suspensions, en vrai, je ne sais pas qui a fait suspensions.
+
+2002
+01:57:22.798 --> 01:57:25.018
+J'ai vu des applis, j'ai vu des lustres.
+
+2003
+01:57:25.038 --> 01:57:28.378
+Rafik, il en a deux. Édouard en a aussi.
+
+2004
+01:57:30.298 --> 01:57:30.698
+Rafik,
+
+2005
+01:57:31.998 --> 01:57:32.568
+il en a deux
+
+2006
+01:57:33.458 --> 01:57:34.698
+? Il en a relancé un deuxième ?
+
+2007
+01:57:34.758 --> 01:57:35.518
+Oui, je t'avais dit.
+
+2008
+01:57:36.338 --> 01:57:37.098
+Il le vend d'ailleurs.
+
+2009
+01:57:38.458 --> 01:57:38.818
+Ok.
+
+2010
+01:57:40.858 --> 01:57:43.848
+C'est lui où tu me disais qu'il avait fait je ne sais pas combien de CA ?
+
+2011
+01:57:43.918 --> 01:57:44.818
+Oui.
+
+2012
+01:57:44.838 --> 01:57:48.278
+P****n, mais comment il s'en est sorti au final ? Du coup, comment ça s'est passé ?
+
+2013
+01:57:48.418 --> 01:57:49.308
+Parce qu'au début, il galérait.
+
+2014
+01:57:49.698 --> 01:57:50.678
+Oui, il galérait.
+
+2015
+01:57:52.458 --> 01:57:52.898
+Tant mieux.
+
+2016
+01:57:53.158 --> 01:57:56.118
+Mais je pense que le deuxième, il l'a racheté et il fonctionnait déjà bien.
+
+2017
+01:57:57.018 --> 01:57:57.318
+Ok.
+
+2018
+01:58:00.578 --> 01:58:00.658
+Oui,
+
+2019
+01:58:02.198 --> 01:58:04.038
+il y en aura forcément quelques-uns, Sylvain,
+
+2020
+01:58:04.918 --> 01:58:07.858
+que les Kraken ont déjà faits, mais honnêtement, c'est un que j'ai moins vu.
+
+2021
+01:58:08.418 --> 01:58:10.938
+Là où applique, j'en ai vu 6, 7, 8.
+
+2022
+01:58:13.197 --> 01:58:15.178
+Puisque plafonnier aussi.
+
+2023
+01:58:18.198 --> 01:58:22.058
+Encore une fois, on s'en f**t, mais c'est un où, je pense, il y a eu
+
+2024
+01:58:22.218 --> 01:58:24.258
+moins de monde dans Kraken, que je sais en tout cas.
+
+2025
+01:58:24.278 --> 01:58:25.918
+Parce qu'au moins, déjà, Rafik, je ne savais pas qu'il en avait deux.
+
+2026
+01:58:26.018 --> 01:58:27.178
+Je pense qu'il avait même arrêté.
+
+2027
+01:58:28.858 --> 01:58:30.458
+Vu le départ un peu
+
+2028
+01:58:31.318 --> 01:58:31.998
+catastrophique.
+
+2029
+01:58:35.738 --> 01:58:37.818
+Et je ne sais plus qui t'a dit en deuxième, mais je ne savais pas qu'il l'avait.
+
+2030
+01:58:38.578 --> 01:58:39.358
+Édouard.
+
+2031
+01:58:39.418 --> 01:58:39.938
+Édouard, ok.
+
+2032
+01:58:40.038 --> 01:58:42.278
+D'ailleurs, ils ont tous les deux
+
+2033
+01:58:44.458 --> 01:58:46.698
+exactement la même URL avec un S
+
+2034
+01:58:47.958 --> 01:58:48.438
+de différent.
+
+2035
+01:58:51.498 --> 01:58:55.238
+D'ailleurs, des fois, Édouard chope du SAV de Rafik et
+
+2036
+01:58:55.298 --> 01:58:55.858
+inversement.
+
+2037
+01:58:56.258 --> 01:58:57.518
+Super.
+
+2038
+01:59:02.958 --> 01:59:03.738
+Exact match ?
+
+2039
+01:59:05.378 --> 01:59:05.638
+Yes.
+
+2040
+01:59:07.678 --> 01:59:10.398
+Sylvain,
+
+2041
+01:59:11.418 --> 01:59:15.118
+fais le doc comme ça vous êtes sûr.
+
+2042
+01:59:15.758 --> 01:59:18.658
+Je ne vois pas ce qui bloquerait. Mais après, il faut savoir un truc, c'est
+
+2043
+01:59:18.718 --> 01:59:20.718
+qu'il y a un peu de casse.
+
+2044
+01:59:22.278 --> 01:59:26.018
+Il y aura un peu de SAV dans le sens où ça peut être en
+
+2045
+01:59:26.038 --> 01:59:29.198
+panne. Ce n'est pas de l'électronique directement, mais tu peux avoir
+
+2046
+01:59:29.278 --> 01:59:31.458
+un fil qui est mal connecté.
+
+2047
+01:59:31.518 --> 01:59:34.498
+Mais tu n'es pas dans un produit non plus
+
+2048
+01:59:34.538 --> 01:59:37.158
+ultra-compliqué avec une batterie, etc.
+
+2049
+01:59:38.118 --> 01:59:40.538
+Ce n'est pas le plus compliqué en termes de technique.
+
+2050
+01:59:42.738 --> 01:59:46.218
+C'est d'ailleurs pour ça que mon exemple
+
+2051
+01:59:46.798 --> 01:59:50.398
+en vidéo que je vais faire sur Claude sera sur les luminaires parce que je
+
+2052
+01:59:50.698 --> 01:59:51.468
+pense que c'est les
+
+2053
+01:59:52.418 --> 01:59:55.448
+produits les plus compliqués en termes d'intégration, dans le sens où
+
+2054
+01:59:56.738 --> 01:59:58.378
+tu as beaucoup d'images avec des dimensions.
+
+2055
+02:00:00.618 --> 02:00:02.518
+Tu as ça à modifier. Et tu as des specs,
+
+2056
+02:00:03.318 --> 02:00:05.578
+tu as beaucoup de specs pour du luminaire.
+
+2057
+02:00:06.318 --> 02:00:09.958
+Là où tu fais de la peluche, tu as moins de problèmes d'images, moins de problèmes
+
+2058
+02:00:09.978 --> 02:00:13.458
+de specs. Je pense que c'est une des niches les plus techniques, entre guillemets,
+
+2059
+02:00:13.518 --> 02:00:14.458
+d'intégration.
+
+2060
+02:00:15.278 --> 02:00:18.358
+C'est clair. Il y a tellement de specs là-dedans, je ne sais pas comment tu vas
+
+2061
+02:00:18.398 --> 02:00:18.818
+t'en sortir.
+
+2062
+02:00:19.878 --> 02:00:23.698
+J'ai fait des tests, Claude, c'est incroyable.
+
+2063
+02:00:23.957 --> 02:00:27.538
+Il y aura la vidéo, mais franchement, il fait tout bien, même les images.
+
+2064
+02:00:27.558 --> 02:00:31.438
+Il traduit tout, il refait. Je lui ai tout expliqué pour qu'il
+
+2065
+02:00:31.498 --> 02:00:34.538
+refasse bien, je veux tel type de shoot etc.
+
+2066
+02:00:34.818 --> 02:00:35.778
+S'il n'y a pas, tu les fais.
+
+2067
+02:00:35.818 --> 02:00:35.917
+Mais
+
+2068
+02:00:37.118 --> 02:00:40.068
+tu as scrappé via Ali, avec l'API, pour les caractéristiques ?
+
+2069
+02:00:40.138 --> 02:00:41.398
+Non, là, j'ai juste dit : « Fais attends ».
+
+2070
+02:00:42.658 --> 02:00:43.498
+Tu lui as dit ce qu'il-
+
+2071
+02:00:43.738 --> 02:00:47.318
+Oui, j'ai mis 10 produits, puis il en a fait un.
+
+2072
+02:00:47.538 --> 02:00:49.488
+Je lui ai dit : « Aller-retour, aller-retour, itération ».
+
+2073
+02:00:50.378 --> 02:00:53.097
+Et là, je suis au troisième, il l'a fait nickel.
+
+2074
+02:00:53.618 --> 02:00:54.618
+Tout parfait.
+
+2075
+02:00:57.798 --> 02:00:58.438
+Tu penses la faire quand ?
+
+2076
+02:00:58.918 --> 02:01:02.378
+La vidéo ? Je pense que je vais la tourner
+
+2077
+02:01:03.758 --> 02:01:07.438
+dans la semaine et donc peut-être dans le week-end ou lundi.
+
+2078
+02:01:09.518 --> 02:01:12.728
+Mais bon, elle n'apporte rien. Si tu veux, le seul truc qu'elle va apporter, c'est
+
+2079
+02:01:12.728 --> 02:01:14.758
+que je montre que ça se fait et qu'elle fait tout.
+
+2080
+02:01:14.798 --> 02:01:18.738
+Et je mettrai le skill que vous pourrez reprendre, mais qu'il faudra modifier en
+
+2081
+02:01:18.758 --> 02:01:19.438
+fonction de votre niche.
+
+2082
+02:01:21.078 --> 02:01:24.198
+Mais elle n'apporte pas spécialement de la valeur, c'est juste une démo, on va
+
+2083
+02:01:24.238 --> 02:01:24.418
+dire.
+
+2084
+02:01:27.038 --> 02:01:29.458
+Après, il y a un peu de valeur avec le skill, ce qui est préfait, mais encore une
+
+2085
+02:01:29.498 --> 02:01:29.608
+fois,
+
+2086
+02:01:30.758 --> 02:01:32.138
+je ne sais même pas si c'est vraiment pertinent.
+
+2087
+02:01:33.858 --> 02:01:34.818
+Il y aura une base, on va dire.
+
+2088
+02:01:35.538 --> 02:01:37.278
+Nice, pas grand-chose.
+
+2089
+02:01:39.218 --> 02:01:40.998
+Les photos, franchement, ça m'a bluffé.
+
+2090
+02:01:42.458 --> 02:01:46.438
+Je suis bluffé par le
+
+2091
+02:01:46.498 --> 02:01:47.918
+fait qu'il arrive à comprendre
+
+2092
+02:01:49.278 --> 02:01:53.248
+quel type d'image n'est pas bonne et est bonne et lesquelles il
+
+2093
+02:01:53.278 --> 02:01:55.238
+faut refaire, lesquelles il faut traduire, lesquelles ont un logo.
+
+2094
+02:01:55.378 --> 02:01:58.518
+Ça, ça m'a bluffé. C'est pour ça que j'ai pris les luminaires parce
+
+2095
+02:01:58.538 --> 02:02:02.238
+qu'il y a des logos, il y a du texte en anglais, il y a des dimensions, il y a
+
+2096
+02:02:02.318 --> 02:02:05.368
+tout, il y a toutes des m****s dessus et il a tout fait. Incroyable.
+
+2097
+02:02:05.378 --> 02:02:09.178
+C'est un bon challenge. Au final, ce que tu fais en vidéo, c'est la suite de
+
+2098
+02:02:09.218 --> 02:02:12.538
+l'autre fois ? Dont on parlait la semaine dernière ?
+
+2099
+02:02:12.578 --> 02:02:12.898
+Oui, c'est ça
+
+2100
+02:02:14.528 --> 02:02:15.348
+Sans la partie API.
+
+2101
+02:02:15.508 --> 02:02:19.068
+Voilà, c'est vraiment juste Dissert pour simplifier.
+
+2102
+02:02:19.828 --> 02:02:21.118
+OK, avec Dissert.
+
+2103
+02:02:22.048 --> 02:02:25.788
+Je ne vois pas trop l'intérêt. C'est pareil, ça serait de la démo si je faisais
+
+2104
+02:02:25.868 --> 02:02:28.628
+avec du scrapping à l'unif.
+
+2105
+02:02:29.568 --> 02:02:30.308
+Facile fait, mais
+
+2106
+02:02:31.188 --> 02:02:34.608
+quelle valeur j'ajoute ? C'est juste pour montrer que c'est faisable, ce n'est pas
+
+2107
+02:02:34.628 --> 02:02:35.348
+vraiment de la valeur.
+
+2108
+02:02:36.228 --> 02:02:39.568
+Oui, c'est ça. Au moins voir le process de base et puis après, à partir de là,
+
+2109
+02:02:39.578 --> 02:02:40.968
+aller plus loin. C'est pour ceux qui veulent.
+
+2110
+02:02:44.808 --> 02:02:45.348
+C'est intéressant.
+
+2111
+02:02:47.168 --> 02:02:47.808
+Donc oui, Emeric,
+
+2112
+02:02:50.028 --> 02:02:51.748
+fin de semaine ou début de prochaine.
+
+2113
+02:02:51.988 --> 02:02:53.578
+Il faut que je le tourne, il faut que je la monte, il
+
+2114
+02:02:54.768 --> 02:02:58.108
+faut que je la tourne surtout. Après, ça ne va pas être trop long.
+
+2115
+02:03:04.008 --> 02:03:05.308
+Voilà. Bonne
+
+2116
+02:03:05.548 --> 02:03:10.188
+journée
+
+2117
+02:03:10.208 --> 02:03:12.068
+à tous, travaillez bien, bonne semaine.
+
+2118
+02:03:12.928 --> 02:03:14.068
+Bon courage.
+
+2119
+02:03:14.168 --> 02:03:17.648
+J'avançais de mon côté sur WordPress avec le truc dont je t'ai parlé
+
+2120
+02:03:18.447 --> 02:03:21.008
+tout à l'heure. J'étais en voiture, je ne pouvais pas causer.
+
+2121
+02:03:23.488 --> 02:03:25.088
+Nova... je ne sais plus quoi.
+
+2122
+02:03:25.328 --> 02:03:25.928
+Nova Mira.
+
+2123
+02:03:26.548 --> 02:03:26.748
+Oui.
+
+2124
+02:03:27.258 --> 02:03:28.628
+Il faut que je regarde ce que c'est Nova Mira.
+
+2125
+02:03:29.428 --> 02:03:30.768
+Toujours en train, cette histoire.
+
+2126
+02:03:31.048 --> 02:03:34.428
+Sacré MCP qui n'a pas de limite. Tu peux vraiment faire ce que tu veux.
+
+2127
+02:03:34.808 --> 02:03:35.468
+C'est gratuit
+
+2128
+02:03:36.308 --> 02:03:36.308
+?
+
+2129
+02:03:36.348 --> 02:03:36.548
+Oui.
+
+2130
+02:03:37.648 --> 02:03:41.008
+Et ça se repose sur le MCP de base de WordPress.
+
+2131
+02:03:43.608 --> 02:03:46.008
+Et du coup, ça s'installe...
+
+2132
+02:03:47.268 --> 02:03:48.688
+Ça s'installe comme un MCP classique.
+
+2133
+02:03:48.728 --> 02:03:50.268
+Il n'y a plus l'accès au serveur alors, c'est ça
+
+2134
+02:03:51.728 --> 02:03:51.728
+?
+
+2135
+02:03:52.408 --> 02:03:53.468
+Installation WordPress, on va dire.
+
+2136
+02:03:54.488 --> 02:03:58.108
+Pas serveur. Ça peut lire les données serveur que WordPress fournit de base.
+
+2137
+02:04:00.508 --> 02:04:02.108
+Mais ça a accès à tous les fichiers, c'est ça qui est bien.
+
+2138
+02:04:03.748 --> 02:04:06.988
+Et vraiment, même au plugin, si tu veux configurer, imaginons, un truc dans un
+
+2139
+02:04:07.008 --> 02:04:08.348
+plugin, une option, il peut tout lire.
+
+2140
+02:04:09.508 --> 02:04:11.368
+Même pour tout ce qui est design, produit,
+
+2141
+02:04:12.448 --> 02:04:13.948
+contexte, il peut.
+
+2142
+02:04:14.428 --> 02:04:15.648
+Yes, intéressant.
+
+2143
+02:04:17.228 --> 02:04:18.308
+Ce n'est pas juste lire, écrire.
+
+2144
+02:04:19.348 --> 02:04:20.228
+Donc, je vais tester ça.
+
+2145
+02:04:20.528 --> 02:04:22.368
+Oui, ça a l'air pas
+
+2146
+02:04:22.387 --> 02:04:26.688
+mal.
+
+2147
+02:04:29.208 --> 02:04:29.478
+Ça
+
+2148
+02:04:31.068 --> 02:04:33.148
+évolue trop vite. On parlait l'autre fois de
+
+2149
+02:04:34.108 --> 02:04:36.068
+tout ce qui était API, MCP, et là, tu vois.
+
+2150
+02:04:36.808 --> 02:04:38.548
+C'est sûr. C'est pour ça que
+
+2151
+02:04:39.928 --> 02:04:43.068
+la vidéo que je vais faire pour WordPress, je vais la faire avec l'API parce que je
+
+2152
+02:04:43.108 --> 02:04:44.688
+sais que si je parle d'un tool,
+
+2153
+02:04:46.408 --> 02:04:49.388
+ça va être dans deux semaines, c'est useless.
+
+2154
+02:04:50.148 --> 02:04:51.388
+Laquelle API ?
+
+2155
+02:04:51.568 --> 02:04:52.668
+L'API direct de WordPress.
+
+2156
+02:04:56.588 --> 02:04:57.268
+L'API REST.
+
+2157
+02:04:57.568 --> 02:04:59.488
+L'API REST, oui.
+
+2158
+02:04:59.508 --> 02:05:02.068
+Mais tu passes par quoi ? Avec le code ?
+
+2159
+02:05:02.108 --> 02:05:05.288
+Oui. Le but, c'est que je fasse la vidéo comme j'ai fait à Shopify,
+
+2160
+02:05:06.128 --> 02:05:06.908
+de montrer comment
+
+2161
+02:05:08.448 --> 02:05:12.228
+on passe de cloud code tout nu à un cloud code qui a accès au WordPress pour
+
+2162
+02:05:12.528 --> 02:05:14.748
+faire l'intégration produit et tout le travail qu'il veut dedans.
+
+2163
+02:05:16.028 --> 02:05:17.068
+Du coup, je vais faire API REST.
+
+2164
+02:05:17.088 --> 02:05:21.018
+Tu passes par le MCP pour après, c'est
+
+2165
+02:05:21.068 --> 02:05:21.888
+pareil, non ?
+
+2166
+02:05:22.168 --> 02:05:26.148
+Je ne sais pas. De ce que Claude m'a
+
+2167
+02:05:26.228 --> 02:05:30.008
+dit, leur MCP, il était un peu pourri, instable et tout.
+
+2168
+02:05:30.748 --> 02:05:32.058
+Je ne vois pas trop l'intérêt de l'utiliser.
+
+2169
+02:05:33.668 --> 02:05:36.288
+Autant utiliser l'API REST. C'est pareil.
+
+2170
+02:05:36.908 --> 02:05:37.748
+Je ne vois pas l'avantage.
+
+2171
+02:05:38.288 --> 02:05:41.208
+Je ne vois pas comment tu connectes l'API REST avec cloud code. Moi, je le fais.
+
+2172
+02:05:41.408 --> 02:05:44.248
+Oui, je passe par l'API REST, mais je passe par N8N pour faire mes trucs.
+
+2173
+02:05:44.288 --> 02:05:45.298
+Donc, je vois bien les modules HTTP.
+
+2174
+02:05:46.828 --> 02:05:48.808
+N8N, comment il t'écrit les données
+
+2175
+02:05:50.228 --> 02:05:51.928
+par les clés API que tu lui as filé ?
+
+2176
+02:05:52.288 --> 02:05:56.438
+L'API,
+
+2177
+02:05:56.748 --> 02:05:57.008
+c'est
+
+2178
+02:05:57.968 --> 02:06:01.688
+des sortes
+
+2179
+02:06:01.748 --> 02:06:03.608
+de fonctions
+
+2180
+02:06:04.568 --> 02:06:07.868
+qu'ils auront données WordPress, par exemple, écrire à tel endroit.
+
+2181
+02:06:09.948 --> 02:06:11.788
+N8N ou Cloud, ils peuvent utiliser
+
+2182
+02:06:12.588 --> 02:06:16.208
+cette fonction, l'URL, l'endpoint de l'API, pour faire une
+
+2183
+02:06:16.348 --> 02:06:17.008
+action.
+
+2184
+02:06:18.288 --> 02:06:19.748
+Directement dans l'interface de Cloud.
+
+2185
+02:06:20.108 --> 02:06:23.968
+Cloud, une fois qu'il est connecté, il doit avoir la
+
+2186
+02:06:24.008 --> 02:06:27.008
+doc, mais tu peux lui filer la doc aussi de l'API de WordPress.
+
+2187
+02:06:27.508 --> 02:06:31.247
+Il sait que pour modifier le titre, c'est ce endpoint et du coup, il le fait
+
+2188
+02:06:31.268 --> 02:06:31.807
+automatiquement.
+
+2189
+02:06:33.168 --> 02:06:35.348
+Ok. Tu lui fournis juste ton API.
+
+2190
+02:06:36.168 --> 02:06:39.168
+Oui, tu lui files ta clé API et fin de l'histoire.
+
+2191
+02:06:39.188 --> 02:06:42.408
+Et puis, il fait tout ce qu'il veut. C'est pour ça, c'est ultra simple WordPress.
+
+2192
+02:06:43.788 --> 02:06:45.048
+Le tuto va durer deux minutes.
+
+2193
+02:06:46.368 --> 02:06:50.248
+OK, nickel. C'est pas mal. Si ça peut
+
+2194
+02:06:50.288 --> 02:06:53.128
+bypass tout ce qui est MCP, parce que ça a des limitations MCP.
+
+2195
+02:06:54.308 --> 02:06:58.228
+Oui, et puis, encore une fois, je n'ai pas fouillé assez, mais Claude expliquait
+
+2196
+02:06:58.328 --> 02:07:01.068
+que le MCP officiel de WordPress était
+
+2197
+02:07:02.408 --> 02:07:05.388
+ultra-limité, il était instable.
+
+2198
+02:07:06.768 --> 02:07:10.088
+Oui, pour écrire et lire dans des dossiers.
+
+2199
+02:07:10.428 --> 02:07:13.408
+Pour la vidéo, je fais un truc de deux minutes pour connecter à l'API REST, qui
+
+2200
+02:07:13.488 --> 02:07:13.848
+peut déjà
+
+2201
+02:07:14.688 --> 02:07:15.768
+logiquement quasiment tout faire,
+
+2202
+02:07:16.668 --> 02:07:19.008
+à part écriture, peut-être fichiers et tout.
+
+2203
+02:07:19.088 --> 02:07:22.688
+Mais pour faire des produits, écrire des articles, créer des pages, tout ça, il
+
+2204
+02:07:22.708 --> 02:07:23.567
+peut faire, donc ça suffit.
+
+2205
+02:07:24.448 --> 02:07:27.208
+Et puis après, s'il y a besoin, je ferai une vidéo en fonction.
+
+2206
+02:07:28.848 --> 02:07:29.358
+On va savoir avancer.
+
+2207
+02:07:29.368 --> 02:07:30.668
+Nickel. J'ai hâte de voir ça.
+
+2208
+02:07:34.808 --> 02:07:36.948
+Bonne journée à tous.
+
+2209
+02:07:37.928 --> 02:07:38.468
+Salut.
+
+2210
+02:07:38.808 --> 02:07:39.048
+Pareil.
+
+2211
+02:07:39.338 --> 02:07:41.768
+Salut tout le monde. Bonne après-midi.
+
+2212
+02:07:42.828 --> 02:07:43.128
+Ciao.
+
+2213
+02:07:43.768 --> 02:07:47.178
+Salut les gars

@@ -1,7 +1,7 @@
 # Audit des lacunes du corpus de La Méthode Kraken
 
-**Date de relecture :** 2026-08-08 (mise à jour le 2026-08-08 après le second lot de 17 contenus)
-**Périmètre :** 65 VTT + 1 transcription pilote canonique, soit 66 contenus parlés. Les quatre PDF et le gist Shopify ont également été confrontés aux leçons.
+**Date de relecture :** 2026-08-08 (mis à jour le même jour après ingestion du cours Skool complet)
+**Périmètre :** 228 VTT + 1 transcription pilote canonique, soit **229 contenus parlés**, + **77 documents** (slides, checklists, briefs, templates) et **89 replays de coaching** archivés à part. Le cours Skool complet (29 modules) a été récupéré ; les modules auparavant absents sont désormais couverts.
 
 ## Verdict
 
@@ -11,7 +11,8 @@ La frontière honnête est la suivante :
 
 - **fortement couvert** : niche, catégories, SEO on-site, contenu, flux/GMC, Shopping standard, lecture des KPI, optimisation produit/requête, et depuis le second lot : netlinking (cadence et méthodes), email marketing (flows, campagnes, segmentation Klaviyo), pilotage SAV, doctrine Facebook/retargeting catalogue et publication sociale automatisée ;
 - **partiellement couvert** : sourcing, offre/CRO, mesure, avis clients/réputation, testing Meta au-delà du retargeting, automatisation produit, économie et scaling ;
-- **absent ou trop superficiel** : customer research, branding complet, affiliation, délégation d'entreprise, fiscalité, droit français détaillé, sécurité produit.
+- **désormais couvert par le cours complet** : Site Shopify de A à Z, intégration produit assistée par Claude Code, Agent/ERP, structure légale et fiscale FR (module 11 + FAQ LegalPlace), scaling horizontal + international hreflang (module 12), revente/valorisation (module 13), Email Automation Brevo ;
+- **encore absent ou superficiel** : customer research approfondie, branding complet (module dédié non fourni), affiliation, sécurité produit réglementaire détaillée.
 
 `corpus/derived/coach-source-index.md` conserve le résumé source par source. Le présent document décrit tout ce qui manque, se contredit ou demande un encadrement opérationnel.
 
@@ -19,11 +20,12 @@ La frontière honnête est la suivante :
 
 | Lacune | Preuve | Conséquence |
 |---|---|---|
-| Les 65 VTT restent automatiques | `corpus/manifest.json` : `AUTOMATIQUE_NON_RELUE` | un mot, un nombre ou un nom d'outil peut être faux ; réécouter le média quand la précision est déterminante |
+| Les 228 VTT restent automatiques | `corpus/manifest.json` : `AUTOMATIQUE_NON_RELUE` | un mot, un nombre ou un nom d'outil peut être faux ; réécouter le média quand la précision est déterminante |
 | Les vidéos Vimeo ne sont pas présentes | seules les pistes VTT ont été fournies | impossible de relire les écrans, réglages, feuilles de calcul et gestes montrés |
 | Titres et ordre pédagogique Vimeo absents | IDs de captions seulement | intitulés reconstruits et ordre du curriculum incertain |
 | Démonstration rideaux très pauvre textuellement | `vimeo-caption-234180398` : dernier timecode ~76 min, ~2 500 mots | grande partie de l'information probablement visuelle ou silencieuse |
-| Pas de preuve que le lot contient tout Skool | plusieurs modules et pièces jointes sont annoncés mais absents | répondre `MANQUANT_MODULE` au lieu de supposer la suite |
+| Le cours Skool complet a été ingéré (29 modules) | inventaire `docs/inventaire-classroom-skool.md` | les modules annoncés sont désormais présents ; répondre `MANQUANT_MODULE` seulement pour les rares ressources jointes encore absentes (blueprint Make, tuto Help Scout, calculateurs) |
+| 163 nouveaux VTT en statut `INGERE_TEXTE_BRUT` | `coach-source-index.md` § Second versement | titre observé + texte disponible, mais relecture sémantique fine à faire à la demande via `search_corpus.py` |
 | Pas de date fiable par leçon | certaines paroles citent juin 2025 ou des interfaces précises, sans métadonnée éditoriale complète | revalider chaque fonctionnalité, règle et écran avant application |
 
 La mention `ASSIMILE_TEXTE` signifie donc « lu et compris depuis le texte », jamais « certifié mot à mot par écoute ».
@@ -37,11 +39,11 @@ Le pilote annonce une stratégie plus large que le lot actuel :
 | Branding et identité de marque | séquence générale du pilote | quelques principes de différenciation et le skill `brandkit`, mais pas le module Kraken complet | `MANQUANT_MODULE` |
 | Email marketing | `de-6417462fa6547-strategie-muse` [10:25–10:32] | **couvert par le second lot** : `249495684`, `249495936`, `249496725`, `249496572`, `250134849`, `250135404` (flows, campagnes, segmentation, A/B) ; les fichiers ressources cités (templates, calendrier éditorial) restent absents | `COUVERT_SANS_RESSOURCES` |
 | SEO off-site / backlinks | pilote [06:31–07:16] et [10:33–10:36] | **couvert par le second lot** : `234333582`, `234333584`, `234333596` (cadence 4 mois, montée en qualité, méthodes gratuites) ; les vidéos sur le netlinking payant et le live « méthodes ninja » annoncés restent absents | `COUVERT_PARTIEL` |
-| Affiliation | pilote [07:25–08:08] | principe et cibles évoqués, aucun recrutement, contrat, tracking, commission ou anti-fraude | `MANQUANT_MODULE` |
+| Affiliation | pilote [07:25–08:08] | principe et cibles évoqués, aucun module dédié dans le cours ingéré | `MANQUANT_MODULE` |
 | Retargeting Meta | pilote [08:14–08:39] | **renforcé par le second lot** : `233283052` (doctrine), `233282981` (setup catalogue), `246203665` (canal Shopify) ; le testing/scaling Meta complet reste survolé | `PARTIEL` |
 | SAV et rétention | annoncé dans le pilote | **couvert par le second lot** : `233700517` (outils, rôles, métriques, anticipation) ; le tuto Help Scout de la collaboratrice cité en fin de module est absent | `COUVERT_SANS_RESSOURCES` |
-| Délégation et automatisation globales | pilote et Q&A `262936735` [04:50–04:53] | uniquement intégration produit assistée par IA et allusions aux process | `MANQUANT_MODULE` |
-| Vente/valorisation de boutique | `vimeo-caption-262936735` [02:20–02:40] mentionne le module 13 | aucune leçon dédiée ni calculateur | `MANQUANT_MODULE` |
+| Délégation et automatisation globales | module 12 (`194gMLHe-ck`, `1089486869`→`1089487097`), module 4B (Claude Code) | **couvert** : recrutement, process Notion, ERP, IA/Claude | `COUVERT` |
+| Vente/valorisation de boutique | module 13 complet (`1087789996`→`1087789383`) + doc `M13-CH5-KPI`, `M13.CH9-12-étapes` | **couvert** : multiples, KPI, DOTMARKET, 5 raisons anti-vente, 12 étapes, contrat/séquestre | `COUVERT` |
 
 ## 3. Pièces jointes et outils mentionnés mais absents
 

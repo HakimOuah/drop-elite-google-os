@@ -1,0 +1,7281 @@
+WEBVTT
+
+1
+00:00:00.770 --> 00:00:03.260
+Bonjour à tous, bienvenue dans cette cinquième vidéo,
+
+2
+00:00:03.480 --> 00:00:05.580
+on se retrouve aujourd'hui pour commencer
+
+3
+00:00:05.580 --> 00:00:07.020
+l'intégration de la page d'accueil.
+
+4
+00:00:08.480 --> 00:00:11.820
+On a enfin fini les quelques réglages de presque qu'il y
+
+5
+00:00:11.820 --> 00:00:14.340
+avait à faire avance, c'est à dire préparer les fiches
+
+6
+00:00:14.340 --> 00:00:16.460
+produits, les différents champs pour les fiches produits
+
+7
+00:00:17.250 --> 00:00:19.060
+afin de simplifier le rajo produit.
+
+8
+00:00:19.840 --> 00:00:21.820
+On a fini de mettre en place le menu.
+
+9
+00:00:21.960 --> 00:00:25.140
+On a fini de mettre en place les catégories produits.
+
+10
+00:00:25.140 --> 00:00:26.540
+On a réglé tout le personnalisé,
+
+11
+00:00:26.540 --> 00:00:29.540
+on a réglé les typographies et les couleurs.
+
+12
+00:00:29.570 --> 00:00:31.500
+Donc maintenant, on va pouvoir maintenant que tous ces
+
+13
+00:00:31.500 --> 00:00:34.300
+petits réglages qui sont assez longs mais
+
+14
+00:00:34.960 --> 00:00:37.620
+qui sont vraiment très importants, sont faits.
+
+15
+00:00:37.760 --> 00:00:41.060
+On va pouvoir commencer l'intégration de ma page d'accueil.
+
+16
+00:00:42.930 --> 00:00:45.300
+Donc on va pouvoir commencer
+
+17
+00:00:45.920 --> 00:00:50.140
+à supprimer tout ça du coup et à se lancer dans la mise en
+
+18
+00:00:50.140 --> 00:00:52.680
+place du de la page d'accueil.
+
+19
+00:00:52.740 --> 00:00:57.120
+Je me suis permis de télé verser déjà toutes les images dont
+
+20
+00:00:57.120 --> 00:01:01.160
+je vais avoir besoin pour la page d'accueil dans médias.
+
+21
+00:01:04.680 --> 00:01:05.790
+Comme vous pouvez voir ici,
+
+22
+00:01:05.790 --> 00:01:07.430
+j'ai les différentes images dont je vais me servir.
+
+23
+00:01:08.610 --> 00:01:13.470
+Je n'ai pas tout, je n'ai pas toutes les
+
+24
+00:01:13.470 --> 00:01:15.030
+images de la page d'accueil parce que la page
+
+25
+00:01:15.030 --> 00:01:16.110
+d'accueil c'est assez long.
+
+26
+00:01:16.620 --> 00:01:18.590
+Donc je pense que ce qu'on va faire,
+
+27
+00:01:18.800 --> 00:01:20.830
+c'est que je vais intégrer le héros.
+
+28
+00:01:20.830 --> 00:01:23.530
+Donc c'est dans la première section, la deuxième
+
+29
+00:01:24.350 --> 00:01:27.290
+du design que j'ai sous les yeux et pour le reste,
+
+30
+00:01:27.810 --> 00:01:30.010
+histoire que vous voyez les grandes lignes d'élé mentor.
+
+31
+00:01:30.430 --> 00:01:33.410
+Et pour le reste, je couperais, je finirais la page.
+
+32
+00:01:33.410 --> 00:01:35.770
+Et à la fin, je présenterai comme on a pu faire
+
+33
+00:01:37.130 --> 00:01:40.690
+quelques fois depuis depuis le début de ce module.
+
+34
+00:01:41.650 --> 00:01:44.900
+Donc c'est parti. On va pouvoir commencer.
+
+35
+00:01:44.970 --> 00:01:48.420
+Donc, pour ce faire sur la page d'accueil,
+
+36
+00:01:48.770 --> 00:01:51.220
+soit vous cliquez ici sur modifier avec mentor.
+
+37
+00:01:52.090 --> 00:01:53.100
+S'il n'apparaît pas ici,
+
+38
+00:01:53.100 --> 00:01:54.420
+on pouvait aller d'en modifier la page
+
+39
+00:01:58.560 --> 00:01:59.660
+et d'en modifier la page.
+
+40
+00:01:59.660 --> 00:02:03.300
+Vous avez un gros bouton au centre ici modifié avec mentor.
+
+41
+00:02:03.810 --> 00:02:05.580
+Donc vous pouvez cliquer dessus,
+
+42
+00:02:08.210 --> 00:02:09.740
+vous attendez le chargement d'élément.
+
+43
+00:02:09.760 --> 00:02:11.900
+Et une fois que mentors affiché,
+
+44
+00:02:12.680 --> 00:02:16.140
+on va pouvoir commencer du coup à intégrer avec tous
+
+45
+00:02:16.240 --> 00:02:17.300
+les modules d'élément.
+
+46
+00:02:17.310 --> 00:02:20.660
+Comme vous pouvez voir ici sur la gauche, il y a beaucoup,
+
+47
+00:02:20.660 --> 00:02:22.100
+beaucoup de modules qui vont me permettre
+
+48
+00:02:22.100 --> 00:02:23.260
+de créer cette page d'accueil.
+
+49
+00:02:23.610 --> 00:02:28.460
+Donc je vais, je peux déjà supprimer ce qu'on avait fait
+
+50
+00:02:28.750 --> 00:02:30.340
+avant pour les réglages.
+
+51
+00:02:30.340 --> 00:02:31.700
+Maintenant que c'est réglé, ça bougera
+
+52
+00:02:31.700 --> 00:02:32.860
+plus, on peut supprimer tout ça.
+
+53
+00:02:33.800 --> 00:02:35.700
+Il faut bien penser à mettre à jour régulièrement
+
+54
+00:02:36.650 --> 00:02:39.040
+comme ça au cas ou vous ayez un problème de batterie ou
+
+55
+00:02:39.040 --> 00:02:40.320
+n'importe quoi, un allemand,
+
+56
+00:02:40.340 --> 00:02:42.320
+le mentor fait plutôt des mises à jour automatique.
+
+57
+00:02:42.390 --> 00:02:44.240
+Mais s'il y a un problème de connexion, quoi comme ça,
+
+58
+00:02:44.240 --> 00:02:46.480
+vous perdez pas vos données.
+
+59
+00:02:46.480 --> 00:02:48.240
+Donc, quand vous faites des grosses modifications,
+
+60
+00:02:48.260 --> 00:02:49.680
+pas à chaque fois que faites une modification,
+
+61
+00:02:49.680 --> 00:02:52.560
+mais assez régulièrement, toutes les cinq, 10 modifications,
+
+62
+00:02:52.620 --> 00:02:54.360
+pensez à cliquer sur mettre à jour,
+
+63
+00:02:54.860 --> 00:02:56.560
+ça vous évitera des mauvaises surprises.
+
+64
+00:02:57.990 --> 00:02:59.490
+Donc on va pouvoir commencer.
+
+65
+00:02:59.550 --> 00:03:01.960
+Donc pour cette, pour cette page,
+
+66
+00:03:02.630 --> 00:03:04.640
+j'ai d'abord vous montrer à quoi j'aimerais que ça
+
+67
+00:03:04.710 --> 00:03:08.230
+ressemble au final.
+
+68
+00:03:09.680 --> 00:03:14.150
+Alors au pays, c'est
+
+69
+00:03:14.150 --> 00:03:15.430
+ça et on va l'ouvrir.
+
+70
+00:03:17.120 --> 00:03:21.940
+Sur quoi? Voilà.
+
+71
+00:03:21.970 --> 00:03:23.580
+Donc normalement, vous voyez toujours.
+
+72
+00:03:24.330 --> 00:03:29.220
+Donc ici, comme vous pouvez le voir, on a la page d'accueil.
+
+73
+00:03:29.610 --> 00:03:31.380
+Donc nous, le haut page neera pas
+
+74
+00:03:31.380 --> 00:03:32.620
+exactement à ça, je le refaire.
+
+75
+00:03:33.170 --> 00:03:37.260
+Donc voilà donc une première section ici avec un bouton,
+
+76
+00:03:37.640 --> 00:03:40.620
+une présentation globale et un bouton pour aller sur la
+
+77
+00:03:40.670 --> 00:03:45.300
+fiche produit, pas sur la fiche produit sur la boutique ici,
+
+78
+00:03:45.300 --> 00:03:49.420
+différentes images que je redirigerait vers les catégories,
+
+79
+00:03:50.360 --> 00:03:51.500
+on les rendra cliquable.
+
+80
+00:03:51.500 --> 00:03:54.580
+On va les ajouter une par une pas une seule grande image,
+
+81
+00:03:55.360 --> 00:03:59.140
+une par une ici, une section
+
+82
+00:03:59.680 --> 00:04:03.020
+ou une mini section ou le titre fin,
+
+83
+00:04:03.020 --> 00:04:05.780
+les textes défilent horizontalement,
+
+84
+00:04:07.300 --> 00:04:10.020
+livraison gratuite à partir de 50 tours d'achat et solde de
+
+85
+00:04:10.020 --> 00:04:11.380
+divers 20 % avec le code.
+
+86
+00:04:12.370 --> 00:04:14.180
+Donc ça, on va pouvoir le faire
+
+87
+00:04:15.010 --> 00:04:16.780
+directement au CSS dans mentor.
+
+88
+00:04:17.560 --> 00:04:20.360
+Et enfin ici,
+
+89
+00:04:21.060 --> 00:04:23.920
+un léger texte d'introduction, puis
+
+90
+00:04:24.760 --> 00:04:25.820
+les cadeaux par catégorie,
+
+91
+00:04:25.920 --> 00:04:27.420
+les veilleuses par catégorie ont plutôt
+
+92
+00:04:27.420 --> 00:04:28.540
+mettre toutes les veilleuses par catégorie.
+
+93
+00:04:29.680 --> 00:04:31.780
+Ici, on mettra quatre catégories,
+
+94
+00:04:31.920 --> 00:04:33.300
+les quatre meilleures catégories.
+
+95
+00:04:33.300 --> 00:04:34.660
+Souvent, on met là pour l'instant,
+
+96
+00:04:34.680 --> 00:04:36.900
+vu que le site n'est pas lancé, on va mettre des CS.
+
+97
+00:04:36.980 --> 00:04:38.580
+On va mettre celle ci pour au hasard,
+
+98
+00:04:38.580 --> 00:04:40.660
+mais je pourrais les, je pourrais les changer.
+
+99
+00:04:40.660 --> 00:04:42.660
+Ensuite, cette section là,
+
+100
+00:04:42.660 --> 00:04:44.060
+on ne va pas pouvoir la faire parce que pour
+
+101
+00:04:44.060 --> 00:04:45.260
+l'instant, je n'ai pas de produits.
+
+102
+00:04:45.260 --> 00:04:46.540
+Donc je peux la préparer,
+
+103
+00:04:46.540 --> 00:04:48.500
+mais pas pouvoir vraiment la mettre en place
+
+104
+00:04:48.500 --> 00:04:49.620
+parce qu'il n'y a pas de produits.
+
+105
+00:04:50.200 --> 00:04:52.660
+Ça c'est comme vous le voyez, ce sont quatre produits,
+
+106
+00:04:52.840 --> 00:04:54.540
+des exemples avec le prix et le titre.
+
+107
+00:04:55.290 --> 00:04:56.900
+Donc il y a un module qui me permet de à ça.
+
+108
+00:04:56.900 --> 00:05:00.020
+Et pour l'instant, ça ne servira à rien et univers,
+
+109
+00:05:00.260 --> 00:05:01.660
+espace et mer ici, une section
+
+110
+00:05:02.980 --> 00:05:06.510
+avec une image et être un carrousel avec des produits ou je
+
+111
+00:05:06.510 --> 00:05:08.430
+peux directement mettre ce produit, un produit,
+
+112
+00:05:08.930 --> 00:05:13.150
+un seul produit ici, les avis clients ont pareil.
+
+113
+00:05:13.170 --> 00:05:15.550
+On fera un carrousel pour que ça défile pour pas,
+
+114
+00:05:15.660 --> 00:05:17.390
+pour pouvoir en afficher plus que trois,
+
+115
+00:05:17.580 --> 00:05:19.350
+pouvoir en afficher six, neuf, 12,
+
+116
+00:05:19.420 --> 00:05:22.110
+tant qu'on veut faire un quart roussel qui défile
+
+117
+00:05:22.650 --> 00:05:24.230
+ça du très qui s'affiche les uns au dessus des autres.
+
+118
+00:05:24.230 --> 00:05:26.110
+Ce serait pas très beau ici.
+
+119
+00:05:26.530 --> 00:05:28.110
+Une section qui renvoie vers le blog,
+
+120
+00:05:28.150 --> 00:05:32.710
+quelques articles d'exemple qu'on mettra en page et
+
+121
+00:05:33.370 --> 00:05:38.320
+une section à propos pour parler de veilleuse FR et toute
+
+122
+00:05:38.320 --> 00:05:40.200
+la partie du bal du coup, c'est le fouteur
+
+123
+00:05:41.410 --> 00:05:44.720
+qu'on verra sûrement dans une autre vidéo ou on fera le aer
+
+124
+00:05:44.720 --> 00:05:45.960
+et le fouteur en même temps.
+
+125
+00:05:47.170 --> 00:05:49.980
+Pour l'instant, le aer a bien commencé vu
+
+126
+00:05:49.980 --> 00:05:51.060
+qu'il y a le logo et le menu.
+
+127
+00:05:51.690 --> 00:05:53.700
+Mais par exemple, la barre de recherche n'est pas très belle
+
+128
+00:05:54.000 --> 00:05:55.620
+et quand même pas mal de choses à faire encore.
+
+129
+00:05:56.490 --> 00:05:58.440
+Donc je pense qu'on fera ça dans la sixième
+
+130
+00:05:58.440 --> 00:05:59.800
+vidéo, le heider et le footer.
+
+131
+00:06:00.350 --> 00:06:02.120
+Donc là pour l'instant, je pense que pour cette vidéo,
+
+132
+00:06:02.120 --> 00:06:03.760
+on va faire la première et la deuxième section,
+
+133
+00:06:04.140 --> 00:06:06.600
+on va essayer de faire la section qui défile.
+
+134
+00:06:06.600 --> 00:06:10.400
+Si j'ai le CS sous la main, sinon on le frappe plus tard,
+
+135
+00:06:10.400 --> 00:06:11.680
+mais on le fera ensemble, comme ça,
+
+136
+00:06:12.190 --> 00:06:13.960
+vous verrez un bout de CSS ou ça,
+
+137
+00:06:14.540 --> 00:06:17.040
+ou on peut rendre dynamique un élément du CSS.
+
+138
+00:06:17.540 --> 00:06:19.280
+Et pour les trois dernières sections,
+
+139
+00:06:19.280 --> 00:06:21.560
+trois ou quatre sections, une fois que vous aurez compris le
+
+140
+00:06:21.560 --> 00:06:25.440
+principe, ça sert à rien de passer 50 minutes à essayer de
+
+141
+00:06:26.740 --> 00:06:28.520
+ce que vous voyez exactement comment je fais,
+
+142
+00:06:28.520 --> 00:06:30.760
+parce que de toute façon, comme vous voyez,
+
+143
+00:06:30.820 --> 00:06:31.920
+les sections se ressemblent,
+
+144
+00:06:31.920 --> 00:06:34.240
+donc on pourra dupliqué assez facilement.
+
+145
+00:06:35.110 --> 00:06:36.520
+Donc on va commencer maintenant
+
+146
+00:06:37.590 --> 00:06:39.680
+avec notre section principale.
+
+147
+00:06:39.790 --> 00:06:42.120
+Donc, pour mettre une grande section
+
+148
+00:06:42.970 --> 00:06:45.960
+qu'on va pouvoir étirer en j ici, ce bouton sert,
+
+149
+00:06:46.130 --> 00:06:47.680
+voyez, c'est encadré.
+
+150
+00:06:48.030 --> 00:06:51.280
+Nous on vaudrait que ce soit en pleine largeur qu'on va le
+
+151
+00:06:51.280 --> 00:06:52.400
+mettre comme ça en pleine largeur.
+
+152
+00:06:53.060 --> 00:06:55.960
+Et de plus ici, on va mettre pleine largeur comme ça.
+
+153
+00:06:56.100 --> 00:07:00.160
+Le contenu prend bien 100 de ma largeur d'écran ici.
+
+154
+00:07:00.220 --> 00:07:03.960
+On va pouvoir mettre dans style, pouvoir mettre
+
+155
+00:07:04.620 --> 00:07:06.400
+un arrière plan d'une couleur.
+
+156
+00:07:06.590 --> 00:07:08.760
+Donc, comme vous l'avez vu, juste avant ou moi,
+
+157
+00:07:08.760 --> 00:07:11.800
+je vois un arrière plan de couleur bleu bleu ciel.
+
+158
+00:07:12.990 --> 00:07:15.080
+Donc le code couleur, c'est,
+
+159
+00:07:17.090 --> 00:07:19.470
+je regarde sur mon autre écran ou j'ai le design
+
+160
+00:07:19.470 --> 00:07:20.750
+ouvert avec toutes les couleurs.
+
+161
+00:07:21.600 --> 00:07:22.950
+C'est des éroder.
+
+162
+00:07:25.330 --> 00:07:28.880
+Voilà là, on retrouve notre bleu par dessus.
+
+163
+00:07:29.110 --> 00:07:30.520
+J'ai une image de ciel
+
+164
+00:07:30.640 --> 00:07:34.380
+étoilé, le ciel ici.
+
+165
+00:07:35.280 --> 00:07:37.620
+Ce qu'on va faire, c'est que je vais l'ajouter
+
+166
+00:07:38.280 --> 00:07:40.060
+en image par dessus.
+
+167
+00:07:40.640 --> 00:07:43.140
+Je l'ai déjà rajouté c'est celle ci hop.
+
+168
+00:07:44.400 --> 00:07:45.660
+Voilà comme comme ça.
+
+169
+00:07:45.660 --> 00:07:47.100
+On peut voir quelques étoiles à l'instant.
+
+170
+00:07:47.100 --> 00:07:48.540
+On le voit parce qu'il n'y a pas de contenu, mais c'est
+
+171
+00:07:48.540 --> 00:07:50.860
+normal en position, va mettre sans de centré.
+
+172
+00:07:51.360 --> 00:07:53.140
+Là, voilà. Vous avez vu défiler des étoiles
+
+173
+00:07:54.410 --> 00:07:57.860
+répéter non répétés et enfin taille couvrir.
+
+174
+00:08:00.290 --> 00:08:04.770
+On va mettre d'une marge interne,
+
+175
+00:08:04.780 --> 00:08:06.890
+c'est dans avancer les marges et marges internes.
+
+176
+00:08:07.030 --> 00:08:09.490
+On va mettre 100 en haut et sans en bas pour
+
+177
+00:08:09.530 --> 00:08:10.770
+pouvoir errer comme ça.
+
+178
+00:08:10.770 --> 00:08:13.970
+On voit bien qu'il y a des étoiles sans et sans.
+
+179
+00:08:15.530 --> 00:08:17.140
+Ensuite, ce qu'on va faire, c'est qu'on va mettre
+
+180
+00:08:18.280 --> 00:08:21.660
+les nuages et les nuages y sont à côté du titre qu'on
+
+181
+00:08:21.660 --> 00:08:24.460
+pouvait voir ici, ça fait nuage, titre tech,
+
+182
+00:08:24.560 --> 00:08:25.740
+bouton et nuage.
+
+183
+00:08:26.210 --> 00:08:29.100
+Donc pour ça, on va utiliser une section interne qui va
+
+184
+00:08:29.100 --> 00:08:30.380
+permettre de diviser ma section.
+
+185
+00:08:32.250 --> 00:08:33.860
+Donc on va le faire maintenant avec une section
+
+186
+00:08:33.970 --> 00:08:35.340
+interne qu'on va ajouter ici.
+
+187
+00:08:36.540 --> 00:08:39.160
+Et dans ma section interne, je veux trois colonnes.
+
+188
+00:08:40.010 --> 00:08:42.420
+Donc bien mettre trois colonnes comme ça.
+
+189
+00:08:43.410 --> 00:08:46.220
+Donc dans celle là et dans celle là, je veux des nuages.
+
+190
+00:08:47.130 --> 00:08:49.140
+Donc ce qu'on va faire des images,
+
+191
+00:08:50.400 --> 00:08:54.040
+on va les mettre en images à
+
+192
+00:08:54.040 --> 00:08:55.440
+la image et image.
+
+193
+00:08:55.940 --> 00:08:58.480
+On va enlever comme vous pouvez voir ici
+
+194
+00:08:58.480 --> 00:08:59.640
+entre la section et l'image.
+
+195
+00:08:59.790 --> 00:09:00.920
+J'ai un léger padding.
+
+196
+00:09:01.070 --> 00:09:04.000
+J'ai une légère marge interne tout autour de 10 pixels.
+
+197
+00:09:04.000 --> 00:09:05.480
+C'est la marche par défaut d'élé élémentaires.
+
+198
+00:09:05.510 --> 00:09:06.680
+Pour ce faire, on vient ici,
+
+199
+00:09:06.900 --> 00:09:08.680
+on délie les valeurs de marge interne.
+
+200
+00:09:09.470 --> 00:09:10.570
+Et ici, comme vous pouvez le voir,
+
+201
+00:09:10.570 --> 00:09:14.010
+ça prend toute la largeur, tout l'espace disponible.
+
+202
+00:09:14.560 --> 00:09:18.330
+Donc on pense bien l'enlever, d'ailleurs sur celle ci aussi,
+
+203
+00:09:19.470 --> 00:09:22.020
+parce que sinon ça fausse en fait toutes les marges.
+
+204
+00:09:24.130 --> 00:09:26.350
+Si je veux une marge de 50 entre deux éléments,
+
+205
+00:09:26.660 --> 00:09:28.070
+mais que dans mes colonnes, il y a 10,
+
+206
+00:09:28.070 --> 00:09:30.790
+je vais avoir 50 entre mes deux sections,
+
+207
+00:09:31.490 --> 00:09:33.710
+10 pour ma colonne et 10 pour ma colonne du dessus,
+
+208
+00:09:33.930 --> 00:09:36.670
+ce qui à faire un écart de 70 et plus de 50.
+
+209
+00:09:36.670 --> 00:09:38.870
+Donc ça fausser, mais mes valeurs.
+
+210
+00:09:39.340 --> 00:09:42.270
+Donc je pense bien, toujours à délier les valeurs
+
+211
+00:09:42.900 --> 00:09:44.190
+pour éviter d'avoir des problèmes.
+
+212
+00:09:44.190 --> 00:09:45.550
+Donc là entre l'image et le haut,
+
+213
+00:09:45.550 --> 00:09:48.910
+j'ai bien 100 parce que j'ai demandé ici à ce qu'il est 100
+
+214
+00:09:49.730 --> 00:09:52.470
+et je n'ai pas 120 au début,
+
+215
+00:09:52.470 --> 00:09:54.790
+j'avais 120 du coup avec 10 de cette colonne là
+
+216
+00:09:54.790 --> 00:09:55.910
+et 10 de cette colonne là.
+
+217
+00:09:56.460 --> 00:09:59.270
+Donc aucun penser à délier, à chaque fois les valeurs,
+
+218
+00:10:00.440 --> 00:10:02.190
+sinon ça peut tout fausser toute votre page.
+
+219
+00:10:03.060 --> 00:10:05.350
+Donc ici, pour les images, on va ajouter
+
+220
+00:10:06.790 --> 00:10:08.130
+du coup les nuages.
+
+221
+00:10:08.160 --> 00:10:10.010
+Donc moi, je veux nuage un.
+
+222
+00:10:11.370 --> 00:10:13.830
+Voilà est nuage deux.
+
+223
+00:10:18.930 --> 00:10:20.140
+Donc là, comme vous pouvez le voir,
+
+224
+00:10:20.150 --> 00:10:21.340
+c'est beaucoup trop gros.
+
+225
+00:10:21.750 --> 00:10:22.940
+C'est le temps casser l'initial,
+
+226
+00:10:23.010 --> 00:10:24.260
+mais c'est beaucoup trop large.
+
+227
+00:10:24.730 --> 00:10:25.780
+Donc ce qu'on va faire,
+
+228
+00:10:26.960 --> 00:10:28.510
+c'est qu'on va lui mettre une taille.
+
+229
+00:10:29.490 --> 00:10:33.750
+On va lui mettre 30 % à celui ci et
+
+230
+00:10:34.500 --> 00:10:36.430
+environ 35 à celui là.
+
+231
+00:10:38.790 --> 00:10:42.050
+Voilà 30, 35. Ça ne paraît pas mal.
+
+232
+00:10:45.270 --> 00:10:48.090
+Si je mets 30, je pense que celui là suis suis un peu petit.
+
+233
+00:10:48.190 --> 00:10:49.730
+Si je mets trompe mettre 35.
+
+234
+00:10:52.660 --> 00:10:54.510
+Donc voilà ensuite celui là.
+
+235
+00:10:54.890 --> 00:10:56.390
+On va comme vous voyez,
+
+236
+00:10:56.410 --> 00:10:58.150
+il est beaucoup plus proche du titre ici.
+
+237
+00:10:59.610 --> 00:11:00.780
+J'ai déjà commencé par ajouter
+
+238
+00:11:00.780 --> 00:11:01.820
+le titre pour qu'on s'en rende compte.
+
+239
+00:11:04.830 --> 00:11:08.850
+On va ajouter le titre. Ça, c'est trop serré.
+
+240
+00:11:08.850 --> 00:11:10.650
+Comme vous pouvez voir ça, ça prend trop d'espace.
+
+241
+00:11:10.800 --> 00:11:15.360
+Donc cette colonne là, je voudrais qu'elle prenne 25 %,
+
+242
+00:11:16.920 --> 00:11:18.510
+celle ci 25 aussi.
+
+243
+00:11:23.550 --> 00:11:26.650
+Voilà. Et donc vous l'aurez compris du coup, celle là va
+
+244
+00:11:27.210 --> 00:11:30.310
+utiliser 50, 51
+
+245
+00:11:32.280 --> 00:11:33.600
+C Que celle là n'est pas 25.
+
+246
+00:11:35.020 --> 00:11:37.360
+Et donc celle là doit être maintenant à 49, 33,
+
+247
+00:11:37.360 --> 00:11:40.880
+c'est dans de vi, c'est les marges auto.
+
+248
+00:11:42.280 --> 00:11:44.850
+Donc voilà ensuite celle ci.
+
+249
+00:11:44.850 --> 00:11:46.450
+Du coup, on va la laisser comme vous voyez,
+
+250
+00:11:46.540 --> 00:11:48.850
+c'est aligné avec la première ligne, mais celle ci, non?
+
+251
+00:11:49.200 --> 00:11:51.930
+Donc ce qu'on va faire, c'est que sur la colonne ici,
+
+252
+00:11:52.550 --> 00:11:56.280
+on va lui demander de s'aligner au milieu verticalement.
+
+253
+00:11:56.950 --> 00:11:57.800
+Pour l'instant, ça ne change
+
+254
+00:11:57.800 --> 00:11:59.080
+rien parce qu'il n'y a qu'une seule ligne.
+
+255
+00:11:59.990 --> 00:12:02.920
+Mais vous allez voir que si je resserre mon titre
+
+256
+00:12:05.430 --> 00:12:06.960
+afin qu'il prenne moins de place.
+
+257
+00:12:07.150 --> 00:12:09.800
+Donc donc positionnement,
+
+258
+00:12:11.150 --> 00:12:12.440
+largeur personnalisée.
+
+259
+00:12:12.620 --> 00:12:15.050
+Et ici, vous voyez,
+
+260
+00:12:15.510 --> 00:12:17.690
+le nuage bouge pour s'aligner verticalement
+
+261
+00:12:19.120 --> 00:12:20.610
+pour être centré verticalement.
+
+262
+00:12:21.550 --> 00:12:23.610
+Voilà donc le titre.
+
+263
+00:12:23.630 --> 00:12:26.870
+On va mettre, j'ai un titre un peu nul sur le design.
+
+264
+00:12:26.870 --> 00:12:27.390
+Donc je mettre,
+
+265
+00:12:33.570 --> 00:12:35.110
+on va mettre au revoir les cauchemars,
+
+266
+00:12:35.110 --> 00:12:36.430
+ce rigo rigolo revoir le cauchemar.
+
+267
+00:12:37.040 --> 00:12:39.950
+C'est assez bateau comme phrase, mais
+
+268
+00:12:40.980 --> 00:12:42.240
+ça fera l'affaire pour l'instant.
+
+269
+00:12:42.240 --> 00:12:46.590
+Encore une fois, on le changera après si jamais jusque que
+
+270
+00:12:48.470 --> 00:12:50.370
+les il passe endessous c'est pas possible.
+
+271
+00:12:50.790 --> 00:12:53.940
+Si encore, c'est pas possible.
+
+272
+00:12:54.450 --> 00:12:55.580
+Donc qu'on va laisser comme ça,
+
+273
+00:12:56.540 --> 00:12:58.640
+on le mettre en 300 et on va le centr.
+
+274
+00:12:58.940 --> 00:13:00.920
+Et pour centr, on voyez ici, c'est plus centré.
+
+275
+00:13:01.010 --> 00:13:04.520
+Même si mon texte, il est centré parce qu'en fait mon blog
+
+276
+00:13:04.540 --> 00:13:07.070
+de titre, il est pas centré par rapport à la colonne.
+
+277
+00:13:07.810 --> 00:13:09.550
+Mon texte est centré par rapport au blog de titre,
+
+278
+00:13:09.550 --> 00:13:10.430
+mais on blog de titre et
+
+279
+00:13:10.430 --> 00:13:11.430
+pas centré par rapport à la colonne.
+
+280
+00:13:12.060 --> 00:13:14.190
+Pour se faire, je sur les réglages de colonnes ici,
+
+281
+00:13:14.230 --> 00:13:17.710
+modifier colonne et je fais alignement horizontal
+
+282
+00:13:17.710 --> 00:13:19.100
+centré comme ça.
+
+283
+00:13:19.100 --> 00:13:20.860
+Et ça sera automatiquement au milieu
+
+284
+00:13:21.870 --> 00:13:23.020
+quand même plus esthétique.
+
+285
+00:13:23.890 --> 00:13:25.660
+Donc là, comme vous pouvez le voir ici,
+
+286
+00:13:26.200 --> 00:13:27.740
+les nuages sont beaucoup plus proches
+
+287
+00:13:29.620 --> 00:13:32.080
+de mon titre comparés ici.
+
+288
+00:13:32.590 --> 00:13:34.480
+Donc, ce qu'on va faire, c'est que sur l'image,
+
+289
+00:13:34.660 --> 00:13:35.800
+on va demander à l'image,
+
+290
+00:13:36.460 --> 00:13:39.040
+vu qu'il prend pas toute la largeur de ce de se rapprocher
+
+291
+00:13:39.040 --> 00:13:42.090
+comme ça, de s'aligner à gauche et à droite,
+
+292
+00:13:44.340 --> 00:13:49.190
+ce qui a permettre de rapprocher les deux nuages du titre.
+
+293
+00:13:49.760 --> 00:13:52.940
+C'est quand même mieux. On va mettre ensuite un blog de
+
+294
+00:13:52.940 --> 00:13:55.100
+texte, un éditeur de texte en dessous,
+
+295
+00:13:57.320 --> 00:13:58.860
+en là qu'on va centrer également.
+
+296
+00:14:03.480 --> 00:14:08.310
+On va le centrer ici et ensuite même combinaison, on va
+
+297
+00:14:09.140 --> 00:14:12.210
+mettre une largeur personnalisée et
+
+298
+00:14:12.830 --> 00:14:15.700
+on va lui demander comme ça de ne pas prendre trop de place.
+
+299
+00:14:17.520 --> 00:14:19.700
+Et du coup, comme on a demandé à la colonne de tout entrer
+
+300
+00:14:19.960 --> 00:14:21.900
+automatiquement, tous les éléments de la colonne
+
+301
+00:14:21.930 --> 00:14:23.300
+vont être plus.
+
+302
+00:14:24.640 --> 00:14:26.140
+On va être beaucoup plus centré, ça avec
+
+303
+00:14:26.830 --> 00:14:27.900
+mieux pour les yeux.
+
+304
+00:14:28.300 --> 00:14:30.140
+Alors, comme vous pouvez voir ici, c'est très rapproché.
+
+305
+00:14:30.140 --> 00:14:32.500
+Donc on va mettre une marge en bas.
+
+306
+00:14:33.440 --> 00:14:36.380
+Voilà ici, on va mettre à peu près 25 pixels.
+
+307
+00:14:36.390 --> 00:14:40.880
+C'est très bien, même devant, c'est, c'est suffisant.
+
+308
+00:14:44.960 --> 00:14:49.450
+Donc voilà. Donc pouvez voir ici que ça commence à
+
+309
+00:14:49.450 --> 00:14:50.570
+ressembler un petit peu.
+
+310
+00:14:50.790 --> 00:14:52.520
+Et ensuite, comme vous pouvez le voir,
+
+311
+00:14:52.520 --> 00:14:53.640
+il nous manque un bouton.
+
+312
+00:14:54.590 --> 00:14:56.490
+Il va nous manquer un bouton ici.
+
+313
+00:14:57.040 --> 00:15:00.920
+Donc on va pouvoir mettre le bouton ça.
+
+314
+00:15:00.920 --> 00:15:02.800
+En fait, on n'a pas le centrer parce que c'est trop
+
+315
+00:15:04.010 --> 00:15:06.840
+qu'on va le remettre en haut et
+
+316
+00:15:08.180 --> 00:15:10.000
+à la limite qu'on va faire, c'est qu'on va lui mettre
+
+317
+00:15:10.820 --> 00:15:13.320
+une marge en haut pour le descendre
+
+318
+00:15:15.240 --> 00:15:19.990
+à 50, descendre là ou on a envie de le mettre En fait,
+
+319
+00:15:20.270 --> 00:15:22.950
+pourquoi je n'ai pas mis ça sur le background directement
+
+320
+00:15:23.530 --> 00:15:25.550
+les nuages avec les étoiles, c'est qu'en fait,
+
+321
+00:15:25.570 --> 00:15:28.430
+si j'ai envie de faire une animation ou je pour faire les
+
+322
+00:15:28.510 --> 00:15:30.310
+nuages mobiles, en fait
+
+323
+00:15:31.370 --> 00:15:34.430
+les faire arriver dans légèrement en sé ou légèrement au
+
+324
+00:15:34.470 --> 00:15:36.550
+dessus, alors que si je l'avais mis directement avec
+
+325
+00:15:36.550 --> 00:15:37.670
+les étoiles, ça aurait été fixe.
+
+326
+00:15:39.060 --> 00:15:40.230
+Donc là comme ça, ça va donner
+
+327
+00:15:41.250 --> 00:15:43.430
+une impression de mobilité un peu de la page d'accueil.
+
+328
+00:15:44.460 --> 00:15:46.680
+Je pouvoir faire bouger légèrement les étoiles,
+
+329
+00:15:46.850 --> 00:15:48.600
+faire bouger les nuages indépendamment,
+
+330
+00:15:49.060 --> 00:15:53.120
+ce qui va donner une impression de vrai ciel, ce sera mieux.
+
+331
+00:15:55.070 --> 00:15:58.040
+Ensuite, du coup, on va ajouter le bouton,
+
+332
+00:16:01.070 --> 00:16:02.490
+le bouton qu'on va centrer.
+
+333
+00:16:03.440 --> 00:16:06.140
+On va remettre également une mar en haut de 25,
+
+334
+00:16:07.380 --> 00:16:08.760
+non pas une marge globale.
+
+335
+00:16:09.460 --> 00:16:11.040
+Il faut bien délier toujours les valeurs,
+
+336
+00:16:11.420 --> 00:16:12.760
+ce que je vous disais tout à l'heure,
+
+337
+00:16:14.840 --> 00:16:19.730
+sinon ça fait un peu n'importe quoi, une marge de vin,
+
+338
+00:16:20.390 --> 00:16:24.270
+mettre la même mar qu'en haut contre le titre et le texte.
+
+339
+00:16:24.580 --> 00:16:26.630
+Pour l'instant, on va laisser les textes comme ça.
+
+340
+00:16:26.630 --> 00:16:28.070
+Vous avez bien compris, je vais l' changer,
+
+341
+00:16:28.710 --> 00:16:31.000
+mais pour aller plus vite, pas chercher
+
+342
+00:16:31.620 --> 00:16:32.720
+le wording tout de suite.
+
+343
+00:16:33.480 --> 00:16:35.040
+Alors le rayon à pouvoir mettre 30
+
+344
+00:16:36.040 --> 00:16:39.170
+afin d'avoir la même forme de bouton qu'ici on
+
+345
+00:16:39.170 --> 00:16:40.250
+voit qu'il est plus épais.
+
+346
+00:16:40.800 --> 00:16:42.810
+Donc on va pouvoir lui mettre une marge interne.
+
+347
+00:16:44.120 --> 00:16:48.730
+Donc, en haut, on va y mettre 15 à droite en 25,
+
+348
+00:16:49.270 --> 00:16:52.230
+non 20 en bas.
+
+349
+00:16:52.230 --> 00:16:53.430
+On va mettre 15 également.
+
+350
+00:16:53.890 --> 00:16:56.630
+Et du coup 20 pour centr correctement.
+
+351
+00:16:59.010 --> 00:17:02.590
+Voilà ensuite le texte
+
+352
+00:17:03.600 --> 00:17:07.310
+comme sur la maquette, on va mettre découvrir et
+
+353
+00:17:08.350 --> 00:17:11.210
+on fait bien attention à mettre les bonnes couleurs.
+
+354
+00:17:13.470 --> 00:17:18.190
+Alors, la couleur du bouton sur la maquette, c'est 90 b
+
+355
+00:17:18.790 --> 00:17:20.990
+a ok, couleur
+
+356
+00:17:23.560 --> 00:17:26.140
+90 b un.
+
+357
+00:17:28.050 --> 00:17:32.510
+Et ensuite pour ça, c'est bien de mettre un ouvert.
+
+358
+00:17:33.280 --> 00:17:34.510
+C'est la couleur au survol,
+
+359
+00:17:34.510 --> 00:17:37.910
+sinon le bouton est trop statique et trop fixe.
+
+360
+00:17:38.260 --> 00:17:40.150
+Donc, ce qu'on va faire, c'est qu'on va aller sur haut
+
+361
+00:17:40.150 --> 00:17:42.030
+survol, on va remettre la même couleur.
+
+362
+00:17:43.080 --> 00:17:45.580
+Et là on va descendre le curseur pour le foncer légèrement,
+
+363
+00:17:46.160 --> 00:17:49.320
+ce qui donne cet effet quand on passe dessus.
+
+364
+00:17:49.320 --> 00:17:52.400
+Donc c'est un peu beaucoup qui donne cet effet.
+
+365
+00:17:52.400 --> 00:17:55.280
+Quand on passe dessus, on voit que c'est un bouton.
+
+366
+00:17:55.300 --> 00:17:58.280
+Ça donne un mouvement, ça une animation.
+
+367
+00:17:59.390 --> 00:18:00.440
+Donc déjà, on a une,
+
+368
+00:18:00.440 --> 00:18:02.320
+cette première section qui commence à ressembler
+
+369
+00:18:03.020 --> 00:18:05.200
+à ce qu'on veut, à ce qu'on voulait faire
+
+370
+00:18:07.340 --> 00:18:11.400
+le léo la je le remontais pour
+
+371
+00:18:11.400 --> 00:18:12.440
+bien avoir deux lignes.
+
+372
+00:18:18.710 --> 00:18:21.570
+J'aime bien les valeurs, les valeurs rondes.
+
+373
+00:18:23.240 --> 00:18:24.770
+Donc ici, comme vous pouvez le voir,
+
+374
+00:18:24.830 --> 00:18:27.730
+on commence à avoir quelque chose d'un semblant.
+
+375
+00:18:28.560 --> 00:18:32.310
+Ce n'est pas encore fini, mais c'est pas trop mal.
+
+376
+00:18:34.460 --> 00:18:37.990
+Donc ensuite, on va pouvoir s'atteler à la mise en place des
+
+377
+00:18:38.730 --> 00:18:40.190
+de ces images là qui vont servir
+
+378
+00:18:40.330 --> 00:18:41.550
+de lien vers les catégories.
+
+379
+00:18:42.380 --> 00:18:44.030
+Donc, pour ce faire, on va comme vous voyez,
+
+380
+00:18:44.030 --> 00:18:45.030
+il y a six images.
+
+381
+00:18:45.780 --> 00:18:46.870
+Donc on va nouvelle,
+
+382
+00:18:46.870 --> 00:18:48.310
+faut utiliser une section interne qu'on va mettre
+
+383
+00:18:48.940 --> 00:18:50.110
+sous tous les autres éléments.
+
+384
+00:18:50.110 --> 00:18:53.350
+Si j'arrive à la mettre, Voilà.
+
+385
+00:18:54.010 --> 00:18:57.830
+Et ici on va lui demander que ce soit en pleine largeur
+
+386
+00:18:59.070 --> 00:19:00.520
+pour que les colonnes commencent bien
+
+387
+00:19:01.150 --> 00:19:02.680
+d'un côté et terminent bien de l'autre.
+
+388
+00:19:03.700 --> 00:19:08.120
+Et on va pouvoir délier les valeurs de celle ci, celle là,
+
+389
+00:19:08.120 --> 00:19:12.320
+on peut l'effacer ici.
+
+390
+00:19:12.320 --> 00:19:14.440
+Ce qu'on va faire, c'est qu'on va mettre l'image
+
+391
+00:19:14.980 --> 00:19:17.400
+à l'intérieur qui va paraître en très grand.
+
+392
+00:19:17.400 --> 00:19:21.400
+C'est tout à fait normal. On va choisir l'image qu'on veut.
+
+393
+00:19:21.400 --> 00:19:24.720
+Donc ici, c'est celle avec le bébé qui dort et
+
+394
+00:19:25.540 --> 00:19:26.640
+et le dinosaure.
+
+395
+00:19:26.950 --> 00:19:27.960
+Donc c'est celle ci.
+
+396
+00:19:29.180 --> 00:19:32.890
+On va insérer l'image comme pouvez déjà elle rétrécit,
+
+397
+00:19:32.920 --> 00:19:34.090
+mais elle n'est pas au bon endroit.
+
+398
+00:19:34.590 --> 00:19:37.170
+Et ce qu'on va faire, c'est qu'on va lui demander de prendre
+
+399
+00:19:38.370 --> 00:19:39.460
+100 % de la largeur.
+
+400
+00:19:40.140 --> 00:19:41.410
+C'est normal, c'est flou, c'est mo,
+
+401
+00:19:41.410 --> 00:19:43.490
+ça prend 100 de l'écran, c'est pas beau.
+
+402
+00:19:43.720 --> 00:19:46.890
+Mais si on duplique celle ci, on
+
+403
+00:19:48.270 --> 00:19:51.710
+va la dupliqué cette fois et non six,
+
+404
+00:19:51.710 --> 00:19:53.510
+même si elle apparaît six fois.
+
+405
+00:19:54.960 --> 00:19:59.290
+Donc cinq, six et sept.
+
+406
+00:20:00.670 --> 00:20:02.910
+Pourquoi cette en fait qu'on fasse qu'on va aller au milieu
+
+407
+00:20:03.050 --> 00:20:06.750
+ici et on va simplement supprimer celle là
+
+408
+00:20:07.380 --> 00:20:09.670
+afin d'avoir deux blocs de trois comme ici,
+
+409
+00:20:10.630 --> 00:20:11.840
+afin d'avoir deux blocs de trois.
+
+410
+00:20:12.070 --> 00:20:13.960
+Donc ensuite, on va remplacer toutes nos images.
+
+411
+00:20:14.190 --> 00:20:18.040
+Donc là, on veut l'image avec les nuages
+
+412
+00:20:19.420 --> 00:20:24.020
+Différentes veilleuses en forme de nuages là onérer.
+
+413
+00:20:24.020 --> 00:20:27.820
+Ensuite, ici, ces sont les images,
+
+414
+00:20:28.280 --> 00:20:29.580
+les veilleuses œufs.
+
+415
+00:20:30.430 --> 00:20:34.280
+Donc celles-ci ensuite ici
+
+416
+00:20:34.280 --> 00:20:35.520
+de souvenir, c'est la licorne.
+
+417
+00:20:37.350 --> 00:20:40.690
+Donc la licorne,
+
+418
+00:20:43.140 --> 00:20:47.880
+les animaux just
+
+419
+00:20:48.050 --> 00:20:49.760
+juste mis dans l'ordre, ok?
+
+420
+00:20:51.100 --> 00:20:54.840
+Et les œufs, la lune
+
+421
+00:20:55.880 --> 00:21:00.540
+encore l'espace, je l' appelé lune pour voilà inséré.
+
+422
+00:21:00.540 --> 00:21:03.260
+Donc là déjà, on commence à avoir nos six images,
+
+423
+00:21:03.280 --> 00:21:07.460
+mis correctement, comme vous pouvez le voir n'est pas
+
+424
+00:21:07.460 --> 00:21:08.540
+vraiment la même présentation.
+
+425
+00:21:08.810 --> 00:21:12.880
+Donc, ce qu'on va faire, c'est que sur celles ci,
+
+426
+00:21:12.880 --> 00:21:14.000
+on va appliquer des marges.
+
+427
+00:21:14.900 --> 00:21:16.960
+On va commencer par appliquer une marge
+
+428
+00:21:18.130 --> 00:21:22.040
+en haut de 50 pixels pour la faire descendre.
+
+429
+00:21:22.540 --> 00:21:25.720
+Et à droite, on va mettre une marge de 30
+
+430
+00:21:26.910 --> 00:21:30.010
+et pour pas qu'elle rétrécisse et qu'elle passe sur l'autre
+
+431
+00:21:30.010 --> 00:21:32.610
+image, on va lui mettre une marge ici de
+
+432
+00:21:33.360 --> 00:21:35.760
+moins 30 là.
+
+433
+00:21:35.760 --> 00:21:37.160
+Vous voyez, elle passe légèrement dessus.
+
+434
+00:21:37.650 --> 00:21:40.080
+C'est pas vraiment suffisant à pouvoir lui mettre moins 40
+
+435
+00:21:40.540 --> 00:21:42.280
+et du coup 40.
+
+436
+00:21:44.420 --> 00:21:47.040
+Voilà comme ça, ça passe dessus, ça passe pas autant,
+
+437
+00:21:47.040 --> 00:21:48.920
+mais ça passe dessus et vu que de base,
+
+438
+00:21:48.920 --> 00:21:50.160
+ce n'est pas sans cette des catégories,
+
+439
+00:21:50.160 --> 00:21:51.200
+mais qu'on va faire des catégories,
+
+440
+00:21:51.200 --> 00:21:53.520
+il faut que ça reste suffisamment cliquable facilement.
+
+441
+00:21:55.590 --> 00:21:59.200
+Donc ensuite, celle ci, on va lui appliquer cette fois
+
+442
+00:22:00.060 --> 00:22:02.760
+une marge en haut de 150
+
+443
+00:22:04.300 --> 00:22:07.080
+Et une marge à droite de 80.
+
+444
+00:22:07.100 --> 00:22:10.360
+Et donc, vous l'aurez compris, une marge à gauche de 80
+
+445
+00:22:12.640 --> 00:22:15.070
+Comme ça, on a cet effet un peu arc de cercle,
+
+446
+00:22:15.480 --> 00:22:17.350
+comme à peu près ici.
+
+447
+00:22:17.350 --> 00:22:20.630
+Ce n'est pas exactement la même chose ici,
+
+448
+00:22:20.630 --> 00:22:22.350
+c'est censé de dépasser de l'écran, etc.
+
+449
+00:22:22.940 --> 00:22:24.430
+Mais c'est très convenable.
+
+450
+00:22:25.250 --> 00:22:26.390
+Et vu que c'est des liens,
+
+451
+00:22:26.390 --> 00:22:28.430
+ça reste suffisamment cliquable prend,
+
+452
+00:22:28.430 --> 00:22:31.630
+mettra une petite animation de zoom ou de rotation
+
+453
+00:22:32.140 --> 00:22:35.030
+dans l'autre sens, on les remettra droit quand on passera à
+
+454
+00:22:35.030 --> 00:22:37.110
+la souris dessus pour qu'on voit que ce sont des liens.
+
+455
+00:22:37.810 --> 00:22:39.270
+Et donc ce qu'on va faire, c'est que de l'autre côté,
+
+456
+00:22:39.490 --> 00:22:41.750
+on va appliquer la même chose qu'ici, mais à l'envers.
+
+457
+00:22:41.940 --> 00:22:44.190
+Donc celle ci va prendre les caractéristiques de celle ci,
+
+458
+00:22:44.360 --> 00:22:47.150
+celle ci de celle du milieu et celle de droite,
+
+459
+00:22:48.070 --> 00:22:49.410
+les mêmes que celle de toute la gauche.
+
+460
+00:22:50.320 --> 00:22:53.690
+Donc, du coup, on a mis ici 150
+
+461
+00:22:54.910 --> 00:22:56.770
+pardon, je n'ai pas délié les valeurs
+
+462
+00:23:00.810 --> 00:23:03.320
+150 ici,
+
+463
+00:23:05.850 --> 00:23:06.460
+50
+
+464
+00:23:12.090 --> 00:23:13.520
+ici, tout à l'heure.
+
+465
+00:23:13.520 --> 00:23:14.840
+On a mis 30 à droite là,
+
+466
+00:23:14.840 --> 00:23:17.520
+on va mettre moins 30 à droite parce que du coup on inverse.
+
+467
+00:23:19.730 --> 00:23:22.350
+Et du coup à gauche, 30,
+
+468
+00:23:25.110 --> 00:23:25.670
+attendez,
+
+469
+00:23:32.420 --> 00:23:36.670
+n'ai pas fait les bêtises parce qu'ici le
+
+470
+00:23:36.670 --> 00:23:37.830
+moins 40, il sert à rien.
+
+471
+00:23:37.830 --> 00:23:40.150
+En fait assis,
+
+472
+00:23:41.850 --> 00:23:43.430
+je me perds dans mes trucs.
+
+473
+00:23:43.970 --> 00:23:47.870
+Et si j'enlève la manche à droite, oui, ça,
+
+474
+00:23:47.870 --> 00:23:50.710
+ça ne l'agrandissent pas bon pour leur la même taille faire
+
+475
+00:23:51.010 --> 00:23:54.930
+ok Autant pour moi.
+
+476
+00:23:55.280 --> 00:23:56.530
+Donc ici moins 30.
+
+477
+00:23:56.630 --> 00:23:59.650
+Et ici 30, du coup non, on a mis 40
+
+478
+00:24:01.490 --> 00:24:04.870
+et moins 40 pour avoir exactement
+
+479
+00:24:04.970 --> 00:24:06.190
+la même chose que de l'autre côté.
+
+480
+00:24:10.170 --> 00:24:14.340
+Et ici, on va mettre du coup, on avait mis
+
+481
+00:24:15.320 --> 00:24:17.100
+80 que cette fois du coin,
+
+482
+00:24:17.100 --> 00:24:19.980
+on va mettre moins 80 et à gauche, 80.
+
+483
+00:24:21.400 --> 00:24:22.940
+Voilà comme ça, ça fait le même effet.
+
+484
+00:24:23.950 --> 00:24:24.980
+Comme vous pouvez voir par contre,
+
+485
+00:24:24.980 --> 00:24:26.140
+ce n'est pas dans le même ordre ici,
+
+486
+00:24:26.140 --> 00:24:28.660
+c'est censé être de tout en dessous au dessus,
+
+487
+00:24:28.660 --> 00:24:31.250
+au dessus et là, ça fait en dessous en dessous.
+
+488
+00:24:32.120 --> 00:24:33.250
+Donc ce n'est pas très beau.
+
+489
+00:24:34.320 --> 00:24:35.490
+Donc, pour ce faire,
+
+490
+00:24:35.490 --> 00:24:38.690
+on va mettre son appel un z ddex par celle là.
+
+491
+00:24:38.690 --> 00:24:41.530
+On va le mettre deux et celles ci, on va lui mettre un
+
+492
+00:24:43.090 --> 00:24:45.360
+comme vous pouvez le voir, elle repasse sur les autres.
+
+493
+00:24:45.820 --> 00:24:49.800
+Si je ne mets pas le un là, c'est celle ci qui passe dessus.
+
+494
+00:24:49.820 --> 00:24:52.920
+Par contre, si je mets le un et si je mettais trois et pas
+
+495
+00:24:52.920 --> 00:24:53.880
+trop au dessus de toutes les autres,
+
+496
+00:24:54.370 --> 00:24:55.400
+c'est les couches en fait.
+
+497
+00:24:56.270 --> 00:24:57.840
+Donc, si je mets deux à celle ci,
+
+498
+00:24:58.340 --> 00:24:59.920
+si je le suis là sur en souffle ou je m.
+
+499
+00:24:59.920 --> 00:25:03.480
+Inférieur à deux et inférieure à un, donc on va mettre
+
+500
+00:25:05.180 --> 00:25:08.200
+un et celle ci, on va bien lui indiquer zéro.
+
+501
+00:25:13.170 --> 00:25:15.150
+Et de ce côté là, je n'en mets pas parce qu'elles sont déjà
+
+502
+00:25:15.260 --> 00:25:16.470
+dans le bon sens.
+
+503
+00:25:17.660 --> 00:25:20.990
+Donc là déjà, on commence à avoir une page d'accueil.
+
+504
+00:25:22.050 --> 00:25:25.590
+Une première section qui ressemble à ma maquette,
+
+505
+00:25:26.930 --> 00:25:30.110
+Ce n'est pas le plus ressemblant, ce n'est pas parfait.
+
+506
+00:25:30.250 --> 00:25:32.310
+Je veux dire, mais ça commence à être bien ressemblant.
+
+507
+00:25:32.660 --> 00:25:35.190
+Ensuite, quand vous voyez ici,
+
+508
+00:25:35.680 --> 00:25:38.430
+c'est beaucoup plus serré le bouton il est s'en servir
+
+509
+00:25:38.540 --> 00:25:41.030
+quasiment au milieu des deux images les plus basses.
+
+510
+00:25:41.170 --> 00:25:43.190
+Là, on n'y est pas du tout. Y a un grand écart.
+
+511
+00:25:44.090 --> 00:25:46.910
+Ce qu'on va faire, c'est qu'on va commencer par mettre un z
+
+512
+00:25:47.040 --> 00:25:49.630
+index comme on vient de faire pour les couches très
+
+513
+00:25:49.630 --> 00:25:50.710
+important sur le bouton.
+
+514
+00:25:50.710 --> 00:25:54.070
+Donc admettons 200 pour être sûr qu'ils passent
+
+515
+00:25:54.070 --> 00:25:55.190
+au dessus de toutes les autres couches.
+
+516
+00:25:55.690 --> 00:25:59.390
+Et cette section là, on va lui mettre une marge négative
+
+517
+00:26:02.300 --> 00:26:06.180
+en haut de moins 150.
+
+518
+00:26:07.240 --> 00:26:09.500
+Et comme ça, ça remonte beaucoup le bloc,
+
+519
+00:26:14.070 --> 00:26:16.560
+Sauf que si je n'avais pas mis le zide ddex sur le bouton,
+
+520
+00:26:17.660 --> 00:26:19.920
+le problème que j'aurais eu,
+
+521
+00:26:20.210 --> 00:26:23.380
+c'est qu'il aurait pu été cliquable, en fait,
+
+522
+00:26:24.600 --> 00:26:27.310
+parce que la section ici passer par dessus.
+
+523
+00:26:28.280 --> 00:26:29.650
+Donc ça va faire une couche par dessus,
+
+524
+00:26:29.650 --> 00:26:31.410
+le bouton qui m'empêche de cliquer dessus.
+
+525
+00:26:31.860 --> 00:26:33.950
+Donc ce n'est pas ce qui m'intéresse non plus ici,
+
+526
+00:26:33.950 --> 00:26:36.710
+par exemple, sur le bouton on voit que je l'ai mis.
+
+527
+00:26:36.710 --> 00:26:38.110
+Donc c'est pour ça que ça marche pas.
+
+528
+00:26:38.450 --> 00:26:41.910
+Si je le mets du coup bien dans ici,
+
+529
+00:26:42.250 --> 00:26:44.520
+on pouvait voir que là il est, il est repliable.
+
+530
+00:26:44.640 --> 00:26:45.800
+Alors que si j'enlève le 200,
+
+531
+00:26:46.340 --> 00:26:47.480
+je ne peux plus cliquer dessus.
+
+532
+00:26:47.480 --> 00:26:49.760
+Il le détecte plus, c'est la colonne qui prend le dessus,
+
+533
+00:26:52.760 --> 00:26:55.380
+il s'affiche plus le s'affiche plus ici,
+
+534
+00:26:55.380 --> 00:26:59.420
+je mets bien 200 pour pour un index important.
+
+535
+00:26:59.880 --> 00:27:01.340
+Et ici, voilà, je peux rec cliquer dessus.
+
+536
+00:27:01.340 --> 00:27:02.780
+Il passe par dessus la colonne.
+
+537
+00:27:03.610 --> 00:27:07.060
+Donc voilà pour la première section, elle est terminée.
+
+538
+00:27:10.870 --> 00:27:13.400
+Ensuite, il faut ce qu'on appelle
+
+539
+00:27:14.010 --> 00:27:17.360
+responsive de qu'il faut que ce soit adaptable sur mobile.
+
+540
+00:27:18.580 --> 00:27:22.900
+Et ça, ce n'est pas gagné avec le système de colonnes ici
+
+541
+00:27:23.800 --> 00:27:26.340
+déjà, dans un premier temps, on va mettre les on va
+
+542
+00:27:27.630 --> 00:27:30.560
+rediriger les boutons vers les liens qu'on
+
+543
+00:27:30.680 --> 00:27:33.000
+souhaite donc d'en découvrir.
+
+544
+00:27:33.880 --> 00:27:36.980
+On veut un lien et le lien va mettre un lien en balise
+
+545
+00:27:36.980 --> 00:27:41.140
+dynamique, ce qui permet que si le site change
+
+546
+00:27:42.530 --> 00:27:45.470
+de dul, qui s le plus veilleuse, point FR,
+
+547
+00:27:45.470 --> 00:27:46.470
+mais qui s'appelle doudou,
+
+548
+00:27:46.690 --> 00:27:48.870
+FR ou ou lumière pour FR ou n'importe quoi.
+
+549
+00:27:49.450 --> 00:27:52.350
+Si je met une balise dynamique et que je le redirige vers la
+
+550
+00:27:52.550 --> 00:27:55.750
+boutique, ça gardera toujours même ça gardera la boutique.
+
+551
+00:27:55.750 --> 00:27:59.710
+Je n'aurai pas besoin de changer parce que si, si je mets ça
+
+552
+00:28:02.830 --> 00:28:04.960
+veilleuse, FR une boutique,
+
+553
+00:28:05.220 --> 00:28:07.280
+le lien et marche, le lien est correct.
+
+554
+00:28:07.910 --> 00:28:10.560
+Mais si je change de nom de domaine ou n'importe que le lien
+
+555
+00:28:10.700 --> 00:28:13.160
+de la boutique change et qui savait plus boutique mais
+
+556
+00:28:13.160 --> 00:28:16.560
+magasin, je suis obligé de revenir ici et de changer lui de
+
+557
+00:28:16.560 --> 00:28:18.280
+mon bouton moi, ça ne m'intéresse pas.
+
+558
+00:28:18.510 --> 00:28:20.200
+Donc, ce que j'ai faire, c'est que j'ai enlevé le lien,
+
+559
+00:28:20.220 --> 00:28:21.520
+je me une balise dynamique.
+
+560
+00:28:22.260 --> 00:28:24.640
+Je mette URL interne.
+
+561
+00:28:25.530 --> 00:28:29.000
+Je vais cliquer dessus et type contenu
+
+562
+00:28:30.650 --> 00:28:34.710
+et boutique boutique.
+
+563
+00:28:36.130 --> 00:28:39.030
+Voilà. Et là mon lien, il est bien vers la boutique.
+
+564
+00:28:39.410 --> 00:28:40.510
+Il fonctionne correctement.
+
+565
+00:28:41.330 --> 00:28:42.990
+Et si mon lien de boutique change,
+
+566
+00:28:43.210 --> 00:28:44.590
+ça rera quand même vers la
+
+567
+00:28:44.710 --> 00:28:45.790
+boutique, ça changera automatiquement.
+
+568
+00:28:46.060 --> 00:28:47.510
+Donc c'est quand même beaucoup mieux comme ça.
+
+569
+00:28:49.820 --> 00:28:53.480
+Et ensuite les colonnes ici, les images dans les colonnes,
+
+570
+00:28:53.480 --> 00:28:55.480
+on peut également mettre un lien.
+
+571
+00:28:55.950 --> 00:28:58.040
+Donc on va mettre un lien URL personnalisé,
+
+572
+00:28:58.700 --> 00:29:00.680
+valise dynamique également.
+
+573
+00:29:01.730 --> 00:29:04.310
+Et on va mettre
+
+574
+00:29:05.860 --> 00:29:10.540
+pouvoir mettre dans pop, pop
+
+575
+00:29:11.640 --> 00:29:15.460
+URL du URL interne type.
+
+576
+00:29:15.750 --> 00:29:18.060
+Cette fois, taxonomie.
+
+577
+00:29:18.060 --> 00:29:20.380
+Si je n'ai pas de bêtises et que c'est une catégorie,
+
+578
+00:29:20.520 --> 00:29:23.570
+on va lui mettre dinosaures,
+
+579
+00:29:24.820 --> 00:29:26.890
+catégorie de produits, veilleuse, dinosaures,
+
+580
+00:29:30.690 --> 00:29:32.030
+et on peut faire ça pour toutes.
+
+581
+00:29:32.180 --> 00:29:34.030
+Donc pour l'instant, on va mettre des catégories.
+
+582
+00:29:34.810 --> 00:29:37.870
+On va mettre des catégories qui correspondent mais qui sont
+
+583
+00:29:38.050 --> 00:29:39.110
+qui vont peut être changer.
+
+584
+00:29:40.370 --> 00:29:43.050
+Par exemple, ici, on va mettre une veilleuse arc en ciel.
+
+585
+00:29:43.070 --> 00:29:44.770
+On avait une catégorie veilleuse, arc en ciel.
+
+586
+00:29:44.770 --> 00:29:47.130
+On va mettre celle ci sur sur les nuages.
+
+587
+00:29:47.830 --> 00:29:49.840
+Donc vous voyez, ça correspond pas exactement,
+
+588
+00:29:49.870 --> 00:29:51.520
+mais je n'ai pas vraiment de catégorie en
+
+589
+00:29:51.520 --> 00:29:52.600
+tête qui pourrait correspondre.
+
+590
+00:29:52.600 --> 00:29:57.380
+Je pas veilleuse nuage par exemple. Donc on va mettre URL.
+
+591
+00:29:57.380 --> 00:29:57.860
+L'interne
+
+592
+00:30:00.860 --> 00:30:05.040
+taxon, arc en ciel.
+
+593
+00:30:11.820 --> 00:30:16.570
+C'est long. Arc en ciel ici,
+
+594
+00:30:16.870 --> 00:30:21.410
+on va pouvoir mettre une personnalisé
+
+595
+00:30:21.880 --> 00:30:22.930
+veilleuse œuf.
+
+596
+00:30:23.670 --> 00:30:25.370
+Je pense que c'est pas mal de mettre veilleuse œuf
+
+597
+00:30:25.510 --> 00:30:29.530
+ici ou veille.
+
+598
+00:30:30.030 --> 00:30:34.720
+Je pas des chats veille chasse mais veille au chat,
+
+599
+00:30:34.720 --> 00:30:39.360
+plutôt URL interne, taxonomie, toujours
+
+600
+00:30:42.860 --> 00:30:43.880
+Veille chat.
+
+601
+00:30:47.210 --> 00:30:48.270
+Voilà ici,
+
+602
+00:30:48.290 --> 00:30:51.430
+on va pouvoir mettre notre catégorie veilleuse bicorne
+
+603
+00:30:55.890 --> 00:30:57.540
+bien lui, elle personnalisé.
+
+604
+00:31:01.160 --> 00:31:06.060
+Une er taxonomie est
+
+605
+00:31:06.270 --> 00:31:09.080
+issue du coup licorne
+
+606
+00:31:12.440 --> 00:31:15.450
+repensée à mettre à jour au cas ou un souci.
+
+607
+00:31:20.110 --> 00:31:21.170
+Ici, on va mettre
+
+608
+00:31:26.220 --> 00:31:27.570
+l'internet veilleuse,
+
+609
+00:31:30.930 --> 00:31:33.030
+on mettre la grosse catégorie veilleuse animaux,
+
+610
+00:31:35.340 --> 00:31:36.650
+parce que là do dos comme ça,
+
+611
+00:31:36.650 --> 00:31:38.050
+je veux pas vraiment à quoi ça correspond.
+
+612
+00:31:38.910 --> 00:31:41.160
+Joue un cerf, mais je crois que je n'ai pas de cerf de façon
+
+613
+00:31:42.280 --> 00:31:44.980
+et un lapin, une veilleuse lapin sinon mais
+
+614
+00:31:46.000 --> 00:31:48.700
+en merveilleuse animaux sera plus simple animaux.
+
+615
+00:31:57.630 --> 00:31:59.850
+Et enfin, pour finir, va mettre veilleuse lune
+
+616
+00:32:03.230 --> 00:32:04.370
+Hop, hop
+
+617
+00:32:05.310 --> 00:32:06.160
+Personnalisé,
+
+618
+00:32:10.740 --> 00:32:12.520
+non, je oublié de mettre une bal
+
+619
+00:32:16.800 --> 00:32:17.930
+hurl l'interne,
+
+620
+00:32:20.070 --> 00:32:23.240
+taxonomie et lune.
+
+621
+00:32:26.410 --> 00:32:31.310
+On va mettre à jour. Donc
+
+622
+00:32:31.310 --> 00:32:35.190
+là, on va aller voir rapidement ce que ça donne surveil FR.
+
+623
+00:32:38.490 --> 00:32:41.630
+Donc on peut voir que ce n'est pas exactement la même chose
+
+624
+00:32:43.090 --> 00:32:47.950
+qu'ici, mais ça ressemble beaucoup et on peut à chaque fois
+
+625
+00:32:48.490 --> 00:32:49.910
+des liens autour de mes images.
+
+626
+00:32:50.450 --> 00:32:53.550
+Si je vais sur découvrir, j'arrive bien sur ma,
+
+627
+00:32:53.730 --> 00:32:56.710
+sur ma boutique sur envoie lui ici, boutique.
+
+628
+00:32:57.690 --> 00:32:59.710
+Si je clique sur dinosaure,
+
+629
+00:32:59.710 --> 00:33:02.980
+on a bien sur veilleuse dinosaure comme ça.
+
+630
+00:33:02.980 --> 00:33:06.580
+À chaque fois, j'ai des catégories et
+
+631
+00:33:07.740 --> 00:33:10.720
+on va pouvoir du coup continuer sur elementor,
+
+632
+00:33:11.020 --> 00:33:13.440
+à faire la section les deux petites sections en bas
+
+633
+00:33:14.330 --> 00:33:16.960
+qu'on va faire modifier avec une nouvelle fois.
+
+634
+00:33:44.370 --> 00:33:44.790
+Pardon.
+
+635
+00:33:49.640 --> 00:33:51.850
+Donc voilà là on de retour sur élémentaire,
+
+636
+00:33:51.850 --> 00:33:53.530
+on voit qu'on récupère un peu tout ce qu'on a fait.
+
+637
+00:33:53.750 --> 00:33:55.730
+On ne pas faire le responsible tout de suite parce que je ne
+
+638
+00:33:55.730 --> 00:33:57.970
+sais pas exactement comment je vais le faire
+
+639
+00:33:58.830 --> 00:34:03.310
+du chef ou je vois ce que ça donne ça, ça ne fait pas,
+
+640
+00:34:03.470 --> 00:34:04.910
+ça ne met pas trop trop de base,
+
+641
+00:34:05.020 --> 00:34:07.030
+mais je pense qu'on fera plus simple
+
+642
+00:34:12.430 --> 00:34:13.370
+sur sur tablette.
+
+643
+00:34:13.370 --> 00:34:16.690
+C'est pas choquant. Ça peut rester comme ça sur mobile par à
+
+644
+00:34:16.690 --> 00:34:18.690
+mon avis, n'importe quoi.
+
+645
+00:34:20.000 --> 00:34:21.090
+Bien, ce que je me disais,
+
+646
+00:34:22.820 --> 00:34:25.160
+je ne sais pas exactement comment je vais les organiser.
+
+647
+00:34:28.380 --> 00:34:29.630
+Soit je le cache sur mobile.
+
+648
+00:34:30.450 --> 00:34:32.230
+Si on la la possibilité de faire ça aussi.
+
+649
+00:34:32.570 --> 00:34:36.190
+Si je vais dessus sur du coup,
+
+650
+00:34:38.100 --> 00:34:42.560
+La section attendez, section interne.
+
+651
+00:34:42.780 --> 00:34:46.370
+Si je vais sur la section interne, je peux faire responsive.
+
+652
+00:34:46.470 --> 00:34:50.970
+Et là je peux masquer sur mobile comme ça et s'affiche pas.
+
+653
+00:34:51.070 --> 00:34:54.860
+Et j'ai que ça sur mobile que je vois avec Tristan,
+
+654
+00:34:54.860 --> 00:34:57.380
+je ne sais pas exactement comment on fait pour ça.
+
+655
+00:34:57.490 --> 00:34:59.180
+Donc pour l'instant, on va pas faire le responsive.
+
+656
+00:34:59.640 --> 00:35:03.460
+On va se contenter de faire la version des stop.
+
+657
+00:35:03.680 --> 00:35:08.430
+Ce sera bien pour le module et peut être que dans une
+
+658
+00:35:08.430 --> 00:35:10.710
+prochaine vidéo, dans une vidéo finale ou dans une vidéo
+
+659
+00:35:10.710 --> 00:35:12.350
+bonus, on tout le responsible de notre page,
+
+660
+00:35:13.370 --> 00:35:15.070
+ça pourrait être pas mal de le montrer quand même.
+
+661
+00:35:16.130 --> 00:35:18.260
+Donc on va continuer du coup ensuite.
+
+662
+00:35:18.410 --> 00:35:20.900
+Donc là, il nous faut une section comme vous avez vu sur le
+
+663
+00:35:20.900 --> 00:35:23.260
+design ici, il fois une section toute fine
+
+664
+00:35:24.000 --> 00:35:25.810
+avec du texte à l'intérieur qui défile.
+
+665
+00:35:27.970 --> 00:35:31.260
+Donc, pour ce faire, on va ajouter une section classique
+
+666
+00:35:33.100 --> 00:35:35.360
+et dedans, on va mettre un éditeur de texte.
+
+667
+00:35:41.640 --> 00:35:44.430
+Cette section, on va l'étirer en js pour
+
+668
+00:35:44.430 --> 00:35:45.630
+qu'elle prenne toute large largeur.
+
+669
+00:35:46.410 --> 00:35:49.230
+Et on va lui demander que le texte
+
+670
+00:35:49.370 --> 00:35:50.670
+prenne toute la largeur également.
+
+671
+00:35:51.410 --> 00:35:53.150
+On ne va pas le centrer, ça à rien.
+
+672
+00:35:53.530 --> 00:35:55.350
+Par contre, ce qu'on va faire, c'est que dans éditeur de
+
+673
+00:35:55.350 --> 00:35:59.350
+texte Ici, on va par exemple écrire,
+
+674
+00:36:00.530 --> 00:36:02.190
+je sais plus ce qui était en inquiète,
+
+675
+00:36:02.350 --> 00:36:04.150
+livraison gratuite à partir de 50 d'achat.
+
+676
+00:36:07.470 --> 00:36:08.800
+Donc je peux l'écart en minuscule,
+
+677
+00:36:08.800 --> 00:36:10.480
+parce qu'après je vais le mettre en gros
+
+678
+00:36:11.080 --> 00:36:12.920
+livraison offerte à partir
+
+679
+00:36:16.100 --> 00:36:19.850
+de 50 d'achat.
+
+680
+00:36:26.040 --> 00:36:30.140
+Voilà d'achat serait mieux comme ça.
+
+681
+00:36:30.280 --> 00:36:34.260
+Et on va temps parce que j'ai mon code ici.
+
+682
+00:36:35.750 --> 00:36:37.190
+C'était assez pratique.
+
+683
+00:36:38.120 --> 00:36:42.850
+Ah oui, c'était du code, en fait directement. Je l'avais.
+
+684
+00:36:42.950 --> 00:36:45.010
+Ok, on va le refaire.
+
+685
+00:36:46.080 --> 00:36:48.490
+Donc ici, je mets une dive
+
+686
+00:36:50.150 --> 00:36:51.360
+dans lequel je mette du style
+
+687
+00:36:56.620 --> 00:37:01.440
+display flex et je fermer
+
+688
+00:37:01.460 --> 00:37:02.520
+la dive endessous
+
+689
+00:37:06.180 --> 00:37:09.470
+dans cette dive, je vais mettre un paragraphe
+
+690
+00:37:11.960 --> 00:37:13.310
+également avec du style
+
+691
+00:37:17.440 --> 00:37:18.660
+et dans le style, je lui mettre
+
+692
+00:37:22.210 --> 00:37:24.150
+son toi est Paul, mais je crois que sur la
+
+693
+00:37:24.150 --> 00:37:25.310
+maquette, il n'est pas en gras.
+
+694
+00:37:25.310 --> 00:37:28.110
+Donc ça sert à rien de le mettre plutôt
+
+695
+00:37:32.110 --> 00:37:33.740
+texte, transforme
+
+696
+00:37:37.900 --> 00:37:41.900
+qui donc ça c'est pour mettre en majuscule.
+
+697
+00:37:43.000 --> 00:37:45.110
+C'est bien comme ça. On va prendre un peu de code en même
+
+698
+00:37:45.110 --> 00:37:49.350
+temps ensemble, on va mettre un padding
+
+699
+00:37:50.410 --> 00:37:52.910
+de zéro, sauf que ça prenne vraiment pas de place,
+
+700
+00:37:56.120 --> 00:37:57.660
+pas plus de place que c'est devant prendre.
+
+701
+00:37:57.720 --> 00:38:01.900
+On va lui mettre un lineate à zéro également
+
+702
+00:38:04.020 --> 00:38:05.160
+au cas ou il y a un soling,
+
+703
+00:38:05.180 --> 00:38:07.880
+ça pas prévu que ça ne fasse pas de l'écart.
+
+704
+00:38:12.810 --> 00:38:14.500
+Ensuite, on va pouvoir mettre
+
+705
+00:38:18.930 --> 00:38:22.400
+white space no.
+
+706
+00:38:25.440 --> 00:38:28.060
+Et ici on peut refermer la balise
+
+707
+00:38:32.040 --> 00:38:34.220
+et j'ai oublié de une classe également.
+
+708
+00:38:35.100 --> 00:38:36.760
+Je voudrais lui mettre une classe
+
+709
+00:38:40.830 --> 00:38:44.170
+que je vais appeler animation
+
+710
+00:38:45.770 --> 00:38:49.560
+p pour dire que c'est le paragraphe qui
+
+711
+00:38:49.560 --> 00:38:50.920
+défile ici.
+
+712
+00:38:50.920 --> 00:38:55.600
+On va mettre livraison offerte
+
+713
+00:38:56.780 --> 00:38:59.560
+à partir de 50
+
+714
+00:39:01.950 --> 00:39:05.840
+d'achat et on va prendre le p
+
+715
+00:39:07.900 --> 00:39:09.840
+et voyez si je le duplique normalement,
+
+716
+00:39:12.570 --> 00:39:14.310
+il se met à côté et pas
+
+717
+00:39:17.060 --> 00:39:19.800
+il se met à côté et pas en dessous parce que je lui ai
+
+718
+00:39:19.800 --> 00:39:21.480
+demandé de ce flex.
+
+719
+00:39:21.750 --> 00:39:24.520
+Donc le flex, ça permet de placer les à côté des autres,
+
+720
+00:39:24.790 --> 00:39:25.880
+mais ça les met à la suite.
+
+721
+00:39:27.610 --> 00:39:30.540
+Donc ensuite, ce qu'on va faire,
+
+722
+00:39:31.550 --> 00:39:34.940
+c'est qu'on va changer le texte ici pour que pour mettre,
+
+723
+00:39:41.350 --> 00:39:43.320
+j'en va mettre pour afficher
+
+724
+00:39:43.860 --> 00:39:46.320
+les soldes qu'on va changer la ligne.
+
+725
+00:39:46.540 --> 00:39:47.040
+On va mettre
+
+726
+00:39:56.440 --> 00:40:00.190
+moins 20 % avec le code
+
+727
+00:40:01.490 --> 00:40:05.870
+quatre au 20, par exemple, moins 20 %
+
+728
+00:40:06.740 --> 00:40:07.990
+avec le code cadeau vin.
+
+729
+00:40:08.450 --> 00:40:10.870
+On va laisser ça comme ça et on va pouvoir le dupliquer
+
+730
+00:40:12.440 --> 00:40:15.510
+plein de fois autant de fois que vous voulez l'afficher.
+
+731
+00:40:17.060 --> 00:40:18.590
+Donc c'est normal, ça fait n'importe quoi.
+
+732
+00:40:18.640 --> 00:40:21.070
+C'est tout à fait normal et pas peur de le dupliqué.
+
+733
+00:40:21.530 --> 00:40:22.670
+On va aller d avancer.
+
+734
+00:40:23.090 --> 00:40:25.470
+Et c'est ici que on va mettre l'animation dans
+
+735
+00:40:25.570 --> 00:40:26.630
+CS personnalisé.
+
+736
+00:40:28.010 --> 00:40:31.120
+On va écrire ces lecteur
+
+737
+00:40:31.280 --> 00:40:34.600
+p margin.
+
+738
+00:40:35.620 --> 00:40:38.720
+Je l'ai déjà mis ce pas grand chose,
+
+739
+00:40:42.890 --> 00:40:44.150
+on mettre ces lecteur.
+
+740
+00:40:47.020 --> 00:40:49.190
+Donc le sé lecteur, ça permet de sélectionner
+
+741
+00:40:49.270 --> 00:40:50.630
+l'éditeur de textes, le séle lecteur.
+
+742
+00:40:50.630 --> 00:40:53.110
+En fait, ça sélectionne, ça vise
+
+743
+00:40:53.850 --> 00:40:56.310
+le blog dans lequel on est donc overflow
+
+744
+00:41:00.060 --> 00:41:04.640
+donne non, non,
+
+745
+00:41:04.660 --> 00:41:06.960
+je ne veux pas ça non plus.
+
+746
+00:41:06.960 --> 00:41:10.000
+C'est pas beau. Plutôt mettre séle lecteur p,
+
+747
+00:41:10.510 --> 00:41:11.520
+commencer par là.
+
+748
+00:41:11.580 --> 00:41:12.760
+On ver ce que ça donne après.
+
+749
+00:41:13.450 --> 00:41:17.220
+C'est Victor p margin
+
+750
+00:41:18.320 --> 00:41:21.230
+d'auto pour enlever la marge du bas zéro.
+
+751
+00:41:23.120 --> 00:41:25.140
+On va essayer de tout mettre en important pour être sûr que
+
+752
+00:41:25.140 --> 00:41:26.220
+ça soit pris en compte.
+
+753
+00:41:27.950 --> 00:41:32.360
+Voilà ensuite display in line block
+
+754
+00:41:37.420 --> 00:41:38.030
+important.
+
+755
+00:41:40.450 --> 00:41:42.260
+Ensuite, espèce no favorable.
+
+756
+00:41:42.330 --> 00:41:45.100
+J'ai déjà mis animation
+
+757
+00:41:49.080 --> 00:41:52.290
+défilement rtl
+
+758
+00:41:54.200 --> 00:41:55.730
+800 s
+
+759
+00:42:00.350 --> 00:42:00.960
+linéaire.
+
+760
+00:42:02.860 --> 00:42:05.550
+Donc là, on initialize la durée.
+
+761
+00:42:05.550 --> 00:42:07.950
+Donc, par exemple, le défilement pour défiler tout le texte,
+
+762
+00:42:08.770 --> 00:42:10.750
+je demande est ce que ça prenne 800 secondes.
+
+763
+00:42:11.620 --> 00:42:13.750
+Donc c'est pour ça qu'il ne faut pas hésiter à mettre plein
+
+764
+00:42:13.750 --> 00:42:17.830
+plein plein de bal sp à aller dupliqué ou sinon augmenter le
+
+765
+00:42:17.830 --> 00:42:21.990
+texte curseur défaut.
+
+766
+00:42:22.170 --> 00:42:25.470
+Ça, c'est pour demander à ce que quand on survole l'élément,
+
+767
+00:42:25.890 --> 00:42:29.230
+le curseur reste bien celui ci là et pas autre chose.
+
+768
+00:42:32.010 --> 00:42:33.750
+Voilà. Et ensuite padding,
+
+769
+00:42:34.240 --> 00:42:36.950
+c'est là qu'on va écarter un petit peu 10 p x
+
+770
+00:42:39.580 --> 00:42:44.110
+et de m dpx
+
+771
+00:42:45.190 --> 00:42:46.300
+0 %.
+
+772
+00:42:48.900 --> 00:42:49.720
+Par contre, je n'ai aucune
+
+773
+00:42:49.720 --> 00:42:51.000
+modification qui sont prises en compte.
+
+774
+00:42:52.330 --> 00:42:56.890
+Je train regarder Après
+
+775
+00:42:57.510 --> 00:43:00.970
+et arobase qui fra
+
+776
+00:43:03.400 --> 00:43:05.530
+des défilement RT
+
+777
+00:43:09.600 --> 00:43:10.550
+0 %
+
+778
+00:43:19.370 --> 00:43:20.040
+transforme
+
+779
+00:43:28.160 --> 00:43:29.740
+et c le fail.
+
+780
+00:43:37.040 --> 00:43:38.660
+Oui, C'est un beau fail.
+
+781
+00:43:45.800 --> 00:43:47.270
+C'est vraiment censé fonctionner.
+
+782
+00:43:47.930 --> 00:43:51.750
+Je sais, parce que j'ai oubliée un truc, si je mets 100 %
+
+783
+00:43:55.780 --> 00:43:57.360
+et que je me transforme
+
+784
+00:44:02.600 --> 00:44:05.360
+translate et
+
+785
+00:44:07.780 --> 00:44:09.280
+100 %,
+
+786
+00:44:18.280 --> 00:44:22.610
+Mais je suis pas convaincu, importante,
+
+787
+00:44:24.080 --> 00:44:25.260
+ça a peur de fonctionner.
+
+788
+00:44:34.070 --> 00:44:35.730
+Bon, je, ce qu'on va faire,
+
+789
+00:44:35.730 --> 00:44:39.530
+c'est que je vais faire une pause et je vous reprends une
+
+790
+00:44:39.530 --> 00:44:41.050
+fois que ça marche et je vous explique pourquoi ça ne
+
+791
+00:44:41.050 --> 00:44:43.510
+marchait pas, parce que là
+
+792
+00:44:44.090 --> 00:44:46.310
+je sais pas pourquoi ça marche pas.
+
+793
+00:44:46.680 --> 00:44:48.190
+C'est bon. Du coup, le problème est résolu.
+
+794
+00:44:49.230 --> 00:44:50.710
+C'était un problème d'élément.
+
+795
+00:44:51.250 --> 00:44:52.790
+Je ne sais pas pourquoi il y avait un problème sur ma
+
+796
+00:44:52.950 --> 00:44:54.790
+première section, j'ai dû recommencer.
+
+797
+00:44:55.330 --> 00:44:57.550
+Je pensais qu'il y avait dans mon code, mais du coup,
+
+798
+00:44:57.580 --> 00:44:59.030
+j'ai quand même pris un beau ailleurs,
+
+799
+00:44:59.420 --> 00:45:00.710
+mais du coup ça fonctionne.
+
+800
+00:45:01.780 --> 00:45:04.030
+Donc, en fait, ce que j'ai fait,
+
+801
+00:45:04.030 --> 00:45:05.590
+c'est que j'ai collé comme ça des
+
+802
+00:45:06.130 --> 00:45:07.190
+des phrases que je voulais.
+
+803
+00:45:08.570 --> 00:45:11.350
+Et dans mon style, voilà mon CS.
+
+804
+00:45:11.350 --> 00:45:14.430
+Mais finalement, c'est y a deux lignes près le
+
+805
+00:45:14.430 --> 00:45:17.190
+même que ce que j'avais fait.
+
+806
+00:45:17.450 --> 00:45:19.510
+Il y a cette ligne là en plus, mais qui sert à rien
+
+807
+00:45:20.680 --> 00:45:21.870
+parce qu'elles fonctionne pas.
+
+808
+00:45:21.870 --> 00:45:24.790
+C'est censé mettre en pause quand on passe la souris dessus,
+
+809
+00:45:24.790 --> 00:45:26.930
+mais ça ne fonctionne pas.
+
+810
+00:45:27.470 --> 00:45:29.930
+Et j'ai ajouté overflow, Hayden,
+
+811
+00:45:29.950 --> 00:45:31.650
+je vois pas à quoi elle sert, mais
+
+812
+00:45:32.640 --> 00:45:33.890
+elle y était sur l'autre bout.
+
+813
+00:45:34.050 --> 00:45:36.490
+Alors je l'ai rajouté. Mais sinon,
+
+814
+00:45:36.900 --> 00:45:39.090
+c'est exactement la même chose que ce qu'on avait
+
+815
+00:45:39.090 --> 00:45:42.670
+fait du coup.
+
+816
+00:45:43.260 --> 00:45:47.670
+J'ai laissé comme ça, j'ai laissé comme ça,
+
+817
+00:45:50.650 --> 00:45:52.430
+ça ne change pas grand chose apparemment.
+
+818
+00:45:52.740 --> 00:45:57.470
+Donc c'est bien comme ça ici. J'ai bien 80.
+
+819
+00:45:57.470 --> 00:45:59.830
+En fait, vous voyez ici, si j'ai eu 800, ça,
+
+820
+00:45:59.830 --> 00:46:02.230
+vraiment 800 secondes là, le défilement, il est toujours là.
+
+821
+00:46:02.370 --> 00:46:03.590
+Je peux mettre 8000.
+
+822
+00:46:04.390 --> 00:46:07.170
+Le défi, le défilement est toujours là juste ça aura fini de
+
+823
+00:46:07.170 --> 00:46:08.370
+défiler dans 8000 secondes.
+
+824
+00:46:08.600 --> 00:46:10.450
+Donc, ce que je vais faire, c'est que je vais laisser en 800
+
+825
+00:46:11.470 --> 00:46:15.970
+et je vais rajouter et je vais continuer de, en fait,
+
+826
+00:46:15.990 --> 00:46:18.370
+ce que je vais faire, c'est que j'ai continuer de prendre
+
+827
+00:46:18.390 --> 00:46:22.620
+ces deux lignes là et je vais donc
+
+828
+00:46:23.360 --> 00:46:25.220
+je vais les prendre comme ça et je
+
+829
+00:46:25.220 --> 00:46:26.300
+vais continuer de les dupliquer.
+
+830
+00:46:26.440 --> 00:46:27.820
+En fait, voilà. Plus je les duplique,
+
+831
+00:46:28.770 --> 00:46:30.100
+plus ça va s'accélérer,
+
+832
+00:46:33.740 --> 00:46:34.920
+ça va quand même déjà plus vite.
+
+833
+00:46:36.550 --> 00:46:39.770
+On va duplique encore un peu, vraiment l'accélérer,
+
+834
+00:46:39.770 --> 00:46:41.010
+mais en fait, plus il y en a
+
+835
+00:46:41.710 --> 00:46:43.890
+et du coup plus ça va durer longtemps.
+
+836
+00:46:43.890 --> 00:46:45.730
+En fait, là plus ça dure longtemps.
+
+837
+00:46:45.730 --> 00:46:47.530
+Je veux dire, plus je peux, j'ai de place de mettre du
+
+838
+00:46:47.530 --> 00:46:49.770
+contenu parce qu'il faut savoir que bout de 800,
+
+839
+00:46:49.910 --> 00:46:52.130
+une fois que c'est fini, il n'y a plus rien qui défile,
+
+840
+00:46:52.760 --> 00:46:55.410
+sauf que personne reste sur une page d'accueil 800 secondes.
+
+841
+00:46:55.760 --> 00:46:57.490
+Donc, ce que je fais, c'est que moi, je mets 800 secondes.
+
+842
+00:46:57.490 --> 00:47:00.410
+Je mets beaucoup de contenu, je laisse défiler et comme ça
+
+843
+00:47:00.550 --> 00:47:02.330
+et sachant quelque chaque fois qu'on rafraîchi ça,
+
+844
+00:47:02.330 --> 00:47:03.850
+red démarre au début des 800 secondes.
+
+845
+00:47:04.200 --> 00:47:06.130
+Donc ça est largement suffisant.
+
+846
+00:47:06.430 --> 00:47:09.130
+Je vais juste supprimer ça ici.
+
+847
+00:47:10.040 --> 00:47:13.460
+Voilà donc notre texteil en fonctionne.
+
+848
+00:47:13.460 --> 00:47:15.860
+Il n'est pas vraiment, il n'a pas vraiment exactement comme,
+
+849
+00:47:15.990 --> 00:47:18.820
+comme sur la maquette, parce que sur la maquette,
+
+850
+00:47:18.920 --> 00:47:21.290
+le fond ici est bleu.
+
+851
+00:47:21.360 --> 00:47:23.050
+Donc j'ai récupéré le code du bleu.
+
+852
+00:47:25.670 --> 00:47:28.030
+Alors le bleu, c'est le même que pour les boutons.
+
+853
+00:47:29.150 --> 00:47:33.680
+Donc on va ici, on change la couleur de fond,
+
+854
+00:47:36.170 --> 00:47:38.070
+on va lui mettre du coup.
+
+855
+00:47:39.280 --> 00:47:41.710
+C'est 90
+
+856
+00:47:42.790 --> 00:47:46.780
+b un a.
+
+857
+00:47:48.200 --> 00:47:51.140
+Voilà. Et ensuite du coup pour le texte,
+
+858
+00:47:52.850 --> 00:47:55.340
+pour le texte, pour le texte
+
+859
+00:47:57.290 --> 00:48:02.030
+personnalisé dans le pays ici,
+
+860
+00:48:02.050 --> 00:48:03.750
+ce qu'on va mettre, c'est qu'on veut mettre une couleur
+
+861
+00:48:04.420 --> 00:48:06.830
+blanche et un
+
+862
+00:48:09.810 --> 00:48:13.240
+texte transforme un peu pour mettre en majuscule.
+
+863
+00:48:13.460 --> 00:48:15.120
+Voilà comme ça,
+
+864
+00:48:15.130 --> 00:48:18.080
+c'est plus lisible et ça correspond plus à la maquette.
+
+865
+00:48:19.350 --> 00:48:22.440
+Donc là, c'est quasiment exactement la même chose pour le
+
+866
+00:48:22.440 --> 00:48:26.270
+coup, parce que la police est un peu plus grosse.
+
+867
+00:48:26.300 --> 00:48:28.550
+Mais si je la réduis, j'ai peur que ce soit moins
+
+868
+00:48:30.090 --> 00:48:32.440
+moins sympa ici peut être que c'est grand.
+
+869
+00:48:33.680 --> 00:48:38.500
+Si je mets cinq et du
+
+870
+00:48:38.500 --> 00:48:42.470
+coup ici cinq, on, c'est mieux comme ça, ça,
+
+871
+00:48:42.470 --> 00:48:44.230
+ça fait un bandeau qui défile.
+
+872
+00:48:44.820 --> 00:48:46.910
+Donc voilà. Donc là, ça fonctionne correctement.
+
+873
+00:48:46.930 --> 00:48:49.030
+Voilà bien notre texte qui défile comme sur la
+
+874
+00:48:49.030 --> 00:48:53.470
+maquette, c'est ce qu'on voulait.
+
+875
+00:48:55.850 --> 00:48:56.990
+On voulait avoir la même chose.
+
+876
+00:48:56.990 --> 00:48:59.230
+Donc ici du coup, si je rafraîchis normalement,
+
+877
+00:48:59.770 --> 00:49:01.670
+mes dernières modifications ont été prises en compte.
+
+878
+00:49:02.010 --> 00:49:03.470
+Et là, ça fait un bandeau qui défie
+
+879
+00:49:04.010 --> 00:49:06.150
+et ça rajoute du dynamisme.
+
+880
+00:49:06.150 --> 00:49:09.550
+C'est quand même beaucoup plus sympa à regarder en tout cas.
+
+881
+00:49:11.580 --> 00:49:14.950
+Donc c'est bien, on a bien avancé. Il nous reste du coup.
+
+882
+00:49:15.540 --> 00:49:17.110
+J'ai fermé l'onglet que je ne voulais pas.
+
+883
+00:49:22.490 --> 00:49:27.220
+Je voulais continuer d'avoir mon image
+
+884
+00:49:27.540 --> 00:49:29.620
+d pour pouvoir voir le design en même temps.
+
+885
+00:49:32.410 --> 00:49:35.390
+Voilà donc là déjà la section du dessus.
+
+886
+00:49:38.530 --> 00:49:43.520
+C'est très gros, ça. Donc là comme ça,
+
+887
+00:49:43.520 --> 00:49:46.160
+la section du dessus, on voit que ça commence quand même à
+
+888
+00:49:46.160 --> 00:49:51.030
+bien être ressemblant entre ça et ça,
+
+889
+00:49:51.050 --> 00:49:54.390
+on voit qu'il y a quand même pas mal de ressemblance.
+
+890
+00:49:55.520 --> 00:49:58.230
+C'est pas exactement la même chose, mais
+
+891
+00:49:58.840 --> 00:50:01.030
+c'est très convenable de toute façon, tout est très gros.
+
+892
+00:50:01.530 --> 00:50:03.110
+On a fait un peu plus fin. C'est mieux.
+
+893
+00:50:04.660 --> 00:50:06.840
+Je vois que le bouton ici,
+
+894
+00:50:07.540 --> 00:50:11.130
+le texte est censé être en gras, qu'on va le faire tout de suite.
+
+895
+00:50:11.130 --> 00:50:13.650
+On va ici dans typographie en Grèce
+
+896
+00:50:14.830 --> 00:50:16.970
+et on va pouvoir lui mettre du bol.
+
+897
+00:50:17.630 --> 00:50:19.810
+Et on voit que le texte passe un peu plus en gras
+
+898
+00:50:20.750 --> 00:50:23.850
+et on va également pouvoir lui mettre un espacement des
+
+899
+00:50:23.850 --> 00:50:28.290
+lettres à un point.
+
+900
+00:50:29.200 --> 00:50:30.740
+Ça écarte légèrement les lettres.
+
+901
+00:50:31.520 --> 00:50:33.380
+Ça augmente la lisibilité,
+
+902
+00:50:33.380 --> 00:50:35.620
+surtout que cette police tendance, c'est un peu serré.
+
+903
+00:50:36.290 --> 00:50:37.620
+Donc, comme ça, on voit mieux.
+
+904
+00:50:38.970 --> 00:50:41.420
+Ensuite, on va passer à cette section là,
+
+905
+00:50:41.950 --> 00:50:43.980
+cette section là, rien de plus bête.
+
+906
+00:50:45.570 --> 00:50:50.100
+Donc simplement ce qu'on va faire,
+
+907
+00:50:50.100 --> 00:50:51.540
+c'est quand même un éditeur de texte.
+
+908
+00:50:55.130 --> 00:50:58.030
+On va mettre l'éditeur de texte comme ça.
+
+909
+00:51:01.740 --> 00:51:04.560
+On va centrer le texte comme sur la maquette.
+
+910
+00:51:06.280 --> 00:51:08.420
+On va écrire un peu plus que ça.
+
+911
+00:51:08.420 --> 00:51:10.820
+On va juste faire copier coller au bout
+
+912
+00:51:11.640 --> 00:51:14.380
+un peu plus de texte, un peu beaucoup.
+
+913
+00:51:15.180 --> 00:51:17.470
+Ensuite, on voit qu'il prend moins de largeur quand même,
+
+914
+00:51:19.000 --> 00:51:20.260
+il prend quand même moins de largeur.
+
+915
+00:51:20.260 --> 00:51:24.230
+Donc on va le réduire dans positionnement,
+
+916
+00:51:24.700 --> 00:51:29.530
+largeur personnalisé ici, on va pouvoir le réduire de
+
+917
+00:51:30.050 --> 00:51:34.230
+manière à ce qu'il prenne un à 650.
+
+918
+00:51:38.020 --> 00:51:39.440
+Et on va encore une fois,
+
+919
+00:51:39.610 --> 00:51:43.600
+aller sur les réglages de la colonne et le centr alignement
+
+920
+00:51:43.690 --> 00:51:45.640
+horizontal centré ici.
+
+921
+00:51:46.070 --> 00:51:49.440
+J'ai pas enlevé les les 10 pixels de tour.
+
+922
+00:51:49.440 --> 00:51:50.960
+Donc il faut bien délier les valeurs.
+
+923
+00:51:50.960 --> 00:51:53.880
+Quand vous dites tout à l'heure, voilà comme ça
+
+924
+00:51:54.140 --> 00:51:55.600
+ici, on ne peut pas se tromper.
+
+925
+00:51:55.660 --> 00:52:00.040
+Et maintenant je vais sur ma section mettre 52 marges
+
+926
+00:52:00.040 --> 00:52:02.120
+internes en haut et 50 en bas, au moins,
+
+927
+00:52:02.120 --> 00:52:03.200
+je suis sûr que ce soit bien.
+
+928
+00:52:03.430 --> 00:52:07.240
+50 et pas un pixel de plus ou des pixels de plus ou de
+
+929
+00:52:07.240 --> 00:52:08.680
+moins, c'est bien 50.
+
+930
+00:52:09.230 --> 00:52:10.480
+Donc on va laisser comme ça.
+
+931
+00:52:13.150 --> 00:52:15.480
+Ensuite, comme vous pouvez le voir ici,
+
+932
+00:52:15.480 --> 00:52:16.880
+il y a un mot dans une autre police
+
+933
+00:52:17.780 --> 00:52:19.880
+au milieu pour pouvoir le mettre en avant.
+
+934
+00:52:19.900 --> 00:52:22.040
+Je sais juste parce que c'est comme police
+
+935
+00:52:23.620 --> 00:52:24.720
+et moi, elle n'apparaît pas.
+
+936
+00:52:27.840 --> 00:52:30.390
+Est ce qu'on faire, ce que je juste montr comment faire ne
+
+937
+00:52:30.390 --> 00:52:31.950
+sera pas la bonne police, pas très grave.
+
+938
+00:52:32.500 --> 00:52:35.470
+Mais dans contenu, on va sélectionner juste,
+
+939
+00:52:35.470 --> 00:52:36.710
+on va aller dans texte ici.
+
+940
+00:52:36.890 --> 00:52:38.670
+On pourra mettre du code dedans un,
+
+941
+00:52:38.790 --> 00:52:41.230
+sélectionner juste un mot qu'on veut mettre en avant.
+
+942
+00:52:41.610 --> 00:52:43.950
+On va lui mettre une balise autour comme ça qu'on va appeler
+
+943
+00:52:44.100 --> 00:52:46.790
+span et qu'on va pas oublier de fermer à la fin du mot,
+
+944
+00:52:48.370 --> 00:52:49.630
+on la span également.
+
+945
+00:52:50.910 --> 00:52:53.170
+Et on la ferme comme ça avec
+
+946
+00:52:54.670 --> 00:52:56.810
+le slash, fermant comme ça.
+
+947
+00:52:57.070 --> 00:52:58.570
+On va mettre à jour et va le mot.
+
+948
+00:52:58.590 --> 00:53:00.010
+Il est mis à l'écart,
+
+949
+00:53:02.760 --> 00:53:05.820
+ce qui fait qu'on pouvoir lui mettre un style.
+
+950
+00:53:06.240 --> 00:53:10.380
+On va palm mettre ici. On va aller dans avancer
+
+951
+00:53:12.800 --> 00:53:13.880
+c personnalisé.
+
+952
+00:53:13.880 --> 00:53:17.220
+Et ici on va les mettre ces lecteur span toujours.
+
+953
+00:53:17.220 --> 00:53:18.260
+Commencez par sé lecteur. Sinon,
+
+954
+00:53:18.260 --> 00:53:19.940
+vous allez sélectionner toute l' span de tout le site.
+
+955
+00:53:19.960 --> 00:53:21.860
+Si vous mettez juste span, vous allez sélectionner tout.
+
+956
+00:53:22.080 --> 00:53:23.500
+Si vous mettez lector span,
+
+957
+00:53:23.640 --> 00:53:25.300
+il va seulement prendre l' span qui qui
+
+958
+00:53:25.300 --> 00:53:26.460
+appartiennent à l'éditeur de texte.
+
+959
+00:53:26.700 --> 00:53:28.440
+Et ce sera beaucoup mieux parce que vous allez
+
+960
+00:53:28.440 --> 00:53:29.600
+mettre un gros bazar.
+
+961
+00:53:30.470 --> 00:53:33.280
+Donc c'est lector, span colore.
+
+962
+00:53:33.290 --> 00:53:35.120
+C'est juste pour vous montrer comment ça fonctionne, raid.
+
+963
+00:53:35.120 --> 00:53:37.520
+Et là, voilà, j'ai juste le mot que j'ai mis en
+
+964
+00:53:37.520 --> 00:53:38.600
+span qui va se mettre en rouge.
+
+965
+00:53:39.110 --> 00:53:41.160
+Donc si je fais ça, je peux par exemple lui mettre
+
+966
+00:53:41.700 --> 00:53:45.970
+un fond de famille et on va déclarer un montéra par exemple,
+
+967
+00:53:49.370 --> 00:53:53.810
+nom, ça marche pas comme ça, non,
+
+968
+00:53:53.810 --> 00:53:57.650
+ça marche pas comme ça, mais on peut en tout cas changer la
+
+969
+00:53:57.650 --> 00:54:01.450
+police de juste un morceau de texte comme ça
+
+970
+00:54:02.390 --> 00:54:05.450
+et ce qui permet de mettre un mot en avant en gras de façon,
+
+971
+00:54:05.450 --> 00:54:10.090
+même si vous faites ça et que vous faites bold sur
+
+972
+00:54:10.280 --> 00:54:12.770
+ipso que vous avez dans texte, vous pouvez voir qu'il a mis,
+
+973
+00:54:12.990 --> 00:54:16.900
+il a rajé des balises autour et les balises strong autour.
+
+974
+00:54:17.550 --> 00:54:19.580
+C'est le principe. Quand on met du texte en gras en Italie,
+
+975
+00:54:19.600 --> 00:54:22.660
+ça rajoute des balises partout autour de nos textes.
+
+976
+00:54:23.530 --> 00:54:25.660
+Donc celle là, on va les enlever pour les enlever.
+
+977
+00:54:25.660 --> 00:54:29.580
+Juste on ici, enlever bold, ce sera beaucoup plus simple.
+
+978
+00:54:31.800 --> 00:54:33.460
+Voilà donc quand on va continuer
+
+979
+00:54:34.310 --> 00:54:36.460
+cette page d'accueil avec la deuxième section.
+
+980
+00:54:38.770 --> 00:54:43.100
+Donc on a ce titre là,
+
+981
+00:54:43.140 --> 00:54:44.540
+tous les cadeaux par catégorie.
+
+982
+00:54:45.160 --> 00:54:47.100
+Je sais juste pas si c'est,
+
+983
+00:54:48.440 --> 00:54:51.420
+on va mettre un h et du prix.
+
+984
+00:54:51.420 --> 00:54:52.420
+Il va apparaît un peu gros.
+
+985
+00:54:53.040 --> 00:54:55.140
+On ira dans le personnalisé et on passera un petit peu les
+
+986
+00:54:55.140 --> 00:54:58.980
+h, ce que là, comme vous voyez, ils sont ici
+
+987
+00:55:00.200 --> 00:55:01.500
+ici, ils sont peu moins gros.
+
+988
+00:55:01.580 --> 00:55:02.940
+Ils sont quand même beaucoup moins gros.
+
+989
+00:55:04.400 --> 00:55:05.940
+En fait, peut être que dans le personnalisé,
+
+990
+00:55:05.940 --> 00:55:07.260
+je les ai mis encore un peu gros.
+
+991
+00:55:08.250 --> 00:55:11.140
+Donc on va mettre un va,
+
+992
+00:55:11.140 --> 00:55:14.940
+mettre un titre du coup en dessous qu'on va centrer.
+
+993
+00:55:15.670 --> 00:55:17.860
+C'est beaucoup trop gros. Ou ce qu'on va faire,
+
+994
+00:55:17.860 --> 00:55:21.610
+c'est qu'on va aller ici.
+
+995
+00:55:21.630 --> 00:55:26.220
+On va dans le personnaliser ça, on peut le fermer du coup.
+
+996
+00:55:28.790 --> 00:55:33.410
+Voilà. Donc dans
+
+997
+00:55:34.040 --> 00:55:35.730
+typographie, titre deux
+
+998
+00:55:36.590 --> 00:55:40.250
+ici du coin va pouvoir au moins le mettre en en 30.
+
+999
+00:55:40.830 --> 00:55:44.590
+On non 300 en 30, c'est pas mal.
+
+1000
+00:55:46.230 --> 00:55:49.090
+30. C'est pas mal par rapport à ce qu'on a ici
+
+1001
+00:55:50.570 --> 00:55:53.500
+peut être le maître, même en 35 tête
+
+1002
+00:55:54.130 --> 00:55:59.130
+suffisant, non, c'est
+
+1003
+00:55:59.280 --> 00:56:02.600
+30, c'est bien. On va laisser en 30. On va publier comme ça.
+
+1004
+00:56:06.470 --> 00:56:07.530
+Une fois que c'est fait du coup,
+
+1005
+00:56:07.530 --> 00:56:09.370
+mais du coup les h vont être légèrement gros,
+
+1006
+00:56:09.370 --> 00:56:10.730
+mais on changera en temps voulu.
+
+1007
+00:56:11.400 --> 00:56:13.410
+Pour les h, ça va être bien comme ça.
+
+1008
+00:56:13.510 --> 00:56:17.130
+On va retourner sur mentor. C'est beaucoup mieux.
+
+1009
+00:56:17.260 --> 00:56:18.290
+C'est beaucoup moins gros.
+
+1010
+00:56:18.350 --> 00:56:22.860
+On va mettre une marge en haute environ 30.
+
+1011
+00:56:23.900 --> 00:56:25.800
+Je suis pas même plus que ça,
+
+1012
+00:56:26.380 --> 00:56:30.280
+mettre au moins 70 070.
+
+1013
+00:56:30.280 --> 00:56:33.040
+Ça va être mo 40 plus tôt
+
+1014
+00:56:33.760 --> 00:56:36.240
+remonter un peu parce car ça va faire si on fait exactement
+
+1015
+00:56:36.240 --> 00:56:39.320
+comme la maquette, pas avoir peur des fois d'adapter un peu
+
+1016
+00:56:39.320 --> 00:56:41.440
+par rapport à la maquette, parce que là ONU,
+
+1017
+00:56:41.460 --> 00:56:42.720
+ça ferait un peu trop d'écart.
+
+1018
+00:56:42.720 --> 00:56:43.560
+Ce serait pas très beau,
+
+1019
+00:56:43.950 --> 00:56:45.200
+mais on se rend compte à taille réelle.
+
+1020
+00:56:48.020 --> 00:56:49.510
+Donc on va faire comme ça.
+
+1021
+00:56:49.510 --> 00:56:52.230
+Et ensuite on va créer
+
+1022
+00:56:53.810 --> 00:56:56.930
+une section interne qu'on va mettre en dessous.
+
+1023
+00:57:00.160 --> 00:57:04.700
+Et on va pouvoir mettre une image du coup,
+
+1024
+00:57:06.530 --> 00:57:08.030
+on va faire, c'est comment mettre une image
+
+1025
+00:57:09.600 --> 00:57:11.140
+dedans et un titre,
+
+1026
+00:57:14.790 --> 00:57:16.450
+une image et un titre en dessous.
+
+1027
+00:57:17.330 --> 00:57:19.990
+On a comme ça, on va centrer le titre, le titre, ce sera
+
+1028
+00:57:20.570 --> 00:57:21.910
+un hka sans très bien,
+
+1029
+00:57:30.060 --> 00:57:32.880
+on, on va plutôt mettre comme ça en paragraphe.
+
+1030
+00:57:33.780 --> 00:57:36.920
+Ça met un titre de toute façon et ici à pouvoir mettre une
+
+1031
+00:57:36.930 --> 00:57:39.760
+image j ai ajouté tout à l'heure.
+
+1032
+00:57:39.760 --> 00:57:42.080
+Ce sera du coup la lune en
+
+1033
+00:57:42.080 --> 00:57:45.280
+premier là.
+
+1034
+00:57:45.300 --> 00:57:48.480
+Et ça va pouvoir le supple à pouvoir supprimer celle-ci.
+
+1035
+00:57:50.150 --> 00:57:52.350
+Effacée est comme ça. On dupl celle-là quatre fois.
+
+1036
+00:58:00.940 --> 00:58:03.880
+Voilà comme ça. On a bien nos quatre images et on va changer
+
+1037
+00:58:03.880 --> 00:58:07.120
+les images une par une pour mettre le dinosaure.
+
+1038
+00:58:10.300 --> 00:58:11.430
+Ensuite, ce sera
+
+1039
+00:58:15.150 --> 00:58:17.690
+l'œuf et le hello kitty type pro fini.
+
+1040
+00:58:19.780 --> 00:58:21.590
+Normalement. Je suis dans le bon ordre.
+
+1041
+00:58:21.970 --> 00:58:23.030
+On vérifie vite de fait.
+
+1042
+00:58:23.680 --> 00:58:27.990
+Ouais, je bon ordre hop, hello kitty pour terminé.
+
+1043
+00:58:28.250 --> 00:58:31.190
+On a comme concern à nos quatre catégories ici ici.
+
+1044
+00:58:31.190 --> 00:58:32.070
+Du coup, on peut mettre
+
+1045
+00:58:38.730 --> 00:58:41.000
+l'une ici
+
+1046
+00:58:44.350 --> 00:58:48.080
+dinosaure ici, œuf.
+
+1047
+00:58:49.970 --> 00:58:53.730
+Je ne sais plus comment on fait le comme ça.
+
+1048
+00:58:54.850 --> 00:58:56.970
+F et élo kitty hello kitty.
+
+1049
+00:58:57.520 --> 00:59:00.930
+J'ai enlevé pour le menu au dessus pour le menu.
+
+1050
+00:59:01.200 --> 00:59:03.890
+J'ai enlevé toutes les toutes les licences.
+
+1051
+00:59:03.920 --> 00:59:06.970
+Donc on a Marvel, etc. J'ai tout enlevé.
+
+1052
+00:59:07.100 --> 00:59:08.250
+Kitty n'aura rien dedans.
+
+1053
+00:59:08.250 --> 00:59:09.730
+Pour l'instant, il n'y a pas de produit,
+
+1054
+00:59:09.880 --> 00:59:12.450
+mais on n'aura pas de lien parce que la catégorie n'est pas
+
+1055
+00:59:12.450 --> 00:59:14.820
+créée, mais c'est pas très grave.
+
+1056
+00:59:15.000 --> 00:59:17.860
+On va respecter la maquette et ce sera très bien.
+
+1057
+00:59:19.460 --> 00:59:21.220
+Alors tous les cadeaux par catégorie,
+
+1058
+00:59:21.940 --> 00:59:23.680
+on voit plutôt mettre toutes les veilleuses par
+
+1059
+00:59:23.680 --> 00:59:24.960
+catégories sont plus beaux.
+
+1060
+00:59:25.860 --> 00:59:30.520
+Toutes les veilleuses par catégorie.
+
+1061
+00:59:34.590 --> 00:59:37.730
+On a très bien catégorie et so
+
+1062
+00:59:41.180 --> 00:59:42.590
+dinosaure f et hello kitty.
+
+1063
+00:59:42.700 --> 00:59:45.390
+Donc ça ressemble plutôt pas mal à ce qu'on a fait ici.
+
+1064
+00:59:47.410 --> 00:59:48.320
+C'est plutôt correct.
+
+1065
+00:59:52.770 --> 00:59:54.070
+Qu'est ce qu'il y a d'autres à faire?
+
+1066
+00:59:54.070 --> 00:59:56.750
+Oui, il faut mettre le lien également
+
+1067
+00:59:57.290 --> 00:59:58.870
+de la même manière qu'on a fait tout à l'heure.
+
+1068
+00:59:58.870 --> 01:00:03.270
+Donc ici er, le personnalisé ur et l'interne
+
+1069
+01:00:06.620 --> 01:00:09.000
+Et l'une
+
+1070
+01:00:39.670 --> 01:00:41.530
+et enfin veilleuse œuf.
+
+1071
+01:00:47.640 --> 01:00:48.650
+Donc ça, c'est bon.
+
+1072
+01:00:48.790 --> 01:00:52.890
+Et ce qui serait bien, c'est que sur le texte, par exemple,
+
+1073
+01:00:53.710 --> 01:00:57.050
+on est une léger, une couleur différente.
+
+1074
+01:00:57.050 --> 01:00:59.930
+Quand on va passer dessus, qu'on est une couleur différente,
+
+1075
+01:01:00.230 --> 01:01:02.770
+un over, ce qu'on va faire, en fait,
+
+1076
+01:01:02.770 --> 01:01:04.050
+c'est que ça ne marchera pas.
+
+1077
+01:01:04.590 --> 01:01:07.450
+On n'a pas comment dire,
+
+1078
+01:01:08.150 --> 01:01:10.280
+on n'a pas l'option pour le faire directement d'ici.
+
+1079
+01:01:10.630 --> 01:01:15.000
+Donc on avancer, on faire 16 personnalisé et on va mettre
+
+1080
+01:01:15.620 --> 01:01:18.720
+ses le lecteur deux points over c,
+
+1081
+01:01:18.720 --> 01:01:21.040
+ce qui permet de définir un over colore.
+
+1082
+01:01:22.030 --> 01:01:24.170
+Par exemple, ici, si je me raide, quand je passe dessus,
+
+1083
+01:01:24.750 --> 01:01:27.170
+le texte est rouge et moi la couleur.
+
+1084
+01:01:27.310 --> 01:01:30.990
+Je voudrais la même qu'on a mis en fond sur cette section
+
+1085
+01:01:36.230 --> 01:01:39.610
+copier et on va aller la coller du coup ici.
+
+1086
+01:01:45.090 --> 01:01:48.350
+C'est un peu clair, c'est un peu clair,
+
+1087
+01:01:48.350 --> 01:01:49.550
+mais au moins, on voit tout de suite.
+
+1088
+01:01:50.720 --> 01:01:53.230
+C'est pas mal si c'est de la même couleur que le fond.
+
+1089
+01:01:54.510 --> 01:01:56.970
+Et j'y pensais, on peut être pas trop voir.
+
+1090
+01:01:58.640 --> 01:02:00.730
+Donc on va faire comme pour linstant va mettre du bleu.
+
+1091
+01:02:01.110 --> 01:02:02.930
+On verra presque ce qu'il mieux,
+
+1092
+01:02:05.070 --> 01:02:06.290
+un peu le dupliqué partout.
+
+1093
+01:02:14.250 --> 01:02:15.430
+Voilà. En fait, là,
+
+1094
+01:02:15.430 --> 01:02:17.950
+vous voyez si je passe ici, ça fonctionne.
+
+1095
+01:02:18.090 --> 01:02:20.400
+Ce qu'il faut faire, c'est aller directement sur l'une
+
+1096
+01:02:20.670 --> 01:02:22.000
+pendant positionnement.
+
+1097
+01:02:22.170 --> 01:02:23.720
+C'est pour éviter que ça prenne toute la largeur,
+
+1098
+01:02:23.720 --> 01:02:26.560
+ce que de base, ça prend toute la largeur, le titre ou fait
+
+1099
+01:02:28.620 --> 01:02:31.880
+pleine largeur sans en ligne auto, ça,
+
+1100
+01:02:31.880 --> 01:02:32.880
+ça se cale en tout petit.
+
+1101
+01:02:33.580 --> 01:02:35.280
+Et comme ça, je peux passer sur le reste de la ligne.
+
+1102
+01:02:35.300 --> 01:02:36.720
+Et là du coup, même principe,
+
+1103
+01:02:36.940 --> 01:02:40.840
+je vais ici mon horizontale centrer ça, ça reste entrer.
+
+1104
+01:02:40.840 --> 01:02:42.720
+Et ça fonctionne que quand je mets ma souri dessus.
+
+1105
+01:02:43.390 --> 01:02:45.080
+Donc ça, il faut le mettre en place partout.
+
+1106
+01:02:47.330 --> 01:02:49.060
+Donc largeur en ligne
+
+1107
+01:02:50.130 --> 01:02:53.470
+et je centre.
+
+1108
+01:02:55.930 --> 01:02:59.150
+Voilà ici je centre et ici centre
+
+1109
+01:03:01.820 --> 01:03:05.480
+et on est juste à ajouter positionnement, largeur
+
+1110
+01:03:06.920 --> 01:03:09.280
+en ligne et comme ça,
+
+1111
+01:03:09.280 --> 01:03:13.570
+ça reste correctement centré et en ligne.
+
+1112
+01:03:15.560 --> 01:03:16.740
+Voilà pour cette section.
+
+1113
+01:03:17.120 --> 01:03:19.700
+Encore une section de terminé, non, c'est bien en avance
+
+1114
+01:03:22.380 --> 01:03:23.750
+pour faire cette section là.
+
+1115
+01:03:24.420 --> 01:03:26.470
+Pour l'instant, je ne vais pas mettre de textes à écrire ici
+
+1116
+01:03:26.470 --> 01:03:28.870
+parce que je n'ai pas défini et je ne sais pas
+
+1117
+01:03:28.870 --> 01:03:30.150
+exactement comment faire.
+
+1118
+01:03:30.530 --> 01:03:32.030
+On pas perdre de temps là dessus à la limite.
+
+1119
+01:03:32.050 --> 01:03:36.350
+Si si je le fais hors cam, j'expliquerais comment j'ai fait,
+
+1120
+01:03:37.170 --> 01:03:38.990
+on ne va pas le faire pour l'instant pour faut aller vite.
+
+1121
+01:03:38.990 --> 01:03:40.710
+Donc on va mettre tout ça en place.
+
+1122
+01:03:42.540 --> 01:03:44.280
+En fait, je vais tout fumer.
+
+1123
+01:03:44.380 --> 01:03:49.200
+On va tout présenter comme ça, ça plus vite comme ça.
+
+1124
+01:03:49.200 --> 01:03:51.400
+Vous aurez vraiment vu le maximum et vous pourrez faire vos
+
+1125
+01:03:51.400 --> 01:03:52.600
+propres pages d'accueil vous même.
+
+1126
+01:03:53.300 --> 01:03:57.930
+Ce sera plus pratique comme ça. Donc on va continuer.
+
+1127
+01:04:00.830 --> 01:04:02.600
+Donc ça en fait la section du dessus.
+
+1128
+01:04:02.600 --> 01:04:07.360
+Maintenant, on peut la dupliqué et quand on la duplique,
+
+1129
+01:04:07.360 --> 01:04:09.480
+elle vient se mettre juste en dessous,
+
+1130
+01:04:10.420 --> 01:04:14.560
+ce qui va nous permettre, en supprimant le texte ici,
+
+1131
+01:04:15.750 --> 01:04:16.920
+d'avoir directement
+
+1132
+01:04:21.140 --> 01:04:25.730
+comme ça, d'avoir directement les catégories, le titre.
+
+1133
+01:04:26.240 --> 01:04:30.200
+Donc notre plus belle sélection, on va changer un.
+
+1134
+01:04:32.900 --> 01:04:35.200
+Il ne faut pas hésiter à dupliqué quand il y a des s qui se
+
+1135
+01:04:35.200 --> 01:04:37.200
+ressemblent plus, belle sélection.
+
+1136
+01:04:37.220 --> 01:04:38.440
+Et d'ailleurs je n'avais pas vu.
+
+1137
+01:04:38.710 --> 01:04:41.360
+Donc ça, en fait, je vais changé à sa
+
+1138
+01:04:41.360 --> 01:04:46.200
+forme hop.
+
+1139
+01:04:48.110 --> 01:04:49.210
+On va revenir en arrêt.
+
+1140
+01:04:51.750 --> 01:04:54.250
+Ça ne veut pas si c'est bon,
+
+1141
+01:04:59.380 --> 01:05:03.280
+j', c'est le texte que je voulais pour le remettre en
+
+1142
+01:05:03.400 --> 01:05:05.760
+dessous, on peut le glisser déposer.
+
+1143
+01:05:05.760 --> 01:05:06.960
+Donc on va pas se privé.
+
+1144
+01:05:08.200 --> 01:05:11.740
+On va supprimer ça pour avoir mon texte ici.
+
+1145
+01:05:11.830 --> 01:05:16.240
+C'est Notre plus belle sélection,
+
+1146
+01:05:18.990 --> 01:05:20.520
+supprimé les 40 en haut.
+
+1147
+01:05:23.150 --> 01:05:27.930
+Voilà. Et donc là déjà, on voit qu'on a que ça déjà.
+
+1148
+01:05:27.930 --> 01:05:29.490
+C'est assez ressemblant par rapport à ça.
+
+1149
+01:05:30.190 --> 01:05:34.610
+La mise en page c, peu près la même. Donc c'est correct.
+
+1150
+01:05:34.700 --> 01:05:36.410
+Notre plus belle sélection, ça c'est bon.
+
+1151
+01:05:41.070 --> 01:05:45.370
+Et ensuite on va supprimer ça et à la place pour reproduire
+
+1152
+01:05:45.940 --> 01:05:48.330
+cette section là, ce qu'on va faire,
+
+1153
+01:05:48.330 --> 01:05:50.170
+c'est qu'on va utiliser un modus qui s'appelle poste
+
+1154
+01:05:53.740 --> 01:05:56.120
+non un s'appelait au product
+
+1155
+01:05:57.890 --> 01:05:59.040
+qu'on va bien glisser ici.
+
+1156
+01:05:59.070 --> 01:06:00.600
+Mais vu qu'il n'y a pas de produit sur le site,
+
+1157
+01:06:01.100 --> 01:06:04.080
+ça va mettre nos products ou matching your sélection.
+
+1158
+01:06:04.590 --> 01:06:07.680
+Donc on ne va pas aller plus loin pour, on va pas utiliser
+
+1159
+01:06:08.650 --> 01:06:10.120
+parce que vu que je n'ai pas de produits,
+
+1160
+01:06:10.120 --> 01:06:11.920
+je ne vais pas perdre du temps à créer des faux produits,
+
+1161
+01:06:11.920 --> 01:06:14.040
+sachant que notre équipe produit va commencer à
+
+1162
+01:06:14.040 --> 01:06:15.280
+travailler semaine prochaine.
+
+1163
+01:06:16.110 --> 01:06:18.560
+Donc moi, je le ferais après les vidéos, c'est pas grave,
+
+1164
+01:06:19.470 --> 01:06:21.160
+mais on peut tout à fait faire ça là,
+
+1165
+01:06:21.570 --> 01:06:23.280
+présenter les produits avec
+
+1166
+01:06:24.500 --> 01:06:27.440
+ce module ou product on peut sélectionner la grille,
+
+1167
+01:06:28.280 --> 01:06:30.000
+demander combien on met de colonnes et combien on m.
+
+1168
+01:06:30.000 --> 01:06:32.440
+De produits, par exemple, là pour respecter,
+
+1169
+01:06:32.780 --> 01:06:35.630
+je vais commencé à régler, mais voilà.
+
+1170
+01:06:35.730 --> 01:06:38.910
+On veut par exemple seulement quatre produits par page et
+
+1171
+01:06:38.910 --> 01:06:41.510
+quatre colonnes pour respecter ça avec quatre produits,
+
+1172
+01:06:44.170 --> 01:06:46.230
+les queries, les queries, c'est là on,
+
+1173
+01:06:46.930 --> 01:06:49.710
+je peux afficher que des produits veilleuses lune ou
+
+1174
+01:06:49.710 --> 01:06:52.270
+n'importe quelle catégorie en sélectionnent
+
+1175
+01:06:52.310 --> 01:06:53.470
+dans les queries.
+
+1176
+01:06:53.930 --> 01:06:55.790
+Moi, je n'ai pas en mettre être content.
+
+1177
+01:06:56.370 --> 01:06:57.550
+Et moi, par exemple,
+
+1178
+01:06:57.550 --> 01:06:59.150
+on voit ici que je veux seulement l'image,
+
+1179
+01:06:59.290 --> 01:07:00.310
+le titre et le prix.
+
+1180
+01:07:00.860 --> 01:07:04.430
+Donc donc on va enlever tout le reste catégorie.
+
+1181
+01:07:04.500 --> 01:07:06.630
+J'en veux pas titre. Je ne veux pas rating.
+
+1182
+01:07:06.650 --> 01:07:09.510
+Je ne veux pas price. Je laisse et ajouter au panier.
+
+1183
+01:07:09.510 --> 01:07:11.630
+Je n'en veux pas. Donc on va garder seulement ces trois
+
+1184
+01:07:11.630 --> 01:07:14.150
+trucs là pour image, titre et prix,
+
+1185
+01:07:14.360 --> 01:07:16.150
+comme on a ici image, titre et pris.
+
+1186
+01:07:17.770 --> 01:07:21.710
+Et ensuite on peut se rendre dans style là,
+
+1187
+01:07:21.710 --> 01:07:22.830
+on peut sélectionner l'image.
+
+1188
+01:07:23.730 --> 01:07:27.790
+Et mais du coup,
+
+1189
+01:07:27.790 --> 01:07:29.670
+vu que vu que je n'ai pas de produit, ça n'a pas fonctionné.
+
+1190
+01:07:30.410 --> 01:07:35.370
+Par exemple, je voudrais sur l'image, avoir cet effet là
+
+1191
+01:07:36.280 --> 01:07:38.690
+pour que ce soit, on dit sur les bords, le bordeur radius,
+
+1192
+01:07:39.560 --> 01:07:41.330
+mais du coup on n va pas pouvoir le faire.
+
+1193
+01:07:42.470 --> 01:07:44.530
+Il n'y a pas de produit. Donc ce n'est pas grave.
+
+1194
+01:07:44.530 --> 01:07:46.810
+On va laisser comme ça déjà. C'est paramétrés dès qu'il y
+
+1195
+01:07:46.810 --> 01:07:48.490
+aura quatre produits sur le site qui s'afficheront ici
+
+1196
+01:07:49.670 --> 01:07:50.850
+de la même manière qu'ici.
+
+1197
+01:07:51.680 --> 01:07:54.570
+Mais par exemple, vous voyez, je peux, je peux tout à fait
+
+1198
+01:07:55.450 --> 01:07:56.690
+sélectionner la couleur du prix
+
+1199
+01:07:57.430 --> 01:07:58.730
+ou par exemple, la couleur du prix.
+
+1200
+01:07:59.900 --> 01:08:04.480
+Je l'ai pas là, mais je peux déjà paramétré là là, on voit,
+
+1201
+01:08:04.820 --> 01:08:07.960
+je vois sur mon deuxième écran que la couleur du prix,
+
+1202
+01:08:08.130 --> 01:08:10.440
+c'est 284 b neuf.
+
+1203
+01:08:10.750 --> 01:08:14.560
+Donc je peux ici mettre 284 b 89.
+
+1204
+01:08:15.050 --> 01:08:18.800
+Comme ça, les prix seront automatiquement en bleu, le titre
+
+1205
+01:08:19.550 --> 01:08:22.810
+sur le design de la même couleur pour pouvoir le faire ici.
+
+1206
+01:08:23.990 --> 01:08:27.250
+Voilà comme ça, ça va commencer à être à peu près paramétrer
+
+1207
+01:08:28.690 --> 01:08:30.980
+pour partir du moment ou ils vont publier des produits.
+
+1208
+01:08:30.980 --> 01:08:32.140
+Je veux quand même avoir quatre produits
+
+1209
+01:08:33.490 --> 01:08:35.100
+aléatoires qui vont s'afficher ici.
+
+1210
+01:08:36.240 --> 01:08:37.180
+Je laissé ça comme ça.
+
+1211
+01:08:39.290 --> 01:08:41.380
+Ensuite, il y a un bouton.
+
+1212
+01:08:41.730 --> 01:08:44.140
+Donc on va au moins mettre le bouton quand même.
+
+1213
+01:08:46.610 --> 01:08:49.230
+Ce qu'on peut faire, c'est que le copier et venir
+
+1214
+01:08:50.340 --> 01:08:52.000
+le coller en dessous.
+
+1215
+01:08:53.040 --> 01:08:54.620
+Voilà comme ça se automatiquement.
+
+1216
+01:08:55.240 --> 01:08:59.540
+Et le bouton ici, c'est découvrir nos produits, le lien,
+
+1217
+01:08:59.540 --> 01:09:01.540
+on le change pas, c'est vers la boutique.
+
+1218
+01:09:03.690 --> 01:09:07.070
+On va pas changer le lien, découvrir nos produits.
+
+1219
+01:09:07.570 --> 01:09:08.750
+On peut laisser ça comme ça.
+
+1220
+01:09:09.130 --> 01:09:11.150
+Et comme ça, on a fini une nouvelle section.
+
+1221
+01:09:12.000 --> 01:09:13.470
+Cette section là, c'est fait.
+
+1222
+01:09:14.300 --> 01:09:16.330
+C'est un pouvoir faire univers, espace et mer.
+
+1223
+01:09:20.660 --> 01:09:22.220
+Alors univers, espace et mer.
+
+1224
+01:09:23.880 --> 01:09:27.900
+On duplique simplement cette section une nouvelle fois
+
+1225
+01:09:28.610 --> 01:09:31.340
+dupliqué, sauf que là,
+
+1226
+01:09:31.990 --> 01:09:33.740
+comme on peut le voir, il y a une section interne.
+
+1227
+01:09:33.740 --> 01:09:36.180
+Ça, c'est une grande section qui englobe tout.
+
+1228
+01:09:36.180 --> 01:09:38.060
+Et là, on a une section interne avec deux colonnes.
+
+1229
+01:09:38.760 --> 01:09:40.980
+Ce qu'on va venir faire, c'est supprimer ça
+
+1230
+01:09:43.010 --> 01:09:44.870
+est ce qu'il y a un bouton, non?
+
+1231
+01:09:44.870 --> 01:09:48.590
+Il n'y a pas de bouton. Donc pas grand chose de la dupliqué,
+
+1232
+01:09:48.590 --> 01:09:51.030
+celle là parce qu'elle n'a pas du tout la même structure.
+
+1233
+01:09:52.940 --> 01:09:55.150
+J'ai le bon truc là,
+
+1234
+01:09:58.150 --> 01:09:59.840
+laisser cette section on va pas y toucher.
+
+1235
+01:09:59.980 --> 01:10:02.720
+Par contre celle là, on ne peut supprimer le texte
+
+1236
+01:10:03.700 --> 01:10:07.640
+et on peut supprimer le bouton et on peut supprimer ça.
+
+1237
+01:10:07.820 --> 01:10:09.560
+Non, ça, on va ça, on va le garder.
+
+1238
+01:10:09.560 --> 01:10:12.680
+Pour l'instant, on va aller mettre une
+
+1239
+01:10:14.150 --> 01:10:16.870
+section interne à l'intérieur.
+
+1240
+01:10:17.920 --> 01:10:19.350
+C'est une double section interne.
+
+1241
+01:10:19.580 --> 01:10:20.990
+Dans la colonne de gauche,
+
+1242
+01:10:20.990 --> 01:10:22.070
+on va mettre le beau produit parce
+
+1243
+01:10:22.070 --> 01:10:23.150
+que ça reste le même module.
+
+1244
+01:10:23.150 --> 01:10:24.310
+Dès que c'est des produits de vous,
+
+1245
+01:10:24.470 --> 01:10:26.950
+commerce sera beau product il faut utiliser cette
+
+1246
+01:10:28.300 --> 01:10:32.640
+ce module là et ici, on est simplement une grande image.
+
+1247
+01:10:34.350 --> 01:10:36.280
+Donc on va venir mettre une image du
+
+1248
+01:10:36.280 --> 01:10:37.760
+coup pour faire la même chose.
+
+1249
+01:10:39.350 --> 01:10:43.330
+On venir mettre une image comme ça et cette image,
+
+1250
+01:10:44.780 --> 01:10:45.920
+je ne sais pas si je l'ai,
+
+1251
+01:10:45.920 --> 01:10:47.000
+je ne l'ai pas télé versé en tout cas.
+
+1252
+01:10:47.000 --> 01:10:49.680
+Mais si je l'ai pas, je vais couper cinq minutes
+
+1253
+01:10:50.940 --> 01:10:52.960
+et je vous reprendrai une fois que je l'aurais récupéré,
+
+1254
+01:10:55.770 --> 01:10:56.890
+alors est ce que je l'ai.
+
+1255
+01:11:08.120 --> 01:11:11.390
+C'est à peu près ça, c'est cela. Donc j'ai l'air de l'avoir.
+
+1256
+01:11:14.250 --> 01:11:15.740
+Elle n'est pas exportée au bon format.
+
+1257
+01:11:15.740 --> 01:11:18.130
+Le mieux, c'est de l'exporter au format JPEG.
+
+1258
+01:11:20.810 --> 01:11:22.750
+Moi je le refer après le mieux, c'est l'avoir en JPEG.
+
+1259
+01:11:22.750 --> 01:11:23.790
+C'est moins lourd là, par exemple,
+
+1260
+01:11:23.790 --> 01:11:25.070
+pour l'image, c'est beaucoup trop lourd.
+
+1261
+01:11:28.640 --> 01:11:30.770
+Mais ce qu'on va faire, ce que je fais comme ça,
+
+1262
+01:11:30.770 --> 01:11:33.130
+on va voir comment compresser une image au mieux possible.
+
+1263
+01:11:33.630 --> 01:11:36.250
+Ça fera un bonus. Donc on va faire
+
+1264
+01:11:39.770 --> 01:11:42.950
+pg tout JP, c'est possible de convertir entre les deux.
+
+1265
+01:11:44.340 --> 01:11:45.910
+Donc c'est quand même plus simple.
+
+1266
+01:11:46.860 --> 01:11:48.200
+On va aller sélectionner un fichier.
+
+1267
+01:11:51.330 --> 01:11:53.830
+On va sélectionner l'image.
+
+1268
+01:11:54.600 --> 01:11:58.070
+C'est pas celle là du tout, c'est celle ci l'a sélectionné,
+
+1269
+01:12:00.450 --> 01:12:01.550
+on va la télécharger.
+
+1270
+01:12:02.550 --> 01:12:04.450
+Et ensuite ce qu'on va faire, c'est qu'on va aller sur
+
+1271
+01:12:05.800 --> 01:12:07.050
+compresse JP.
+
+1272
+01:12:09.250 --> 01:12:11.340
+Donc c'est le même, c'est le même principe.
+
+1273
+01:12:11.480 --> 01:12:13.340
+On va sélectionner cette fois,
+
+1274
+01:12:13.340 --> 01:12:14.620
+ça va être dans mes téléchargements.
+
+1275
+01:12:14.870 --> 01:12:17.420
+C'est cette image déjà. On est passé de un m.
+
+1276
+01:12:17.420 --> 01:12:21.900
+Mo à 114 chaos qui est quasiment 12 fois moins.
+
+1277
+01:12:22.680 --> 01:12:23.780
+On va ouvrir celle ci.
+
+1278
+01:12:25.400 --> 01:12:27.570
+Donc là, on voit qu'on ne peut pas la et on ne peut pas la
+
+1279
+01:12:27.570 --> 01:12:29.090
+compresser plus elle était
+
+1280
+01:12:29.090 --> 01:12:30.450
+compressée au maximum, à l' à zéro.
+
+1281
+01:12:31.000 --> 01:12:32.450
+Donc c'est celle là qu'on va utiliser.
+
+1282
+01:12:34.930 --> 01:12:37.100
+Donc on va la sélectionner du coup,
+
+1283
+01:12:37.100 --> 01:12:38.980
+elle était dans mes téléchargements ici.
+
+1284
+01:12:40.150 --> 01:12:42.560
+114 chaos, c'est déjà mieux. 114 kilo opté.
+
+1285
+01:12:43.450 --> 01:12:46.400
+L'objectif, c'est de ne jamais avoir d'image supérieure à
+
+1286
+01:12:46.430 --> 01:12:48.880
+200 kilos au delà.
+
+1287
+01:12:48.880 --> 01:12:52.130
+C'est vraiment trop pour pour un site,
+
+1288
+01:12:52.130 --> 01:12:53.530
+parce que plus s'il y en a,
+
+1289
+01:12:53.530 --> 01:12:55.370
+qu'une seule qui fait plus que 200 chaos, ça va
+
+1290
+01:12:55.890 --> 01:12:59.480
+s'il y en a plein, on avoir ce problème de poids d'images
+
+1291
+01:12:59.860 --> 01:13:02.360
+qui va surcharger le site et qui va lui mettre un ton
+
+1292
+01:13:02.420 --> 01:13:03.800
+fou charger la page.
+
+1293
+01:13:04.770 --> 01:13:06.360
+C'est ça fait fuir les utilisateurs.
+
+1294
+01:13:06.360 --> 01:13:08.000
+Ça, c'est vraiment dommage.
+
+1295
+01:13:08.470 --> 01:13:12.890
+Donc on va utiliser ça et on peut voir qu'elle est
+
+1296
+01:13:13.310 --> 01:13:16.010
+déjà mise exactement comme sur le design.
+
+1297
+01:13:17.000 --> 01:13:18.050
+Elle est à la même taille.
+
+1298
+01:13:18.560 --> 01:13:21.730
+Donc on ne va pas, on va pas s'embêter plus.
+
+1299
+01:13:22.940 --> 01:13:24.170
+C'est très correct comme ça.
+
+1300
+01:13:24.350 --> 01:13:25.890
+Et ici, du coup, il y aura le carrousel.
+
+1301
+01:13:25.890 --> 01:13:27.210
+Quand tu auras des produits, il
+
+1302
+01:13:27.210 --> 01:13:28.250
+y aura un carrousel comme ça.
+
+1303
+01:13:28.720 --> 01:13:31.290
+Mais du coup, pour l'instant, je ne vais pas le faire.
+
+1304
+01:13:31.470 --> 01:13:33.170
+Je vous invite à venir voir le site
+
+1305
+01:13:34.230 --> 01:13:36.360
+dans quelques semaines, il sera terminé.
+
+1306
+01:13:37.020 --> 01:13:39.480
+Il y aura les dernières modifications comme ça vous verra à
+
+1307
+01:13:39.480 --> 01:13:40.920
+quoi ça ressemble le ou product.
+
+1308
+01:13:41.470 --> 01:13:44.440
+Pour l'instant, on va laisser comme ça.
+
+1309
+01:13:45.430 --> 01:13:48.720
+Donc, ce qui nous fait encore une section de terminer sauf
+
+1310
+01:13:48.720 --> 01:13:50.320
+le titre, univers, espace et mer.
+
+1311
+01:13:51.090 --> 01:13:52.470
+On va le changer ici.
+
+1312
+01:13:54.290 --> 01:13:57.620
+Univers, espace, espace, non,
+
+1313
+01:13:58.730 --> 01:14:00.070
+espace et mer.
+
+1314
+01:14:02.090 --> 01:14:03.670
+Voilà comme ça. On a le même titre.
+
+1315
+01:14:04.450 --> 01:14:07.580
+Donc là, ça commence déjà à ressembler à quelque
+
+1316
+01:14:07.590 --> 01:14:10.100
+chose comme pas mal.
+
+1317
+01:14:11.170 --> 01:14:15.700
+C'est pas mal du tout du tout comparé au design.
+
+1318
+01:14:15.880 --> 01:14:19.420
+Je ne sais pas ce que vous en pensez, mais moi,
+
+1319
+01:14:19.420 --> 01:14:21.980
+je trouve que c'est quand même assez correct.
+
+1320
+01:14:24.480 --> 01:14:27.090
+Ensuite, on va faire la section des cette section là,
+
+1321
+01:14:27.590 --> 01:14:28.770
+la section des avis clients.
+
+1322
+01:14:31.170 --> 01:14:34.410
+Alors, pour ce faire, on va sélectionner comme ça, comme ça.
+
+1323
+01:14:36.070 --> 01:14:38.610
+On va mettre le background de la bonne couleur.
+
+1324
+01:14:39.010 --> 01:14:41.170
+Alors la couleur pour les avis, c'est
+
+1325
+01:14:42.200 --> 01:14:43.370
+pour le bas grande rose.
+
+1326
+01:14:43.820 --> 01:14:46.330
+C'est FF df cinq.
+
+1327
+01:14:49.890 --> 01:14:52.230
+Il faut éter la section avant comme on voit sur
+
+1328
+01:14:52.810 --> 01:14:54.230
+le design, apprend toute la largeur.
+
+1329
+01:14:55.020 --> 01:14:58.310
+Donc on va être tirer et on va mettre ici une couleur
+
+1330
+01:15:02.450 --> 01:15:06.490
+f df cinq là comme ça, on récupère notre rose.
+
+1331
+01:15:06.510 --> 01:15:08.770
+Il faut pas oublier de mettre le dièse c
+
+1332
+01:15:08.770 --> 01:15:09.890
+évite les problèmes.
+
+1333
+01:15:11.440 --> 01:15:15.370
+Donc f df cinq, on a notre couleur ici.
+
+1334
+01:15:15.470 --> 01:15:20.190
+On va pouvoir aller dans on a un
+
+1335
+01:15:20.190 --> 01:15:24.510
+widget qui s'appelle carrousel
+
+1336
+01:15:24.700 --> 01:15:26.390
+carrousel carroussel de
+
+1337
+01:15:28.510 --> 01:15:30.080
+témoignage que c'est ça.
+
+1338
+01:15:35.210 --> 01:15:37.440
+C'est pas mal du tout,
+
+1339
+01:15:41.910 --> 01:15:43.200
+mais c'est pas celui là.
+
+1340
+01:15:47.700 --> 01:15:49.570
+C'est pas celui là. Il y a un module qui est mieux.
+
+1341
+01:15:49.920 --> 01:15:53.090
+Donc je retrouve le module et je vous redis juste après
+
+1342
+01:15:53.860 --> 01:15:56.290
+parce que je ne sais plus du tout comment il s'appelle.
+
+1343
+01:15:56.770 --> 01:16:00.220
+Alors c'est avis. Pardon,
+
+1344
+01:16:01.990 --> 01:16:03.060
+c'est peut-être avis.
+
+1345
+01:16:07.380 --> 01:16:12.090
+Un notation six.
+
+1346
+01:16:12.830 --> 01:16:16.010
+Ce fait que si me six, je peux aller jusqu'à cinq.
+
+1347
+01:16:17.490 --> 01:16:18.310
+Ok, c'est celui-là.
+
+1348
+01:16:23.300 --> 01:16:24.410
+Ouais, c'est celui-là.
+
+1349
+01:16:24.410 --> 01:16:29.390
+Ça paraissait mettre des étoiles et de changer la
+
+1350
+01:16:29.390 --> 01:16:30.390
+couleur des étoiles.
+
+1351
+01:16:30.540 --> 01:16:33.190
+Donc c'est celui là. Donc, en fait, moi sur le,
+
+1352
+01:16:33.370 --> 01:16:36.950
+si on voit ici que je ne veux pas d'image ni rien,
+
+1353
+01:16:37.410 --> 01:16:41.110
+je vraiment juste le titre l'enlever.
+
+1354
+01:16:43.400 --> 01:16:48.330
+L'image. On va l'enlever le
+
+1355
+01:16:48.400 --> 01:16:49.890
+Twitter là on va l'enlever.
+
+1356
+01:16:49.970 --> 01:16:52.090
+Ça sert à rien. Nous, on n'en veut pas.
+
+1357
+01:16:54.910 --> 01:16:56.290
+On ne veut pas de fond non plus.
+
+1358
+01:16:56.510 --> 01:16:58.770
+Je ne sais pas exactement ou ça, on veut pas de fond.
+
+1359
+01:16:58.790 --> 01:17:02.850
+Ça c'est sûr. Sinon on le fera en couleur de l'arrière plan.
+
+1360
+01:17:04.470 --> 01:17:05.970
+Moi, je n'en veux pas en là.
+
+1361
+01:17:07.400 --> 01:17:09.880
+Donc, aucune rayon de bordure,
+
+1362
+01:17:12.260 --> 01:17:15.650
+ok, taille de bordure zéro
+
+1363
+01:17:17.120 --> 01:17:22.030
+comme ça, ça m'enlève les bords autour couleur de bordure.
+
+1364
+01:17:22.030 --> 01:17:26.730
+On veut en transparent le séparateur.
+
+1365
+01:17:26.760 --> 01:17:30.060
+J'en veux pas. Donc le séparateur, on le voit très peu,
+
+1366
+01:17:30.690 --> 01:17:33.700
+mais c'est cette ligne là entre la présentation
+
+1367
+01:17:33.840 --> 01:17:38.220
+et et la vie.
+
+1368
+01:17:38.560 --> 01:17:41.540
+On on veut pas. Donc on va laisser comme ça.
+
+1369
+01:17:41.540 --> 01:17:42.540
+Ensuite, dans contenu,
+
+1370
+01:17:43.160 --> 01:17:46.580
+on va aller changer ici.
+
+1371
+01:17:46.640 --> 01:17:49.900
+On va supprimer les deux images et le user are name.
+
+1372
+01:17:50.000 --> 01:17:51.020
+On va laisser cinq,
+
+1373
+01:17:52.740 --> 01:17:57.710
+on va faire ça sur tous Là.
+
+1374
+01:17:57.850 --> 01:18:00.670
+On va mettre, on va supprimer ça ici cinq.
+
+1375
+01:18:02.630 --> 01:18:05.210
+Voilà. Et en fait, ce qui est pratique avec ce widget là,
+
+1376
+01:18:05.210 --> 01:18:08.370
+c'est qu'en fait, si vous mettez quatre quatre,
+
+1377
+01:18:08.870 --> 01:18:10.490
+ça va supprimer la dernière étoile.
+
+1378
+01:18:11.030 --> 01:18:14.400
+Ça va la mettre enrie comme ça, ça,
+
+1379
+01:18:14.400 --> 01:18:16.280
+on voit vite la note un peut même mettre à virgule
+
+1380
+01:18:18.930 --> 01:18:22.000
+comme ça, ça remplit même l'étoile qu'à moitié.
+
+1381
+01:18:22.750 --> 01:18:23.920
+Donc c'est plutôt bien, non?
+
+1382
+01:18:23.920 --> 01:18:26.080
+On va laisser sur cinq parce qu'on a des super notes.
+
+1383
+01:18:29.820 --> 01:18:32.440
+Et ensuite, comme vous pouvez le voir ici, on a trois
+
+1384
+01:18:33.770 --> 01:18:36.280
+trois avis par trois avis et non pas un par un.
+
+1385
+01:18:36.630 --> 01:18:39.400
+Donc on va faire nombre de diapositives afin de dia
+
+1386
+01:18:39.400 --> 01:18:40.600
+positifs par vue trois.
+
+1387
+01:18:41.690 --> 01:18:44.380
+Comme ça, ça affiche tout comme ça.
+
+1388
+01:18:44.380 --> 01:18:46.860
+Donc on peut voir déjà qu'il y commence à avoir un point
+
+1389
+01:18:46.860 --> 01:18:49.180
+commun des pas en commun entre les deux
+
+1390
+01:18:51.040 --> 01:18:53.380
+nombre à chaque fois faire glisser une seule
+
+1391
+01:18:54.560 --> 01:18:55.740
+et option supplémentaire.
+
+1392
+01:18:55.840 --> 01:18:59.660
+On va enlever les flèches et enlever les points
+
+1393
+01:19:01.820 --> 01:19:04.930
+ici dessus dessous, suis là du quon peut le supprimer.
+
+1394
+01:19:05.770 --> 01:19:08.770
+C'était pas le bon ici.
+
+1395
+01:19:08.790 --> 01:19:12.710
+On va mettre 50 au dessus, 50 ans en dessous,
+
+1396
+01:19:14.210 --> 01:19:17.950
+en marge comme ça ou là comme ça,
+
+1397
+01:19:17.950 --> 01:19:21.880
+ça va aérer un peu Nos avis.
+
+1398
+01:19:24.220 --> 01:19:27.040
+Et comme ça, on peut voir qu'ici si je duplique
+
+1399
+01:19:27.730 --> 01:19:31.440
+plein de fois cet avis, je vais avoir plein d'avis,
+
+1400
+01:19:31.440 --> 01:19:32.640
+mais ça restera toujours trois.
+
+1401
+01:19:33.420 --> 01:19:35.720
+Et j'ai un autoplay dessus
+
+1402
+01:19:36.300 --> 01:19:38.520
+qui fait que mon dia tourne quand même
+
+1403
+01:19:39.140 --> 01:19:42.270
+toutes les cinq secondes qui passent une slide,
+
+1404
+01:19:42.650 --> 01:19:44.870
+je peux lui faire passer toutes les toutes les 50,
+
+1405
+01:19:46.570 --> 01:19:50.780
+toutes les 50 micro
+
+1406
+01:19:51.910 --> 01:19:54.820
+micro ça, 1000 secondes.
+
+1407
+01:19:57.530 --> 01:19:58.860
+J'ai laissé en 5000 là.
+
+1408
+01:19:58.860 --> 01:20:01.500
+Ça tourne, pas normal parce que s'est mis sur pause du coup,
+
+1409
+01:20:01.600 --> 01:20:04.630
+je touche à tout, mais ici, normalement,
+
+1410
+01:20:04.630 --> 01:20:07.810
+toutes les cinq secondes, ça devrait, voilà,
+
+1411
+01:20:07.920 --> 01:20:09.570
+balayer une slide.
+
+1412
+01:20:09.570 --> 01:20:10.850
+Nous conval laisser cinq secondes.
+
+1413
+01:20:10.870 --> 01:20:12.690
+Ça laisse le temps de lire les avis.
+
+1414
+01:20:12.760 --> 01:20:15.410
+Bien, cinq secondes pour être trop rapide.
+
+1415
+01:20:17.390 --> 01:20:19.410
+Et du coup, on voudrait que ce soit centré,
+
+1416
+01:20:19.680 --> 01:20:23.450
+mais il me semble qu'on peut le faire que en CSS.
+
+1417
+01:20:25.970 --> 01:20:29.220
+Donc, ce que je faire, c'est que je vais arrêter de parler
+
+1418
+01:20:33.210 --> 01:20:35.430
+et je vais faire mes deux, trois lignes de c,
+
+1419
+01:20:35.490 --> 01:20:38.590
+ce que vous allez pouvoir suivre en live pour voir comment
+
+1420
+01:20:38.590 --> 01:20:40.190
+on fait pour que ça ressemble exactement à ça.
+
+1421
+01:20:40.190 --> 01:20:40.430
+Au final.
+
+1422
+01:20:45.540 --> 01:20:47.660
+A tout de suite, on se retrouve tout de suite.
+
+1423
+01:21:30.810 --> 01:21:34.140
+Donc voilà. Donc on a fini du coup de mettre en page.
+
+1424
+01:21:34.160 --> 01:21:35.340
+Ce n'est pas la même chose,
+
+1425
+01:21:36.970 --> 01:21:39.860
+mais c'est tout à fait correct comme ça pour le titre après,
+
+1426
+01:21:39.860 --> 01:21:41.060
+il y a encore de la mise en page à faire.
+
+1427
+01:21:41.320 --> 01:21:43.180
+Je le dis pas là. Le texte est plus gros.
+
+1428
+01:21:43.800 --> 01:21:45.980
+Le titre est plus gros. On va pas mettre de titre.
+
+1429
+01:21:45.980 --> 01:21:48.100
+On va plutôt mettre le nom à la place du titre.
+
+1430
+01:21:50.080 --> 01:21:51.300
+Ça fera tout aussi bien.
+
+1431
+01:21:52.120 --> 01:21:54.340
+Et on prend, on a quelques petits trucs à améliorer,
+
+1432
+01:21:55.090 --> 01:21:56.980
+mais déjà on a fait le plus gros.
+
+1433
+01:21:57.090 --> 01:21:59.660
+Donc notation, on devrait pouvoir
+
+1434
+01:21:59.660 --> 01:22:00.940
+changer la couleur de notation.
+
+1435
+01:22:00.960 --> 01:22:02.740
+Et là, la couleur, c'est
+
+1436
+01:22:08.420 --> 01:22:11.650
+fd à FC, à
+
+1437
+01:22:12.750 --> 01:22:17.640
+voilà pour pour correspondre au rose ici.
+
+1438
+01:22:17.660 --> 01:22:20.840
+On va remettre la même couleur ici, le titre,
+
+1439
+01:22:25.480 --> 01:22:27.580
+le texte, le texte, le texte
+
+1440
+01:22:30.040 --> 01:22:33.100
+et on va pouvoir agrandir la taille du nom.
+
+1441
+01:22:36.790 --> 01:22:40.350
+Alors la taille du nom, on va la mettre en 18.
+
+1442
+01:22:44.980 --> 01:22:47.960
+On va la mettre en 22 et on va mettre le texte en 18.
+
+1443
+01:22:49.620 --> 01:22:52.400
+La vie, on va le mettre en 18
+
+1444
+01:22:52.860 --> 01:22:55.660
+ici, non?
+
+1445
+01:22:55.660 --> 01:22:56.940
+Va un peu. C'est gros.
+
+1446
+01:22:58.670 --> 01:23:00.980
+C'est ce sera tout à fait correct pour la vie.
+
+1447
+01:23:02.160 --> 01:23:03.580
+Par contre, du coup, non?
+
+1448
+01:23:03.580 --> 01:23:05.960
+On va le mettre en 18, mais on va juste
+
+1449
+01:23:06.470 --> 01:23:08.040
+changer un peu la hauteur de ligne
+
+1450
+01:23:08.870 --> 01:23:09.530
+qui est un peu trop
+
+1451
+01:23:09.580 --> 01:23:11.730
+importante, qui est un peu trop faite par.
+
+1452
+01:23:16.260 --> 01:23:20.540
+Alors on va le mettre. Ce sera pas mal comme ça.
+
+1453
+01:23:21.040 --> 01:23:23.420
+Par contre ici, c'est beaucoup trop gros.
+
+1454
+01:23:29.260 --> 01:23:30.880
+On va mettre 20 et ici,
+
+1455
+01:23:30.880 --> 01:23:34.980
+on va baisser un peu sur le mètre 16, c'est mieux.
+
+1456
+01:23:35.160 --> 01:23:36.780
+Et on va garder par contre la même couleur.
+
+1457
+01:23:38.230 --> 01:23:40.340
+C'est quoi la couleur? C'est un bleu.
+
+1458
+01:23:41.320 --> 01:23:45.660
+Je ne sais plus lequel. C'est le même que partout.
+
+1459
+01:23:45.890 --> 01:23:49.310
+Donc 284 b
+
+1460
+01:23:59.530 --> 01:24:00.590
+au niveau de la Grèce,
+
+1461
+01:24:06.290 --> 01:24:08.190
+je joue pas quelque chose d'aussi épais
+
+1462
+01:24:11.810 --> 01:24:16.780
+mettre la et on va le
+
+1463
+01:24:16.780 --> 01:24:17.580
+mettre en sens
+
+1464
+01:24:22.540 --> 01:24:23.090
+comme ça.
+
+1465
+01:24:25.920 --> 01:24:28.900
+Voilà. Donc on a quelque chose qui ressemble quand même pas
+
+1466
+01:24:28.920 --> 01:24:31.660
+mal entre ici et ici.
+
+1467
+01:24:35.050 --> 01:24:36.240
+C'est tout à fait correct.
+
+1468
+01:24:45.740 --> 01:24:49.800
+Con tout. On va
+
+1469
+01:24:49.800 --> 01:24:50.960
+laisser les avis comme ça.
+
+1470
+01:24:51.340 --> 01:24:53.600
+Et on va du coup pouvoir les dupliqués
+
+1471
+01:24:54.710 --> 01:24:56.160
+pour dupliqué en plein de fois,
+
+1472
+01:24:58.210 --> 01:25:00.470
+ce qui va nous faire du coup des avis qui vont
+
+1473
+01:25:00.470 --> 01:25:02.710
+défiler au fur et à mesure.
+
+1474
+01:25:02.850 --> 01:25:04.830
+On va mettre lecture automatique et boucle l'infini.
+
+1475
+01:25:05.850 --> 01:25:07.550
+On va laisser comme ça comme ça.
+
+1476
+01:25:07.650 --> 01:25:10.510
+Les avis vont défiler et c'est une nouvelle
+
+1477
+01:25:10.510 --> 01:25:12.230
+section de terminer.
+
+1478
+01:25:12.230 --> 01:25:14.670
+Ce n'est pas exactement la même chose, mais
+
+1479
+01:25:15.280 --> 01:25:17.830
+c'est des avis clients et ça suffit largement.
+
+1480
+01:25:18.330 --> 01:25:20.070
+On voit le nom, on voit la vie,
+
+1481
+01:25:20.330 --> 01:25:21.630
+on voit la note avec cette étoile.
+
+1482
+01:25:22.840 --> 01:25:23.930
+Donc c'est très correct.
+
+1483
+01:25:28.380 --> 01:25:31.590
+Donc ensuite, on a cette image ici qu'ici,
+
+1484
+01:25:31.800 --> 01:25:35.910
+comme vous voyez ces deux images, la,
+
+1485
+01:25:35.910 --> 01:25:38.030
+je vois que c'est une image qu'on
+
+1486
+01:25:38.030 --> 01:25:39.070
+ne va pas forcément utiliser.
+
+1487
+01:25:39.070 --> 01:25:41.400
+C'est une free pic, on mettre celle là pour
+
+1488
+01:25:41.400 --> 01:25:42.520
+l'instant, mais on la changera.
+
+1489
+01:25:45.270 --> 01:25:48.970
+Voilà là, on a deux, deux colonnes
+
+1490
+01:25:50.370 --> 01:25:52.690
+différentes avec des images à l'intérieur,
+
+1491
+01:25:53.110 --> 01:25:54.250
+un fond et une image.
+
+1492
+01:25:54.960 --> 01:25:56.330
+Donc on va commencer à faire ça.
+
+1493
+01:25:56.360 --> 01:25:58.370
+Donc ici, du coup, c'est un fond blanc,
+
+1494
+01:25:59.620 --> 01:26:02.390
+mais pas forcément l'étirer parce que c'est la même
+
+1495
+01:26:03.150 --> 01:26:05.280
+largeur ici ici que les autres
+
+1496
+01:26:07.020 --> 01:26:08.360
+ou pas forcément de les tirer.
+
+1497
+01:26:11.970 --> 01:26:15.270
+On va par contre lui mettre Toujours
+
+1498
+01:26:16.430 --> 01:26:20.120
+l'écart entre le haut et en bas également
+
+1499
+01:26:21.650 --> 01:26:23.300
+pour garder une harmonie.
+
+1500
+01:26:25.670 --> 01:26:29.360
+Et ici, du coup, on a cette image.
+
+1501
+01:26:34.050 --> 01:26:37.740
+Donc cette image, je réfléchis comment la faire?
+
+1502
+01:26:39.810 --> 01:26:42.750
+Oui, il y a une section interne qui va venir à
+
+1503
+01:26:42.750 --> 01:26:44.150
+l'intérieur là,
+
+1504
+01:26:45.700 --> 01:26:47.270
+Section Interne qui va venir ici.
+
+1505
+01:26:47.270 --> 01:26:48.190
+On va supprimer
+
+1506
+01:26:52.500 --> 01:26:54.210
+cette colonne là pour regarder quune.
+
+1507
+01:26:54.270 --> 01:26:56.970
+Ça fait une section dans une section et on va
+
+1508
+01:26:58.080 --> 01:27:02.250
+pour la section ici, mettre un fond et le fond,
+
+1509
+01:27:02.250 --> 01:27:07.070
+ce sera du coup l'image en mettre un arrière plan, type,
+
+1510
+01:27:07.310 --> 01:27:08.310
+carrière, plan image.
+
+1511
+01:27:08.330 --> 01:27:12.910
+Il va falloir la compresser aussi de toute façon pg tout.
+
+1512
+01:27:13.130 --> 01:27:13.350
+Et
+
+1513
+01:27:21.090 --> 01:27:23.190
+il va dans tous les cas falloir la compresser est ce qu'à
+
+1514
+01:27:23.190 --> 01:27:24.630
+mon avis, c'est aussi un pg.
+
+1515
+01:27:24.630 --> 01:27:29.390
+Donc on va retourner dans veilleuse home page élément.
+
+1516
+01:27:29.650 --> 01:27:33.270
+Et c'est cette fois, c'est là d'être cette image là,
+
+1517
+01:27:34.240 --> 01:27:35.830
+c'est tout à fait cette image là,
+
+1518
+01:27:35.960 --> 01:27:37.430
+c'est un pg, elle est trop grosse.
+
+1519
+01:27:38.090 --> 01:27:40.710
+On va faire ça, la télécharger.
+
+1520
+01:27:42.180 --> 01:27:44.510
+Elle devrait s, compresser déjà.
+
+1521
+01:27:47.230 --> 01:27:50.100
+Donc, téléchargement veilleuse,
+
+1522
+01:27:50.100 --> 01:27:52.260
+elle est passée de 500 à 30.
+
+1523
+01:27:52.510 --> 01:27:56.690
+C'est très bien. On va la garder comme ça.
+
+1524
+01:27:58.330 --> 01:28:00.830
+Et on va l'insérer ici dans le fond du cou.
+
+1525
+01:28:01.500 --> 01:28:03.270
+Donc là, comme vous pouvez le voir, c'est moche.
+
+1526
+01:28:04.200 --> 01:28:08.480
+C'est normal. Sur cette section là, on va mettre
+
+1527
+01:28:09.340 --> 01:28:11.000
+un fond de couleur blanc,
+
+1528
+01:28:17.390 --> 01:28:19.260
+comme ceci avec des bordures,
+
+1529
+01:28:21.950 --> 01:28:23.730
+va mettre un radius.
+
+1530
+01:28:25.910 --> 01:28:29.210
+Et à l'intérieur, il y a un titre, un texte et un bouton.
+
+1531
+01:28:29.800 --> 01:28:34.320
+Donc on va pouvoir prendre le titre ici,
+
+1532
+01:28:35.500 --> 01:28:39.370
+Le copier, le collé
+
+1533
+01:28:39.910 --> 01:28:41.090
+dedans avec un blog.
+
+1534
+01:28:42.870 --> 01:28:44.690
+Si ça ressemble à rien, c'est tout à fait normal,
+
+1535
+01:28:45.270 --> 01:28:49.290
+pas ça qui c'est souvent comme ça.
+
+1536
+01:28:49.290 --> 01:28:50.810
+Au début, ça ne semble pas à grand chose.
+
+1537
+01:28:50.810 --> 01:28:55.250
+Et on donne on stylis après si on va garder le même texte,
+
+1538
+01:28:57.630 --> 01:28:58.970
+on va garder ça.
+
+1539
+01:29:01.460 --> 01:29:04.040
+Ça devait être ça à peu près le texte reste
+
+1540
+01:29:05.600 --> 01:29:08.720
+a gardé le texte et on va s'entrer
+
+1541
+01:29:09.300 --> 01:29:11.090
+comme il est sur le design
+
+1542
+01:29:13.880 --> 01:29:17.060
+et y a un bouton dont on va pouvoir récupérer ce boutons-là,
+
+1543
+01:29:18.000 --> 01:29:21.380
+on va le copier et le colis ici
+
+1544
+01:29:22.820 --> 01:29:25.800
+et on va supprimer l'écart qu'on a mis en haut.
+
+1545
+01:29:26.860 --> 01:29:28.520
+Voilà donc ça.
+
+1546
+01:29:28.520 --> 01:29:32.320
+On peut l'enlever ensuite le
+
+1547
+01:29:32.320 --> 01:29:33.600
+bouton et la pas la même couleur.
+
+1548
+01:29:33.750 --> 01:29:36.760
+Donc la couleur déjà de danse à écrit découvrir.
+
+1549
+01:29:38.350 --> 01:29:40.510
+Il A pas tout ça. Voilà.
+
+1550
+01:29:40.930 --> 01:29:43.430
+Est le bouton.
+
+1551
+01:29:43.450 --> 01:29:47.610
+Il est d'un verre d'eau un peu.
+
+1552
+01:29:49.880 --> 01:29:52.570
+Donc on va changer sa couleur, qui est neuf,
+
+1553
+01:29:55.460 --> 01:29:59.430
+neuf DD zéro, c trois.
+
+1554
+01:30:02.490 --> 01:30:06.390
+Et ensuite on voit que ici c'est pas aussi large que la
+
+1555
+01:30:07.400 --> 01:30:08.500
+il y a plus de bords.
+
+1556
+01:30:08.930 --> 01:30:12.820
+Donc on va pouvoir faire ça, sélectionner comme ça,
+
+1557
+01:30:12.820 --> 01:30:14.180
+mise en page encadrée.
+
+1558
+01:30:14.180 --> 01:30:18.670
+Et là on peut sélectionner la largeur et ça ne marche pas.
+
+1559
+01:30:19.820 --> 01:30:23.940
+Je sais pas pourquoi eu, j'ai dû faire une erreur,
+
+1560
+01:30:23.940 --> 01:30:24.460
+quelque pas
+
+1561
+01:30:29.510 --> 01:30:33.740
+parce que ça ne peut pas être moins large de colonne 50
+
+1562
+01:30:35.090 --> 01:30:36.430
+non, ça peut pas être moins large.
+
+1563
+01:30:37.480 --> 01:30:39.330
+Donc je peux le faire qu'avec une ligne
+
+1564
+01:30:40.590 --> 01:30:43.170
+de CSS du coup que je rajouterai, pourquoi pas?
+
+1565
+01:30:46.090 --> 01:30:49.310
+Ah mais non, je sais pourquoi ce que j'ai mis le fond blanc
+
+1566
+01:30:49.370 --> 01:30:53.430
+sur le, je pense que c'est pour ça.
+
+1567
+01:30:54.090 --> 01:30:58.950
+Si je mets le fond blanc ici et une bordure de vin
+
+1568
+01:31:00.550 --> 01:31:05.020
+sur celle là, je peux l'enlever.
+
+1569
+01:31:05.480 --> 01:31:07.140
+Et là ça réduit, ok?
+
+1570
+01:31:08.280 --> 01:31:10.370
+J'avais mis la bordure au mauvais endroit.
+
+1571
+01:31:13.410 --> 01:31:15.740
+Donc on peut enlever les bordures ici. Ça ne sert à rien.
+
+1572
+01:31:16.520 --> 01:31:20.180
+On va plutôt les mettre ici. Donc ça, c'est plutôt correct.
+
+1573
+01:31:22.330 --> 01:31:26.380
+Ensuite, on peut juste rajouter du Du padding pour
+
+1574
+01:31:27.480 --> 01:31:29.410
+laisser de l'espace et qu'on voit
+
+1575
+01:31:29.410 --> 01:31:30.450
+toute l'image dans le fond.
+
+1576
+01:31:31.720 --> 01:31:35.210
+Donc pour ça, on va sur la colonne déjà.
+
+1577
+01:31:35.210 --> 01:31:37.890
+On va faire non répéter et taille couvrir
+
+1578
+01:31:39.770 --> 01:31:41.290
+toujours faire couvrir fin.
+
+1579
+01:31:41.290 --> 01:31:44.810
+La plupart du temps, c'est couvrir la position va laisser
+
+1580
+01:31:44.810 --> 01:31:46.890
+par défaut et maintenant ne plus qu'à
+
+1581
+01:31:46.890 --> 01:31:47.930
+mettre beaucoup de padding.
+
+1582
+01:31:47.930 --> 01:31:50.810
+Donc le padding en haut, il y en a à peu près 300
+
+1583
+01:31:52.970 --> 01:31:54.350
+en bas, il y en a à peu près 30.
+
+1584
+01:31:56.540 --> 01:31:58.800
+Et donc on voit qu'il y en a beaucoup plus que ça en haut.
+
+1585
+01:31:59.190 --> 01:32:03.620
+Donc on va mettre 500 à peu près et là,
+
+1586
+01:32:03.710 --> 01:32:08.170
+c'est pas mal là, c'est pas mal du tout du tout
+
+1587
+01:32:09.300 --> 01:32:13.740
+correspond à peu près à peu près bien à ce qu'on a fait.
+
+1588
+01:32:16.100 --> 01:32:18.360
+Je ne sais pas si mais 450, qu'est ce que ça fait?
+
+1589
+01:32:18.940 --> 01:32:23.480
+450, c'est bien. C'est quasiment pile.
+
+1590
+01:32:23.480 --> 01:32:26.040
+La même chose pour pouvoir laisser comme ça.
+
+1591
+01:32:32.260 --> 01:32:33.560
+Et donc ensuite de l'autre côté,
+
+1592
+01:32:35.150 --> 01:32:37.450
+on va mettre un fond de cette couleur.
+
+1593
+01:32:37.640 --> 01:32:41.050
+Donc la couleur de l'autre côté, c'est
+
+1594
+01:32:46.710 --> 01:32:50.190
+un style couleur
+
+1595
+01:32:52.130 --> 01:32:54.050
+e f e
+
+1596
+01:32:57.430 --> 01:32:58.570
+eux deux.
+
+1597
+01:32:59.650 --> 01:33:03.370
+F deux.
+
+1598
+01:33:05.260 --> 01:33:05.930
+Cette couleur,
+
+1599
+01:33:10.630 --> 01:33:11.530
+on va enlever.
+
+1600
+01:33:12.870 --> 01:33:15.800
+On va délier. Encore une fois, ah oui,
+
+1601
+01:33:15.980 --> 01:33:17.080
+il n'y a pas d'éléments à l'intérieur.
+
+1602
+01:33:18.100 --> 01:33:20.360
+Ça délit pas. Si je mets un titre à l'intérieur,
+
+1603
+01:33:20.360 --> 01:33:24.710
+ça va délier Comme ça prend toute la largeur.
+
+1604
+01:33:24.710 --> 01:33:27.470
+Ensuite, on va faire, on va mettre une bordure
+
+1605
+01:33:31.950 --> 01:33:32.900
+style bordure.
+
+1606
+01:33:33.560 --> 01:33:36.740
+Et ici on va lui mettre 20 pour faire comme de l'autre côté,
+
+1607
+01:33:37.830 --> 01:33:40.140
+comme on voit ici, il y a des bordures des deux côtés.
+
+1608
+01:33:41.890 --> 01:33:46.020
+Donc voilà. Ensuite on va si je lis ici,
+
+1609
+01:33:48.390 --> 01:33:51.570
+si je m' dis non, c'est pas beau.
+
+1610
+01:33:54.450 --> 01:33:56.180
+Donc ici, je vais laisser lier
+
+1611
+01:34:00.590 --> 01:34:04.890
+ça fait rien du tout pour mettre de l'écart entre les
+
+1612
+01:34:04.930 --> 01:34:08.010
+colonnes de pour faire plus large.
+
+1613
+01:34:09.460 --> 01:34:11.480
+Ok, ça ne fonctionne pas personnalisé.
+
+1614
+01:34:16.970 --> 01:34:18.110
+Ok, ça fait n'importe quoi.
+
+1615
+01:34:21.390 --> 01:34:25.070
+Va l'enlever. Hum,
+
+1616
+01:34:28.810 --> 01:34:30.350
+je mette de l'écart, en fait, entre les deux colonnes.
+
+1617
+01:34:52.010 --> 01:34:56.920
+Ok, voilà à la
+
+1618
+01:34:57.150 --> 01:34:59.070
+qu'on faire, c'est qu'on va mettre ici
+
+1619
+01:35:00.560 --> 01:35:03.150
+20 ou 15.
+
+1620
+01:35:05.090 --> 01:35:07.230
+Et ici on va mettre 15 à droite
+
+1621
+01:35:17.560 --> 01:35:21.330
+service comme ça, ça reste entrer.
+
+1622
+01:35:21.330 --> 01:35:22.850
+Et j'ai quand même un écart au milieu
+
+1623
+01:35:23.990 --> 01:35:25.880
+peut être un peu important à l'écart.
+
+1624
+01:35:26.810 --> 01:35:30.410
+Je pense que si je mets 10 et 10,
+
+1625
+01:35:30.420 --> 01:35:35.420
+c'est largement suffisant à la 10
+
+1626
+01:35:35.880 --> 01:35:38.880
+C'est très bien. Par contre, je me,
+
+1627
+01:35:40.450 --> 01:35:41.990
+je vois qu'il a pu les bordures en bas,
+
+1628
+01:35:41.990 --> 01:35:43.750
+donc elle limite en a des bordures aussi ici,
+
+1629
+01:35:45.300 --> 01:35:47.070
+bordure et on va les mettre à avant.
+
+1630
+01:35:47.850 --> 01:35:50.230
+Voilà comme ça. On a bien des bordures sur les quatre
+
+1631
+01:35:50.380 --> 01:35:52.190
+côtés ici aussi.
+
+1632
+01:35:52.190 --> 01:35:54.910
+Donc on a à peu près la même chose que là.
+
+1633
+01:35:56.910 --> 01:35:59.460
+C'est plutôt ressemblant les sections ici
+
+1634
+01:35:59.610 --> 01:36:00.660
+avec les sections ici.
+
+1635
+01:36:01.100 --> 01:36:03.900
+Alors c'est normal. Là ici, il y a beaucoup d'écarts blancs.
+
+1636
+01:36:04.040 --> 01:36:06.100
+Il y a peu d'écarts blancs ici. Il y en a beaucoup.
+
+1637
+01:36:06.310 --> 01:36:08.220
+C'est normal parce que j'ai un grand écran.
+
+1638
+01:36:08.240 --> 01:36:09.500
+Si je le mets sur un écran de max,
+
+1639
+01:36:09.500 --> 01:36:11.060
+ça fera des bordures beaucoup plus,
+
+1640
+01:36:12.660 --> 01:36:13.940
+beaucoup plus raisonnables.
+
+1641
+01:36:13.950 --> 01:36:15.500
+C'est vrai que si je ferme ça,
+
+1642
+01:36:16.070 --> 01:36:18.340
+comme on peut voir ça fait des grosses bordures blanches,
+
+1643
+01:36:18.370 --> 01:36:20.300
+mais c'est aligné avec ce que j'ai fait au dessus.
+
+1644
+01:36:22.350 --> 01:36:24.040
+Donc c'est correct comme ça.
+
+1645
+01:36:25.980 --> 01:36:28.780
+Donc, qu'est ce qu'on a dans cette section?
+
+1646
+01:36:30.810 --> 01:36:35.430
+On a une image. Alors
+
+1647
+01:36:39.120 --> 01:36:43.020
+on a une image en haut.
+
+1648
+01:36:43.720 --> 01:36:46.620
+Ah, mais c'est l'im. Ok, c'est l'image de l'article.
+
+1649
+01:36:47.090 --> 01:36:48.300
+J'ai rien dit en fait,
+
+1650
+01:36:48.300 --> 01:36:50.260
+ce serait l'image là, c'est un article.
+
+1651
+01:36:50.260 --> 01:36:52.140
+Donc, ce qu'on va faire, c'est qu'on va mettre un carrousel
+
+1652
+01:36:52.140 --> 01:36:54.140
+d'article qu'on va utiliser le widget
+
+1653
+01:36:54.140 --> 01:36:57.220
+post ici.
+
+1654
+01:36:57.220 --> 01:36:59.020
+On va rien mettre effa c effacer.
+
+1655
+01:37:00.360 --> 01:37:04.090
+Et on va utiliser le widget post de u
+
+1656
+01:37:04.900 --> 01:37:06.170
+qu'on va venir mettre ici.
+
+1657
+01:37:07.430 --> 01:37:09.410
+Et ici, ça va mettre des articles.
+
+1658
+01:37:09.410 --> 01:37:13.930
+Mais encore une fois, je n'ai pas d'article sur le site.
+
+1659
+01:37:14.160 --> 01:37:16.890
+Donc il faudrait que je crée des faux articles en attendant,
+
+1660
+01:37:16.890 --> 01:37:19.450
+pour mettre en page, ce serait bien trop long.
+
+1661
+01:37:20.000 --> 01:37:21.170
+Donc je ne vais pas le faire,
+
+1662
+01:37:24.140 --> 01:37:25.360
+je vais pas le faire.
+
+1663
+01:37:25.620 --> 01:37:27.000
+On va faire comme pour les autres,
+
+1664
+01:37:28.030 --> 01:37:29.960
+mais c'est tout à fait possible avec le widget post,
+
+1665
+01:37:29.980 --> 01:37:31.280
+le tout, c'est de le connaître.
+
+1666
+01:37:31.280 --> 01:37:33.720
+On peut ça se présente comme l'autre avec les produits.
+
+1667
+01:37:33.940 --> 01:37:36.400
+On peut tout à fait choisir les queries pour pour savoir ce
+
+1668
+01:37:36.400 --> 01:37:38.320
+qu'on affiche les meta.
+
+1669
+01:37:38.320 --> 01:37:39.800
+Si on va les meta ou non,
+
+1670
+01:37:40.500 --> 01:37:42.120
+on peut tout à fait afficher plein de types
+
+1671
+01:37:42.780 --> 01:37:47.720
+de postes différents avec la date de la date d'ajout
+
+1672
+01:37:48.340 --> 01:37:51.320
+la date de publication, les mettre des commentaires.
+
+1673
+01:37:51.400 --> 01:37:52.520
+S'il y a des commentaires sur l'article,
+
+1674
+01:37:53.020 --> 01:37:55.170
+faire plein de choses avec ex widget.
+
+1675
+01:37:55.900 --> 01:37:58.720
+Et ce serait trop long fait de vous montrer comment le
+
+1676
+01:37:58.720 --> 01:38:00.520
+paramétré, il des faux articles, etc.
+
+1677
+01:38:01.620 --> 01:38:03.280
+Ça fait déjà la vidéo dure déjà
+
+1678
+01:38:03.280 --> 01:38:04.520
+suffisamment de temps comme ça.
+
+1679
+01:38:04.520 --> 01:38:05.840
+Donc on va passer à la section suivante,
+
+1680
+01:38:09.130 --> 01:38:11.540
+mais il faut savoir que c'est tout à fait possible de le
+
+1681
+01:38:11.540 --> 01:38:13.780
+faire avec cette section.
+
+1682
+01:38:14.190 --> 01:38:15.580
+Enfin, avec ce widget.
+
+1683
+01:38:16.650 --> 01:38:18.540
+Donc ce qu'on va faire, c'est qu'on va dupliqué,
+
+1684
+01:38:19.240 --> 01:38:20.780
+ce qu'après on va garder la même
+
+1685
+01:38:21.810 --> 01:38:23.950
+la même structure avec deux colonnes.
+
+1686
+01:38:25.300 --> 01:38:28.630
+Donc on va dupliqué cette section là,
+
+1687
+01:38:30.800 --> 01:38:32.510
+comme ça va passer en dessous.
+
+1688
+01:38:33.020 --> 01:38:35.470
+Mais on va complètement supprimer
+
+1689
+01:38:35.630 --> 01:38:36.710
+ce qu'on a fait à l'intérieur.
+
+1690
+01:38:37.570 --> 01:38:39.470
+Ça ne nous sert plus à rien du tout.
+
+1691
+01:38:40.060 --> 01:38:41.470
+Donc on peut supprimer tout ça.
+
+1692
+01:38:43.640 --> 01:38:48.220
+On va enlever également les mar ici.
+
+1693
+01:38:50.280 --> 01:38:51.380
+Ça ne fera faire de l'exercice.
+
+1694
+01:38:51.380 --> 01:38:53.100
+On va directement recommencer avec deux colonnes.
+
+1695
+01:38:58.840 --> 01:39:00.260
+Je regarde un truc en même temps.
+
+1696
+01:39:06.370 --> 01:39:10.370
+Alors ensuite, on va utiliser un widget tech colonne.
+
+1697
+01:39:11.350 --> 01:39:13.290
+On va lui remettre 50
+
+1698
+01:39:15.820 --> 01:39:18.960
+et 50 pour garder l'harmonie toujours.
+
+1699
+01:39:20.860 --> 01:39:22.720
+Et c'est déjà notre dernière section.
+
+1700
+01:39:23.860 --> 01:39:27.860
+Ok, Donc pour cette section,
+
+1701
+01:39:29.290 --> 01:39:31.760
+c'est ça qui va être assez compliqué à faire.
+
+1702
+01:39:34.220 --> 01:39:35.970
+C'est ça qui va être compliqué à faire.
+
+1703
+01:39:37.640 --> 01:39:40.170
+Donc comment on va faire, on va d'abord commencer par ça.
+
+1704
+01:39:42.750 --> 01:39:44.080
+Donc il y a un titre,
+
+1705
+01:39:48.360 --> 01:39:51.880
+k lherbe est un h, mais plus gros que les autres
+
+1706
+01:39:52.220 --> 01:39:53.920
+non taille, non?
+
+1707
+01:39:53.920 --> 01:39:55.800
+Il est plus gros que les autres. Donc c'est un
+
+1708
+01:39:55.800 --> 01:39:56.880
+h qui est plus gros que les autres.
+
+1709
+01:39:56.990 --> 01:39:58.880
+Donc ce qu'on va faire, c'est que que c'est un h,
+
+1710
+01:39:58.990 --> 01:40:01.360
+mais qu' y en a qu'un avec une taille un peu supérieure,
+
+1711
+01:40:01.900 --> 01:40:06.720
+on va le mettre à à 40 et il s'appelle à
+
+1712
+01:40:06.720 --> 01:40:07.720
+Propos.
+
+1713
+01:40:14.060 --> 01:40:17.640
+Elle a à propos, on va
+
+1714
+01:40:18.560 --> 01:40:23.180
+mettre du texte en dessous et
+
+1715
+01:40:24.200 --> 01:40:26.020
+on va dupliqué, un bouton
+
+1716
+01:40:28.480 --> 01:40:30.780
+copier coller.
+
+1717
+01:40:31.560 --> 01:40:34.180
+Et le bouton est dit en savoir plus
+
+1718
+01:40:39.360 --> 01:40:41.620
+et ce texte là, il est plus long que ça.
+
+1719
+01:40:41.810 --> 01:40:44.860
+Donc ce qu'on va faire, c'est qu'on va le dupliqué comme ça,
+
+1720
+01:40:47.420 --> 01:40:49.760
+pas trop comme ça.
+
+1721
+01:40:49.760 --> 01:40:54.750
+Ce sera très bien. Comme on
+
+1722
+01:40:54.750 --> 01:40:56.110
+peut le voir ici, il y a l'espace.
+
+1723
+01:40:56.110 --> 01:40:59.140
+Donc c'est du padding qu'on va pouvoir mettre
+
+1724
+01:41:00.730 --> 01:41:02.030
+un padding à droite
+
+1725
+01:41:04.800 --> 01:41:06.140
+à 70, à peu
+
+1726
+01:41:06.140 --> 01:41:10.370
+près un même médecin.
+
+1727
+01:41:11.890 --> 01:41:14.230
+Non, ça, c'est trop 80. Ce sera bien.
+
+1728
+01:41:18.270 --> 01:41:22.330
+Un a quatre, ça me paraît plutôt correct que le bouton il
+
+1729
+01:41:22.330 --> 01:41:23.370
+est une nouvelle fois,
+
+1730
+01:41:23.440 --> 01:41:25.410
+j'ai dupliqué le bouton d'une mauvaise couleur.
+
+1731
+01:41:25.760 --> 01:41:30.480
+Donc on a récupéré la couleur. C'est pas très grave.
+
+1732
+01:41:31.140 --> 01:41:33.000
+Hop, on va l'appliquer à ce bouton là.
+
+1733
+01:41:39.450 --> 01:41:41.790
+Voilà. Donc là déjà, on a déjà fait la section.
+
+1734
+01:41:42.010 --> 01:41:44.470
+Ça ressemble plutôt à la même chose.
+
+1735
+01:41:44.970 --> 01:41:47.310
+Et de l'autre côté, on a plusieurs images.
+
+1736
+01:41:52.430 --> 01:41:54.760
+J'hésite ça. On en fait une seule grande image.
+
+1737
+01:42:00.200 --> 01:42:02.900
+Je pense que je vais le faire comme ça, sinon
+
+1738
+01:42:11.800 --> 01:42:13.070
+sinon on peut faire trois colonnes.
+
+1739
+01:42:13.070 --> 01:42:15.590
+On va essayer de faire de faire avec une section interne,
+
+1740
+01:42:16.520 --> 01:42:18.850
+mais je ne suis pas sûr que ça fasse très bien.
+
+1741
+01:42:19.590 --> 01:42:23.500
+On va essayer, on va le dupliquer.
+
+1742
+01:42:25.640 --> 01:42:29.200
+On va aligner les éléments au milieu
+
+1743
+01:42:30.640 --> 01:42:33.430
+ici aussi, d'ailleurs Au milieu.
+
+1744
+01:42:35.090 --> 01:42:39.850
+Et ensuite on va intégrer les
+
+1745
+01:42:39.950 --> 01:42:42.530
+images, intégrer une par
+
+1746
+01:42:42.530 --> 01:42:45.690
+une, si on peut enlever.
+
+1747
+01:42:48.120 --> 01:42:50.060
+Et ici, on peut enlever aussi
+
+1748
+01:42:51.050 --> 01:42:52.860
+bien délier toujours les valeurs
+
+1749
+01:42:53.810 --> 01:42:56.260
+délier toujours pour enlever la marche qu'il y a
+
+1750
+01:42:56.260 --> 01:42:59.440
+autour de base.
+
+1751
+01:43:01.550 --> 01:43:03.490
+Et dedans ici, on a une image.
+
+1752
+01:43:07.030 --> 01:43:08.810
+Et si on en a une autre en dessous
+
+1753
+01:43:09.350 --> 01:43:12.530
+de souvenir de la structure au milieu,
+
+1754
+01:43:12.530 --> 01:43:13.610
+on en a une seule grande
+
+1755
+01:43:17.260 --> 01:43:21.170
+qu'on peut centrer aussi un peu compliquer cette structure.
+
+1756
+01:43:21.590 --> 01:43:26.530
+Et enfin, on n'a qu'une seule image
+
+1757
+01:43:27.110 --> 01:43:30.150
+en haut dans la dernière,
+
+1758
+01:43:32.500 --> 01:43:34.770
+c'est à peu près la structure de une une.
+
+1759
+01:43:36.800 --> 01:43:38.990
+Maintenant, on n'a plus qu'à remplacer le contenu.
+
+1760
+01:43:41.070 --> 01:43:43.880
+Donc l'image, ok,
+
+1761
+01:43:44.630 --> 01:43:46.160
+peut être falloir les compresser aussi.
+
+1762
+01:43:46.160 --> 01:43:50.430
+Je sais pas homme
+
+1763
+01:43:50.620 --> 01:43:55.590
+élément, la présentation n'est pas
+
+1764
+01:43:55.610 --> 01:43:55.830
+ou
+
+1765
+01:43:59.430 --> 01:44:01.750
+on à la convoquer.
+
+1766
+01:44:01.750 --> 01:44:02.790
+C'est une seule grande image.
+
+1767
+01:44:03.290 --> 01:44:05.790
+On me l'a exporté de manière à une seule grande image.
+
+1768
+01:44:09.520 --> 01:44:11.970
+Donc, à la limite, pour l'instant, je une seule grande
+
+1769
+01:44:13.540 --> 01:44:15.450
+Parce Que faudrait que je ré exporte tout.
+
+1770
+01:44:18.710 --> 01:44:20.130
+Ok? Pour l'instant, je vais mettre
+
+1771
+01:44:20.130 --> 01:44:21.250
+en une seule grande image.
+
+1772
+01:44:21.990 --> 01:44:24.850
+Et après, je verrai peut être qu'on me dira de faire des
+
+1773
+01:44:24.910 --> 01:44:27.450
+images et là la vidéo, sinon va être trop longue.
+
+1774
+01:44:28.460 --> 01:44:30.950
+Donc pour l'instant, ce qu'on va faire, c'est mettre l'image
+
+1775
+01:44:31.750 --> 01:44:35.320
+dans la section la colonne générale, on va supprimer ça.
+
+1776
+01:44:36.580 --> 01:44:38.440
+Et ici on va remplacer.
+
+1777
+01:44:39.620 --> 01:44:44.030
+Par contre, il faut peut être que je la passe
+
+1778
+01:44:46.390 --> 01:44:50.530
+jpg aussi home page élément et c'est celle ci,
+
+1779
+01:44:54.940 --> 01:44:55.760
+la télécharger.
+
+1780
+01:44:56.220 --> 01:44:57.720
+Et on va l'ajouter ici.
+
+1781
+01:44:59.810 --> 01:45:03.340
+C'est dans téléchargement, vieux on page
+
+1782
+01:45:08.050 --> 01:45:08.520
+comme ça.
+
+1783
+01:45:08.520 --> 01:45:12.360
+Je récupère mon image, ça marche tout aussi bien.
+
+1784
+01:45:13.100 --> 01:45:14.640
+Ça marche tout aussi bien comme ça.
+
+1785
+01:45:14.640 --> 01:45:17.080
+Ça ressemble bien à ce qu'on a fait de l'autre côté,
+
+1786
+01:45:19.650 --> 01:45:20.830
+ça que ça marche tout aussi bien.
+
+1787
+01:45:20.830 --> 01:45:21.670
+Et c'est quand même beaucoup plus
+
+1788
+01:45:21.670 --> 01:45:23.990
+rapide qu'on va faire comme ça.
+
+1789
+01:45:24.570 --> 01:45:26.430
+En bas, j'ai bien mon ligne.
+
+1790
+01:45:27.840 --> 01:45:30.370
+Donc on va pouvoir aller maintenant qu'on a fini la page
+
+1791
+01:45:30.370 --> 01:45:35.220
+d'accueil va pouvoir aller sur le site
+
+1792
+01:45:36.840 --> 01:45:39.540
+et là comme ça, on voit un peu notre travail du jour,
+
+1793
+01:45:39.920 --> 01:45:42.820
+le travail qu'on a accompli dans cette vidéo.
+
+1794
+01:45:44.290 --> 01:45:46.260
+Donc on peut voir ici que ça a
+
+1795
+01:45:46.380 --> 01:45:47.460
+commencé à bien prendre forme.
+
+1796
+01:45:48.130 --> 01:45:51.940
+Donc on a toujours ce problème de produit de produits et de
+
+1797
+01:45:51.940 --> 01:45:53.780
+blog, vu que je n'ai pas de contenu
+
+1798
+01:45:53.920 --> 01:45:55.060
+sur le site pour l'instant.
+
+1799
+01:45:56.450 --> 01:45:59.060
+Mais sinon, on voit quand même que globalement
+
+1800
+01:46:00.610 --> 01:46:02.580
+mise à part que les taxes soit beaucoup plus raisonnable,
+
+1801
+01:46:02.580 --> 01:46:04.620
+parce que là, c'est quand même énorme.
+
+1802
+01:46:05.090 --> 01:46:07.780
+Donc là, on a quand même quelque chose de plus raisonnable,
+
+1803
+01:46:08.520 --> 01:46:12.890
+mais au moins on peut voir que ça correspond
+
+1804
+01:46:13.580 --> 01:46:15.370
+quasi parfaitement à la maquette.
+
+1805
+01:46:15.950 --> 01:46:20.240
+Il y a quelques petits trucs que je n'ai pas fait comme ici,
+
+1806
+01:46:21.100 --> 01:46:23.680
+le texte arrondi ou encore
+
+1807
+01:46:25.600 --> 01:46:29.740
+ici de faire plusieurs images au lieu d'une seule.
+
+1808
+01:46:30.280 --> 01:46:33.780
+Ça permettrait de faire une espèce d'animation également
+
+1809
+01:46:34.850 --> 01:46:36.970
+d'images qui se croisent que là.
+
+1810
+01:46:36.970 --> 01:46:38.730
+On ne peut pas faire du coup. C'est un seul bloc.
+
+1811
+01:46:39.830 --> 01:46:41.380
+C'est en a d'amélioration pour
+
+1812
+01:46:41.380 --> 01:46:42.580
+l'instant, on va laisser comme ça.
+
+1813
+01:46:44.110 --> 01:46:46.010
+On a bien avancé en tout cas.
+
+1814
+01:46:46.620 --> 01:46:48.330
+Merci d'avoir regardé cette vidéo.
+
+1815
+01:46:48.390 --> 01:46:52.580
+Et dans la prochaine vidéo, on verra comment mettre en place
+
+1816
+01:46:55.280 --> 01:46:59.430
+le footer ici et le aer ici,
+
+1817
+01:46:59.650 --> 01:47:00.910
+on ne fera pas la même chose que ça.
+
+1818
+01:47:01.450 --> 01:47:03.030
+On fera autre chose pour le aer,
+
+1819
+01:47:03.220 --> 01:47:05.870
+mais vous verrez ça dans la prochaine vidéo à très vite.
+
+1820
+01:47:05.870 --> 01:47:07.270
+Merci d'avoir regardé cette cinquième vidéo.

@@ -1,0 +1,1261 @@
+WEBVTT
+
+1
+00:00:00.610 --> 00:00:01.360
+Salut du coup.
+
+2
+00:00:01.360 --> 00:00:04.200
+Dans cette vidéo, nous allons voir comment configurer un
+
+3
+00:00:04.200 --> 00:00:07.120
+flux Google shopping avec les optimisations avancées pour
+
+4
+00:00:07.120 --> 00:00:09.920
+vraiment être efficace pour la méthode charbon et également
+
+5
+00:00:09.920 --> 00:00:11.880
+enrichir l'algorithme de la meilleure manière.
+
+6
+00:00:12.110 --> 00:00:14.440
+Souvent dans les formations googles que j'ai pu voir,
+
+7
+00:00:14.820 --> 00:00:16.920
+on vous apprend à configurer un flux goût shopping.
+
+8
+00:00:17.230 --> 00:00:19.240
+Mais on, on vous le montre pas les petits détails
+
+9
+00:00:19.300 --> 00:00:20.400
+qui font la différence.
+
+10
+00:00:20.650 --> 00:00:23.360
+Forcément là, je vous montre sur vos commerces,
+
+11
+00:00:23.430 --> 00:00:25.680
+mais c'est également valable sur Shopify,
+
+12
+00:00:25.900 --> 00:00:28.440
+à vous de trouver les paramètres équivalents dans votre
+
+13
+00:00:28.440 --> 00:00:29.880
+extension Shopify.
+
+14
+00:00:30.180 --> 00:00:32.320
+Moi, cette extension que je vais vous montrer,
+
+15
+00:00:32.580 --> 00:00:34.560
+je vais vous la mettre également gratuitement
+
+16
+00:00:34.560 --> 00:00:35.640
+vu que c'est une licence GPL.
+
+17
+00:00:35.810 --> 00:00:39.000
+C'est aussi l'avantage de voir presse dans le module.
+
+18
+00:00:39.230 --> 00:00:41.360
+Bien entendu, si vous souhaitez que ce module se mette à
+
+19
+00:00:41.360 --> 00:00:42.640
+jour, il va falloir du coup l'acheter,
+
+20
+00:00:42.750 --> 00:00:45.400
+mais vous pouvez l'utiliser gratuitement dès maintenant.
+
+21
+00:00:45.780 --> 00:00:47.720
+Du coup, on se retrouve sur mon écran
+
+22
+00:00:48.030 --> 00:00:49.080
+pour installer l'extension.
+
+23
+00:00:49.510 --> 00:00:52.560
+Donc est tout simplement l'extension Google product
+
+24
+00:00:52.710 --> 00:00:53.800
+feed de commerce.
+
+25
+00:00:55.990 --> 00:00:58.320
+Vous voyez cette extension, si vous voulez acheter,
+
+26
+00:00:58.550 --> 00:01:00.880
+vous coûte 79 par an,
+
+27
+00:01:01.180 --> 00:01:03.000
+il faut que vous l'achetez au bout d'un certain temps parce
+
+28
+00:01:03.000 --> 00:01:04.400
+que si vous la mettez pas à jour et bien,
+
+29
+00:01:04.770 --> 00:01:06.440
+c'est quand même important de mettre à jour pour avoir
+
+30
+00:01:06.440 --> 00:01:08.080
+l'idée de la fonctionnalité simplement.
+
+31
+00:01:08.080 --> 00:01:11.440
+Voilà. Vous avez de quoi le tester dès maintenant avec la
+
+32
+00:01:11.440 --> 00:01:13.320
+petite extension que je vous mets dans le module.
+
+33
+00:01:13.790 --> 00:01:15.000
+Donc j'active l'extension.
+
+34
+00:01:15.380 --> 00:01:19.480
+On va pouvoir la retrouver dans ou commerce product feed.
+
+35
+00:01:21.620 --> 00:01:24.240
+Et on va pouvoir, vous pouvez voir que ça m'a
+
+36
+00:01:24.240 --> 00:01:25.600
+automatiquement généré un flux.
+
+37
+00:01:25.680 --> 00:01:27.760
+Alors peut être que c'est parce que je l'avais déjà fait.
+
+38
+00:01:28.180 --> 00:01:29.800
+Je vais, je vais le supprimer pour être
+
+39
+00:01:29.800 --> 00:01:30.880
+sûr de recommencer avec vous.
+
+40
+00:01:32.020 --> 00:01:35.920
+Voilà. Donc là, vous n'avez aucun feed manage product feed.
+
+41
+00:01:35.920 --> 00:01:37.160
+On va créer un nouveau flux du coup,
+
+42
+00:01:37.740 --> 00:01:40.080
+un nouveau flux dont vous pouvez mettre
+
+43
+00:01:40.390 --> 00:01:41.440
+flux un tout simplement.
+
+44
+00:01:41.730 --> 00:01:44.200
+C'est bien à Google mer product feed.
+
+45
+00:01:44.630 --> 00:01:46.920
+Pour l'instant, vous avez bien toutes les catégories.
+
+46
+00:01:47.620 --> 00:01:51.840
+Il n'y a pas de raison d'exclure des produits dès
+
+47
+00:01:51.840 --> 00:01:53.720
+maintenant, mais ça peut être utile si vous avez des
+
+48
+00:01:53.720 --> 00:01:55.400
+fournisseurs différents et que vous voulez pas faire du go
+
+49
+00:01:55.640 --> 00:01:57.080
+shopping sur certaines catégories.
+
+50
+00:01:57.550 --> 00:01:59.520
+Donc voilà, ça m'a généré un flux
+
+51
+00:01:59.530 --> 00:02:01.320
+simplement en l'état actuel.
+
+52
+00:02:01.700 --> 00:02:03.400
+Ça ne m'a pas suffire si vous voulez
+
+53
+00:02:03.400 --> 00:02:04.480
+avoir des bons résultats.
+
+54
+00:02:04.950 --> 00:02:08.360
+Donc on va regarder ensemble quel champ on va utiliser.
+
+55
+00:02:09.080 --> 00:02:10.880
+Alors non, c'est bon là dessus, on est bon.
+
+56
+00:02:11.180 --> 00:02:13.000
+On va retourner plutôt du coup sur
+
+57
+00:02:15.830 --> 00:02:17.360
+Vérifier que le flu fonctionne bien.
+
+58
+00:02:17.510 --> 00:02:20.560
+Mais on va retourner du coup dans l'extension pour
+
+59
+00:02:21.090 --> 00:02:22.640
+même une extension c à chaque fois.
+
+60
+00:02:22.640 --> 00:02:24.200
+Voilà joubli ou c. Maintenant, c'est bien ici,
+
+61
+00:02:24.390 --> 00:02:26.440
+mais une extension cting pour pouvoir
+
+62
+00:02:26.440 --> 00:02:27.720
+le configurer correctement.
+
+63
+00:02:28.380 --> 00:02:30.800
+Ok, voilà. Donc c'est ici qu'on va voir les
+
+64
+00:02:30.800 --> 00:02:32.560
+optimisations importantes.
+
+65
+00:02:32.630 --> 00:02:35.320
+Donc, dans forcément on va laisser product title ça,
+
+66
+00:02:35.320 --> 00:02:37.840
+ça ne va pas changer product description.
+
+67
+00:02:38.260 --> 00:02:40.280
+Ça va dépendre comment vous avez construit votre site.
+
+68
+00:02:40.580 --> 00:02:44.000
+Si vous mettez effectivement dans la description généraliste
+
+69
+00:02:44.000 --> 00:02:46.280
+de vos commerces la description, eh bien,
+
+70
+00:02:46.280 --> 00:02:48.800
+il sera plus intéressant de mettre la description complète
+
+71
+00:02:48.930 --> 00:02:50.600
+simplement comme vous l'avez vu nous,
+
+72
+00:02:50.600 --> 00:02:51.920
+dans la méthode de construction de site,
+
+73
+00:02:51.920 --> 00:02:54.480
+on baptisé des champs personnalisés et on va plutôt
+
+74
+00:02:54.960 --> 00:02:56.320
+écrire des descriptions courtes.
+
+75
+00:02:56.320 --> 00:02:58.000
+Donc nous, on va plutôt faire, mais une produit de
+
+76
+00:02:58.000 --> 00:03:00.840
+description, la version courte, encore une fois,
+
+77
+00:03:01.690 --> 00:03:03.920
+c'est toujours pas mal d'avoir des descriptions longues.
+
+78
+00:03:03.920 --> 00:03:07.240
+Ça va dépendre de votre cas, ok? Le vin, les bit.
+
+79
+00:03:07.350 --> 00:03:09.480
+Donc effectivement, par défaut, on va mettre en stock.
+
+80
+00:03:09.860 --> 00:03:11.280
+Si le produit sans rupture de stock,
+
+81
+00:03:11.500 --> 00:03:14.560
+on va mettre en rupture de stock indicateurs c.
+
+82
+00:03:14.580 --> 00:03:17.040
+Si les produits font partie d'un bule moi,
+
+83
+00:03:17.040 --> 00:03:19.600
+je vous déconseille d'activer cette option.
+
+84
+00:03:20.220 --> 00:03:22.560
+Le brand, on va mettre du coup le nom de marc,
+
+85
+00:03:22.950 --> 00:03:26.160
+miss ki mono sur plus sympa de
+
+86
+00:03:26.240 --> 00:03:27.560
+revendre les produits, d'aller express.
+
+87
+00:03:27.560 --> 00:03:29.920
+En tout cas, si vous revendez des produits dli express,
+
+88
+00:03:30.860 --> 00:03:32.920
+de mettre le nom de notre marque attention,
+
+89
+00:03:33.180 --> 00:03:35.440
+si vous avez vraiment des vrai marques que vous vendez sur
+
+90
+00:03:35.440 --> 00:03:38.680
+votre site, n'hésitez pas à créer un attribut bre et
+
+91
+00:03:38.680 --> 00:03:39.720
+du coup de le choisir ici.
+
+92
+00:03:39.720 --> 00:03:43.560
+Voilà. Vous pouvez tout simplement choisir un attribut bre.
+
+93
+00:03:43.940 --> 00:03:45.080
+Ça vient du module Facebook,
+
+94
+00:03:45.310 --> 00:03:47.640
+mais à vous ne pouvoir l'utiliser, moi,
+
+95
+00:03:47.640 --> 00:03:50.920
+je vais le remettre à nos mes penser du coup à l'activer m.
+
+96
+00:03:51.100 --> 00:03:53.520
+Pn également appeler es qu je vous
+
+97
+00:03:53.520 --> 00:03:54.880
+l'invite à vous mettre en escalier.
+
+98
+00:03:55.100 --> 00:03:57.240
+Ça n'a pas changé. Grand chose de le pousser
+
+99
+00:03:57.550 --> 00:03:58.720
+pour le type de produit.
+
+100
+00:03:59.350 --> 00:04:00.760
+Pour le product type ici,
+
+101
+00:04:00.760 --> 00:04:02.800
+on va choisir la catégorie de produits.
+
+102
+00:04:02.830 --> 00:04:05.680
+Donc tout simplement vous mettre catégorie de produits sur
+
+103
+00:04:05.680 --> 00:04:07.960
+Google product catégorie attention.
+
+104
+00:04:08.460 --> 00:04:10.800
+Si vous vendez un type de produit en
+
+105
+00:04:10.800 --> 00:04:12.000
+particulier, ça va être simple.
+
+106
+00:04:12.470 --> 00:04:13.880
+Donc, par exemple, des sac cade dos,
+
+107
+00:04:13.880 --> 00:04:15.080
+vous pouvez mettre directement ça.
+
+108
+00:04:15.080 --> 00:04:16.920
+Cade dos. Je ne sais pas si on a des
+
+109
+00:04:16.920 --> 00:04:18.240
+kimolos directement sur Google.
+
+110
+00:04:18.380 --> 00:04:21.040
+Je ne pense pas vêtement traditionnel de cérémonie.
+
+111
+00:04:21.780 --> 00:04:24.840
+Je ne suis pas certain. Je vais plutôt mettre accessoires
+
+112
+00:04:24.960 --> 00:04:27.160
+vêtements parce que il met dans vêtements traditionnels.
+
+113
+00:04:27.160 --> 00:04:30.440
+Je ne suis pas certain que ça soit vraiment ce qu'on vende,
+
+114
+00:04:30.590 --> 00:04:32.280
+mais effectivement, c'est pour mettre par
+
+115
+00:04:32.280 --> 00:04:33.880
+défaut les catégories.
+
+116
+00:04:33.880 --> 00:04:36.240
+Je vais vous montrer d'ailleurs ce qu'il faut faire sur vos
+
+117
+00:04:36.240 --> 00:04:37.400
+catégories par rapport à ça.
+
+118
+00:04:37.580 --> 00:04:39.160
+Si vous vendez plusieurs types de produits,
+
+119
+00:04:39.160 --> 00:04:41.120
+si vous êtes sur des niches thématisé,
+
+120
+00:04:41.180 --> 00:04:42.240
+je vais chercher du coup.
+
+121
+00:04:42.240 --> 00:04:44.200
+Donc vêtements et accessoires dans tous les cas,
+
+122
+00:04:44.200 --> 00:04:45.640
+je le mettrai dans vêtements et accessoires.
+
+123
+00:04:45.820 --> 00:04:47.560
+Je ne suis pas certain que maintenant
+
+124
+00:04:47.740 --> 00:04:49.040
+kimono, ça peut être intéressant.
+
+125
+00:04:49.420 --> 00:04:51.160
+On peut tenter à la limite.
+
+126
+00:04:51.830 --> 00:04:53.160
+J'ai, on va tester,
+
+127
+00:04:53.540 --> 00:04:56.160
+je vais mettre accessoire closing traditionnel cérémonie
+
+128
+00:04:56.160 --> 00:04:58.480
+closing kimono, au moins par défaut,
+
+129
+00:04:58.480 --> 00:05:01.240
+on va dire à Google que ça Google product
+
+130
+00:05:01.240 --> 00:05:02.360
+catégorie, c'est des kimonos.
+
+131
+00:05:02.420 --> 00:05:04.720
+En tous les cas, si on a bien mis catégories et que vous
+
+132
+00:05:04.720 --> 00:05:07.320
+avez bien fait l'architecture comme avant, eh bien,
+
+133
+00:05:07.430 --> 00:05:09.520
+vous remplissez ici catégorie de produits.
+
+134
+00:05:09.520 --> 00:05:12.800
+J'étais i. Donc si vous faites et si vous vend des
+
+135
+00:05:12.800 --> 00:05:13.920
+marques, c'est à activer.
+
+136
+00:05:14.050 --> 00:05:15.640
+C'est ce qu'on correspond à eux à n.
+
+137
+00:05:15.710 --> 00:05:17.640
+Donc normalement, on le pouce, mais là,
+
+138
+00:05:17.640 --> 00:05:19.560
+si ça ne le propose pas, tout simplement parce qu'on n'a pas
+
+139
+00:05:19.560 --> 00:05:23.520
+utilisé de à n, mais si vous utilisez des à n,
+
+140
+00:05:23.830 --> 00:05:26.520
+donc c'est des code bars qui vous permet par de faire des
+
+141
+00:05:27.020 --> 00:05:29.920
+Amazon FB et derrière, bien entendu qu'il faut le pousser.
+
+142
+00:05:30.020 --> 00:05:32.360
+Ça vous permet automatiquement de pousser sur d'autres
+
+143
+00:05:32.360 --> 00:05:35.520
+publicités pour optimiser vos publicités par rapport à la
+
+144
+00:05:35.520 --> 00:05:37.760
+concurrence, surtout si vous faites des prix moins chers.
+
+145
+00:05:38.070 --> 00:05:39.120
+Donc, GT y,
+
+146
+00:05:39.120 --> 00:05:42.040
+c'est très intéressant d'utiliser si vous avez des produits
+
+147
+00:05:42.040 --> 00:05:45.160
+qui sont affichés sur d'autres plateformes et que vous avez
+
+148
+00:05:45.160 --> 00:05:47.400
+du coup ces fameux John d.
+
+149
+00:05:47.510 --> 00:05:49.800
+Donc, forcément, si vous vendez que pour les femmes,
+
+150
+00:05:49.800 --> 00:05:52.000
+ça peut être intéressant de mettre les femmes.
+
+151
+00:05:52.340 --> 00:05:53.400
+Si vous vendez que pour les hommes,
+
+152
+00:05:53.400 --> 00:05:54.920
+ça peut être intéressant de mettre pour les hommes
+
+153
+00:05:54.920 --> 00:05:56.200
+uniquement, je crois que du coup sur
+
+154
+00:05:56.780 --> 00:05:58.360
+on que pour les femmes, c'est intéressant.
+
+155
+00:05:58.500 --> 00:06:01.160
+Ça vous permet déjà de filtrer les mots clés et de ne pas
+
+156
+00:06:01.160 --> 00:06:03.680
+cibler vers les hommes target âge group.
+
+157
+00:06:03.680 --> 00:06:05.520
+Donc si vous vous vendez pour des enfants ou des bébés,
+
+158
+00:06:05.520 --> 00:06:06.920
+ça peut être très intéressant d'activer ça.
+
+159
+00:06:07.460 --> 00:06:09.120
+Si vous vendez sur des couleurs, oui,
+
+160
+00:06:09.140 --> 00:06:10.560
+on vend des couleurs, on vend des vêtements.
+
+161
+00:06:10.560 --> 00:06:12.360
+Donc on va utiliser attribue couleur.
+
+162
+00:06:12.430 --> 00:06:14.280
+Donc, si vous avez bien fait du rajoute de produits
+
+163
+00:06:14.480 --> 00:06:15.640
+correctement, normalement,
+
+164
+00:06:15.640 --> 00:06:17.720
+vous avez un attribut qui est clean et qui
+
+165
+00:06:17.820 --> 00:06:19.000
+va pousser que les couleurs.
+
+166
+00:06:19.000 --> 00:06:21.000
+Donc que je vous invite à faire donc rouge, bleu,
+
+167
+00:06:21.030 --> 00:06:22.080
+vert, violet, etc.
+
+168
+00:06:22.380 --> 00:06:26.320
+Et pas des types comme on peut voir sur l'expres couleur un
+
+169
+00:06:26.320 --> 00:06:28.040
+couleur deux ou couleur.
+
+170
+00:06:28.540 --> 00:06:30.080
+Je ne sais pas quoi ça hésite.
+
+171
+00:06:30.190 --> 00:06:32.280
+Donc on va mettre bien entendu la ça hésite,
+
+172
+00:06:33.690 --> 00:06:37.240
+même si ces détails chinois avoue de travailler avec vos
+
+173
+00:06:37.240 --> 00:06:39.240
+fournisseurs sur les vêtements, comme on l'a vu,
+
+174
+00:06:39.240 --> 00:06:41.440
+on sait que c'est une niche assez sensible pour
+
+175
+00:06:41.500 --> 00:06:42.600
+les problèmes de taille.
+
+176
+00:06:42.990 --> 00:06:45.520
+Donc, faites en sorte d'avoir un guide détail qui
+
+177
+00:06:45.520 --> 00:06:46.760
+correspond vraiment à ce que vous vendez.
+
+178
+00:06:46.790 --> 00:06:48.800
+Tout le reste. On ne va pas forcément toucher matériaux.
+
+179
+00:06:48.800 --> 00:06:50.840
+Ça peut être intéressant si vous vendez.
+
+180
+00:06:50.840 --> 00:06:52.480
+Voilà des objet décorations.
+
+181
+00:06:52.510 --> 00:06:54.600
+Donc, par exemple, vous avez créé un attribut bois,
+
+182
+00:06:54.830 --> 00:06:57.600
+donc justement un attribut matière ou à la limite même pour
+
+183
+00:06:57.600 --> 00:06:59.760
+les vêtements, si vous vendez différents types de vêtements
+
+184
+00:06:59.760 --> 00:07:00.760
+avec des matières différentes,
+
+185
+00:07:00.760 --> 00:07:03.200
+d'ailleurs peut être abba si on le vend produits matière,
+
+186
+00:07:03.460 --> 00:07:05.400
+si vous vendez des trucs avec de la soif,
+
+187
+00:07:05.420 --> 00:07:06.600
+voilà ce type de choses.
+
+188
+00:07:06.600 --> 00:07:09.400
+Ça peut être très intéressant, pas ça peut être
+
+189
+00:07:09.960 --> 00:07:13.120
+intéressant si vous vendez des tapis des car du quart à la,
+
+190
+00:07:13.120 --> 00:07:14.600
+ce genre de choses, ça peut très intéressant.
+
+191
+00:07:15.360 --> 00:07:19.680
+B catégorie, non, on s'en fiche parce que dans tous les cas,
+
+192
+00:07:19.820 --> 00:07:21.000
+si vous faites du bing a,
+
+193
+00:07:21.000 --> 00:07:22.960
+vous pouvez très bien créer avec cette extension,
+
+194
+00:07:22.960 --> 00:07:25.960
+un truc spécifique à bing et du coup, vous allez remplir.
+
+195
+00:07:26.340 --> 00:07:28.840
+Et là on va du coup faire des petites configurations
+
+196
+00:07:28.840 --> 00:07:31.960
+secrètes qu'on va utiliser du coup sur nos googles dans la
+
+197
+00:07:31.960 --> 00:07:34.720
+méthode, mais également pour avoir un meilleur suivi en bas.
+
+198
+00:07:34.720 --> 00:07:36.520
+Ce qu'il faut savoir, c'est que Google catégorie,
+
+199
+00:07:36.860 --> 00:07:39.000
+il n'est pas capable, par défaut de
+
+200
+00:07:39.000 --> 00:07:40.920
+récupérer le product type.
+
+201
+00:07:41.500 --> 00:07:44.040
+Ok, donc sur googles,
+
+202
+00:07:44.040 --> 00:07:45.760
+il utilise ce ce qu'on appelle des labels.
+
+203
+00:07:45.760 --> 00:07:48.680
+Donc vous pouvez utiliser des label
+
+204
+00:07:49.280 --> 00:07:51.160
+jusqu'à cinq labels
+
+205
+00:07:52.080 --> 00:07:54.250
+pour faire des filtres différents sur Google.
+
+206
+00:07:54.680 --> 00:07:56.210
+Donc nous, ce qu'on fait toujours,
+
+207
+00:07:56.700 --> 00:07:58.930
+c'est au moins mettre custom label zéro,
+
+208
+00:07:58.930 --> 00:08:02.050
+notre fameux catégorie de produit pour voir en fait tout
+
+209
+00:08:02.050 --> 00:08:04.370
+simplement quelle sont nos catégories qui fonctionnent le
+
+210
+00:08:04.370 --> 00:08:07.570
+mieux et ce d'un coup d'œil avant de regarder les produits
+
+211
+00:08:07.570 --> 00:08:10.530
+et du coût de pouvoir faire des optimisations à la fois ce
+
+212
+00:08:10.880 --> 00:08:12.170
+mais à la fois ce,
+
+213
+00:08:12.350 --> 00:08:15.490
+je vois très peu trop peu de formateurs qui utilisent les
+
+214
+00:08:15.550 --> 00:08:17.690
+labels pour envoyer des choses également.
+
+215
+00:08:17.690 --> 00:08:20.410
+Vous pouvez très bien utiliser en custom label un custom
+
+216
+00:08:20.620 --> 00:08:22.130
+label deux, par exemple,
+
+217
+00:08:22.150 --> 00:08:24.290
+si vous avez des produits avec les matières dont,
+
+218
+00:08:24.290 --> 00:08:27.610
+par exemple, pour regrouper tous vos produits en soi,
+
+219
+00:08:27.610 --> 00:08:29.770
+pour peut être voir que vos produits en soi march.
+
+220
+00:08:29.770 --> 00:08:31.690
+Mais encore une fois, un exemple ou tout simplement,
+
+221
+00:08:31.690 --> 00:08:33.850
+si vous faites du me de France et du me in China,
+
+222
+00:08:33.860 --> 00:08:36.210
+comme nous on fait sur certains shops de pouvoir passer,
+
+223
+00:08:36.590 --> 00:08:38.970
+de pouvoir pousser sur un autre label et de pouvoir
+
+224
+00:08:38.970 --> 00:08:40.650
+différencier vos produits rapidement.
+
+225
+00:08:40.690 --> 00:08:43.970
+L'étiquette du coup me France ou un attribut made France et
+
+226
+00:08:44.050 --> 00:08:47.610
+du coup de d'envoyer l'information si le produit est médi
+
+227
+00:08:47.630 --> 00:08:48.730
+une France ou non à Google,
+
+228
+00:08:49.180 --> 00:08:51.570
+c'est grâce à ces labels qu'on envoie ces données
+
+229
+00:08:51.570 --> 00:08:53.050
+complémentaires également.
+
+230
+00:08:53.230 --> 00:08:55.540
+Moi, ce que je vous invite également à faire faire si vous
+
+231
+00:08:55.540 --> 00:08:58.320
+voulez avoir vraiment une configuration kn,
+
+232
+00:08:58.320 --> 00:09:01.160
+une configuration advance qu'on met en place et que c'est
+
+233
+00:09:01.160 --> 00:09:04.000
+super efficace, vous pouvez créer des attributs,
+
+234
+00:09:04.000 --> 00:09:07.840
+un attribut marge sur vos produits et du coup indiquer
+
+235
+00:09:07.980 --> 00:09:09.160
+des marges différentes.
+
+236
+00:09:09.160 --> 00:09:10.720
+Donc un ratio de marge, par exemple,
+
+237
+00:09:11.060 --> 00:09:13.400
+si vous avez un multiplicateur de trois,
+
+238
+00:09:13.920 --> 00:09:16.440
+vous mettez un marge de trois et vous allez utiliser un
+
+239
+00:09:16.440 --> 00:09:18.520
+custom label pour envoyer les marges.
+
+240
+00:09:18.540 --> 00:09:22.160
+Ça va vous permettre de mettre des héros cibles et des
+
+241
+00:09:22.310 --> 00:09:25.160
+calculs de différents par Google.
+
+242
+00:09:25.620 --> 00:09:26.640
+Et encore une fois, ça,
+
+243
+00:09:26.640 --> 00:09:28.360
+je ne vois jamais ça même sur des formateurs
+
+244
+00:09:28.360 --> 00:09:29.600
+Google, ça me choque.
+
+245
+00:09:29.890 --> 00:09:32.520
+C'est ce qui nous permet de surper performer nos
+
+246
+00:09:32.520 --> 00:09:35.040
+concurrents, tout simplement de pouvoir mettre des budgets
+
+247
+00:09:35.040 --> 00:09:37.760
+différents en automatique en calculant,
+
+248
+00:09:37.900 --> 00:09:39.400
+en mettant les marches sur nos projets.
+
+249
+00:09:39.820 --> 00:09:41.800
+Ok, donc ça en groupe, pour vous expliquer,
+
+250
+00:09:41.800 --> 00:09:42.920
+vous y créer un attribut,
+
+251
+00:09:43.100 --> 00:09:47.040
+que ce soit sur Shopify ou que ce soit sur vous, commerce.
+
+252
+00:09:47.310 --> 00:09:49.560
+Nous d'ailleurs, on ne va pas utiliser un attribut.
+
+253
+00:09:49.560 --> 00:09:51.280
+On va carrément utiliser à ce qu'on appelle un champ
+
+254
+00:09:51.280 --> 00:09:53.160
+personnalisé sur sur vos commerces.
+
+255
+00:09:53.290 --> 00:09:55.200
+C'est l' champ que je vous ai montré dans le mode du trois.
+
+256
+00:09:55.300 --> 00:09:57.680
+On va créer un attribut image. On va faire un ses lecteurs.
+
+257
+00:09:57.680 --> 00:10:00.760
+On va dire, tiens se produit à une marge entre un et deux,
+
+258
+00:10:00.760 --> 00:10:02.960
+celui là entre un produit entre deux et cinq,
+
+259
+00:10:03.390 --> 00:10:06.560
+deux et deux 25, celui là entre deux 25 et trois,
+
+260
+00:10:06.560 --> 00:10:08.280
+35 et quatre, etc, etc.
+
+261
+00:10:08.580 --> 00:10:11.520
+Et ça va vous permettre à notre médias bailleur directement
+
+262
+00:10:11.660 --> 00:10:15.160
+de pouvoir diviser les campagnes et de mettre des héros
+
+263
+00:10:15.370 --> 00:10:17.280
+cible des objectifs différents de
+
+264
+00:10:17.280 --> 00:10:18.920
+conversion sur ces campagnes.
+
+265
+00:10:19.100 --> 00:10:20.520
+Ça, c'est ce qui va vous permettre,
+
+266
+00:10:20.580 --> 00:10:22.200
+sur long terme de battre vos concurrents.
+
+267
+00:10:22.260 --> 00:10:24.440
+Et ça, on va utiliser les custom label.
+
+268
+00:10:24.590 --> 00:10:26.480
+Donc si vous n'utilisez pas les custom label,
+
+269
+00:10:26.480 --> 00:10:29.040
+donc custom label zéro met des catégorie des produits dans
+
+270
+00:10:29.040 --> 00:10:30.280
+l'idéal custom label un,
+
+271
+00:10:30.280 --> 00:10:32.160
+c'est plus pour vos types de produits dont on n a pas.
+
+272
+00:10:32.190 --> 00:10:34.200
+Mais si vous faites du me France, ce serait du mail France.
+
+273
+00:10:34.420 --> 00:10:35.600
+Et en cum, label deux,
+
+274
+00:10:35.630 --> 00:10:37.080
+vous faites vos systèmes de marge
+
+275
+00:10:37.080 --> 00:10:38.160
+que je viens de vous expliquer.
+
+276
+00:10:38.310 --> 00:10:39.720
+Ensuite, dans aux heures,
+
+277
+00:10:40.020 --> 00:10:43.720
+on va bien entendu envoyer scène it, un groupe i Google feed
+
+278
+00:10:43.860 --> 00:10:45.000
+for variable product.
+
+279
+00:10:45.460 --> 00:10:48.800
+Et on va aussi cocher sur bêta et inclu exp expander de
+
+280
+00:10:48.840 --> 00:10:50.040
+schéma market product page.
+
+281
+00:10:50.290 --> 00:10:51.320
+C'est pour les variations,
+
+282
+00:10:51.550 --> 00:10:54.760
+pour avoir un meilleur cage de variations, le seul problème.
+
+283
+00:10:55.060 --> 00:10:57.440
+Et c'est ça que j n'aime pas trop parce que ça va
+
+284
+00:10:57.520 --> 00:10:58.640
+alourdir vos pages web.
+
+285
+00:10:58.640 --> 00:11:00.120
+Ça va alourdir le temps de chargement.
+
+286
+00:11:00.150 --> 00:11:03.000
+Donc qu'il faudra vraiment veiller si vous activez cette
+
+287
+00:11:03.000 --> 00:11:06.840
+option bêta de veiller à la vitesse de vos pages parce que
+
+288
+00:11:06.850 --> 00:11:08.240
+c'est en gros, qu'est ce que ça fait?
+
+289
+00:11:08.460 --> 00:11:11.960
+Ça va vous permettre à Google d'indiquer tous les tarifs de
+
+290
+00:11:11.960 --> 00:11:14.920
+vos variations de correct et qui vous disent pas simplement
+
+291
+00:11:15.380 --> 00:11:17.520
+excuse produit parce que j'ai vu des prix différents.
+
+292
+00:11:17.540 --> 00:11:19.440
+Ce qui veut savoir, c'est que Google n'aime pas trop les
+
+293
+00:11:19.440 --> 00:11:22.120
+variations quand il fait de l'explorateur de pages parce
+
+294
+00:11:22.130 --> 00:11:23.880
+qu'il a du mal à comprendre quels sont les prix.
+
+295
+00:11:23.940 --> 00:11:26.480
+Le fait d'activer ce schéma va permettre de
+
+296
+00:11:26.480 --> 00:11:27.920
+corriger toutes ces problématiques.
+
+297
+00:11:28.060 --> 00:11:30.720
+Par contre, ça alourdit à la fois vos pages, nous chez nous,
+
+298
+00:11:30.720 --> 00:11:33.160
+si on a beaucoup de variations, on va activer cette option.
+
+299
+00:11:33.380 --> 00:11:35.880
+Si votre site n'a pas beaucoup de variations, je vous invite
+
+300
+00:11:36.460 --> 00:11:38.280
+à le désactiver parce que c'est vrai que ça
+
+301
+00:11:38.280 --> 00:11:39.440
+ralentit un peu les pages.
+
+302
+00:11:39.550 --> 00:11:41.520
+Mais encore une fois, c'est du détail, mais comme on dit,
+
+303
+00:11:41.740 --> 00:11:44.120
+les ruisseaux font les grandes rivières, les performances,
+
+304
+00:11:44.120 --> 00:11:45.360
+ça compte aussi sur le taux de conversion.
+
+305
+00:11:45.500 --> 00:11:47.920
+Voilà, voici pour la configuration kraken.
+
+306
+00:11:47.920 --> 00:11:50.960
+Il nous reste plus qu'à récupérer le fameux lien et le
+
+307
+00:11:50.960 --> 00:11:52.960
+maître du coup dans l'endroit que je vous ai montré dans
+
+308
+00:11:52.960 --> 00:11:54.240
+dans la vidéo précédente.
+
+309
+00:11:54.240 --> 00:11:56.000
+Attention avant de le mettre,
+
+310
+00:11:56.140 --> 00:11:58.320
+on va passer à la vidéo suivante
+
+311
+00:11:58.910 --> 00:12:02.360
+pour valider ensemble les points à vérifier avant d'en
+
+312
+00:12:02.360 --> 00:12:03.480
+leurer votre Google shopping,
+
+313
+00:12:03.910 --> 00:12:05.840
+pour éviter de vous faire un panier du premier coup.
+
+314
+00:12:06.180 --> 00:12:08.600
+On se retrouve du coup tout de suite sur la vidéo suivante
+
+315
+00:12:08.950 --> 00:12:10.480
+pour la validation Google.

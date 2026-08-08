@@ -1,0 +1,404 @@
+<!DOCTYPE html> <html> <head> <meta http-equiv="Content-Type" content="text/html;
+charset=utf-8" /> <!--[if !mso]><!--> <meta http-equiv="X-UA-Compatible" content="IE=edge"
+/> <!--<![endif]--> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no"> <title>Chakras Shop</title> <!--[if
+(gte mso 9)|(IE)]> <style type="text/css"> table, table td {border-collapse:collapse;} table {
+border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } </style> <![endif]-->
+<style> #outlook a { padding: 0 } body { width: 100% !important; -webkit-text-size-adjust:
+100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0 } .ExternalClass { width: 100% }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td,
+.ExternalClass div { line-height: 100% } img { -ms-interpolation-mode: bicubic } @media
+screen and (-webkit-min-device-pixel-ratio:0) {} @-moz-document url-prefix() {} </style>
+</head> <body
+style="margin:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;min-width:100
+%;background-color:#f0f0f0"> <table cellpadding="0" cellspacing="0"
+style="width:100%;background-color:#f0f0f0"> <tr> <td style="padding: 12px 0px;text-align:
+center;line-height:16px;color: #999999;font-family:Helvetica,sans-serif;font-size:10px;"> Si
+vous ne parvenez pas &agrave; lire cet e-mail, <a href="{{ mirror }}"
+style="color:#999999;text-decoration: underline;">cliquez-ici</a> </td> </tr> <tr> <td
+style="text-align:center;background-color:#f0f0f0"> <!--[if (gte mso 9)|(IE)]> <table
+width="640" align="center" cellpadding="0" cellspacing="0" border="0"> <tr><td> <![endif]-->
+<table cellpadding="0" cellspacing="0" align="center" style="background-color:#ffffff;margin:0
+auto;width:100%;max-width:640px"> <tr> <td> <table cellpadding="0" cellspacing="0"
+style="width:100%"> <tr> <td style="padding:20px 0" align="center"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo" style="color:#000000;text-decoration:none"><img align="center" width="250"
+height="42"
+style="display:block;border-width:0;font-family:Helvetica,Helvetica,sans-serif;font-size:25px;c
+olor:#000000;background-color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/logo-chakras.jpg" alt="Chakras Shop"
+border="0" /></a> </td> </tr> </table> </td> </tr> <tr> <td
+style="text-align:center;font-size:0;border-top:1px solid #f1f1f1;border-bottom:1px solid
+#f1f1f1;"> <!--[if (gte mso 9)|(IE)]> <table border="0" cellpadding="0" cellspacing="0"
+style="width:100%;"> <tr><td style="width:50%;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:320px;vertical-align:top;"> <tr> <td
+style="text-align:center;width:1%;padding:15px
+10px;font-family:Helvetica,sans-serif;color:#000000;font-size:13px;font-weight:bold;"> <a
+href="https://www.chakras-shop.com/categorie/bijoux-boheme/?utm_source=email&utm_me
+dium=prm2&utm_campaign=autopromo" style="color:#000000;text-decoration:none">NOS
+BIJOUX</a> </td> <td style="text-align:center;width:1%;padding:15px
+10px;font-family:Helvetica,sans-serif;color:#333333;font-size:13px;font-weight:bold;"> <a
+href="https://www.chakras-shop.com/categorie/maison-decorations/?utm_source=email&utm
+_medium=prm2&utm_campaign=autopromo"
+style="color:#000000;text-decoration:none">MAISON & D&Eacute;COS</a> </td> </tr>
+</table> <!--[if (gte mso 9)|(IE)]> </td><td style="width:50%;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:320px;vertical-align:top"> <tr> <td
+style="text-align:center;width:1%;padding:15px
+
+
+--- PAGE ---
+
+10px;font-family:Helvetica,sans-serif;color:#333333;font-size:13px;font-weight:bold;"> <a
+href="https://www.chakras-shop.com/categorie/yoga-meditation-bien-etre/?utm_source=emai
+l&utm_medium=prm2&utm_campaign=autopromo"
+style="color:#000000;text-decoration:none">YOGA / BIEN &Ecirc;TRE</a> </td> <td
+style="text-align:center;width:1%;padding:15px
+10px;font-family:Helvetica,sans-serif;color:#333333;font-size:13px;font-weight:bold;"> <a
+href="https://www.chakras-shop.com/contact/?utm_source=email&utm_medium=prm2&utm_
+campaign=autopromo" style="color:#40ae9e;text-decoration:none">NOUS
+CONTACTER</a> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]-->
+</td> </tr> <tr> <td style="text-align:center"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo"
+style="text-decoration:none;color:#000000;font-family:sans-serif;font-size:16px"> <img
+width="640"
+style="display:block;border-width:0;width:100%;max-width:640px;max-height:457px;backgro
+und-color:#f7fafa;font-family:sans-serif;font-size:16px;color:#000000;font-weight:bold"
+src="https://www.chakras-shop.com/wp-content/emails/campagnes/1/soldes.jpg"
+alt="Soldes"> </a> </td> </tr> <tr> <td align="center"
+style="background-color:#f7fafa;font-family:sans-serif;font-weight:bold;font-size:22px;line-hei
+ght:22px;color:#0a0a0a;text-align:center;padding:30px 10px 20px"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo" style="color:#0a0a0a;text-decoration:none">Plus que quelques jours !</a>
+</td> </tr> <tr> <td align="center"
+style="background-color:#f7fafa;font-family:sans-serif;font-size:15px;color:#999999;line-heig
+ht: 26px;text-align:center;padding:0 10px;"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo" style="color:#999999;text-decoration:none">Les soldes se terminent le 13
+août chez Chakras Shop. Profitez de 15% de réduction supplémentaires avec le code
+<strong>SOLDES15</strong>. Valable sur l'ensemble du site. </a> </td> </tr> <tr> <td
+align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="0"
+style="background-color:#f7fafa;text-align:center;padding: 20px 0px 30px;"> <tr> <td
+align="center"> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td align="center"
+style="font-weight:bold;border-radius: 3px;text-align:center;" bgcolor="#40ae9e"> <a
+href="https://www.chakras-shop.com/categorie/bijoux-boheme/?utm_source=email&utm_me
+dium=prm2&utm_campaign=autopromo" target="_blank" style="font-size: 16px; font-family:
+Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; text-decoration:
+none;border-radius: 3px; padding: 12px 18px; border: 1px solid #40ae9e; display:
+inline-block;">JE D&Eacute;COUVRE</a> </td> </tr> </table> </td> </tr> </table> </td> </tr>
+<tr> <td style="text-align:center;font-size:0;padding:20px 8px 0;"> <!--[if (gte mso 9)|(IE)]>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"> <tr><td
+style="width: 208px;" valign="top"><![endif]--> <table cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/coussin-de-massage-shiatsu/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo target=" _blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/campagnes/1/coussin.jpg"
+
+
+--- PAGE ---
+
+alt="Coussin de massage shiatsu" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/coussin-de-massage-shiatsu/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">COUSSIN DE MASSAGE SHIATSU</a> </td>
+</tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/coussin-de-massage-shiatsu/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">115&euro;</del>
+69.90&euro;</a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/coussin-de-massage-shiatsu/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/bracelet-7-chakras-nouvelle-edition/?utm_sourc
+e=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/campagnes/1/bracelet.jpg"
+alt="Bracelet 7 Chakras" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-7-chakras-nouvelle-edition/?utm_sourc
+e=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">BRACELET DES 7 CHAKRAS</a> </td> </tr>
+<tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-7-chakras-nouvelle-edition/?utm_sourc
+e=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">29.90&euro;</del>
+19.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-7-chakras-nouvelle-edition/?utm_sourc
+e=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+
+
+--- PAGE ---
+
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/tapis-dacupression-parterre-de-fleurs/?utm_sou
+rce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"><img
+width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/campagnes/1/tapis.jpg" alt="Tapis
+d'acupression" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/tapis-dacupression-parterre-de-fleurs/?utm_sou
+rce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">TAPIS D'ACUPRESSION</a> </td> </tr> <tr>
+<td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/tapis-dacupression-parterre-de-fleurs/?utm_sou
+rce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">69.90&euro;</del>
+44.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/tapis-dacupression-parterre-de-fleurs/?utm_sou
+rce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]--> </td> </tr> <tr> <td
+style="text-align:center;font-size:0;padding:20px 8px 0;"> <!--[if (gte mso 9)|(IE)]> <table
+border="0" cellpadding="0" cellspacing="0" style="width: 100%;"> <tr><td style="width:
+208px;" valign="top"><![endif]--> <table cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/boucle-doreilles-en-perles-naturelles/?utm_sour
+ce=email&utm_medium=prm2&utm_campaign=autopromo target=" _blank"><img
+width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit1.jpg" alt="Boucles"
+/></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/boucle-doreilles-en-perles-naturelles/?utm_sour
+ce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">BOUCLES D'OREILLES PERLES</a> </td>
+</tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/boucle-doreilles-en-perles-naturelles/?utm_sour
+ce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+
+
+--- PAGE ---
+
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">24.90&euro;</del>
+14.90&euro;</a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/boucle-doreilles-en-perles-naturelles/?utm_sour
+ce=email&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/bracelet-aux-milles-planetes/?utm_source=emai
+l&utm_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit2.jpg" alt="Tapis
+Acupuncture" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-aux-milles-planetes/?utm_source=emai
+l&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">BRACELET MILLES PLANETES</a> </td>
+</tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-aux-milles-planetes/?utm_source=emai
+l&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">39.90&euro;</del>
+24.90&euro;</a>;</a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-aux-milles-planetes/?utm_source=emai
+l&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/bracelet-de-labradorite/?utm_source=email&ut
+m_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit3.jpg" alt="Tapisserie
+Elephant" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-de-labradorite/?utm_source=email&ut
+m_medium=prm2&utm_campaign=autopromo" target="_blank"
+
+
+--- PAGE ---
+
+style="color:#000000;text-decoration:none;">BRACELET DE LABRADORITE</a> </td> </tr>
+<tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-de-jaspe/?utm_source=email&utm_me
+dium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">39.90&euro;</del>
+24.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-de-labradorite/?utm_source=email&ut
+m_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]--> </td> </tr> <tr> <td
+style="text-align:center;font-size:0;padding:0 8px 20px;"> <!--[if (gte mso 9)|(IE)]> <table
+border="0" cellpadding="0" cellspacing="0" style="width: 100%;"> <tr><td style="width:
+208px;" valign="top"><![endif]--> <table cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/bracelet-en-perles-naturelles/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit4.jpg" alt="Bracelet en
+perles" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-en-perles-naturelles/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">BRACELETS EN PERLES NATURELLES</a>
+</td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-en-perles-naturelles/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">29.90&euro;</del>
+19.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-en-perles-naturelles/?utm_source=ema
+il&utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/collier-damazonite-bleue/?utm_source=email&u
+tm_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+
+
+--- PAGE ---
+
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit5.jpg" alt="COLLIER
+AMAZONITE BLEUE" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/collier-damazonite-bleue/?utm_source=email&u
+tm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">COLLIER AMAZONITE BLEUE</a> </td> </tr>
+<tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/collier-damazonite-bleue/?utm_source=email&u
+tm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">39.90&euro;</del>
+24.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/collier-damazonite-bleue//?utm_source=email&
+utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+<!--[if (gte mso 9)|(IE)]> </td><td style="width: 208px;" valign="top"><![endif]--> <table
+cellpadding="0" cellspacing="0"
+style="display:inline-block;width:100%;max-width:208px;vertical-align:top;"> <tr> <td
+align="center" style="width:1%;padding:0"> <a
+href="https://www.chakras-shop.com/produit/bracelet-perles-de-cerisier/?utm_source=email&
+utm_medium=prm2&utm_campaign=autopromo" target="_blank"><img width="192"
+style="max-height:160px;display:block;border-width:0;background-color:#40ae9e;font-family:
+sans-serif;font-size:16px;color:#ffffff;"
+src="https://www.chakras-shop.com/wp-content/emails/prm2/produit6.jpg" alt="LAMPE
+HIMALAYA" /></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#000000;font-size:14px;line-height:14px;text-align:center;w
+idth:1%;padding:15px 10px 5px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-perles-de-cerisier/?utm_source=email&
+utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#000000;text-decoration:none;">BRACELET PERLES DE CERISIER</a> </td>
+</tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#40ae9e;font-size:14px;font-weight:bold;line-height:14px;te
+xt-align:center;width:1%;padding:0 10px 15px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-perles-de-cerisier/?utm_source=email&
+utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#40ae9e;text-decoration:none;"><del style="color:#000">29.90&euro;</del>
+19.90&euro;</a></a> </td> </tr> <tr> <td align="center"
+style="font-family:sans-serif;color:#313131;font-size:12px;font-weight:bold;line-height:12px;te
+xt-align:center;width:1%;padding:0 10px 30px;"> <a
+href="https://www.chakras-shop.com/produit/bracelet-perles-de-cerisier/?utm_source=email&
+utm_medium=prm2&utm_campaign=autopromo" target="_blank"
+style="color:#313131;text-decoration:underline;">COMMANDER</a> </td> </tr> </table>
+
+
+--- PAGE ---
+
+<!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]--> </td> </tr> </td> </tr> <tr> <td
+style="padding:20px;"> <table width="100%" cellspacing="0" cellpadding="0"> <tr> <td
+style="background:#eeeeee" height="1"></td> </tr> </table> </td> </tr> <tr> <td
+style="padding:20px;"> <table cellspacing="0" cellpadding="0" align="center"> <tr> <td
+width="33%" align="center" style="padding:0 15px;"> <a
+href="https://www.facebook.com/chakrashopofficiel/"
+style="text-decoration:none;color:#000000;"><img width="35" height="35"
+style="display:block;border-width:0;background-color:#ffffff;font-family:sans-serif;font-size:16
+px;color:#000000;"
+src="https://www.chakras-shop.com/wp-content/emails/emailinterne/facebook.jpg"
+alt="Facebook" border="0" /></a> </td> <td width="33%" align="center" style="padding:0
+15px;"> <a href="https://www.instagram.com/chakrashopofficiel/"
+style="text-decoration:none;color:#000000;"><img width="35" height="35"
+style="display:block;border-width:0;background-color:#ffffff;font-family:sans-serif;font-size:16
+px;color:#000000;"
+src="https://www.chakras-shop.com/wp-content/emails/emailinterne/instagram.jpg"
+alt="Instagram" border="0" /></a> </td> <td width="33%" align="center" style="padding:0
+15px;"> <a href="https://www.pinterest.fr/chakrasshop/"
+style="text-decoration:none;color:#000000;"><img width="35" height="35"
+style="display:block;border-width:0;background-color:#ffffff;font-family:sans-serif;font-size:16
+px;color:#000000;"
+src="https://www.chakras-shop.com/wp-content/emails/emailinterne/pinterest.jpg"
+alt="Pinterest" border="0" /></a> </td> </tr> </table> </td> </tr> <tr> <td align="center"
+style="text-align:center;line-height:24px;padding:10px 20px 0"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo"
+style="font-family:'Helvetica',sans-serif;font-size:15px;color:#999999;line-height:26px;font-wei
+ght:normal;text-decoration:none"> Nous parcourons les cultures du monde pour trouver des
+produits de qualit&eacute; correspondant &agrave; notre vision du monde. </a> </td> </tr>
+<tr> <td align="center" style="padding:20px 20px 30px;"> <a
+href="https://www.chakras-shop.com/?utm_source=email&utm_medium=prm2&utm_campaig
+n=autopromo"><img width="60" height="60"
+style="border-width:0;font-family:sans-serif;font-size:30px;color:#303030;width:60px;max-hei
+ght: 60px" src="https://www.chakras-shop.com/wp-content/emails/mandala.png"
+alt="Chakras Shop"></a> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]>
+</td></tr></table><![endif]--> </td> </tr> <tr> <td style="line-height:16px;color:
+#999999;font-family:Helvetica,sans-serif;font-size:10px;text-align:center;padding:20px 40px
+30px 40px" align="center"> Si vous ne souhaitez plus recevoir des communications de notre
+part, <a href="{{ unsubscribe }}" style="text-decoration:underline;color:#999999;">cliquez-ici.
+</a> </td> </tr> </table> </body> </html>

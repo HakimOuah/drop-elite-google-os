@@ -1,0 +1,685 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:01.000
+Salut du coup.
+
+2
+00:00:01.000 --> 00:00:03.720
+Dans cette vidéo, nous allons voir comment optimiser votre
+
+3
+00:00:03.840 --> 00:00:06.080
+taux de conversion sur la page commande,
+
+4
+00:00:06.080 --> 00:00:07.440
+appelée également check out.
+
+5
+00:00:07.860 --> 00:00:09.600
+Du coup, on se retrouve sur mon écran.
+
+6
+00:00:09.780 --> 00:00:12.160
+Je vais vous montrer très clairement un site qu'on a,
+
+7
+00:00:12.160 --> 00:00:15.320
+comment est ce qu'on a optimisé du coup la page de commande
+
+8
+00:00:15.320 --> 00:00:17.800
+pour qu'elle soit le plus simple possible pour qu'elle soit
+
+9
+00:00:17.800 --> 00:00:20.800
+la plus optimisée possible pour à la fois augmenter la
+
+10
+00:00:20.800 --> 00:00:23.520
+valeur du panier, mais également augmenter votre t
+
+11
+00:00:23.520 --> 00:00:24.920
+conversion du coup.
+
+12
+00:00:24.920 --> 00:00:26.720
+Comme vous pouvez le voir, nous on met toujours
+
+13
+00:00:26.720 --> 00:00:28.400
+l'adresse email en premier.
+
+14
+00:00:28.510 --> 00:00:30.080
+Donc ça, c'est déjà une erreur.
+
+15
+00:00:30.180 --> 00:00:32.040
+Si vous n'avez pas à l'adresse email en premier,
+
+16
+00:00:32.460 --> 00:00:35.000
+ça peut poser problème parce que tout simplement,
+
+17
+00:00:35.000 --> 00:00:36.360
+vous ne collecter pas l'adresse email.
+
+18
+00:00:36.430 --> 00:00:40.080
+Vous avez tout à fait la possibilité d'envoyer des flots de
+
+19
+00:00:40.080 --> 00:00:42.480
+paniers abandonnés si vous rentrez l' email.
+
+20
+00:00:42.480 --> 00:00:43.760
+Et bien entendu, vous avez l.
+
+21
+00:00:44.020 --> 00:00:46.120
+Si vous mettez tout simplement une case de
+
+22
+00:00:46.120 --> 00:00:48.040
+consentement RGPD, pensez y.
+
+23
+00:00:48.110 --> 00:00:49.680
+Ensuite, bien entendu, ce qu'il faut savoir.
+
+24
+00:00:49.820 --> 00:00:52.640
+En règle générale, plus vous mettez de champ sur votre
+
+25
+00:00:52.640 --> 00:00:56.120
+formulaire, plus celui ci va baisser en taux de conversion.
+
+26
+00:00:56.180 --> 00:01:01.040
+On dit en règle générale que un champ égale sept de
+
+27
+00:01:01.040 --> 00:01:02.200
+moins de conversion.
+
+28
+00:01:02.360 --> 00:01:06.000
+Alors pas sept de moins global sept de moins sur le taux que
+
+29
+00:01:06.000 --> 00:01:08.040
+vous avez déjà de la page commande à bien entendu,
+
+30
+00:01:08.100 --> 00:01:10.720
+il faut prendre des chiffres dans leur contexte également.
+
+31
+00:01:10.720 --> 00:01:12.200
+Ce que vous pouvez mettre en place
+
+32
+00:01:12.200 --> 00:01:13.320
+est ce qu'on appelle un profil.
+
+33
+00:01:13.320 --> 00:01:14.880
+Comme vous pouvez le voir ici,
+
+34
+00:01:15.030 --> 00:01:17.600
+nous on a directement un petit
+
+35
+00:01:18.190 --> 00:01:20.600
+tuis qui est connecté tout simplement à l' pays de Google
+
+36
+00:01:20.740 --> 00:01:24.280
+map qui va vous permettre de pré remplir l'adresse.
+
+37
+00:01:24.280 --> 00:01:25.640
+Donc 28 rue.
+
+38
+00:01:25.640 --> 00:01:26.560
+Donc je vais mettre tout simplement
+
+39
+00:01:26.560 --> 00:01:27.920
+l'adresse de nos bureaux.
+
+40
+00:01:29.100 --> 00:01:32.320
+Voilà. Et hop, on va être automatiquement rempli moi ça c,
+
+41
+00:01:32.410 --> 00:01:34.320
+c'est forcément, c'est le navigateur qui m'a rempli.
+
+42
+00:01:34.350 --> 00:01:36.200
+Mais pour l'adresse également,
+
+43
+00:01:36.200 --> 00:01:37.960
+vous avez la possibilité de pré remplir.
+
+44
+00:01:38.340 --> 00:01:40.560
+Encore une fois, moi, ce que je vous invite à faire,
+
+45
+00:01:40.560 --> 00:01:42.880
+c'est toujours rajouter des ordre bump,
+
+46
+00:01:43.140 --> 00:01:44.760
+des ordre bu après la carte.
+
+47
+00:01:44.760 --> 00:01:46.760
+Bien entendu, si vous voulez les placez avant,
+
+48
+00:01:46.760 --> 00:01:48.520
+encore une fois, ça peut faire baisser du
+
+49
+00:01:48.520 --> 00:01:49.680
+coup le taux de conversion.
+
+50
+00:01:50.310 --> 00:01:51.640
+Nous, d'après nos tests,
+
+51
+00:01:51.640 --> 00:01:54.240
+deux ordre bum sont généralement ce qui convertit le mieux
+
+52
+00:01:55.180 --> 00:01:56.760
+après ça va dépendre des niches.
+
+53
+00:01:56.760 --> 00:01:58.920
+J'ai vu certaines niches avec trois heures de bum qui
+
+54
+00:01:59.080 --> 00:02:00.200
+fonctionnaient aussi plutôt pas mal.
+
+55
+00:02:00.270 --> 00:02:03.720
+Donc ça, il faut absolument le mettre en place également.
+
+56
+00:02:03.740 --> 00:02:05.160
+Il faut bien entendu que en mobile,
+
+57
+00:02:05.540 --> 00:02:06.720
+ça soit le plus simple possible.
+
+58
+00:02:06.720 --> 00:02:08.080
+Quand vous pouvez le voir ou on cache
+
+59
+00:02:08.740 --> 00:02:12.600
+le résumé de commande tout simplement pour avoir,
+
+60
+00:02:12.820 --> 00:02:14.880
+encore une fois le formulaire le plus court possible.
+
+61
+00:02:15.260 --> 00:02:17.560
+Si vous êtes sur Shopify, le gros problème de Shopify,
+
+62
+00:02:17.560 --> 00:02:19.440
+c'est d'avoir des check out en plusieurs étapes.
+
+63
+00:02:19.620 --> 00:02:21.840
+Je vous invite à utiliser justement.
+
+64
+00:02:22.000 --> 00:02:23.880
+Alors il y a des extensions comme t che out.
+
+65
+00:02:23.940 --> 00:02:26.160
+Si je ne dis pas de bêtises qui vous permettent de faire ce
+
+66
+00:02:26.160 --> 00:02:27.240
+qu'on est en train de faire aujourd'hui,
+
+67
+00:02:27.420 --> 00:02:28.840
+si vous êtes sur vos commerce, c'est simple.
+
+68
+00:02:28.860 --> 00:02:31.480
+On vous fournit tout le template qu'on utilise.
+
+69
+00:02:31.480 --> 00:02:33.760
+Ça sera plus qu'à télécharger et à mettre en ligne
+
+70
+00:02:33.900 --> 00:02:34.960
+sur ce fameux template.
+
+71
+00:02:35.110 --> 00:02:38.440
+Pour que vous ayez un exemple concret copié collé
+
+72
+00:02:38.440 --> 00:02:39.920
+directement sur votre check out.
+
+73
+00:02:39.980 --> 00:02:41.880
+On a fait vraiment beaucoup de tests aujourd'hui.
+
+74
+00:02:41.880 --> 00:02:43.240
+C'est le check out le plus optimisé,
+
+75
+00:02:43.470 --> 00:02:46.600
+mais ce n'est pas tout à la fin du coup de cette étape,
+
+76
+00:02:46.860 --> 00:02:50.400
+on a bien entendu, donc je vous montrerai le logiciel.
+
+77
+00:02:50.400 --> 00:02:51.800
+Bien sûr. C'est donc du coup au fini
+
+78
+00:02:51.800 --> 00:02:53.040
+qu'on utilise un sur Shopify.
+
+79
+00:02:53.040 --> 00:02:55.880
+Il y en a plusieurs dont chaotic et vous avez la possibilité
+
+80
+00:02:55.880 --> 00:02:57.760
+du coup de mettre en place ce qu'on appelle
+
+81
+00:02:57.760 --> 00:02:58.920
+les obsc, les obsède.
+
+82
+00:02:59.000 --> 00:03:01.280
+C'est ce qui va tout simplement se mettre
+
+83
+00:03:02.780 --> 00:03:05.760
+à la suite du coup de la commande pour pouvoir faire un
+
+84
+00:03:05.760 --> 00:03:07.720
+clic, un nouveau paiement sans que la personne
+
+85
+00:03:08.340 --> 00:03:09.760
+rentre ces données bancaires.
+
+86
+00:03:09.760 --> 00:03:11.000
+Donc là, je vous montre un exemple.
+
+87
+00:03:11.140 --> 00:03:13.920
+Encore une fois, ce temps, on va le mettre à disposition.
+
+88
+00:03:14.290 --> 00:03:15.520
+N'hésitez pas du coup.
+
+89
+00:03:15.520 --> 00:03:18.800
+Voilà à faire une offre et à bien indiqué que la commande a
+
+90
+00:03:18.800 --> 00:03:19.880
+bien été enregistrée et validée.
+
+91
+00:03:19.880 --> 00:03:20.880
+Parce que si vous mettez pas ça,
+
+92
+00:03:20.880 --> 00:03:22.360
+vous allez avoir des problématiques de la savez.
+
+93
+00:03:22.500 --> 00:03:24.160
+Et puis bien entendu, mettez en valeur
+
+94
+00:03:24.900 --> 00:03:26.920
+le bouton huit pour augmenter le nombre
+
+95
+00:03:26.920 --> 00:03:28.640
+d'acceptations attention.
+
+96
+00:03:28.640 --> 00:03:30.640
+Cependant, si vous utilisez les obscène,
+
+97
+00:03:31.060 --> 00:03:33.480
+si vous utilisez les obsc toutes les et ça,
+
+98
+00:03:33.480 --> 00:03:35.160
+c'est valable également pour Shopify.
+
+99
+00:03:35.830 --> 00:03:38.400
+Tous vos pixels peuvent non, pas sauter,
+
+100
+00:03:38.670 --> 00:03:42.360
+mais si les personnes quittent lce sans aller sur la page de
+
+101
+00:03:42.360 --> 00:03:43.520
+remerciements, eh bien,
+
+102
+00:03:43.540 --> 00:03:46.240
+ils ne vont pas avoir le tag qui remonte et vous allez du
+
+103
+00:03:46.240 --> 00:03:49.640
+quoi avoir une déperdition dans vos statistiques du coup,
+
+104
+00:03:49.640 --> 00:03:51.960
+pour éviter ça, il faut bien paramétré,
+
+105
+00:03:52.020 --> 00:03:54.200
+penser à bien paramétré du coup l'outil.
+
+106
+00:03:54.280 --> 00:03:55.560
+Donc, encore une fois,
+
+107
+00:03:55.560 --> 00:03:57.360
+je vais vous montrer ou ça se passe sur
+
+108
+00:03:57.510 --> 00:03:58.640
+l'outil que j'utilise.
+
+109
+00:03:59.590 --> 00:04:01.520
+Donc normalement, c'est dans les settings.
+
+110
+00:04:01.680 --> 00:04:02.960
+Alors encore une fois, je vais vous montrer,
+
+111
+00:04:04.130 --> 00:04:06.000
+c'est dans les settings globaux hop.
+
+112
+00:04:06.580 --> 00:04:08.560
+Voilà, il y a le Facebook pixel.
+
+113
+00:04:08.560 --> 00:04:10.480
+Vous pouvez mettre également l'intégration en
+
+114
+00:04:10.600 --> 00:04:11.640
+laquelle vous pouvez suivre les étapes.
+
+115
+00:04:11.640 --> 00:04:12.920
+Je vous mettrai les liens des
+
+116
+00:04:13.120 --> 00:04:14.840
+documentations Google analytique.
+
+117
+00:04:14.840 --> 00:04:16.760
+C'est pareil, Google, c'est pareil simplement,
+
+118
+00:04:16.940 --> 00:04:19.720
+il faut penser que si vous mettez un obc se,
+
+119
+00:04:20.020 --> 00:04:23.680
+il va falloir rajouter du code spécifique pour enlever le
+
+120
+00:04:23.860 --> 00:04:26.160
+tag de la page de remerciement.
+
+121
+00:04:26.480 --> 00:04:30.040
+Pourquoi? Parce que si vous rajoutez ici vos pixels,
+
+122
+00:04:30.180 --> 00:04:32.120
+eh bien, vous enregistrez deux fois.
+
+123
+00:04:32.120 --> 00:04:33.800
+Et du coup aussi, vous allez avoir un problème de
+
+124
+00:04:33.800 --> 00:04:35.360
+conversion, juste ce ce qu'il faut retenir.
+
+125
+00:04:35.360 --> 00:04:36.480
+Encore une fois, je n'ai pas envie de vous
+
+126
+00:04:36.480 --> 00:04:38.120
+embrouiller d'un point de vue technique.
+
+127
+00:04:38.210 --> 00:04:40.160
+C'est juste que si vous utilisez des ob Excel,
+
+128
+00:04:40.390 --> 00:04:43.800
+veillez bien à avoir un suivi de conversion qui fonctionne
+
+129
+00:04:43.800 --> 00:04:45.840
+correctement, surtout si vous utilisez les
+
+130
+00:04:45.840 --> 00:04:46.920
+modules officiels de Facebook.
+
+131
+00:04:46.940 --> 00:04:48.560
+Si vous utilisez les modules officiels de
+
+132
+00:04:49.380 --> 00:04:53.080
+il faut bien penser à remettre en place les statistiques
+
+133
+00:04:53.110 --> 00:04:55.400
+pour ne pas tout casser au niveau des aes.
+
+134
+00:04:55.420 --> 00:04:57.960
+Voilà, voilà à quoi ça ressemble d'un
+
+135
+00:04:57.960 --> 00:04:59.040
+point de vue du côté technique.
+
+136
+00:04:59.040 --> 00:05:01.320
+Dans tous les cas, on vous met sur le module.
+
+137
+00:05:01.570 --> 00:05:03.200
+C'est simple l'extension qu'on utilise.
+
+138
+00:05:03.200 --> 00:05:04.680
+Le check out qu'on a créé en ce qui veut savoir,
+
+139
+00:05:04.680 --> 00:05:06.560
+c'est que ce n'est pas un template qu'on a acheté.
+
+140
+00:05:06.560 --> 00:05:07.920
+On a développé nous mêmes.
+
+141
+00:05:08.110 --> 00:05:10.640
+Donc vous allez bénéficier de ce tempate directement.
+
+142
+00:05:10.900 --> 00:05:12.480
+Si vous êtes sur Shopify et bien entendu,
+
+143
+00:05:12.480 --> 00:05:13.640
+n'hésitez pas à le copier.
+
+144
+00:05:13.690 --> 00:05:16.400
+C'est vraiment pour le coup, je vous le répète souvent,
+
+145
+00:05:17.220 --> 00:05:19.200
+il ne faut pas copier sur tout ce qui est design.
+
+146
+00:05:19.260 --> 00:05:20.400
+Il faut vraiment chercher à être
+
+147
+00:05:20.400 --> 00:05:21.440
+différent de vos concurrents.
+
+148
+00:05:21.590 --> 00:05:23.240
+Mais d'un autre côté, quand vous avez des choses qui
+
+149
+00:05:23.240 --> 00:05:25.920
+marchent, qu'on a testé qu'on est qu'on a éprouvé et il n'y
+
+150
+00:05:25.920 --> 00:05:27.680
+a aucun problème à copier un t che out.
+
+151
+00:05:28.010 --> 00:05:30.360
+C'est encore une fois, pas quelque chose de
+
+152
+00:05:30.560 --> 00:05:31.600
+critique d'un point de vue de votre business.
+
+153
+00:05:31.600 --> 00:05:34.160
+Donc n'hésitez pas à prendre ce t che out qui
+
+154
+00:05:34.190 --> 00:05:35.240
+sera dans le module.
+
+155
+00:05:35.240 --> 00:05:37.080
+Voilà, c'est tout pour faire exposer
+
+156
+00:05:37.080 --> 00:05:38.280
+votre t de conversion dans tous les cas.
+
+157
+00:05:38.280 --> 00:05:39.360
+Encore une fois là, on ne fait pas
+
+158
+00:05:39.360 --> 00:05:40.440
+l'implémentation technique.
+
+159
+00:05:40.740 --> 00:05:44.280
+Si vous voulez qu'on voit ça ensemble, on a un live complet.
+
+160
+00:05:44.970 --> 00:05:47.960
+N'hésitez pas à nous demander qu'on voit ensemble avec vous
+
+161
+00:05:47.960 --> 00:05:50.280
+comment est ce qu'on insère et comment est ce qu'on fait
+
+162
+00:05:50.540 --> 00:05:51.600
+un obscène directement.
+
+163
+00:05:51.750 --> 00:05:53.520
+Dans tous les cas, nous, au sein de l'agence,
+
+164
+00:05:53.620 --> 00:05:56.840
+on a des documentations complètes sur comment créer des obs
+
+165
+00:05:57.140 --> 00:05:58.560
+Sur comment créer des odeurs bu
+
+166
+00:05:59.070 --> 00:06:00.600
+avec des documentations claires.
+
+167
+00:06:00.980 --> 00:06:02.040
+Si vous nous le demandez,
+
+168
+00:06:02.060 --> 00:06:03.520
+je pourrais vous les mettre à disposition.
+
+169
+00:06:03.520 --> 00:06:04.880
+Bien entendu, gratuitement. Nous,
+
+170
+00:06:04.880 --> 00:06:06.720
+c'est aujourd'hui ce qu'on a pour nos clients au sein de
+
+171
+00:06:06.720 --> 00:06:10.040
+l'agence, sur ceux à la prochaine vidéo, à très vite.

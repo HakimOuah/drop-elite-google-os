@@ -51,7 +51,7 @@ Suivre [`RESTORE.md`](RESTORE.md). Le dépôt privé est la source de vérité p
 
 La transformation du cours vers les portes et les corrections apportées sont détaillées dans [`docs/corpus-to-skill-traceability.md`](docs/corpus-to-skill-traceability.md).
 
-La relecture sémantique des 66 contenus parlés (second lot netlinking, contenu, avis, Facebook, SAV, email marketing et automatisation sociale inclus) est documentée source par source dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md). Les modules, pièces jointes, contradictions et méthodes sensibles sont recensés dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Le statut reste une assimilation du texte, pas une validation audio ni une validation officielle des affirmations.
+Le corpus couvre le **cours Skool complet (29 modules, 229 contenus parlés)** ingéré le 2026-08-08, plus **77 documents** (slides, checklists, briefs, templates) et **89 replays de coaching** archivés à part. L'index source par source est dans [`corpus/derived/coach-source-index.md`](corpus/derived/coach-source-index.md) ; la carte de couverture module par module dans [`docs/inventaire-classroom-skool.md`](docs/inventaire-classroom-skool.md) ; les lacunes et ressources encore manquantes dans [`docs/corpus-gap-audit.md`](docs/corpus-gap-audit.md). Les 163 transcriptions du versement complet sont en statut `INGERE_TEXTE_BRUT` (titre observé + texte disponible, relecture fine à la demande) ; les 66 contenus du premier lot restent relus en détail. Le statut reste une assimilation du texte, pas une validation audio ni officielle.
 
 ## Confidentialité et droits
 

@@ -1,0 +1,265 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  1  —
+RAPPORT DE SESSION
+14 mai 2026 • Durée : 1h57 • Coach : Stéphanie
+Participants : Chiraz, Omar, Aude, Nicolas, Élodie, Duguerre
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hotseat Chiraz — Construction de la carcasse de fiche produit Shopify
+▶ 00:11 Création des metafields : description, bénéfices, blocs image+texte
+▶ 00:26 Liaison des balises dynamiques — l’analogie carcasse vs. passagers
+▶ 00:50 Personnalisation du thème : nuanciers de couleurs Full Stack
+▶ 01:01 Hotseat Omar — Niche bijoux en argent 925 : validée à moitié
+▶ 01:16 Hotseat Omar — Niche tableaux sur toile / print on demand
+▶ 01:28 Hotseat Aude — Revue fiche produit robe + organisation des filtres
+⚔ DÉTAIL DES HOTSEATS
+► Chiraz — Construction de la fiche produit Shopify
+Objectif de la session : construire la carcasse (template) de fiche produit qui s’appliquera à l’ensemble du site.
+La session se décompose en trois étapes : (1) créer les blocs visuels du thème, (2) créer les metafields, (3)
+raccorder les blocs aux metafields via les balises dynamiques.
+Mise en page des blocs : renommage des sections par défaut (« Mode d’emploi » → Description, « Contenu
+du colis » → Caractéristiques), suppression de « Comment ça marche » au profit d’un bloc « Trois avantages »,
+ajout de deux blocs image+texte (un de chaque côté du tableau de comparaison), masquage temporaire des
+avis clients et de « Pourquoi choisir ce produit ».
+Création des metafields (≈ 20 créés en session) : description (texte enrichi), bénéfice 1/2/3 (liste de valeurs,
+texte ligne unique), caractéristiques (texte enrichi), image bloc 1 + titre bloc 1 + texte bloc 1, image avantage +
+avantage 1/2/3, image bloc 2 + titre bloc 2 + texte bloc 2. À créer par Chiraz : FAQ question 1/2/3 et FAQ
+réponse 1/2/3.
+Liaison des balises dynamiques : sur chaque élément du thème, le texte par défaut est effacé puis l’icône «
+pile de pièces » permet d’appeler le metafield correspondant. C’est ce qui rend le contenu unique à chaque
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  2  —
+fiche produit. Principe-clé : ce qui est écrit dans la carcasse s’applique à toutes les fiches ; ce qui est appelé via
+un metafield change pour chaque produit. La FAQ illustre bien la logique : questions communes dans la
+carcasse, réponses uniques via metafields.
+« Là, ce qu’on est en train de remplir, c’est la carrosserie de la voiture. Les passagers que tu vas
+mettre dedans changent à chaque fois. »
+— Coach Kraken
+Personnalisation du thème Full Stack : 8 nuanciers configurables pour l’ensemble du site (pas un par page
+— un par bloc, librement combinables). Un nuancier définit : arrière-plan, bordures, texte, boutons primaires,
+fond alterné. Recommandation du coach : faire générer 5 à 6 nuanciers cohérents par l’IA, puis les appliquer
+manuellement par bloc.
+« C’est maintenant que tu vas choisir à quoi ressemble ton site. Cette étape est amusante et
+fastidieuse à la fois — ne la passe pas trop vite. »
+— Coach Kraken
+► Omar — Niche bijoux en argent 925
+Présentation : Omar a abandonné la piste plantes artificielles pour explorer deux nouvelles niches. Première
+proposition : bijouterie axe exclusivement argent 925 (matière, pas couleur argentée). Sourcing identifié chez
+Silverbene (fournisseur spécialisé en Chine, app de synchronisation Shopify disponible). Marges affichées :
+55-75 %. Frais de livraison inclus dans le prix.
+Élément
+Indicateur
+Commentaire
+Sourcing
+OK
+Silverbene + AliExpress (à vérifier qualité).
+Marges
+55-75 %
+Confortable, valeur perçue élevée.
+Prix vente moyen
+50-100 €
+Compense les CPC élevés.
+Bijou en argent
+Vol. 1 900
+Mot-clé générique faible.
+Architecture
+À enrichir
+Mots-clés racines manquants.
+Verdict global
+Validée à moitié
+Concurrence forte, CPC élevés.
+Avantages identifiés : sourcing déjà fait, expédition très simple (léger, petit, rentre dans une enveloppe),
+packaging facile à personnaliser (pochettes à bijoux, carte de remerciement), pas de problème de taille hors
+bagues (guide de mesure suffit), valeur perçue élevée créable via design et packaging, sourcing quasi illimité en
+termes de modèles.
+Inconvénients : concurrence costaude (gros bijoutiers + acteurs généralistes), nécessité absolue de sécuriser
+la qualité (un produit à 100 € sans qualité = critiques immédiates), CPC élevés qui piquent (mais compensés
+par le panier moyen).
+Travail à finaliser : Omar doit ajouter les mots-clés racines manquants dans son architecture (bague argent,
+collier argent, bracelet argent — sans déclinaison genre), et explorer les mots-clés oubliés en analysant les
+concurrents Google (gourmette argent, chevalière, créoles, etc.).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  3  —
+« Si tu vends vraiment des bijoux en argent avec une valeur perçue, un prix de vente entre 50 et
+100 €, pour moi c’est OK. »
+— Coach Kraken
+► Omar — Niche tableaux sur toile / print on demand
+Présentation : deuxième piste, tableaux déco salon avec ou sans châssis, en print on demand via Printify.
+Omar n’a pas poussé l’analyse aussi loin que pour les bijoux. Le coach souligne le contraste avec la première
+niche : moins de concurrence (barrière à l’entrée), mais logistique complexe.
+Avantages : moins de concurrence car les acteurs se frottent peu à cette niche (compliquée), pas de stock à
+gérer en print on demand, délai Printify de 4-5 jours (vs ≈ 2 mois en AliExpress avec châssis), possibilité de
+sourcer des images libres de droit (Van Gogh, peintres décédés +50 ans, photographies libres de droit).
+Inconvénients : contraintes d’expédition sur tout ce qui dépasse 60 cm, qualité d’impression à contrôler,
+concurrents français qui vendent quasiment au prix de revient Printify.
+Plan de validation : vérifier la capacité du catalogue Printify (limité ou illimité en nombre de modèles), sourcer
+en parallèle sur AliExpress (toile roulée hors châssis = expédition plus facile), calculer le ratio de rentabilité,
+observer Google Trends. Stratégie long terme : une fois le concept validé, basculer sur un agent + imprimeurs
+France.
+« Le nerf de la guerre, ça va être ton fournisseur. Faut que tu arrives à trouver un fournisseur qui
+expédie facilement, avec du volume. »
+— Coach Kraken
+► Aude — Revue fiche produit robes + organisation des filtres
+Fiche produit présentée : « Robe élégante longue fendue jaune pastel ». Photos entièrement retravaillées
+avec l’IA (changement de mannequin par rapport à l’original AliExpress). Validation visuelle : OK, mannequin et
+description cohérents.
+Point
+Action
+Commentaire
+Caractéristiques
+Ajouter le S
+Pluriel manquant.
+Photo 2
+À recadrer
+Tête coupée disgracieusement.
+Retouches IA
+À modeler
+Rester fidèle au modèle AliExpress réel.
+FAQ par produit
+Garder utile
+Saison + accessoirisation = oui ; délai = non.
+Catégories
+Max 10
+Sinon dilution + signal négatif algo.
+Variantes couleur
+Max 5-6
+Au-delà, fatigue cognitive client.
+Sur la FAQ par produit : conserver uniquement si elle répond à de vraies questions client (« Comment
+l’accessoiriser ? », « Pour quelle saison ? », « Comment l’entretenir ? »). À virer : « En combien de temps
+vais-je être livré ? » (générique, redondant avec le bloc livraison).
+Filtres collection — ne pas multiplier : à 4-5 critères maximum (taille, prix, couleur, longueur, style). Au-delà,
+le client perd patience avant d’atteindre le produit. Règle directrice : plus tu as d’options, plus tu as d’erreurs
+possibles — et plus le client se décourage.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  4  —
+App Shopify à demander à Théo : plugin d’affichage de la photo de la variante sélectionnée (par défaut
+Shopify n’affiche que la photo principale, quelle que soit la couleur choisie). Permet d’avoir plusieurs couleurs
+dans une même fiche produit sans incohérence visuelle.
+Disposition des médias : préférer la galerie en grille (gauche du produit) plutôt que le carousel, plus lisible
+sur fiche produit mode. Reste paramétrable au sein du thème.
+« Il vaut mieux un coup de fil de 5 minutes où on débloque un problème plutôt que pendant une
+journée tu pètes un câble parce que tu arrives pas à faire rentrer une balise dynamique. »
+— Coach Kraken
+⚙ PRINCIPES TRANSVERSAUX DE LA SESSION
+Trois enseignements applicables à toutes les boutiques en cours de construction :
+1. La logique carcasse / passagers — Tout ce qui est écrit en dur dans le thème s’applique à toutes les pages
+; tout ce qui passe par un metafield reste unique par produit. Cette distinction conditionne 90 % du travail
+d’intégration. Avant de remplir quoi que ce soit, se demander : ce contenu doit-il être commun ou unique ?
+2. La charge cognitive du client est un KPI — Trop de variantes, trop de filtres, trop de catégories, trop de
+FAQ génériques : autant de raisons pour le client de décrocher. Règle pratique : maximum 10 catégories par
+produit, 5-6 variantes, 4-5 filtres, FAQ pertinente uniquement. Moins, c’est plus.
+3. Le bon réflexe face à un blocage technique — Ne pas s’enliser pendant des jours sur un point bloquant. 5
+minutes de téléphone ou un message WhatsApp résolvent souvent ce qui aurait pris une journée à débattre
+seul. Le coach préfère débloquer en direct plutôt que de retrouver le problème en session.
+« Sur Shopify, il y a toujours un temps de mise à jour. Faites un truc, voyez pas le résultat, pétez
+pas les plombs : attendez parfois quelques minutes à 2 jours. »
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Réfléchir à la structure définitive de la fiche produit (densité, blocs, FAQ ou non) avant la suite.
+⚡ Créer les metafields FAQ manquants : question 1/2/3 et réponse 1/2/3, sur le même modèle.
+⚡ Générer 5-6 nuanciers de couleurs cohérents via l’IA, les appliquer bloc par bloc.
+SECONDAIRE
+○ Remplir entièrement le produit test « bol rouge petit-déj » pour visualiser le rendu réel.
+○ Intégrer les images libres de droit déjà téléchargées dans le squelette.
+○ Appeler le coach en cas de blocage technique — ne pas attendre la prochaine session.
+  ⚓  Omar
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  5  —
+PRIORITAIRE
+⚡ Bijoux argent : trouver les mots-clés racines (bague argent, collier argent) et leurs volumes/CPC.
+⚡ Bijoux argent : explorer les mots-clés oubliés en analysant les concurrents (gourmette, chevalière,
+créoles).
+⚡ Tableaux : sourcer sur AliExpress, calculer le ratio de rentabilité, observer Google Trends.
+SECONDAIRE
+○ Vérifier la capacité du catalogue Silverbene + identifier 200+ produits complémentaires.
+○ Vérifier la capacité du catalogue Printify (illimité ou plafonné en modèles).
+○ Envoyer l’avancement à Stéphanie sur WhatsApp avant la prochaine session.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Réduire les catégories à 10 max par produit (consigne déjà passée par Théo).
+⚡ Demander à Théo l’installation de l’app Shopify d’affichage par variante sélectionnée.
+⚡ Recadrer la photo 2 (tête coupée) ou la remplacer par un autre rendu IA.
+SECONDAIRE
+○ Trancher sur la FAQ par produit : garder si utile (saison, accessoirisation), virer sinon.
+○ Limiter les filtres collection à 4-5 critères pertinents (taille, prix, couleur, longueur, style).
+○ Tester la disposition galerie en grille (recommandée) plutôt que carousel.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Appeler Stéphanie en cas de blocage technique — 5 min de tél > 1 jour de galère.
+SECONDAIRE
+○ Penser à enregistrer après chaque modification Shopify (délai de mise à jour parfois long).
+○ Limiter le nombre de variations et de filtres : la fatigue cognitive du client tue la conversion.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  14/05/2026
+—  6  —
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Marges Silverbene (argent)
+55-75 %
+Confortable malgré CPC élevés.
+Prix vente moyen bijou argent
+50-100 €
+Permet d’absorber les CPC.
+Bijou en argent (volume)
+1 900
+Mot-clé générique faible.
+Délai expédition Printify
+4-5 jours
+Clé du modèle PoD.
+Délai expédition AliExpress (châssis)
+≋ 2 mois
+Rédhibitoire — risque retours.
+Taille seuil expédition tableaux
+60 cm
+Au-delà, contraintes lourdes.
+Nuanciers Full Stack
+8
+Combinables par bloc.
+Metafields créés en session (Chiraz)
+≋ 20
+Description, bénéfices, blocs, FAQ.
+Catégories max par produit
+10
+Au-delà = dilution + signal négatif.
+Variantes couleur max
+5-6
+Au-delà = fatigue cognitive.
+Filtres collection recommandés
+4-5
+Taille, prix, couleur, longueur, style.
+Droits d’auteur images
++50 ans
+Délai post-décès pour libre de droit.
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,0 +1,353 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  1  —
+RAPPORT DE SESSION
+21 mai 2026 • Durée : 1h57 • Coach : Stéphanie
+Participants : Emeric, Nicolas, Chiraz, Charlotte, Aude, Manuel, Daril
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Emeric — Audit du site « Mon Sac de Voyage », lancé le 5 mai,
+déjà à l’équilibre en ads
+▶ 00:04 Structure & filtres — Corriger les H1, filtrer par capacité/volume
+plutôt que par genre
+▶ 00:08 Prix & marges — Le positionnement premium comme parti pris assumé
+▶ 00:20 Stratégie 80/20 — Intégrer des produits vs. suroptimiser les fiches
+qui performent
+▶ 00:25 Écosystème mail / blog / réseaux — Le silo sémantique automatisé sur
+la niche voyage
+▶ 00:44 Google Ads — ROAS cible, rodage de l’algorithme, ne pas surréagir
+▶ 01:03 Agent logistique & offre Google Ads 400 € — ce qu’Emeric a laissé
+passer
+▶ 01:12 Hot seat Chiraz — Le budget global pour lancer une boutique
+▶ 01:22 Recettage Nicolas — Repasser le Merchant Center : la cohérence avant
+tout
+▶ 01:41 Tip Emeric — Réduire le délai de livraison affiché sans mentir
+▶ 01:45 Hot seat Charlotte — Écouler son stock de retours
+⚔ DÉTAIL DES HOTSEATS
+► Emeric — Site « Mon Sac de Voyage » : audit complet & pilotage des ads
+Point de départ. Site lancé le 5 mai, environ 150 produits en ligne, premières ventes déjà réalisées. La niche
+du sac de voyage est evergreen (peu saisonnière) mais très concurrentielle. Verdict du coach : oui, ce site peut
+passer le Q4 et générer du chiffre, à condition de jouer la précision face à des concurrents qui, eux, la travaillent
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  2  —
+déjà.
+Optimisations site. Réduire le texte de la ligne de flottaison des pages catégories à ~50 mots (sur mobile, le
+texte masque les premiers produits). Corriger la page « À propos » qui empile plusieurs H1 : une seule balise
+H1 par page, structure de titres hiérarchisée. Surtout, remplacer le filtre par genre (homme/femme, peu
+pertinent sur des sacs majoritairement mixtes) par des filtres par capacité/volume et par matière — c’est ce qui
+fait monter le site en gamme et attire une clientèle sérieuse.
+Photos & valeur perçue. Garder les visuels du sac porté (le client se projette) et l’intérieur sur les produits
+chers, mais alléger : pas 25 photos par fiche. Sur une variante de couleur principale on détaille (face, dos, côté,
+intérieur), sur les autres une ou deux photos suffisent. Un site à forte valeur perçue justifie un prix plus élevé
+que le voisin.
+« Tes concurrents, eux, travaillent dans la précision. Plus tu montes ton parcours client en gamme,
+plus tu attireras une clientèle sérieuse. »
+— Coach Stéphanie
+Prix & marges. Emeric se positionne un peu plus cher que la concurrence, avec un coefficient dégressif (x3,4 à
+18 € d’achat, jusqu’à x2,6 à 150 €). C’est un parti pris valable : si le taux de clic reste bon, c’est au site d’assurer
+la conversion par sa valeur perçue. Marge confortable → marge de manœuvre pour les promos.
+Croissance 80/20. Plutôt que tout suroptimiser, intégrer des produits (objectif 250 avant le Q4, en réactivant les
+catégories laissées en sommeil : accessoires, animaux, randonnée) pour ouvrir des portes à plus de mots-clés,
+puis suroptimiser uniquement les ~20 % de fiches qui génèrent impressions et clics. Sourcing et rédaction
+accélérés via l’IA.
+Écosystème de contenu. Sur une niche voyage, le blog + les réseaux sociaux + la newsletter forment un silo
+sémantique quasi automatisable : on intègre une grappe de produits (ex. « sac étanche »), on publie un article
+guide, on envoie un mail coup de projecteur et on poste sur les réseaux — tout s’interconnecte et nourrit la
+crédibilité SEO. Mettre en place le flow de mails (panier abandonné, popup de bienvenue non agressive, lead
+magnet type guide de voyage) et un code promo daté (début/fin), jamais un « bienvenue 10 » fixe à l’année.
+Données chiffrées évoquées :
+Indicateur
+Valeur
+Lecture du coach
+Site lancé
+5 mai 2026
+Déjà à l’équilibre en ads
+Produits en ligne
+~150
+Viser 250 avant le Q4
+Ventes / dépense ads
+5 / 500 €
+ROAS ≈ 1, point mort atteint
+Budget ads / jour
+30 €
+Limité par le budget
+CPC max
+0,45 €
+Baissé de 0,55 €
+Conversions avant ROAS
+cible
+15
+Bascule du pilotage
+Google Ads — rodage. Campagne trop jeune pour tirer des conclusions : laisser l’algorithme se calibrer,
+augmenter le budget très progressivement (max ~20 % par palier) et ne surtout pas surréagir. Une fois les 15
+conversions atteintes, basculer du pilotage au CPC vers le ROAS cible. Vérifier la remontée des données (une
+conversion de 52,90 € non comptabilisée a été récupérée via le formulaire d’ID de conversion). Seul geste
+légitime en continu : l’exclusion des mots de marque.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  3  —
+« Des tout petits changements, et tu attends de voir comment ça réagit. Ne surréagis pas : c’est le
+meilleur moyen de péter ce que tu es en train de construire. »
+— Coach Stéphanie
+Admin & logistique. Souscrire une assurance RC professionnelle (obligatoire en société), le médiateur
+juridique est déjà pris. Passer rapidement à un agent (type HAO ou Obordesk) : il prend en charge les litiges de
+livraison, soigne le packaging et glisse une carte de remerciement manuscrite — décisif sur un panier moyen
+élevé. Et débloquer sans attendre l’offre Google Ads (400 € offerts après 400 € dépensés), qu’Emeric a laissée
+filer faute de l’avoir activée à temps.
+► Nicolas — Recettage du nouveau site (peluches) avant Merchant Center
+Après un premier site banné du Merchant Center malgré un recettage collectif, Nicolas présente sa nouvelle
+boutique pour une relecture rapide à plusieurs. Premier point : le site ouvre directement sur une fiche produit,
+sans page d’accueil → créer une vraie homepage simple. Ensuite, suivre le cahier des charges récent de
+Quentin, qui « taille dans le gras » pour repasser l’examen.
+Élément
+Action
+Raison
+Délais de livraison sur fiches
+Masquer
+Source classique d’incohérence GMC
+Bandeau de réassurance
+Masquer
+Recommandation Quentin
+Logos de paiement (Visa…)
+Masquer
+Doivent matcher exactement l’offre réelle
+Avis produits
+Masquer
+Sur toutes les pages
+Collection sans image
+Corriger
+Aucune catégorie vide ou sans visuel
+Page + formulaire de contact
+Garder
+Adresse postale + téléphone dans le footer
+Pages légales / FAQ
+Rendre
+cohérentes
+FAQ = mentions légales = checkout
+La seule vraie exigence : ne pas mentir. Google n’impose ni délai ni type de produit ; il exige une cohérence
+totale. Si la fiche annonce 10 jours ouvrés, ce délai doit être identique partout (FAQ, mentions légales,
+checkout, Merchant Center) ; idem pour le numéro de téléphone ou la matière annoncée. La plupart des
+blocages viennent d’une simple incohérence introduite lors d’une modification non répercutée sur toutes les
+pages.
+« Les exigences sont claires : tu ne mentiras pas. Telle est la seule exigence. Si tu dis que c’est du
+cuir, il faut que ce soit du cuir. »
+— Coach Stéphanie
+Attention au sur-nettoyage : un site totalement vidé paraît suspect lors d’une vérification manuelle. Il faut le juste
+milieu — retirer ce qui peut bloquer, mais conserver les pages légales et un minimum de contenu crédible.
+Conseil concret : passer toutes les pages à la « moulinette » d’Emeric (relecture de cohérence par l’IA en une
+seule conversation). À noter aussi : un Merchant Center peut sauter sur un site ancien si un paiement (ex.
+Stripe suspendu) crée une incohérence, et la saisonnalité rend certains mois plus durs à passer.
+► Chiraz — Le budget global de lancement d’une boutique
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  4  —
+Chiraz demande le coût réel de lancement, hors formation. Voici les postes passés en revue (abonnements +
+enveloppe publicitaire de rodage) :
+Poste
+Coût
+Note
+Klaviyo (emailing)
+~30 €/mois
+Flow de mails
+Prestataire Merchant Center
+44,90 €/mois
+A créé le compte → engagement durable
+Thème Fullstack
+~200 €
+Paiement unique (annuel)
+Hébergement + domaine
+~10 €/an
++ adresse mail pro
+Médiateur juridique
+~50 €/an
+Obligatoire en société
+Claude (intégration / contenu)
+18–100 €/mois
+Selon le volume de travail
+Outils SEO mutualisés
+~5 €
+Accès Semrush
+Canva Pro / n° tél pro
+~12 € / ~1 €
+Optionnels
+Budget ads de rodage
+1 000–1 500 €
+À prévoir avant les 1res ventes
+En rythme de croisière, Emeric estime les abonnements à ~130 €/mois. Point de vigilance du coach sur la pub :
+Emeric est une exception en étant à l’équilibre dès le départ. Le scénario habituel, c’est de dépenser pour faire
+tourner l’algorithme avant de générer des ventes — d’où une enveloppe de rodage à prévoir (~1 500 €).
+► Charlotte — Écouler le stock de retours
+Charlotte accumule des chaussons à la maison (de nombreuses variantes taille/couleur). Le coach passe en
+revue les options, en précisant lesquelles sont réalistes pour une niche à forte combinatoire :
+Revendre sur sa propre boutique (renvoyer un retour au prochain client du même produit) — idéal sur panier
+élevé type Emeric, mais délicat pour Charlotte vu les tailles. Créer une fausse collection déstockage / vente
+flash couplée à une campagne mail (« premier arrivé, premier servi »). Revendre sur Vinted, Leboncoin ou
+Whatnot en marque blanche (produits non brandés, non rattachables à la boutique ; compte pro = revenus à
+déclarer). Céder à un déstockeur ou un commissaire-priseur. Offrir aux micro-influenceurs (avis, témoignages,
+backlinks, shootings). Enfin, le don à une association ouvre un crédit d’impôt de 60 % de la valeur du stock —
+pertinent dès qu’on paie des impôts, et un inventaire chiffré en fin d’année permet de comptabiliser la perte.
+« Pour les autres, il y a mille manières d’écouler son stock. Mais qui va savoir que c’est lui ? Tu le
+revends en marque blanche. »
+— Coach Stéphanie
+Point AliExpress : il reprend les retours au début, mais blackliste après trop de litiges (ouvrir alors un nouveau
+compte). Les agents comme Obordesk ne reprennent généralement pas les retours — une négociation est en
+cours pour le Q4, vu leurs entrepôts en France.
+⚙ PRINCIPES TRANSVERSAUX & MÉTHODE DU COACH
+Pas de masterclass formelle cette semaine, mais plusieurs principes traversent les hotseats et valent pour toute
+la communauté.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  5  —
+Le 80/20 partout. Ne pas chercher la perfection sur 100 % du catalogue : faire des fiches propres, puis
+concentrer la suroptimisation (photos, détails, contenu) sur les ~20 % de produits qui captent réellement
+impressions et clics. Le perfectionnisme est l’ennemi du lancement.
+Patience sur l’algorithme. Une campagne fraîche a besoin de se calibrer. On augmente le budget par petits
+paliers (~20 % max), on attend, on observe la réaction — on ne tripote pas à chaque variation. Avant toute
+modification sensible, demander un avis dans le groupe (Quentin, Enzo).
+Le ROAS cible. Une fois l’historique de conversions suffisant (~15), on passe d’un pilotage au CPC à un
+pilotage par objectif de rentabilité. Chaque mois, on isole les produits qui font des clics mais n’atteignent pas le
+ROAS demandé, on optimise leur fiche, puis on les remet — c’est ainsi que l’algorithme se recalibre.
+« Tu connais ta marge de rentabilité : pour que Google dépense 1 €, il faut qu’il fasse 3 € de chiffre
+d’affaires. C’est ça, le ROAS cible. »
+— Coach Stéphanie
+La cohérence comme seule loi Google. Le Merchant Center ne sanctionne pas un délai long ou un type de
+produit : il sanctionne le mensonge et l’incohérence. Toute information (délai, prix, téléphone, matière) doit être
+strictement identique sur toutes les pages. Le réflexe : copier-coller l’information d’une page à l’autre, et tout
+reporter à chaque changement.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Mettre en place les filtres par capacité/volume et par matière (les variations sont déjà prêtes : ~15
+min).
+⚡ Réactiver les catégories en sommeil et sourcer ~100 produits via l’IA pour viser 250 avant le Q4.
+⚡ Installer le flow de mails : panier abandonné + popup de bienvenue (avant le départ en tournage).
+⚡ Débloquer immédiatement l’offre Google Ads 400 € (prendre rendez-vous avec un conseiller si
+besoin).
+⚡ Laisser tourner les ads : augmenter le budget par petits paliers, ne pas surréagir.
+SECONDAIRE
+○ Refaire un logo épuré (3 initiales) via Claude / ChatGPT, abandonner le logo actuel trop « Canva ».
+○ Corriger la structure des titres de la page « À propos » (un seul H1).
+○ Passer le code promo à un format daté (début / fin), non cumulable.
+○ Souscrire l’assurance RC professionnelle ; préparer le passage à un agent logistique.
+○ Refaire un point ads dans ~10 jours ; partager en privé les pistes de 2e niche.
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Créer l’adresse Gmail et une vraie page d’accueil simple (le site ne doit pas ouvrir sur une fiche
+produit).
+⚡ Masquer sur les fiches : délais de livraison, bandeau de réassurance, logos de paiement, avis
+produits.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  6  —
+⚡ Assurer la cohérence totale des délais / prix / téléphone partout (FAQ = mentions légales =
+checkout = GMC).
+⚡ Passer toutes les pages à la « moulinette » IA d’Emeric pour traquer les incohérences.
+SECONDAIRE
+○ Faire un recettage détaillé solo de toutes les pages avant tout.
+○ Mettre à jour la date du footer en 2026 ; aucune collection sans image.
+○ Envoyer l’URL au groupe pour recettage collectif et prévenir avant le lancement.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Établir le budget prévisionnel complet : abonnements (~130 €/mois) + enveloppe ads de rodage (~1
+500 €).
+SECONDAIRE
+○ Prévoir la trésorerie publicitaire en intégrant que les premières dépenses précèdent généralement les
+ventes.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Choisir une stratégie d’écoulement adaptée à la forte combinatoire taille/couleur : don à une
+association (crédit d’impôt 60 %) ou cadeaux micro-influenceurs.
+SECONDAIRE
+○ Envisager un compte Vinted pro en marque blanche pour les modèles écoulables.
+○ Tester une collection déstockage + campagne mail si le volume le justifie.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Garantir la cohérence absolue des informations sur tout le site (délais, prix, téléphone) avant toute
+présentation au Merchant Center.
+SECONDAIRE
+○ Débloquer l’offre Google Ads 400 € dès la création du compte, sans attendre.
+○ En phase de rodage des campagnes : augmenter le budget par petits paliers et ne pas surréagir.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Site Emeric — lancement
+5 mai 2026
+Déjà à l’équilibre en ads
+Produits en ligne (Emeric)
+~150
+Objectif 250 avant le Q4
+Ventes / dépense ads
+5 / 500 €
+ROAS ≈ 1
+Budget ads / jour
+30 €
+Limité par le budget
+CPC max
+0,45 €
+Baissé de 0,55 €
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/05/2026
+—  7  —
+Indicateur
+Valeur
+Contexte
+Clics cumulés
+1 700
+Trop tôt pour conclure
+Conversions → ROAS cible
+15
+Seuil de bascule
+Coefficient de marge
+x3,4 → x2,6
+Dégressif selon le prix
+Modification campagne
+20 % max
+Par palier
+Offre Google Ads
+400 €
+Après 400 € dépensés
+Klaviyo
+~30 €/mois
+Emailing
+Prestataire Merchant Center
+44,90 €/mois
+Engagement durable
+Thème Fullstack
+~200 €
+Paiement unique
+Budget ads de rodage
+1 000–1 500 €
+À prévoir
+Don association
+60 %
+Crédit d’impôt sur la valeur du stock
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

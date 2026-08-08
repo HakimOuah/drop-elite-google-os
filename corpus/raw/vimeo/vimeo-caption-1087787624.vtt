@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.730
+Bonjour à tous.
+
+2
+00:00:00.960 --> 00:00:03.160
+Alors aujourd'hui, nous allons voir comment intégrer un mail
+
+3
+00:00:03.820 --> 00:00:05.240
+htl sur la plateforme sanding blue.
+
+4
+00:00:05.240 --> 00:00:08.840
+Donc blue, ça permet d'envoyer des mail aux différents
+
+5
+00:00:08.840 --> 00:00:10.160
+sites, aux différents clients.
+
+6
+00:00:10.670 --> 00:00:13.720
+Donc là, j'ai pris pour exemple un mail qui a été fait donc
+
+7
+00:00:14.150 --> 00:00:16.880
+pour manière un mail et d.
+
+8
+00:00:17.550 --> 00:00:20.080
+Donc, pour l'intégrer sur ce ligne blue,
+
+9
+00:00:20.470 --> 00:00:22.960
+donc vous allez sur scène blue et là vous allez tomber
+
+10
+00:00:23.100 --> 00:00:24.200
+sur le tableau de bord.
+
+11
+00:00:25.420 --> 00:00:26.880
+Une fois que vous êtes sur table de bord,
+
+12
+00:00:26.880 --> 00:00:29.440
+vous cliquez sur le côté et vous cliquez sur email.
+
+13
+00:00:31.630 --> 00:00:34.120
+Vous faites créer une campagne email.
+
+14
+00:00:54.620 --> 00:00:56.400
+Voilà donc
+
+15
+00:00:59.430 --> 00:01:01.040
+donc là vous arrivez ici.
+
+16
+00:01:01.220 --> 00:01:04.520
+Et donc on va compléter ensemble les informations.
+
+17
+00:01:04.910 --> 00:01:07.320
+Donc là, le nom de la campagne, ou c'est une campagne,
+
+18
+00:01:07.320 --> 00:01:10.720
+d'autres qu'on va mettre et m et
+
+19
+00:01:12.390 --> 00:01:17.120
+vous mettez l'objet, on va mettre merci
+
+20
+00:01:18.700 --> 00:01:22.560
+de votre fidélité
+
+21
+00:01:23.500 --> 00:01:25.320
+et on va ajouter une personnalisation.
+
+22
+00:01:25.320 --> 00:01:27.600
+Donc on va mettre la tribu prénom.
+
+23
+00:01:28.700 --> 00:01:30.560
+Et là, lors du l'envoi du mail,
+
+24
+00:01:31.420 --> 00:01:33.760
+le prénom de la personne sera affiché automatiquement.
+
+25
+00:01:34.190 --> 00:01:36.320
+Ensuite, on va mettre le texte aperçu.
+
+26
+00:01:36.320 --> 00:01:40.280
+Donc, ne des réductions
+
+27
+00:01:44.390 --> 00:01:44.960
+pour vous
+
+28
+00:01:48.110 --> 00:01:49.400
+L'objet aperçu.
+
+29
+00:01:49.420 --> 00:01:50.880
+Ils sont présents sur le brieff
+
+30
+00:01:51.580 --> 00:01:55.680
+qui lui se trouve sur noion sur l'éthique et notions ou les
+
+31
+00:01:55.690 --> 00:01:57.840
+mails sont mis ensuite,
+
+32
+00:01:57.940 --> 00:01:59.800
+on va mettre l' email de l'expéditeur.
+
+33
+00:01:59.800 --> 00:02:02.760
+Donc l email de base qui est mis automatiquement,
+
+34
+00:02:02.760 --> 00:02:03.760
+c'est de ce Tristan,
+
+35
+00:02:04.070 --> 00:02:06.040
+mais il faut le changer en fonction du site
+
+36
+00:02:06.310 --> 00:02:07.400
+dont vous faites le mail.
+
+37
+00:02:07.400 --> 00:02:10.640
+Donc, nous ces déguisements de manière, on clique sur ça
+
+38
+00:02:11.820 --> 00:02:13.680
+et on vérifie bien que le nom d'
+
+39
+00:02:13.930 --> 00:02:15.040
+c'est bien mis à jour aussi.
+
+40
+00:02:16.230 --> 00:02:18.480
+Ensuite fait afficher les options avancées.
+
+41
+00:02:18.700 --> 00:02:20.600
+Et là on va personnaliser l' email de réponse.
+
+42
+00:02:20.700 --> 00:02:22.800
+Et c'est tout simplement l'E email qu'on a mis
+
+43
+00:02:22.820 --> 00:02:23.880
+l' email de l'expéditeur.
+
+44
+00:02:23.880 --> 00:02:26.960
+Il faut remettre le même et faire bien attention à qui n'ait
+
+45
+00:02:26.960 --> 00:02:29.320
+pas d'erreur pour que les personnes puissent contacter
+
+46
+00:02:30.300 --> 00:02:32.840
+les différents services et qu'il ait des
+
+47
+00:02:32.840 --> 00:02:35.880
+réponses seulement.
+
+48
+00:02:43.920 --> 00:02:46.060
+Voilà. Ensuite, on est sans et là,
+
+49
+00:02:46.120 --> 00:02:48.580
+on vient faire activer le suivi de analytics
+
+50
+00:02:49.320 --> 00:02:53.540
+et on vient mettre ltm qu'on a mis
+
+51
+00:02:53.570 --> 00:02:54.620
+dans notre campagne.
+
+52
+00:02:54.650 --> 00:02:59.520
+Donc là ici, c'est le DM hebdo de copi pied collé
+
+53
+00:03:01.380 --> 00:03:02.640
+et vous le remettrez ici.
+
+54
+00:03:04.860 --> 00:03:06.840
+Voilà, puis on descend tout ça,
+
+55
+00:03:07.330 --> 00:03:08.680
+c'est pas la peine de remplir.
+
+56
+00:03:09.180 --> 00:03:12.320
+On vient juste faire activer, activer le miroir.
+
+57
+00:03:13.310 --> 00:03:15.560
+Ensuite, nous faisons prochaine étape
+
+58
+00:03:16.180 --> 00:03:18.160
+et là falloir qu'on intègre autre mail.
+
+59
+00:03:18.310 --> 00:03:20.080
+Nous, on va choisir coder votre tempate
+
+60
+00:03:20.780 --> 00:03:21.840
+et coller votre code.
+
+61
+00:03:24.110 --> 00:03:26.040
+Ensuite, vous retournez sur l'éditeur
+
+62
+00:03:26.620 --> 00:03:28.200
+et vous faites contrôle,
+
+63
+00:03:28.320 --> 00:03:30.040
+a pour tout sélectionné et contrôlez.
+
+64
+00:03:32.670 --> 00:03:34.570
+Et là vous pouvez copier coller votre
+
+65
+00:03:34.570 --> 00:03:36.050
+code qui apparaît bien.
+
+66
+00:03:36.440 --> 00:03:38.090
+Vous faites ensuite continuer.
+
+67
+00:03:39.630 --> 00:03:42.810
+Et là, c'est là que vous pouvez vérifier si tout s'est bien
+
+68
+00:03:42.830 --> 00:03:44.330
+mis et si tout est en ordre.
+
+69
+00:03:44.330 --> 00:03:46.650
+Donc également les liens qui apparaissent
+
+70
+00:03:47.390 --> 00:03:49.010
+en bas à gauche de votre écran.
+
+71
+00:03:49.600 --> 00:03:51.610
+Donc là, vous regardez
+
+72
+00:03:52.830 --> 00:03:54.690
+si les productions permis aussi
+
+73
+00:03:55.590 --> 00:03:57.530
+et là quand vous voyez que c'est bon,
+
+74
+00:03:57.920 --> 00:03:59.370
+vous faites prochaine étape.
+
+75
+00:03:59.870 --> 00:04:01.930
+Et là on va venir sélectionner la liste de clients,
+
+76
+00:04:02.070 --> 00:04:04.130
+la bonne liste de clients dont il faut envoyer de Neil.
+
+77
+00:04:04.130 --> 00:04:07.210
+Donc là, on voilà.
+
+78
+00:04:07.800 --> 00:04:10.210
+Donc là, vous voyez qu'il y a deux ls.
+
+79
+00:04:10.210 --> 00:04:13.050
+Donc il y a les clients et la newsletter pour ce type email,
+
+80
+00:04:13.050 --> 00:04:14.290
+on va sélectionner les deux,
+
+81
+00:04:14.560 --> 00:04:16.210
+mais des fois on vous demandera
+
+82
+00:04:16.520 --> 00:04:18.050
+d'envoyer de 1000 que à des clients.
+
+83
+00:04:18.050 --> 00:04:21.330
+Donc il faudra bien faire attention à la liste des personnes
+
+84
+00:04:21.350 --> 00:04:24.730
+que vous sélectionnez ou faites prochaine étape.
+
+85
+00:04:25.990 --> 00:04:28.730
+Et là, c'est un récapitulatif de tout votre
+
+86
+00:04:28.830 --> 00:04:30.050
+me qui va être envoyé.
+
+87
+00:04:30.720 --> 00:04:33.170
+Donc vous avez l'objet de la campagne.
+
+88
+00:04:33.170 --> 00:04:35.130
+Donc c'est bon, la conception.
+
+89
+00:04:35.200 --> 00:04:38.210
+Vous pouvez apercevoir le même ici
+
+90
+00:04:40.910 --> 00:04:43.730
+et là, il y a la mise d'envoi, on vfi bien.
+
+91
+00:04:43.870 --> 00:04:47.490
+Et donc c'est moi ensuite vous quiz sur programmer
+
+92
+00:04:48.150 --> 00:04:49.850
+et là vous allez programmer l'heure.
+
+93
+00:04:50.520 --> 00:04:53.490
+L'heure qui est noté sur notion,
+
+94
+00:04:54.870 --> 00:04:57.290
+il n'y a plus la date qui est notée après l'heure.
+
+95
+00:04:57.960 --> 00:04:59.090
+11 h, c'est bien,
+
+96
+00:04:59.240 --> 00:05:02.370
+mais des fois l'heure est noté sur notion sur les site.
+
+97
+00:05:03.200 --> 00:05:07.610
+Donc, une fois que c'est fait continuer, et
+
+98
+00:05:08.230 --> 00:05:10.650
+là ils vont vous demander, êtes vous sûr de vouloir envoyer
+
+99
+00:05:10.650 --> 00:05:12.490
+la campagne et vous faites confirmer.
+
+100
+00:05:13.120 --> 00:05:16.130
+Donc quaprès vous retrouvez votre mail sur la catégorie
+
+101
+00:05:16.260 --> 00:05:18.930
+email dont on était tout à l'heure sur saline blue.
+
+102
+00:05:19.190 --> 00:05:21.690
+Et voilà. Et votre mail est programmé à l'envoi.

@@ -1,0 +1,7661 @@
+WEBVTT
+
+1
+00:00:02.540 --> 00:00:04.480
+Du coup, l'idée, c'est qu'effectivement il y a le travail
+
+2
+00:00:04.500 --> 00:00:08.160
+à faire sur les produit, pas de conversion.
+
+3
+00:00:08.660 --> 00:00:11.000
+Par contre, là, ils font que tu me mette un filtre et on va
+
+4
+00:00:11.000 --> 00:00:13.040
+filtrer pour pas avoir un tableau interminable.
+
+5
+00:00:13.040 --> 00:00:17.900
+On va filtrer du coup de non pas
+
+6
+00:00:17.900 --> 00:00:18.980
+le prix ni les clics.
+
+7
+00:00:18.980 --> 00:00:21.780
+On va filer. On va filer par valeur de conversion par et tu
+
+8
+00:00:21.780 --> 00:00:24.020
+vas me mettre les inférieures à deux.
+
+9
+00:00:26.670 --> 00:00:29.390
+Alors je filtre par des valeurs de
+
+10
+00:00:29.390 --> 00:00:32.090
+conversion, conversion,
+
+11
+00:00:32.960 --> 00:00:36.670
+Valeur de conversion par ou et inférieure
+
+12
+00:00:37.730 --> 00:00:40.070
+là met deux et tu me le classe sur les inférieur à deux,
+
+13
+00:00:41.390 --> 00:00:43.340
+sinon tuer un tableau à rallonge.
+
+14
+00:00:43.370 --> 00:00:44.820
+Ensuite, tu vas me cliquer du coup,
+
+15
+00:00:44.970 --> 00:00:46.820
+ceux qui ont du plus de clic au moins de clic.
+
+16
+00:00:47.700 --> 00:00:49.190
+Donc simplement clic sur la colonne
+
+17
+00:00:50.780 --> 00:00:52.640
+le plus simple pour pour travailler comme ça.
+
+18
+00:00:52.640 --> 00:00:54.520
+Moi, je fais des exports. Ça veut dire que j'exporte le
+
+19
+00:00:54.520 --> 00:00:56.720
+tableau et après en petit payer dessus sur un tableau pour
+
+20
+00:00:56.720 --> 00:00:58.440
+changer les colonnes et tout sans galères.
+
+21
+00:00:58.440 --> 00:01:01.690
+Et c'est beaucoup plus simple à voir l'idée.
+
+22
+00:01:02.350 --> 00:01:03.930
+Tu fera les impressions aussi.
+
+23
+00:01:04.870 --> 00:01:05.990
+Alors le premier travail. Donc,
+
+24
+00:01:06.090 --> 00:01:08.710
+à savoir que si un client clique sur votre produit dans une
+
+25
+00:01:08.870 --> 00:01:13.230
+shopping, moi, je cherche un collier pour chien vert.
+
+26
+00:01:13.530 --> 00:01:16.790
+Je tape sur Google, collier du Google va me proposer des
+
+27
+00:01:16.790 --> 00:01:17.830
+produits, d'accord?
+
+28
+00:01:18.050 --> 00:01:20.670
+Ça veut dire que si Google propose votre produit dans la
+
+29
+00:01:20.790 --> 00:01:22.270
+shopping, il va y avoir une impression.
+
+30
+00:01:22.930 --> 00:01:24.470
+Oui, moi, je suis client.
+
+31
+00:01:24.820 --> 00:01:27.190
+J'ai cinq produits proposés ou aussi produits proposés.
+
+32
+00:01:27.510 --> 00:01:30.310
+D'accord. Pourquoi je clique pas sur le vôtre là quand
+
+33
+00:01:30.310 --> 00:01:31.750
+l'information sur une shopping, j'ai une
+
+34
+00:01:31.750 --> 00:01:33.310
+image, un prix, un titre.
+
+35
+00:01:34.300 --> 00:01:35.640
+Oui. Et une pro peut être,
+
+36
+00:01:36.020 --> 00:01:38.000
+ça veut dire que si à ce moment là,
+
+37
+00:01:38.610 --> 00:01:41.040
+votre produit fait impression mais ne fait pas de clic,
+
+38
+00:01:41.420 --> 00:01:43.480
+ça veut dire que vous allez devoir faire et ne repas sur ces
+
+39
+00:01:43.480 --> 00:01:45.880
+produits là pour vous remettre en question concernant la
+
+40
+00:01:45.880 --> 00:01:48.240
+photo principale que vous avez mise est ce qu'elle est
+
+41
+00:01:48.240 --> 00:01:49.480
+différente de celle de vos concurrents.
+
+42
+00:01:49.580 --> 00:01:51.440
+Si vous avez une grosse concurrence dans votre niche,
+
+43
+00:01:51.580 --> 00:01:52.600
+est ce qu'elle est assez.
+
+44
+00:01:52.600 --> 00:01:54.720
+Démonstratif du produit est ce qu'on comprend.
+
+45
+00:01:54.720 --> 00:01:59.560
+Bien, quel est le produit? Le prix est ce que vous
+
+46
+00:01:59.560 --> 00:02:00.440
+avez un prix complètement
+
+47
+00:02:00.440 --> 00:02:01.680
+démesuré par rapport à vos concurrents.
+
+48
+00:02:01.680 --> 00:02:03.160
+Et à ce moment là, les gens, ils vont,
+
+49
+00:02:03.160 --> 00:02:04.760
+ils ont une impression, mais ne clique pas dessus.
+
+50
+00:02:05.150 --> 00:02:07.040
+Donc, à ce moment là, il faut faire un match de la
+
+51
+00:02:07.040 --> 00:02:08.520
+concurrence pour vous remettre en question
+
+52
+00:02:08.520 --> 00:02:09.640
+concernant le prix de votre produit.
+
+53
+00:02:10.300 --> 00:02:12.560
+Et après ça peut aussi donner une histoire de titre.
+
+54
+00:02:13.150 --> 00:02:14.360
+Pour vous donner un exemple concret.
+
+55
+00:02:15.320 --> 00:02:19.330
+J'ai un client qui vend qui vende des produits des
+
+56
+00:02:19.330 --> 00:02:21.970
+contenants alimentaires dans le titre de son produit,
+
+57
+00:02:22.270 --> 00:02:27.010
+il a mis le titre du contenant et la recette
+
+58
+00:02:27.690 --> 00:02:29.430
+que, en général, les les gens mettent dedans
+
+59
+00:02:30.450 --> 00:02:33.030
+ce qui a fait qu'il a fait une tonne d'impression,
+
+60
+00:02:34.900 --> 00:02:36.670
+mais il a vendu zéro produits.
+
+61
+00:02:37.070 --> 00:02:39.110
+Pourquoi? Parce que Google proposait son produit,
+
+62
+00:02:39.250 --> 00:02:40.470
+non pas pour le produit
+
+63
+00:02:40.490 --> 00:02:41.830
+en question, mais pour la recette qui
+
+64
+00:02:43.000 --> 00:02:45.070
+Titre Attention à ça.
+
+65
+00:02:45.070 --> 00:02:47.750
+Ça veut dire que ça vous fait un
+
+66
+00:02:47.750 --> 00:02:49.070
+travail perd du temps pour rien.
+
+67
+00:02:49.070 --> 00:02:50.550
+Et du coup, ce produit se vend parce que
+
+68
+00:02:50.550 --> 00:02:51.630
+Google a mal interprété.
+
+69
+00:02:51.700 --> 00:02:52.710
+Quel était votre produit?
+
+70
+00:02:53.350 --> 00:02:54.880
+Donc c'est aussi comment ça,
+
+71
+00:02:54.880 --> 00:02:56.440
+comment vous remettre en question sur ce type
+
+72
+00:02:56.960 --> 00:02:59.680
+problème et surtout les on remet en question l'image,
+
+73
+00:02:59.780 --> 00:03:02.750
+le prix et du coup par rapport à la concurrence.
+
+74
+00:03:03.180 --> 00:03:05.470
+Donc, l'idée, c'est que nous on fait un travail ou chaque
+
+75
+00:03:05.470 --> 00:03:08.590
+mois, on fait un export et tous les on prend les
+
+76
+00:03:08.590 --> 00:03:09.870
+25 premiers produits de la liste.
+
+77
+00:03:09.870 --> 00:03:12.110
+Et on travaille sur les 25 premiers produits de la liste
+
+78
+00:03:12.110 --> 00:03:13.110
+concernant les impressions,
+
+79
+00:03:14.120 --> 00:03:16.340
+à savoir qu sur des produits qui ne se vendent pas,
+
+80
+00:03:16.340 --> 00:03:18.580
+qui ne se sont jamais vendus à vérifier toujours.
+
+81
+00:03:18.840 --> 00:03:20.620
+Et donc on est plutôt libre de changer le titre,
+
+82
+00:03:20.640 --> 00:03:22.180
+de changer l'image, de changer la balise,
+
+83
+00:03:22.340 --> 00:03:24.060
+halte et de travailler là dessus de manière plutôt libre.
+
+84
+00:03:24.060 --> 00:03:25.460
+On n'est pas en train travail sur des best sellr.
+
+85
+00:03:25.460 --> 00:03:26.780
+Donc on peut faire de la modification.
+
+86
+00:03:29.300 --> 00:03:32.680
+Ok, par exemple, sur les trois premiers produits,
+
+87
+00:03:34.890 --> 00:03:36.040
+c'est un des best sellr.
+
+88
+00:03:36.620 --> 00:03:38.840
+Et quand je vois effectivement le nombre d'impression par
+
+89
+00:03:38.840 --> 00:03:43.240
+rapport au clic, il,
+
+90
+00:03:43.500 --> 00:03:45.880
+si je produit, elle est les top,
+
+91
+00:03:45.880 --> 00:03:47.640
+on est bien positionné en prix en prix.
+
+92
+00:03:47.640 --> 00:03:51.000
+C'est un produit que je pense, un
+
+93
+00:03:51.580 --> 00:03:52.640
+des me vendus.
+
+94
+00:03:54.340 --> 00:03:56.760
+Et le là, je n'arrive pas à savoir
+
+95
+00:03:58.520 --> 00:03:59.620
+ce qui peut générer
+
+96
+00:04:02.110 --> 00:04:03.110
+Après l'impression. Tu
+
+97
+00:04:03.110 --> 00:04:04.250
+n'es pas beaucoup à 2001 moi.
+
+98
+00:04:04.250 --> 00:04:05.930
+Quand je parle hier, quand j'ai regardé le tableau de mon
+
+99
+00:04:05.930 --> 00:04:07.970
+client, on était à 50 zéro impressions pour zéro click.
+
+100
+00:04:08.650 --> 00:04:10.610
+D'accord? Tu vois attention au
+
+101
+00:04:10.610 --> 00:04:14.010
+Volume, quel moment j'ai peut être pas assez de data là.
+
+102
+00:04:14.010 --> 00:04:17.530
+J'ai pris change parce que sinon je
+
+103
+00:04:17.530 --> 00:04:18.570
+trouve que ça n'a pas d'importance.
+
+104
+00:04:19.430 --> 00:04:23.690
+Ça fausse un peu, mais faut peut être que j'attends en fait.
+
+105
+00:04:24.240 --> 00:04:25.700
+Oui, voilà. Attend par contre me travail.
+
+106
+00:04:25.800 --> 00:04:27.180
+Par contre, ce que j'ai dit à l'heure,
+
+107
+00:04:27.180 --> 00:04:28.460
+on peut faire ce qu'on veut sur un produit qui
+
+108
+00:04:28.480 --> 00:04:29.580
+n'a jamais généré de vente.
+
+109
+00:04:30.080 --> 00:04:32.500
+Oui, attention. Si tu me dis que c'est ton best sellr et tu
+
+110
+00:04:32.500 --> 00:04:35.060
+le vois là et que tu sais que ton best sellr toujours avant
+
+111
+00:04:35.060 --> 00:04:36.380
+que vous modifier un produit, assurez vous.
+
+112
+00:04:36.380 --> 00:04:37.380
+Vous n'êtes pas fait de vent dessus.
+
+113
+00:04:37.900 --> 00:04:39.620
+Imaginez, c'est un produit qui est nase en pu,
+
+114
+00:04:39.620 --> 00:04:41.900
+mais qui est au, on va pas s'amuser à modifier le titre.
+
+115
+00:04:42.200 --> 00:04:44.380
+Si votre produit fonctionne de jamais tout changer,
+
+116
+00:04:44.380 --> 00:04:46.780
+ni l'url, ni le titre ni l'im image principale ni les
+
+117
+00:04:46.780 --> 00:04:48.820
+balises, on ne va pas tirer une balle dans pied à
+
+118
+00:04:48.820 --> 00:04:49.980
+changer un produit qui fonctionne.
+
+119
+00:04:50.950 --> 00:04:55.250
+Et quand tu dis à si, parce que là,
+
+120
+00:04:55.250 --> 00:04:56.610
+c'est un site qui y a plusieurs années,
+
+121
+00:04:56.990 --> 00:04:58.330
+je dis si je suis un an,
+
+122
+00:04:58.350 --> 00:04:59.690
+les 12 mois glissant les 12
+
+123
+00:04:59.690 --> 00:05:00.570
+derniers mois, il n' a pas eu
+
+124
+00:05:00.570 --> 00:05:01.690
+ans. Je peux faire des motifs.
+
+125
+00:05:02.450 --> 00:05:04.040
+C'est un autre travail sur des produits qui
+
+126
+00:05:04.040 --> 00:05:05.120
+ont généré des ventes.
+
+127
+00:05:05.120 --> 00:05:07.240
+Par exemple, si on prend baisser leur l'année dernière,
+
+128
+00:05:07.240 --> 00:05:08.320
+que tu vend plus du tout aujourd'hui.
+
+129
+00:05:08.780 --> 00:05:09.920
+Oui, c'est un autre travail.
+
+130
+00:05:10.010 --> 00:05:11.120
+C'est un autre process ou on
+
+131
+00:05:11.120 --> 00:05:12.200
+va prendre les anciens baisse sell leur.
+
+132
+00:05:12.200 --> 00:05:13.360
+Donc je peux faire un expert de thé
+
+133
+00:05:13.360 --> 00:05:14.560
+bestseller et venir travailler.
+
+134
+00:05:14.560 --> 00:05:17.440
+Ça veut dire que en général, quand tu eu un best sellr,
+
+135
+00:05:17.440 --> 00:05:19.600
+il se vend plus à moins que ce soit un effet de mode ultra
+
+136
+00:05:19.940 --> 00:05:21.880
+si t'es dans la dans le textile.
+
+137
+00:05:22.070 --> 00:05:23.160
+Mais en général, c'est parce que tu
+
+138
+00:05:23.160 --> 00:05:24.760
+as eu beaucoup de concurrents qui sont positionnés
+
+139
+00:05:25.460 --> 00:05:28.120
+et que toi t'es resté, t'es resté un peu à la traîne.
+
+140
+00:05:28.120 --> 00:05:29.360
+Et du coup Google, t'as un peu oublié.
+
+141
+00:05:29.580 --> 00:05:31.560
+En général, si c'est un produit qui se démocratise,
+
+142
+00:05:31.700 --> 00:05:32.880
+les fournisseurs baissent.
+
+143
+00:05:32.880 --> 00:05:35.840
+Leur tarif grâce à une économie d'échelle peut être que toi,
+
+144
+00:05:35.840 --> 00:05:37.320
+tu n'as pas mis à jour ton tarif non plus.
+
+145
+00:05:37.320 --> 00:05:38.560
+Et donc ce travail sur les bestseller,
+
+146
+00:05:38.560 --> 00:05:40.520
+ça va être du coup se réal, aligner à la concurrence,
+
+147
+00:05:41.130 --> 00:05:43.200
+faire une étude de marché avant et se réal aligner,
+
+148
+00:05:43.200 --> 00:05:44.760
+mais du coup attention, ce qui a quand même pas mal
+
+149
+00:05:44.760 --> 00:05:45.800
+de data à enregistrer dessus.
+
+150
+00:05:46.230 --> 00:05:47.360
+Donc de pas s'amuser,
+
+151
+00:05:47.540 --> 00:05:50.760
+à faire des modifications drastiques de titres durel ou quoi
+
+152
+00:05:50.800 --> 00:05:52.280
+que soit sur cette typologie de produits,
+
+153
+00:05:52.740 --> 00:05:55.560
+on se sent libre de modifier les choses en grand uniquement
+
+154
+00:05:55.820 --> 00:05:57.720
+sur un produit qui n'a jamais généré de vente et
+
+155
+00:05:57.720 --> 00:05:58.760
+qui a pour y
+
+156
+00:05:59.880 --> 00:06:00.880
+Ça marche.
+
+157
+00:06:01.610 --> 00:06:04.060
+Donc chaque mois, tu fais travailler sur les impressions,
+
+158
+00:06:04.060 --> 00:06:06.100
+attend un peu d'avoir plus de total, été un peu limité.
+
+159
+00:06:06.320 --> 00:06:08.020
+Et sur les clics, ce n'est pas le même problème.
+
+160
+00:06:08.020 --> 00:06:09.140
+Ça veut dire que là, le gars
+
+161
+00:06:09.140 --> 00:06:10.220
+sur les clic fait beaucoup de clics.
+
+162
+00:06:10.220 --> 00:06:13.420
+Ça veut dire que le client a fait une requête sur Google.
+
+163
+00:06:13.760 --> 00:06:15.420
+Google lui répond par contre produit.
+
+164
+00:06:15.920 --> 00:06:17.100
+Le client a été réceptif.
+
+165
+00:06:17.100 --> 00:06:18.260
+Et donc il a cliqué sur la shopping.
+
+166
+00:06:18.720 --> 00:06:21.520
+Par contre, il voulait acheter tu lui
+
+167
+00:06:21.520 --> 00:06:23.880
+as Google propose un produit qui convenait par rapport à ça,
+
+168
+00:06:24.020 --> 00:06:25.200
+par contre produit.
+
+169
+00:06:25.460 --> 00:06:28.140
+Et là, il n'achète pas, ça veut dire a prior.
+
+170
+00:06:28.140 --> 00:06:30.460
+Oui, le prix n'a pas freiné. L'image l'a pas freiné.
+
+171
+00:06:30.460 --> 00:06:31.780
+Par contre. Une fois cette fiche produit,
+
+172
+00:06:31.840 --> 00:06:33.620
+ça la freiner ou t'as un problème de
+
+173
+00:06:33.620 --> 00:06:34.700
+contenu de fiches produits.
+
+174
+00:06:34.970 --> 00:06:36.740
+Imaginons, tu vends une lampe,
+
+175
+00:06:36.770 --> 00:06:38.300
+mais tu ne dis pas quel est le type d'ampoule.
+
+176
+00:06:38.300 --> 00:06:41.140
+Tu va dedans. Tu dis pas quel est le mode d'alimentation ou
+
+177
+00:06:41.140 --> 00:06:43.220
+c'est un problème de d'information sur fich produit
+
+178
+00:06:43.920 --> 00:06:45.260
+ou peut être un problème d'image.
+
+179
+00:06:45.260 --> 00:06:47.260
+Il n'y a pas assez vend des sacs à main.
+
+180
+00:06:47.260 --> 00:06:48.540
+Il n'y a pas de d'image à l'i du sac.
+
+181
+00:06:48.750 --> 00:06:51.930
+C'est un frere à l'achat. Tu vends une
+
+182
+00:06:51.930 --> 00:06:53.090
+valise, il n'y a pas les dimensions.
+
+183
+00:06:53.090 --> 00:06:56.580
+C'est un frein à l'achat. Donc ou cette typologie
+
+184
+00:06:56.580 --> 00:06:57.620
+là de frein qu'il faut lever.
+
+185
+00:06:57.620 --> 00:06:59.300
+Donc ça, c'est surtout les produits qui génèrent du
+
+186
+00:06:59.300 --> 00:07:00.380
+clic, mais pas de vente.
+
+187
+00:07:00.400 --> 00:07:01.540
+Et je répète, pas de vente,
+
+188
+00:07:01.700 --> 00:07:03.500
+toujours vérifier que ce soit pas un produit ou une
+
+189
+00:07:03.500 --> 00:07:04.780
+variation d'un produit qui se vend
+
+190
+00:07:05.730 --> 00:07:07.590
+ou alors c'est un problème sur ta boutique.
+
+191
+00:07:07.850 --> 00:07:09.590
+Ça veut dire ça manque de réassurance,
+
+192
+00:07:09.590 --> 00:07:11.190
+peut être que le parcours client n'est pas bien.
+
+193
+00:07:11.380 --> 00:07:14.110
+Peut être qu'il y a un truc qui a begué qui a sauté à toi de
+
+194
+00:07:14.110 --> 00:07:15.430
+faire le parcours client de a à z.
+
+195
+00:07:15.690 --> 00:07:17.790
+Une fois que tu ' assuré que la fi produit et nickel et que
+
+196
+00:07:17.790 --> 00:07:19.870
+toutes les informations, contenu tenues à l'intérieur sont
+
+197
+00:07:19.870 --> 00:07:22.670
+bonnes à toi de faire le travail du coût de parcours client
+
+198
+00:07:22.670 --> 00:07:24.590
+et du x pour vérifier que t n'es pas un truc qui est sauté
+
+199
+00:07:24.590 --> 00:07:26.510
+quelque part, un code de promo qui marche pas,
+
+200
+00:07:26.650 --> 00:07:27.990
+tu parfois ça peut vraiment une connerie.
+
+201
+00:07:28.510 --> 00:07:29.430
+T'as mis un code de promo? Tu
+
+202
+00:07:29.430 --> 00:07:30.550
+l'as pas mis dans dans le ba office.
+
+203
+00:07:30.810 --> 00:07:32.590
+Le client le met, ça ne fonctionne pas. Tu perd,
+
+204
+00:07:33.690 --> 00:07:35.910
+Ok, Tu peux le rattraper avec un panier abandonné.
+
+205
+00:07:35.980 --> 00:07:38.270
+Mais en général, tu perds la confiance du client c à ce
+
+206
+00:07:38.270 --> 00:07:40.390
+genre de dysfonctionnement par par tu,
+
+207
+00:07:40.410 --> 00:07:42.030
+par étourderie ou par manque de focus.
+
+208
+00:07:44.530 --> 00:07:46.630
+Ok, ça marche pas
+
+209
+00:07:50.620 --> 00:07:53.560
+que j'attend je sais qui je sais que j'ai des
+
+210
+00:07:54.380 --> 00:07:56.920
+choses à faire sur les je produit des améliorations
+
+211
+00:07:57.500 --> 00:07:58.960
+et j'ai travaillé des tarifs, mais
+
+212
+00:07:59.780 --> 00:08:02.640
+pas de travail à faire, mais
+
+213
+00:08:04.110 --> 00:08:05.880
+Pour travailler des tarifs, tu vois avec un agent?
+
+214
+00:08:07.750 --> 00:08:11.290
+Non, je l'ai fait moi même sur les bests,
+
+215
+00:08:11.630 --> 00:08:14.690
+les premiers vendus, j'ai travaillé sur les tout faire il y
+
+216
+00:08:14.690 --> 00:08:18.370
+à peu près 100 produit, mais je l'ai fait, moi même.
+
+217
+00:08:20.550 --> 00:08:21.730
+Je veux reformuler ma question.
+
+218
+00:08:22.270 --> 00:08:24.370
+Tu passe les commandes sur el express ou via un agent?
+
+219
+00:08:25.150 --> 00:08:26.250
+Ah bien, un agent,
+
+220
+00:08:27.310 --> 00:08:29.770
+Ok, tu lui as demandé un expert des prix produit pour pas
+
+221
+00:08:29.790 --> 00:08:31.290
+que pour avoir à data, ok,
+
+222
+00:08:31.590 --> 00:08:36.090
+Ou j'ai entré des tarifs à jour.
+
+223
+00:08:37.180 --> 00:08:39.520
+Ok, parfait, Liv, raison du service et
+
+224
+00:08:41.100 --> 00:08:42.100
+Est parfait. Donc ça, c'est
+
+225
+00:08:42.100 --> 00:08:43.640
+top. Et du coup tu t
+
+226
+00:08:43.640 --> 00:08:45.400
+as une bonne marche sur la majorité des produits.
+
+227
+00:08:47.370 --> 00:08:49.620
+J'ai certain ou je reste dans les
+
+228
+00:08:50.970 --> 00:08:52.710
+je reste dans les 50,
+
+229
+00:08:53.030 --> 00:08:56.490
+60 % de marge.
+
+230
+00:08:56.560 --> 00:08:59.050
+Donc après il y en a qui font moins, je vais,
+
+231
+00:08:59.360 --> 00:09:02.130
+j'ai essayé de voir de réduire un peu pour voir si ça
+
+232
+00:09:02.130 --> 00:09:04.490
+faisait la diffusion est ce que c a lancé du coup,
+
+233
+00:09:04.570 --> 00:09:06.930
+j'essaie de, je sais, certains autres
+
+234
+00:09:07.680 --> 00:09:09.450
+Attention à pas de trop baisser les prix.
+
+235
+00:09:09.450 --> 00:09:11.130
+Ça veut dire quand on fait les exports de prix en général,
+
+236
+00:09:11.130 --> 00:09:12.450
+on se rend compte qu'on a des produits qu'on
+
+237
+00:09:12.450 --> 00:09:13.610
+vend trop peu cher.
+
+238
+00:09:14.030 --> 00:09:15.170
+Et du coup, la marge est faible.
+
+239
+00:09:17.030 --> 00:09:18.890
+Le prix à payer pour être concurrentiel,
+
+240
+00:09:18.890 --> 00:09:21.170
+attention à ne pas décide, décidément de vendre perte.
+
+241
+00:09:21.470 --> 00:09:22.930
+Ça veut dire que si tout est concurrent,
+
+242
+00:09:22.930 --> 00:09:24.890
+parfois on ne peut pas, on ne peut pas attaquer un marché
+
+243
+00:09:24.890 --> 00:09:25.890
+parce que sur certains produits, on ne
+
+244
+00:09:25.890 --> 00:09:26.730
+sera jamais concurrentiel.
+
+245
+00:09:26.730 --> 00:09:28.330
+Attention, ne pas de trop baisser les marges.
+
+246
+00:09:28.330 --> 00:09:30.210
+N'oubliez pas que vous avez quand même des frais en a des
+
+247
+00:09:30.210 --> 00:09:32.170
+frais en charge fix et des frais de fonctionnement qui font
+
+248
+00:09:32.230 --> 00:09:35.010
+que et la TVA, bien sûr, et qu'il faut maintenir ça.
+
+249
+00:09:35.990 --> 00:09:37.050
+Par contre, attention aussi
+
+250
+00:09:37.050 --> 00:09:38.130
+aux produits qu'on vend trop cher.
+
+251
+00:09:40.020 --> 00:09:43.080
+Oui, ça veut dire qu'on a travaillé sur une boutique le mois
+
+252
+00:09:43.080 --> 00:09:45.640
+dernier ou on s'est rendu compte quand on a demandé les prix
+
+253
+00:09:45.640 --> 00:09:48.960
+à l'agent et qu'on a fait le tableau des osb et qu'on a
+
+254
+00:09:48.960 --> 00:09:51.240
+calculé ça, on s'est rendu compte qu'il avait au moins une
+
+255
+00:09:51.240 --> 00:09:53.120
+cinquantaine de produits.
+
+256
+00:09:53.910 --> 00:09:56.800
+Donc, sans compter les variations qui vendaient à plus de
+
+257
+00:09:56.800 --> 00:09:58.120
+85 % de marge.
+
+258
+00:09:58.880 --> 00:10:00.420
+Et du coup, c'est des produits qui
+
+259
+00:10:00.420 --> 00:10:01.740
+faisaient peu de volume de vente.
+
+260
+00:10:02.630 --> 00:10:05.110
+Pourquoi? Parce que finalement on était beaucoup cher que
+
+261
+00:10:05.110 --> 00:10:07.470
+les concurrents et en avaient une grosse marge nous baisser
+
+262
+00:10:07.470 --> 00:10:10.150
+les prix, nous a permis de gagner
+
+263
+00:10:11.410 --> 00:10:12.830
+en trafic et en conversion parce
+
+264
+00:10:12.830 --> 00:10:13.910
+qu'on était plus concurrentiel.
+
+265
+00:10:14.970 --> 00:10:16.470
+Et ça, c'est ça. C'est valable,
+
+266
+00:10:16.470 --> 00:10:17.590
+surtout pour les produits qui sont sur
+
+267
+00:10:17.590 --> 00:10:18.630
+votre boutique depuis longtemps.
+
+268
+00:10:18.860 --> 00:10:19.990
+Donc ça concerne pas tout le
+
+269
+00:10:19.990 --> 00:10:21.030
+monde, ce que certains sont en création.
+
+270
+00:10:21.030 --> 00:10:22.710
+Mais toi, tu as racheté une boutique existante.
+
+271
+00:10:22.970 --> 00:10:25.590
+Il y a plein de produits qui aujourd'hui, les prix baissent,
+
+272
+00:10:26.160 --> 00:10:27.710
+C'est parce qu'il D'échelle,
+
+273
+00:10:28.040 --> 00:10:29.950
+parce que parce qu' la production est beaucoup plus grosse
+
+274
+00:10:29.950 --> 00:10:30.950
+parce qu'il y a beaucoup plus de
+
+275
+00:10:30.950 --> 00:10:32.070
+clients qui sont sur ce marché là.
+
+276
+00:10:32.530 --> 00:10:34.710
+Et parfois on est tourné de la baisse.
+
+277
+00:10:34.730 --> 00:10:36.350
+Il y a des baisses drastiques de produits.
+
+278
+00:10:36.410 --> 00:10:38.350
+Et ce n'as pas mis jours qu'on catalogue sur certains
+
+279
+00:10:38.350 --> 00:10:39.830
+produits depuis deux ans en trois ans,
+
+280
+00:10:40.170 --> 00:10:41.910
+il y a des trucs que tu vend beaucoup trop chers par rapport
+
+281
+00:10:41.910 --> 00:10:43.430
+à la concurrence que tu as vendu auparavant,
+
+282
+00:10:43.430 --> 00:10:45.110
+mais que tu vendra plus à l'avenir.
+
+283
+00:10:46.250 --> 00:10:48.440
+Exact. Ça, c'est ce que j'ai vu
+
+284
+00:10:49.380 --> 00:10:52.000
+en commençant en analyse après, il y en a, on était bien,
+
+285
+00:10:52.000 --> 00:10:53.720
+il y en a d'autres faisaient beaucoup de marge,
+
+286
+00:10:53.790 --> 00:10:55.760
+mais un peu de vent dont je ai diminué,
+
+287
+00:10:56.220 --> 00:10:58.760
+il y en a ou je me suis mis juste en marge.
+
+288
+00:10:59.060 --> 00:11:01.800
+Je vais voir pour être un tarif compétitif.
+
+289
+00:11:02.260 --> 00:11:03.680
+Je vais voir ce que ça donne.
+
+290
+00:11:03.700 --> 00:11:07.620
+Est ce que ça, ce que les stades s'améliorent pour voir,
+
+291
+00:11:07.660 --> 00:11:09.140
+c'était vraiment le prix, non?
+
+292
+00:11:09.370 --> 00:11:10.660
+J'ai rien à changé sur produit.
+
+293
+00:11:10.730 --> 00:11:13.420
+J'ai changé peu prix pour voir si ça avait un impact.
+
+294
+00:11:14.000 --> 00:11:15.820
+Et en j'ai commencé à travailler
+
+295
+00:11:17.850 --> 00:11:19.500
+Parfois sur certaines topologies de produits.
+
+296
+00:11:19.500 --> 00:11:20.660
+Vous vous voyez que vous ne pouvez pas,
+
+297
+00:11:21.370 --> 00:11:23.820
+j'ai baissé le prix à la marge sur certains produits que
+
+298
+00:11:23.820 --> 00:11:25.140
+vous allez vous rendre compte que vous n'allez pas pouvoir
+
+299
+00:11:25.140 --> 00:11:26.700
+être concurrentiel parce que
+
+300
+00:11:26.700 --> 00:11:27.820
+vous avez une marge qui est trop faible.
+
+301
+00:11:27.820 --> 00:11:31.420
+Parfois l'idée de rajouter parfois je n'importe quoi,
+
+302
+00:11:31.510 --> 00:11:34.420
+parce que du coup, je connais pas toutes vos vos niches,
+
+303
+00:11:34.770 --> 00:11:37.020
+mais comprenez l'idée que je vends un produit.
+
+304
+00:11:37.200 --> 00:11:38.900
+Je ne peux pas baisser le prix parce que
+
+305
+00:11:39.870 --> 00:11:41.340
+parce que sinon je ne fais pas de marge.
+
+306
+00:11:41.450 --> 00:11:43.340
+Parfois proposer un duo de produit,
+
+307
+00:11:44.440 --> 00:11:46.700
+un duo de produit va vous permettre d'augmenter la valeur
+
+308
+00:11:46.700 --> 00:11:49.260
+perçue, même si le deuxième produit vous coût très peu
+
+309
+00:11:49.260 --> 00:11:50.380
+cher, vous voyez?
+
+310
+00:11:50.480 --> 00:11:51.740
+Et là c, trouver un exemple.
+
+311
+00:11:51.740 --> 00:11:54.960
+Imaginons, je vends un pinceau pour le visage en maquillage.
+
+312
+00:11:55.180 --> 00:11:57.360
+Ok, je ne peux pas baisse. Je le vends à 24, 90.
+
+313
+00:11:57.360 --> 00:11:59.440
+Je ne peux pas baisser le prix parce que sinon je perds en
+
+314
+00:11:59.440 --> 00:12:01.800
+rentabilité mais peut être que vendre,
+
+315
+00:12:01.910 --> 00:12:03.320
+ajouter à mon produit une petite
+
+316
+00:12:03.560 --> 00:12:05.280
+éponge pour mettre le blush.
+
+317
+00:12:05.540 --> 00:12:08.440
+Le produit y coûte 10 centimes à l'achat.
+
+318
+00:12:09.250 --> 00:12:11.670
+Et du coup, la valeur perçue de mon duo de produit
+
+319
+00:12:12.410 --> 00:12:15.390
+va faire que je vais mieux convertir sur ce produit là et
+
+320
+00:12:15.390 --> 00:12:16.950
+toi, du coup, tu bosses avec un agent dont tu peux
+
+321
+00:12:16.950 --> 00:12:19.310
+facilement travailler en créant des duo de produit.
+
+322
+00:12:19.850 --> 00:12:22.430
+Et du coup, le client va être de payer ce produit là,
+
+323
+00:12:22.450 --> 00:12:24.670
+un tout qui peu plus cher, parce que c'est un duo.
+
+324
+00:12:24.670 --> 00:12:25.710
+Mais toi, tu sais que ton deuxième
+
+325
+00:12:25.710 --> 00:12:27.030
+produit t'a poté 10 centimes.
+
+326
+00:12:27.370 --> 00:12:30.150
+Et du coup, tu augmente la valeur perçue en augmentant en
+
+327
+00:12:30.150 --> 00:12:33.750
+maintenant ta marge et tu restes concurrentiel parce que du
+
+328
+00:12:33.750 --> 00:12:36.150
+coup, je propose au client un petit truc en plus et dans
+
+329
+00:12:36.170 --> 00:12:37.310
+sa tête, c'est au ok de payer.
+
+330
+00:12:37.680 --> 00:12:39.390
+C'est aucun payer le prix du coup,
+
+331
+00:12:39.610 --> 00:12:44.470
+tu reggaes en force concurrentielle par le biais du modèle,
+
+332
+00:12:46.820 --> 00:12:47.820
+Tout fait.
+
+333
+00:12:48.850 --> 00:12:51.370
+Et ça, c'est valable du coup pour beaucoup de niches,
+
+334
+00:12:51.520 --> 00:12:53.450
+pour beaucoup niches, le petit truc en plus fait
+
+335
+00:12:54.280 --> 00:12:55.410
+fait toute la différence.
+
+336
+00:12:58.490 --> 00:12:59.490
+Merv a levé la main.
+
+337
+00:13:01.120 --> 00:13:02.100
+Oui, moi, j'avais une question
+
+338
+00:13:02.100 --> 00:13:03.220
+par rapport aux tarifications.
+
+339
+00:13:03.220 --> 00:13:05.060
+C'est à partir de quel moment qu'on juge qu'il
+
+340
+00:13:05.060 --> 00:13:06.100
+faut revoir les tarifications.
+
+341
+00:13:06.160 --> 00:13:07.260
+Si ça vaut la peine, par exemple,
+
+342
+00:13:07.260 --> 00:13:10.780
+de retravailler sur un produit et aussi pour le calcul des
+
+343
+00:13:10.780 --> 00:13:12.980
+mar que je fais un calcul en pour centage.
+
+344
+00:13:13.130 --> 00:13:15.740
+Mais j'aimerais savoir comment tu positionne par rapport au
+
+345
+00:13:15.740 --> 00:13:17.140
+projet pour savoir s'il est rentable,
+
+346
+00:13:18.930 --> 00:13:22.100
+Mais c'est à dire que on parle d'un postulat que si tu
+
+347
+00:13:22.100 --> 00:13:26.760
+génère 101 rôle de chiffre d'affaires, ok, dans l'idée,
+
+348
+00:13:26.760 --> 00:13:29.240
+tu vas dépenser 25 à 30 en publicité.
+
+349
+00:13:30.170 --> 00:13:31.470
+Oui, Pour l'acquisition.
+
+350
+00:13:32.830 --> 00:13:36.490
+Ok, ok, dans l'idée, tu vas payer 20 % de TVA.
+
+351
+00:13:38.910 --> 00:13:41.530
+Ta télé charge fixe ton bénéfice.
+
+352
+00:13:41.530 --> 00:13:43.010
+Et du coup, avec ce calcul là,
+
+353
+00:13:43.010 --> 00:13:46.170
+on se dit que la part produit ne doit pas dépasser 30.
+
+354
+00:13:47.580 --> 00:13:49.240
+Si ta part Produit ne doit pas dépasser 30,
+
+355
+00:13:50.460 --> 00:13:53.080
+ça veut dire que techniquement tu doit prendre un produit.
+
+356
+00:13:53.140 --> 00:13:54.640
+Si tu l'achète 10, je dans le vent de 30.
+
+357
+00:13:55.340 --> 00:13:56.520
+Oui. Ok, je crois
+
+358
+00:13:58.050 --> 00:13:59.050
+Sur certains produits.
+
+359
+00:13:59.070 --> 00:14:00.710
+Alors attention, ça vaut pour des produits à tarif moyen
+
+360
+00:14:00.710 --> 00:14:01.790
+pour tout ce qui est à étiquette.
+
+361
+00:14:01.790 --> 00:14:04.310
+Ça veut dire que si c achète un produit à 500 euros,
+
+362
+00:14:04.330 --> 00:14:07.430
+un prix d'achat, tu ne vas pas le 20 005 parce que du coup,
+
+363
+00:14:07.430 --> 00:14:08.510
+tu sera jamais concurrentiel.
+
+364
+00:14:08.510 --> 00:14:13.270
+On parle de produits qui se situent entre entre 10
+
+365
+00:14:14.090 --> 00:14:16.990
+et 60 et entre 50 à 70 euros d'achat.
+
+366
+00:14:17.290 --> 00:14:18.870
+Ça veut dire que pour les produits qui achètent un,
+
+367
+00:14:19.170 --> 00:14:20.630
+tu ne vas pas faire une marge à trois parce que non,
+
+368
+00:14:20.630 --> 00:14:22.270
+tu le vendrait trois euros là, tu fais une marge à beaucoup
+
+369
+00:14:22.270 --> 00:14:25.550
+plus parce que ton prix minimum et à 14, 90 ou 19, 90,
+
+370
+00:14:25.550 --> 00:14:27.550
+parce que veux dire, donc ce fois,
+
+371
+00:14:27.670 --> 00:14:29.710
+trois correspond à un produit que j'achète
+
+372
+00:14:29.920 --> 00:14:31.110
+entre entre 10 et 50.
+
+373
+00:14:31.450 --> 00:14:34.710
+Et c'est la majorité aujourd'hui, des produits de bonis,
+
+374
+00:14:35.560 --> 00:14:37.330
+sauf qu'à exceptionnel sur certains d'entre vous,
+
+375
+00:14:37.920 --> 00:14:40.010
+mais en général t'achète rarement des produits à plus
+
+376
+00:14:40.010 --> 00:14:41.050
+de 50 prix d'achat.
+
+377
+00:14:41.710 --> 00:14:44.810
+Oui, c'est ça. Donc du coup, l'idée,
+
+378
+00:14:44.820 --> 00:14:46.010
+c'est de respecter cette marge.
+
+379
+00:14:46.030 --> 00:14:48.850
+Ça veut dire que si tu se retrouv à faire ton tao des osb ou
+
+380
+00:14:49.150 --> 00:14:51.400
+ton rentabilité et que tu vois que ta démarche qui dépasse
+
+381
+00:14:51.400 --> 00:14:53.840
+les 70 100, tu dit que tu peux baisser un peu le
+
+382
+00:14:53.840 --> 00:14:54.880
+prix pour être plus concurrentiel.
+
+383
+00:14:55.260 --> 00:14:56.640
+Par contre, si tu te rends compte que tu
+
+384
+00:14:56.640 --> 00:14:59.240
+as beaucoup de produits qui sont en dessous, les 50 là,
+
+385
+00:14:59.300 --> 00:15:01.680
+tu es sûr que quasiment tu marches pas dessus et tu,
+
+386
+00:15:02.020 --> 00:15:03.920
+tu n'as pas, n'a pas de rentabilité sur ces produits là,
+
+387
+00:15:06.260 --> 00:15:08.510
+sauf qu'à exceptionnel, bien sûr de produits ou tu payes pas
+
+388
+00:15:08.510 --> 00:15:10.790
+ta TV que machin, mais la techniquement et tout assujetti
+
+389
+00:15:10.790 --> 00:15:14.150
+aux même chose, ça veut dire qu'on a 25 ou 30 % de pub de la
+
+390
+00:15:14.370 --> 00:15:15.390
+TVA, des frais fixes.
+
+391
+00:15:15.730 --> 00:15:17.150
+On veut qu'elle tire un bénéfice.
+
+392
+00:15:17.150 --> 00:15:18.870
+Et donc la part produite doit pas accéder ça,
+
+393
+00:15:19.500 --> 00:15:20.500
+D'accord?
+
+394
+00:15:20.730 --> 00:15:22.100
+Faut prendre tout en compte on toutes les
+
+395
+00:15:22.100 --> 00:15:23.140
+dépenses qui vont avec
+
+396
+00:15:24.210 --> 00:15:25.210
+Ça. Du coup pour calculer
+
+397
+00:15:25.210 --> 00:15:25.910
+ça,
+
+398
+00:15:26.090 --> 00:15:27.910
+tu prends ton taux dans taux de mar brute,
+
+399
+00:15:27.930 --> 00:15:31.750
+il doit être à 70 entre 60 et 70 pour être au top.
+
+400
+00:15:32.740 --> 00:15:35.770
+Ok, Exceptionnel.
+
+401
+00:15:35.830 --> 00:15:37.730
+Tu peux être beaucoup plus bas si tes produits sont
+
+402
+00:15:37.930 --> 00:15:40.990
+étiquette et beaucoup plus haut, si tu as des produits
+
+403
+00:15:42.130 --> 00:15:44.470
+que t'achète entre entre un et cinq ont prix
+
+404
+00:15:44.470 --> 00:15:46.960
+d'achat, livraison comprise.
+
+405
+00:15:46.960 --> 00:15:49.130
+Bien sûr, n'oubliez pas, oui.
+
+406
+00:15:50.770 --> 00:15:52.950
+Ok, merci Peut aussi,
+
+407
+00:15:54.090 --> 00:15:57.310
+Ok, pour moi, je pense que c'est bon.
+
+408
+00:15:59.010 --> 00:16:00.030
+Un de vérification
+
+409
+00:16:01.100 --> 00:16:02.100
+Aujourd'hui. Du coup
+
+410
+00:16:02.100 --> 00:16:03.110
+là, tu peux faire,
+
+411
+00:16:03.110 --> 00:16:05.070
+tu peux faire ça du coup jusqu'à une choix.
+
+412
+00:16:05.070 --> 00:16:06.230
+Tu peux regarder, c'est attelage qu'à ce
+
+413
+00:16:06.230 --> 00:16:07.310
+qu'on revoit la semaine prochaine.
+
+414
+00:16:07.310 --> 00:16:09.710
+Du coup, ça fera déjà trois semaines que que tu as changé,
+
+415
+00:16:09.770 --> 00:16:10.950
+que tu passé un rôle es cible.
+
+416
+00:16:11.330 --> 00:16:14.190
+Et donc là, par contre, on fera venir à licia.
+
+417
+00:16:14.450 --> 00:16:16.550
+Et du coup, Alicia, à ce moment là va pouvoir regarder en
+
+418
+00:16:16.550 --> 00:16:18.390
+détail des campagnes et commencer à voir si faire des
+
+419
+00:16:18.390 --> 00:16:20.790
+exclusions ou faire des modifications de ce type là pour
+
+420
+00:16:20.790 --> 00:16:21.830
+moment, je te dirai, laisse tourner,
+
+421
+00:16:22.530 --> 00:16:24.750
+ça commence bien dire que t'es déjà en plein de la mode
+
+422
+00:16:24.860 --> 00:16:26.150
+aujourd'hui est bonne.
+
+423
+00:16:26.700 --> 00:16:28.990
+Donc toi, en attendant de voir cette date de continuer cette
+
+424
+00:16:28.990 --> 00:16:30.630
+data là, contrôle, ce que tu peux contrôler,
+
+425
+00:16:30.730 --> 00:16:32.110
+ça veut dire ce que tu peux contrôler.
+
+426
+00:16:32.110 --> 00:16:33.710
+C'est ta marche produit. C'est la visibilité et
+
+427
+00:16:33.710 --> 00:16:34.910
+l'optimisation des fich produits.
+
+428
+00:16:36.300 --> 00:16:39.720
+Ça marche Est parfait au top,
+
+429
+00:16:41.710 --> 00:16:44.960
+mais merveill du coup, commencer à prendre la parole,
+
+430
+00:16:45.390 --> 00:16:46.200
+vous sur ta boutique
+
+431
+00:16:54.120 --> 00:16:56.170
+n'entends pas la micro couper.
+
+432
+00:16:58.740 --> 00:17:00.260
+Désolé. Du coup, moi,
+
+433
+00:17:00.330 --> 00:17:02.780
+j'ai fait en fait les configurations avec cantin mardi.
+
+434
+00:17:03.450 --> 00:17:06.580
+Donc ma première campagne shopping.
+
+435
+00:17:08.250 --> 00:17:10.220
+Donc ça faire à peine 48 h.
+
+436
+00:17:11.300 --> 00:17:15.460
+Donc, Et j'ai envoyé, en fait, j'avais envoyé ce qui me
+
+437
+00:17:15.990 --> 00:17:17.020
+parce qu'au début, en fait,
+
+438
+00:17:17.020 --> 00:17:18.700
+je ne voyais pas le taux d'impression et
+
+439
+00:17:19.130 --> 00:17:20.300
+combien ça avait dépensé.
+
+440
+00:17:20.300 --> 00:17:22.420
+J'étais à zéro, mais j'ai juste en fait reider le
+
+441
+00:17:22.420 --> 00:17:23.620
+cachet et je me suis re connecté.
+
+442
+00:17:23.620 --> 00:17:27.540
+Puis là, j'ai quelques statistiques,
+
+443
+00:17:27.930 --> 00:17:29.860
+mais je n'ai pas de vente pour l'instant.
+
+444
+00:17:31.810 --> 00:17:33.860
+J'ai des taux de clic, j'ai de l'impression,
+
+445
+00:17:33.890 --> 00:17:34.940
+mais je n'ai pas de besoin encore.
+
+446
+00:17:35.290 --> 00:17:37.100
+Mais ça, ça fait que grand huit h du coup,
+
+447
+00:17:37.100 --> 00:17:40.660
+il faut vraiment le temps les encore.
+
+448
+00:17:41.200 --> 00:17:43.660
+Oui. A lancé quoi? Félicitations.
+
+449
+00:17:44.080 --> 00:17:45.820
+Oui, merci Franche.
+
+450
+00:17:45.820 --> 00:17:48.060
+Je pense encourager est là, c'est rien.
+
+451
+00:17:49.290 --> 00:17:51.520
+C'est le lancement des aes. C'est après tout ce travail.
+
+452
+00:17:52.180 --> 00:17:53.800
+Et vous allez pas, quand vous arrive à lancer les aes,
+
+453
+00:17:53.800 --> 00:17:56.000
+c'est même la con d'un travail de recherche de niche,
+
+454
+00:17:56.000 --> 00:17:57.200
+de préparation, d'intégration,
+
+455
+00:17:57.200 --> 00:17:59.200
+produit de paramétrage quand arrive à lancer des aes,
+
+456
+00:17:59.200 --> 00:18:02.800
+c'est quand même à la phase trois du était à la phase trois
+
+457
+00:18:02.830 --> 00:18:04.640
+face quatre, on prendre la terre rentabilité.
+
+458
+00:18:04.640 --> 00:18:06.440
+Donc c'est ce que c'est à la fin de Jennifer,
+
+459
+00:18:07.110 --> 00:18:08.160
+mais arrivé à la phase trois,
+
+460
+00:18:08.160 --> 00:18:09.800
+c'est quand même, c'est quand même top quoi?
+
+461
+00:18:09.800 --> 00:18:11.880
+Beaucoup de travail avant en félicitations et bravo.
+
+462
+00:18:11.880 --> 00:18:12.880
+Beau dêtre arrivé jusqu'ici.
+
+463
+00:18:13.450 --> 00:18:14.750
+Oui, merci. C'est vrai
+
+464
+00:18:14.750 --> 00:18:15.830
+que c'est un gros soulagement quand même.
+
+465
+00:18:17.690 --> 00:18:19.190
+Oui, après,
+
+466
+00:18:19.190 --> 00:18:19.990
+je sais qu'il y a encore des
+
+467
+00:18:19.990 --> 00:18:21.430
+optimisations à faire sur mon site internet.
+
+468
+00:18:21.460 --> 00:18:24.150
+Mais comme je dis, le plus important, c'est de se lancer.
+
+469
+00:18:24.150 --> 00:18:26.070
+Et puis je pense que je vais continuer à faire les
+
+470
+00:18:26.190 --> 00:18:29.360
+améliorations et des optimisations au fil
+
+471
+00:18:29.430 --> 00:18:31.160
+Dans tous lesquels l'optimisation des améliorations,
+
+472
+00:18:31.160 --> 00:18:32.440
+ça va être le travail après du quotidien.
+
+473
+00:18:32.440 --> 00:18:34.000
+Et ça va être votre travail au quotidien,
+
+474
+00:18:34.000 --> 00:18:37.360
+d'arriver à toujours optimiser à jouer un nouveaux produits,
+
+475
+00:18:37.360 --> 00:18:39.480
+à assurer les tendances, mais déjà une arrivée au lancement,
+
+476
+00:18:40.850 --> 00:18:42.080
+c'est déjà un soulagement,
+
+477
+00:18:42.340 --> 00:18:44.560
+un accomplissement et ne connais pas nous dire même dans le
+
+478
+00:18:44.560 --> 00:18:45.680
+whatsapp, dès que qu qu'a fait une vente,
+
+479
+00:18:46.650 --> 00:18:49.030
+dis nous et qu'on puisse du coup célébrer avec toi,
+
+480
+00:18:49.820 --> 00:18:50.820
+Ça marche. Oui, j'attends
+
+481
+00:18:50.820 --> 00:18:53.080
+ça. Je partagerai ça avec vous de ça arrive
+
+482
+00:18:53.620 --> 00:18:54.720
+Un peu. Merci.
+
+483
+00:18:55.410 --> 00:18:57.280
+Merci. Dans ceux qui sont là,
+
+484
+00:18:57.280 --> 00:18:58.760
+qui ont déjà dans lancé des sites qui se souviennent de sa
+
+485
+00:18:58.880 --> 00:19:03.860
+première vente est ce qu'il y en a qui ont déjà généré
+
+486
+00:19:03.860 --> 00:19:05.660
+des ventes, mais du coup et toi Jennifer, mais du coup,
+
+487
+00:19:05.660 --> 00:19:07.060
+ça ne fait pas longtemps, non, c'est encore cool.
+
+488
+00:19:07.060 --> 00:19:09.180
+Je pense peut être encore contente encore un noif ou pas,
+
+489
+00:19:10.810 --> 00:19:11.830
+Non, mais je suis encore,
+
+490
+00:19:12.090 --> 00:19:13.470
+je suis encore bien contente après,
+
+491
+00:19:13.470 --> 00:19:15.990
+il y a eu deux phases parce que la première toute première,
+
+492
+00:19:16.250 --> 00:19:17.790
+ça, c'était cette étape.
+
+493
+00:19:18.290 --> 00:19:21.790
+Et puis après, comme j'ai eu pas mal de petits soucis ou là,
+
+494
+00:19:21.900 --> 00:19:24.310
+j'ai eu, quand on est repassé en
+
+495
+00:19:25.250 --> 00:19:26.950
+en air ouest depuis deux semaines,
+
+496
+00:19:27.620 --> 00:19:29.350
+j'ai une vente tous les jours sur
+
+497
+00:19:29.350 --> 00:19:30.470
+au moins une vente par jour.
+
+498
+00:19:31.130 --> 00:19:33.870
+Et donc tous les matins, premier réflexe, c'est d'aller voir
+
+499
+00:19:34.410 --> 00:19:35.230
+ça parce que dans le champ
+
+500
+00:19:35.230 --> 00:19:36.630
+décalage horaire suis en Martinique.
+
+501
+00:19:37.060 --> 00:19:38.350
+Donc, en fait, quand je me lève,
+
+502
+00:19:38.350 --> 00:19:40.950
+il est déjà la moitié de la journée passée en là, bas
+
+503
+00:19:41.500 --> 00:19:44.310
+chez vous, du coup, c'est dire ah, est ce que j'ai?
+
+504
+00:19:44.310 --> 00:19:46.910
+Oui, ça même
+
+505
+00:19:49.090 --> 00:19:51.110
+Je déjà du moment ou tu me diras que tu regardes plus ton
+
+506
+00:19:51.270 --> 00:19:53.270
+téléphone parce que parce que ça
+
+507
+00:19:54.130 --> 00:19:55.350
+et que tu y après un moment,
+
+508
+00:19:55.350 --> 00:19:57.070
+tu regardes toutes les motifs parce que parce que tu
+
+509
+00:19:57.070 --> 00:19:58.950
+as la marre de recevoir des no motifs et
+
+510
+00:20:01.540 --> 00:20:03.520
+Tu suis pas encore la mais j'ai atteint effectivement,
+
+511
+00:20:05.920 --> 00:20:08.190
+C'est top manu c.
+
+512
+00:20:13.970 --> 00:20:17.270
+Ah oui. Ok, ça marche manu. Je prends note.
+
+513
+00:20:17.580 --> 00:20:18.710
+Vous partagez son avis.
+
+514
+00:20:18.710 --> 00:20:20.710
+Effectivement, c'était compliqué pour vous de
+
+515
+00:20:21.490 --> 00:20:23.430
+la configuration du marchand de center et que plus produit
+
+516
+00:20:27.240 --> 00:20:29.590
+Prend au et
+
+517
+00:20:32.830 --> 00:20:36.850
+En fait, j'ai créé la nouvelle boutique.
+
+518
+00:20:36.950 --> 00:20:39.290
+Et puis j'ai le module, en fait,
+
+519
+00:20:40.120 --> 00:20:43.050
+j'ai eu de la peine à le refaire parce que sur la première,
+
+520
+00:20:43.050 --> 00:20:44.970
+je ne sais pas, peut être,
+
+521
+00:20:45.470 --> 00:20:47.600
+je ne sais pas par conscience ou ne chez pas,
+
+522
+00:20:47.790 --> 00:20:50.720
+mais la deuxième fois que je le fais du coup,
+
+523
+00:20:51.620 --> 00:20:55.120
+je n'ai pas compris quand j'ai un problème en fait sur sur
+
+524
+00:20:55.120 --> 00:20:58.480
+mon site, ça, ça, ça m'a fait une intégration automatique.
+
+525
+00:20:58.620 --> 00:21:00.400
+Et puis ça m'a pas mis tous les produits.
+
+526
+00:21:01.450 --> 00:21:05.350
+Et là, ils sont même pas la moitié 45 produits et puis
+
+527
+00:21:05.350 --> 00:21:06.630
+normal la 200.
+
+528
+00:21:07.690 --> 00:21:11.050
+Et c'est bizarre, c, c'est,
+
+529
+00:21:12.340 --> 00:21:14.330
+C'est quoi qui bloque les produits sont refusés ou les
+
+530
+00:21:14.330 --> 00:21:15.370
+produits sont pas importés,
+
+531
+00:21:16.200 --> 00:21:18.900
+Non, ils se bat en fait, ils sont, ils sont
+
+532
+00:21:19.670 --> 00:21:21.940
+juste 45 qui sont confirmés.
+
+533
+00:21:21.990 --> 00:21:25.660
+C'est sévère, mais juste pas tous les produits en
+
+534
+00:21:27.050 --> 00:21:28.190
+Et les autres sont en rouge,
+
+535
+00:21:28.250 --> 00:21:29.510
+est ce que tu sais pourquoi ils sont
+
+536
+00:21:30.730 --> 00:21:31.730
+Pas du tout. Il
+
+537
+00:21:31.730 --> 00:21:34.590
+y a juste sa note, juste un total, 45 produits.
+
+538
+00:21:35.090 --> 00:21:38.990
+Et puis j'en ai, j'en ai plus et je ne sais pas ça,
+
+539
+00:21:38.990 --> 00:21:41.910
+ça m'a pas du tout compter les autres produits en est
+
+540
+00:21:42.630 --> 00:21:44.430
+Ce que tu veux partager ton écran et nous montrer ton
+
+541
+00:21:44.550 --> 00:21:46.430
+marchand de ceinture qu'on on regarde ensemble ou est ce que
+
+542
+00:21:47.350 --> 00:21:49.790
+Pourquoi peut être une prochaine fois un.
+
+543
+00:21:52.130 --> 00:21:53.470
+Ok, mais n'hésite pas,
+
+544
+00:21:53.470 --> 00:21:56.070
+n'hésite pas à revenir du coup mardi avec Théo jeudi
+
+545
+00:21:56.270 --> 00:21:57.830
+prochain, nous partager ton écran,
+
+546
+00:21:57.830 --> 00:21:59.510
+qu'on regarde ton marchand de center ensemble et qu'on voit
+
+547
+00:21:59.630 --> 00:22:02.070
+pourquoi l'importation du feu n'a pas été optimisé et
+
+548
+00:22:02.190 --> 00:22:03.670
+pourquoi tout est produit, ne sont pas importés,
+
+549
+00:22:05.990 --> 00:22:10.000
+Mais Avec avec gal, toi attend, perdant manu
+
+550
+00:22:11.010 --> 00:22:13.470
+Non qu'il y avait d'autres personnes qui
+
+551
+00:22:19.280 --> 00:22:21.660
+En fait, moi, je me suis fait accompagné puisque que je
+
+552
+00:22:21.660 --> 00:22:24.140
+n'avais pas les compétences techniques et par rapport au
+
+553
+00:22:24.140 --> 00:22:25.740
+tracking, je voulais faire ça proprement
+
+554
+00:22:26.600 --> 00:22:29.060
+que je n'ai pas envie de faire des erreurs là dessus,
+
+555
+00:22:29.060 --> 00:22:31.460
+vu premier site de craken parce que je sais qu'il y a
+
+556
+00:22:31.460 --> 00:22:34.660
+beaucoup de galères, même quand j'ai vu les discussions avec
+
+557
+00:22:34.660 --> 00:22:35.860
+des autres membres kn.
+
+558
+00:22:36.210 --> 00:22:38.580
+Donc moi, je me suis fait accompagné par un prestataire et,
+
+559
+00:22:39.280 --> 00:22:40.620
+et on a fait la mise en place
+
+560
+00:22:40.620 --> 00:22:41.700
+et les configurations ensemble.
+
+561
+00:22:41.730 --> 00:22:43.940
+Donc pas dessus. Je ne pourrais pas le dire,
+
+562
+00:22:43.940 --> 00:22:45.340
+mais c'est vrai que cette technique,
+
+563
+00:22:45.340 --> 00:22:47.100
+c'est assez technique, c'est parti là,
+
+564
+00:22:48.120 --> 00:22:49.690
+Mais c'est bien d'avoir un retour comme ça.
+
+565
+00:22:49.690 --> 00:22:51.530
+Du coup, moi, je peux remonter les infos et on peut
+
+566
+00:22:51.530 --> 00:22:54.490
+optimiser le module pour que soit plus simple du coup pour
+
+567
+00:22:54.490 --> 00:22:56.610
+vous, même si après vous avez parfois un marchand qui soit
+
+568
+00:22:56.610 --> 00:22:58.250
+autre, vous y retourner en ayant une
+
+569
+00:22:58.250 --> 00:22:59.650
+compréhension plus claire de ce qui se passe.
+
+570
+00:23:02.300 --> 00:23:06.670
+Et c'est une personne
+
+571
+00:23:06.670 --> 00:23:07.750
+qui est dans la formation,
+
+572
+00:23:11.400 --> 00:23:13.420
+Entend en tentant pas très bien n'arrive pas très bien.
+
+573
+00:23:13.540 --> 00:23:14.540
+Comprendre ce que tu dis.
+
+574
+00:23:15.800 --> 00:23:18.100
+Je n'ai pas de bonne connexion quand c'est qui cette
+
+575
+00:23:18.300 --> 00:23:20.620
+personne, c'est une personne dans la formation.
+
+576
+00:23:20.620 --> 00:23:21.620
+Quand
+
+577
+00:23:22.600 --> 00:23:24.260
+Non, quentin parce que tu
+
+578
+00:23:24.260 --> 00:23:25.740
+as fait appel à quentin du coup ça?
+
+579
+00:23:26.040 --> 00:23:27.580
+Oui, non.
+
+580
+00:23:27.580 --> 00:23:31.460
+Quentin c'est un présentateur externe avec Alicia
+
+581
+00:23:32.210 --> 00:23:33.260
+travaille en général.
+
+582
+00:23:33.260 --> 00:23:35.580
+Et du coup, je pense que c'est ça et du coup
+
+583
+00:23:35.580 --> 00:23:36.620
+celle qui de la conseiller.
+
+584
+00:23:37.240 --> 00:23:39.740
+Oui, en fait, je lui avais posé la question si elle avait
+
+585
+00:23:39.740 --> 00:23:40.940
+été pris à terre à me recommander.
+
+586
+00:23:41.640 --> 00:23:45.020
+Et C'est comme ça que j'ai rencontré en
+
+587
+00:23:46.860 --> 00:23:47.080
+Oui,
+
+588
+00:23:51.780 --> 00:23:53.920
+du coup est ce qu'aujourd'hui il y a quelque quelqu'un qui a
+
+589
+00:23:53.920 --> 00:23:57.320
+un sujet à voir en particulier partager son avancée,
+
+590
+00:23:57.320 --> 00:23:59.880
+nous dire ou il en est sur la session du jour.
+
+591
+00:24:02.120 --> 00:24:03.500
+Moi, je peux personne.
+
+592
+00:24:04.730 --> 00:24:06.780
+Bien sûr, Nicolas y partage, nous
+
+593
+00:24:07.370 --> 00:24:08.370
+Partage.
+
+594
+00:24:09.080 --> 00:24:10.580
+Je fais ça. Pas de souci
+
+595
+00:24:14.210 --> 00:24:15.260
+Pour ceux qui te connaissent pas,
+
+596
+00:24:15.260 --> 00:24:17.380
+Nicolas fait mon petit rappel de savoir ou tu en es.
+
+597
+00:24:17.440 --> 00:24:18.440
+Et
+
+598
+00:24:19.210 --> 00:24:20.780
+J'ai recommencé parce que avant,
+
+599
+00:24:20.780 --> 00:24:24.380
+j'étais sur la niche des tapis, on avait vu,
+
+600
+00:24:24.740 --> 00:24:26.140
+c'était un peu compliqué.
+
+601
+00:24:26.500 --> 00:24:28.580
+Alors j'ai changé. C'est un peu bru du
+
+602
+00:24:28.580 --> 00:24:31.220
+Côté était quand même super des terres
+
+603
+00:24:31.760 --> 00:24:33.060
+de côté à abandonné.
+
+604
+00:24:33.720 --> 00:24:36.020
+Ce n'est pas que j'ai abandonné parce quand on m'a dit
+
+605
+00:24:37.040 --> 00:24:41.370
+tu vois, tu vends trois fois le prix, genre le tap, tu 100,
+
+606
+00:24:41.710 --> 00:24:43.250
+tu dis, ça fait 400 euros d'un coup.
+
+607
+00:24:43.430 --> 00:24:46.010
+Tu dis vois ça pique en partir, chose de plus simple.
+
+608
+00:24:47.190 --> 00:24:48.570
+Et en fait, on
+
+609
+00:24:48.570 --> 00:24:49.570
+N'arrive pas à voir.
+
+610
+00:24:51.060 --> 00:24:52.440
+On voit pas du coup tu partages,
+
+611
+00:24:52.440 --> 00:24:54.040
+mais c'est vraiment tout petit petit, petit,
+
+612
+00:24:54.040 --> 00:24:56.520
+Propre, petit atteint. On va zoomer
+
+613
+00:24:57.350 --> 00:24:58.350
+Plus vieille. Je n'ai pas des yeux
+
+614
+00:24:58.350 --> 00:24:58.920
+de lynx
+
+615
+00:24:59.620 --> 00:25:00.620
+Là. C'est mieux ou pas.
+
+616
+00:25:00.620 --> 00:25:02.450
+Je sais pas si
+
+617
+00:25:05.110 --> 00:25:06.450
+là, c'est mieux du tout.
+
+618
+00:25:08.310 --> 00:25:10.690
+Ok, déjà, je vois le mot clé principal, mais
+
+619
+00:25:11.830 --> 00:25:14.250
+Tu Plaît,
+
+620
+00:25:15.670 --> 00:25:17.650
+il y a que moi qui ait des yeux de vieille ou est ce que
+
+621
+00:25:17.650 --> 00:25:19.930
+vous partagez, mon assez bon c'est, c'est mieux,
+
+622
+00:25:20.100 --> 00:25:21.100
+C'est mieux.
+
+623
+00:25:21.180 --> 00:25:25.480
+C'est très, mais je
+
+624
+00:25:25.660 --> 00:25:26.800
+Pas ces bon là. On voit bien,
+
+625
+00:25:26.990 --> 00:25:29.360
+Mais être comme, ça sera plus simple pour vous.
+
+626
+00:25:29.360 --> 00:25:31.840
+Parce que là, c'est vraiment comparant. C'est un peu cher.
+
+627
+00:25:31.840 --> 00:25:33.880
+Je pas montrer trop parce que c'est tellement zoomer.
+
+628
+00:25:34.820 --> 00:25:37.840
+En fait, j'ai regardé les peluches. Quoi sur.
+
+629
+00:25:40.350 --> 00:25:41.920
+Donc après ça,
+
+630
+00:25:41.920 --> 00:25:44.720
+c'est pour dire le site un petit peu tout ce qui est
+
+631
+00:25:44.720 --> 00:25:48.560
+catégorie, parce que sinon c'est interminable parce il n'y a
+
+632
+00:25:48.560 --> 00:25:51.800
+rien qui qui les rassemble directement à part leur,
+
+633
+00:25:51.990 --> 00:25:53.960
+leur domaine, leur la vie. Quoi?
+
+634
+00:25:54.760 --> 00:25:57.720
+Alors je vais, on va s'arrêter là pour le premier point
+
+635
+00:25:57.720 --> 00:26:00.200
+déjà la peluche, on ne va pas refaire l'histoire.
+
+636
+00:26:00.250 --> 00:26:01.440
+C'est une niche qui est validée.
+
+637
+00:26:02.390 --> 00:26:03.880
+Donc de là, en terme de volume de
+
+638
+00:26:04.060 --> 00:26:05.280
+CPC de truc, on sait que c'est bon.
+
+639
+00:26:05.780 --> 00:26:09.400
+Il n'y a pas de problème. Les ratios de
+
+640
+00:26:09.400 --> 00:26:10.880
+rentabilité ne sont pas toujours très haut.
+
+641
+00:26:10.880 --> 00:26:12.600
+Donc tu sais que c'est des produits ou tu vas gagner de
+
+642
+00:26:12.600 --> 00:26:14.360
+l'argent sur le volume et pas sur l'unité.
+
+643
+00:26:15.020 --> 00:26:18.680
+Tu sais, moi ce qui me ce qui me
+
+644
+00:26:19.740 --> 00:26:22.440
+ce qui me truc là, c'est que je comprends complètement ta
+
+645
+00:26:22.440 --> 00:26:23.680
+logique de séparation,
+
+646
+00:26:23.680 --> 00:26:25.760
+en plus qu'il vient de la mère de la jun, de la savane,
+
+647
+00:26:25.900 --> 00:26:29.060
+la forêt pour différencier.
+
+648
+00:26:29.060 --> 00:26:31.420
+Par contre, il faut savoir que dans cette niche, là,
+
+649
+00:26:31.420 --> 00:26:34.420
+par exemple, il y a des mots clés qui peuvent être des
+
+650
+00:26:34.420 --> 00:26:36.180
+collections et qui sont à fort volume de recherche.
+
+651
+00:26:37.110 --> 00:26:41.310
+D'accord, donc du coup,
+
+652
+00:26:41.680 --> 00:26:44.060
+parce que là du coup, tu ne fais que des peluches animaux.
+
+653
+00:26:44.530 --> 00:26:47.280
+Ouais, parce que après je n'ai pas fait,
+
+654
+00:26:47.380 --> 00:26:48.440
+je n'ai pas regardé plus.
+
+655
+00:26:48.460 --> 00:26:51.680
+Je me suis déjà les animaux parce que ça resté simple après,
+
+656
+00:26:51.680 --> 00:26:52.760
+il faut éviter tout ce qui est marc.
+
+657
+00:26:52.760 --> 00:26:53.760
+Donc c'est chiant,
+
+658
+00:26:55.280 --> 00:26:56.360
+Comprend Donc,
+
+659
+00:26:58.540 --> 00:26:59.760
+Du coup est ce qu'il y a moyen.
+
+660
+00:27:00.780 --> 00:27:04.440
+On va réfléchir ensemble parce que en pelus animaux,
+
+661
+00:27:04.460 --> 00:27:06.400
+on sait que c'est un un gros volume de recherche.
+
+662
+00:27:06.750 --> 00:27:08.680
+Donc ça déjà, il faudrait que tu me le cale quelque part,
+
+663
+00:27:10.200 --> 00:27:11.250
+Mais du Pelus
+
+664
+00:27:11.870 --> 00:27:13.450
+Tu l, après un peluche en en lui même.
+
+665
+00:27:13.450 --> 00:27:16.210
+Je l'ai pas. Mais tout ce qui est pelus là le volume,
+
+666
+00:27:17.290 --> 00:27:18.710
+Non, je parle de peluche animaux.
+
+667
+00:27:19.250 --> 00:27:20.250
+Le mot
+
+668
+00:27:20.730 --> 00:27:21.730
+Lui Même. D'accord,
+
+669
+00:27:21.730 --> 00:27:23.800
+est ce que peluche de la mer,
+
+670
+00:27:23.800 --> 00:27:25.800
+plus de la jungle pele de la savane et plus de la forêt,
+
+671
+00:27:26.140 --> 00:27:27.140
+Non, il n'y a pas de volume.
+
+672
+00:27:27.840 --> 00:27:29.540
+Ok, est ce que plus coup plutôt, pourquoi pas?
+
+673
+00:27:29.540 --> 00:27:32.780
+Les appeler? Peluche fait des recherches pour voir si
+
+674
+00:27:32.780 --> 00:27:34.700
+peluche animaux de la jungle.
+
+675
+00:27:34.700 --> 00:27:37.620
+Ça n'a pas un volume de recherche parce que peluche de la
+
+676
+00:27:37.620 --> 00:27:39.180
+jungle en lui, c'est sûr que c'est zéro.
+
+677
+00:27:39.240 --> 00:27:42.140
+Ça veut rien dire et pas plus animaux.
+
+678
+00:27:42.400 --> 00:27:45.100
+Tu vois de la peutêtre à ce moment moment là,
+
+679
+00:27:45.240 --> 00:27:46.140
+un volume de recherche qui serait
+
+680
+00:27:46.140 --> 00:27:47.460
+plus intéressant à travailler pour toi.
+
+681
+00:27:47.890 --> 00:27:51.460
+Donc est ce que tu peux me socer dit
+
+682
+00:27:51.460 --> 00:27:52.700
+peluche hippopotame différentes.
+
+683
+00:27:55.560 --> 00:27:58.730
+Mais si je te dis, dis différentes,
+
+684
+00:27:59.200 --> 00:28:02.010
+peut qu'il y a les coloris tout, mais pas sûr ça,
+
+685
+00:28:02.030 --> 00:28:05.010
+ça dépend des ce que j'ai dit un peu list et ici,
+
+686
+00:28:08.440 --> 00:28:11.740
+Ok, Prendre un exemple, on prend au p les dinosaures.
+
+687
+00:28:11.900 --> 00:28:13.060
+C n'est pas le bon exemple, parce que
+
+688
+00:28:13.680 --> 00:28:15.580
+Pas le bon exemple parce qu'il y en a plein, non?
+
+689
+00:28:15.580 --> 00:28:18.340
+Parce c'est à l de TI sur ceux ou il y en a
+
+690
+00:28:18.750 --> 00:28:19.750
+Parce qu'il faut, je l'écris.
+
+691
+00:28:19.920 --> 00:28:21.500
+Tu m'as dit quoi déjà comme exemple?
+
+692
+00:28:22.080 --> 00:28:23.500
+Pas des trucs, des trucs se lo genre
+
+693
+00:28:24.370 --> 00:28:28.380
+Comment Non, mais mais je une canard,
+
+694
+00:28:29.080 --> 00:28:30.620
+Les potables, je peux même pas te les fournir.
+
+695
+00:28:30.620 --> 00:28:31.620
+Il y a tellement peu de volumes que
+
+696
+00:28:31.620 --> 00:28:32.620
+je peux que j'en fais rien en fait.
+
+697
+00:28:33.810 --> 00:28:35.460
+Donc ça ne peut pas, ça ne peut pas être une catégorie.
+
+698
+00:28:35.560 --> 00:28:36.860
+Si si tu ne peux pas socer
+
+699
+00:28:38.730 --> 00:28:39.830
+Oui, mais après, je l'ai mis dedans.
+
+700
+00:28:39.830 --> 00:28:41.590
+Ce n'est pas une catégorie, c'est juste un animal,
+
+701
+00:28:41.590 --> 00:28:42.790
+mais c'est juste que que j'avais du volume.
+
+702
+00:28:42.840 --> 00:28:43.990
+C'est pour ça. Après, j'ai
+
+703
+00:28:43.990 --> 00:28:45.230
+regardé et je n'ai pas de fournisseur.
+
+704
+00:28:46.620 --> 00:28:48.590
+Donc là pour le coup,
+
+705
+00:28:48.930 --> 00:28:50.390
+je est validé, il n'y a pas de problème.
+
+706
+00:28:50.500 --> 00:28:52.350
+Bien au courant, il y a beaucoup de concurrents et que t
+
+707
+00:28:52.350 --> 00:28:54.350
+rassur rentabilité se seront pas très élevé parce que c'est
+
+708
+00:28:54.350 --> 00:28:57.190
+du produit moyen de gamme.
+
+709
+00:28:58.510 --> 00:29:00.070
+A tu au courant pour le truc des licences.
+
+710
+00:29:00.070 --> 00:29:01.030
+Donc je ne vais pas te ref faire le coup
+
+711
+00:29:01.090 --> 00:29:02.430
+là dessus, juste là.
+
+712
+00:29:02.430 --> 00:29:05.190
+L'idée, c'est vraiment chaque animal va être une catégorie
+
+713
+00:29:06.330 --> 00:29:07.990
+Ou ou oui, c'est une catégorie.
+
+714
+00:29:08.810 --> 00:29:12.710
+Ben. Oui. Chaque une catégorie fait bien attention avant
+
+715
+00:29:12.880 --> 00:29:15.350
+avant de t'embêter à te créer l'ie,
+
+716
+00:29:15.350 --> 00:29:16.950
+à faire des descriptions catégorie et tout
+
+717
+00:29:17.340 --> 00:29:18.710
+vérifier que tu peux sourcer.
+
+718
+00:29:18.930 --> 00:29:21.550
+Je n'ai pas de doute que tu puisse cesser. Pele cochon.
+
+719
+00:29:21.550 --> 00:29:23.430
+Quand tu vas à la vie, il n'y a pas de problème. C'est
+
+720
+00:29:23.430 --> 00:29:25.270
+Pas contre, crois que les cochons c'est plus chi en ju
+
+721
+00:29:26.010 --> 00:29:28.190
+Ah ouais, je sais pas. J'imaginais que les cochons,
+
+722
+00:29:29.130 --> 00:29:31.990
+Si j'arrive à le trouver mais ou
+
+723
+00:29:32.740 --> 00:29:35.470
+Mais tu vois de son travail, c'est ça.
+
+724
+00:29:35.470 --> 00:29:37.070
+C'est de vérifier que tu peux sourcer suffisamment
+
+725
+00:29:37.970 --> 00:29:39.030
+Que c'est vraiment un cochon.
+
+726
+00:29:39.050 --> 00:29:40.050
+Ça
+
+727
+00:29:40.450 --> 00:29:41.520
+Et bien sûr, un cochon,
+
+728
+00:29:41.980 --> 00:29:44.400
+Un cochon, mais je les déguisé. Mais oui,
+
+729
+00:29:44.470 --> 00:29:45.470
+Mais c'est un cochon.
+
+730
+00:29:45.540 --> 00:29:47.360
+Et après là,
+
+731
+00:29:47.460 --> 00:29:50.000
+je vais cliquer dessus sur ursul là les déclinaisons.
+
+732
+00:29:50.000 --> 00:29:52.560
+Tu les comptes comme plusieurs ou tu les comptes comme une
+
+733
+00:29:53.770 --> 00:29:55.470
+Ok, moi, je veux le cochon.
+
+734
+00:29:55.880 --> 00:29:57.190
+C'est juste une question. Je veux
+
+735
+00:29:57.580 --> 00:30:00.190
+Mais mais du coup, j'ai expliquer le principe.
+
+736
+00:30:00.770 --> 00:30:01.870
+Je veux le cochon grenouille,
+
+737
+00:30:02.770 --> 00:30:04.230
+par exemple, je veux faire une fich.
+
+738
+00:30:04.230 --> 00:30:05.710
+Je produit avec uniquement le cochon.
+
+739
+00:30:05.710 --> 00:30:06.630
+Grenouille est ce que j'ai cinq
+
+740
+00:30:06.630 --> 00:30:07.670
+photos différentes du cochon.
+
+741
+00:30:07.670 --> 00:30:08.670
+Grenouille,
+
+742
+00:30:09.530 --> 00:30:10.530
+Non.
+
+743
+00:30:10.730 --> 00:30:11.730
+Après, on est là,
+
+744
+00:30:13.450 --> 00:30:15.070
+Non, ça c n'est pas des photos. C'est des
+
+745
+00:30:15.730 --> 00:30:16.590
+Là. J'en une.
+
+746
+00:30:17.210 --> 00:30:18.550
+En fait, l'idée, c'est que pour
+
+747
+00:30:18.550 --> 00:30:19.590
+moi, il n'y a pas de problème.
+
+748
+00:30:19.610 --> 00:30:21.950
+Tu peux, ce produit peut être trois produits différents
+
+749
+00:30:21.950 --> 00:30:24.390
+parce que c'est trois pelus cochons vraiment différentes.
+
+750
+00:30:24.650 --> 00:30:26.430
+Ce n'est pas le même cochon en différentes couleurs.
+
+751
+00:30:26.430 --> 00:30:28.990
+C'est un cochon déguisé en grenouille, un cochon déguisé,
+
+752
+00:30:28.990 --> 00:30:32.670
+un lapin et un cochon déguisé en ne sait pas
+
+753
+00:30:34.490 --> 00:30:36.230
+du coup, ce cochon peut aussi rentrer
+
+754
+00:30:36.400 --> 00:30:37.430
+comme une peluche lapin.
+
+755
+00:30:37.510 --> 00:30:39.790
+Il n'y a pas de problème. Mais si je n'ai pas assez de
+
+756
+00:30:39.790 --> 00:30:42.590
+photo, tu un fich produit qui va être hyper pauvre parce que
+
+757
+00:30:42.590 --> 00:30:44.230
+je vais avoir une photo et un descriptif.
+
+758
+00:30:45.010 --> 00:30:46.910
+Par contre, rien ne t'empêche maintenant que tu veux faire
+
+759
+00:30:46.910 --> 00:30:50.270
+ça, c'est d'aller voir les concurrents d'aller scroller sur
+
+760
+00:30:50.410 --> 00:30:52.470
+Ali express, d'aller demander même au fournisseur,
+
+761
+00:30:52.470 --> 00:30:55.190
+contacter fournier express pour lui demander d'autres
+
+762
+00:30:55.210 --> 00:30:56.350
+images de ce produit là.
+
+763
+00:30:57.920 --> 00:30:59.980
+Et si tu arrives à me sortir différentes images.
+
+764
+00:30:59.980 --> 00:31:01.140
+Donc au moins trois ou quatre images
+
+765
+00:31:01.140 --> 00:31:02.180
+différentes de ce même produit.
+
+766
+00:31:02.570 --> 00:31:03.660
+Pour moi, il n'y a pas de problème.
+
+767
+00:31:03.660 --> 00:31:05.620
+Tu peux faire de ce produit trois produits différents.
+
+768
+00:31:07.440 --> 00:31:10.420
+Par Contre, si on est sur une peluche serpent
+
+769
+00:31:11.160 --> 00:31:14.060
+et que c'est exactement le même serpent en bleu et en vert,
+
+770
+00:31:14.060 --> 00:31:15.260
+et tu n'as pas de photo là,
+
+771
+00:31:15.260 --> 00:31:16.180
+je te dirais fais une
+
+772
+00:31:16.180 --> 00:31:17.420
+produit avec trois vari à fond de couleur.
+
+773
+00:31:19.560 --> 00:31:19.980
+Tu vois
+
+774
+00:31:24.830 --> 00:31:28.930
+moi, les photos ne sont pas top les photo live, mais
+
+775
+00:31:29.600 --> 00:31:31.290
+mais en tout cas, oui, c'est un peu plus certain encore,
+
+776
+00:31:31.290 --> 00:31:33.890
+mais c'est pas, c'est quoi les assez
+
+777
+00:31:33.890 --> 00:31:34.930
+en l'eau compren pas les
+
+778
+00:31:37.790 --> 00:31:39.880
+Et C'est pas cher pour le coup.
+
+779
+00:31:39.880 --> 00:31:42.200
+Cinq serpents à trois zéro 15, ça me donne,
+
+780
+00:31:43.580 --> 00:31:45.920
+Ils sont mieux Sont beaucoup mieux
+
+781
+00:31:46.380 --> 00:31:50.040
+Ça, beaucoup mieux De la la
+
+782
+00:31:50.380 --> 00:31:51.380
+Sur la photo. C'est parce
+
+783
+00:31:51.380 --> 00:31:52.760
+que, comme tu dis, elle qu une chaque fois,
+
+784
+00:31:54.250 --> 00:31:55.390
+En fait, c'est dans ce cas là,
+
+785
+00:31:55.390 --> 00:31:57.470
+si y n'a qu'une chaque fois, tu n' pas pouvoir dupliquer te
+
+786
+00:31:57.510 --> 00:31:59.310
+fiches produits et faire une fiche produit par image.
+
+787
+00:31:59.310 --> 00:32:01.310
+Par contre, vraiment, tu peux faire ce travail là d'aller
+
+788
+00:32:01.960 --> 00:32:04.270
+faire une recherche par image sur a express sur Google,
+
+789
+00:32:04.330 --> 00:32:06.150
+le voir si tu peux pas piquer des photos,
+
+790
+00:32:06.150 --> 00:32:08.470
+attention à pas piquer des photos de shooting de d'autres
+
+791
+00:32:08.470 --> 00:32:11.030
+marques, mais à trouver d'autres photos ou faire ce travail
+
+792
+00:32:11.060 --> 00:32:12.910
+peut être de dé, détourner, de changer le fond.
+
+793
+00:32:13.610 --> 00:32:15.590
+Il y a moyen de faire un travail propre,
+
+794
+00:32:15.740 --> 00:32:18.270
+mais attention n'a pas dupliqué pour dupliqué.
+
+795
+00:32:18.460 --> 00:32:20.430
+Tout ça pour avoir les 10 produits dans une catégorie,
+
+796
+00:32:20.430 --> 00:32:22.030
+parce que c'est dire par vous desservir
+
+797
+00:32:22.770 --> 00:32:25.150
+si vous faites le travail vite fait de snder
+
+798
+00:32:28.180 --> 00:32:31.310
+mais en tout cas, top trouve moi juste essaie de de me
+
+799
+00:32:31.310 --> 00:32:33.430
+trouver simplement du coup des têtes de silos de catégorie
+
+800
+00:32:33.620 --> 00:32:37.630
+avec avec des mots clés avec des mots clés qui font du
+
+801
+00:32:37.630 --> 00:32:40.480
+volume de recherche, parce que la pel de la jungle est
+
+802
+00:32:40.480 --> 00:32:41.680
+d'accord que ça veut rien dire pour Google.
+
+803
+00:32:41.790 --> 00:32:43.280
+Donc, et fait moi, elle fait moi le travail
+
+804
+00:32:44.570 --> 00:32:48.070
+sur sam rush de voir si tu peux mieux mieux marcher
+
+805
+00:32:49.060 --> 00:32:50.550
+pour soit sexy
+
+806
+00:32:51.010 --> 00:32:52.010
+Par une question.
+
+807
+00:32:52.290 --> 00:32:53.910
+Les baleines. Je suis vraiment bloquée.
+
+808
+00:32:53.910 --> 00:32:57.710
+J'ai vraiment qu'un produit est ce qu'il y a une utilité
+
+809
+00:32:57.710 --> 00:32:58.710
+vraiment de le mettre ou pas?
+
+810
+00:32:59.950 --> 00:33:01.350
+T'as qu'une seule pelus baleine dans toi?
+
+811
+00:33:02.230 --> 00:33:04.150
+Vraiment? Je peux te faire l'exemple.
+
+812
+00:33:05.970 --> 00:33:08.790
+Je ne peux pas te prendre Même pas,
+
+813
+00:33:09.970 --> 00:33:11.910
+Non, on peut pas pas Pas,
+
+814
+00:33:12.180 --> 00:33:13.710
+mais quand il montera une baleine
+
+815
+00:33:15.690 --> 00:33:17.190
+Déjà, j, vois deux attend.
+
+816
+00:33:17.190 --> 00:33:18.510
+Là déjà, j'ai une baleine à boss
+
+817
+00:33:19.050 --> 00:33:20.050
+Ou tu vois une baleine? Ça
+
+818
+00:33:20.050 --> 00:33:22.050
+elle là. Non,
+
+819
+00:33:22.470 --> 00:33:23.470
+Non, non. Troisième ligne
+
+820
+00:33:23.470 --> 00:33:24.810
+avant dernière,
+
+821
+00:33:25.510 --> 00:33:26.510
+Là, celle là.
+
+822
+00:33:27.140 --> 00:33:29.410
+C'est une baleine, ça, Non, c'est un requin. Il écrit,
+
+823
+00:33:30.400 --> 00:33:32.810
+Mais mais moi, je dis que c'est une Bale.
+
+824
+00:33:33.430 --> 00:33:36.050
+Oui, c'est vrai. Si tu parles de ce oui, tu peux dire oui,
+
+825
+00:33:36.550 --> 00:33:37.810
+Non, mais mais ce n'est pas moi.
+
+826
+00:33:37.810 --> 00:33:41.130
+Le principe tape sur Google, tape sur Google, pel baleine,
+
+827
+00:33:42.540 --> 00:33:46.390
+Vois il requin,
+
+828
+00:33:46.390 --> 00:33:48.270
+mais c'est une baleine, mais
+
+829
+00:33:48.850 --> 00:33:51.270
+En fait la vérité, la vérité,
+
+830
+00:33:51.270 --> 00:33:53.390
+c'est Google qui la tape sur Google pelu je baleine
+
+831
+00:33:53.930 --> 00:33:55.470
+et voit ce que Google te sort un peu.
+
+832
+00:33:55.470 --> 00:33:56.470
+Je baleine
+
+833
+00:33:57.210 --> 00:33:58.210
+Si met un dauphin. Je ne veux
+
+834
+00:33:58.210 --> 00:34:01.640
+pas comprendre moi, mais dinosaure.
+
+835
+00:34:01.690 --> 00:34:02.690
+C'est quoi ce bordel?
+
+836
+00:34:04.300 --> 00:34:06.800
+Tu vois, à mon avis, il,
+
+837
+00:34:06.820 --> 00:34:08.120
+il y a moyen que celle que je te dis.
+
+838
+00:34:08.120 --> 00:34:10.080
+Si tu l'appelles même que ce soit une baleine
+
+839
+00:34:11.670 --> 00:34:15.160
+Joie, elle est là à la gauche.
+
+840
+00:34:15.710 --> 00:34:17.680
+Donc c'est une baleine.
+
+841
+00:34:20.180 --> 00:34:21.680
+Ça fait un deuxième. Tu Vois ce genre de choses?
+
+842
+00:34:21.680 --> 00:34:23.720
+Ça veut dire que tout ce qui peut ressembler de trop de loin
+
+843
+00:34:23.720 --> 00:34:25.360
+à une baleine et quand même une baleine.
+
+844
+00:34:25.360 --> 00:34:27.040
+Attention, ne pas partir dans un délire trop
+
+845
+00:34:27.540 --> 00:34:31.910
+Ne dit pas que Non.
+
+846
+00:34:31.910 --> 00:34:34.310
+Un or, c'est un or un. Je n'est même pas si masculin.
+
+847
+00:34:35.290 --> 00:34:38.870
+On s'en fout. Retourne sur Ali express.
+
+848
+00:34:39.250 --> 00:34:41.430
+Oui, Je suis sûr que tu peux me
+
+849
+00:34:41.430 --> 00:34:43.550
+sortir. Moi qui m'en mette
+
+850
+00:34:44.410 --> 00:34:48.670
+Ça, c'est pas une bal, mais Là, je vois une bal là.
+
+851
+00:34:48.670 --> 00:34:50.190
+Il y a une baleine rose, une bal
+
+852
+00:34:51.860 --> 00:34:53.270
+Baleine bleue après elle.
+
+853
+00:34:53.290 --> 00:34:56.310
+Volume à 160. Tu bon, ça reste correct.
+
+854
+00:34:56.340 --> 00:34:59.470
+Mais ça reste valable, je pense. Mais ça
+
+855
+00:34:59.470 --> 00:35:00.470
+Reste 160. Ça
+
+856
+00:35:00.470 --> 00:35:01.470
+reste valable complètement.
+
+857
+00:35:01.470 --> 00:35:05.410
+Val évite moi la baleine, mon fils. Tu
+
+858
+00:35:05.410 --> 00:35:06.410
+Vois vite? Parce que
+
+859
+00:35:06.410 --> 00:35:07.050
+c la marque,
+
+860
+00:35:08.880 --> 00:35:10.890
+Mais du coup, tu vois, il y a quand même de la baleine.
+
+861
+00:35:10.890 --> 00:35:15.780
+Tu peux franchement me sortir d avec être
+
+862
+00:35:15.780 --> 00:35:18.460
+des requin baleines, mais ça restera une baleine quand même
+
+863
+00:35:18.640 --> 00:35:22.310
+Ça, une baleine incroyable.
+
+864
+00:35:22.380 --> 00:35:23.380
+Mais
+
+865
+00:35:25.010 --> 00:35:26.350
+Du coup, voilà la fin du coup,
+
+866
+00:35:27.330 --> 00:35:29.870
+ça vaut le coup parce que j'imagine que peu baleines,
+
+867
+00:35:29.870 --> 00:35:30.950
+c'est comme même un gros volume de recherche.
+
+868
+00:35:31.610 --> 00:35:32.790
+Pas je te montre.
+
+869
+00:35:33.610 --> 00:35:35.790
+Ah oui, j'imagine que c'est un du recherche,
+
+870
+00:35:36.870 --> 00:35:40.360
+mais du coup, ah oui, c'est pas énorme.
+
+871
+00:35:40.360 --> 00:35:42.120
+Je pense que que plus en que en baleine,
+
+872
+00:35:42.550 --> 00:35:43.800
+Mais le plus, c'est les ours,
+
+873
+00:35:43.800 --> 00:35:45.360
+ils me trompent pas là comme ça
+
+874
+00:35:46.180 --> 00:35:48.920
+Ou ours son peu ou forcément,
+
+875
+00:35:51.330 --> 00:35:54.500
+mais du coup vas y mais mais le paquet là sur ladessus du
+
+876
+00:35:54.500 --> 00:35:55.940
+travail, c'est trouve moi des bottes têtes de
+
+877
+00:35:55.940 --> 00:35:57.060
+silo avec des bon volumes de recherche.
+
+878
+00:35:57.060 --> 00:35:59.980
+On re formule en architecture du coup en fonction de ça et
+
+879
+00:36:00.020 --> 00:36:02.940
+vérifie moi que toutes les catégories peuvent être SOS pour
+
+880
+00:36:02.940 --> 00:36:05.180
+qu'après on puisse te dire ok pour savoir combien de
+
+881
+00:36:05.180 --> 00:36:06.300
+catégories vont rester au final.
+
+882
+00:36:06.360 --> 00:36:08.500
+En fait, parce que si tu vois qu'une fois que tu
+
+883
+00:36:08.500 --> 00:36:11.020
+as écrié qui te reste 10 catégories, tu vas aller,
+
+884
+00:36:12.440 --> 00:36:15.700
+tu vas aller taper sur d'autres d'autres styles de peluches.
+
+885
+00:36:16.110 --> 00:36:17.740
+C'est à dire sur les peluches animaux.
+
+886
+00:36:17.920 --> 00:36:20.220
+Si tu vois que tu es réduit à 10 catégories qui valent le
+
+887
+00:36:20.220 --> 00:36:22.420
+coup est ce que tu vas ouvrir à d'autres styles de peluche.
+
+888
+00:36:22.570 --> 00:36:25.060
+Mais du coup ça, il faut tu fini de travail de première
+
+889
+00:36:25.760 --> 00:36:27.700
+de première rage en fonction des
+
+890
+00:36:27.700 --> 00:36:28.900
+catégories trouver déjà comme
+
+891
+00:36:30.040 --> 00:36:31.040
+Il y a tru. Je ne comprends pas.
+
+892
+00:36:31.040 --> 00:36:31.620
+Il y avait un mois,
+
+893
+00:36:31.620 --> 00:36:34.020
+il y avait une mode avec la peluche pieuvre réversible.
+
+894
+00:36:34.020 --> 00:36:35.340
+Je ne sais pas si celle là,
+
+895
+00:36:35.840 --> 00:36:37.740
+je pas si tu vois celle l'endroit à gauche
+
+896
+00:36:39.000 --> 00:36:41.060
+et mais est impossible à retrouver maintenant
+
+897
+00:36:41.280 --> 00:36:42.300
+sur aller express du moi.
+
+898
+00:36:42.300 --> 00:36:45.050
+Je n'ai pas regardé ailleurs jour comme ça
+
+899
+00:36:46.140 --> 00:36:47.160
+Et une peu réversible
+
+900
+00:36:47.500 --> 00:36:50.160
+Ou, mais je crois qu c'était la mode. Je sais.
+
+901
+00:36:50.340 --> 00:36:51.600
+Oui, il y, il y a, il
+
+902
+00:36:51.600 --> 00:36:53.680
+Y a une petite mode et par contre, j n'arrive pas.
+
+903
+00:36:53.940 --> 00:36:57.050
+Tu trouve pas quoi? Je trouve ça bizarre, mais bon,
+
+904
+00:36:57.560 --> 00:36:59.410
+Bien là, je la vois un Spiderman, vois
+
+905
+00:37:01.190 --> 00:37:04.170
+Si prend pas si tu pouvais mais pas beaucoup par rapport
+
+906
+00:37:04.170 --> 00:37:06.330
+à, je pense que, mais parce que aussi
+
+907
+00:37:06.870 --> 00:37:08.690
+Et parce qu'il y a des effets, il des effets de mode dans
+
+908
+00:37:08.690 --> 00:37:10.450
+la vie aussi, par contre,
+
+909
+00:37:10.450 --> 00:37:12.730
+le boule peut un paquet qui poule peut à la
+
+910
+00:37:12.730 --> 00:37:14.090
+morte un paquet bûche.
+
+911
+00:37:14.540 --> 00:37:15.490
+C'est vraiment pas beau.
+
+912
+00:37:19.340 --> 00:37:21.610
+C'est pas ce que j'achèterais pour un enfant.
+
+913
+00:37:21.630 --> 00:37:24.970
+Tu, si tu commences à ton enfant,
+
+914
+00:37:26.990 --> 00:37:28.040
+Mais bon, en tout cas, c'est bien.
+
+915
+00:37:28.790 --> 00:37:30.320
+Suis désolé pour toi, pour le tapis,
+
+916
+00:37:30.320 --> 00:37:33.320
+mais c'est bien que tu es sur côté sur rebondir et du coup
+
+917
+00:37:33.320 --> 00:37:36.320
+que t que tu chercher une nouvelle niche. Je
+
+918
+00:37:36.670 --> 00:37:39.800
+Parents, c'est quelqu'un un problème?
+
+919
+00:37:39.820 --> 00:37:40.040
+Non,
+
+920
+00:37:44.390 --> 00:37:45.760
+bien, ça fait bizarre.
+
+921
+00:37:48.870 --> 00:37:50.290
+Tu verras quand tu prend ton enfant,
+
+922
+00:37:50.450 --> 00:37:52.530
+voudra aimer le monde de la mer qui achèterais une
+
+923
+00:37:52.530 --> 00:37:53.970
+pelus. Raconte
+
+924
+00:37:54.590 --> 00:37:57.410
+Un an, ce sera un re regard.
+
+925
+00:37:57.410 --> 00:38:00.330
+C'est mieux ou mais il faut que je trie.
+
+926
+00:38:00.330 --> 00:38:02.610
+Il faut que je cherche du des photos pour
+
+927
+00:38:02.610 --> 00:38:05.780
+chaque, chaque catégorie,
+
+928
+00:38:08.310 --> 00:38:09.310
+C'est sûr. Il faut que tu vois
+
+929
+00:38:09.310 --> 00:38:10.740
+le sourcil. Il faut que tu vois la
+
+930
+00:38:10.740 --> 00:38:12.100
+disponibilité et il faut que le
+
+931
+00:38:12.100 --> 00:38:13.320
+travaille là. Tu regardes quand est en et là, je regarde combien temps
+
+932
+00:38:14.310 --> 00:38:15.310
+Il mea plus rien. Non,
+
+933
+00:38:15.310 --> 00:38:16.330
+ça devrait aller. Je pense
+
+934
+00:38:17.310 --> 00:38:18.310
+Pas plus rien. Il faudra juste
+
+935
+00:38:18.310 --> 00:38:19.450
+crack.
+
+936
+00:38:19.870 --> 00:38:22.570
+Il faut rechercher des nouveaux mots clés en fait. Mais il
+
+937
+00:38:23.520 --> 00:38:25.050
+Rien après sur les animaux.
+
+938
+00:38:25.050 --> 00:38:26.050
+Je pense que j'ai la marge,
+
+939
+00:38:28.510 --> 00:38:31.370
+En tout cas, un paquet d'animaux là. Je
+
+940
+00:38:31.370 --> 00:38:32.330
+N'ai pas mal, mais je n'ai pas le tout
+
+941
+00:38:32.330 --> 00:38:33.330
+regarde par un perroquet.
+
+942
+00:38:33.330 --> 00:38:34.330
+Je ne l'ai pas dedans. Tu vois
+
+943
+00:38:35.430 --> 00:38:36.430
+Pas du coup? Tu vois? C'est
+
+944
+00:38:36.430 --> 00:38:37.370
+ça encore.
+
+945
+00:38:37.510 --> 00:38:38.850
+Tu peux encore tester des nouveaux mots.
+
+946
+00:38:39.520 --> 00:38:41.090
+J'ai de la marge. Voilà.
+
+947
+00:38:41.480 --> 00:38:43.450
+Parfait. Mais en tout cas, bien, bossé pas.
+
+948
+00:38:44.050 --> 00:38:48.650
+J'essaye Parfait.
+
+949
+00:38:48.740 --> 00:38:51.770
+Être à des questions encore par rapport à tes recherches.
+
+950
+00:38:52.430 --> 00:38:53.490
+Non, les recherches, non,
+
+951
+00:38:54.340 --> 00:38:56.290
+juste un petit point sur la formation.
+
+952
+00:38:56.550 --> 00:38:58.770
+Je trouve que tu passes sur ta niche.
+
+953
+00:38:58.770 --> 00:39:00.210
+Tu valid ta niche entre parenthèses.
+
+954
+00:39:00.210 --> 00:39:02.370
+Et après tu arrives directement à créer ton site
+
+955
+00:39:03.030 --> 00:39:04.170
+après tu arrives directement,
+
+956
+00:39:04.170 --> 00:39:05.610
+mais c'est tout et sur commerce.
+
+957
+00:39:05.760 --> 00:39:09.290
+Donc si tu commences sur Shopify, il il y a rien aussi.
+
+958
+00:39:09.390 --> 00:39:11.450
+Il y a tous les modules. Il y a tous les mêmes modules,
+
+959
+00:39:11.450 --> 00:39:12.930
+fait sur le commerce sur Shopify
+
+960
+00:39:13.120 --> 00:39:16.850
+Atteint, fasse de bêtises
+
+961
+00:39:18.920 --> 00:39:21.380
+Et Sauf si je dis une bêtise,
+
+962
+00:39:22.220 --> 00:39:24.740
+Alors attends et Pas si là, c'est l'autre
+
+963
+00:39:27.610 --> 00:39:30.790
+Est ce que c'est Arrive là et là, il parle.
+
+964
+00:39:31.450 --> 00:39:32.510
+Si je ne trouve pas, c'est ça,
+
+965
+00:39:33.780 --> 00:39:35.610
+Parce que du coup c'est le nouveau truc de school
+
+966
+00:39:36.810 --> 00:39:37.860
+Sais qui Sont passés par là.
+
+967
+00:39:38.080 --> 00:39:41.100
+On est d'accord que toute la formation et est faite sur
+
+968
+00:39:41.100 --> 00:39:42.620
+l'ancienne l'ur plateforme.
+
+969
+00:39:42.620 --> 00:39:45.140
+Je ne parle pas de school. Tout est disponible en version
+
+970
+00:39:45.140 --> 00:39:46.340
+au commerce et Shopify.
+
+971
+00:39:49.250 --> 00:39:53.470
+Ok, donc, d'accord. Ok, donc attends un peu, Nicolas d.
+
+972
+00:39:54.450 --> 00:39:55.670
+Oui, oui, bien sûr. Mais après, tu vois
+
+973
+00:39:55.670 --> 00:39:56.830
+là, c'est tout commerce.
+
+974
+00:39:58.010 --> 00:39:59.260
+Donc je vais le renvoyer un message
+
+975
+00:39:59.260 --> 00:40:00.180
+parce qu'ils n'ont pas fait la
+
+976
+00:40:00.180 --> 00:40:01.860
+bascule. Ils n'ont pas fait la bas.
+
+977
+00:40:02.800 --> 00:40:04.300
+Si tu veux détailler celle
+
+978
+00:40:04.300 --> 00:40:05.420
+là, je ne sais pas pourquoi peut être que là.
+
+979
+00:40:05.420 --> 00:40:07.580
+J'ai accès à temps, je tester, mais c'est là.
+
+980
+00:40:07.580 --> 00:40:08.580
+J'arrive pas accéder.
+
+981
+00:40:10.010 --> 00:40:12.590
+Ou alors ce qu'on disait, on est en pleine bascule d'une
+
+982
+00:40:13.590 --> 00:40:15.190
+y avoir quelque quoi, mais je te rassure.
+
+983
+00:40:15.930 --> 00:40:17.310
+Si tu veux travailler sur Shopify,
+
+984
+00:40:17.540 --> 00:40:20.030
+tout est tout est disponible que je fail aussi
+
+985
+00:40:20.480 --> 00:40:23.670
+Parce que je me suis dit après que j'avais vu un message
+
+986
+00:40:23.670 --> 00:40:25.390
+de réseau qui disait qu'on on basculait sur l'.
+
+987
+00:40:25.390 --> 00:40:27.270
+Donc je me suis dit ça servait pas plus rien,
+
+988
+00:40:27.270 --> 00:40:28.870
+mais je dirai comment on basque sur celle là,
+
+989
+00:40:30.730 --> 00:40:32.030
+je retournerai sur l'eau aussi faut,
+
+990
+00:40:32.660 --> 00:40:35.310
+Mais du coup de à certains mod de n' pas je me suis écrit
+
+991
+00:40:35.310 --> 00:40:38.350
+d'envoyer message à une du coup et à l'équipe juste
+
+992
+00:40:38.350 --> 00:40:39.790
+après cette session.
+
+993
+00:40:40.140 --> 00:40:42.310
+Mais tu peux donc effectivement, une fois que tu
+
+994
+00:40:42.310 --> 00:40:45.430
+as choisi la niche que tu as fait en architecture, l'idée,
+
+995
+00:40:45.430 --> 00:40:47.830
+c'est de te trouver du choisi
+
+996
+00:40:47.890 --> 00:40:49.190
+mon commerce ou faut qui faille.
+
+997
+00:40:49.370 --> 00:40:50.710
+Oui. Et après tu déroule,
+
+998
+00:40:50.710 --> 00:40:52.750
+choisis un thème d'optimiser le thème.
+
+999
+00:40:52.750 --> 00:40:53.790
+Et après, c'est la grosse phase.
+
+1000
+00:40:53.810 --> 00:40:57.550
+Une fois a créer tes modèles de fich produits et tes modèles
+
+1001
+00:40:57.550 --> 00:40:59.030
+de catégorie après l'idée,
+
+1002
+00:40:59.030 --> 00:41:02.470
+c'est la grosse partie qui éclate tout le monde de remplir.
+
+1003
+00:41:03.760 --> 00:41:05.630
+C'est du volume quand il faut tout remplir,
+
+1004
+00:41:07.330 --> 00:41:09.470
+Ça veut dire c'est créer toutes les catégories,
+
+1005
+00:41:09.470 --> 00:41:12.430
+optimiser chacune de tes catégories avec des textes,
+
+1006
+00:41:12.430 --> 00:41:15.150
+optimiser so, faire ton plan de maillage et émailler toutes
+
+1007
+00:41:15.150 --> 00:41:17.710
+tes catégories tout en souring les intégrations.
+
+1008
+00:41:18.410 --> 00:41:19.790
+Et après, bien sûr, le petit bonus,
+
+1009
+00:41:19.790 --> 00:41:22.310
+c'est le design du site et la création de la home
+
+1010
+00:41:22.310 --> 00:41:23.590
+page, ces petites choses là.
+
+1011
+00:41:23.590 --> 00:41:25.230
+Mais effectivement là, c'est le travail le
+
+1012
+00:41:25.230 --> 00:41:27.230
+plus le plus long.
+
+1013
+00:41:28.490 --> 00:41:30.070
+Je n'ai pas le droit de dire le plus
+
+1014
+00:41:30.930 --> 00:41:33.160
+le plus long et répétitif, mais par contre, contre,
+
+1015
+00:41:34.910 --> 00:41:36.360
+j'ai été dire une fois que ta tan niche,
+
+1016
+00:41:36.370 --> 00:41:37.800
+quand même l'exaltation de dire ok,
+
+1017
+00:41:37.990 --> 00:41:39.360
+j'ai trouvé ce que je veux et j'avance
+
+1018
+00:41:40.020 --> 00:41:41.120
+ce travail d'intégration.
+
+1019
+00:41:41.120 --> 00:41:43.120
+Il est long. Mais ce que je répète à chaque fois,
+
+1020
+00:41:43.940 --> 00:41:45.800
+si tu mets un bon process en place dès le début,
+
+1021
+00:41:46.260 --> 00:41:48.520
+ça veut dire que si je pourrais me partager, si voulez moi,
+
+1022
+00:41:48.520 --> 00:41:50.320
+j'ai des tableaux d'intégration produits que je partage avec
+
+1023
+00:41:50.340 --> 00:41:52.800
+mes équipes ou du coup, il y a un process.
+
+1024
+00:41:52.940 --> 00:41:54.720
+Ça veut dire que chaque catégorie est notée.
+
+1025
+00:41:54.720 --> 00:41:56.560
+On dit qu'on va sourcer 10 produits par catégorie,
+
+1026
+00:41:57.700 --> 00:42:01.680
+la personne source et 10 produits après intègre tu quand
+
+1027
+00:42:01.680 --> 00:42:03.560
+fais un process ultra précis et très répétitif,
+
+1028
+00:42:03.560 --> 00:42:04.920
+ça veut dire que tu ne perds pas de temps
+
+1029
+00:42:04.920 --> 00:42:06.000
+et tu ne fais pas de digression.
+
+1030
+00:42:06.500 --> 00:42:08.680
+Le problème quand tu c'est quand tu une digression,
+
+1031
+00:42:08.680 --> 00:42:10.720
+c'est impos toi un truc en disant je vais
+
+1032
+00:42:10.840 --> 00:42:11.880
+intégrer un produit par jour.
+
+1033
+00:42:14.140 --> 00:42:16.480
+10 produit par jour du source s'intègre.
+
+1034
+00:42:16.480 --> 00:42:18.680
+Je suis toujours le même schéma répétitif. C'est comme ça.
+
+1035
+00:42:18.680 --> 00:42:20.080
+Tu fais des checklists pour rien. Oublier.
+
+1036
+00:42:21.430 --> 00:42:23.730
+Le plus important, c'est faire une repasse deux ou trois
+
+1037
+00:42:23.730 --> 00:42:25.930
+jours après pour vous corriger quand on est dedans et qu'on
+
+1038
+00:42:26.010 --> 00:42:27.930
+intégré 10 produits et qu'on a le cerveau en bouilli,
+
+1039
+00:42:28.270 --> 00:42:29.930
+on ne voit pas des évidences qui sont sous nos yeux.
+
+1040
+00:42:31.350 --> 00:42:32.600
+Nous pour pallier à ça.
+
+1041
+00:42:32.600 --> 00:42:34.640
+Quand on bosse, quand on fait l'intégration en masse pour
+
+1042
+00:42:34.640 --> 00:42:36.840
+des clients, ce n'est jamais la même personne
+
+1043
+00:42:38.220 --> 00:42:39.520
+qui corrige qui a intégré
+
+1044
+00:42:40.000 --> 00:42:41.880
+pourquoi nos yeux qu'on ne voit pas?
+
+1045
+00:42:41.880 --> 00:42:45.260
+Et donc changer de point de vue ou et du coup pour vous,
+
+1046
+00:42:45.260 --> 00:42:46.460
+si vous êtes tout seul, c'est attendre
+
+1047
+00:42:46.520 --> 00:42:47.660
+un jour ou deux revenir.
+
+1048
+00:42:47.920 --> 00:42:49.740
+Et parfois vous allez voir des deies,
+
+1049
+00:42:49.760 --> 00:42:52.060
+des fautes de frappe ou des trucs vont me dire qu'est ce que
+
+1050
+00:42:52.060 --> 00:42:54.220
+qu'est ce que j'ai foutu et corriger
+
+1051
+00:42:55.890 --> 00:42:58.130
+jamais se corriger sur l'instant t et toujours suivre un
+
+1052
+00:42:58.130 --> 00:43:01.290
+process très répétitif pour avoir toutes les informations.
+
+1053
+00:43:01.510 --> 00:43:03.370
+Pareil pour le souring, vous allez devoir source,
+
+1054
+00:43:03.370 --> 00:43:04.410
+beaucoup de produits.
+
+1055
+00:43:04.560 --> 00:43:07.010
+Attention au doublons pour ne pas faire de doublon.
+
+1056
+00:43:07.010 --> 00:43:08.290
+Il faut toujours suivre un process
+
+1057
+00:43:08.910 --> 00:43:11.490
+de sourcing en disant voilà source catégorie par catégorie.
+
+1058
+00:43:12.130 --> 00:43:13.690
+S'il te faut dire, dis pelus baleine,
+
+1059
+00:43:13.690 --> 00:43:14.690
+tu vas aller source d'un coup,
+
+1060
+00:43:16.150 --> 00:43:18.130
+Ce que j'ai fais, Voilà.
+
+1061
+00:43:18.270 --> 00:43:19.650
+Tu as te fais des lignes quand
+
+1062
+00:43:20.030 --> 00:43:23.290
+Ce que je fais, ce que je veux dire,
+
+1063
+00:43:23.590 --> 00:43:25.050
+je dis vraiment là les photos,
+
+1064
+00:43:25.050 --> 00:43:27.690
+elles sont bien ou comment on considère
+
+1065
+00:43:29.750 --> 00:43:32.210
+encore ça va, je pense non ou
+
+1066
+00:43:32.470 --> 00:43:34.450
+Déjà la photo, il faut qu'elle soit en 800 par 800.
+
+1067
+00:43:34.450 --> 00:43:36.330
+On tu peux le recadrer. Il faut aussi que tu change le
+
+1068
+00:43:36.330 --> 00:43:37.770
+format parce que sur l express, tu
+
+1069
+00:43:37.770 --> 00:43:40.930
+as télécharger du pg et qu'on ne peut pas pg
+
+1070
+00:43:42.630 --> 00:43:44.050
+non, tu j p.
+
+1071
+00:43:44.050 --> 00:43:45.890
+Et après normalement tu aura tu,
+
+1072
+00:43:45.950 --> 00:43:47.850
+tu vas pouvoir la compresser directement dans Shopify.
+
+1073
+00:43:47.870 --> 00:43:49.930
+Toi, ça va être automatique de de la compression.
+
+1074
+00:43:50.720 --> 00:43:51.930
+L'idée, c'est que tu vas
+
+1075
+00:43:51.930 --> 00:43:53.330
+m'éviter d'avoir un petit enfant chinois.
+
+1076
+00:43:54.590 --> 00:43:55.930
+Je ne vois pas bien la chinois
+
+1077
+00:43:57.000 --> 00:43:59.010
+Asiatique. On va le changer
+
+1078
+00:43:59.550 --> 00:44:00.550
+Au max. Tu me
+
+1079
+00:44:00.550 --> 00:44:02.170
+change ce visage asiatique.
+
+1080
+00:44:02.310 --> 00:44:03.850
+Je sais que c'est salaud aussi discriminatoire.
+
+1081
+00:44:03.850 --> 00:44:05.570
+Mais aujourd'hui, c'est la loi du marché.
+
+1082
+00:44:06.510 --> 00:44:08.450
+Et l'idée, c'est que j'aimerais bien que
+
+1083
+00:44:09.270 --> 00:44:11.410
+que si tu peux me respecter un process d'intégration
+
+1084
+00:44:11.410 --> 00:44:12.730
+d'images, ça veut dire qu'il y est
+
+1085
+00:44:13.910 --> 00:44:16.530
+le produit mis en avant et après le produit en usage et
+
+1086
+00:44:16.530 --> 00:44:17.810
+après le produit avec les dimensions,
+
+1087
+00:44:18.110 --> 00:44:19.490
+tu histoire d'avoir un cadre.
+
+1088
+00:44:19.870 --> 00:44:21.850
+Tu ne mets pas cette femme avec cette pele.
+
+1089
+00:44:23.820 --> 00:44:26.670
+Mais du coup, on considère que l'idée dans le sourcing,
+
+1090
+00:44:27.040 --> 00:44:31.170
+c'est que tu essaie de de te trouver les deux.
+
+1091
+00:44:31.170 --> 00:44:32.490
+Il y a deux manières de socer. La première,
+
+1092
+00:44:32.490 --> 00:44:33.690
+c'est que tu vas me chercher les fournisseurs qui
+
+1093
+00:44:33.690 --> 00:44:34.770
+sont le mieux, d'accord?
+
+1094
+00:44:35.350 --> 00:44:37.330
+Et sur le même produit, une fois tu a trouvé le put,
+
+1095
+00:44:37.330 --> 00:44:39.290
+être fournisseur, imaginant lui d'un un super fournisseur.
+
+1096
+00:44:39.290 --> 00:44:40.290
+Il en a vendu une tonne.
+
+1097
+00:44:40.290 --> 00:44:42.130
+Il est au top auquel tu me mets son lien.
+
+1098
+00:44:42.310 --> 00:44:44.010
+Par contre, dans le même temps, quand tu vas sourcer,
+
+1099
+00:44:44.010 --> 00:44:45.450
+tu vas me trouver plein d'autres
+
+1100
+00:44:45.450 --> 00:44:46.930
+fournisseurs qui vendent le même produit.
+
+1101
+00:44:47.340 --> 00:44:49.250
+Même si les autres fournisseurs sont ha chis,
+
+1102
+00:44:49.350 --> 00:44:50.570
+tu ne vas pas leur acheter à eux.
+
+1103
+00:44:50.570 --> 00:44:52.770
+Par contre, potentiellement eux, ils ont des bonnes photos.
+
+1104
+00:44:53.470 --> 00:44:56.450
+Oui. Et du coup moi, quand en source un produit
+
+1105
+00:44:57.030 --> 00:44:58.050
+en source, un produit.
+
+1106
+00:44:58.080 --> 00:45:00.210
+Donc le premier lien, c'est le bon fournisseur.
+
+1107
+00:45:00.350 --> 00:45:02.010
+Si tu passes par express en général,
+
+1108
+00:45:02.420 --> 00:45:03.530
+c'est plus le quand passe par agent.
+
+1109
+00:45:03.530 --> 00:45:05.210
+Du coup ça a plus d'importance. Mais pour ceux qui passes
+
+1110
+00:45:05.210 --> 00:45:06.890
+par Ali express, premier lien,
+
+1111
+00:45:06.890 --> 00:45:08.410
+c'est le fournisseur chez qui tu vas acheter.
+
+1112
+00:45:08.750 --> 00:45:11.170
+Et à côté, tu mets trois autres liens du même produit
+
+1113
+00:45:11.740 --> 00:45:14.730
+parce que potentiellement des photos différentes et ça va te
+
+1114
+00:45:14.730 --> 00:45:17.010
+donner le choix quand tu vas intégrer d'avoir accès à 20,
+
+1115
+00:45:17.010 --> 00:45:20.330
+30 photos du même produit et du coup sans devoir
+
+1116
+00:45:20.330 --> 00:45:21.450
+rechercher dans une deuxième temps.
+
+1117
+00:45:21.450 --> 00:45:22.730
+Et là, tu peux travailler
+
+1118
+00:45:22.730 --> 00:45:24.290
+l'intégration de manière beaucoup plus fluid.
+
+1119
+00:45:27.880 --> 00:45:30.730
+Mais l'idée, bien sûr, c'est d'avoir les plus belles photos.
+
+1120
+00:45:30.730 --> 00:45:32.250
+Donc, celle là, elle n'est pas validée.
+
+1121
+00:45:34.040 --> 00:45:35.050
+Parfois, des photos sont
+
+1122
+00:45:35.050 --> 00:45:36.410
+disponibles dans la description également.
+
+1123
+00:45:36.410 --> 00:45:38.010
+Là, on voit ça, c'est les même images,
+
+1124
+00:45:38.230 --> 00:45:40.050
+les variations produits détail et de description.
+
+1125
+00:45:40.470 --> 00:45:41.930
+Ce n'est pas tout le temps. Il va dans une description.
+
+1126
+00:45:41.930 --> 00:45:44.410
+Il y a des vrai pépites, mais il y a des vraies pépites qui
+
+1127
+00:45:44.410 --> 00:45:46.330
+sont peut être parfois à recadrer.
+
+1128
+00:45:46.330 --> 00:45:47.410
+Mais ça avec,
+
+1129
+00:45:48.260 --> 00:45:50.770
+C'est la, ça va, pense Là, c'est bien.
+
+1130
+00:45:50.770 --> 00:45:53.290
+Mais du coup là, on voit bien que ce format là,
+
+1131
+00:45:53.290 --> 00:45:54.530
+ce n'est pas 800 par 800.
+
+1132
+00:45:54.750 --> 00:45:58.610
+Par contre, à toi de venir travailler avec un logiciel kamba
+
+1133
+00:45:58.610 --> 00:46:01.490
+ou que tu aura choisi pour me la mettre en 800 par 800.
+
+1134
+00:46:01.490 --> 00:46:02.890
+Mais on voit que là c'est top.
+
+1135
+00:46:04.160 --> 00:46:05.620
+Tu Vois, les produits sont bien mis
+
+1136
+00:46:05.700 --> 00:46:06.780
+en avant, c'est propre.
+
+1137
+00:46:07.740 --> 00:46:09.800
+Tu vois l'appareil, les photos, les photos de gros plan,
+
+1138
+00:46:10.180 --> 00:46:11.880
+le fait qu'on puisse mettre la main dans la bouche
+
+1139
+00:46:11.900 --> 00:46:12.920
+de de la baleine.
+
+1140
+00:46:13.170 --> 00:46:14.800
+C'est super. Les gros plans des trucs.
+
+1141
+00:46:14.800 --> 00:46:17.040
+Mais du coup, ce n'est pas du sont pas issant pas là dans un
+
+1142
+00:46:17.040 --> 00:46:19.320
+logiciel pour avec,
+
+1143
+00:46:19.380 --> 00:46:22.120
+il a maintenant on peut recadrer des photos ou il extrapole
+
+1144
+00:46:22.420 --> 00:46:25.240
+la suite de l'image pour que pour ça puisse être carré.
+
+1145
+00:46:25.240 --> 00:46:27.160
+Mais ça, il n'y a pas de problème. Tu peux me le faire et du
+
+1146
+00:46:27.160 --> 00:46:28.760
+quoi avoir des bonnes images directement.
+
+1147
+00:46:28.860 --> 00:46:31.320
+Si si
+
+1148
+00:46:31.420 --> 00:46:34.630
+tu, si tu me regarde ça
+
+1149
+00:46:34.850 --> 00:46:37.310
+Un mais je veux la part prend l'image.
+
+1150
+00:46:37.310 --> 00:46:39.270
+Je pense qu'il faut faire des dossiers. Je mets tout dedans.
+
+1151
+00:46:39.270 --> 00:46:41.230
+Quoi? Je pas après, je remettrai,
+
+1152
+00:46:41.330 --> 00:46:43.030
+je bascule sur Shopify et après,
+
+1153
+00:46:43.410 --> 00:46:44.550
+je pense, c'est comme ça, non?
+
+1154
+00:46:44.610 --> 00:46:45.610
+Ou
+
+1155
+00:46:46.160 --> 00:46:47.160
+C'est toi qui fais ton process. Ça
+
+1156
+00:46:47.160 --> 00:46:47.950
+veut dire que nous on a
+
+1157
+00:46:47.950 --> 00:46:48.950
+essayé plusieurs méthodes de process.
+
+1158
+00:46:49.090 --> 00:46:51.150
+En général. Moi, je te conseille quand tu commences un
+
+1159
+00:46:51.150 --> 00:46:53.030
+produit du le fait de à z, pourquoi?
+
+1160
+00:46:53.040 --> 00:46:55.390
+Parce que final tu vas commencer un produit, faire un titre,
+
+1161
+00:46:55.800 --> 00:46:58.310
+faire un machin, faire un titre, et après partir,
+
+1162
+00:46:58.850 --> 00:47:00.470
+le procès est simple que c'est en
+
+1163
+00:47:00.470 --> 00:47:01.510
+une fois, tu fais le sourcing
+
+1164
+00:47:03.260 --> 00:47:04.880
+Et Peut n'est pas le sens de tout le site mais
+
+1165
+00:47:04.880 --> 00:47:05.920
+le sont au moins de la catégorie.
+
+1166
+00:47:06.020 --> 00:47:07.680
+Tu veux faire fais tout le sourcing.
+
+1167
+00:47:07.680 --> 00:47:09.120
+Et après tint, quand tu commences à le produit,
+
+1168
+00:47:09.180 --> 00:47:12.440
+tu le fais de a à z parce qu'il va y avoir une logique.
+
+1169
+00:47:12.440 --> 00:47:14.720
+Quand tu vaser tes photos après avoir les renommer pour les
+
+1170
+00:47:14.720 --> 00:47:15.880
+renomer, il faudra le titre du produit.
+
+1171
+00:47:16.700 --> 00:47:18.960
+Tu vas voir les intérêt, une balise pour avoir la balise,
+
+1172
+00:47:19.100 --> 00:47:21.400
+il faudra au moins le titre et tu vois le contexte.
+
+1173
+00:47:21.740 --> 00:47:24.240
+Et du coup, ça n'a rien de faire des va et vient et de voir
+
+1174
+00:47:24.240 --> 00:47:25.880
+à chaque fois perdre un tout petit peu de temps pour te
+
+1175
+00:47:25.890 --> 00:47:27.040
+imprégner de l'affiche.
+
+1176
+00:47:27.300 --> 00:47:28.400
+Si tu fais tout deux à z,
+
+1177
+00:47:28.400 --> 00:47:31.360
+tu vas être béé dans le produit et tu vas savoir, ok,
+
+1178
+00:47:31.420 --> 00:47:33.000
+ce produit, une fois que tu aura passé un quart d'heure
+
+1179
+00:47:33.080 --> 00:47:34.560
+dessus, tu par à me dire ok, la baleine a fait
+
+1180
+00:47:34.560 --> 00:47:35.840
+55 cm et des trucs.
+
+1181
+00:47:35.840 --> 00:47:38.240
+La matière, c'est du polyester. Parce que parce que tu l'as
+
+1182
+00:47:38.240 --> 00:47:40.960
+vu quand à préparé ton prend pour DP,
+
+1183
+00:47:41.340 --> 00:47:42.960
+tu l' vu quand tu fait des caractéristiques, tu
+
+1184
+00:47:42.960 --> 00:47:44.080
+as vu quand tu fait ta balise, halte.
+
+1185
+00:47:44.080 --> 00:47:45.120
+Quand tu fait ta méta description.
+
+1186
+00:47:45.620 --> 00:47:47.560
+Et du coup, je te déconseille de faire des bas.
+
+1187
+00:47:47.560 --> 00:47:50.170
+Et bien, en fait, le process peut de
+
+1188
+00:47:50.170 --> 00:47:51.290
+faire un dossier avec les images.
+
+1189
+00:47:51.320 --> 00:47:55.170
+Mais à quoi bon là tu prends un logiciel de style plus ou
+
+1190
+00:47:55.170 --> 00:47:57.210
+n'importe quel autre plugin pour télécharger les
+
+1191
+00:47:57.210 --> 00:47:58.490
+images du fournisseur.
+
+1192
+00:47:58.750 --> 00:48:00.370
+Tu me télé, charges, toutes les images
+
+1193
+00:48:00.950 --> 00:48:03.210
+de toutes les fournisseurs que tu que a trouvé tu me les
+
+1194
+00:48:03.210 --> 00:48:04.810
+bala dans ton log style de retouche d'images
+
+1195
+00:48:04.810 --> 00:48:05.890
+et tu me les fait tout d'un coup.
+
+1196
+00:48:06.450 --> 00:48:07.970
+Pourquoi? Parce que si tu es tout d'un coup,
+
+1197
+00:48:07.970 --> 00:48:09.170
+tu vas te dire ok, attend lâge une
+
+1198
+00:48:09.170 --> 00:48:10.330
+image produit en gros plan.
+
+1199
+00:48:10.550 --> 00:48:12.010
+Là, j'ai une image sur fond blanc là,
+
+1200
+00:48:12.010 --> 00:48:13.050
+j'ai une image en usage là.
+
+1201
+00:48:13.050 --> 00:48:15.290
+J'ai une image de l'arrière du produit.
+
+1202
+00:48:15.750 --> 00:48:18.450
+Et en une fois, tu vas voir si tu vas te faire chier à créer
+
+1203
+00:48:18.450 --> 00:48:20.490
+un dossier de rêve, télécharger des images de dents après
+
+1204
+00:48:20.490 --> 00:48:23.970
+les ressortir et ton ciel et revenir, tu perds du temps.
+
+1205
+00:48:23.970 --> 00:48:25.650
+Et sur 250 produits à la fin,
+
+1206
+00:48:26.050 --> 00:48:30.730
+d aura perdu trois perdu des heures Et perdre des heures,
+
+1207
+00:48:30.730 --> 00:48:31.650
+c'est perdre du temps, mais
+
+1208
+00:48:31.650 --> 00:48:32.850
+c'est surtout perdre de l'énergie.
+
+1209
+00:48:33.550 --> 00:48:35.490
+Je sais que c'est compliqué d'intégrer des produits,
+
+1210
+00:48:35.490 --> 00:48:38.370
+ce qui l'ont fait avant vous vont vous dire à quel point
+
+1211
+00:48:38.460 --> 00:48:40.410
+c'est dur d'arriver à la fin des 250.
+
+1212
+00:48:41.510 --> 00:48:44.130
+Je ne vous écœur ne vous ez pas avant la fin,
+
+1213
+00:48:44.400 --> 00:48:46.770
+plus vous allez optimiser votre temps de travail et votre
+
+1214
+00:48:46.770 --> 00:48:48.490
+process, plus vous allez arriver à la fin des
+
+1215
+00:48:48.490 --> 00:48:50.490
+150 avec facilité.
+
+1216
+00:48:52.500 --> 00:48:53.840
+Si vous êtes fatigué ou excédé,
+
+1217
+00:48:53.840 --> 00:48:55.320
+ça va se sentir sur la qualité de votre produit.
+
+1218
+00:48:55.700 --> 00:48:57.720
+Et je ne dis pas ça en connaissance de cause.
+
+1219
+00:48:57.990 --> 00:49:00.080
+Combien de fois les produits sont super bien fait au début
+
+1220
+00:49:00.080 --> 00:49:03.800
+et à prendre trouver une dé polette de qualité produit
+
+1221
+00:49:03.800 --> 00:49:04.840
+parce que vous en avez mar.
+
+1222
+00:49:09.120 --> 00:49:12.410
+Donc voilà des conseils que je peux donner là dessus.
+
+1223
+00:49:15.280 --> 00:49:18.860
+Est ce que des questions, d'autres questions,
+
+1224
+00:49:19.280 --> 00:49:21.140
+Non à moi,
+
+1225
+00:49:22.770 --> 00:49:25.620
+Zari le module d'intégration produit de mémoire.
+
+1226
+00:49:25.620 --> 00:49:27.700
+Je n'ai pas du coup sur school module,
+
+1227
+00:49:27.700 --> 00:49:29.380
+c'est mais il y a un module dédié à l'intégration de produit
+
+1228
+00:49:29.520 --> 00:49:32.380
+ou il y a des tutos vidéos.
+
+1229
+00:49:32.480 --> 00:49:35.700
+Il y a des cyclistes à ne pas oublier.
+
+1230
+00:49:35.700 --> 00:49:40.380
+Il y a également pour le sourcing et ta tout que est
+
+1231
+00:49:40.380 --> 00:49:44.220
+découpé du coup sur directement dans le module
+
+1232
+00:49:45.500 --> 00:49:48.280
+dit s'il n'est pas encore sur school, il va y lire.
+
+1233
+00:49:48.280 --> 00:49:49.520
+Dans tous les cas, je fais un message à
+
+1234
+00:49:50.310 --> 00:49:51.400
+pour les modules manquant.
+
+1235
+00:49:54.560 --> 00:49:56.900
+Est ce que quelqu'un d'autre a une question
+
+1236
+00:49:57.680 --> 00:49:59.340
+ou quelque chose à partager avec nous aujourd'hui.
+
+1237
+00:49:59.340 --> 00:50:02.460
+Savoir vous vous en êtes valenti était là la dernière fois,
+
+1238
+00:50:02.680 --> 00:50:03.900
+est ce que tu as avancé sur ta.
+
+1239
+00:50:06.880 --> 00:50:08.280
+Alors, mais ventre la dernière fois,
+
+1240
+00:50:08.280 --> 00:50:11.080
+je me rappelle bien des kits de bricolage rose pour femmes
+
+1241
+00:50:11.200 --> 00:50:13.080
+fraîchement célibataires, divorcées.
+
+1242
+00:50:14.420 --> 00:50:15.760
+Ou alors, juste à temps,
+
+1243
+00:50:17.660 --> 00:50:20.560
+je me dit de réfléchir du coup sur mes niches est ce que je
+
+1244
+00:50:21.700 --> 00:50:26.660
+et alors attend que j'ai retrouvé trois nouvelles niches.
+
+1245
+00:50:31.290 --> 00:50:32.900
+Donc que je peux te les montrer.
+
+1246
+00:50:32.900 --> 00:50:34.460
+J'ai du coup trois organigrammes.
+
+1247
+00:50:34.560 --> 00:50:37.180
+Ces trois architectures avec à chaque fois
+
+1248
+00:50:37.920 --> 00:50:39.060
+les cp, c'est tout ça.
+
+1249
+00:50:39.460 --> 00:50:41.260
+Alors, juste pour mettre son écran, c'est
+
+1250
+00:50:42.480 --> 00:50:44.820
+En bas de nous, un petit carré avec une flèche vers le
+
+1251
+00:50:44.820 --> 00:50:48.070
+haut s'apparente à un écran d'ordinateur.
+
+1252
+00:50:48.290 --> 00:50:51.310
+Tu clique tu sur partager tout l'écran et normalement
+
+1253
+00:50:51.310 --> 00:50:52.910
+apparaissent nos yeux ébahis.
+
+1254
+00:50:53.520 --> 00:50:56.090
+C'est bon. Alors
+
+1255
+00:50:59.110 --> 00:51:00.770
+du compren, les box
+
+1256
+00:51:07.170 --> 00:51:11.190
+qui être, tu peux voir les même matières
+
+1257
+00:51:11.740 --> 00:51:14.430
+ensuite les spéciaux parce que je n'avais pas trop dans
+
+1258
+00:51:16.330 --> 00:51:18.970
+les catégories mettre les terme
+
+1259
+00:51:20.020 --> 00:51:22.810
+aussi pour prendre les les
+
+1260
+00:51:27.850 --> 00:51:31.610
+r chauffante et un peu écrasée, un peu
+
+1261
+00:51:32.760 --> 00:51:36.010
+grandes mais pas haute en plastique.
+
+1262
+00:51:36.010 --> 00:51:37.820
+Souvent les thermo
+
+1263
+00:51:38.530 --> 00:51:40.220
+pour les enfants, mais pareil pour les enfants.
+
+1264
+00:51:40.680 --> 00:51:42.500
+J'aime bien message dans le groupe, mais en fait
+
+1265
+00:51:43.400 --> 00:51:44.420
+sur sem rush,
+
+1266
+00:51:44.520 --> 00:51:47.100
+je ne vois pas les CPC pour tout ce qui va être enfant.
+
+1267
+00:51:47.200 --> 00:51:48.200
+Je CPC
+
+1268
+00:51:51.590 --> 00:51:52.590
+La fois. C'est pas grave. Je ne vois
+
+1269
+00:51:52.590 --> 00:51:53.450
+pas tous les CPC
+
+1270
+00:51:54.080 --> 00:51:56.410
+dans tous les cas, c'est que si on va Tanner dans son
+
+1271
+00:51:56.530 --> 00:51:57.810
+intégralité aujourd'hui, tu vas me présenter
+
+1272
+00:51:57.870 --> 00:51:58.890
+une trentaine de catégories.
+
+1273
+00:51:58.890 --> 00:52:00.330
+Si je te vas Dani sur les 30 catégories,
+
+1274
+00:52:00.330 --> 00:52:01.890
+même si sur deux tu n'as pas eu laisser pc
+
+1275
+00:52:01.890 --> 00:52:02.930
+ou le restaurant valid.
+
+1276
+00:52:03.420 --> 00:52:05.330
+C'est pas grave. C'est la masse qui va valider
+
+1277
+00:52:05.950 --> 00:52:08.650
+la suite de la suite de de ni donc,
+
+1278
+00:52:08.900 --> 00:52:10.420
+attend déjà regardé lunch box
+
+1279
+00:52:11.040 --> 00:52:13.060
+n'a pas le volume de lunch box, le mot clip principal.
+
+1280
+00:52:14.800 --> 00:52:17.340
+En fait, au début, je l'avais mis et je me suis dit sur le
+
+1281
+00:52:17.340 --> 00:52:18.540
+mot que les principal peut être pas le maître
+
+1282
+00:52:19.360 --> 00:52:23.280
+Justement en simple Moi, je l'avais.
+
+1283
+00:52:23.300 --> 00:52:27.640
+Je l'avais vu du coup avant de faire la niche,
+
+1284
+00:52:27.640 --> 00:52:29.160
+mais je ne l'ai pas mis sur mon a
+
+1285
+00:52:35.850 --> 00:52:38.350
+Aucune vers les autres du pc.
+
+1286
+00:52:38.350 --> 00:52:39.270
+Je, si vous avez
+
+1287
+00:52:47.510 --> 00:52:49.280
+Tout comme même café, Comment?
+
+1288
+00:52:51.750 --> 00:52:53.060
+Comme un café
+
+1289
+00:52:55.210 --> 00:52:58.030
+Ben tout café. Je crois que c'est comme
+
+1290
+00:52:58.450 --> 00:52:59.450
+Je m. Mis 13 zéro en
+
+1291
+00:52:59.450 --> 00:53:00.390
+volume c pc.
+
+1292
+00:53:00.440 --> 00:53:02.870
+C'est comme un thermos. C'est comme un thermos.
+
+1293
+00:53:02.940 --> 00:53:07.680
+Mais plus ça demande plus petit, je crois. J'avais regard
+
+1294
+00:53:07.840 --> 00:53:08.840
+Demandé à Google.
+
+1295
+00:53:09.670 --> 00:53:14.630
+J'avais regardé hier juste le malheur attend.
+
+1296
+00:53:22.130 --> 00:53:23.390
+Je veux bien que tu vois que tu, m.
+
+1297
+00:53:23.390 --> 00:53:25.200
+Une page avec Google collect. Tu demande à Google ce qui
+
+1298
+00:53:25.400 --> 00:53:26.560
+comprend quand il dit ben tout café
+
+1299
+00:53:26.780 --> 00:53:28.800
+Là, je regarde, mais j l'impression que
+
+1300
+00:53:28.800 --> 00:53:30.160
+N'entendez en double aussi à comment
+
+1301
+00:53:33.780 --> 00:53:34.780
+Sur lunchbox. Oui,
+
+1302
+00:53:34.780 --> 00:53:39.210
+j'ai 547 zéro
+
+1303
+00:53:42.450 --> 00:53:44.060
+547 zéro de volume de
+
+1304
+00:53:44.060 --> 00:53:47.620
+recherche. Sur quel mot?
+
+1305
+00:53:48.240 --> 00:53:52.560
+Sur lebo normal un mais attend aux états-unis.
+
+1306
+00:53:52.560 --> 00:53:55.570
+C'est pour ça 500
+
+1307
+00:53:56.280 --> 00:53:57.280
+Gigantesque.
+
+1308
+00:53:58.040 --> 00:53:59.850
+J'ai ça en France.
+
+1309
+00:53:59.850 --> 00:54:03.170
+Du coup, j'ai 14 800 uniquement en français.
+
+1310
+00:54:04.350 --> 00:54:08.020
+Très bien, quand tu m'as fait la recherche de volume,
+
+1311
+00:54:08.120 --> 00:54:09.780
+tu et d'accord que tu m'as mis à chaque fois
+
+1312
+00:54:11.690 --> 00:54:13.110
+la France, pas les Etats-Unis.
+
+1313
+00:54:13.490 --> 00:54:15.150
+Et j'ai mis la France et que là, en fait,
+
+1314
+00:54:15.850 --> 00:54:17.350
+en revenant sur seol, c'était tout de suite.
+
+1315
+00:54:17.350 --> 00:54:18.750
+Les et états-unis, il faut changer
+
+1316
+00:54:21.060 --> 00:54:23.000
+Moi, ce qui me truc quand tu mets lunch book électrique,
+
+1317
+00:54:23.000 --> 00:54:24.360
+c'est un petit volume de recherche.
+
+1318
+00:54:24.360 --> 00:54:26.320
+Attention du pouvoir. Si tu peux sourcer des lunch book
+
+1319
+00:54:26.640 --> 00:54:30.360
+électriques sans avec des précieux les lunch box c,
+
+1320
+00:54:30.500 --> 00:54:32.920
+les tous quelque chose de très asiatique ou du eux vivent au
+
+1321
+00:54:32.920 --> 00:54:34.680
+quotidien avec beaucoup de propositions.
+
+1322
+00:54:36.280 --> 00:54:40.440
+Beaucoup de propositions faites sur le ce type
+
+1323
+00:54:41.200 --> 00:54:42.720
+produits sont dédiés aux asiatiques.
+
+1324
+00:54:42.720 --> 00:54:44.080
+Et donc attention aux prises.
+
+1325
+00:54:44.380 --> 00:54:46.960
+Il y a yohan qui communique et qui nous dit que bento café,
+
+1326
+00:54:46.970 --> 00:54:48.080
+c'est des restaurants
+
+1327
+00:54:48.780 --> 00:54:51.640
+Que je que Moi je connais pas.
+
+1328
+00:54:51.640 --> 00:54:52.840
+Mais ce que je te dis demande à Google,
+
+1329
+00:54:53.140 --> 00:54:54.400
+ce que ce que veut dire
+
+1330
+00:54:56.460 --> 00:54:58.480
+si c'est une chaîne de restaurants, tu peux dire ça de suite.
+
+1331
+00:54:58.860 --> 00:55:00.400
+Ça veut dire tu n'as pas fait la vérification.
+
+1332
+00:55:03.770 --> 00:55:05.390
+Ah, en fait sur ce produit là.
+
+1333
+00:55:05.390 --> 00:55:06.870
+Donc, du coup, je n'avais pas trouvé de,
+
+1334
+00:55:08.730 --> 00:55:10.070
+je n'avais pas trouvé du coup de produit,
+
+1335
+00:55:11.900 --> 00:55:13.190
+mais il y avait un tru truc.
+
+1336
+00:55:14.260 --> 00:55:16.470
+J'avais trouvé un truc pour que je mette ce prix là
+
+1337
+00:55:19.800 --> 00:55:21.920
+Y partage ton écran et on voit la recherche Google que
+
+1338
+00:55:23.660 --> 00:55:24.660
+Ce n'est pas. Vous l'avez pas
+
+1339
+00:55:24.660 --> 00:55:26.950
+là. Je suis sur Google actuellement
+
+1340
+00:55:26.950 --> 00:55:28.470
+Parce que n'as pas mis partager tout l'écran
+
+1341
+00:55:30.030 --> 00:55:31.830
+Écran, tout, tout, tout Comme
+
+1342
+00:55:31.850 --> 00:55:32.950
+ton partage arrive au fond, partage.
+
+1343
+00:55:32.970 --> 00:55:34.190
+Et tu vais partager tous l'écran.
+
+1344
+00:55:56.770 --> 00:55:57.510
+On voit un point
+
+1345
+00:55:57.770 --> 00:56:02.750
+Du coup queue sur des sa, ça Tout fait montpellier.
+
+1346
+00:56:02.780 --> 00:56:05.230
+Donc tout café bien, tout fait. C'est un café.
+
+1347
+00:56:07.540 --> 00:56:09.970
+Merci. Yohann d'avoir résolu le mystère
+
+1348
+00:56:11.030 --> 00:56:15.920
+Tant mieux Qui sur produit pour qu'on
+
+1349
+00:56:16.780 --> 00:56:17.920
+qui sur produit, pour voir
+
+1350
+00:56:24.130 --> 00:56:27.570
+Qu Nous propose moi. Donc non
+
+1351
+00:56:28.270 --> 00:56:29.530
+Ou je ne sais plus.
+
+1352
+00:56:29.530 --> 00:56:33.720
+J'ai trois quelque chose. Moi, je
+
+1353
+00:56:35.010 --> 00:56:37.580
+Donc du coup l'enlever du coup.
+
+1354
+00:56:37.640 --> 00:56:39.420
+Et donc on pense à faire ce travail là, demander
+
+1355
+00:56:40.330 --> 00:56:43.590
+à chaque fois Google qu'il entend, mais sinon en lunchbox,
+
+1356
+00:56:43.670 --> 00:56:44.790
+a priori, ça fonctionne.
+
+1357
+00:56:46.750 --> 00:56:47.940
+C'est un produit facile à trouver,
+
+1358
+00:56:47.940 --> 00:56:49.540
+juste attention au lunchbox électrique.
+
+1359
+00:56:49.750 --> 00:56:52.300
+C'est pour ça que je n'en ai pas mis beaucoup au début.
+
+1360
+00:56:52.300 --> 00:56:56.460
+C'est compliqué. Et comme c'est une information, les prises
+
+1361
+00:56:57.120 --> 00:56:58.660
+et même les dysfonctionnements.
+
+1362
+00:57:00.560 --> 00:57:02.900
+Moi, ce qui me plaît pas dans ton architecture, c'est que,
+
+1363
+00:57:03.000 --> 00:57:06.140
+ok, ton site, un lunchbox, quelque chose par contre,
+
+1364
+00:57:06.160 --> 00:57:07.340
+est ce que tu tête de silo?
+
+1365
+00:57:07.340 --> 00:57:08.860
+Parce que moi, une tête de silo qui s'appelle matière
+
+1366
+00:57:09.010 --> 00:57:12.580
+spéciale au box thermos et lunch box enfants est ce que je
+
+1367
+00:57:12.580 --> 00:57:13.980
+ne peux pas faire mieux que ça et me trouver
+
+1368
+00:57:14.600 --> 00:57:16.700
+des mots que exemple au box, je ne sais pas,
+
+1369
+00:57:16.700 --> 00:57:17.940
+peut être que bientôt au court,
+
+1370
+00:57:19.330 --> 00:57:20.360
+parce que bientôt tout court,
+
+1371
+00:57:20.360 --> 00:57:23.340
+c'est un plus de de recherche, ok?
+
+1372
+00:57:23.430 --> 00:57:26.580
+Pense à me travailler les intituler des têtes de silo.
+
+1373
+00:57:26.580 --> 00:57:28.620
+Je veux que les têtes de silo soient des catégories à fort
+
+1374
+00:57:28.800 --> 00:57:31.620
+de recherche, sauf si c'est pas possible.
+
+1375
+00:57:31.620 --> 00:57:34.060
+Et à ce moment là et à ce moment là,
+
+1376
+00:57:34.060 --> 00:57:35.540
+vous créez des fausses catégories pour
+
+1377
+00:57:35.640 --> 00:57:36.700
+me diviser en matière.
+
+1378
+00:57:36.940 --> 00:57:39.860
+S'il n'y a pas de tête de silo intéressantes sur matière sur
+
+1379
+00:57:39.860 --> 00:57:42.180
+matière, tu peux me le laisser comme ça et me mettre
+
+1380
+00:57:42.330 --> 00:57:43.860
+vers inox.
+
+1381
+00:57:44.250 --> 00:57:46.220
+Mais d'ailleurs, je mets vers inox pourquoi tu ne mets pas
+
+1382
+00:57:46.650 --> 00:57:47.860
+recherche le plastique?
+
+1383
+00:57:48.360 --> 00:57:51.740
+Moi si ça, un volume de recherche ou de Silicon ou autre
+
+1384
+00:57:52.050 --> 00:57:53.540
+pour enrichir cette catégorie là,
+
+1385
+00:57:53.540 --> 00:57:57.700
+voici les volume de recherche, mais sur ben box et
+
+1386
+00:57:57.940 --> 00:57:59.300
+spécial et enfants.
+
+1387
+00:57:59.300 --> 00:58:01.660
+Voici un de recherche intéressant pour créer
+
+1388
+00:58:01.660 --> 00:58:03.300
+réellement la catégorie,
+
+1389
+00:58:04.980 --> 00:58:07.330
+Parce que en sens c'est pas assez
+
+1390
+00:58:09.680 --> 00:58:10.680
+De sens, c'est pas beaucoup.
+
+1391
+00:58:10.740 --> 00:58:11.900
+Alors effectivement, tu peux le mettre
+
+1392
+00:58:12.760 --> 00:58:15.340
+si ça a une logique dans en architecture, par contre,
+
+1393
+00:58:15.340 --> 00:58:16.540
+peut être que si be ton enfant,
+
+1394
+00:58:16.560 --> 00:58:19.060
+ça n'a pas un groupe de recherche peut être parce que c'est
+
+1395
+00:58:19.780 --> 00:58:22.180
+lunchbox enfants ou boîte repas enfants
+
+1396
+00:58:22.260 --> 00:58:23.380
+qui y a plus de volumes de recherche.
+
+1397
+00:58:23.690 --> 00:58:26.340
+Donc à ce moment là crée moi une catégorie pour les enfants
+
+1398
+00:58:26.340 --> 00:58:30.270
+directement et dans tes produits, tu me appelleras, certains
+
+1399
+00:58:30.820 --> 00:58:32.150
+enfants, les bien enfants,
+
+1400
+00:58:32.150 --> 00:58:33.630
+tu appelle bientôt enfants, mais pas de là.
+
+1401
+00:58:33.630 --> 00:58:34.910
+Créer une catégorie elle tout seul.
+
+1402
+00:58:35.610 --> 00:58:37.970
+Si tu as peu de produits et peu de volume de recherche,
+
+1403
+00:58:37.990 --> 00:58:40.690
+il vaut mieux que tu privilégie le volume.
+
+1404
+00:58:41.030 --> 00:58:43.170
+Ça veut dire c'est une catégorie lunch.
+
+1405
+00:58:43.190 --> 00:58:45.170
+Box enfants est intéressante et tu mettra à
+
+1406
+00:58:45.170 --> 00:58:46.650
+l'intérieur des bateaux enfants,
+
+1407
+00:58:48.040 --> 00:58:49.580
+Ah, Ne perd pas ton jus,
+
+1408
+00:58:50.040 --> 00:58:52.660
+pas ton jus à le disperser sur les petits mots clés,
+
+1409
+00:58:53.140 --> 00:58:56.220
+concentre ton jus sur des produits et utilise cette
+
+1410
+00:58:56.220 --> 00:58:58.220
+recherche de mots clé sur des produits dans catégorie.
+
+1411
+00:58:59.740 --> 00:59:02.280
+Ok, du coup, je déplacerait dans une autre catégorie.
+
+1412
+00:59:02.340 --> 00:59:03.340
+Je suis là.
+
+1413
+00:59:04.480 --> 00:59:06.990
+Déplacera déplacerait dans l'idée d'abord,
+
+1414
+00:59:06.990 --> 00:59:08.430
+fait les recherches là, je te parle d'envie.
+
+1415
+00:59:08.430 --> 00:59:10.070
+Je n'ai pas les chiffres. C'est vrai chose sur le dos,
+
+1416
+00:59:10.540 --> 00:59:12.630
+mais sauf si vraiment, il y a un intérêt,
+
+1417
+00:59:12.890 --> 00:59:14.310
+ça laisser là dedans, ce qui est possible.
+
+1418
+00:59:14.410 --> 00:59:17.630
+Si tu peux m' optimiser le tout en créant un truc dit
+
+1419
+00:59:18.380 --> 00:59:21.110
+spécifique pour les enfants, notamment la train de préparer,
+
+1420
+00:59:21.200 --> 00:59:22.640
+tu peux l'avoir pris pour la rentrée scolaire.
+
+1421
+00:59:22.940 --> 00:59:24.360
+Et là, il y a un vrai intérêt pour toi.
+
+1422
+00:59:25.890 --> 00:59:28.460
+Ok, Mais en tout cas,
+
+1423
+00:59:28.460 --> 00:59:30.340
+bien mieux que les niches que je pas proposer la semaine
+
+1424
+00:59:30.540 --> 00:59:33.020
+dernière, il y a une vrai sens du coup et ça colle
+
+1425
+00:59:33.020 --> 00:59:34.100
+bien à la méthode CRA.
+
+1426
+00:59:34.170 --> 00:59:35.500
+Donc, félicitation pour ça déjà.
+
+1427
+00:59:36.080 --> 00:59:37.400
+Et j'ai fait,
+
+1428
+00:59:37.400 --> 00:59:40.440
+comme en j'ai fait ce que tu m'as dit la semaine dernière et
+
+1429
+00:59:40.520 --> 00:59:42.960
+j'essaie de de corriger les erreurs que tu
+
+1430
+00:59:43.080 --> 00:59:45.320
+m, que tu m'as dit de quoi?
+
+1431
+00:59:46.200 --> 00:59:48.170
+Mais c'est super. Tu as déjà été bien avancé.
+
+1432
+00:59:48.170 --> 00:59:49.050
+Est ce que tu peux montrer
+
+1433
+00:59:49.050 --> 00:59:50.170
+la deuxième niche du goût comme ça.
+
+1434
+00:59:50.170 --> 00:59:52.250
+On va regarder, tu sais ce que tu dois faire sur celle
+
+1435
+00:59:52.250 --> 00:59:53.290
+là déjà en terme de recherche,
+
+1436
+00:59:54.690 --> 00:59:58.330
+Avancer Beaucoup déjà à me trouver les têtes de silo
+
+1437
+00:59:58.330 --> 01:00:00.250
+avec des bon volumes de recherche, vérifier que tu puisses
+
+1438
+01:00:00.250 --> 01:00:02.330
+forcer dans chacune des catégories.
+
+1439
+01:00:04.770 --> 01:00:07.750
+Ok, Voir en tout cas cette fait de catégorie.
+
+1440
+01:00:07.770 --> 01:00:09.790
+Je pense que tu peux aller un peu plus loin dans la
+
+1441
+01:00:09.790 --> 01:00:11.390
+recherche de la lunchbox et qu'il y a
+
+1442
+01:00:12.290 --> 01:00:15.110
+des possibilités avec des mots, des mots clé annexes pour
+
+1443
+01:00:15.990 --> 01:00:18.830
+enrichir cette cette sélection de catégorie est en
+
+1444
+01:00:18.830 --> 01:00:22.430
+architecture, mais déjà tu pars sur une bonne base lalance
+
+1445
+01:00:22.430 --> 01:00:24.270
+et juste peaufiner héritier, sourcing,
+
+1446
+01:00:25.140 --> 01:00:27.230
+vérifier les volumes de recherche pour me créer des bonnes
+
+1447
+01:00:27.230 --> 01:00:28.230
+têtes de silo en catégorie.
+
+1448
+01:00:28.850 --> 01:00:29.950
+Et tu
+
+1449
+01:00:29.950 --> 01:00:32.430
+as aller bouger les trucs un peu pour voir si tu peux
+
+1450
+01:00:32.430 --> 01:00:34.790
+optimiser ça, mais déjà, t'as une bonne base avec ça.
+
+1451
+01:00:35.330 --> 01:00:38.070
+Ok, Attention, lunchbox envers
+
+1452
+01:00:39.050 --> 01:00:41.990
+unité qui à 86 est ce que t'es sûr de ton
+
+1453
+01:00:44.330 --> 01:00:45.550
+86, c'est peut,
+
+1454
+01:00:45.990 --> 01:00:48.390
+t'es pas rentable avec un rat de rentabilité.
+
+1455
+01:00:48.530 --> 01:00:51.870
+Si ce qui bat donc fait attention et vérifie ce chiffre là
+
+1456
+01:00:52.440 --> 01:00:54.650
+Justement que en vert, je,
+
+1457
+01:00:54.860 --> 01:00:57.450
+c'est quand même important d'en avoir parce que c'est
+
+1458
+01:00:58.110 --> 01:01:00.530
+un des basiques, mais d'un côté, je savais
+
+1459
+01:01:01.430 --> 01:01:02.890
+en n'était pas énorme.
+
+1460
+01:01:03.200 --> 01:01:05.690
+Donc je voulais justement comme je sais que j'avais le
+
+1461
+01:01:05.690 --> 01:01:08.090
+présenter aujourd'hui, je voulais voir avec tous,
+
+1462
+01:01:08.630 --> 01:01:09.770
+si je ne sais pas en fait,
+
+1463
+01:01:09.910 --> 01:01:11.450
+si c'est quand même intéressant le mettre
+
+1464
+01:01:12.080 --> 01:01:15.850
+pour attirer du clic ou pas sur le site
+
+1465
+01:01:17.280 --> 01:01:20.620
+ou c'est mort parce que la rent n'est pas
+
+1466
+01:01:20.620 --> 01:01:21.940
+ou je n'est pas exactement.
+
+1467
+01:01:21.940 --> 01:01:22.940
+En fait,
+
+1468
+01:01:24.310 --> 01:01:27.630
+Le prix moyen est à combien 25 moyen
+
+1469
+01:01:27.770 --> 01:01:30.850
+Il y a 25 Et, et en terme de sourcing,
+
+1470
+01:01:30.850 --> 01:01:33.350
+tu n'arrives pas à sourcer 25 prix moyen.
+
+1471
+01:01:33.530 --> 01:01:36.270
+On va dire, il y a 30 n'r pas sur c des produits autour de
+
+1472
+01:01:36.270 --> 01:01:39.450
+10 zéro du coup sur sur Ali express
+
+1473
+01:01:39.880 --> 01:01:40.930
+dans cette typologie de produit.
+
+1474
+01:01:43.520 --> 01:01:47.730
+Alors Est ce que là tu peux me montrer ce que Google
+
+1475
+01:01:48.130 --> 01:01:49.210
+comprend par le box envers
+
+1476
+01:01:50.540 --> 01:01:55.080
+Bon, On va regarder les deux,
+
+1477
+01:01:55.080 --> 01:01:56.520
+on va regarder ce que Google comprend.
+
+1478
+01:01:56.580 --> 01:01:58.160
+Et Ali express propose
+
+1479
+01:02:01.260 --> 01:02:05.020
+Comme ça ou Moi, c'est les super.
+
+1480
+01:02:05.290 --> 01:02:06.290
+Quoi?
+
+1481
+01:02:07.170 --> 01:02:08.280
+C'est des super en vert.
+
+1482
+01:02:08.550 --> 01:02:13.320
+Mais mais j'ai dire là fois, c'est 50
+
+1483
+01:02:16.380 --> 01:02:17.380
+De ce que je vois. C'est 30,
+
+1484
+01:02:17.380 --> 01:02:20.000
+30, 50, 30.
+
+1485
+01:02:21.260 --> 01:02:23.520
+Ça veut dire que déjà tu vas calculer ton région de
+
+1486
+01:02:23.520 --> 01:02:26.480
+rentabilité par rapport à la moyenne de de ces 10 prix là,
+
+1487
+01:02:27.640 --> 01:02:31.340
+En fait, le truc, c'est que souvent je prends une moyenne
+
+1488
+01:02:31.890 --> 01:02:33.740
+plutôt basse pour avoir une
+
+1489
+01:02:34.760 --> 01:02:37.220
+un rat version de rentabilité qui va être plus réel,
+
+1490
+01:02:37.220 --> 01:02:41.300
+voire négatif par rapport au vrai pas être biaisé à la, je
+
+1491
+01:02:41.460 --> 01:02:43.700
+Comprends Et en sachant que nous
+
+1492
+01:02:43.850 --> 01:02:44.500
+Mais du coup
+
+1493
+01:02:48.730 --> 01:02:50.150
+à la chasse à coûte, combien du coup
+
+1494
+01:02:50.850 --> 01:02:51.510
+À l'achat
+
+1495
+01:02:57.530 --> 01:02:59.880
+Pense également ta lunch box envers fait des
+
+1496
+01:02:59.880 --> 01:03:01.160
+recherches sur lunch box vert.
+
+1497
+01:03:01.420 --> 01:03:05.000
+Je sais pense à parfois avec ou sur les ma liaison,
+
+1498
+01:03:05.100 --> 01:03:07.280
+ça peut donner une différence de CPC une différence de
+
+1499
+01:03:07.280 --> 01:03:08.640
+volume de recherche et pense
+
+1500
+01:03:09.400 --> 01:03:11.240
+a toujours intégré les nuances en tes recherches.
+
+1501
+01:03:15.470 --> 01:03:17.090
+Ok, moi, je vois en tout cas tu une source des produit
+
+1502
+01:03:17.510 --> 01:03:18.570
+source des produits à cinq.
+
+1503
+01:03:18.670 --> 01:03:20.650
+Tu peux les vendre 30 pour moi, la mar, les hockey,
+
+1504
+01:03:21.550 --> 01:03:22.610
+tu fais plus qu'un fois trois.
+
+1505
+01:03:22.610 --> 01:03:26.470
+Donc t'es tranquille. Il y a du choix à produit.
+
+1506
+01:03:28.440 --> 01:03:32.300
+Laisse la catégorie et source et garde la catégorie.
+
+1507
+01:03:33.150 --> 01:03:34.370
+Je la garde quand même. Tu pense,
+
+1508
+01:03:36.430 --> 01:03:38.730
+Je la garde quand même pour moi, pour moi,
+
+1509
+01:03:38.730 --> 01:03:40.810
+tu la garde parce que quand je vois au prix auquel tu sens
+
+1510
+01:03:40.810 --> 01:03:42.170
+le produit, combien tu peux les vendre?
+
+1511
+01:03:42.170 --> 01:03:44.370
+Effectivement, les CPC sont être un petit peu élevés sur
+
+1512
+01:03:44.370 --> 01:03:47.610
+cette niche là, la CPC, ça peut, ça peut évoluer.
+
+1513
+01:03:49.000 --> 01:03:52.450
+Pour moi, c'est une catégorie qui qui est intéressante et
+
+1514
+01:03:52.510 --> 01:03:55.250
+qui qui a du sens autant dans son signe autant que dans
+
+1515
+01:03:55.440 --> 01:03:57.530
+l'utilisation de lui.
+
+1516
+01:03:58.110 --> 01:04:01.090
+Ça veut dire que c'est déjà un produit qui y a du sens
+
+1517
+01:04:01.090 --> 01:04:02.210
+dans ta niche, on pourra, tu garde
+
+1518
+01:04:02.700 --> 01:04:04.530
+Quand tu peux faire au moins du fois trois,
+
+1519
+01:04:05.100 --> 01:04:06.570
+même si CPC n'est pas
+
+1520
+01:04:06.570 --> 01:04:07.770
+exceptionnel, on ne peut pas le garder.
+
+1521
+01:04:07.910 --> 01:04:08.910
+Si c'est important,
+
+1522
+01:04:11.010 --> 01:04:12.010
+C'est pour ça que je fais.
+
+1523
+01:04:12.120 --> 01:04:14.840
+Alors il y a une importance fix, mais du coup également,
+
+1524
+01:04:14.840 --> 01:04:16.520
+ce que je dis, c'est fait moi, les recherches que tu m.
+
+1525
+01:04:16.520 --> 01:04:19.280
+Mis lunch box envers avec un CPC,
+
+1526
+01:04:19.750 --> 01:04:21.160
+fait toutes les variantes de produits.
+
+1527
+01:04:22.020 --> 01:04:24.800
+Tu pa vert, tu sais le boîte, pas vert,
+
+1528
+01:04:25.110 --> 01:04:26.600
+tout ça et regardant les volumes de
+
+1529
+01:04:26.600 --> 01:04:27.800
+recherche et regard, moi les CPC.
+
+1530
+01:04:27.800 --> 01:04:30.200
+Ces mots plus là, d savoir si on ne peut pas être un peu
+
+1531
+01:04:30.200 --> 01:04:33.160
+plus optimal sur un sur un CB sur un mot clé
+
+1532
+01:04:33.280 --> 01:04:38.040
+dérivé tout.
+
+1533
+01:04:38.040 --> 01:04:39.480
+Je vers le travail jusqu'à la semaine prochaine.
+
+1534
+01:04:39.480 --> 01:04:41.520
+On en reparlera ensemble. Je bien qu'on passe à
+
+1535
+01:04:41.520 --> 01:04:42.720
+ta deuxième niche comme ça.
+
+1536
+01:04:42.720 --> 01:04:46.160
+On aura le temps de tout Julien de voir l'heure cette
+
+1537
+01:04:46.850 --> 01:04:48.720
+Même sur ministère.
+
+1538
+01:04:49.130 --> 01:04:51.280
+C'est en fait, tu peux en faire que trois et
+
+1539
+01:04:51.280 --> 01:04:52.320
+après tu peux plus
+
+1540
+01:04:54.140 --> 01:04:55.140
+Tu coup. Tous les autres qui le
+
+1541
+01:04:55.140 --> 01:04:56.640
+font y mettent deux,
+
+1542
+01:04:56.910 --> 01:04:58.600
+deux tableaux sur le même sur la même page.
+
+1543
+01:04:58.600 --> 01:05:03.360
+J appris les ans, les deux araignées, tu
+
+1544
+01:05:04.260 --> 01:05:05.260
+Ça? C'était la première que
+
+1545
+01:05:05.260 --> 01:05:05.840
+j'avais faite.
+
+1546
+01:05:06.520 --> 01:05:10.310
+C'était les go pour enfants, mais du coup, c'est là.
+
+1547
+01:05:10.310 --> 01:05:13.390
+J'avais un problème. C'était que je n'avais aucun CPC,
+
+1548
+01:05:13.390 --> 01:05:16.870
+presque aucun de tous les mots clés à part
+
+1549
+01:05:17.710 --> 01:05:21.640
+cela en fait, quand il n'y a pas enfant ou bébé, j'avais,
+
+1550
+01:05:22.550 --> 01:05:25.040
+j'avais sur dirai certain que je n'avais pas.
+
+1551
+01:05:25.500 --> 01:05:27.080
+Et surtout, le problème que j'avais,
+
+1552
+01:05:28.350 --> 01:05:31.110
+c'était que j'avais un pas un bon habit.
+
+1553
+01:05:31.130 --> 01:05:33.340
+Je me supprimé parce que j'avais
+
+1554
+01:05:34.880 --> 01:05:39.070
+On et un d'entre vous est déjà passé la semaine dernière
+
+1555
+01:05:39.070 --> 01:05:41.710
+concernant cette niche et le problème a été le sur
+
+1556
+01:05:41.710 --> 01:05:43.230
+rentabilité sur cette psychologie de
+
+1557
+01:05:43.230 --> 01:05:44.790
+produits qui était très, très faible.
+
+1558
+01:05:44.850 --> 01:05:49.190
+Et du coup, même si l'idée est bonne a priori vous d'être
+
+1559
+01:05:49.190 --> 01:05:50.590
+plusieurs à dire qu'après avoir calcul
+
+1560
+01:05:50.730 --> 01:05:51.870
+sur rentabilité, c'est trop faible.
+
+1561
+01:05:51.870 --> 01:05:53.630
+Et donc j'ai invité, je vous invite
+
+1562
+01:05:54.210 --> 01:05:55.470
+à ne pas vous attarder là dessus.
+
+1563
+01:05:55.470 --> 01:05:56.710
+Il y a meilleure niche que celle là.
+
+1564
+01:05:57.050 --> 01:05:58.870
+Une meilleure de rentabilité exploitée
+
+1565
+01:06:00.760 --> 01:06:02.340
+sur sur une différentes niches
+
+1566
+01:06:03.050 --> 01:06:07.030
+ne serait ce que tu vois sur passer à la suivante.
+
+1567
+01:06:07.310 --> 01:06:08.310
+Alors,
+
+1568
+01:06:09.290 --> 01:06:12.350
+Et du coup, la troisième c les noires, pour
+
+1569
+01:06:19.500 --> 01:06:20.040
+Que les hommes,
+
+1570
+01:06:28.370 --> 01:06:29.390
+je ne sais pas si vous m'entendez,
+
+1571
+01:06:30.210 --> 01:06:32.830
+Il, comment
+
+1572
+01:06:37.240 --> 01:06:39.110
+Crois que c'est moi qui lgue un peu y continue?
+
+1573
+01:06:39.250 --> 01:06:40.250
+Je vais retraer
+
+1574
+01:06:43.060 --> 01:06:44.060
+Une plus. Je disais je
+
+1575
+01:06:44.060 --> 01:06:46.720
+n'ai pas fait pour les deux parce que parce que
+
+1576
+01:06:46.720 --> 01:06:49.400
+je voulais quand même rester dans une une thématique
+
+1577
+01:06:49.970 --> 01:06:52.850
+comme il disait et donc faire un type
+
+1578
+01:06:52.850 --> 01:06:53.930
+de premier dans une thématique.
+
+1579
+01:06:54.310 --> 01:06:55.410
+Et alors que si je faisais les deux,
+
+1580
+01:06:55.410 --> 01:06:57.370
+c'était juste en fait le mot que les peignoirs et j'avais
+
+1581
+01:06:57.370 --> 01:07:00.150
+juste un produit unique
+
+1582
+01:07:02.020 --> 01:07:05.760
+Un et du coup, la peignoir, une niche produit.
+
+1583
+01:07:05.790 --> 01:07:07.160
+Donc pour moi, peignoir, c'est ok.
+
+1584
+01:07:07.420 --> 01:07:08.480
+Si tu veux faire que les hommes,
+
+1585
+01:07:08.480 --> 01:07:10.200
+il faut vérifier que t'es assez volume de recherche.
+
+1586
+01:07:10.200 --> 01:07:13.480
+Ça veut dire que si tu fais que les peignoir à Rome est ce
+
+1587
+01:07:13.480 --> 01:07:16.680
+que tu as assez de mots clé à fort volume de recherche pour
+
+1588
+01:07:16.680 --> 01:07:19.000
+me créer une architecture et arborescence avec au moins 20
+
+1589
+01:07:19.000 --> 01:07:22.730
+catégories dans lequel il aurait dit moi,
+
+1590
+01:07:22.730 --> 01:07:24.250
+ce ce qui me fait peur, c'est que t,
+
+1591
+01:07:24.790 --> 01:07:26.890
+peu des petites catégories avec des faibles volumes de
+
+1592
+01:07:26.890 --> 01:07:31.210
+recherche, vois parce que du coup,
+
+1593
+01:07:31.210 --> 01:07:33.810
+si tu fais peignoir global, tu vas avoir le peignoir homme
+
+1594
+01:07:33.810 --> 01:07:34.810
+et le peignoir femmes ou là,
+
+1595
+01:07:34.810 --> 01:07:35.810
+c'est des grands volumes de recherches.
+
+1596
+01:07:35.810 --> 01:07:39.210
+Après, tu vas pouvoir dérouler le bazar là,
+
+1597
+01:07:39.470 --> 01:07:42.210
+je vois qui mono peignoir, homme 210
+
+1598
+01:07:43.290 --> 01:07:45.330
+peigneur grand taille pour homme de 160,
+
+1599
+01:07:46.170 --> 01:07:48.650
+beaucoup de beaucoup de petits volumes.
+
+1600
+01:07:49.610 --> 01:07:51.510
+Et du coup, si tu me viens les petits volumes et tu ne
+
+1601
+01:07:51.510 --> 01:07:52.710
+gardes que les volumes est ce que tu
+
+1602
+01:07:52.710 --> 01:07:53.910
+as assez pour faire une architecture
+
+1603
+01:07:54.730 --> 01:07:57.730
+Et sin du Sinon.
+
+1604
+01:07:57.750 --> 01:07:58.970
+Et du coup, l'idée,
+
+1605
+01:07:58.970 --> 01:08:00.450
+c'est peut être pas tout la rose hommes après,
+
+1606
+01:08:00.450 --> 01:08:01.970
+on est d'accord que la niche peignoir
+
+1607
+01:08:02.790 --> 01:08:04.170
+est bien au courant que du textile.
+
+1608
+01:08:04.550 --> 01:08:06.610
+Oui, mais alors c'était le problème que j'avais ça,
+
+1609
+01:08:07.000 --> 01:08:09.530
+mais je me suis dit il a certain qui c'était les lesquels
+
+1610
+01:08:09.530 --> 01:08:14.490
+c'était ce on sa, c'est ce qui brille un peu.
+
+1611
+01:08:14.670 --> 01:08:16.520
+Il n'y a pas trop besoin de qualité.
+
+1612
+01:08:16.700 --> 01:08:18.600
+Ça voit, ça se voit pas trop,
+
+1613
+01:08:19.310 --> 01:08:21.800
+mais les ceux qui vont être éponge des effets
+
+1614
+01:08:23.500 --> 01:08:24.600
+que ce n'est pas de la qualité,
+
+1615
+01:08:26.690 --> 01:08:27.800
+C'est text.
+
+1616
+01:08:27.870 --> 01:08:30.080
+Donc plusieurs problèmes qui sur une textile, le premier,
+
+1617
+01:08:30.350 --> 01:08:32.720
+vous le savez tous, c'est bien sûr la qualité produit.
+
+1618
+01:08:32.860 --> 01:08:35.800
+Le deuxième, c'est le problème de taille.
+
+1619
+01:08:36.500 --> 01:08:39.280
+Ça veut dire que c'est exposé à travailler directement des
+
+1620
+01:08:39.280 --> 01:08:41.720
+fiches produits avec des détails avec un travail avec les
+
+1621
+01:08:41.720 --> 01:08:44.000
+fournisseurs qui va devoir être aux petits oignons pour
+
+1622
+01:08:44.000 --> 01:08:45.920
+avoir des guides détails hyper correspondants et
+
+1623
+01:08:45.920 --> 01:08:49.080
+parfaitement ajusté à produits et avoir la trésorerie
+
+1624
+01:08:49.080 --> 01:08:51.320
+suffisante pour absorber un taux de retour qui sera beaucoup
+
+1625
+01:08:51.320 --> 01:08:53.400
+important à une textile que sur une autre boniche
+
+1626
+01:08:54.550 --> 01:08:55.800
+franchement de toi à moi.
+
+1627
+01:08:55.800 --> 01:08:58.600
+J'achète un bientôt. Je l'utilise une fois, je me dis
+
+1628
+01:08:59.460 --> 01:09:01.120
+un peu, je ne vais pas la renvoyer.
+
+1629
+01:09:01.120 --> 01:09:04.150
+J'ai déjà mis mon omelette dedans. Par contre un peignoir.
+
+1630
+01:09:04.150 --> 01:09:05.670
+Je l offrir à mon me, je me dis, attend,
+
+1631
+01:09:05.670 --> 01:09:07.310
+il n'est pas top la taille un peu petite.
+
+1632
+01:09:07.410 --> 01:09:08.590
+La qualité n'est pas géniale.
+
+1633
+01:09:08.590 --> 01:09:10.830
+J'ai quand dépenser le prix moyen d'un
+
+1634
+01:09:10.830 --> 01:09:11.990
+peignoir, c'est même plutôt élevé.
+
+1635
+01:09:13.580 --> 01:09:15.630
+Donc tu vois ça, un produit sur lequel les gens
+
+1636
+01:09:15.630 --> 01:09:16.710
+vont avoir des attentes.
+
+1637
+01:09:16.840 --> 01:09:19.670
+Travailler le textile en lancement directement avec Ali
+
+1638
+01:09:19.670 --> 01:09:21.670
+express, c'est, c'est plus compliqué.
+
+1639
+01:09:22.130 --> 01:09:23.670
+Ce n'est pas impossible. D'autres l'ont fait.
+
+1640
+01:09:23.710 --> 01:09:24.830
+D ont très bien réussi.
+
+1641
+01:09:24.830 --> 01:09:26.750
+Donc quand je vous dis, c'est compliqué,
+
+1642
+01:09:27.090 --> 01:09:29.270
+je fais simplement des mises en garde et jamais des b vols
+
+1643
+01:09:29.270 --> 01:09:31.190
+ou fait que vous voulez, mais
+
+1644
+01:09:32.000 --> 01:09:34.470
+c'est plus compliqué d'attaquer pas le textile.
+
+1645
+01:09:34.610 --> 01:09:36.190
+Et du coup, je fais attention à ça.
+
+1646
+01:09:37.090 --> 01:09:39.670
+Pay homme brodé rôder avec quoi personnalisé.
+
+1647
+01:09:39.770 --> 01:09:41.070
+Si oui, il va falloir se trouver
+
+1648
+01:09:42.100 --> 01:09:44.630
+pour faire du prix de ton demande la péro avec un
+
+1649
+01:09:44.630 --> 01:09:49.040
+fournisseur du coup, l'idée est bonne, la ni pay noir.
+
+1650
+01:09:49.080 --> 01:09:50.720
+C'est une bonne niche. C'est une niche qui a
+
+1651
+01:09:50.720 --> 01:09:51.840
+déjà été validée auparavant.
+
+1652
+01:09:52.940 --> 01:09:55.080
+Par contre, attention, si tu veux vraiment nicher les
+
+1653
+01:09:55.080 --> 01:09:57.880
+hommes, il faut que tu puisse faire que par exemple,
+
+1654
+01:09:57.980 --> 01:09:59.840
+mi pay noir, homme vert peigneur homme bleu,
+
+1655
+01:09:59.980 --> 01:10:01.200
+je n'ai pas de volume de recherche.
+
+1656
+01:10:01.420 --> 01:10:03.520
+Je n'ai pas de c et je n'ai pas de rassur de rentabilité.
+
+1657
+01:10:06.020 --> 01:10:06.800
+Je me doute, je me doute
+
+1658
+01:10:06.800 --> 01:10:08.000
+c'est pour ça prendre le temps de à finir.
+
+1659
+01:10:08.070 --> 01:10:11.360
+Mais voici si c'est assez intéressant pour en faire une
+
+1660
+01:10:11.360 --> 01:10:14.280
+architecture ou si tu dois rajouter les femmes
+
+1661
+01:10:16.150 --> 01:10:17.330
+et du mot, si tu rajoute les femmes,
+
+1662
+01:10:17.330 --> 01:10:18.450
+tu les enfants, tu vois?
+
+1663
+01:10:18.450 --> 01:10:20.370
+Parce que tu ne peux pas discriminer les enfants en
+
+1664
+01:10:20.370 --> 01:10:21.490
+général, ce serait dommage.
+
+1665
+01:10:21.490 --> 01:10:23.290
+Je temps'en passé, mais à ce moment là,
+
+1666
+01:10:23.290 --> 01:10:25.490
+ça va être une architecture qui va être très grosse
+
+1667
+01:10:25.520 --> 01:10:26.690
+avec beaucoup de catégories.
+
+1668
+01:10:26.690 --> 01:10:28.170
+Et pour beaucoup de dedans,
+
+1669
+01:10:28.570 --> 01:10:29.890
+vérifie moi à chaque fois également.
+
+1670
+01:10:29.890 --> 01:10:33.410
+Si tu me le si tu me une catégorie de sourcing,
+
+1671
+01:10:34.910 --> 01:10:36.730
+par exemple, tu me mes peignoirs en soi pour
+
+1672
+01:10:36.730 --> 01:10:37.930
+homme si tu veux payer.
+
+1673
+01:10:37.930 --> 01:10:39.210
+Or en soi, je veux que soit de la soie.
+
+1674
+01:10:39.210 --> 01:10:41.130
+Je ne veux pas que soit du satin. Ça veut dire il faut
+
+1675
+01:10:41.130 --> 01:10:45.050
+vraiment que tu vérifie la dans la matière du produit dans
+
+1676
+01:10:45.050 --> 01:10:46.210
+le matière que soit de la soie.
+
+1677
+01:10:46.210 --> 01:10:48.490
+C'est du satin. Tu créer une catégorie, payer en satin,
+
+1678
+01:10:48.880 --> 01:10:53.370
+mais il ne faut pas mentir sur la marchandise du coup
+
+1679
+01:10:54.080 --> 01:10:56.450
+pour la semaine prochaine, je me vérifie bien
+
+1680
+01:10:57.710 --> 01:10:59.850
+les volumes de recherche, les CPC à sur
+
+1681
+01:10:59.850 --> 01:11:00.970
+rentabilité pour tous les hommes.
+
+1682
+01:11:00.990 --> 01:11:04.250
+Et voici assez de catégorie de perd une l'arborescence.
+
+1683
+01:11:04.630 --> 01:11:05.770
+Ou si tu me rajoute la femme
+
+1684
+01:11:08.450 --> 01:11:13.200
+Ou qui C'est bon que c'est bon pour toi,
+
+1685
+01:11:14.930 --> 01:11:16.920
+c'est as des questions dans la semaine sur whatsapp.
+
+1686
+01:11:17.380 --> 01:11:19.080
+Si jamais vous avez des questions et que parfois on ne
+
+1687
+01:11:19.080 --> 01:11:20.880
+répond pas sur whatsapp directement, vous avez,
+
+1688
+01:11:20.980 --> 01:11:24.560
+on pouvez nous décrire nous ta, vous savez,
+
+1689
+01:11:24.620 --> 01:11:26.480
+si on ne voit pas forcément en les demandes,
+
+1690
+01:11:26.610 --> 01:11:29.280
+n'hésitez pas à nous ta que ce soit Théo en
+
+1691
+01:11:29.900 --> 01:11:32.200
+au moi qu'on puisse être interpellé
+
+1692
+01:11:32.300 --> 01:11:34.480
+et pour répondre directement,
+
+1693
+01:11:34.740 --> 01:11:36.040
+Ok, mais du coup, selon toi,
+
+1694
+01:11:36.040 --> 01:11:38.480
+je garderais du coup cette l'or à voir si je met des femmes
+
+1695
+01:11:38.480 --> 01:11:41.840
+enfant avec ou garder comme homme et je garderais
+
+1696
+01:11:42.750 --> 01:11:45.280
+l'autre les box.
+
+1697
+01:11:45.950 --> 01:11:48.600
+L'idée, c'est de faire le travail que je t'ai demandé et
+
+1698
+01:11:48.600 --> 01:11:51.280
+sur les lunch box et sur les peignois et d'ici et comme ça,
+
+1699
+01:11:51.280 --> 01:11:53.640
+la une prochaine, tu reviens que ce travail fait et on
+
+1700
+01:11:53.640 --> 01:11:56.160
+pourra toi, tu pourras peut être aussi décider si tu veux
+
+1701
+01:11:56.160 --> 01:11:59.000
+garder l'une ou l'autre et sinon ou moins on pourra te dire
+
+1702
+01:11:59.000 --> 01:12:02.280
+ok, au vu du travail que a fourni celle là ou celle là,
+
+1703
+01:12:02.460 --> 01:12:05.520
+on te dirait de partir plutôt sur l'une ou sur l'autre et ne
+
+1704
+01:12:05.520 --> 01:12:06.720
+veux pas dire que tu pourras faire les deux.
+
+1705
+01:12:06.720 --> 01:12:09.160
+Au final, je, tu pourras faire deux sites dans l'idée,
+
+1706
+01:12:09.160 --> 01:12:11.120
+mais commencer par un et lequel prioriser
+
+1707
+01:12:12.980 --> 01:12:17.080
+Par rapport de base et que on choisissent ensemble avec un
+
+1708
+01:12:17.150 --> 01:12:20.160
+caniche et la meilleure selon l'architecture final.
+
+1709
+01:12:21.060 --> 01:12:22.720
+Une pour linstant oui,
+
+1710
+01:12:23.460 --> 01:12:25.380
+Mais je, je veux dire, vu que tu aura fait le travail de
+
+1711
+01:12:25.380 --> 01:12:29.380
+jette pas à la son travail peut être que la deuxième travail
+
+1712
+01:12:29.400 --> 01:12:30.820
+est fait pour utilisé plus tard.
+
+1713
+01:12:31.620 --> 01:12:33.600
+Ok? Dans tous les cas, la troisième, elle est office,
+
+1714
+01:12:34.020 --> 01:12:35.640
+on élimine des gourdes. C'est
+
+1715
+01:12:35.640 --> 01:12:36.640
+La première que j'avais fait. Mais
+
+1716
+01:12:36.640 --> 01:12:37.800
+en fait, c'est bien parce qu'au finale, elle,
+
+1717
+01:12:37.970 --> 01:12:39.560
+celle qui m'a appris comment bien faire
+
+1718
+01:12:40.380 --> 01:12:42.880
+chaque volume, les recherches, tout ça.
+
+1719
+01:12:42.880 --> 01:12:43.880
+Donc
+
+1720
+01:12:44.310 --> 01:12:45.310
+C'est parfait. Mais du coup, tu
+
+1721
+01:12:45.310 --> 01:12:46.180
+vas par rapport, est ce que tu vas
+
+1722
+01:12:46.180 --> 01:12:47.780
+présenter la semaine dernière, c'est le jour et la nuit
+
+1723
+01:12:48.780 --> 01:12:49.780
+C beaucoup.
+
+1724
+01:12:51.170 --> 01:12:54.380
+Donc du coup, parce que l qui peux présenter,
+
+1725
+01:12:54.380 --> 01:12:55.420
+c'était pas des mauvaises idées,
+
+1726
+01:12:55.420 --> 01:12:56.860
+mais ce c'est juste pas adapté au format CRA.
+
+1727
+01:12:57.360 --> 01:12:58.180
+Là, ce que tu me présente,
+
+1728
+01:12:58.190 --> 01:12:59.540
+c'est vraiment adopté au forma CRA.
+
+1729
+01:12:59.720 --> 01:13:00.940
+Et du coup, c'est parfait.
+
+1730
+01:13:01.520 --> 01:13:04.100
+Il faut juste continuer à travailler ces deux niches jusqu'à
+
+1731
+01:13:04.100 --> 01:13:06.260
+la semaine prochaine et après on, pour de valider,
+
+1732
+01:13:06.260 --> 01:13:10.170
+pour que tu commences à attaquer le travail du travail sur
+
+1733
+01:13:11.090 --> 01:13:12.650
+Intégration cette je pense.
+
+1734
+01:13:16.330 --> 01:13:19.870
+Et pour préparer l'intégration v que tu puisses forcer à
+
+1735
+01:13:19.870 --> 01:13:21.310
+chaque fois 10 produit de dans chaque sous catégorie
+
+1736
+01:13:21.570 --> 01:13:22.790
+Du coup, ça j, pour
+
+1737
+01:13:26.310 --> 01:13:27.740
+Parce que ça, du coup, c'est un truc.
+
+1738
+01:13:27.740 --> 01:13:29.780
+Parfois, vous avez raison, ils sont top.
+
+1739
+01:13:29.860 --> 01:13:31.420
+S'il n'y a pas les produits, même continuer
+
+1740
+01:13:35.780 --> 01:13:38.240
+10, c'est obligé ou genre cinq, ça suffit.
+
+1741
+01:13:40.100 --> 01:13:42.590
+Mais c'est à dire que si en création site kp
+
+1742
+01:13:42.590 --> 01:13:45.320
+cinq, c'est trop réducteur.
+
+1743
+01:13:45.320 --> 01:13:47.880
+En fait, parce que dire que moi, moi,
+
+1744
+01:13:47.880 --> 01:13:49.960
+je vous en demande de 10 par par son catégorie.
+
+1745
+01:13:50.240 --> 01:13:51.240
+Pourquoi? Parce que votre site,
+
+1746
+01:13:51.240 --> 01:13:54.960
+il est voué à être alimenté aussi alimenté en produit pour
+
+1747
+01:13:54.960 --> 01:13:57.160
+le faire grossir, notamment un saut, mais aussi en un
+
+1748
+01:13:57.160 --> 01:13:58.640
+so, ouvrir d'autres opportunités.
+
+1749
+01:13:58.860 --> 01:14:01.160
+Si à la création de sites des kps cinq qui n'y a pas
+
+1750
+01:14:01.160 --> 01:14:03.960
+d'autres produit dispo, ce n'aura pas DPO derrière.
+
+1751
+01:14:04.340 --> 01:14:06.280
+Et il y a des products enture de stock.
+
+1752
+01:14:06.280 --> 01:14:08.000
+Donc ça veut dire que tu vas en perdre, puisqu'en gagner.
+
+1753
+01:14:08.310 --> 01:14:11.200
+Donc on part avec un dis minimum aux années,
+
+1754
+01:14:11.200 --> 01:14:14.960
+je sous la pédale que deux et moi
+
+1755
+01:14:15.290 --> 01:14:17.440
+Juste par exemple, prends l'exemple des baleines.
+
+1756
+01:14:17.700 --> 01:14:19.680
+Si vraiment imagine j'en sors cinq,
+
+1757
+01:14:19.820 --> 01:14:21.360
+six, ça va être compliqué.
+
+1758
+01:14:21.360 --> 01:14:23.320
+Tu de pouvoir peut être en sortir plus après.
+
+1759
+01:14:23.320 --> 01:14:24.200
+Je te dis des baleines parce que
+
+1760
+01:14:24.200 --> 01:14:25.200
+c'est un exemple, c'est sûr.
+
+1761
+01:14:25.200 --> 01:14:27.280
+Je prends les ours que je t'en sort. 20 c'est
+
+1762
+01:14:27.820 --> 01:14:28.820
+Moi. Je dis les baleines. Je peux
+
+1763
+01:14:28.820 --> 01:14:29.160
+m'en sortir
+
+1764
+01:14:29.230 --> 01:14:30.720
+vite si ' à huit, c'est ok,
+
+1765
+01:14:30.990 --> 01:14:33.440
+Puis oui, voilà C à quatre,
+
+1766
+01:14:33.440 --> 01:14:34.600
+c'est pas ok, huit, ça passe.
+
+1767
+01:14:35.880 --> 01:14:37.690
+Mais si tu quatre, je fais quoi,
+
+1768
+01:14:37.690 --> 01:14:38.890
+je supprime le produit ou je le garde
+
+1769
+01:14:40.070 --> 01:14:41.070
+Non cas. Si
+
+1770
+01:14:41.070 --> 01:14:42.410
+une logique pour toi de mettre
+
+1771
+01:14:43.070 --> 01:14:44.730
+vu tous les animaux, tu laisses baleines.
+
+1772
+01:14:44.920 --> 01:14:46.650
+Mais du coup, tu sais que tu as du le travail à faire pour
+
+1773
+01:14:46.650 --> 01:14:47.570
+socer des baleines ou des
+
+1774
+01:14:47.570 --> 01:14:48.450
+trucs qui ressemblent à des baleines.
+
+1775
+01:14:49.440 --> 01:14:51.730
+Attention à part forcé non plus des lapins,
+
+1776
+01:14:51.730 --> 01:14:53.730
+tu qui ressemblerait à une baleine, mais
+
+1777
+01:14:54.670 --> 01:14:57.050
+tu vois le requin déguisé en baleine, ça passe.
+
+1778
+01:14:58.630 --> 01:15:00.560
+Mais mes pensez, voilà penser qu'il y a des produits qui
+
+1779
+01:15:00.560 --> 01:15:02.520
+vont en rupture de stock pense que plus de votre site va
+
+1780
+01:15:02.520 --> 01:15:04.200
+prendre de la vieillesse plus des
+
+1781
+01:15:04.200 --> 01:15:05.520
+fournisseurs pour changer de collection.
+
+1782
+01:15:05.860 --> 01:15:07.920
+Si vous portez qu'une catégorie très peu de produits,
+
+1783
+01:15:07.920 --> 01:15:10.640
+qui a deux seconde quatre et a deux de stock,
+
+1784
+01:15:10.940 --> 01:15:13.600
+une catégorie avec de produits, c'est trop,
+
+1785
+01:15:14.620 --> 01:15:16.360
+est ce que tu peux couper ton micro se plaît parce que du
+
+1786
+01:15:16.360 --> 01:15:18.280
+coup, je m'entends dans un pen.
+
+1787
+01:15:18.380 --> 01:15:20.510
+Toi deux fois du coup, c'est
+
+1788
+01:15:22.130 --> 01:15:24.270
+ce sera trop limité, vite en gala.
+
+1789
+01:15:24.440 --> 01:15:26.790
+C'est pour ça qu'on demande qu'il a minimum et pour une
+
+1790
+01:15:26.790 --> 01:15:30.030
+puissance essau et une puissance de tu de contenu et pour
+
+1791
+01:15:30.030 --> 01:15:32.390
+Google et pour le as ce, mais également pour une
+
+1792
+01:15:33.100 --> 01:15:34.470
+facilité d'opération,
+
+1793
+01:15:34.560 --> 01:15:36.270
+sinon ça être un enfer trop rapidement.
+
+1794
+01:15:39.990 --> 01:15:42.670
+Voilà. Je répond à ta question. J'espère.
+
+1795
+01:15:43.290 --> 01:15:45.860
+Oui, Parfait.
+
+1796
+01:15:46.360 --> 01:15:49.220
+Est ce que quelqu'un d'autre a une question ou est ce qu'il
+
+1797
+01:15:49.380 --> 01:15:51.980
+a dit neuf h 30 ou est ce qu'on se laisse là dessus.
+
+1798
+01:15:56.810 --> 01:16:00.030
+Et parfait, merci à vous du coup
+
+1799
+01:16:01.340 --> 01:16:02.430
+d'être venu aujourd'hui.
+
+1800
+01:16:02.430 --> 01:16:03.950
+N'hésitez pas à dire chaque quoi que ce soit
+
+1801
+01:16:03.950 --> 01:16:05.430
+dans la semaine.
+
+1802
+01:16:05.500 --> 01:16:08.030
+Désolée. Oui, oui,
+
+1803
+01:16:08.100 --> 01:16:11.070
+Bonsoir, bonsoir Ça. Bien,
+
+1804
+01:16:11.860 --> 01:16:12.950
+J'ai une préoccupation.
+
+1805
+01:16:13.090 --> 01:16:17.910
+En fait, j'avais choisi la niche des goûts depuis,
+
+1806
+01:16:18.770 --> 01:16:21.670
+les rassur de rentabilité n'étaient pas bien.
+
+1807
+01:16:23.330 --> 01:16:27.590
+Je suis à nouveau à la recherche d'une nouvelle niche et
+
+1808
+01:16:28.490 --> 01:16:31.470
+je ne sais pas si c'est possible de me guider un peu.
+
+1809
+01:16:31.500 --> 01:16:34.670
+J'ai essayé de répertorier, mais c'est pas si ça va passer.
+
+1810
+01:16:36.740 --> 01:16:40.110
+J'ai répertorié la niche des déguisements.
+
+1811
+01:16:40.110 --> 01:16:41.310
+Je ne sais pas si c'est possible.
+
+1812
+01:16:41.570 --> 01:16:44.870
+Si c'est si, étant donné que le déguisement,
+
+1813
+01:16:45.120 --> 01:16:48.110
+c'est toujours le testi ne sais pas si ça sera validé ou pas
+
+1814
+01:16:48.110 --> 01:16:49.590
+dont je voudrais avoir une idée.
+
+1815
+01:16:50.510 --> 01:16:54.790
+Alors le textile n'est pas refusé d'office c simplement
+
+1816
+01:16:54.790 --> 01:16:56.710
+vous prévient que c'est plus compliqué à travailler
+
+1817
+01:16:57.800 --> 01:16:59.550
+parce qu'il y a des tailles parce qu'il y a des retours.
+
+1818
+01:16:59.550 --> 01:17:02.710
+Il y a le savez, c n'est pas oire de partir sur une textile.
+
+1819
+01:17:02.890 --> 01:17:04.750
+On vous dit simplement que c'est un peu plus compliqué.
+
+1820
+01:17:04.750 --> 01:17:07.350
+Une fois que d'être au courant, c'est absolument pas rect ça
+
+1821
+01:17:07.350 --> 01:17:09.500
+veut dire que si tu veux travailler la niche du déguisements
+
+1822
+01:17:09.500 --> 01:17:11.240
+et que la semaine prochaine, tu arrive à présenter une
+
+1823
+01:17:11.240 --> 01:17:13.200
+architecture qu'on voit qu'il y a des bons responsabilité
+
+1824
+01:17:13.820 --> 01:17:15.600
+que tu peux me créer des catégories parce qu'il y a du bon
+
+1825
+01:17:15.600 --> 01:17:17.000
+volume de recherche pour moi.
+
+1826
+01:17:17.000 --> 01:17:18.600
+Quand t'es au courant, que c'est compliqué à travailler
+
+1827
+01:17:18.760 --> 01:17:21.000
+derrière à toi de te faire des p.
+
+1828
+01:17:21.000 --> 01:17:22.480
+Si je produit avec des bombes de détails,
+
+1829
+01:17:22.480 --> 01:17:24.280
+de bien préparer ça, mais ça ne veut pas le dire,
+
+1830
+01:17:24.280 --> 01:17:27.320
+ce sera refusé, tout comme le peignoir.
+
+1831
+01:17:27.420 --> 01:17:30.000
+Je l'ai refusé à Valentin simplement, il faut très bien,
+
+1832
+01:17:30.000 --> 01:17:32.080
+simplement d'une difficulté supplémentaire
+
+1833
+01:17:34.390 --> 01:17:38.190
+Ou d'accord, Mais du coup par là dessus,
+
+1834
+01:17:38.190 --> 01:17:39.470
+fais moi les recherches et comme ça,
+
+1835
+01:17:39.470 --> 01:17:42.310
+tu pourras voir si si ça va,
+
+1836
+01:17:43.680 --> 01:17:48.220
+D'accord, Pas de souci.
+
+1837
+01:17:49.860 --> 01:17:52.120
+Du coup, tu me dis la semaine prochaine ou tu prends rendez
+
+1838
+01:17:52.120 --> 01:17:53.400
+vous ou tu viens directement papa,
+
+1839
+01:17:53.810 --> 01:17:55.600
+comme on a fait là, d'accord?
+
+1840
+01:17:56.740 --> 01:18:00.120
+Par contre, j'ai vu passer un message qui disait qui,
+
+1841
+01:18:00.540 --> 01:18:02.800
+je ne sais pas, c'est un entre vous qui voulait réserver des
+
+1842
+01:18:02.800 --> 01:18:04.360
+haut types et que tout était qu'au mois de
+
+1843
+01:18:04.360 --> 01:18:05.840
+juillet, qui a dit ça,
+
+1844
+01:18:06.090 --> 01:18:08.160
+C'est moi. Et
+
+1845
+01:18:08.730 --> 01:18:10.010
+Tu vois là, par exemple, à cette session,
+
+1846
+01:18:10.030 --> 01:18:11.290
+il n'y a pas de autre site réservé,
+
+1847
+01:18:12.200 --> 01:18:13.530
+Mais en fait, il ne peut pas le prendre.
+
+1848
+01:18:13.670 --> 01:18:15.330
+Je voulais le prendre hier pour aujourd'hui.
+
+1849
+01:18:15.590 --> 01:18:16.890
+Et en fait, quand tu vas sur le lien,
+
+1850
+01:18:16.910 --> 01:18:18.010
+ça c'était le plus tôt.
+
+1851
+01:18:18.010 --> 01:18:19.010
+C'était le 3 juillet
+
+1852
+01:18:19.860 --> 01:18:21.970
+Parce que du coup moi, je m'attendais à voir comme quand
+
+1853
+01:18:21.970 --> 01:18:24.330
+j'ai vu ça sur le whatsapp, je me suis dit je m'attendais à
+
+1854
+01:18:24.330 --> 01:18:25.650
+avoir une tonne de site aujourd'hui.
+
+1855
+01:18:27.550 --> 01:18:29.530
+Et là, tu me dis qu'on ne peut pas réserver
+
+1856
+01:18:29.910 --> 01:18:31.930
+Non pas avant le 3 juillet,
+
+1857
+01:18:33.070 --> 01:18:35.210
+Si l'on est, on a non.
+
+1858
+01:18:37.040 --> 01:18:39.330
+Mais j'ai eu pareil aussi.
+
+1859
+01:18:39.330 --> 01:18:41.290
+J'étais, je me suis dit trois semaines,
+
+1860
+01:18:41.460 --> 01:18:43.370
+c'est long quand même parce qu'il
+
+1861
+01:18:43.370 --> 01:18:44.530
+n'y a pas de date avant le 3 juillet.
+
+1862
+01:18:45.890 --> 01:18:49.240
+C'est un bug. C'est un bug, parce que
+
+1863
+01:18:50.800 --> 01:18:53.070
+parce que nous on a de la place la place,
+
+1864
+01:18:54.880 --> 01:18:56.270
+J'aie de réserver, mais tu peux pas, je
+
+1865
+01:18:56.270 --> 01:18:57.470
+Pense, ah non, un non, je le mois de
+
+1866
+01:18:57.470 --> 01:18:58.750
+juillet, t'as raison. Ah non, je peux même pas,
+
+1867
+01:18:59.010 --> 01:19:00.070
+Je passe direct au mois de juillet.
+
+1868
+01:19:00.430 --> 01:19:01.430
+Pourquoi? Je sais
+
+1869
+01:19:01.430 --> 01:19:02.430
+Pas? C'est un bug. Et
+
+1870
+01:19:02.430 --> 01:19:04.070
+parce que du coup, quand j'ai vu ça,
+
+1871
+01:19:04.070 --> 01:19:05.270
+je me suis dit wow, genre,
+
+1872
+01:19:05.270 --> 01:19:07.150
+il faut que je prépare ma session de avoir plein de hot
+
+1873
+01:19:07.150 --> 01:19:09.910
+site, mais mais pas du tout, non, je dit que moi,
+
+1874
+01:19:09.910 --> 01:19:10.830
+je n'ai pas de hot site, mais pour
+
+1875
+01:19:11.360 --> 01:19:12.230
+mardi, il y a de la place.
+
+1876
+01:19:12.690 --> 01:19:13.990
+Je dis, il y a de la place.
+
+1877
+01:19:14.650 --> 01:19:16.830
+Je vois vérifier s'il y a une session de dimanche avec un,
+
+1878
+01:19:17.010 --> 01:19:19.470
+je vais demander dans la foulée, mais il y a de la place.
+
+1879
+01:19:19.980 --> 01:19:22.630
+Donc je vais les prévenir, qu'il y ait un bug.
+
+1880
+01:19:22.890 --> 01:19:24.950
+Et dans tous les cas, vous pouvez carrément de petits dans
+
+1881
+01:19:24.950 --> 01:19:26.550
+le whatsapp porte du coup, je veux réserve
+
+1882
+01:19:27.170 --> 01:19:30.150
+et moi je me boucle le truc, mais, et pour le coup,
+
+1883
+01:19:30.770 --> 01:19:32.310
+pas aujourd'hui, par exemple, il n'y avait personne parce
+
+1884
+01:19:32.310 --> 01:19:33.310
+que personne n'a pu réserve avec.
+
+1885
+01:19:35.650 --> 01:19:37.510
+Je comprend bien maintenant, par contre moi,
+
+1886
+01:19:37.510 --> 01:19:39.390
+j'ai reçu un paquet de motifs comme quoi
+
+1887
+01:19:39.450 --> 01:19:40.670
+les créneaux étaient réservés.
+
+1888
+01:19:41.090 --> 01:19:43.430
+Ça veut dire que moi j'ai au moins six mail de réservation
+
+1889
+01:19:43.430 --> 01:19:45.870
+de hot titres pour aujourd'hui, sauf qu'à chaque fois,
+
+1890
+01:19:45.870 --> 01:19:48.070
+je ne peux pas avoir ni les noms ni les raisons.
+
+1891
+01:19:48.400 --> 01:19:49.750
+C'est pour ça que vous dit en arrivant,
+
+1892
+01:19:49.770 --> 01:19:50.950
+ok, qui a réservé des hot titres?
+
+1893
+01:19:50.950 --> 01:19:52.350
+Parce que je ne peux jamais voir qui a réservé.
+
+1894
+01:19:52.370 --> 01:19:53.710
+Et moi aujourd'hui, j'avais plein de mail.
+
+1895
+01:19:54.270 --> 01:19:56.670
+D'accord? C'est bizarre que tu ne vois pas les noms.
+
+1896
+01:19:57.930 --> 01:19:59.110
+Non, je sais que c'est bizarre.
+
+1897
+01:19:59.110 --> 01:20:00.550
+Mais du coup, je suis dans le mystère absolu.
+
+1898
+01:20:00.550 --> 01:20:02.550
+Quand je viens vous voir le jeudi et je ne sais pas qui va
+
+1899
+01:20:02.550 --> 01:20:03.790
+passer en titre ni pourquoi.
+
+1900
+01:20:04.740 --> 01:20:06.670
+Donc, ok,
+
+1901
+01:20:06.980 --> 01:20:10.400
+je vais faire remonter donc à l'équipe le problème du coup
+
+1902
+01:20:10.400 --> 01:20:13.040
+que les modules Shopify n'apparaissent pas et le problème
+
+1903
+01:20:13.040 --> 01:20:15.640
+qu'on ne peut pas réserver de votre site sur la plateforme,
+
+1904
+01:20:19.030 --> 01:20:23.530
+ça marche sur, merci de faire remonter en tout cas ça,
+
+1905
+01:20:23.980 --> 01:20:25.410
+c'est encore un peu le bordel sur school.
+
+1906
+01:20:26.190 --> 01:20:27.730
+Ça va aller de mieux en mieux, mais du coup,
+
+1907
+01:20:27.730 --> 01:20:29.490
+n'hésitez pas à faire remonter ce genre de problème va me
+
+1908
+01:20:29.490 --> 01:20:30.850
+permettre d'améliorer le process.
+
+1909
+01:20:33.950 --> 01:20:37.010
+Et voilà. Voilà pour nous aujourd'hui 19 h 30.
+
+1910
+01:20:37.150 --> 01:20:40.450
+Je vous remercie tout d'être venu me voir et on se retrouve
+
+1911
+01:20:40.510 --> 01:20:42.010
+ou dimanche ou la semaine prochaine.
+
+1912
+01:20:43.190 --> 01:20:44.770
+Je vous tiens en courant dans tous les cas sur le
+
+1913
+01:20:44.770 --> 01:20:46.250
+whatsapp et sur le cool.
+
+1914
+01:20:47.030 --> 01:20:50.850
+Et voilà pour moi. Merci, Stéphanie.
+
+1915
+01:20:50.850 --> 01:20:54.570
+Bonne soirée, tout le monde. C'est bonne soirée. Soirée.

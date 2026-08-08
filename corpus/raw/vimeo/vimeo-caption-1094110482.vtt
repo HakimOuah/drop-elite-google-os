@@ -1,0 +1,749 @@
+WEBVTT
+
+1
+00:00:01.610 --> 00:00:03.370
+Alors dans cette vidéo, j'ai vous faire un tour des
+
+2
+00:00:03.370 --> 00:00:04.530
+réglages de Shopify.
+
+3
+00:00:06.310 --> 00:00:08.210
+Je vais essayer de faire le tour de tout un petit peu
+
+4
+00:00:08.210 --> 00:00:11.690
+rapidement, mais en appuyant sur les points essentiels et
+
+5
+00:00:12.200 --> 00:00:13.530
+surtout les collections,
+
+6
+00:00:13.670 --> 00:00:16.410
+le menu et tout ce qui est un paramètre
+
+7
+00:00:17.240 --> 00:00:19.490
+général dans le bac end.
+
+8
+00:00:20.200 --> 00:00:22.610
+Donc, je vais faire de à z
+
+9
+00:00:24.030 --> 00:00:26.130
+niveau comment il n'y a pas de paramétrage niveau produit.
+
+10
+00:00:27.400 --> 00:00:30.010
+Vous avez, je vous montrer comment fonctionne des
+
+11
+00:00:30.010 --> 00:00:31.850
+collections ou vous avez, si l'onglet collection,
+
+12
+00:00:32.120 --> 00:00:34.330
+vous pouvez créer une collection.
+
+13
+00:00:34.330 --> 00:00:37.010
+Donc là, je vais créer une collection bracelet puisque
+
+14
+00:00:37.010 --> 00:00:41.250
+j'avais créé un produit bracelet.
+
+15
+00:00:41.250 --> 00:00:44.730
+Et et j'avais parlé d'automatisme les collections pour
+
+16
+00:00:44.730 --> 00:00:47.730
+ajouter les bracelets automatiquement dedans.
+
+17
+00:00:48.760 --> 00:00:50.890
+Donc on voit qu'on a plusieurs paramètres
+
+18
+00:00:51.080 --> 00:00:52.170
+pour créer une collection.
+
+19
+00:00:52.910 --> 00:00:56.130
+On peut soit ajouter manuellement les produits
+
+20
+00:00:56.140 --> 00:00:57.570
+qu'on souhaite dans cette collection.
+
+21
+00:00:57.790 --> 00:00:59.050
+Si jamais c'est des bestseller,
+
+22
+00:00:59.070 --> 00:01:01.810
+si jamais vous n'ez pas certains produits dedans,
+
+23
+00:01:02.200 --> 00:01:05.290
+vous avez surtout la possibilité d'utiliser le mode
+
+24
+00:01:05.600 --> 00:01:08.850
+automatisé qui vous permet de choisir
+
+25
+00:01:10.510 --> 00:01:14.250
+que si un produit contient dans son titre bracelet
+
+26
+00:01:15.710 --> 00:01:19.050
+son affiché dedans ou finalement je crée une catégorie
+
+27
+00:01:19.050 --> 00:01:22.010
+bracelet et tous mes produits qui contiennent de me bracelet
+
+28
+00:01:22.010 --> 00:01:23.850
+dedans vont se mettre de donc, si j'enregistre,
+
+29
+00:01:23.850 --> 00:01:25.850
+c'est automatique, j'aimerais juste faire le
+
+30
+00:01:25.850 --> 00:01:27.010
+tour avant de le faire.
+
+31
+00:01:27.670 --> 00:01:28.730
+Je montre ça juste après.
+
+32
+00:01:29.000 --> 00:01:31.450
+Vous avez aussi possit par type de produits parce que sur
+
+33
+00:01:31.450 --> 00:01:34.290
+une fiche produit, on peut ajouter des types de produits
+
+34
+00:01:34.550 --> 00:01:35.850
+de distributeurs de produits.
+
+35
+00:01:35.850 --> 00:01:37.530
+Je sais pas si que vous avez des fournisseurs différents,
+
+36
+00:01:38.640 --> 00:01:42.450
+vous pouvez faire des collections dédiées à des fournisseurs
+
+37
+00:01:42.750 --> 00:01:45.370
+sur des balises basées sur des prix basés sur
+
+38
+00:01:45.390 --> 00:01:46.530
+des prix avant réduction.
+
+39
+00:01:46.630 --> 00:01:50.650
+Par exemple, si des prix sont en réduction,
+
+40
+00:01:52.270 --> 00:01:57.090
+on peut créer une collection solde et en mettant pris avant
+
+41
+00:01:57.090 --> 00:02:00.370
+réduction et du coup finalement tous les prix avant
+
+42
+00:02:00.370 --> 00:02:03.130
+réduction qui sont supérieurs à zéro.
+
+43
+00:02:03.460 --> 00:02:07.610
+Finalement, ça mettra tous les produits qui ont un prix
+
+44
+00:02:07.610 --> 00:02:11.570
+barré parfois par stock qui est titre de vari.
+
+45
+00:02:11.790 --> 00:02:14.090
+Du coup, je vais refaire titre du produit.
+
+46
+00:02:14.790 --> 00:02:16.610
+Je vais refaire bracelet,
+
+47
+00:02:19.280 --> 00:02:20.410
+mais je vais enregistrer.
+
+48
+00:02:20.410 --> 00:02:22.570
+Et normalement, vu que c'est automatisé,
+
+49
+00:02:23.070 --> 00:02:25.130
+j'aime mon bracelet qui s'ajoute automatiquement.
+
+50
+00:02:25.400 --> 00:02:27.250
+Donc, si vous ajoutez un nouveau produit,
+
+51
+00:02:28.310 --> 00:02:29.970
+il se mettra automatiquement dedans.
+
+52
+00:02:30.270 --> 00:02:33.050
+Un nouveau produit qui contient mon bracelet dedans se
+
+53
+00:02:33.050 --> 00:02:35.570
+mettra automatiquement dans la collection à
+
+54
+00:02:36.410 --> 00:02:41.210
+bracelet que j'écris automatisé pour les cartes cadeaux, je
+
+55
+00:02:42.990 --> 00:02:46.290
+les utilise pas, mais par vous avez possibilité d'en créer
+
+56
+00:02:46.430 --> 00:02:48.490
+ou d'en en envoyer par email.
+
+57
+00:02:50.110 --> 00:02:53.730
+Niveau client n'est pas sur les para métrages.
+
+58
+00:02:53.730 --> 00:02:55.490
+Du coup, je vais un petit peu passer ça.
+
+59
+00:02:56.190 --> 00:02:58.570
+Un niveau paramétrage, on les a plutôt dans
+
+60
+00:03:01.300 --> 00:03:02.400
+parler des pages.
+
+61
+00:03:03.350 --> 00:03:05.160
+Vous pouvez ajouter une nouvelles pages
+
+62
+00:03:06.140 --> 00:03:09.240
+qui s'appelle par exemple et vous mettez le texte.
+
+63
+00:03:09.520 --> 00:03:12.680
+Alors vous avez possibilité d'utiliser du html ou
+
+64
+00:03:13.050 --> 00:03:14.400
+d'utiliser des s, etc.
+
+65
+00:03:14.670 --> 00:03:16.960
+Vous pouvez créer autre contenu ici vaut référence.
+
+66
+00:03:17.020 --> 00:03:18.480
+Moi, on parle dans une autre vidéo
+
+67
+00:03:19.820 --> 00:03:21.080
+et c'est tout pour les pages.
+
+68
+00:03:21.110 --> 00:03:24.160
+Donc je vais supprimer cette page, non?
+
+69
+00:03:24.700 --> 00:03:26.440
+Ou, et on va parler du menu
+
+70
+00:03:27.110 --> 00:03:29.560
+menu qui est quand même assez important dans les
+
+71
+00:03:29.560 --> 00:03:32.320
+paramétrage, on peut créer plusieurs menus.
+
+72
+00:03:32.320 --> 00:03:34.080
+Donc là, comme vous le avez vu, j'en ai écrit un pour le
+
+73
+00:03:34.080 --> 00:03:37.000
+foot, j'en créé un information et qui
+
+74
+00:03:37.000 --> 00:03:38.240
+sera mon menu principal.
+
+75
+00:03:38.240 --> 00:03:41.280
+Donc je vais aller dessus peut être vous montrer
+
+76
+00:03:41.280 --> 00:03:42.520
+rapidement comment on en créé un même.
+
+77
+00:03:42.740 --> 00:03:43.760
+Il y a un bouton ajouté,
+
+78
+00:03:43.760 --> 00:03:46.240
+vous mettez un nom et après vous ajoutez les éléments.
+
+79
+00:03:46.240 --> 00:03:49.600
+Finalement, une fois qu'il est créé, je peux
+
+80
+00:03:51.080 --> 00:03:53.160
+modifier mon menu.
+
+81
+00:03:53.230 --> 00:03:55.320
+Donc là, il s'était créé par défaut.
+
+82
+00:03:55.780 --> 00:03:59.600
+Je peux ajouter, je peux mettre, par exemple le contact,
+
+83
+00:04:00.180 --> 00:04:03.240
+mettre le vrai lien de ma page contact ou alors
+
+84
+00:04:03.870 --> 00:04:06.560
+choisir une page qui s'appellerait contact.
+
+85
+00:04:06.700 --> 00:04:10.280
+Et finalement ça fait le lien et ça ajouterait dans menu une
+
+86
+00:04:10.280 --> 00:04:13.760
+page contact qui est bien liée au menu et à la page.
+
+87
+00:04:14.660 --> 00:04:17.480
+Je peux, au lieu de mettre un nom directement, par exemple,
+
+88
+00:04:17.480 --> 00:04:18.520
+aller dans les collections.
+
+89
+00:04:19.740 --> 00:04:22.360
+Et alors je vais faire un truc,
+
+90
+00:04:22.360 --> 00:04:23.680
+un petit peu bizarre, mais c'est pour l'exemple.
+
+91
+00:04:24.180 --> 00:04:27.640
+Je vais ajouter la page toute
+
+92
+00:04:27.640 --> 00:04:29.640
+collection hop.
+
+93
+00:04:30.340 --> 00:04:34.680
+Et je vais ajouter la page bracelet,
+
+94
+00:04:34.780 --> 00:04:36.480
+qui est ma collection de bracelets.
+
+95
+00:04:36.650 --> 00:04:40.080
+Voyez quand on choisit directement ici et met par défaut le
+
+96
+00:04:40.080 --> 00:04:41.880
+nom de la collection de la page,
+
+97
+00:04:42.220 --> 00:04:45.520
+je peux modifier après, sans problème.
+
+98
+00:04:46.060 --> 00:04:47.200
+Et du coup, je vais l'ajouter.
+
+99
+00:04:47.340 --> 00:04:50.680
+Je l'ajoute pour vous montrer qu'on peut de les bouger,
+
+100
+00:04:50.760 --> 00:04:52.560
+mais aussi les passer en sous menu.
+
+101
+00:04:52.830 --> 00:04:55.640
+Donc là, j'enregistrerai après, je vais la mettre ici.
+
+102
+00:04:55.850 --> 00:04:57.080
+Finalement au catalogue,
+
+103
+00:04:57.080 --> 00:04:58.440
+c'est un petit peu toutes mes collections.
+
+104
+00:04:58.870 --> 00:05:03.080
+Donc là on a, on a un menu, je l'ajouter, peut être
+
+105
+00:05:03.660 --> 00:05:06.640
+une autre collection, un page parfait
+
+106
+00:05:09.100 --> 00:05:10.360
+et etc.
+
+107
+00:05:10.670 --> 00:05:13.040
+Pour faire votre menu, j'enregistre.
+
+108
+00:05:13.200 --> 00:05:15.640
+Alors on ne peut pas créer de sous sous collection.
+
+109
+00:05:15.770 --> 00:05:17.160
+C'est à dire que celle là, je ne peux pas la
+
+110
+00:05:17.160 --> 00:05:18.720
+mettre si je peux.
+
+111
+00:05:20.040 --> 00:05:24.880
+Alors vous pouvez, je dis ça parce que j'ai utilisé des
+
+112
+00:05:24.880 --> 00:05:28.640
+thèmes qui n'affichaient pas les
+
+113
+00:05:29.900 --> 00:05:34.840
+les menus de comme on appelle ça les sous sous menus.
+
+114
+00:05:36.430 --> 00:05:39.560
+Donc à tester, je vous conseille de tester ça,
+
+115
+00:05:39.560 --> 00:05:41.440
+d'enregistrer et de voir on va pour le compte.
+
+116
+00:05:41.440 --> 00:05:43.440
+On va tester. Je sais que j'ai des thèmes qui
+
+117
+00:05:44.100 --> 00:05:45.160
+qui n'affichaient pas du coup,
+
+118
+00:05:45.420 --> 00:05:46.800
+je le mettais pas en sous soumis.
+
+119
+00:05:47.820 --> 00:05:50.400
+Je vais tout de suite aller sur le site
+
+120
+00:05:51.550 --> 00:05:53.320
+pour voir si pour le coup, ce thème le fait.
+
+121
+00:05:53.540 --> 00:05:54.680
+Il le fait. Donc c'est parfait.
+
+122
+00:05:55.300 --> 00:05:59.200
+Du coup, on a vu que j'ai ajouté la page contacte que j'ai
+
+123
+00:05:59.200 --> 00:06:01.640
+ajouté la page toute collection qui est cliquable puisque
+
+124
+00:06:01.750 --> 00:06:03.560
+j'ai choisi un lien, je vais
+
+125
+00:06:03.560 --> 00:06:04.640
+tout de suite vous montrer l'exemple.
+
+126
+00:06:04.660 --> 00:06:06.240
+Si je ne voulais pas qu'elle soit CLI cable,
+
+127
+00:06:06.740 --> 00:06:08.680
+je peux modifier du coup après le lien.
+
+128
+00:06:08.950 --> 00:06:11.960
+Donc là, le lien est sur toutes les collections.
+
+129
+00:06:12.430 --> 00:06:16.640
+Mais si je mets, je sais plus non di de
+
+130
+00:06:17.340 --> 00:06:19.680
+en lien, finalement, ça fait un faux lien.
+
+131
+00:06:19.680 --> 00:06:21.840
+C'est un lien qui est qui n'existe pas.
+
+132
+00:06:22.070 --> 00:06:26.240
+Donc si j'applique que j'enregistre et j'a actualise
+
+133
+00:06:27.690 --> 00:06:31.180
+cette fois ci, on a plus de lien.
+
+134
+00:06:34.580 --> 00:06:35.720
+Ça a quand même sur une page
+
+135
+00:06:35.720 --> 00:06:40.180
+collection bizarre.
+
+136
+00:06:43.610 --> 00:06:46.470
+Je vais le faire pour un page parce que peut être que pour
+
+137
+00:06:46.470 --> 00:06:51.280
+le coup, c'est parce que c'est premier enregistré.
+
+138
+00:06:55.720 --> 00:06:58.180
+Voilà l'essor.
+
+139
+00:06:58.380 --> 00:07:01.340
+Pourquoi ça met en collection sur tous les liens.
+
+140
+00:07:01.340 --> 00:07:03.100
+Je ne sais pas, c'est peut être le thème fait ça.
+
+141
+00:07:05.680 --> 00:07:08.780
+On va juste tester un dernier coup sur celui là.
+
+142
+00:07:12.100 --> 00:07:13.690
+C'est mes collections aussi pas.
+
+143
+00:07:18.910 --> 00:07:21.440
+Donc j'ai mis sur contact, ça met un,
+
+144
+00:07:21.440 --> 00:07:24.280
+ça met bien un lien collection sur chaque lien.
+
+145
+00:07:25.690 --> 00:07:26.920
+C'est peut être le thème qui fait ça.
+
+146
+00:07:27.070 --> 00:07:29.840
+Mais bon, vous avez vu comment faire l'arborescence.
+
+147
+00:07:29.840 --> 00:07:31.760
+Finalement, on peut faire des sous menus
+
+148
+00:07:32.500 --> 00:07:34.520
+et vous pouvez finalement ajouter autant
+
+149
+00:07:34.520 --> 00:07:35.600
+d'éléments que vous voulez ici.
+
+150
+00:07:36.750 --> 00:07:41.160
+Donc, niveau niveau, premier paramètre,
+
+151
+00:07:41.260 --> 00:07:42.440
+je pense que je vais,
+
+152
+00:07:44.020 --> 00:07:46.280
+je vais finir sur les préférences et après je ferai une
+
+153
+00:07:46.400 --> 00:07:47.720
+deuxième vidéo pour les paramètres.
+
+154
+00:07:47.990 --> 00:07:50.640
+Donc ici, comme ça, on est sur cette page là,
+
+155
+00:07:52.580 --> 00:07:55.040
+ça finalement, c'est le méta title et la méta,
+
+156
+00:07:55.040 --> 00:07:56.760
+description de la page d'accueil.
+
+157
+00:07:57.190 --> 00:08:00.520
+Donc à travailler, voilà.
+
+158
+00:08:01.110 --> 00:08:05.960
+Vous mettez en général à mon clé ou le nom du site
+
+159
+00:08:05.960 --> 00:08:08.080
+sur quoi vous voulez vous positionner,
+
+160
+00:08:08.080 --> 00:08:11.360
+puisque finalement c'est quand même assez pris en compte
+
+161
+00:08:12.310 --> 00:08:13.720
+avec le contenu que aura dessus
+
+162
+00:08:14.940 --> 00:08:17.040
+Et une bonne description qui peut donner envie,
+
+163
+00:08:17.040 --> 00:08:21.160
+pouvait ajouter une image qui sera sur Instagram sur
+
+164
+00:08:21.360 --> 00:08:23.440
+Facebook, vous savez, la prévu finalement,
+
+165
+00:08:24.300 --> 00:08:27.600
+qui prendra en compte aussi le méta title
+
+166
+00:08:28.220 --> 00:08:31.480
+et la méta description que vous aurez mis au dessus ici,
+
+167
+00:08:31.480 --> 00:08:33.560
+on peut ajouter le code analytique.
+
+168
+00:08:33.800 --> 00:08:35.400
+Alors c'est super simple,
+
+169
+00:08:35.400 --> 00:08:38.120
+peut être que je ferai une vidéo dédiée, mais finalement,
+
+170
+00:08:38.120 --> 00:08:40.280
+le code que vous avez dans Google analytique,
+
+171
+00:08:40.280 --> 00:08:43.120
+vous avez juste à le copier là et est tout est fait pareil
+
+172
+00:08:43.190 --> 00:08:45.360
+pour leel Facebook.
+
+173
+00:08:45.580 --> 00:08:47.920
+Je crois que vous avez deux options, c'est soit le coller.
+
+174
+00:08:48.580 --> 00:08:52.240
+Le numéro finalement l'identifiant du pixel, ou
+
+175
+00:08:53.020 --> 00:08:55.800
+je crois qu'on a possibilité aussi de cliquer ici,
+
+176
+00:08:55.800 --> 00:08:58.040
+de se connecter à son Facebook et donc à sa page.
+
+177
+00:08:58.060 --> 00:09:00.600
+Et donc trouver le pixel plus facilement,
+
+178
+00:09:02.390 --> 00:09:05.760
+vous avez possibilité de protéger par un mot de passe,
+
+179
+00:09:06.220 --> 00:09:11.200
+ce qui peut permettre de ne pas référencer le
+
+180
+00:09:11.200 --> 00:09:15.120
+site sur Google en attendant que vous le fabriquez ou de
+
+181
+00:09:15.120 --> 00:09:18.840
+mettre un message, un message en construction, etc.
+
+182
+00:09:19.940 --> 00:09:22.800
+Et on a fait le tour des préférences du coup.
+
+183
+00:09:22.800 --> 00:09:25.720
+Dans la prochaine vidéo, on va faire la deuxième partie,
+
+184
+00:09:25.820 --> 00:09:27.720
+qui est les paramètres généraux,
+
+185
+00:09:27.720 --> 00:09:29.400
+parce que l'on était plutôt sur les paramètres de
+
+186
+00:09:29.400 --> 00:09:30.920
+page et du site.
+
+187
+00:09:31.620 --> 00:09:33.800
+Et là, ce sera plutôt les paramètres de Shopify.

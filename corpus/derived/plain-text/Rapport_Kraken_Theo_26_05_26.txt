@@ -1,0 +1,283 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  1  —
+RAPPORT DE SESSION
+Mardi 26 mai 2026 • Durée : 2h07 • Coach : Théo
+Participants : Emeric, Raph, Pierre, Charlotte, Aude, Stéphanie, Ingrid, Katia, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:02 Tracking server-side & GBRAID — pourquoi certaines ventes ne remontent
+pas
+▶ 00:11 Hot seat Emeric — audit Google Ads d’une boutique à 3 semaines
+▶ 00:14 Repérer les produits « drainers » et améliorer les fiches avant de
+couper
+▶ 00:28 Le calendrier de rentabilité (cramer / équilibre / gain) et le ROAS
+cible
+▶ 00:37 Hot seat Raph — test Pmax, search en CPC manuel, code promo 150 €
+offert
+▶ 00:42 Offre commerciale & sentiment d’urgence : le code promo qui débloque
+▶ 00:57 Récupérer le trafic payé : le flow email post « -10 % »
+▶ 01:26 Automations vs campagnes (80/20) et segmentation comportementale
+⚔ DÉTAIL DES HOTSEATS
+► Emeric — Audit Google Ads d’une boutique à 3 semaines
+Contexte : premier site, pub lancée le 5 mai. Sur ces trois semaines, 6 à 7 ventes traquées pour environ 685 €
+de chiffre d’affaires, face à ~688 € de dépense pub. Démarrage classique : quelques belles ventes au début
+(150-200 €), puis des paniers plus petits et des trous de plusieurs jours sans vente. Le coach rassure : c’est
+normal, il faut laisser le temps à Google d’apprendre.
+Tracking : Emeric passe par Google & YouTube (pour éviter de payer) sans server-side. Théo conseille
+d’activer le suivi avancé des conversions dans Google Ads (paramètres > objectifs) et surtout de vérifier
+l’absence de doublon GA4 entre Google & YouTube et l’outil de tracking (Simrosis) — un doublon de flux ou de
+balise crée plus de problèmes qu’il n’en résout. À 6/7 ventes remontées, le tracking actuel fonctionne déjà
+correctement.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  2  —
+Flux produit : géré via Simrosis, ce qui vaut mieux que le flux natif de Google & YouTube. Aucun blocage GMC
+à l’acceptation. Point de vigilance : ne jamais mettre un produit non fini en ligne (risque de blocage), et
+possibilité d’exclure un produit du flux s’il n’est pas pertinent.
+Produits « drainers » : sur la plage totale, trier par coût/clic pour repérer les produits qui dépensent sans
+vendre (l’un a déjà brûlé 30 €). Mais avec un taux de conversion visé d’environ 1 %, il faut ~150-200 clics avant
+de juger : on n’ampute pas trop tôt. La priorité est d’améliorer la fiche (avis, photos, prix vs concurrence,
+placement du « -10 % » au-dessus du titre) avant d’envisager de couper.
+Paramètre
+Valeur
+Détail
+Lancement pub
+5 mai
+Premier site, ~3 semaines de recul
+CPC max
+0,42 €
+Démarré à 0,55 €, baissé après exclusion marque
+Budget / jour
+33 €
+30 € au départ, +10 % le 21 mai
+Ventes traquées
+6-7 / 7
+Tracking correct sans server-side
+CA cumulé
+~685 €
+Pour ~688 € de dépense pub
+Taux impr. perdu (budget)
+~41 %
+90 % au départ, se tasse naturellement
+Rythme & produits : 150 produits au lancement (427 avec variantes) ; Stéphanie visait ~250 pour le Q4. Théo
+tempère : y aller « molo », 5-10 produits max par mois les premiers mois, en privilégiant les produits de saison
+réellement pertinents (ici, les sacs de randonnée). Sur la rentabilité, le cadre des 3-4 mois reste valable :
+premier mois on crame, deuxième à l’équilibre, troisième on commence à gagner.
+GBRAID / iOS 14 : une vente non remontée a été récupérée manuellement via le GBRAID (depuis iOS 14,
+Apple bloque le clic Google classique sur iPhone). Emeric a récupéré le code dans l’URL de la commande puis
+l’a importé dans Google Ads (objectif > conversion > importation > source). Théo note la vraie question de fond :
+si la donnée existe, pourquoi les outils de tracking ne la remontent pas automatiquement ?
+« Faut être patient au début. Faut surtout être patient. »
+— Théo
+► Raph — Pmax, pilotage du CPC & offre commerciale
+Contexte : boutique déco à panier moyen élevé, lancée elle aussi le 5 mai. Tracking via Trackbee. ~1 140 € de
+dépense shopping pour ~760 € de ventes (467 € traqué). Très bien partie (400 € de dépense pour 800 € de
+ventes au début), puis un creux sans revente depuis plusieurs jours — le même profil qu’Emeric.
+Test Pmax & search : Raph a lancé hier une search en CPC manuel (20 €/jour, plusieurs ad groups pointant
+vers ses collections) et dispose d’un code promo Pmax de 150 € offert dans Google Ads. Théo l’encourage à
+tester la Pmax avec ce budget (maximiser les conversions, ~20-25 €/jour pendant une semaine). Sur le « ne
+jamais lancer la Pmax au début » entendu en formation, il nuance : la formation a plus de data, mais lui a
+souvent eu de bons résultats en lançant des Pmax tôt — l’idée est de suivre la formation tout en testant.
+Vente hors feed & compte global : un produit volontairement exclu du flux (prix non aligné marché) a quand
+même vendu. Théo suggère d’en faire plus tard une petite shopping dédiée. Point important : une vente issue
+de la search alimente le compte au global (via la balise / le nombre de conversions), ce qui aide à débloquer le
+ROAS cible derrière.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  3  —
+Paramètre
+Valeur
+Détail
+Lancement
+5 mai
+Niche déco, panier moyen élevé
+Dépense shopping
+~1 140 €
+Pour ~760 € de ventes (467 € traqué)
+CPC
+0,30 € max
+Moyenne réelle 0,23 €
+Code promo Pmax
+150 €
+Offert via Google Ads, à tester
+Search
+20 €/jour
+CPC manuel, multi ad groups
+Pinterest
+10 €/jour
+Acquisition complémentaire
+Pilotage du CPC : moyenne réelle 0,23 € pour un max fixé à 0,30 €. Théo conseille de descendre par paliers
+(0,25 €, puis se rapprocher de la moyenne) pour des clics moins chers, sans trop coller à la limite au risque
+d’être moins bien positionné. Les enchères par appareil (ex. -50 % mobile) sont risquées si elles ne sont pas
+posées dès le départ — un CPC déjà bas s’écroulerà quasiment plus rien.
+Offre commerciale : sa veille concurrence a révélé l’absence de tout sentiment d’urgence ou d’offre sur son
+site — « se tirer une balle dans le pied ». Il a mis en place un code promo via inscription newsletter. Théo insiste
+sur un point décisif : afficher le code directement après l’inscription (pop-up ou page), pas seulement par
+email, sinon l’acheteur chaud quitte le site et oublie. Puis enclencher un flow de relance des « -10 % » non
+convertis.
+« Tu les as payés pour qu’ils arrivent sur ton site… faut que tu les bombardes jusqu’à ce qu’ils
+achètent. »
+— Théo
+⚙ MÉTHODE & RAPPELS DU COACH — EMAILING, AUTOMATION &
+LTV
+Pas de masterclass formelle cette semaine, mais une longue discussion de fond entre Théo, Pierre et Raph
+autour du levier le plus négligé du e-commerce : l’email. Le constat partagé est simple — tout le monde se
+concentre sur l’acquisition, personne n’applique l’emailing, alors que c’est souvent lui qui fait basculer une
+boutique dans le vert.
+Capter le mail dès le site. Une pop-up bien brandée (Raph la déclenche à 10 s, accessible à tout moment)
+récolte les adresses. L’idéal, pour le code promo, est d’afficher le code juste après l’inscription en plus de
+l’envoyer par email : un acheteur sur le point de convertir qui doit aller fouiller sa boîte mail risque d’oublier
+l’achat — ou de tomber dans les spams.
+Le 80/20 : automations d’abord. Pierre est catégorique : prioriser les automatisations (récolte de mail,
+bienvenue, panier abandonné, post-achat) avant les campagnes uniques. Environ 80 % des mails poussés par
+une boutique sont des automatisations ; les nouveautés, offres flash et ventes privées restent ponctuelles (~1
+fois/mois pour ne pas spammer). Théo pousse même sa newsletter en automation — 3 à 4 mails/mois max.
+Relance & segmentation. Pour les « -10 % » non convertis : un flow soutenu mais pro — cinq à six mails sur
+une semaine, puis espacés (tous les 3 jours), jusqu’à achat ou désabonnement. Surtout, segmenter par
+comportement (produit cliqué, collection naviguée, catégorie achetée) pour adresser un message ciblé :
+terminer l’achat, parler avec les mots de la catégorie qui intéresse, pousser un cross-sell pertinent. Sur de la
+déco, jouer l’émotion est déterminant.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  4  —
+S’inspirer des concurrents. S’abonner aux newsletters concurrentes — via une adresse dédiée et des
+dossiers automatiques par marque pour ne pas polluer sa boîte — nourrit les idées de design et d’objet. Théo
+cite un AB test où l’email d’un gros concurrent déjà rodé a battu d’environ 30 % son propre email « fait maison »
+: ne pas réinventer, partir de ce qui marche puis personnaliser avec l’IA.
+Délivrabilité. Ne jamais balancer un mauvais mail à toute une base froide d’un coup. Nettoyer la liste
+régulièrement (retirer les inactifs ~tous les 3 mois — Théo est passé d’environ 10 000 à 4 000 contacts),
+s’appuyer sur une plateforme qui aide au warm-up (Omnisend, Brevo), éviter les mots déclencheurs de spam
+dans l’objet (« urgent », « réduction »), et retirer immédiatement ceux qui marquent en spam.
+HTML email. Les clients mail bloquent le JavaScript et ignorent les feuilles de style externes : le CSS inline est
+obligatoire. Concrètement, demander un HTML/CSS natif (pas de librairie type Tailwind, non reportée
+proprement dans Klaviyo/Omnisend), garder un template fixe pour la cohérence de marque, et ne faire varier
+que le contenu d’un mail à l’autre.
+« Si tu perds une grande partie de l’acquisition, en fait tu perds ton fric. »
+— Pierre
+► Outillage — Claude Code plutôt que le chat
+En réponse à Raph, Théo recommande de tout faire dans Claude Code (terminal) plutôt que dans le chat :
+gestion des projets par dossier, historique des conversations retrouvable (slash resume pour rouvrir, slash
+rename pour nommer), sous-agents gérés en interne, accès simple aux outils via MCP, et moins de tokens
+consommés qu’avec l’interface graphique. Travailler dans un dossier projet dédié lie les conversations au projet
+et donne un CLAUDE.md dédié. Terminaux évoqués : Warp, Ghostty, VS Code. En fin de session, faire un «
+update mémoire » dans des fichiers dédiés pour ne rien perdre au compactage du contexte.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Activer le suivi avancé des conversions (paramètres > objectifs) et vérifier l’absence de doublon
+GA4 entre Google & YouTube et Simrosis.
+⚡ Auditer les produits « drainers » (tri par coût/clic) ; améliorer d’abord les fiches (avis, prix vs
+concurrence, « -10 % » au-dessus du titre) avant de couper, vers ~150-200 clics.
+⚡ Vérifier les mots-clés ~1 fois/semaine pour éliminer les requêtes parasites.
+SECONDAIRE
+○ Ajouter les produits de saison (sacs de rando) par lots de 5-10 max/mois ; jamais de produit non fini en
+ligne (risque GMC).
+○ Documenter et envoyer au coach la méthode d’import manuel via GBRAID.
+○ Rester patient : ~3 mois avant de juger la rentabilité, le taux d’impression perdu se tasse seul.
+  ⚓  Raph
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  5  —
+⚡ Lancer la Pmax de test avec le code promo 150 € (~20-25 €/jour, maximiser les conversions, ~1
+semaine) et comparer.
+⚡ Afficher le code promo directement après l’inscription (pop-up / page), en plus de l’email.
+⚡ Construire le flow de relance email des « -10 % » non convertis (émotion, univers déco), en
+s’inspirant d’un concurrent rodé + IA.
+SECONDAIRE
+○ Descendre progressivement le CPC max (0,30 → 0,25 €) vers la moyenne (0,23 €), sans coller à la limite.
+○ Tester plus tard une petite shopping sur le 1er catalogue exclu du feed (un produit a déjà vendu).
+○ Nettoyer la liste + plateforme de délivrabilité (Omnisend/Brevo) ; AB tester objets et pop-ups.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Prioriser les automations email (récolte, bienvenue, panier abandonné, post-achat) avant les
+campagnes — c’est le 80/20 de la rentabilité.
+SECONDAIRE
+○ Segmenter par comportement (produit cliqué, collection, catégorie achetée) pour des mails ciblés et du
+cross-sell.
+○ S’abonner aux newsletters concurrentes (adresse + dossiers dédiés) pour les idées et l’AB testing.
+○ Récupérer le replay « module emailing » (Notion) partagé par Pierre.
+○ Outillage : passer sur Claude Code en projets dédiés et nommer ses sessions (slash rename).
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Emeric — CPC max
+0,42 €
+Après exclusion des mots-clés de marque
+Emeric — budget/jour
+33 €
+30 € au départ, +10 % le 21 mai
+Emeric — ventes traquées
+6-7 / 7
+Tracking correct sans server-side
+Emeric — CA cumulé
+~685 €
+Pour ~688 € de dépense
+Emeric — impr. perdu budget
+~41 %
+90 % au départ
+Emeric — catalogue
+150 produits
+427 avec variantes ; ~250 visé pour le Q4
+Raph — dépense shopping
+~1 140 €
+Pour ~760 € de ventes
+Raph — CPC
+0,30 / 0,23 €
+Max fixé / moyenne réelle
+Raph — code promo Pmax
+150 €
+Offert via Google Ads
+Raph — search / Pinterest
+20 / 10 €/j
+Acquisition complémentaire
+ROAS cible
+15 conv. min
+Dans les 30 jours pour débloquer
+« Bonne data »
+~50 conv.
+Pour des résultats fiables (Pierre)
+Ajout de produits
+5-10 / mois
+Max les premiers mois
+Calendrier rentabilité
+3-4 mois
+Cramer / équilibre / gain
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  26/05/2026
+—  6  —
+Indicateur
+Valeur
+Contexte
+AB test email
++30 %
+Concurrent rodé vs email maison
+Nettoyage de base
+10 000 → 4 000
+Exemple Théo (retrait des inactifs)
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,0 +1,236 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  02/06/2026
+—  1  —
+RAPPORT DE SESSION
+2 juin 2026 • Durée : 2h07 • Coach : Théo • avec Stéphanie
+Participants : Aude, Emeric, Pierre, Thibaud, Manuel, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à retrouver dans le replay :
+▶ 00:00 Pierre — Nomenclature des images (noms de fichiers descriptifs) pour
+renforcer le SEO produit
+▶ 00:10 Hot seat Aude — Doublon de description, taille de titre H2, bannière
+d’accueil coupée
+▶ 00:18 Visuels — Mettre un sujet en avant : le test du « ferme / ouvre les
+yeux »
+▶ 00:45 Pierre — Générer des images IA cohérentes via un JSON de référence
+▶ 00:56 Hot seat Emeric — Chute des ventes Google Ads : la piste du code promo
+400€
+▶ 01:13 Suivi de commande & avis — 17track, Judge.me, flow de relance Brevo
+▶ 01:24 Claude Code — Structurer ses projets, gérer le contexte, skills & logs
+▶ 01:42 Hot seat Manuel — Debug d’un checkout WooCommerce bloqué (erreur 500)
+⚔ DÉTAIL DES HOTSEATS
+► Aude — Descriptions, titres & bannière d’accueil
+Doublon de description : les fiches affichaient deux descriptions, l’une dans le champ produit natif, l’autre via
+un metafield « description produit » rappelé en double sur la page. Théo recommande de n’en garder qu’une,
+dans le champ produit natif : c’est cette donnée que Shopify pousse automatiquement dans les flux (Google
+Shopping et autres). Un metafield vide ou redondant prive le site de données utiles. Le second bloc texte
+(source dynamique du metafield) a été supprimé.
+Titre H2 trop gros : le titre de description s’affichait en 72 px. Plutôt qu’un correctif CSS, le réglage se fait dans
+Paramètres du thème > Typographie > taille du H2 : 24 px sur PC, 20 px sur mobile. La correction s’applique à
+toutes les pages contenant un H2.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  02/06/2026
+—  2  —
+Bannière d’accueil : l’image PC était coupée (visages tronqués) alors que la version mobile passait. Le thème
+gère une image PC et une image mobile distinctes. Trois pistes : recadrer la version PC (l’image étant centrée
+automatiquement, couper le bas conserve le haut), régénérer l’image aux bons formats via l’IA, ou l’élargir pour
+éviter le recadrage.
+« Quand tu fermes les yeux et que tu les rouvres, qu’est-ce que tu vois en premier ? Si tout est mis
+en avant, on ne voit rien. Il faut un sujet qui ressorte. »
+— Théo
+Variantes couleur : Aude souhaite qu’au filtrage d’une variante (robe noire), l’image de cette variante s’affiche
+en visuel principal plutôt que les autres. Théo se souvient d’une app dédiée (liée aux collections) qu’il va
+retrouver et transmettre, et fera remonter la demande à l’équipe du thème Full Stack pour une intégration par
+défaut.
+Mise à jour du thème Full Stack : Aude est en 2.3, la 2.4 est sortie. Emeric détaille la procédure officielle :
+sauvegarder son thème, le déposer dans l’outil de mise à jour du compte Full Stack, récupérer la version à jour
+fusionnée avec son code, la réimporter et prévisualiser avant publication. À faire avant le lancement, en
+montant version par version. Sur Shopify, les MAJ apportent surtout des fonctionnalités — la sécurité n’est pas
+en jeu comme sur WordPress.
+► Emeric — Google Ads : diagnostic d’une chute de ventes
+Le constat : site lancé il y a 4 semaines (5 mai), bon démarrage (premières ventes à 130–200€) puis plus
+aucune vente depuis une semaine, la dernière le 25 mai. Emeric envisage de refaire une fiche produit V2 plus
+travaillée avec Claude. Théo : ce n’est pas la priorité, le site a une bonne base et vend déjà ; faire la V2
+hors-ligne et comparer si l’envie est là.
+L’enchère n’est pas en cause : Emeric a baissé son CPC de 55 à 42 centimes et exclu des noms de marque.
+Sur un CPC réel autour de 25–30 centimes, Théo et Stéphanie écartent ce réglage : à 0,50€ comme à 0,42€, le
+CPC constaté était identique.
+La vraie corrélation — le code promo : un crédit Google de 400€ a été activé le 26 mai, soit le lendemain de
+la dernière vente. Théo a déjà observé ce schéma : Google pousse du trafic de faible qualité pendant l’utilisation
+d’un crédit promo. Conseil : remonter le CPC autour de 45 c pour relancer l’algo, et attendre la fin du crédit.
+« Il vendra. Il a déjà vendu et il vendra — il a une très bonne base. Là, c’est Google qui galère,
+patience. »
+— Théo
+Avis & suivi de commande : Emeric avait arrêté de poser des avis. Théo : en mettre au début aide la
+conversion, puis on retire progressivement pour récolter les vrais (Judge.me permet de masquer). La demande
+d’avis automatique s’envoie quelques jours après réception réelle (délai ≈ 10 j, donc relance à 14–18 j). Pour le
+suivi de commande, Théo recommande 17track (données fiables, page traduisible, mentions dropshipping
+retirables, gratuit jusqu’à 50 commandes/mois) ; Emeric utilise Track123, équivalent.
+Emailing : Brevo installé, popup d’inscription active, mais pas encore de flow de panier abandonné. Théo
+insiste : monter un vrai flow de 3 à 5 emails avec coupon de relance après 2–3 jours. Les paniers abandonnés
+se repèrent dans Shopify (Analyses > ventilation du taux de conversion).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  02/06/2026
+—  3  —
+► Manuel — Checkout WooCommerce bloqué
+Le symptôme : sur sa boutique WooCommerce (Hostinger, thème Shoptimizer), l’ajout au panier fonctionne
+mais le paiement renvoie une erreur critique (500), alors que le checkout avait déjà été testé de bout en bout.
+Méthode de debug : activer le débogage WordPress en passant WP_DEBUG à true dans wp-config.php (à la
+racine, via le gestionnaire de fichiers Hostinger). Attention : ce fichier contient les identifiants de base de
+données, à ne pas partager à l’écran. Le débogage affiche alors l’erreur fatale directement sur la page.
+La cause : l’erreur fatale pointe vers Elementor Pro / Funnel Builder Pro, dont la licence a expiré (non
+renouvelée depuis un mois). Pierre soupçonne aussi le plugin de cache / optimisation (Perfmatters, WP
+Rocket), qui peut casser le checkout en différant des scripts. Mika nuance : perdre la licence Pro ne devrait
+normalement pas casser le checkout, seulement bloquer l’édition des options Pro.
+« Mettez à jour vos extensions, c’est important, sinon vous allez vous faire hacker. Ça va vite et
+c’est un enfer après — surtout en hébergement mutualisé, ça se propage. »
+— Théo
+Plan de résolution : tout mettre à jour, désactiver ou supprimer les extensions inutiles, désactiver Elementor
+Pro si la licence n’est pas reprise, et vider / désactiver le cache pour isoler le coupable. Avertissement : sur
+hébergement mutualisé non cloisonné, un site compromis peut contaminer les autres.
+⚙ PRINCIPES TRANSVERSAUX
+Pas de masterclass formelle cette semaine, mais plusieurs principes structurants sont ressortis du tour de table
+:
+Des visuels qui convertissent. Une image d’accueil doit mettre un sujet en avant (sujet net, fond estompé),
+rester cohérente en couleurs avec le reste du site, et porter un message ou un mot-clé (titre). S’inspirer du
+cadrage et du ton de grandes marques de mode (Lune de Paris, par exemple).
+Images IA cohérentes (méthode de Pierre). Faire décrire une image de référence par l’IA sous forme de
+JSON, puis ne modifier qu’une variable (objet, pose, couleur) pour obtenir des générations reproductibles — on
+sort de la « loterie » du générateur. Utile aussi pour changer une pose en gardant tenue et mannequin, ou
+retravailler texte / logo pour une traduction propre.
+Claude Code & gestion du contexte. Structurer chaque projet (CLAUDE.md, index, fichier de style, to-do,
+dossier recherche, skills dédiés, logs) et faire pointer le CLAUDE.md vers les fichiers à lire seulement au
+besoin, pour ne pas « brûler » le contexte. Surveiller la jauge : compacter vers 60–70 %, repartir sur une
+conversation neuve au-delà de 80 %, et lancer un « update » des fichiers avant compactage pour ne rien
+perdre. Vérifier ce que l’IA affirme avoir mémorisé.
+Google Ads & patience. Une baisse de ventes n’est pas toujours imputable à un réglage : isoler les variables
+(CPC, exclusions, crédit promo) une à une, et accepter une part d’aléa côté Google tout en continuant à
+dépenser le budget.
+Mises à jour = sécurité. Sur WordPress, garder extensions et thème à jour est une question de sécurité, pas
+de confort. Un site mutualisé compromis peut en entraîner d’autres.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  02/06/2026
+—  4  —
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Aude
+PRIORITAIRE
+⚡ Supprimer définitivement le metafield de description redondant et conserver une seule description
+dans le champ produit natif (alimente les flux Google).
+⚡ Reprendre la bannière PC aux bons formats avec un sujet mis en avant et un titre / mot-clé.
+⚡ Mettre à jour le thème Full Stack (2.3 → 2.4) via l’outil officiel, avant le lancement, en prévisualisant
+avant publication.
+SECONDAIRE
+○ Vérifier le rendu du titre H2 (24 px PC / 20 px mobile) sur toutes les pages.
+○ Constituer un jeu d’images cohérentes en couleurs (banque libre de droits ou régénération IA).
+○ Attendre le retour de Théo sur l’app de variantes couleur avant de trancher.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Remonter le CPC autour de 45 c pour relancer l’algo et stabiliser les ventes ; suivre l’effet jusqu’à
+mardi prochain.
+⚡ Monter un vrai flow de panier abandonné dans Brevo (3 à 5 emails, coupon de relance après 2–3
+jours).
+⚡ Surveiller la fin du crédit promo Google (400€) et l’évolution des ventes une fois épuisé.
+SECONDAIRE
+○ Réactiver une collecte d’avis : quelques avis au départ, puis demande automatique 14–18 j après
+réception réelle.
+○ Garder le projet de fiche produit V2 hors-ligne, sans en faire une priorité.
+○ Envoyer le site sur WhatsApp pour un check de la fiche produit.
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Mettre à jour WordPress, WooCommerce et toutes les extensions ; supprimer celles qui sont
+inutiles.
+⚡ Désactiver Elementor Pro si la licence n’est pas reprise, puis tester le checkout.
+⚡ Désactiver le cache / optimiseur (Perfmatters, WP Rocket) le temps d’isoler la cause de l’erreur
+500.
+SECONDAIRE
+○ Récupérer l’erreur fatale complète (WP_DEBUG dans wp-config.php) et la transmettre à Théo via
+WhatsApp.
+○ Reprendre le réglage de la bannière (étoiles et prix barré non visibles) une fois le checkout réparé.
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Finir et lancer les 15 premières fiches produits sans plus retarder la mise en ligne.
+SECONDAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  02/06/2026
+—  5  —
+○ Partager le lien d’une fiche produit finalisée pour un check du coach.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Garder extensions, thèmes et plateformes à jour — question de sécurité, surtout en hébergement
+mutualisé.
+SECONDAIRE
+○ Visuels d’accueil : un sujet mis en avant, des couleurs cohérentes, un message clair.
+○ S’organiser sur Claude Code par projet (CLAUDE.md, skills, logs) et surveiller le contexte.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+CPC initial (Emeric)
+55 c
+Fourchette conseillée en formation
+CPC abaissé (Emeric)
+42 c
+CPC max actuel
+CPC réel constaté
+0,26–0,30€
+Mobile / tablette
+Panier moyen (Emeric)
+50–200€
+Décroissant depuis le lancement
+Crédit promo Google
+400€
+Activé le 26 mai
+Budget Google / jour
+30 → 33€
++10 %
+Ventes (Emeric)
+8
+Depuis le 9 mai
+Conversion (30 j)
+1 900 visiteurs
+Env. 6 paiements
+Titre H2 (Aude)
+72 → 24 / 20 px
+PC / mobile
+Bannière PC / mobile
+1920×1080 /
+1080×1920
+Formats cibles
+Thème Full Stack
+2.3 → 2.4
+MAJ disponible
+17track
+gratuit < 50/mois
+Puis 9 $/200, 49 $/1000
+Track123
+gratuit < 50/mois
+Puis 9 $/300
+Flow email de relance
+3–5 emails
+Coupon après 2–3 j
+Contexte Claude Code
+60–80 %
+Compact / nouvelle conv.
+Coût image IA
+≈ 7 c
+Par génération
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

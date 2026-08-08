@@ -1,0 +1,849 @@
+WEBVTT
+
+1
+00:00:01.760 --> 00:00:03.160
+Alors l'objectif de cette vidéo,
+
+2
+00:00:03.160 --> 00:00:06.680
+c'est de vous montrer comment installer et paramétrer un
+
+3
+00:00:06.680 --> 00:00:07.800
+thème sur Shopify.
+
+4
+00:00:08.510 --> 00:00:12.280
+Donc je me rends sur l'accueil de ma boutique test.
+
+5
+00:00:12.860 --> 00:00:16.160
+Je vais dans boutique en ligne et je vais
+
+6
+00:00:17.000 --> 00:00:19.680
+j'arrive sur la section thème.
+
+7
+00:00:19.940 --> 00:00:22.800
+Je peux gérer les thèmes là, on voit que j'en ai actif.
+
+8
+00:00:24.020 --> 00:00:27.240
+Et trois en trois dans ma bibliothèque,
+
+9
+00:00:27.710 --> 00:00:30.360
+j'ai possibilité soit d'aller dans les thèmes gratuits,
+
+10
+00:00:30.360 --> 00:00:32.400
+soit d'aller dans les thèmes de Shopify
+
+11
+00:00:33.620 --> 00:00:34.960
+qui en proposent quelques uns.
+
+12
+00:00:35.190 --> 00:00:38.240
+Mais j'ai aussi possibilité d'ajouter un thème que j'aurais
+
+13
+00:00:38.240 --> 00:00:40.920
+téléchargé sur notre plateforme.
+
+14
+00:00:41.660 --> 00:00:44.600
+Je vous invite à aller sur la vidéo ou je parle des thèmes
+
+15
+00:00:45.430 --> 00:00:48.000
+pour voir ce que je ce que je conseille.
+
+16
+00:00:48.310 --> 00:00:51.680
+Donc je vais faire ajouter un fichier zip,
+
+17
+00:00:51.740 --> 00:00:54.120
+qui est le zip du thème.
+
+18
+00:00:54.460 --> 00:00:59.160
+Je le mets, je le drag et drop ici, je le télé charge.
+
+19
+00:01:01.500 --> 00:01:06.320
+On va attendre cinq à 10 secondes que ça suppl sur le site
+
+20
+00:01:08.340 --> 00:01:11.640
+et on va pouvoir passer
+
+21
+00:01:12.420 --> 00:01:14.720
+à la deuxième à la deuxième.
+
+22
+00:01:15.100 --> 00:01:18.000
+À la suite, vous avez possibilité
+
+23
+00:01:19.600 --> 00:01:21.360
+de personnaliser.
+
+24
+00:01:22.670 --> 00:01:27.250
+Si vous souhaitez trop long exemple que le site est actif
+
+25
+00:01:27.250 --> 00:01:29.810
+avec des clients, vous avez possibilité de personnaliser
+
+26
+00:01:29.810 --> 00:01:30.890
+directement le thème ici.
+
+27
+00:01:31.100 --> 00:01:33.530
+C'est à dire que vous ferez des modifications sur le nouveau
+
+28
+00:01:33.530 --> 00:01:35.530
+thème que vous avez installé sans que
+
+29
+00:01:35.570 --> 00:01:36.650
+ça soit actif sur la boutique.
+
+30
+00:01:36.650 --> 00:01:39.970
+Donc ça peut être pratique si la boutique tourne ou si vous
+
+31
+00:01:39.970 --> 00:01:41.730
+voulez faire des tests sur un thème finalement,
+
+32
+00:01:41.950 --> 00:01:43.130
+ou je vais le publier puisque
+
+33
+00:01:47.730 --> 00:01:49.030
+je vais le publier comme ça,
+
+34
+00:01:49.030 --> 00:01:50.590
+je vous aurais montré comment le publier,
+
+35
+00:01:51.850 --> 00:01:52.870
+le fait de faire ça,
+
+36
+00:01:53.250 --> 00:01:54.390
+ça va remplacer le thème
+
+37
+00:01:54.390 --> 00:01:55.670
+actif par celui que je viens de mettre.
+
+38
+00:01:56.120 --> 00:01:59.070
+C'est un thème vide. Je vais aller sur la page d'accueil.
+
+39
+00:01:59.070 --> 00:02:01.030
+Vous allez voir que rien du tout
+
+40
+00:02:01.730 --> 00:02:03.390
+par quelques produits que j'ai sur
+
+41
+00:02:03.390 --> 00:02:04.430
+le site qui sont présentés.
+
+42
+00:02:05.810 --> 00:02:09.150
+Et là je vous, je vais vous parler de la deuxième,
+
+43
+00:02:09.770 --> 00:02:12.470
+la deuxième partie, qui est la personnalisation du thème.
+
+44
+00:02:13.220 --> 00:02:17.750
+Donc je clique sur personnalisé et on arrive sur l'interface
+
+45
+00:02:17.750 --> 00:02:21.230
+qui vous permet de personnaliser à la page d'accueil,
+
+46
+00:02:21.500 --> 00:02:24.270
+mais aussi les pages produits, les pages collections,
+
+47
+00:02:24.730 --> 00:02:27.430
+les pages en général, le panier et les pages de paiement.
+
+48
+00:02:27.990 --> 00:02:31.270
+Alors je vais commencer à évidemment ça.
+
+49
+00:02:33.160 --> 00:02:36.310
+Cette interface change en fonction du thème que vous allez
+
+50
+00:02:36.870 --> 00:02:39.990
+utiliser, mais je ne vais pas rentrer dans les détails de
+
+51
+00:02:39.990 --> 00:02:41.270
+toutes les sections possibles.
+
+52
+00:02:41.270 --> 00:02:43.230
+J'ai juste vous expliquer le principe qui sera
+
+53
+00:02:43.230 --> 00:02:44.790
+exactement le même pour tous les témoins.
+
+54
+00:02:45.300 --> 00:02:48.030
+Donc, sur Shopify, comme je vous ai montré,
+
+55
+00:02:48.030 --> 00:02:51.110
+on a possibilité de d'avoir des paramètres généraux sur
+
+56
+00:02:52.610 --> 00:02:53.990
+sur des pages différentes.
+
+57
+00:02:54.330 --> 00:02:56.630
+Là, on va rester sur la page d'accueil pour vous montrer le
+
+58
+00:02:56.630 --> 00:02:59.560
+système de section qui sont mis en place.
+
+59
+00:02:59.870 --> 00:03:03.000
+Donc vous avez, comme, vous voyez plusieurs
+
+60
+00:03:03.630 --> 00:03:06.880
+plusieurs anglais sur le côté, à chaque fois,
+
+61
+00:03:07.500 --> 00:03:08.680
+à chaque fois que vous pez dessus,
+
+62
+00:03:08.680 --> 00:03:09.760
+vous avez des options à droite.
+
+63
+00:03:10.110 --> 00:03:12.160
+Donc là, par exemple, je peux pour l'en tête,
+
+64
+00:03:12.500 --> 00:03:13.680
+qui est le laideur du site.
+
+65
+00:03:14.140 --> 00:03:16.600
+Je peux modifier le menu. Je peux modifier le logo.
+
+66
+00:03:17.660 --> 00:03:19.720
+Il y a quelques options disponibles, des couleurs, etc.
+
+67
+00:03:20.820 --> 00:03:23.240
+Je ne vais pas faire le tour de tout, ça servira rien.
+
+68
+00:03:23.460 --> 00:03:26.680
+Je vous laisserai fouiller pour paramétrer au mieux votre
+
+69
+00:03:26.680 --> 00:03:30.120
+thème, mais je vais plutôt aller sur cette partie qui est
+
+70
+00:03:30.120 --> 00:03:31.480
+plus intéressante, c'est que sur
+
+71
+00:03:31.480 --> 00:03:32.520
+tous les thèmes, vous aurez une section.
+
+72
+00:03:32.990 --> 00:03:36.200
+Vous avez une partie section ou vous avez des possibilités
+
+73
+00:03:36.480 --> 00:03:38.560
+alors plus plus ou moins en fonction des ths que vous aurez
+
+74
+00:03:38.740 --> 00:03:40.920
+des possibilits d'ajouter des sections au th, mes,
+
+75
+00:03:42.180 --> 00:03:43.640
+au th, votre site.
+
+76
+00:03:44.030 --> 00:03:49.000
+Donc je prends l'exemple d'une liste de collection.
+
+77
+00:03:49.000 --> 00:03:50.840
+Par exemple, il s'ajoute en bas,
+
+78
+00:03:50.840 --> 00:03:52.720
+vous avez impossibilit de la cacher
+
+79
+00:03:53.660 --> 00:03:54.800
+ou de la laisser afficher.
+
+80
+00:03:54.910 --> 00:03:57.960
+Vous avez possibilité de la monter ou de la descendre dans
+
+81
+00:03:57.980 --> 00:04:00.360
+la structure de votre site ou je la laisser en bas.
+
+82
+00:04:00.740 --> 00:04:02.600
+Et ici, par exemple,
+
+83
+00:04:02.600 --> 00:04:06.280
+on voit que j'ai qu'une option sur sur la section globale
+
+84
+00:04:06.280 --> 00:04:09.400
+qui est finalement le titre qui sera ici ou j'ai me titre
+
+85
+00:04:09.630 --> 00:04:10.960
+pour vous donner exemple,
+
+86
+00:04:11.910 --> 00:04:15.880
+j'ai mis un majuscule et j'ai des sous sections qui
+
+87
+00:04:15.880 --> 00:04:17.000
+sont finalement mes collections.
+
+88
+00:04:17.160 --> 00:04:18.800
+Alors là, je pourrais choisir des collections
+
+89
+00:04:19.870 --> 00:04:21.160
+pour, pour les mettre en avant.
+
+90
+00:04:21.190 --> 00:04:25.560
+J'en ai mangé que donc je la sélectionne et vous fer
+
+91
+00:04:26.060 --> 00:04:27.680
+en gros un petit peu le principe des
+
+92
+00:04:27.680 --> 00:04:29.440
+sections, vous en avez plusieurs.
+
+93
+00:04:29.780 --> 00:04:32.280
+Encore une fois, je vous laisse tester puisqu ils sont
+
+94
+00:04:32.280 --> 00:04:35.200
+différents en fonction du thème que vous aurez.
+
+95
+00:04:35.620 --> 00:04:38.080
+Par contre ce qui sera
+
+96
+00:04:39.150 --> 00:04:42.440
+quasiment pareil sur tous les thèmes, sa section paramètre,
+
+97
+00:04:42.780 --> 00:04:44.840
+la section paramètre, elle changera
+
+98
+00:04:45.880 --> 00:04:48.400
+possiblement en fonction du thème, il y aura plus d'options
+
+99
+00:04:49.690 --> 00:04:52.680
+parce que des thèmes proposent des plugin incorporés.
+
+100
+00:04:52.680 --> 00:04:54.360
+Vous pourrez gér ici. Mais là,
+
+101
+00:04:54.360 --> 00:04:56.120
+on voit que j'ai quelques paramètres, par exemple,
+
+102
+00:04:56.140 --> 00:05:00.760
+les couleurs sur tout le site, l' typo, surtout le site,
+
+103
+00:05:00.760 --> 00:05:03.320
+finalement, les paramètres généraux du site entier.
+
+104
+00:05:03.670 --> 00:05:05.600
+Donc pareil, je ne vais pas faire tout en détail parce
+
+105
+00:05:05.600 --> 00:05:09.080
+qu'ils change et ça servirait à pas grand chose de vous
+
+106
+00:05:09.080 --> 00:05:10.160
+montrer tous les paramétrage.
+
+107
+00:05:10.260 --> 00:05:12.160
+Et c'est vous en fonction de votre
+
+108
+00:05:12.160 --> 00:05:13.560
+site, ce que vous voulez faire.
+
+109
+00:05:14.220 --> 00:05:17.880
+Je retourne sur la section sur la section section
+
+110
+00:05:18.660 --> 00:05:20.880
+et je vais vous montrer rapidement pour
+
+111
+00:05:21.910 --> 00:05:24.080
+pour la page pour lui, parce que c'est, à mon avis,
+
+112
+00:05:24.710 --> 00:05:26.520
+tout la page d'accueil et la page produit et des
+
+113
+00:05:26.520 --> 00:05:29.440
+collections, c'est plus importante, ont le thème est très,
+
+114
+00:05:29.440 --> 00:05:33.680
+très basique, mais j'ai toujours possibilité d'avoir
+
+115
+00:05:34.260 --> 00:05:35.880
+un accès à en tête et au pied de page.
+
+116
+00:05:36.350 --> 00:05:38.720
+Mais pour le coup, je suis dans le produit,
+
+117
+00:05:39.070 --> 00:05:41.600
+j'ai une option produit et je peux.
+
+118
+00:05:41.840 --> 00:05:44.240
+Alors il y a vraiment peu de paramètres et je peux,
+
+119
+00:05:45.870 --> 00:05:47.760
+j'ai des options particuli res pour la page produit,
+
+120
+00:05:48.310 --> 00:05:50.880
+activer le zoom chez le distributeur,
+
+121
+00:05:52.350 --> 00:05:53.920
+empiler ou vignettes, etc.
+
+122
+00:05:54.500 --> 00:05:56.120
+Ça, ça changera en fonction du thème.
+
+123
+00:05:56.120 --> 00:05:59.360
+Je peux même agrandir le bouton ça.
+
+124
+00:05:59.360 --> 00:06:02.240
+Ça change en fonction de votre thème, mais vous avez,
+
+125
+00:06:02.450 --> 00:06:04.800
+c'est important de noter que vous avez des
+
+126
+00:06:05.420 --> 00:06:07.440
+des paramétrage différents en fonction des
+
+127
+00:06:07.440 --> 00:06:08.480
+pages que voulez modifier.
+
+128
+00:06:08.710 --> 00:06:10.160
+Donc là, on a vu la page produit
+
+129
+00:06:10.260 --> 00:06:11.440
+qui avait assez peu d'options.
+
+130
+00:06:11.440 --> 00:06:15.880
+On aller voir la page collection collection par défaut à,
+
+131
+00:06:16.670 --> 00:06:19.320
+j'ai peut être pas précisé, mais le fait de faire ces
+
+132
+00:06:19.320 --> 00:06:22.560
+modifications dans ces onglets là,
+
+133
+00:06:24.150 --> 00:06:26.600
+tous les paramétrage que vous ferez s'appliquent sur tous
+
+134
+00:06:26.600 --> 00:06:28.040
+les produits ou sur toutes les collections.
+
+135
+00:06:29.260 --> 00:06:31.880
+Là, paris sur la page de collection n'a pas grand chose
+
+136
+00:06:33.460 --> 00:06:35.240
+en paramètre, mais vous voyez que finalement ça,
+
+137
+00:06:35.660 --> 00:06:38.520
+on peut appliquer des paramètres globaux pour tout le site.
+
+138
+00:06:38.520 --> 00:06:41.400
+Donc, toutes mes collections seront affichées en grille.
+
+139
+00:06:41.400 --> 00:06:43.040
+Si j'ai choisi GRI parce que
+
+140
+00:06:43.670 --> 00:06:46.520
+coll sais pas, ça dépend du site.
+
+141
+00:06:48.540 --> 00:06:49.840
+Il n'y a pas beaucoup d'options, mais
+
+142
+00:06:51.030 --> 00:06:53.560
+vous avez possibilités paramètres général sur chacun
+
+143
+00:06:54.460 --> 00:06:57.750
+sur chaque, sur chaque page,
+
+144
+00:06:59.930 --> 00:07:02.470
+le panier, je vais faire un tour, mais
+
+145
+00:07:03.210 --> 00:07:04.950
+pas il n'y a rien pour le coup.
+
+146
+00:07:05.770 --> 00:07:06.830
+Au coup, c'est un thème gratuit.
+
+147
+00:07:06.830 --> 00:07:08.550
+Donc il y a vraiment pas beaucoup de paramètres,
+
+148
+00:07:08.780 --> 00:07:12.070
+page de paiement pour tous les thèmes.
+
+149
+00:07:12.070 --> 00:07:14.590
+Ce sera la même puisque Shopify ne permet pas de
+
+150
+00:07:14.590 --> 00:07:16.910
+personnaliser de check out, d'être un des
+
+151
+00:07:18.130 --> 00:07:19.790
+un des points faibles de Shopify.
+
+152
+00:07:19.900 --> 00:07:23.630
+Mais ce n'est pas très important dans le sens ou leur check
+
+153
+00:07:23.630 --> 00:07:24.910
+out est quand même bien optimisé.
+
+154
+00:07:25.180 --> 00:07:26.350
+Donc là, j'attends que ça charge,
+
+155
+00:07:26.420 --> 00:07:30.470
+mais on a assez peu de possibilités là.
+
+156
+00:07:30.470 --> 00:07:33.310
+On voit que la couleur est marron, on peut la changer.
+
+157
+00:07:33.570 --> 00:07:35.110
+On peut changer la couleur du bouton.
+
+158
+00:07:35.210 --> 00:07:37.550
+On peut changer le nom du bouton ou des éléments.
+
+159
+00:07:37.550 --> 00:07:40.070
+Ça c'est dans dans le paramètre de langage
+
+160
+00:07:40.650 --> 00:07:42.830
+et on aura possibilité de rajouter un logo
+
+161
+00:07:43.130 --> 00:07:45.230
+ou une bannière en haut.
+
+162
+00:07:45.800 --> 00:07:48.270
+C'est à peu près ce qui se passe. Alors je vais enregistrer.
+
+163
+00:07:48.270 --> 00:07:49.710
+Je l'actualiser parce qu'on voit toujours
+
+164
+00:07:49.710 --> 00:07:50.750
+pas les paramètres.
+
+165
+00:07:59.460 --> 00:08:00.680
+Si ça veut bien chargé,
+
+166
+00:08:14.240 --> 00:08:15.740
+Bon, vu que c'est un petit peu long, chargé,
+
+167
+00:08:17.420 --> 00:08:18.980
+c paramétrage sont un autre endroit.
+
+168
+00:08:18.980 --> 00:08:20.620
+Ils sont dans les paramètres global du thème
+
+169
+00:08:20.620 --> 00:08:21.820
+dans passage à la caisse.
+
+170
+00:08:22.240 --> 00:08:24.300
+Et finalement on retrouve exactement ce
+
+171
+00:08:24.300 --> 00:08:25.620
+que ce qui aurait ici.
+
+172
+00:08:26.840 --> 00:08:28.380
+Du coup, c'est l'image de fond qui se met.
+
+173
+00:08:29.000 --> 00:08:31.740
+Le logo est ce que j'ai aid des logo.
+
+174
+00:08:33.530 --> 00:08:37.910
+Je n'ai pas de logo, mais tant pis, on peut
+
+175
+00:08:38.920 --> 00:08:42.150
+assez peu de paramètres, mais la position du logo,
+
+176
+00:08:43.050 --> 00:08:46.350
+la couleur de fond, la typo,
+
+177
+00:08:46.350 --> 00:08:49.670
+qui peut changer sur checkout et les couleurs d'accent.
+
+178
+00:08:49.670 --> 00:08:51.470
+Comme je vous ai dit tout à l'heure, on est sur marron.
+
+179
+00:08:51.890 --> 00:08:52.750
+Si je met rouge,
+
+180
+00:08:56.500 --> 00:08:57.520
+ça d'être même pas.
+
+181
+00:08:57.710 --> 00:09:00.000
+Mais vous avez compris logiquement si j'ai enist,
+
+182
+00:09:00.100 --> 00:09:01.840
+j'a actualise une petite barge,
+
+183
+00:09:02.090 --> 00:09:03.480
+allez savoir pourquoi le citer long.
+
+184
+00:09:03.710 --> 00:09:05.400
+Mais normalement, ça devrait se mettre à jour en
+
+185
+00:09:05.400 --> 00:09:06.800
+rouge, le bouton pareil.
+
+186
+00:09:08.380 --> 00:09:11.320
+Si je mets marron pour le coup, sa charge ici,
+
+187
+00:09:11.320 --> 00:09:14.200
+mais ça devrait se mettre, vous avez assez peu
+
+188
+00:09:15.020 --> 00:09:18.880
+de paramétrage pour le mais elle se passe ici du coup.
+
+189
+00:09:19.590 --> 00:09:21.280
+Donc ça se met à jour ou j'ai,
+
+190
+00:09:23.510 --> 00:09:25.360
+j'ai fait un peu le tour parce que finalement les autres
+
+191
+00:09:25.370 --> 00:09:26.600
+c'est, il n'y a rien à voir.
+
+192
+00:09:27.320 --> 00:09:31.200
+L des collections peut être faire un tour si ça charge.
+
+193
+00:09:32.020 --> 00:09:34.440
+Oui, vous avez possibilité, souvent
+
+194
+00:09:36.340 --> 00:09:38.000
+de soit tout affiché
+
+195
+00:09:38.860 --> 00:09:41.320
+niveau collections sur la liste des collections.
+
+196
+00:09:41.320 --> 00:09:42.800
+Donc, en fait, ça va être un peu là.
+
+197
+00:09:43.860 --> 00:09:46.520
+Le nom de domaine slash collection slash hall.
+
+198
+00:09:46.530 --> 00:09:48.840
+Finalement, toutes les collections qui sont disposent sur
+
+199
+00:09:48.840 --> 00:09:52.280
+votre site, vous avez possibilité de toutes les afficher ou
+
+200
+00:09:52.280 --> 00:09:55.560
+d'avoir un bouton sélectionné qui vous permet finalement sur
+
+201
+00:09:55.560 --> 00:09:58.400
+la gauche de pouvoir ajouter des collections spécifiques.
+
+202
+00:09:58.400 --> 00:10:00.040
+Donc vous pouvez en ajouter tant que vous voulez,
+
+203
+00:10:00.790 --> 00:10:03.360
+mais ça peut vous permettre de ne pas afficher certaines
+
+204
+00:10:03.360 --> 00:10:04.600
+collections si vous ne souhaitez pas
+
+205
+00:10:04.600 --> 00:10:05.800
+qu'elles soient af, fichées pour l'utilisateur.
+
+206
+00:10:06.260 --> 00:10:07.920
+Voilà, on a fait le tour pour
+
+207
+00:10:08.500 --> 00:10:11.200
+les l'installation et le paramétrage du thème.
+
+208
+00:10:11.470 --> 00:10:12.560
+Dans la vidéo suivante,
+
+209
+00:10:12.820 --> 00:10:16.000
+on parle de la configuration de Shopify parce que on a parlé
+
+210
+00:10:16.000 --> 00:10:19.280
+de la configuration du thème et je vais faire
+
+211
+00:10:19.900 --> 00:10:21.960
+un tour assez rapide mais complet
+
+212
+00:10:23.820 --> 00:10:25.320
+des paramétrage de Shopify.

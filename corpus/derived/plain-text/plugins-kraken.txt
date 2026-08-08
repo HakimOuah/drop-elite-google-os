@@ -1,0 +1,45 @@
+Les plugins
+AfterShip Order Tracking, WooCommerce Tracking Made Easy (Free plan available)
+AliDropship Woo Plugin *(License)*
+Analytify - WooCommerce Tracking
+Analytify Pro
+Analytify- Tableau de bord Google Analytics
+Autonami Marketing Automations Connectors *(License)*
+Autonami Marketing Automations For WordPress
+Autonami Marketing Automations Pro *(License)*
+Bot protection
+Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd
+CommerceGurus Commercekit
+Disable Gutenberg (Bugfix pour enlever Gutenberg des widgets de personnaliser - en attendant 
+une mise à jour de shoptimizer)
+Elementor
+Elementor pro *(License)*
+Facebook for woocommerce
+Imagify *(License)*
+Ingenius
+Insert Headers and Footers
+JetEngine
+Kirki customizer framework
+ManageWP - Worker
+Rank math SEO
+Rank Math SEO PRO
+Regenerate Thumbnails
+Safe SVG
+Ultimate Addons for Elementor
+Woocommerce
+WooCommerce Customer/Order/Coupon Export
+WooCommerce Google Product Feed
+WooCommerce PayPal Checkout Gateway
+WooCommerce PayPal Payments
+WooCommerce PDF Invoices
+Woocommerce Stripe Gateway
+WooFunnels Funnel Builder
+WooFunnels Funnel Builder Pro
+WP Mail SMTP
+WP Rocket *(License)*
+WP Forms *(License)*
+WPForms Custom Captcha
+WPForms Sendinblue
+YITH WooCommerce Added to Cart Popup Premium
+YITH WooCommerce Bulk Product Editing Premium
+Yoast Duplicate Post

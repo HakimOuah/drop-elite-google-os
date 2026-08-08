@@ -1,0 +1,354 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  1  —
+RAPPORT DE SESSION
+17 mars 2026 • Durée : 1h36 • Coach : Théo
+Participants : Anthony, Pierre, Matthieu, Emeric, Julien, Sébastien, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Introduction — Comprendre avant d’automatiser : importance de maîtrise
+manuelle
+▶ 00:01 Connexion Shopify via MCP — Création app développeur, token, droits
+d’accès
+▶ 00:05 Import produits — DSers (manuel) vs. RapidAPI (automatisé) : deux
+stratégies
+▶ 00:12 Création fiches produits — Descriptions, métafields, mots-clés,
+alt-text via Claude
+▶ 00:15 Traitement images IA — Détection texte anglais, génération via
+NanoBanana
+▶ 00:20 Optimisation auto — Rapports Shopify, taux de conversion, boucle
+d’amélioration
+▶ 00:22 Q&A Anthony — Problème autorisations Claude Code, solutions
+▶ 00:38 Sécurité & checkout — Julien : normes DORA, failles CVE, limites
+agents IA
+▶ 00:56 Site full automatisé — Débat : où ça bloque (ou pas) pour un site de A
+à Z
+▶ 01:28 Ninja linking — Reporté à la prochaine session : trouver les spots
+⚙ MASTERCLASS — AUTOMATISATION E-COMMERCE AVEC
+CLAUDE
+► Prérequis : comprendre avant d’automatiser
+Théo a insisté sur un point fondamental pour les débutants : avant d’automatiser ou de déléguer à l’IA, il faut
+avoir fait manuellement 20 à 40 intégrations de produits. L’objectif : comprendre le process complet (temps,
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  2  —
+vérifications, pièges) pour pouvoir ensuite expliquer précisément à Claude ce qu’il doit faire, détecter ses
+erreurs et les corriger.
+« C’est important de, si vous êtes débutant, pas tout automatiser ou déléguer. Faut comprendre tout
+le process pour que ça soit bien délégué ou bien automatisé. »
+— Coach Théo
+► Connexion Shopify via MCP
+Principe : Shopify propose un MCP (Model Context Protocol) permettant à Claude d’accéder directement au
+site. La procédure : créer une application développeur dans Shopify, lui attribuer les droits nécessaires
+(produits, metafields, menus...), récupérer le token d’accès, et le fournir à Claude.
+Conseil : envoyer à Claude la documentation Shopify (fichier MD téléchargeable depuis les pages doc
+officielles) pour qu’il comprenne l’installation. Shopify et d’autres outils proposent désormais des fichiers MD
+spéciaux pour les IA dans leurs docs.
+► Import produits : deux stratégies
+Stratégie 1 — Sélection manuelle via DSers : sélectionner les produits sur AliExpress, importer via DSers sur
+Shopify (titre anglais + images brutes + specs). Claude travaille ensuite à partir de ces données pour remplir et
+optimiser chaque fiche. Recommandé pour garder le contrôle qualité sur la sélection.
+Stratégie 2 — Automatisation via RapidAPI : utiliser une API AliExpress (via RapidAPI) pour rechercher par
+mots-clés, récupérer 20 produits par requête, filtrer automatiquement via Claude, puis extraire les détails
+(specs, images, prix) via l’endpoint détails produit avec l’ID. Résultat : un CSV local complet avec toutes les
+données nécessaires.
+Méthode
+Statut
+Commentaire
+DSers (manuel)
+Recommandé
+Contrôle qualité, rapide, simple
+RapidAPI (auto)
+Avancé
+Scalable, nécessite tests, coût API faible
+CSV local
+Préféré à Google
+Sheet
+Moins de tokens, plus rapide, pas de calls API
+« Moi, ce que j’ai fait, c’est que dans DSers, j’importe basique, je coche d’envoyer que les specs. Et
+à partir de là, il travaille. »
+— Coach Théo
+► Création automatisée des fiches produits
+Une fois les produits importés (titre anglais, images brutes, specs), Claude prend le relais pour composer la
+fiche complète. Le coach a détaillé chaque bloc :
+Description : rédigée à partir du titre, de 3 images analysées par Claude et des specs. Optimisée SEO,
+originale, avec liste d’avantages.
+Métafields : champs personnalisés Shopify (specs techniques, caractéristiques). Claude remplit à partir des
+données récupérées. Pour WooCommerce : champs méta via plugin.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  3  —
+SEO : méta-title, méta-description, alt-text images, catégorisation. Export de mots-clés depuis SEMrush pour
+guider Claude dans le choix.
+Variations : traduction, nettoyage des variantes inutiles ou incohérentes importées d’AliExpress.
+► Traitement des images par IA
+Le coach a présenté un système de vérification et de génération d’images piloté par Claude. L’IA analyse
+chaque image produit et applique des règles :
+Détection : repérage du texte anglais incrusté, images de mauvaise qualité, montages AliExpress inappropriés.
+Action : traduction du texte via génération d’image (NanoBanana), suppression ou remplacement des images
+non conformes.
+Principe : créer une liste d’instructions de vérification d’image spécifique à la niche. Faut définir ce qu’on veut,
+ce qu’on veut pas, ce qui doit être traduit, ce qui doit être regénéré.
+Résultat test : Théo a testé sur 3 produits. Claude a détecté les images avec texte anglais, généré la version
+française via NanoBanana, et remplacé automatiquement. Fiche produit finale jugée clean.
+« L’idée, c’est de faire une liste d’instruction de vérif d’image. Qu’est-ce qu’on veut, qu’est-ce qu’on
+veut pas, qu’est-ce qu’on veut traduire, qu’est-ce qu’on veut refaire. »
+— Coach Théo
+► Optimisation automatique des performances
+Claude a accès aux rapports Shopify via MCP. Le coach propose un workflow d’optimisation continue :
+Détection : identifier les produits à faible taux de conversion (visites vs. ventes). Analyse : vérifier prix
+(comparaison concurrents), images, cohérence description, specs manquantes. Action : tests automatiques
+(ajustement prix, amélioration fiche) avec période d’observation (1 semaine) et récaps journaliers/hebdo.
+Point clé : toujours intégrer un agent de vérification à la fin de chaque workflow. Théo utilise systématiquement
+un sous-agent dédié au contrôle qualité qui vérifie le travail du skill principal.
+« Dans tous mes workflows, il y a le dernier, c’est un agent qui vérifie. »
+— Coach Théo
+⚔ QUESTIONS & ÉCHANGES
+► Anthony — Autorisations répétitives dans Claude Code
+Anthony rencontre un problème récurrent : Claude Code lui demande constamment des autorisations,
+l’obligeant à appuyer manuellement sur entrée en boucle. Il utilise le terminal + Cowork pour créer ses prompts,
+puis les exécute dans Claude Code.
+Réponse du coach : demander à Claude pourquoi il demande ces autorisations. Une fois autorisées, activer le
+mode « toujours autorisé » pour les intégrer dans le process. Le problème devrait se résoudre une fois le
+workflow stabilisé.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  4  —
+► Pierre — Process API, images & skills
+Lien API/ID : la recherche API retourne un ID par produit. Cet ID est utilisé dans la deuxième requête (détails
+produit) pour récupérer toutes les infos. Tout peut être stocké dans un CSV local (plus rapide et moins coûteux
+qu’un Google Sheet).
+Images : Pierre souhaite un contrôle en amont avant import Shopify. Solution : workflow Claude qui vérifie
+chaque image, retire les non conformes, génère les manquantes, puis importe seulement les validées.
+Skills : Théo recommande de créer ses propres skills plutôt que d’en télécharger. Un skill par tâche précise.
+Pour les skills téléchargés : les lire soi-même d’abord, puis les faire vérifier par une autre IA (pas directement
+par Claude pour éviter le prompt injection).
+► Matthieu — Looker Studio & corrélation données
+Matthieu utilise Looker Studio pour croiser les données WooCommerce et Google Ads. Problème : perte de
+données dans Google Ads (produits avec 0 vente trackée mais 15 ventes réelles). Il filtre les ventes marquées «
+Google Ads » non enregistrées + ventes marquées « direct » (considérées majoritairement comme du Google
+Ads).
+Réponse du coach : tout ce process de croisement de données peut être automatisé via Claude avec un
+dashboard local + analyses automatiques. Plus besoin d’exports CSV manuels.
+► Emeric — Agents vs. skills dans Cowork
+Emeric (48h d’abonnement Claude) demande la différence entre agents et skills. Réponse : Théo ne crée pas
+les agents manuellement. Il décrit le process complet et Claude crée automatiquement des sous-agents pour
+chaque tâche. Dans OpenClaw, on peut créer des agents dédiés plus explicitement. Cowork = même moteur
+que Claude Code, mais avec interface visuelle.
+► Julien — Sécurité, normes DORA & failles CVE
+Julien (profil sécurité informatique) a alerté sur plusieurs points :
+Normes DORA : nouvelle réglementation européenne sur les plateformes financières. Des mises à jour de
+checkout pourraient impacter les thèmes personnalisés. Nuance du coach : sur Shopify, le checkout est géré
+par Shopify lui-même, donc le risque est limité.
+Failles CVE : les agents IA (dont Claude Code) sont de plus en plus utilisés dans le piratage. Point de vigilance
+pour les développements automatisés.
+Plateformes : risque que les plateformes (AliExpress, etc.) bloquent les accès automatisés par agents IA à
+terme (rate limiting, détection de bots).
+► Sébastien — Projets IA & tracking
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  5  —
+Sébastien (aussi dans la tribu Kenzo) a commencé la formation Learning d’Anthropic. Il prévoit de développer :
+une application de tracking de temps (consulting vs. e-commerce), un assistant Google Ads avec
+recommandations d’optimisation, et de migrer ses flux N8N vers Claude pour l’intégration produits
+WooCommerce.
+⚙ DÉBAT — SITE E-COMMERCE FULL AUTOMATISÉ DE A À Z
+Le coach a lancé la réflexion : où est-ce que ça bloque pour créer un site entièrement via Claude ? Consensus
+du groupe :
+Étape
+Faisable ?
+Commentaire
+Sélection de niche
+Oui
+Via Ahrefs/SEMrush + agent dédié
+Import produits
+Oui
+DSers ou RapidAPI + Claude
+Fiches produits
+Oui
+Descriptions, SEO, métafields, variations
+Design / Thème
+Oui (Shopify)
+Partir d’un thème existant, personnaliser le Liquid
+Images
+Complexe
+Nécessite tests poussés, NanoBanana
+Blog / Contenu
+Oui
+Déjà prouvé par l’affiliation
+Checkout / Paiement
+Manuel
+Stripe à connecter soi-même
+Logo
+Oui
+Génération + upload automatisé
+Conclusion du coach : aucun point de blocage fondamental identifié. Les images restent le sujet le plus
+complexe. Le checkout (Stripe) et quelques paramètres restent manuels (5 minutes). Principe directeur : ne pas
+passer des jours à construire un dashboard cosmétique. Chaque automatisation doit être utile et actionnable.
+« Je vois pas où ça bloque. Je pense qu’il peut vraiment tout faire de A à Z. »
+— Coach Théo
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Anthony
+PRIORITAIRE
+⚡ Résoudre le problème d’autorisations : demander à Claude pourquoi il les demande, activer «
+toujours autorisé ».
+⚡ Finaliser le process d’intégration produit : titre → description → métafields → test en bulk.
+⚡ Tester le workflow complet sur 5 produits avant de scaler.
+SECONDAIRE
+○ Explorer Cowork pour simplifier la création de prompts.
+○ Documenter chaque étape du process pour itération future.
+  ⚓  Pierre
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  6  —
+PRIORITAIRE
+⚡ Créer un fichier CSV local avec colonnes définies (ID, titre, specs, images, statut) pour contrôle.
+⚡ Développer un skill dédié à l’intégration produit avec attributs spécifiques à sa niche.
+⚡ Tester le workflow image : vérification → nettoyage → génération avant import.
+SECONDAIRE
+○ Vérifier les skills téléchargés (lecture manuelle + vérif par autre IA).
+○ Faire un checkup sécurité avec le plugin officiel WordPress.
+○ Tester la modification du template fiche produit en Liquid.
+  ⚓  Matthieu
+PRIORITAIRE
+⚡ Prendre l’abonnement Claude (profiter du boost x2 en cours).
+⚡ Automatiser le croisement WooCommerce / Google Ads via Claude au lieu de Looker Studio + CSV
+manuels.
+SECONDAIRE
+○ Tester Claude sur l’intégration produit comme alternative à Airtable.
+○ Explorer la solution de paiement freelances Madagascar (contacter Edouard/Enzo).
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Explorer Cowork : même moteur que Claude Code, interface plus simple.
+⚡ Structurer ses skills par tâche : un skill = une action précise (balises alt, descriptions, etc.).
+SECONDAIRE
+○ Tester le workflow complet sur quelques produits pour comprendre l’articulation agents/skills.
+○ Documenter les erreurs de Claude pour affiner les instructions.
+  ⚓  Julien
+PRIORITAIRE
+⚡ Surveiller les mises à jour DORA et leur impact potentiel sur les checkouts e-commerce.
+⚡ Faire un audit sécurité des agents IA déployés (failles CVE connues).
+SECONDAIRE
+○ Partager les alertes sécurité pertinentes dans le groupe.
+○ Tester la robustesse des connexions MCP face aux restrictions plateformes.
+  ⚓  Sébastien
+PRIORITAIRE
+⚡ Terminer la formation Learning Anthropic pour poser les bases.
+⚡ Développer l’appli de tracking de temps (cas pratique Claude Code).
+SECONDAIRE
+○ Migrer les flux N8N existants vers Claude pour l’intégration WooCommerce.
+○ Prototyper l’assistant Google Ads avec analyse de KPI et recommandations.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  7  —
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Tester l’intégration Claude × Shopify/WooCommerce sur 5 produits minimum cette semaine.
+⚡ Toujours intégrer un agent de vérification à la fin de chaque workflow.
+SECONDAIRE
+○ Préparer des questions/cas concrets pour la session ninja linking de la semaine prochaine.
+○ Ne pas passer trop de temps sur des dashboards cosmétiques : chaque automatisation doit être
+actionnable.
+○ Privilégier le stockage local (CSV) plutôt que Google Sheet pour réduire les tokens et le temps.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Produits importables par niche
+150-200
+Volume cible pour un site complet
+Produits par requête RapidAPI
+20
+Résultats par appel de recherche
+Intégrations manuelles
+recommandées
+20-40
+Avant toute automatisation (débutants)
+Tests produits avant bulk
+5-10
+Itération et correction du process
+Période d’observation après modif
+1 semaine
+Avant nouvelle modification automatique
+Boost abonnement Claude
+x2
+Offre en cours au moment de la session
+Connexion Stripe
+5 min
+Seule étape manuelle incompressible
+Outils d’images IA
+NanoBanana
+Génération et traduction d’images
+◆ OUTILS & RESSOURCES MENTIONNÉS
+Outil
+Usage
+Contexte
+Claude (Cowork / Code)
+IA principale
+Intégration produits, fiches, optimisation
+Shopify MCP
+Connexion
+directe
+Token développeur + droits produits
+DSers
+Import produits
+Sélection manuelle AliExpress → Shopify
+RapidAPI
+API AliExpress
+Recherche + détails produits automatisés
+NanoBanana
+Génération
+images
+Traduction texte anglais, création visuels
+SEMrush / Ahrefs
+Mots-clés SEO
+Export pour guider Claude
+OpenClaw
+Alternative
+Claude
+Agents dédiés, plus de liberté d’installation
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  17/03/2026
+—  8  —
+Outil
+Usage
+Contexte
+N8N
+Automatisation
+flux
+Migration vers Claude en cours
+Looker Studio
+Dashboards
+Croisement données WooCommerce/Google Ads
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,0 +1,27 @@
+TO DO LIST KRAKEN
+MODULE 3
+Regarder toutes les vidéos
+Choisir son CMS Shopify ou Woocommerce
+Définir sa charte graphique
+Choisir son thème
+Réalisation de la maquette 
+Intégration de la maquette
+Installation des extensions
+Réglages de wordPress
+Personnalisation du thème
+Création des catégories produits
+Création du menu principal
+1/2
+
+
+--- PAGE ---
+
+TO DO LIST KRAKEN
+MODULE 3
+Création des Métaboxes
+Intégration de la page d’accueil
+Création du Footer
+Création du Header
+Intégration fiche produits
+Création du check out
+2/2

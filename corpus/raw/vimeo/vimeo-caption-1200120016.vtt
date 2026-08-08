@@ -1,0 +1,1765 @@
+WEBVTT
+
+1
+00:00:00.420 --> 00:00:03.840
+Salut à vous. Je voulais vous faire une petite vidéo sur
+
+2
+00:00:03.940 --> 00:00:04.720
+l'installation
+
+3
+00:00:06.100 --> 00:00:08.980
+rapide. Le but, ce n'est pas qu'on s'éternise sur l'installation, tout est très
+
+4
+00:00:09.020 --> 00:00:10.880
+bien expliqué. Surtout vous montrer
+
+5
+00:00:10.900 --> 00:00:14.840
+les bases pour utiliser
+
+6
+00:00:14.920 --> 00:00:15.260
+Cloud Code.
+
+7
+00:00:16.281 --> 00:00:21.300
+Possiblement,
+
+8
+00:00:21.320 --> 00:00:24.939
+je mettrai le lien. On met Cloud Code sur Google, on arrive sur cette page.
+
+9
+00:00:25.400 --> 00:00:29.020
+Il y a évidemment l'app qui est téléchargeable, qui permet
+
+10
+00:00:29.040 --> 00:00:31.860
+d'utiliser le chat, Cowork et Cloud Code en même temps.
+
+11
+00:00:32.521 --> 00:00:36.380
+L'avantage du terminal, c'est que vous irez beaucoup plus loin sur le traitement de
+
+12
+00:00:36.400 --> 00:00:36.840
+fichiers, etc.
+
+13
+00:00:38.680 --> 00:00:40.920
+Quand on appuie sur ce bouton, on a
+
+14
+00:00:41.780 --> 00:00:42.520
+VS Code
+
+15
+00:00:43.520 --> 00:00:46.560
+et tous les possibles trucs sur lesquels on peut l'installer.
+
+16
+00:00:47.280 --> 00:00:50.200
+Nous, on va partir sur, pour moi, le plus optimal
+
+17
+00:00:51.140 --> 00:00:51.460
+et
+
+18
+00:00:52.460 --> 00:00:54.380
+le plus simple, c'est le terminal.
+
+19
+00:00:55.380 --> 00:00:59.040
+Pour le terminal, si je clique dessus, ça m'affiche une ligne de commande en
+
+20
+00:00:59.060 --> 00:01:01.700
+dessous. Là, je suis sur Mac, mais sur PC,
+
+21
+00:01:04.181 --> 00:01:05.360
+il faudra demander.
+
+22
+00:01:06.600 --> 00:01:09.840
+Je pense que ça devrait être pareil pour PC.
+
+23
+00:01:09.920 --> 00:01:12.240
+Ça, je ne sais pas exactement les détails.
+
+24
+00:01:12.250 --> 00:01:14.580
+De toute façon, ce que je vous recommande de faire à chaque fois,
+
+25
+00:01:15.320 --> 00:01:18.740
+surtout au départ en tout cas, quand vous allez
+
+26
+00:01:18.760 --> 00:01:22.440
+utiliser Cloud Code, mettez l'application à droite
+
+27
+00:01:22.600 --> 00:01:24.320
+ou le
+
+28
+00:01:25.580 --> 00:01:29.460
+Cloud dans le navigateur et posez-lui des questions.
+
+29
+00:01:31.120 --> 00:01:32.940
+Par exemple, si je fais ça,
+
+30
+00:01:34.060 --> 00:01:37.900
+que je copie ici et que je vais sur mon terminal,
+
+31
+00:01:38.600 --> 00:01:39.140
+je colle.
+
+32
+00:01:40.120 --> 00:01:43.140
+Si je lance ça, moi, il est déjà installé, donc forcément,
+
+33
+00:01:44.440 --> 00:01:47.680
+ça ne va rien faire. Ça ne va pas faire plus que ce qu'il faudrait.
+
+34
+00:01:47.740 --> 00:01:49.600
+Ça n'affichera pas comme vous si vous ne l'avez pas installé.
+
+35
+00:01:50.080 --> 00:01:52.560
+Mais en tout cas, si jamais ici, je lance ça et que j'ai
+
+36
+00:01:53.440 --> 00:01:54.540
+le moindre problème
+
+37
+00:01:55.420 --> 00:01:57.380
+que le terminal décrit, il y aura des lignes.
+
+38
+00:01:58.000 --> 00:02:00.680
+Ça fait un peu peur, le terminal et justement, on parlera d'un autre terminal juste
+
+39
+00:02:00.740 --> 00:02:04.560
+après. Mais si jamais il y a la moindre erreur ici, vous n'hésitez pas à
+
+40
+00:02:04.580 --> 00:02:08.400
+copier le contenu. Vous pouvez sélectionner les lignes ici et les donner à
+
+41
+00:02:08.440 --> 00:02:12.100
+Cloud dans le chat et lui dire : « J'essaye d'installer Cloud Code.
+
+42
+00:02:12.760 --> 00:02:15.300
+Ça bloque ici » et vous lui copiez-collez ça.
+
+43
+00:02:15.420 --> 00:02:17.580
+Lui, il va comprendre pourquoi ça bloque.
+
+44
+00:02:17.620 --> 00:02:19.880
+Il va vous dire ce qu'il faut lancer dans le terminal.
+
+45
+00:02:19.940 --> 00:02:21.200
+Ça, c'était pour la première partie.
+
+46
+00:02:21.280 --> 00:02:24.900
+Si jamais pour l'installation, vous galérez, voilà
+
+47
+00:02:24.980 --> 00:02:26.740
+comment possiblement le débloquer.
+
+48
+00:02:27.060 --> 00:02:29.520
+Et c'est surtout une règle pour
+
+49
+00:02:30.540 --> 00:02:32.720
+beaucoup de choses. N'hésitez pas à ouvrir
+
+50
+00:02:33.640 --> 00:02:36.120
+Cloud en mode chat classique,
+
+51
+00:02:37.260 --> 00:02:40.180
+peu importe comment, pour vous aider si vous bloquez dans
+
+52
+00:02:40.220 --> 00:02:42.000
+différents points.
+
+53
+00:02:44.860 --> 00:02:48.840
+Pour la deuxième partie, en termes de terminal, sur le Mac, on
+
+54
+00:02:48.880 --> 00:02:51.150
+a un terminal de base qu'on a vu juste avant.
+
+55
+00:02:51.630 --> 00:02:54.020
+Sinon, il y a deux autres options que je peux vous recommander.
+
+56
+00:02:54.240 --> 00:02:55.480
+Moi, j'utilise Warp.
+
+57
+00:02:57.800 --> 00:03:01.040
+Je ne saurais pas expliquer en détail, mais il y a une sorte de système d'agent qui
+
+58
+00:03:01.100 --> 00:03:03.400
+est intégré dedans, une sorte d'IA qui est intégrée dedans.
+
+59
+00:03:04.080 --> 00:03:05.200
+J'utilise la version gratuite
+
+60
+00:03:06.140 --> 00:03:09.460
+qui me suffit largement, mais j'imagine qu'on peut faire des trucs
+
+61
+00:03:09.740 --> 00:03:11.720
+potentiellement un peu plus intéressants avec.
+
+62
+00:03:13.300 --> 00:03:14.180
+Voilà pour ce point-là.
+
+63
+00:03:15.280 --> 00:03:18.720
+L'avantage, je pense, c'est qu'il est ouvert
+
+64
+00:03:18.780 --> 00:03:21.240
+ici. Déjà, on a un système de
+
+65
+00:03:23.220 --> 00:03:26.660
+multi-tabs ici sur la gauche. Donc, je peux créer plein de terminals et
+
+66
+00:03:26.720 --> 00:03:29.560
+ouvrir et gérer plusieurs
+
+67
+00:03:30.040 --> 00:03:32.760
+conversations en même temps si j'ai envie. Ça, c'est assez utile.
+
+68
+00:03:33.180 --> 00:03:34.000
+Ça permet d'éviter d'avoir plusieurs
+
+69
+00:03:35.560 --> 00:03:39.220
+fenêtres. Et deuxième point, j'imagine qu'il y a un système de chat
+
+70
+00:03:39.480 --> 00:03:40.670
+et de suggestions.
+
+71
+00:03:41.580 --> 00:03:45.180
+Là, j'ai lancé Cloud, mais j'imagine qu'il y aura un système
+
+72
+00:03:45.260 --> 00:03:47.940
+d'aide
+
+73
+00:03:48.960 --> 00:03:52.240
+et d'agent qui peut aider à lancer des commandes si jamais on
+
+74
+00:03:52.260 --> 00:03:56.220
+bloque. Voilà pour Warp. Et deuxième que je
+
+75
+00:03:56.240 --> 00:03:58.120
+peux recommander, c'est Ghostty.
+
+76
+00:03:58.150 --> 00:04:02.080
+Il y aura les deux URL sous la vidéo, j'imagine,
+
+77
+00:04:02.180 --> 00:04:03.860
+pour pouvoir les télécharger.
+
+78
+00:04:05.400 --> 00:04:06.800
+L'installation est super simple.
+
+79
+00:04:08.060 --> 00:04:11.960
+Je ne suis pas sûr que Ghostty soit dispo sur Windows, là où Warp, je pense
+
+80
+00:04:12.040 --> 00:04:14.080
+qu'il l'est et encore, je ne suis même pas sûr.
+
+81
+00:04:14.980 --> 00:04:16.360
+En termes de Windows, je ne sais pas.
+
+82
+00:04:17.519 --> 00:04:20.459
+Pareil, vous allez sur Cloud, vous lui demandez le meilleur terminal possible pour
+
+83
+00:04:20.519 --> 00:04:23.000
+Windows. Il vous répondra sans problème.
+
+84
+00:04:23.540 --> 00:04:26.900
+Les deux que je peux recommander. Moi, j'utilise Warp.
+
+85
+00:04:27.700 --> 00:04:31.660
+J'ai déjà installé, j'ai mon terminal ici ouvert, j'ai
+
+86
+00:04:31.720 --> 00:04:35.650
+déjà juste lancé en lui disant que je faisais,
+
+87
+00:04:35.880 --> 00:04:39.860
+ce n'est pas YouTube, mais c'est parce que je passais un truc avec Enzo avant.
+
+88
+00:04:39.900 --> 00:04:43.200
+D'ailleurs, vous le voyez en haut, je suis dans un dossier qui s'appelle « Cloud »
+
+89
+00:04:43.240 --> 00:04:46.840
+à la racine de mon PC, dans lequel j'ai créé un dossier « Projet
+
+90
+00:04:47.360 --> 00:04:51.340
+», dans lequel j'ai recréé dans mes projets un dossier « Enzo » parce qu'on
+
+91
+00:04:51.360 --> 00:04:53.280
+fait une vidéo ou deux YouTube.
+
+92
+00:04:55.080 --> 00:04:57.100
+J'en ai profité pour utiliser le même
+
+93
+00:04:58.480 --> 00:04:59.600
+prompt, la même
+
+94
+00:05:01.220 --> 00:05:05.120
+conversation pour le tuto que
+
+95
+00:05:05.160 --> 00:05:06.140
+je vais vous montrer ici.
+
+96
+00:05:07.660 --> 00:05:11.460
+Premier point. Je vais vous remontrer
+
+97
+00:05:12.060 --> 00:05:13.420
+juste peut-être le terminal.
+
+98
+00:05:15.720 --> 00:05:19.469
+Ici, tout à l'heure, j'ai voulu le lancer, mais si je fais « Cloud »,
+
+99
+00:05:21.360 --> 00:05:22.720
+une fois qu'il est installé, évidemment,
+
+100
+00:05:24.740 --> 00:05:27.800
+il va se lancer. Là, il me demande, vu que je suis dans
+
+101
+00:05:27.820 --> 00:05:31.380
+mon dossier d'user sur
+
+102
+00:05:31.880 --> 00:05:34.820
+mon Mac, il me demande s'il peut trust ce folder.
+
+103
+00:05:35.980 --> 00:05:39.560
+Je vous recommande potentiellement de vous placer à un endroit
+
+104
+00:05:40.160 --> 00:05:42.960
+un peu stratégique. Ça peut être dans vos documents, ça peut être à la racine, ça
+
+105
+00:05:43.020 --> 00:05:46.140
+peut être où vous voulez et vous allez créer un dossier Cloud au final.
+
+106
+00:05:46.600 --> 00:05:48.240
+Moi, je l'ai appelé Cloud, mais vous l'appelez comme vous voulez.
+
+107
+00:05:48.840 --> 00:05:49.100
+Et
+
+108
+00:05:50.040 --> 00:05:52.610
+ce dossier, vous pourrez lui dire : « Oui, je trust ».
+
+109
+00:05:54.200 --> 00:05:56.400
+C'est vrai que je n'ai pas parlé d'un truc,
+
+110
+00:05:57.340 --> 00:06:01.140
+mais quand on est dans le terminal, peu importe que ça soit
+
+111
+00:06:01.240 --> 00:06:04.056
+celui de baseOu warp ici derrière.
+
+112
+00:06:06.116 --> 00:06:08.076
+Il y a une navigation un peu particulière.
+
+113
+00:06:08.316 --> 00:06:12.156
+Je pense que je ferai un mini tableau que je mettrai en dessous
+
+114
+00:06:12.396 --> 00:06:15.516
+de la vidéo, qui résume les commandes de base.
+
+115
+00:06:16.056 --> 00:06:18.776
+Je ne vais pas les faire parce que ça va afficher mes fichiers, ce n'est pas du
+
+116
+00:06:18.796 --> 00:06:21.516
+tout l'intérêt. Mais pour les basiques,
+
+117
+00:06:23.116 --> 00:06:25.836
+il y a « mkdir », qui permet de créer un dossier.
+
+118
+00:06:26.936 --> 00:06:30.156
+Il y a « cd » qui permet de rentrer dans un dossier.
+
+119
+00:06:30.766 --> 00:06:34.236
+« Cd.. » qui permet de revenir en arrière dans un dossier.
+
+120
+00:06:34.266 --> 00:06:38.016
+« ls » qui permet de lister les fichiers dans lequel vous
+
+121
+00:06:38.096 --> 00:06:38.296
+êtes.
+
+122
+00:06:39.196 --> 00:06:43.136
+Et « ls » avec des options, par exemple « -l » qui
+
+123
+00:06:43.216 --> 00:06:46.156
+permet de lister avec beaucoup plus d'infos, etc.
+
+124
+00:06:46.696 --> 00:06:49.136
+Vous aurez une image qui vous permet de naviguer.
+
+125
+00:06:49.176 --> 00:06:52.756
+Mais l'idée, c'est que de base, un PC, en général,
+
+126
+00:06:53.676 --> 00:06:56.996
+ça se passait comme ça. C'est vraiment l'interface
+
+127
+00:06:57.576 --> 00:06:58.196
+pas visuelle
+
+128
+00:06:59.436 --> 00:07:03.396
+d'un système d'exploitation. Et ici, ce qu'on utilise, c'est
+
+129
+00:07:03.436 --> 00:07:03.636
+ça.
+
+130
+00:07:04.556 --> 00:07:08.476
+On n'a pas vraiment de moyen de naviguer, même si on peut passer par le Finder
+
+131
+00:07:08.636 --> 00:07:10.456
+pour créer le dossier où vous voulez, etc.
+
+132
+00:07:11.316 --> 00:07:14.906
+Mais directement dans le terminal, on n'a pas des options visuelles,
+
+133
+00:07:15.336 --> 00:07:16.096
+pas de base en tout cas.
+
+134
+00:07:19.476 --> 00:07:22.136
+Quand j'ai lancé Claude, il m'a proposé si je voulais trust.
+
+135
+00:07:22.456 --> 00:07:25.656
+Et à partir de là, on est bon et on est dans cet exemple ici.
+
+136
+00:07:26.176 --> 00:07:29.756
+J'ai déjà créé mon dossier Claude, projet, Enzo, et dedans,
+
+137
+00:07:29.916 --> 00:07:33.616
+j'ai lancé Claude directement ici, ce qui me permet
+
+138
+00:07:33.696 --> 00:07:34.716
+de
+
+139
+00:07:35.536 --> 00:07:39.476
+travailler, entre guillemets, pour l'instant, dans un endroit qui
+
+140
+00:07:39.496 --> 00:07:40.496
+est dédié sur mon PC.
+
+141
+00:07:41.576 --> 00:07:43.976
+Le premier truc que je vais faire,
+
+142
+00:07:44.936 --> 00:07:46.116
+c'est vous montrer deux, trois commandes.
+
+143
+00:07:48.696 --> 00:07:52.476
+Quand vous faites un slash, quand Claude est lancé, il faut que Claude soit lancé
+
+144
+00:07:52.496 --> 00:07:55.256
+parce que là, on est dans Claude. Si je fais « exit
+
+145
+00:07:56.616 --> 00:07:58.396
+», on quitte tout et on est
+
+146
+00:07:58.456 --> 00:08:02.356
+dans le terminal.
+
+147
+00:08:02.456 --> 00:08:04.236
+Si je relance Claude,
+
+148
+00:08:05.296 --> 00:08:07.196
+il va me relancer Claude ici.
+
+149
+00:08:08.116 --> 00:08:10.026
+Et si je fais « /resume »,
+
+150
+00:08:11.015 --> 00:08:14.856
+je peux retourner à une conversation précédente, comme quand on est
+
+151
+00:08:15.256 --> 00:08:18.256
+dans Chat GPT ou dans Claude sur le navigateur.
+
+152
+00:08:18.616 --> 00:08:20.256
+Il y a un système de conversation sur la gauche.
+
+153
+00:08:20.316 --> 00:08:23.976
+Ici, visuellement, on ne les voit pas, mais on peut y accéder en faisant « /resume
+
+154
+00:08:23.986 --> 00:08:25.406
+». Si je « /resume »,
+
+155
+00:08:26.656 --> 00:08:29.436
+vu que je suis dans mon dossier qui s'appelle Enzo sur
+
+156
+00:08:29.476 --> 00:08:33.187
+mon PC, dans mes projets, j'ai
+
+157
+00:08:33.236 --> 00:08:36.896
+accès aux conversations qui ont été faites dans
+
+158
+00:08:37.036 --> 00:08:40.976
+ce dossier. Là, vous voyez, avec les flèches, je peux
+
+159
+00:08:41.016 --> 00:08:43.256
+naviguer sur la première ou la deuxième. Je n'en ai que deux.
+
+160
+00:08:43.317 --> 00:08:45.856
+S'il y en avait plus, je pourrais naviguer encore plus.
+
+161
+00:08:46.196 --> 00:08:49.716
+Et il y a un système de recherche si jamais vous voulez y accéder.
+
+162
+00:08:50.256 --> 00:08:52.996
+Là, je vais aller sur la première puisque c'est celle où j'étais juste avant.
+
+163
+00:08:54.616 --> 00:08:56.836
+On retourne dans Claude. Là, pour l'instant,
+
+164
+00:08:57.976 --> 00:08:59.536
+elles ne sont pas spécialement nommées.
+
+165
+00:08:59.546 --> 00:09:00.896
+Donc je vais vous montrer une deuxième
+
+166
+00:09:01.976 --> 00:09:03.876
+commande qui s'appelle « /rename ».
+
+167
+00:09:04.756 --> 00:09:08.436
+J'ai un peu m***é, mais c'est parfait parce que ça me donne aussi
+
+168
+00:09:08.496 --> 00:09:12.356
+l'exemple sans rien faire. Parce que « /rename » sans rien
+
+169
+00:09:12.456 --> 00:09:16.136
+faire, c'est Claude qui va lui donner un
+
+170
+00:09:16.196 --> 00:09:18.646
+nom automatique. Là, si je fais « exit »
+
+171
+00:09:20.396 --> 00:09:21.876
+et que je relance Claude,
+
+172
+00:09:26.436 --> 00:09:28.016
+que je résume,
+
+173
+00:09:29.936 --> 00:09:32.156
+il a bien un nom qui est différent de celui qu'il y avait avant.
+
+174
+00:09:32.336 --> 00:09:35.976
+Je vais retourner dedans et je peux très bien « rename » et là, mettre, vous voyez,
+
+175
+00:09:36.056 --> 00:09:36.756
+quand je fais espace,
+
+176
+00:09:38.356 --> 00:09:40.036
+je pense que ça, c'est Warp
+
+177
+00:09:41.196 --> 00:09:44.616
+ou peut-être Claude, je ne sais pas, ce qui fait que ça
+
+178
+00:09:45.216 --> 00:09:49.076
+montre la suite. Je pense que c'est Claude qui gère ça.
+
+179
+00:09:49.496 --> 00:09:50.396
+Là, si je mets
+
+180
+00:09:51.676 --> 00:09:55.616
+« test1 », sur le côté, à droite, j'aurais pu
+
+181
+00:09:55.696 --> 00:09:59.176
+Claude-code-tutorial-basic, j'aurais « test1 ».
+
+182
+00:09:59.596 --> 00:10:02.936
+On renomme la conversation. Ça peut être plutôt
+
+183
+00:10:02.956 --> 00:10:06.316
+pratique pour retourner à des endroits un peu spécifiques.
+
+184
+00:10:07.036 --> 00:10:07.516
+Si je
+
+185
+00:10:08.676 --> 00:10:12.556
+refais « / », on voit qu'il y a des commandes de base qui sont listées en dessous.
+
+186
+00:10:12.616 --> 00:10:14.156
+Le but, ce n'est pas que je vous les explique toutes.
+
+187
+00:10:14.496 --> 00:10:16.846
+Je ne les connais pas toutes en plus, mais
+
+188
+00:10:19.396 --> 00:10:23.256
+je pense que je mettrai aussi un lien qui, possiblement, vous donne les plus
+
+189
+00:10:23.296 --> 00:10:27.266
+pertinentes. En tout cas, celles que j'utilise déjà, c'est « rename » et
+
+190
+00:10:27.736 --> 00:10:28.636
+« resume » que je vous ai
+
+191
+00:10:29.676 --> 00:10:31.336
+montrées juste avant. Et
+
+192
+00:10:32.496 --> 00:10:34.756
+je vais vous en montrer deux, trois en plus.
+
+193
+00:10:36.936 --> 00:10:37.945
+La première, c'est « clear »
+
+194
+00:10:39.336 --> 00:10:40.056
+qui permet de
+
+195
+00:10:41.536 --> 00:10:43.456
+vider la conversation
+
+196
+00:10:44.576 --> 00:10:45.156
+s'il y a besoin.
+
+197
+00:10:46.296 --> 00:10:46.976
+Ça me fait venir
+
+198
+00:10:48.016 --> 00:10:51.196
+à toute cette histoire de contexte qu'a Claude.
+
+199
+00:10:51.956 --> 00:10:55.916
+Là, vous le voyez en dessous, de base, je ne crois pas que ce
+
+200
+00:10:55.956 --> 00:10:58.216
+soit activé, il y a le contexte actuel.
+
+201
+00:10:58.776 --> 00:11:02.736
+Si je ne dis pas de bêtises, de base, Claude a à peu près un million de contextes
+
+202
+00:11:03.316 --> 00:11:06.936
+et quand il arrive à, je crois, 85 % de
+
+203
+00:11:06.976 --> 00:11:10.476
+contexte, il va faire un compacting de tout ce qui s'est
+
+204
+00:11:10.496 --> 00:11:14.196
+passé dans la conversation, où il va compacter la
+
+205
+00:11:14.236 --> 00:11:18.156
+conversation pour gagner en contexte, réduire son contexte
+
+206
+00:11:18.476 --> 00:11:19.816
+de base.
+
+207
+00:11:21.376 --> 00:11:24.896
+Ce qui lui permet de... tout ce contexte, c'est tout
+
+208
+00:11:24.916 --> 00:11:26.695
+l'historique pour comprendre tout ce qui s'est passé.
+
+209
+00:11:27.096 --> 00:11:29.976
+Donc à peu près entre 85 et 100 %,
+
+210
+00:11:31.316 --> 00:11:34.376
+il fait un compact et il résume la conversation.
+
+211
+00:11:34.876 --> 00:11:38.776
+Il peut perdre des données en résumant, puisqu'il va
+
+212
+00:11:38.856 --> 00:11:42.616
+faire un résumé. Donc forcément, il y a peut-être des détails qu'il ne va pas
+
+213
+00:11:43.776 --> 00:11:47.656
+garder. Ça, c'est un point qu'on verra après, c'est comment on garde toutes ces
+
+214
+00:11:47.716 --> 00:11:51.316
+données pour que quand ça fasse un compact, on ait
+
+215
+00:11:51.636 --> 00:11:52.426
+bien tout qui est
+
+216
+00:11:54.756 --> 00:11:58.676
+sauvegardé. Le « /clear » permet de
+
+217
+00:11:59.036 --> 00:12:02.456
+créer une nouvelle conversation avec un contexte vide.
+
+218
+00:12:04.496 --> 00:12:08.476
+J'en parle parce que ça peut être utile à
+
+219
+00:12:08.496 --> 00:12:12.432
+un moment donné. Il y a le « /help ».Qui vous
+
+220
+00:12:12.492 --> 00:12:14.012
+permet de...
+
+221
+00:12:16.432 --> 00:12:20.162
+Vous voyez ici, je viens juste de l'apercevoir, il y a « Help, General,
+
+222
+00:12:20.312 --> 00:12:21.522
+Command, Custom command ».
+
+223
+00:12:22.372 --> 00:12:24.892
+Si je fais flèche de droite, on a les commandes,
+
+224
+00:12:25.932 --> 00:12:28.622
+j'imagine de base, les « default command »
+
+225
+00:12:29.992 --> 00:12:32.332
+et on a plus d'infos en allant sur ce lien-là.
+
+226
+00:12:32.372 --> 00:12:34.452
+On voit que « A dire » ça permet,
+
+227
+00:12:35.572 --> 00:12:38.752
+je ne vais pas tout lister, mais je vous laisserai regarder un peu
+
+228
+00:12:38.852 --> 00:12:42.072
+en profondeur un petit peu toutes ces commandes et ce qu'elles expliquent.
+
+229
+00:12:43.032 --> 00:12:45.332
+On voit qu'il y a le « /clear » qu'on a vu juste avant.
+
+230
+00:12:45.932 --> 00:12:46.592
+Il y a
+
+231
+00:12:47.832 --> 00:12:51.132
+le « compact » qui permet vous-même de compact.
+
+232
+00:12:51.932 --> 00:12:54.592
+Le contexte pour voir le contexte actuel.
+
+233
+00:12:58.372 --> 00:13:00.912
+Je pense que c'est le principal. S'il y a « effort » qu'on va parler.
+
+234
+00:13:01.952 --> 00:13:04.092
+On va parler d'effort et
+
+235
+00:13:06.152 --> 00:13:07.172
+je crois qu'il y avait
+
+236
+00:13:08.092 --> 00:13:11.032
+le statut pour le contexte qu'on va voir aussi.
+
+237
+00:13:11.772 --> 00:13:13.712
+Si je mets, je crois que c'est « statut
+
+238
+00:13:16.032 --> 00:13:19.992
+line ». On va tester les deux. « Statut
+
+239
+00:13:21.712 --> 00:13:21.712
+»
+
+240
+00:13:27.432 --> 00:13:30.812
+qui montre un petit peu mes configs, mon usage actuel,
+
+241
+00:13:34.752 --> 00:13:37.792
+les stats. Ok, donc il manque deux trois trucs.
+
+242
+00:13:38.312 --> 00:13:39.652
+Si on fait « statut
+
+243
+00:13:41.112 --> 00:13:44.072
+», il faut que je le réécrive.
+
+244
+00:13:50.252 --> 00:13:51.462
+Ok, c'était « statut line ».
+
+245
+00:13:58.532 --> 00:13:59.532
+En gros, « statut line » va vous
+
+246
+00:14:02.252 --> 00:14:05.972
+ajouter ça. Je vais voir ce qu'il raconte.
+
+247
+00:14:06.772 --> 00:14:10.012
+L'idée, c'est que de base, je ne crois pas qu'il y ait cette option-là.
+
+248
+00:14:10.592 --> 00:14:13.212
+Et le « /statut line » vous permet de l'ajouter
+
+249
+00:14:13.332 --> 00:14:17.872
+à
+
+250
+00:14:17.912 --> 00:14:18.212
+votre
+
+251
+00:14:19.672 --> 00:14:20.092
+terminal.
+
+252
+00:14:20.952 --> 00:14:23.972
+Sachant que je l'avais déjà activé, donc il me dit que c'est déjà activé, etc.
+
+253
+00:14:26.852 --> 00:14:29.112
+Du coup, si jamais vous voulez activer, vous savez où aller.
+
+254
+00:14:29.752 --> 00:14:31.562
+Je pense qu'on est pas mal s'il y a « effort ».
+
+255
+00:14:32.532 --> 00:14:35.641
+Je vais dire : « Tu peux résumer
+
+256
+00:14:39.171 --> 00:14:39.171
+»
+
+257
+00:14:41.822 --> 00:14:44.312
+parce qu'il sera quand même bien meilleur que moi pour
+
+258
+00:14:45.972 --> 00:14:48.432
+parler de ça. On voit qu'il y a plusieurs systèmes.
+
+259
+00:14:48.892 --> 00:14:50.912
+C'est bizarre, il ne les montre pas tous. Normalement, il y en a un peu plus.
+
+260
+00:14:53.152 --> 00:14:56.652
+Normalement, il y a « height, X height » et « max », etc.
+
+261
+00:14:57.452 --> 00:14:59.472
+Mais bon, là au moins, il met les trois basiques.
+
+262
+00:15:00.532 --> 00:15:04.052
+L'idée, c'est qu'il a un niveau de
+
+263
+00:15:04.092 --> 00:15:04.592
+réflexion
+
+264
+00:15:06.112 --> 00:15:09.972
+sur la conversation et de base, je pense qu'on est en médium.
+
+265
+00:15:10.992 --> 00:15:12.472
+C'est une bonne question, il faudrait que je voie.
+
+266
+00:15:13.072 --> 00:15:14.742
+Je vais lui demander : « Actuellement,
+
+267
+00:15:16.872 --> 00:15:17.652
+quel effort
+
+268
+00:15:20.132 --> 00:15:22.472
+sur cette conversation
+
+269
+00:15:23.452 --> 00:15:24.932
+? » Je crois que de base, c'est médium.
+
+270
+00:15:27.072 --> 00:15:29.572
+« Echappe » et je fais « effort ».
+
+271
+00:15:30.772 --> 00:15:31.512
+Je l'ai mal écrit.
+
+272
+00:15:32.892 --> 00:15:34.292
+Voilà
+
+273
+00:15:35.112 --> 00:15:38.672
+ce qu'il y a comme réglage, donc « low,
+
+274
+00:15:38.752 --> 00:15:39.522
+medium, height,
+
+275
+00:15:40.552 --> 00:15:42.412
+X height, max, auto ».
+
+276
+00:15:43.932 --> 00:15:46.652
+Je pense que de base, on est en médium.
+
+277
+00:15:48.352 --> 00:15:50.392
+Non, on n'a pas l'air d'être en médium de base.
+
+278
+00:15:50.412 --> 00:15:53.052
+Peut-être que ça s'applique à toutes les fenêtres.
+
+279
+00:15:53.232 --> 00:15:55.761
+Je crois que si on « i » sur un autre truc, peut-être que ça va passer en « high »
+
+280
+00:15:55.792 --> 00:15:56.132
+partout.
+
+281
+00:15:58.192 --> 00:15:59.692
+Ça, ça dépend un peu ce que vous faites.
+
+282
+00:15:59.712 --> 00:16:01.072
+Si vous faites du basique,
+
+283
+00:16:02.132 --> 00:16:05.992
+restez en médium, si vous faites des trucs un petit peu
+
+284
+00:16:06.032 --> 00:16:09.672
+plus complexes avec de la réflexion, passez un petit peu au-dessus, mais n'allez
+
+285
+00:16:09.712 --> 00:16:10.981
+pas sur du « max », apparemment, ce n'est pas
+
+286
+00:16:11.972 --> 00:16:12.192
+top.
+
+287
+00:16:13.352 --> 00:16:14.852
+Ok, donc je ne le fais pas passer dessus.
+
+288
+00:16:15.452 --> 00:16:17.712
+Je remonte vite fait pour voir ce qu'il disait un petit peu.
+
+289
+00:16:18.452 --> 00:16:21.602
+Médium, il pense un peu plus et le high,
+
+290
+00:16:22.492 --> 00:16:25.492
+thinking approfondi, plus lent, mais meilleur sur les résultats complexes.
+
+291
+00:16:25.932 --> 00:16:29.432
+Donc ça peut être pratique. Par contre, forcément, s'il réfléchit,
+
+292
+00:16:30.452 --> 00:16:33.992
+il va utiliser plus de tokens. Donc à vous, en fonction de vos besoins,
+
+293
+00:16:34.552 --> 00:16:37.692
+d'adapter ça aussi. Si ce sont des tâches très simples, restez en low, etc.
+
+294
+00:16:39.072 --> 00:16:42.652
+Voilà pour l'effort et je pense qu'après, il y a juste la question
+
+295
+00:16:42.752 --> 00:16:44.012
+de
+
+296
+00:16:45.112 --> 00:16:46.912
+structure qui me paraît plutôt importante.
+
+297
+00:16:48.152 --> 00:16:51.472
+Je n'ai pas de structure parfaite à définir parce que de toute façon, on n'en a
+
+298
+00:16:51.532 --> 00:16:52.872
+pas, ça va dépendre de votre projet.
+
+299
+00:16:53.852 --> 00:16:54.352
+Mais l'idée,
+
+300
+00:16:55.872 --> 00:16:58.312
+c'est que vu qu'on est dans un dossier, donc là, pour l'instant, «
+
+301
+00:16:58.332 --> 00:17:02.222
+Cloud/projet/Enzo », je peux,
+
+302
+00:17:03.632 --> 00:17:04.392
+dans l'idéal,
+
+303
+00:17:05.772 --> 00:17:09.492
+structurer mes fichiers. Tout va dépendre de sur quel type de
+
+304
+00:17:09.532 --> 00:17:12.912
+projet vous travaillez, mais en général, vous allez
+
+305
+00:17:13.572 --> 00:17:16.853
+avoir besoin de skills. Vous allez avoir besoin d'au
+
+306
+00:17:17.892 --> 00:17:21.712
+moins plusieurs fichiers qui seront utiles à être lus de temps en
+
+307
+00:17:21.772 --> 00:17:25.093
+temps ou même à être écrits dans des dossiers spécifiques.
+
+308
+00:17:25.152 --> 00:17:25.833
+À ce moment-là,
+
+309
+00:17:27.113 --> 00:17:30.672
+ce que je peux vous recommander, et là, j'essaierai de vous trouver un prompt idéal
+
+310
+00:17:30.712 --> 00:17:32.332
+que je mettrai en dessous de la vidéo aussi,
+
+311
+00:17:33.272 --> 00:17:33.482
+c'est
+
+312
+00:17:34.752 --> 00:17:35.912
+de lui expliquer.
+
+313
+00:17:36.892 --> 00:17:40.192
+Je vais essayer de résumer et après, j'essaierai de vous montrer un prompt que je
+
+314
+00:17:40.212 --> 00:17:43.902
+vais demander à Claude à côté qui va me faire, c'est de lui expliquer
+
+315
+00:17:43.932 --> 00:17:47.762
+que par rapport au projet sur lequel vous êtes en train de travailler,
+
+316
+00:17:48.292 --> 00:17:51.932
+s'il n's'est pas encore expliqué, expliquez-lui exactement sur quoi vous travaillez
+
+317
+00:17:51.972 --> 00:17:55.752
+dans ce projet précis, pourquoi, comment, qu'est-ce que vous allez faire, qu'est-ce
+
+318
+00:17:55.792 --> 00:17:57.732
+que vous pensez faire après dans le futur, etc.
+
+319
+00:17:58.652 --> 00:18:00.152
+L'idée, c'est vraiment de lui donner un
+
+320
+00:18:01.052 --> 00:18:04.912
+max de contexte pour qu'il comprenne sur quoi vous travaillez.
+
+321
+00:18:04.972 --> 00:18:07.992
+Et dans un second temps, je vais vous montrer le prompt juste après.
+
+322
+00:18:08.402 --> 00:18:12.272
+L'idée, c'est de lui expliquer : « Par rapport à tout ce que tu sais sur
+
+323
+00:18:12.312 --> 00:18:15.672
+mon projetQuelle est la structure idéale
+
+324
+00:18:16.912 --> 00:18:20.212
+par rapport à la recommandation de ta documentation
+
+325
+00:18:21.952 --> 00:18:25.452
+pour mon projet ? J'aimerais au minimum avoir
+
+326
+00:18:27.612 --> 00:18:30.452
+un Claude.md et on verra l'utilisation de pourquoi.
+
+327
+00:18:31.452 --> 00:18:34.792
+Potentiellement des skills, si vous les avez déjà ou pas, qui sont
+
+328
+00:18:34.812 --> 00:18:38.132
+enregistrés dans votre dossier de projet
+
+329
+00:18:38.792 --> 00:18:40.932
+et tout un système, possiblement de
+
+330
+00:18:42.312 --> 00:18:45.912
+to-do s'il y a besoin, de log s'il y a
+
+331
+00:18:45.952 --> 00:18:46.352
+besoin.
+
+332
+00:18:49.572 --> 00:18:52.411
+Après, ça va dépendre un peu du projet. Je n'ai pas plus d'exemples pour le coup.
+
+333
+00:18:53.152 --> 00:18:53.212
+Je
+
+334
+00:18:54.412 --> 00:18:55.312
+ne vais pas le lancer
+
+335
+00:18:56.552 --> 00:18:58.272
+parce qu'il n'y a rien du tout là-dedans.
+
+336
+00:18:59.192 --> 00:19:02.852
+Mais l'idée, c'est qu'à partir de
+
+337
+00:19:03.652 --> 00:19:07.332
+ce prompt-là, qui sera en dessous de la vidéo, vous pourrez lui
+
+338
+00:19:07.412 --> 00:19:11.392
+donner quand il aura le contexte du projet sur lequel vous travaillez.
+
+339
+00:19:11.812 --> 00:19:15.732
+Et lui, il va dans l'idéal retravailler vos fichiers
+
+340
+00:19:15.822 --> 00:19:19.352
+pour que tout soit bien organisé et surtout qu'il ait accès
+
+341
+00:19:19.392 --> 00:19:23.192
+rapidement aux infos. Ce qui permettra à
+
+342
+00:19:23.232 --> 00:19:26.852
+Claude de travailler plus rapidement et d'utiliser moins de tokens parce qu'il aura
+
+343
+00:19:28.332 --> 00:19:31.192
+du contexte accessible par rapport à vos fichiers.
+
+344
+00:19:31.212 --> 00:19:33.572
+Là, je vais lui dire en exemple, ce n'est pas du tout ce qu'il faut que vous
+
+345
+00:19:33.632 --> 00:19:37.272
+mettiez, prenez le prompt qu'il y aura un petit peu plus bas sous la vidéo.
+
+346
+00:19:37.732 --> 00:19:38.412
+Là, l'idée, c'est
+
+347
+00:19:39.452 --> 00:19:42.072
+: « Quelle est la structure
+
+348
+00:19:42.872 --> 00:19:43.392
+idéale
+
+349
+00:19:44.212 --> 00:19:47.532
+pour un projet dans Claude ? Quels
+
+350
+00:19:48.292 --> 00:19:51.792
+fichiers sont indispensables ?
+
+351
+00:19:56.692 --> 00:19:56.692
+»
+
+352
+00:19:59.732 --> 00:20:02.062
+On va voir ce qu'il raconte. J'ai mis CD.
+
+353
+00:20:02.832 --> 00:20:05.512
+Vous voyez, j'ai lancé un truc, je peux faire « Echap », ça va tout de suite
+
+354
+00:20:05.552 --> 00:20:09.492
+cancel. Il aurait compris, mais ça me permet de montrer
+
+355
+00:20:09.552 --> 00:20:13.112
+ça. Si je lance un truc et je veux le cancel, je peux
+
+356
+00:20:16.012 --> 00:20:17.462
+modifier ici.
+
+357
+00:20:18.572 --> 00:20:20.552
+D'ailleurs, je peux écrire autre chose.
+
+358
+00:20:21.012 --> 00:20:22.992
+Là, je peux lui dire autre chose pendant qu'il travaille.
+
+359
+00:20:23.431 --> 00:20:25.012
+C'est l'avantage de Claude Code,
+
+360
+00:20:26.032 --> 00:20:27.132
+on n'attend qu'il réponde, etc.
+
+361
+00:20:28.712 --> 00:20:32.472
+Il nous recommande le claude.md qui est en gros le
+
+362
+00:20:33.432 --> 00:20:36.652
+fichier de base qu'il va lire à chaque conversation quand vous travaillez dans le
+
+363
+00:20:36.692 --> 00:20:37.392
+projet.
+
+364
+00:20:39.592 --> 00:20:43.412
+Je relis ce qu'il y a, le plus pertinent, c'est lui qui l'a écrit et il
+
+365
+00:20:43.432 --> 00:20:45.272
+connaît beaucoup mieux que moi la chose.
+
+366
+00:20:45.352 --> 00:20:49.312
+Instructions permanentes pour Claude Code, conversation, stack, command, piège,
+
+367
+00:20:49.872 --> 00:20:51.312
+lu automatiquement à chaque session.
+
+368
+00:20:51.852 --> 00:20:52.392
+Ça, c'est
+
+369
+00:20:53.292 --> 00:20:57.232
+le fichier indispensable. C'est pour ça que dans l'idéal,
+
+370
+00:20:57.452 --> 00:21:01.412
+avant de lancer le prompt qui lui créera un petit
+
+371
+00:21:01.472 --> 00:21:05.342
+peu tous ces fichiers automatiquement, il faut qu'il ait le contexte sur quoi vous
+
+372
+00:21:05.372 --> 00:21:08.692
+travaillez, etc. C'est ultra-important sinon il n'y aura rien du tout, il n'y aura
+
+373
+00:21:08.732 --> 00:21:11.492
+rien de personnalisé surtout. Le to-do,
+
+374
+00:21:12.452 --> 00:21:15.792
+ça dépend de vous, de votre projet, mais ça peut être
+
+375
+00:21:15.912 --> 00:21:19.732
+ultra-pertinent. Ça lui permet de savoir ce qui a été fait, ce qu'il y a à faire,
+
+376
+00:21:19.912 --> 00:21:21.992
+ce qui est en cours et ce qu'il y aura plus tard à faire.
+
+377
+00:21:22.192 --> 00:21:25.832
+C'est ultra-pertinent sur les projets qui en ont
+
+378
+00:21:25.872 --> 00:21:29.852
+besoin. Le système de log est pas mal aussi parce qu'il vous permet un peu plus
+
+379
+00:21:29.892 --> 00:21:33.802
+en profondeur sur les tâches qui ont possiblement été faites : qu'est-ce qui a été
+
+380
+00:21:33.832 --> 00:21:36.272
+fait exactement ? Quand ? Comment ? Pourquoi ?
+
+381
+00:21:36.512 --> 00:21:39.552
+Ça, c'est assez pertinent et il peut y avoir accès.
+
+382
+00:21:40.012 --> 00:21:40.572
+Un memory,
+
+383
+00:21:41.972 --> 00:21:45.532
+ça va dépendre aussi du projet, mais
+
+384
+00:21:46.532 --> 00:21:46.852
+c'est
+
+385
+00:21:47.752 --> 00:21:51.672
+ultra-recommandé. Quasiment tous mes projets ont ces quatre fichiers
+
+386
+00:21:51.712 --> 00:21:52.932
+de base, ça c'est sûr.
+
+387
+00:21:54.332 --> 00:21:55.432
+Optionnel mais puissant.
+
+388
+00:21:56.412 --> 00:22:00.092
+Ça, on l'a vu dans les settings juste avant, en mettant
+
+389
+00:22:00.102 --> 00:22:02.912
+/status, vous pouvez modifier un petit peu tout ça, mais
+
+390
+00:22:03.952 --> 00:22:05.992
+ça se modifie aussi ici. Le plan,
+
+391
+00:22:07.452 --> 00:22:09.012
+en fonction du projet, ça peut être pertinent.
+
+392
+00:22:09.552 --> 00:22:11.372
+Vision long terme, un roadmap,
+
+393
+00:22:12.972 --> 00:22:14.962
+ça peut être carrément pertinent.
+
+394
+00:22:15.362 --> 00:22:19.292
+Et sitemap, si c'est un gros projet et qu'il y a beaucoup de fichiers,
+
+395
+00:22:19.332 --> 00:22:19.472
+etc.,
+
+396
+00:22:20.332 --> 00:22:23.532
+ça peut être pratique qu'il ait un sitemap qui va
+
+397
+00:22:23.632 --> 00:22:27.452
+montrer l'architecture de votre dossier entier pour qu'il
+
+398
+00:22:27.532 --> 00:22:29.172
+puisse se repérer un peu facilement.
+
+399
+00:22:29.232 --> 00:22:33.112
+Et un dossier skill, potentiellement, si vous avez un système de
+
+400
+00:22:33.152 --> 00:22:36.132
+plusieurs skills différents qui seront possiblement même
+
+401
+00:22:36.152 --> 00:22:38.172
+redispatchés dans des dossiers.
+
+402
+00:22:40.052 --> 00:22:42.492
+Je pense que c'est parfait comme réponse qu'il m'a donnée.
+
+403
+00:22:43.172 --> 00:22:46.292
+L'idée, c'est vraiment de structurer tous vos
+
+404
+00:22:46.332 --> 00:22:48.312
+fichiers pour que si demain,
+
+405
+00:22:50.012 --> 00:22:53.892
+vous recréez une conversation de base sans rien, si je fais
+
+406
+00:22:53.912 --> 00:22:57.152
+/clear ou que je crée une nouvelle conversation et que je suis dans le bon projet,
+
+407
+00:22:57.732 --> 00:22:59.892
+il comprendra d'après tous ces fichiers
+
+408
+00:23:01.332 --> 00:23:01.952
+ce qu'on fait,
+
+409
+00:23:02.852 --> 00:23:06.372
+ce qu'on a fait, ce qu'on veut faire et ce qu'on est en train de faire,
+
+410
+00:23:07.032 --> 00:23:09.792
+ce qu'on a fait dans le passé, quand, comment et pourquoi.
+
+411
+00:23:10.792 --> 00:23:13.652
+La memory générale de votre projet,
+
+412
+00:23:14.532 --> 00:23:16.412
+le plan s'il y en a un, sitemap s'il y en a un, etc.
+
+413
+00:23:17.032 --> 00:23:20.572
+Le but, c'est vraiment, et ça, c'est ultra-recommandé, ça dépend
+
+414
+00:23:20.612 --> 00:23:24.552
+des projets. Si c'est un truc ultra-simple que vous n'allez faire qu'une fois,
+
+415
+00:23:24.892 --> 00:23:28.472
+aucun intérêt. Mais si vous avez un projet qui
+
+416
+00:23:29.452 --> 00:23:30.512
+va se faire sur plusieurs
+
+417
+00:23:31.812 --> 00:23:32.572
+jours, mois
+
+418
+00:23:33.552 --> 00:23:37.492
+ou plus, c'est ultra-pertinent de tout noter pour qu'il
+
+419
+00:23:37.572 --> 00:23:40.632
+puisse se repérer facilement, répondre facilement, comprendre facilement, etc.
+
+420
+00:23:42.432 --> 00:23:44.492
+Je pense qu'on a fait le tour un peu de tout ça.
+
+421
+00:23:44.952 --> 00:23:45.752
+Il y a tout ce qui est
+
+422
+00:23:46.792 --> 00:23:47.522
+MCP, mais
+
+423
+00:23:49.032 --> 00:23:53.012
+honnêtement, je n'utilise pas le /MCP quand j'en ai besoin, je vois comment
+
+424
+00:23:53.032 --> 00:23:53.792
+il faut le connecter.
+
+425
+00:23:55.752 --> 00:23:58.772
+L'idée, c'est que le /MCP vous permet
+
+426
+00:23:59.212 --> 00:24:03.172
+d'installer les MCP qui sont de base ici,
+
+427
+00:24:04.892 --> 00:24:07.812
+officiellement recommandés et liés à Claude.
+
+428
+00:24:08.412 --> 00:24:11.192
+Si vous faites « Entrée », ça va vous lister un petit peu tous les basiques.
+
+429
+00:24:12.892 --> 00:24:13.952
+Je pense qu'on est bon pour
+
+430
+00:24:16.152 --> 00:24:20.012
+le gros basique de Claude Code. J'espère que ça vous aura
+
+431
+00:24:20.022 --> 00:24:22.312
+aidé, que ça vous aura pris deux, trois trucs.
+
+432
+00:24:22.672 --> 00:24:26.012
+J'ai sûrement oublié des détails, mais si jamais je referais,
+
+433
+00:24:26.832 --> 00:24:29.372
+soit je vais mettre en dessous de la vidéo, soit je referai une seconde vidéo.
+
+434
+00:24:29.952 --> 00:24:32.772
+Là, on a de quoi l'installer,
+
+435
+00:24:33.672 --> 00:24:36.472
+travailler avec, comprendre tout ce qu'on a vu :
+
+436
+00:24:37.452 --> 00:24:40.582
+le système de statut, le système de compact, de rename, de resume,
+
+437
+00:24:41.392 --> 00:24:44.572
+de help si besoin et d'effort
+
+438
+00:24:44.592 --> 00:24:48.552
+d'ailleurs, et tout le système de structure qui est ultra-important, qui permet
+
+439
+00:24:48.572 --> 00:24:52.512
+à Claude de travailler beaucoup plus efficacement, rapidement et intelligemment vu
+
+440
+00:24:52.892 --> 00:24:56.732
+qu'il a tout un système de fichiers et de structure à lire.
+
+441
+00:24:59.112 --> 00:25:01.832
+Bon courage à vous, n'hésitez pas s'il y a des questions.
