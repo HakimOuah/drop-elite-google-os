@@ -4,10 +4,21 @@
 
 - `OFFICIEL_ACTUEL` : source primaire officielle relue et datée.
 - `ENSEIGNE_A_VERIFIER` : contenu de la formation avec source et timecode/page.
+- `DECISION_PROJET` : méthode ou seuil explicitement adopté par Hakim pour un périmètre daté, sans devenir une règle officielle.
 - `OBSERVE_PROJET` : donnée actuelle de la boutique, du compte ou du fournisseur.
 - `HYPOTHESE` : interprétation à tester.
 - `MANQUANT` / `MANQUANT_MODULE` : donnée ou procédure absente.
 - `CONTREDIT` : incompatible avec une preuve plus forte.
+- `ASSIMILE_TEXTE` : source lue de bout en bout au niveau transcription, sans écoute audio systématique.
+- `ASSIMILE_TEXTE_QUALITE_LIMITEE` : source lue, mais texte ou absence d'images insuffisants pour certaines étapes.
+- `EXCLU_SYSTEME` : élément archivé comme enseignement historique, mais interdit dans les recommandations et exécutions du système.
+- `AJOUT_SYSTEME` : méthode complémentaire issue d'un autre skill, d'une source officielle ou d'une décision projet, non attribuable à La Méthode Kraken.
+
+## Méthode en deux états
+
+La progression `GMC_READY` → `GROWTH_MARKETING` est à la fois `ENSEIGNE_A_VERIFIER` dans le corpus et `DECISION_PROJET` pour son usage opérationnel. Elle n'est pas classée `EXCLU_SYSTEME` lorsque la boutique est réelle et achetable dans les deux états, que tous les visiteurs voient la même version publiée et que la couche marketing ajoutée reste exacte et cohérente.
+
+La frontière `EXCLU_SYSTEME` commence avec le contenu différencié pour le contrôleur, une fausse identité, une incohérence volontaire ou la restauration d'un claim trompeur/non prouvé. Le statut porte sur le comportement précis, pas sur l'existence d'une transition marketing.
 
 ## Hiérarchie
 

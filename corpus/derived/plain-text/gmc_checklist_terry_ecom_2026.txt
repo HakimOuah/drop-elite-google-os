@@ -1,6 +1,3 @@
-
-===== PAGE 1 =====
-
 GMC Guidance &
 Compliance Checklist
 A Practical Setup Framework for New & Reinstated Stores
@@ -10,16 +7,16 @@ Founder of GMC HELP
 © GMC HELP — All Rights Reserved
 
 
-===== PAGE 2 =====
+--- PAGE ---
 
 About the Author
 This framework is written by Terry Ecom, a Google Merchant Center specialist and the founder of
 GMC HELP.
 Terry has worked hands-on with:
- New GMC account setups
- Reinstated and aged Merchant Center accounts
- Multi-store operations across multiple countries
- Long-term compliance and suspension prevention
+• New GMC account setups
+• Reinstated and aged Merchant Center accounts
+• Multi-store operations across multiple countries
+• Long-term compliance and suspension prevention
 This document reflects real-world enforcement patterns, not theory, and is based on practical
 experience supporting store owners inside the GMC HELP ecosystem.
 Important Notice (Read First)
@@ -28,38 +25,38 @@ Google Merchant Center approvals are influenced by automated systems, human revi
 ongoing policy updates. While this checklist is designed to reduce risk and common rejection triggers,
 approval is never guaranteed.
 This resource focuses on:
- Store setup
- Compliance alignment
- Risk reduction before and after submission
+• Store setup
+• Compliance alignment
+• Risk reduction before and after submission
 It does not replace advanced reinstatement strategies, escalations, or policy appeals.
 © GMC HELP
 Written by Terry Ecom
 Page 1
 
 
-===== PAGE 3 =====
+--- PAGE ---
 
 Who This Framework Is For
 This checklist is designed for:
- New Google Merchant Center accounts
- Recently reinstated GMCs
- Store owners preparing to submit or resubmit products
- Sellers running one or multiple stores who want to reduce linkage risk
+• New Google Merchant Center accounts
+• Recently reinstated GMCs
+• Store owners preparing to submit or resubmit products
+• Sellers running one or multiple stores who want to reduce linkage risk
 This framework is not for:
- Guaranteed approvals
- Shortcut-based setups
- Policy manipulation or bypassing systems
+• Guaranteed approvals
+• Shortcut-based setups
+• Policy manipulation or bypassing systems
 How to Use This Checklist Correctly
 Do not skim this document.
 You should:
- Review every section carefully
- Verify your store against each checklist item
- Fix issues before submitting or resubmitting products
- Recheck compliance during the first 30 days after approval
+• Review every section carefully
+• Verify your store against each checklist item
+• Fix issues before submitting or resubmitting products
+• Recheck compliance during the first 30 days after approval
 Skipping steps often leads to:
- Instant disapprovals
- Silent suspensions
- Repeated policy flags
+• Instant disapprovals
+• Silent suspensions
+• Repeated policy flags
 Many store owners combine structured manual checks with automated compliance scans to identify
 issues that are easy to miss.
 © GMC HELP
@@ -67,42 +64,42 @@ Written by Terry Ecom
 Page 2
 
 
-===== PAGE 4 =====
+--- PAGE ---
 
 Understanding Google's Risk Windows
 Google Merchant Center accounts are most sensitive during the following periods:
-■ First 48 Hours
- Automated systems scan your domain, products, policies, and business signals
- Many accounts fail here due to incomplete setup
-■ First 7 Days
- Deeper automated checks and potential human review
- Policy mismatches are often caught at this stage
-■ First 30 Days
- Ongoing monitoring
- Sudden or unnecessary changes can trigger reviews or suspensions
-■ Risk Warning
+I First 48 Hours
+• Automated systems scan your domain, products, policies, and business signals
+• Many accounts fail here due to incomplete setup
+I First 7 Days
+• Deeper automated checks and potential human review
+• Policy mismatches are often caught at this stage
+I First 30 Days
+• Ongoing monitoring
+• Sudden or unnecessary changes can trigger reviews or suspensions
+I Risk Warning
 Approval does not mean safety. Most suspensions happen after approval, not before.
 © GMC HELP
 Written by Terry Ecom
 Page 3
 
 
-===== PAGE 5 =====
+--- PAGE ---
 
 Store Isolation Framework
 (Critical for Multiple Stores)
 If you operate more than one store, isolation is essential.
 Recommended Structure (Per Store)
 Each store should have:
- One Google Merchant Center account
- One Google Ads account
- One dedicated Gmail address
- One unique payment method
- One virtual or physical address
- One local phone number
- One clean IP or proxy
- One isolated browser profile (recommended)
-■ Risk Warning
+• One Google Merchant Center account
+• One Google Ads account
+• One dedicated Gmail address
+• One unique payment method
+• One virtual or physical address
+• One local phone number
+• One clean IP or proxy
+• One isolated browser profile (recommended)
+I Risk Warning
 Do not reuse details across stores. Even small overlaps can create account linkage.
 Multi-store linkage is one of the most common causes of repeated GMC suspensions.
 © GMC HELP
@@ -110,55 +107,55 @@ Written by Terry Ecom
 Page 4
 
 
-===== PAGE 6 =====
+--- PAGE ---
 
 Branding, Trust & Transparency
 Google evaluates legitimacy, not aesthetics.
 Compliance Checklist
- Use ™ or © symbols only if you legally own the rights
- Avoid fake urgency (false scarcity, misleading countdowns)
- Make contact details clickable (email and phone)
- Display contact information clearly in footer, contact page, and policy pages
- Use a professional business email address
+• Use ™ or © symbols only if you legally own the rights
+• Avoid fake urgency (false scarcity, misleading countdowns)
+• Make contact details clickable (email and phone)
+• Display contact information clearly in footer, contact page, and policy pages
+• Use a professional business email address
 Your store must look and function like a real business, not a temporary storefront.
 © GMC HELP
 Written by Terry Ecom
 Page 5
 
 
-===== PAGE 7 =====
+--- PAGE ---
 
 Product Pages & Images
 Product presentation is one of the most common rejection areas.
 Image Rules
- No text overlays on product images
- No collage-style images
- No duplicate images across products
- No misleading visuals
+• No text overlays on product images
+• No collage-style images
+• No duplicate images across products
+• No misleading visuals
 Product Content
- Product title must match the product URL
- Titles and descriptions must be original
- Avoid exaggerated or unverifiable claims
- No fake or manipulated reviews
+• Product title must match the product URL
+• Titles and descriptions must be original
+• Avoid exaggerated or unverifiable claims
+• No fake or manipulated reviews
 Many misrepresentation flags originate from title, image, or description mismatches.
 © GMC HELP
 Written by Terry Ecom
 Page 6
 
 
-===== PAGE 8 =====
+--- PAGE ---
 
 Website Technical Alignment
 Small technical mismatches cause big problems.
 Technical Checklist
- Page speed score above 65
- Remove old or duplicate GMC verification codes
- Avoid duplicated themes across multiple stores
- Shopify settings must match footer, policy content, and business details
- Payment icons must match checkout options
- No broken links
- Archive out-of-stock products
-■ Risk Warning
+• Page speed score above 65
+• Remove old or duplicate GMC verification codes
+• Avoid duplicated themes across multiple stores
+• Shopify settings must match footer, policy content, and business details
+• Payment icons must match checkout options
+• No broken links
+• Archive out-of-stock products
+I Risk Warning
 Inconsistencies across pages are a common review trigger.
 Automated scans can detect mismatches that are easy to miss during manual review.
 © GMC HELP
@@ -166,36 +163,36 @@ Written by Terry Ecom
 Page 7
 
 
-===== PAGE 9 =====
+--- PAGE ---
 
 Shopify & Policy Consistency
 Google compares:
- Store footer
- Policy pages
- Checkout information
- Merchant Center business details
+• Store footer
+• Policy pages
+• Checkout information
+• Merchant Center business details
 All must align.
 Even small differences (address formatting, payment methods, refund terms) can result in:
- Disapproval
- Account review
- Suspension
+• Disapproval
+• Account review
+• Suspension
 © GMC HELP
 Written by Terry Ecom
 Page 8
 
 
-===== PAGE 10 =====
+--- PAGE ---
 
 Final Pre-Submission Checklist
 Before submitting or resubmitting products, confirm:
- All contact details are visible and clickable
- Policies are complete and consistent
- Product titles and URLs match
- Images meet Google standards
- No misleading claims or urgency
- Technical setup is clean
- No reused data across stores
-✗ Avoid
+• All contact details are visible and clickable
+• Policies are complete and consistent
+• Product titles and URLs match
+• Images meet Google standards
+• No misleading claims or urgency
+• Technical setup is clean
+• No reused data across stores
+ Avoid
 If any item fails → do not submit yet.
 Some sellers choose to run an additional automated compliance scan before submission to identify
 silent risk signals.
@@ -204,30 +201,30 @@ Written by Terry Ecom
 Page 9
 
 
-===== PAGE 11 =====
+--- PAGE ---
 
 Ongoing Monitoring (After Approval)
 Approval is not the end.
 During the first 30 days:
- Avoid sudden changes
- Monitor product disapprovals closely
- Keep business details stable
- Recheck this checklist if issues arise
+• Avoid sudden changes
+• Monitor product disapprovals closely
+• Keep business details stable
+• Recheck this checklist if issues arise
 Ongoing monitoring tools can help surface issues before they escalate into suspensions.
 © GMC HELP
 Written by Terry Ecom
 Page 10
 
 
-===== PAGE 12 =====
+--- PAGE ---
 
 Additional Support & Resources
 This checklist represents a baseline compliance framework created and used by Terry Ecom within
 the GMC HELP ecosystem.
 For sellers who want:
- Ongoing guidance
- Deeper store-level support
- Regular compliance oversight
+• Ongoing guidance
+• Deeper store-level support
+• Regular compliance oversight
 i Additional Support
 GMC HELP PRO (Paid Monthly Subscription)
 → https://www.gmchelp.com/pro
@@ -242,13 +239,13 @@ Written by Terry Ecom
 Page 11
 
 
-===== PAGE 13 =====
+--- PAGE ---
 
 Final Notes from Terry Ecom
 This document is designed to:
- Reduce unnecessary risk
- Improve submission readiness
- Help you build stores that survive review cycles
+• Reduce unnecessary risk
+• Improve submission readiness
+• Help you build stores that survive review cycles
 It does not guarantee approval.
 For advanced approval strategies, reinstatements, or escalations, separate resources apply.
 © GMC HELP — All Rights Reserved

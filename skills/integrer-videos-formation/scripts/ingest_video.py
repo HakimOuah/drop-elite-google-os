@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ingest an authorized training video into the local Drop Elite corpus."""
+"""Ingest an authorized training video into the local Méthode Kraken corpus."""
 
 from __future__ import annotations
 
@@ -244,7 +244,7 @@ def write_catalogue_markdown(corpus: Path, catalog: dict) -> None:
     sources = catalog.get("sources", [])
     total_duration = sum(float(item.get("duration_seconds") or 0) for item in sources)
     lines = [
-        "# Corpus Drop Elite",
+        "# Corpus de La Méthode Kraken",
         "",
         "Ce dossier est la source locale canonique des vidéos autorisées, de leurs transcriptions et des fiches de cours dérivées.",
         "",
@@ -305,7 +305,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--title-observed")
     parser.add_argument("--title-inferred")
     parser.add_argument("--source-label")
-    parser.add_argument("--course", default="Drop Elite")
+    parser.add_argument("--course", default="La Méthode Kraken")
     parser.add_argument("--authorization-note", required=True)
     parser.add_argument("--vocabulary-prompt")
     parser.add_argument("--language", default="fr")

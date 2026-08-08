@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the canonical Drop Elite training corpus."""
+"""Validate the canonical Méthode Kraken training corpus."""
 
 from __future__ import annotations
 

@@ -1,0 +1,294 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  1  —
+RAPPORT DE SESSION
+9 juin 2026 • Durée : 2h02 • Coach : Théo
+Participants : Manuel, Pierre, Sébastien, Aude, Emeric, Charlotte, Sigrid, Mika, Samuel
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Manuel — Connecter Claude à son site WordPress : SSH ou MCP, le risque
+d’un accès serveur total
+▶ 00:07 Hotseat Sébastien — 8 niches passées au crible (tente, pistolet,
+porte-manteau...)
+▶ 00:21 Méthode — Ne pas sur-filtrer ses recherches : le KD ne bloque pas une
+niche en Ads
+▶ 00:25 Aude — Monter en compétence sur Claude Code et humaniser le contenu IA
+▶ 00:34 Atelier images produits — Nano Banana, GPT Image, Photoroom : forces,
+limites, coûts
+▶ 01:35 Charlotte — 2e boutique : validation Merchant Center et intégration de
+150 produits
+▶ 01:46 Démo — Créer un thème Shopify complet en parlant à Claude Code
+⚔ DÉTAIL DES HOTSEATS
+► Manuel — Connecter Claude à WordPress sans casser son site
+Habitué au terminal et aux commandes SSH, Manuel découvre que Claude Code se pilote en langage naturel.
+Sa question : faut-il relier Claude à son site Hostinger via SSH ou via un MCP ?
+L’avis du coach : privilégier le MCP (connexion via API, verbes HTTP) plutôt que le SSH. Le SSH donne un
+contrôle total sur le serveur — tous les fichiers et toute la base de données de tous les sites — ce qui est
+puissant mais dangereux : sur un malentendu, Claude peut effacer n’importe quoi. Pierre complète avec une
+alternative plus sûre : un outil limité au site (lecture/édition des fichiers, modification des options de plugins type
+Rank Math via une surcouche PHP), sans accès au serveur.
+Bonne pratique : ne jamais modifier directement le thème. Travailler dans un thème enfant ou un plugin
+custom (ou WP Code pour les petites lignes), faire un backup, et tester action par action pour isoler la cause
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  2  —
+d’un bug. La crainte de Manuel — que Claude écrive dans des fichiers écrasés à la prochaine mise à jour — est
+justement ce que le plugin custom évite.
+Mode d’accès
+Portée
+Risque
+SSH (serveur)
+Tous fichiers + BDD, tous les sites
+Très élevé — peut tout effacer
+MCP / API
+Accès cadré via API
+Modéré
+Outil site (PHP)
+Fichiers + options plugins du site
+Limité au site
+« Tu as l’avantage d’un contrôle total, mais le désavantage qu’il a un contrôle total : il peut t’effacer
+n’importe quoi sur un malentendu. »
+— Coach Kraken
+► Sébastien — Revue de niches (retour dans la méthode)
+De retour dans la méthode avec plus de temps à consacrer au e-commerce, Sébastien cherche sa première
+niche. Il a suivi la vidéo de recherche via Semrush (volumes, position top 3 Amazon, intentions).
+Correction de méthode : ne pas cocher l’intention commercial/transactionnel — des niches déco taguées «
+informationnelles » par Semrush se vendent très bien et seraient écartées à tort. Ne pas se limiter au top 3
+Amazon : faire deux passes (top 3 et top 10). En début de recherche, peu de barrières (pas d’intention, pas de
+KD), puis affiner avec un système de score.
+Niche
+Verdict
+Commentaire clé
+Tente
+À sourcer
+Bon volume, peu de concurrents. Produit volumineux → prix d’achat élevé,
+marge à vérifier.
+Punching ball
+Petite niche
+viable
+CPC 0,17€, volume faible. À élargir (univers sport).
+Débroussailleuse
+À creuser / SAV
+Volume + CPC bas, pièces récurrentes. Électrique/thermique → SAV. Voir
+sourcing Europe.
+Appliques murales
+Validée
+Tout vert, déjà présentée en séance. À creuser.
+Mugs
+Écartée
+CPC élevés, prix de vente ~20-25€ → RR négatif.
+Porte-manteau
+À creuser
+Achat Ali faible, revente 50€+. 1 concurrent récent dans le top 3.
+Pistolet (peinture)
+À creuser
+Volume ~45 000. KD élevé non bloquant en Ads / en étant spécialiste.
+Coloriage adulte
+Écartée
+RR faibles (prix d’achat et de vente bas).
+Point clé sur le RR (prix de vente moyen / CPC, seuil > 100) : un bon RR ne garantit pas une bonne marge.
+Tout dépend du prix d’achat — d’où l’importance de vérifier le sourcing avant de valider. Le coach retient 3
+niches à approfondir : appliques, porte-manteau et pistolet.
+« On peut avoir de bons RR et ne pas avoir une bonne marge : tout dépend du prix d’achat. »
+— Coach Kraken
+► Aude — Monter en compétence sur Claude Code
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  3  —
+Aude forme Claude Code sur sa boutique Shopify : ~1 jour pour le premier produit, une demi-journée pour le
+deuxième. Consigne validée par le coach : ne pas passer au produit suivant tant que le rendu n’est pas bon.
+Après une dizaine de produits, Claude aura compris sur un panel plus large et ira beaucoup plus vite.
+Lever le blocage du vocabulaire : quand un terme ou une demande d’autorisation (souvent Python) n’est pas
+clair, faire un screenshot et le coller dans le chat Claude pour qu’il l’explique, plutôt que de valider à l’aveugle.
+On peut aussi lui demander directement pourquoi il réclame ces autorisations et comment les éviter. Sur une
+boutique Shopify, le risque de « tout casser » vu sur les réseaux ne s’applique pas de la même manière.
+Humaniser le contenu : faire enregistrer ses règles de style dans le skill / CLAUDE.md (ex. supprimer les tirets
+cadratins qui « font IA »). Le coach partage un skill GitHub (~23 000 étoiles) qui retire automatiquement tirets,
+abus de gras, listes à puces, titres en majuscules et emojis.
+« Il te faut bien 10 produits : au bout de 10, il aura compris comment bien faire. Il faut itérer au
+début. »
+— Coach Kraken
+► Charlotte — 2e boutique : Merchant Center & intégration produits
+Charlotte a lancé sa deuxième boutique le 28 mai (niche différente de la première). Sur le flux Google Merchant
+Center, 2 produits sont approuvés, le reste en cours d’examen. Le coach rassure : c’est bon signe, les produits
+passent progressivement — sans garantie à 100 %, il peut rester un blocage isolé. Quand on vérifie en détail la
+cause (délais de livraison, déclarations), ça se débloque.
+Images générées par IA : le renommage des images créées avec ChatGPT n’est pas un problème pour le
+GMC aujourd’hui. Google pourrait à terme repérer les patterns visuels IA, mais ce n’est pas grave tant que rien
+n’est mensonger. Charlotte fait renommer ses images par Claude plutôt que par une app SEO.
+Intégration produits : avec un prompt très détaillé (cible, produits, structure de fiche, métafields, distinction des
+deux boutiques), le rendu est bon dès le départ. Claude rédige directement dans Shopify ; ~150 produits
+intégrés en environ une semaine de travail effectif de Claude. Le sourcing reste l’étape la plus chronophage.
+« Quand tu vérifies en détail ce qui peut bloquer, ça se débloque facilement. »
+— Coach Kraken
+⚙ PRINCIPES TRANSVERSAUX — OUTILS & IMAGES PRODUITS
+Une grande partie de la session a porté sur l’outillage IA, en particulier la production d’images produits.
+Synthèse des points partagés par Pierre, Emeric, Mika et Sigrid.
+Quel outil pour quoi — le détourage + fond uni + ombre studio est très fiable (proche de 100 % chez Emeric).
+L’ajout ou le changement de mannequin reste aléatoire (50-70 %), avec des proportions produit/mannequin
+imparfaites. Pour l’upscale, Nano Banana 2 est excellent sur une tâche unique (il restitue le détail du tissu) mais
+perd en qualité sur plusieurs tâches à la fois. GPT Image 2 donne un rendu mannequin très « studio/catalogue
+».
+Photoroom et l’upscale local — Photoroom reste le meilleur pour enchaîner détourage, recadrage carré,
+centrage et ombre naturelle en one-shot et en bulk, mais il ne fait pas l’upscale en bulk et coûte plus cher. Un
+upscaler open-source en local est gratuit et suffit pour les images de blocs, mais il agrandit sans créer de détail
+(ce n’est pas de la génération).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  4  —
+Coûts indicatifs — Nano Banana 2 ~0,10€/image, Nano Banana Pro ~0,15€, GPT Image 2 ~0,13€. Photoroom
+de ~10€ à ~26€/mois selon le plan (125 à 500 images), API ~100€/mois. Les prix à l’image se suivent d’un
+modèle à l’autre ; l’écart se fait surtout sur les plateformes multi-modèles à crédits (Higgsfield, Google Flow), qui
+regroupent plusieurs IA images et vidéos sous un seul abonnement.
+Intégration et thème Shopify — via Claude Code et le connecteur Shopify (MCP), Claude rédige les fiches
+directement dans Shopify. Pour gagner des tokens, on peut désactiver la preview terminal. Alternative d’Emeric
+: passer par un Google Sheet pour choisir parmi plusieurs variantes de blocs/titres avant import. Le connecteur
+met aussi à disposition une base de thème et de blocs préfaits : Claude part de cette base (économie de
+tokens) et personnalise par la conversation jusqu’à un thème modifiable.
+« Le full auto, tu n’y arriveras jamais à 100 %. Comme pour le contenu, il faut produire puis
+reprendre ce qui ne va pas. »
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Sébastien
+PRIORITAIRE
+⚡ Pour les 3 niches retenues (appliques, porte-manteau, pistolet) : ajouter les mots-clés manquants
+et calculer le RR des 5-10 premiers.
+⚡ Ajouter une ligne « prix de vente moyen » + une estimation du « prix d’achat » liée au RR pour
+juger la marge réelle.
+⚡ Vérifier le sourcing (AliExpress / 1688, alternatives Europe) avant de valider une niche.
+SECONDAIRE
+○ Retirer les filtres trop stricts (intention, KD) en début de recherche, puis affiner avec un score.
+○ Faire deux passes de recherche (top 3 et top 10 Amazon) pour ouvrir le champ.
+○ Repasser quand c’est prêt pour comparer la meilleure des niches.
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Choisir un accès cadré (MCP ou outil limité au site) plutôt que le SSH serveur, pour limiter le
+risque.
+⚡ Travailler dans un thème enfant ou un plugin custom (jamais dans le thème) et faire un backup
+avant toute modif.
+SECONDAIRE
+○ Tester action par action pour pouvoir isoler la cause d’un bug.
+○ Vérifier si l’outil retenu peut modifier les options de plugins (ex. Rank Math) via les fichiers de config.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Continuer à itérer sur ~10 produits avant de juger le rendu : Claude s’améliore avec la répétition.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  5  —
+⚡ Screenshoter et faire expliquer par Claude tout terme ou autorisation peu clair, plutôt que valider à
+l’aveugle.
+SECONDAIRE
+○ Faire enregistrer ses règles de style dans le skill / CLAUDE.md (ex. supprimer les tirets cadratins).
+○ Tester le skill d’humanisation de contenu partagé en séance.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Surveiller la validation des produits dans Merchant Center ; en cas de blocage, vérifier la cause en
+détail puis refaire la demande.
+⚡ Passer l’abonnement Claude du palier 100€ au plan Pro tant que l’usage ne le justifie pas.
+SECONDAIRE
+○ Finir le renommage des images via Claude (non bloquant pour le GMC aujourd’hui).
+○ Désactiver la preview terminal des fiches produits pour économiser des tokens.
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Finaliser le script d’images : une seule instruction enchaînant upscale, remove background, ombre
+portée et envoi NocoDB.
+⚡ Stabiliser l’étape « remove background + ombre », le point qui coince aujourd’hui.
+SECONDAIRE
+○ Comparer médium vs high sur GPT Image 2 selon les besoins réels.
+○ Garder l’upscale local pour les images de blocs, la génération payante pour galerie/variations.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Renvoyer à Pierre sa skill de retouche d’images à jour.
+⚡ Pour le 2e site, réévaluer le passage par Google Sheet vs intégration directe Shopify selon la niche.
+SECONDAIRE
+○ Tester l’outil de Mika pour l’ajout / le changement de mannequin.
+  ⚓  Sigrid
+PRIORITAIRE
+⚡ Continuer la bascule des fiches produits en V2, produit par produit, en priorisant 4 produits «
+vitrine » par catégorie.
+SECONDAIRE
+○ Poursuivre le nettoyage SEO des pages catégories (barres verticales / noms en trop).
+○ Évaluer l’app « product edit » (Shopify) pour le renommage auto des images.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Ne pas viser le full auto sur les images ni le contenu : produire puis corriger ce qui ne va pas.
+SECONDAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  09/06/2026
+—  6  —
+○ Privilégier un accès cadré (MCP / outil site) plutôt qu’un accès serveur total pour connecter une IA à son
+site.
+○ Récupérer le skill d’humanisation de contenu partagé en séance.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+RR — seuil
+> 100
+Prix de vente moyen / CPC
+Pistolet peinture — volume
+22 000
+Mot-clé écarté à tort (KD 39)
+Pistolet — volume total niche
+~45 000
+Niche Sébastien à creuser
+Punching ball — CPC
+0,17€
+Petite niche viable
+Mugs — prix de vente
+20-25€
+RR négatif, écartée
+Détourage + ombre studio
+~100 %
+Fiabilité (Emeric)
+Ajout / changement mannequin
+50-70 %
+Fiabilité plus aléatoire
+Nano Banana 2 — coût/image
+~0,10€
+Tâche unique = excellent
+Nano Banana Pro — coût/image
+~0,15€
+Rendu mannequin
+GPT Image 2 — coût/image
+~0,13€
+Rendu studio/catalogue
+Upscale local
+1024×1024
+Gratuit, sans création de détail
+Photoroom — abonnement
+10-26€/mois
+API ~100€/mois
+Charlotte — produits intégrés
+~150
+En ~1 semaine de Claude
+Charlotte — 2e boutique
+28 mai
+Niche différente de la 1re
+Skill humanisation
+~23 000 #
+Étoiles GitHub
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

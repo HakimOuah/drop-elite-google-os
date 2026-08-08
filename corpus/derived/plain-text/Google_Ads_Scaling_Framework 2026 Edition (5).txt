@@ -1,19 +1,16 @@
-
-===== PAGE 1 =====
-
 TERRY ECOM
- Google Ads Scaling Framework
- A Profit-First System for Performance Max
- CONNECT WITH US
- www.skool.com/gmc-help
- www.gmcscout.com
+Google Ads Scaling Framework
+A Profit-First System for Performance Max
+CONNECT WITH US
+www.skool.com/gmc-help
+www.gmcscout.com
 
 
-===== PAGE 2 =====
+--- PAGE ---
 
 SECTION 01
 Core Philosophy
- Scale based on profit and clean data,
+Scale based on profit and clean data,
 not emotions, hacks, or screenshots.
 This framework is built from real PMAX accounts and real scaling conversations. It provides clear
 rules for when to scale up, when to hold, and when to scale back — without overcomplication.
@@ -31,10 +28,20 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 3 =====
+--- PAGE ---
 
 Performs best when fed clean conversion data and sufficient budget
-For eCommerce and dropshipping, PMAX functions as both a demand-capture and
+For 
+eCommerce 
+and 
+dropshipping, 
+PMAX 
+functions 
+as 
+both 
+a 
+demand-capture 
+and
 demand-expansion engine. When fundamentals are correct, it outperforms heavily manual structures
 at scale.
 Page 2
@@ -43,7 +50,7 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 4 =====
+--- PAGE ---
 
 SECTION 03
 How to Use This Framework
@@ -51,14 +58,14 @@ FOR BEGINNERS
 Follow exactly as written
 FOR EXPERIENCED
 Use this as baseline discipline
- RULE: Do not add complexity until you are already profitable.
+RULE: Do not add complexity until you are already profitable.
 Page 3
 www.skool.com/gmc-help
 www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 5 =====
+--- PAGE ---
 
 SECTION 04
 Framework Overview
@@ -85,40 +92,40 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 6 =====
+--- PAGE ---
 
 PHASE 1
 Launch (Days 1-7)
 One Campaign Only
- 1 PMAX campaign
- Full product feed
- No exclusions
- No segmentation
+• 1 PMAX campaign
+• Full product feed
+• No exclusions
+• No segmentation
 This concentrates data and accelerates learning.
 Full Feed, No Bias
 Do not:
- Pick 'best sellers'
- Force hero products
- Over-optimize early
+• Pick 'best sellers'
+• Force hero products
+• Over-optimize early
 Let PMAX discover demand naturally.
 Product Tagging (Non-Negotiable)
 From day one, tag products by:
- Product type
- Category
+• Product type
+• Category
 Page 5
 www.skool.com/gmc-help
 www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 7 =====
+--- PAGE ---
 
- Logical groupings
+• Logical groupings
 This enables clean exclusions and scaling later without rebuilding feeds.
 Hands-Off Learning
- Let PMAX run
- Ignore daily noise
- Avoid resets
+• Let PMAX run
+• Ignore daily noise
+• Avoid resets
 If PMAX is not spending, wait 3-4 days and relaunch once only if required.
 Page 6
 www.skool.com/gmc-help
@@ -126,11 +133,11 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 8 =====
+--- PAGE ---
 
 PHASE 2
 Stabilization (Days 7-14)
- This phase fixes the business, not the ads.
+This phase fixes the business, not the ads.
 AOV Comes Before Scaling
 AOV RANGE
 STATUS
@@ -142,28 +149,28 @@ $60+
 SCALABLE
 $70+
 IDEAL
- Low AOV + higher spend = amplified losses
+Low AOV + higher spend = amplified losses
 Increase AOV First
 Use:
- Bundles
+• Bundles
 Page 7
 www.skool.com/gmc-help
 www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 9 =====
+--- PAGE ---
 
- 10-15% upsells
- Quantity breaks
- Clear navigation
- Strong product pages
+• 10-15% upsells
+• Quantity breaks
+• Clear navigation
+• Strong product pages
 Do not scale ads to fix bad economics.
 CRO Over Ad Tweaks
 Improve:
- Trust signals
- Clarity
- Checkout simplicity
+• Trust signals
+• Clarity
+• Checkout simplicity
 Ads amplify problems - they do not solve them.
 Page 8
 www.skool.com/gmc-help
@@ -171,11 +178,11 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 10 =====
+--- PAGE ---
 
 PHASE 3
 Scaling (Profit-Based)
- Scaling decisions are made using profit and trustworthy data.
+Scaling decisions are made using profit and trustworthy data.
 Green Days vs Red Days
 GREEN DAY
 Net profitable after ad spend for that day
@@ -186,9 +193,9 @@ ROAS supports context, but profit is the final decision-maker. Use reliable trac
 to verify data accuracy.
 SCALE UP - 2 GREEN DAYS RULE
 Scale UP when:
- You have 2 green days in a row
- PMAX is spending normally
- No tracking or site issues exist
+• You have 2 green days in a row
+• PMAX is spending normally
+• No tracking or site issues exist
 Recommended increase: 20-30% per step
 Page 9
 www.skool.com/gmc-help
@@ -196,15 +203,15 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 11 =====
+--- PAGE ---
 
 Examples: $120 → $160 (~33%) | $160 → $220 (~37%) | $220 → $300+ (~36%)
 Scaling is done in clear checkpoints, not tiny daily adjustments.
 SCALE BACK - 2 RED DAYS RULE
 Scale DOWN when:
- You have 2 red days in a row
- Net profit turns negative after ad spend
- No clear external issue exists
+• You have 2 red days in a row
+• Net profit turns negative after ad spend
+• No clear external issue exists
 Recommended decrease: 20-30%, or return to last profitable level
 This prevents emotional reactions to single bad days while protecting capital.
 Page 10
@@ -213,23 +220,23 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 12 =====
+--- PAGE ---
 
 PHASE 4
 Optimization (After Scale)
- Optimization happens after scale, not before.
+Optimization happens after scale, not before.
 Identify Natural Winners
 Once scaled:
- Winning products become obvious
- Decisions become data-driven
+• Winning products become obvious
+• Decisions become data-driven
 Then:
- Improve margins
- Negotiate COGS
- Upgrade suppliers
+• Improve margins
+• Negotiate COGS
+• Upgrade suppliers
 Smart Exclusions (Optional)
 Use product tags to:
- Exclude consistent losers
- Create future campaign variants
+• Exclude consistent losers
+• Create future campaign variants
 Never exclude emotionally.
 Page 11
 www.skool.com/gmc-help
@@ -237,40 +244,40 @@ www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 13 =====
+--- PAGE ---
 
 Product Selection Guidelines
 Products that scale best:
- Low return risk
- No sizing complexity
- Simple buying decision
+• Low return risk
+• No sizing complexity
+• Simple buying decision
 Examples: Sunglasses | Watches | Men's fashion basics
 Lower returns = safer scaling.
 Common Mistakes to Avoid
- Multiple PMAX campaigns too early
- Scaling before AOV is fixed
- Trusting Shopify analytics blindly
- Resetting campaigns frequently
- Scaling without profit discipline
+• Multiple PMAX campaigns too early
+• Scaling before AOV is fixed
+• Trusting Shopify analytics blindly
+• Resetting campaigns frequently
+• Scaling without profit discipline
 Page 12
 www.skool.com/gmc-help
 www.gmchelp.com/pro
 www.gmcscout.com
 
 
-===== PAGE 14 =====
+--- PAGE ---
 
 QUICK REFERENCE
 Scaling Checklist
 BEFORE SCALING
- Tracking verified
- AOV healthy
- PMAX spending consistently
+• Tracking verified
+• AOV healthy
+• PMAX spending consistently
 SCALE UP (2 GREEN DAYS)
- Increase budget by +20-30%
+• Increase budget by +20-30%
 SCALE BACK (2 RED DAYS)
- Reduce budget by -20-30%
- Or return to last profitable level
+• Reduce budget by -20-30%
+• Or return to last profitable level
 PMAX rewards discipline, confidence, and clean data.
 Scale profits, not emotions. Hold when uncertain. Pull back when losses repeat.
 This is how real accounts scale.

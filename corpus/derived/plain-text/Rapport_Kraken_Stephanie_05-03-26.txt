@@ -1,0 +1,333 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  1  —
+RAPPORT DE SESSION
+5 mars 2026 • Durée : 1h53 • Coach : Stéphanie
+Participants : Nicolas, David, Flo, Chiraz, Gaël, Singrid, Omar, Elodie, Anthony, Charlotte, Justin
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Nicolas — Reconstruction de boutique de zéro : import produits, métas,
+stratégie GMC
+▶ 00:05 Tour de table — Présentation des nouveaux (Flo, Gaël, Singrid) et
+point d’avancement
+▶ 00:14 Hot seat Chiraz — 5 niches au crible : papier peint, pouf, ceinture,
+déguisement, sac à main
+▶ 00:52 Anthony — Projet matcha et première prise de contact
+▶ 01:00 Charlotte — Lancement niche survivalisme, positionnement différenciant
+▶ 01:08 David — Validation niche mitigeurs, architecture à construire
+▶ 01:26 Flo — Première recherche de niches : fauteuil, valise, poubelle,
+miroir
+▶ 01:41 Elodie & Justin — Questions techniques : erreurs 404, hébergement,
+bans GMC
+⚔ DÉTAIL DES HOTSEATS
+► Chiraz — 5 niches analysées : vers la demi-finale
+Chiraz a présenté un travail méthodique couvrant 5 niches : papier peint, pouf, ceinture, déguisement et
+sac à main. Le tapis d’éveil a été écarté préalablement (normes bébé). La niche précédente (non précisée) a
+été éliminée car taille trop petite malgré les efforts.
+Niche
+Verdict
+Commentaire clé
+Papier peint
+À retravailler
+Volumes constants, beaucoup de catégories. Fournisseur trouvé (livraison
+15-20j gratuite). Attention : nombreuses requêtes informationnelles. Prix
+moyen ~300€ (panier). CPC élevés sur certains mots-clés.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  2  —
+Niche
+Verdict
+Commentaire clé
+Pouf
+Éliminé I
+Produits AliExpress = housses vides. Remplissage nécessite logisticien
+européen. Trop complexe pour un premier site.
+Ceinture
+Favori I
+Aucun red flag. Pas de problème d’expédition, poids, taille. Volumes bons.
+Sourcing large en marque blanche. À creuser : styles, matières, couleurs.
+Déguisement
+Défavorisé
+Ratios de rentabilité trop faibles. Prix de vente bas (20-30€). Concurrents
+stockés en Europe. Ne fonctionne qu’au gros volume.
+Sac à main
+Validé (sous
+conditions)
+Volumes solides, pas de problème logistique. Exige positionnement brandé
+milieu-haut de gamme. Design impeccable requis. RR à calculer.
+Recommandation du coach : ceinture en n°1, sac à main en n°2 (sous réserve du ratio de rentabilité), papier
+peint à retravailler (attention informationnel). Pouf et déguisement écartés. Le coach considère que Chiraz est «
+en demi-finale » et pourrait attaquer la construction du site dès la semaine suivante.
+Conseils transversaux : aller voir les concurrents pour s’inspirer de leur architecture, utiliser l’IA pour générer
+des grappes sémantiques, tester les mots-clés complémentaires (matières, couleurs, styles), ne pas se limiter
+aux résultats SEMrush — croiser avec Google Trends et analyse concurrentielle.
+« C’est pas parce qu’un site existe déjà que vous pouvez pas essayer de vous positionner, sinon
+personne ferait rien. C’est pas une mauvaise chose d’avoir des concurrents, ça veut dire qu’il y a un
+marché. »
+— Coach Kraken
+► David — Validation niche mitigeurs
+Après avoir exploré foulard, bracelet, porte-serviette, sacoche et étendoir, David converge sur les
+mitigeurs, validé par Théo et confirmé par le coach. La niche offre 717 000 de volume total sur « mitigeur » avec
+des sous-catégories solides (mitigeur salle de bain 4 400, mitigeur lavabo 6 600). Le mot-clé « robinet » ajoute 1
+million supplémentaire, mais le coach recommande de commencer par mitigeur et s’étendre ensuite.
+Niche
+Verdict
+Commentaire clé
+Foulard
+Bonne niche
+Prix moyens trop optimistes à l’époque.
+Étendoir
+Écarté
+Problème de sourcing Asie.
+Bracelet
+Bonne niche
+CPC trop élevés. À reprendre avec plus d’expérience.
+Porte-serviette
+Écarté
+Trop volumineux, niche trop réduite.
+Sacoche
+Possible
+Concurrence forte. Positionnement brandé requis.
+Mitigeur
+Validé I
+717k vol. CPC bons. RR bons. Normes OK. Architecture à construire.
+Stratégie recommandée : se positionner sur « mitigeur » comme porte d’entrée différenciante (concurrents
+positionnés sur « robinet »). Choisir un nom de domaine suffisamment large pour permettre l’extension future
+vers robinetterie complète. Utiliser les déclinaisons couleur (noir, doré, chrome) comme filtres de navigation,
+pas comme catégories. Prévoir une notice d’installation en français (PDF téléchargeable ou intégré à la fiche
+produit).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  3  —
+« Ferme pas la porte mais pas trop large pour commencer. Positionne-toi sur un mot-clé, va à fond
+dessus, et laisse-toi une porte ouverte. »
+— Coach Kraken
+► Flo — Première recherche de niches
+Flo, nouveau membre, a présenté une première sélection de niches. Le coach a immédiatement posé les red
+flags logistiques sur le mobilier (fauteuil, tabouret) et demandé d’approfondir valise, poubelle et miroir.
+Niche
+Verdict
+Commentaire clé
+Fauteuil
+Écarté (sourcing
+Asie)
+Volume/poids trop élevés. OK uniquement avec fournisseur Europe.
+Tabouret
+Écarté (sourcing
+Asie)
+Même constat que fauteuil. Sourcing Europe uniquement.
+Valise
+À creuser
+Panier moyen élevé, sourcing OK. Vérifier prix d’expédition et compétitivité
+prix.
+Poubelle
+Niche trop réduite ?
+Risque de manque de catégories. À vérifier.
+Miroir
+À creuser
+Bon potentiel mais recherche trop filtrée (KD 25). Fragile. Concurrence
+Maison du Monde.
+Erreur méthodologique identifiée : Flo avait appliqué un filtre keyword difficulty à 25 qui excluait des
+mots-clés à 9 000-12 000 de volume (miroir rond, miroir mural). Le coach insiste : ratisser large d’abord, affiner
+ensuite. Faire le ratio de rentabilité pour chaque niche avant de trancher.
+« Ne mets pas de filtre, laisse l’intégralité. Même à un point près de difficulté, tu passes à côté d’un
+mot-clé énorme. »
+— Coach Kraken
+► Charlotte — Lancement niche survivalisme
+Charlotte lance un site survivaliste en s’appuyant sur le contexte géopolitique actuel. Arborescence terminée,
+collections créées sur Shopify, scraping concurrence en cours, sourcing AliExpress entamé. CPC et volumes de
+recherche vérifiés en amont.
+Conseil du coach : se positionner avec un design « français » très qualitatif pour se différencier des
+concurrents qui vendent du gadget bas de gamme. Éviter les produits dont la qualité est critique (ex : paille
+filtrante). Privilégier couverture de survie, sac à dos, gourde, panneau solaire portable. Utiliser un agent (type
+AutoDS) pour le branding d’expédition (sac en toile personnalisé, packaging survivaliste) sans délai
+supplémentaire.
+« Les sites des concurrents, c’est vraiment catastrophique. Prends le boulevard. Fais un design de
+fou, une valeur perçue haut de gamme, et un design hyper français. »
+— Coach Kraken
+► Anthony — Projet matcha & recherche de niche
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  4  —
+Anthony (39 ans) se présente. Expérience précédente en e-commerce matcha (packaging, fournisseur et
+stock existants). Marché très concurrentiel avec peu de mots-clés SEO. Le coach note que le matcha ne rentre
+pas dans la méthode Kraken classique (quasi-monoproduit, pas d’architecture large). Possibilité de
+box/abonnement mais le kit seul serait trop réducteur sans le thé lui-même.
+Consigne : préparer un document avec prix fournisseur, calcul de marge (incluant coût logisticien), étude de
+marché. En parallèle, continuer la recherche de niche méthode Kraken (ceinture en cuir déjà identifiée comme
+piste intéressante). Hot seat prévu semaine prochaine.
+« Calcule que même en déléguant et en prenant un logisticien, ta marge reste suffisante. Sinon ce
+serait trop réducteur. »
+— Coach Kraken
+► Nicolas — Reconstruction de boutique
+Nicolas recommence une boutique de zéro après un GMC brulé. Import de produits en cours (images, prix,
+métas à refaire manuellement pour 200+ produits). La moitié est faite. Le coach insiste : ne pas se retaper les
+250 produits avant la validation GMC. Soumettre un site propre mais minimaliste d’abord, compléter ensuite.
+Point vacances : Nicolas part bientôt en Thaïlande. Décision : lancer la boutique après le retour. Si lancée
+avant, trouver quelqu’un pour gérer (le coach propose de s’en occuper). Règle absolue : ne jamais arrêter une
+boutique une fois lancée.
+« Tire des leçons de ton expérience. Étant donné que tu es un peu le chat noir de la bande,
+préserve-toi. »
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Calculer le ratio de rentabilité et les prix pour sac à main et ceinture.
+⚡ Hiérarchiser les mots-clés par matière, couleur, style pour entrevoir l’architecture.
+⚡ Identifier les mots-clés manquants via IA (grappes sémantiques) et concurrents.
+SECONDAIRE
+○ Refaire la recherche papier peint en excluant/limitant l’informationnel.
+○ Choisir entre ceinture et sac à main au feeling une fois les données complètes.
+○ Envoyer les résultats sur WhatsApp avant la prochaine session.
+  ⚓  David
+PRIORITAIRE
+⚡ Finaliser l’architecture mitigeur : catégories, filtres (couleur, finition, style).
+⚡ Enrichir le silo sémantique : mots-clés moyenne et longue traîne.
+⚡ Choisir un nom de domaine suffisamment large (pas mitigeur.fr).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  5  —
+SECONDAIRE
+○ Aller voir les concurrents pour s’inspirer des architectures.
+○ Prévoir notice d’installation française (PDF créé via IA).
+○ Explorer le potentiel B2B en développement secondaire.
+  ⚓  Flo
+PRIORITAIRE
+⚡ Refaire la recherche mots-clés SANS filtre keyword difficulty pour valise, miroir et poubelle.
+⚡ Calculer le ratio de rentabilité (prix moyen / CPC) pour chaque niche retenue.
+⚡ Vérifier le sourcing et les prix d’expédition sur chaque niche (surtout valise).
+SECONDAIRE
+○ Explorer les dropshippers européens pour fauteuil/tabouret (si intérêt maintenu).
+○ Classifier les recherches par thème : matière, taille, style, usage.
+○ Présenter les résultats pour mardi (session Théo).
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Terminer le sourcing AliExpress avec sélection qualité (pas de gadget).
+⚡ Travailler le design du site : positionnement français, valeur perçue haute.
+⚡ Sortir le site rapidement (pas 2-3 mois).
+SECONDAIRE
+○ Prévoir packaging survivaliste via agent (sac en toile brandé).
+○ Partager le site dès qu’il est prêt pour feedback communauté.
+  ⚓  Anthony
+PRIORITAIRE
+⚡ Préparer le dossier matcha : prix fournisseur, calcul marge (avec logisticien), étude de marché.
+⚡ Préparer le fichier Excel de recherche de niche méthode Kraken pour le hot seat du 12 mars.
+SECONDAIRE
+○ Acheter une webcam pour la prochaine session.
+○ Explorer la piste ceinture en cuir (déjà identifiée).
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Continuer l’import produits et les métas (alts images, titres).
+⚡ Ne PAS soumettre le GMC avant que le site soit carré.
+⚡ Ne PAS se taper 250 produits avant la validation GMC.
+SECONDAIRE
+○ Planifier le lancement après le retour de Thaïlande.
+○ Si lancement avant : déléguer la gestion (coach disponible).
+  ⚓  Omar
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  6  —
+PRIORITAIRE
+⚡ Trouver une nouvelle niche (serviettes et peignoirs écartés).
+⚡ Utiliser Mangools en complément de Google Trends pour vérifier la saisonnalité.
+SECONDAIRE
+○ Partager les avancements avec le coach sans attendre la session.
+○ Tester systématiquement les mots-clés avant de s’engager.
+  ⚓  Elodie
+PRIORITAIRE
+⚡ Remapper les 2 produits en erreur 404 (recherche par image, nouveau fournisseur).
+⚡ Reprendre le site WordPress d’Alexis avec un hébergement minimum.
+SECONDAIRE
+○ Augmenter le forfait hébergeur quand le trafic le justifiera.
+  ⚓  Justin
+PRIORITAIRE
+⚡ Envoyer les URL des sites à la coach ce soir pour audit.
+⚡ Contacter Quentin (spécialiste recettage) pour faire vérifier les sites avant ressoumission GMC.
+SECONDAIRE
+○ Partager les URL avec la communauté pour avis collectif.
+○ Préparer 3 sites à soumettre en mars.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Ratio de rentabilité = prix moyen shopping / CPC. Seuil minimum : > 100.
+⚡ Recherche niche : ratisser large d’abord, affiner ensuite. Ne pas filtrer trop tôt.
+SECONDAIRE
+○ Utiliser l’IA pour générer des grappes sémantiques et découvrir des mots-clés oubliés.
+○ Aller voir les architectures des concurrents avant de figer la sienne.
+○ Avant de soumettre un GMC : recettage complet (checklist Quentin).
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Mitigeur (volume total)
+717 000
+Niche validée pour David
+Robinet (volume total)
+1 017 000
+Extension future possible
+Mitigeur lavabo (volume)
+6 600
+Sous-catégorie solide
+Mitigeur salle de bain (volume)
+4 400
+Sous-catégorie solide
+Papier peint — panier moyen
+~300 €
+Estimation Théo (2-3 rouleaux)
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/03/2026
+—  7  —
+Indicateur
+Valeur
+Contexte
+Papier peint — livraison
+15-20 jours
+Fournisseur AliExpress, frais inclus
+Miroir rond (volume)
+9 900
+Exclu par filtre KD 25 de Flo
+Miroir mural (volume)
+12 000
+Exclu par filtre KD 25 de Flo
+Déguisement — prix vente
+14-39 €
+RR trop faibles pour la pub
+Ratio de rentabilité seuil
+> 100
+Prix moyen shopping / CPC
+Produits Nicolas (à refaire)
+200+
+Moitié terminée
+Seuil volume catégorie
+800 min.
+En dessous : pas de catégorie, mais utile en éditorial
+Nombre de participants
+11
+Session la plus fournie
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

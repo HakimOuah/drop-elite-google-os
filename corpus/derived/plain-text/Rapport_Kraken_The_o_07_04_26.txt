@@ -1,0 +1,246 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  1  —
+RAPPORT DE SESSION
+7 avril 2026 • Durée : 2h00 • Coach : Théo
+Participants : Pierre, Emeric, Mika, Singrid, Aude
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Pierre — N8N vs Claude Code : coût API, workflow et intégration
+produit
+▶ 00:08 Emeric — Structure de projet Claude Code : claude.md, agent.md,
+queue.md
+▶ 00:14 Mika — Documentation de projets : partage d’un template structuré
+▶ 00:20 Emeric — Nanocorp et agents autonomes : démo et retour d’expérience
+▶ 01:04 Discussion collective — Focus vs dispersion : le piège de l’IA
+▶ 01:14 Aude — Débuter avec Claude : premiers pas et conseils pratiques
+▶ 01:28 Singrid — Automatiser la recherche de prix AliExpress via RapidAPI
+▶ 01:42 Discussion — OpenClaw vs Claude Code : autonomie, sécurité, modèles
+⚔ DÉTAIL DES ÉCHANGES
+► Pierre — N8N vs Claude Code pour l’intégration produit
+Contexte : Pierre utilise déjà un workflow N8N fonctionnel pour l’intégration produit de A à Z. La question était
+de savoir s’il y avait un intérêt à migrer vers Claude Code.
+Verdict du coach : vu que le workflow N8N de Pierre fonctionne sans erreur, il n’y a pas d’intérêt majeur à tout
+refaire dans Claude Code. En revanche, Claude Code est pertinent pour les modifications ponctuelles
+(corrections en masse, changement d’appellation sur 200 produits, etc.) là où N8N nécessiterait un nouveau
+workflow.
+Approche recommandée : utiliser N8N pour la création en série (80 % des cas stables) et Claude Code pour
+les modifications ad hoc. Tester en parallèle le même produit via N8N et via Claude Code pour comparer la
+qualité du résultat.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  2  —
+Coût : N8N consomme des crédits API (Google, etc.). Claude Code utilise l’abonnement Claude directement →
+0 € de coût supplémentaire pour les tests.
+« N8N ça foirait jamais. Quand ton truc est bon, ça foire jamais. L’avantage de Claude Code c’est
+pour les modifications : tu lui dis tous les produits qui contiennent tel terme, modifie-le partout, il le
+fait. »
+— Coach Kraken
+► Emeric — Structure de projet Claude Code
+Découverte clé : Emeric a présenté une architecture de projet Claude Code en trois fichiers fondateurs :
+claude.md (contexte projet, lu automatiquement à chaque session), agent.md (instructions détaillées, accès,
+sous-agents) et queue.md (todo list de tâches à accomplir).
+Principe : à chaque lancement de Claude Code, le fichier claude.md est lu en premier. Il oriente ensuite Claude
+vers les bons fichiers (agent, skills, memory) selon la demande. Emeric a montré qu’à partir de ces 3 fichiers,
+Claude Code a créé automatiquement toute une arborescence de skills, de prompts et de templates.
+Fichier
+Rôle
+Commentaire
+claude.md
+Contexte projet
+Lu automatiquement. Doit rester synthétique.
+agent.md
+Instructions
+détaillées
+Accès API, règles, sous-agents.
+queue.md
+Todo list
+Tâches à accomplir, mises à jour auto.
+log.md
+Journal de session
+Historique des actions réalisées.
+memory.md
+Mémoire persistante
+Équivalent du fichier Memory de Théo.
+Conseil du coach : mettre à jour le fichier claude.md en fin de chaque session pour que la suivante reparte
+d’un état structuré. Cette structure remplace avantageusement la recherche de conversations passées.
+« La structure à mon avis est trop importante. Ça ajoute de la logique pour nous aussi, dans notre
+façon de penser nos projets. »
+— Coach Théo
+► Emeric — Nanocorp : agents autonomes
+Nanocorp est une plateforme (beta) qui crée un business de manière autonome : landing page, Stripe,
+emailing, prospection automatique. Modèle économique : 20 % de commission sur les revenus générés.
+Financé par Y Combinator, projet français basé aux USA.
+Retour d’Emeric : testé en une soirée. L’outil a créé automatiquement une landing page, un lien Stripe, un
+scoring d’audit Google Business et des templates d’email. Résultat intéressant pour tester une idée, mais pas
+encore prêt pour un vrai business. Crédits gratuits limités, certaines fonctions manquantes (Google Ads pas
+encore dispo).
+Inspiration : Emeric a reproduit le principe dans Claude Code en créant manuellement les fichiers claude.md /
+agent.md / queue.md, puis en laissant Claude générer le reste. Le résultat était comparable en qualité et plus
+contrôlable.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  3  —
+« On est un petit peu au début de ce système agentique. Plus ça va aller, plus ils vont faciliter les
+choses. »
+— Emeric
+► Mika — Template de documentation de projets
+Mika a partagé un document de référence pour structurer la documentation de projets Claude Code. Ce
+template crée automatiquement une architecture complète (configuration, développement, déploiement, guides)
+avec un fichier start.md qui oriente Claude vers la bonne catégorie selon le besoin.
+Intérêt : chaque process est répertorié, ce qui évite que Claude touche au hasard à des éléments sensibles.
+Particulièrement utile pour les projets complexes (applications, SaaS) et pour retrouver l’information plusieurs
+mois après.
+► Singrid — Automatiser la recherche de prix AliExpress
+Problème : Singrid doit remplir un tableau de marges ROAS/ROSBE pour toute sa boutique (+150 produits).
+Elle effectue manuellement la recherche de prix d’achat via recherche par image sur AliExpress, ce qui prend
+plusieurs jours.
+Solution proposée par le coach : utiliser RapidAPI AliExpress (8 €/mois, 300 requêtes/jour) connectée à
+Claude Code. Process : exporter le CSV Shopify → Claude récupère l’image du produit → recherche par image
+via RapidAPI → analyse des 3-5 premiers résultats (prix, note, disponibilité) → ajout du prix + lien AliExpress
+dans le CSV.
+Important : tester produit par produit avant de lancer en boucle. Toujours vérifier manuellement les résultats.
+« À partir du moment où c’est répétitif et c’est quasiment la même chose, ça peut s’automatiser. Et il
+y a vraiment pas de valeur ajoutée que tu le fasses à la main. »
+— Coach Kraken
+► Aude — Premiers pas avec Claude
+Aude débute dans la formation et n’a pas encore utilisé Claude. Le coach recommande de commencer par la
+version gratuite, de créer un projet dédié dans Claude et d’y expliquer son activité (e-commerce,
+dropshipping, niche choisie). Ainsi, chaque future conversation bénéficiera du contexte.
+L’outil Beautica (pour faire porter des vêtements à des mannequins virtuels) a été mentionné, recommandé par
+une autre élève. Mika propose également un outil similaire avec quelques crédits gratuits pour tester.
+« Utilise Claude et crée un projet. Le premier truc, c’est lui expliquer ce que tu fais. Même en audio,
+tu en as pour 2 minutes. Comme ça, tout ce qui va suivre, il comprendra. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  4  —
+⚙ MASTERCLASS — FOCUS, STRUCTURE & OUTILS IA
+► OpenClaw vs Claude Code
+Le coach a comparé les deux approches. OpenClaw (racheté par OpenAI) offre plus d’autonomie agentique
+mais pose des problèmes de sécurité et ne permet plus de connecter Claude (ban confirmé par Anthropic).
+Nvidia Nemo Claw est une alternative plus sécurisée, gratuite. Claude Code reste supérieur en intelligence
+brute mais moins autonome pour l’instant.
+Outil
+Avantage
+Limite
+Claude Code
+Intelligence
+supérieure
+Moins autonome, sécurisé
+OpenClaw
+Plus autonome
+Claude interdit, sécurité fragile
+Nanocorp
+100 % autonome
+Beta, 20 % commission, limité
+Nemo Claw (Nvidia)
+Sécurisé, gratuit
+Alternative OpenClaw
+► Le piège de la dispersion avec l’IA
+Discussion collective sur un problème partagé par tous : l’IA permet de faire tellement de choses qu’elle pousse
+à tester au lieu de produire. Le coach insiste : le mot clé est FOCUS. Si le site n’est pas lancé ou ne tourne
+pas bien, toute l’énergie doit aller sur le site. Les tests, aussi séduisants soient-ils, ne remplacent pas
+l’exécution.
+« Focus. C’est vraiment le mot. Il y a plein de trucs qui sortent, il y a plein de trucs à tester, mais
+faites déjà votre site, développez-le. »
+— Coach Kraken
+► Idées de vidéos formation IA
+Le coach a sollicité les idées pour les prochaines vidéos de la formation. Suggestions retenues :
+automatisation du SAV (connexion Claude + Gmail, chatbot, réponses automatisées), recherche de niche
+assistée par IA (complexe, pas de solution miracle), design avec Stitch (grosse mise à jour récente, à
+retester).
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Tester le même produit via N8N et via Claude Code : comparer qualité et coût.
+⚡ Finaliser les skills Claude Code : N8N, design, intégration produit.
+⚡ Structurer ses projets avec fichiers claude.md / memory.md dans chaque dossier.
+SECONDAIRE
+○ Explorer la vidéo intégration produit de Théo pour adapter le workflow.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  5  —
+○ Ne pas disperser l’énergie : le workflow N8N existant fonctionne, le garder pour la création en série.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Lancer le site e-commerce : priorité absolue avant tout nouveau test.
+⚡ Améliorer les skills d’intégration produit existants en s’appuyant sur les leçons de la structure
+projet.
+⚡ Documenter la structure claude.md / agent.md / queue.md pour la partager au groupe.
+SECONDAIRE
+○ Tester Nanocorp seulement en mode veille (pas de crédits supplémentaires).
+○ Garder l’exploration des agents multi-fichiers pour après le lancement du site.
+  ⚓  Singrid
+PRIORITAIRE
+⚡ S’inscrire sur RapidAPI AliExpress (8 €/mois) et tester la recherche par image sur 5 produits.
+⚡ Créer le workflow Claude Code : CSV Shopify → image → RapidAPI → prix + lien dans le tableau.
+⚡ Finaliser le tableau de marges ROAS/ROSBE demandé par Stéphanie.
+SECONDAIRE
+○ Vérifier manuellement les résultats de l’automatisation avant de généraliser.
+○ Explorer Nvidia Nemo Claw si intérêt pour des tâches plus autonomes.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Créer un compte Claude (version gratuite) et un projet dédié e-commerce.
+⚡ Expliquer à Claude son contexte (formation, niche choisie, objectifs) dans le premier message.
+⚡ Créer la boutique Shopify : première étape concrète du projet.
+SECONDAIRE
+○ Tester Beautica et l’outil de Mika pour les visuels de mannequins.
+○ Continuer à suivre les sessions même si le niveau technique semble élevé.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ FOCUS : si le site n’est pas lancé, toute l’énergie doit aller sur le lancement.
+⚡ Structurer ses projets Claude Code avec fichiers dédiés (claude.md, memory, skills).
+SECONDAIRE
+○ Regarder la vidéo intégration produit de Théo dès sa publication.
+○ Ne pas tester tous les outils qui sortent : identifier un besoin, puis chercher l’outil.
+○ Partager ses découvertes sur le groupe WhatsApp pour en faire profiter les autres.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  07/04/2026
+—  6  —
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Abonnement Claude Pro
+17 €/mois
+Recommandé si usage intensif
+RapidAPI AliExpress
+8 €/mois
+300 requêtes/jour, recherche par image
+Commission Nanocorp
+20 %
+Sur les revenus générés par l’agent
+N8N vs Claude Code (coût API)
+0 € suppl.
+Claude Code utilise l’abonnement
+Produits boutique Singrid
++150
+Tableau de marges à compléter
+Durée Claude Code (Emeric)
+≈ 10 min
+Création auto de toute la structure
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

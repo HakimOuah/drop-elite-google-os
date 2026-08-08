@@ -1,0 +1,8417 @@
+WEBVTT
+
+1
+00:00:00.060 --> 00:00:01.660
+Relier le produit à chaque bloc image.
+
+2
+00:00:02.920 --> 00:00:04.300
+Et ça marche super bien.
+
+3
+00:00:06.140 --> 00:00:10.080
+En plus, il y a des skills, donc ça permet que Claude respecte
+
+4
+00:00:10.120 --> 00:00:11.460
+beaucoup mieux le truc.
+
+5
+00:00:15.480 --> 00:00:18.220
+Yes. Mais comment ça, relier le produit au...
+
+6
+00:00:19.000 --> 00:00:19.680
+Link record.
+
+7
+00:00:20.650 --> 00:00:24.040
+Pour savoir quelle ligne appartient à quel record.
+
+8
+00:00:24.580 --> 00:00:24.880
+D'accord.
+
+9
+00:00:30.120 --> 00:00:30.840
+Ça, c'est super.
+
+10
+00:00:33.160 --> 00:00:34.640
+Il n'y a pas de limite de call API.
+
+11
+00:00:38.100 --> 00:00:39.520
+C'est lourd ou pas en termes de ressources
+
+12
+00:00:40.600 --> 00:00:40.600
+?
+
+13
+00:00:41.880 --> 00:00:45.500
+Je ne suis pas retourné dessus.
+
+14
+00:00:46.120 --> 00:00:49.780
+Mais en tout cas, ça charge beaucoup plus rapidement que
+
+15
+00:00:52.440 --> 00:00:53.720
+AirTable. Ça lag.
+
+16
+00:00:54.580 --> 00:00:55.720
+J'avais poussé un peu le truc.
+
+17
+00:00:56.580 --> 00:00:56.820
+Waouh
+
+18
+00:00:58.040 --> 00:00:58.040
+!
+
+19
+00:00:58.360 --> 00:01:00.620
+J'imagine que c'est en fonction de ton VPS, non ?
+
+20
+00:01:01.540 --> 00:01:05.041
+Oui, c'est ça. J'ai le Hostinger, le KVM 2, la deuxième offre.
+
+21
+00:01:05.680 --> 00:01:06.320
+Oui, petit bal.
+
+22
+00:01:08.360 --> 00:01:09.120
+En gros, c'est assez rapide.
+
+23
+00:01:10.320 --> 00:01:13.280
+Je suis en train de me connecter, je vais te dire combien ça me bouffe de
+
+24
+00:01:13.300 --> 00:01:13.780
+processeur.
+
+25
+00:01:14.840 --> 00:01:15.500
+Tu n'as que ça dessus
+
+26
+00:01:16.800 --> 00:01:16.800
+?
+
+27
+00:01:16.820 --> 00:01:17.560
+Hein ?
+
+28
+00:01:17.580 --> 00:01:17.900
+Tu n'as que
+
+29
+00:01:19.680 --> 00:01:20.580
+Nod DB dessus
+
+30
+00:01:22.140 --> 00:01:22.140
+?
+
+31
+00:01:22.440 --> 00:01:24.860
+En bout, j'ai N8n et Nod DB.
+
+32
+00:01:25.320 --> 00:01:25.500
+Ok.
+
+33
+00:01:26.480 --> 00:01:27.920
+Je vais te dire combien ça me bouffe.
+
+34
+00:01:39.720 --> 00:01:42.500
+Je me demande si ça tournerait sur un Raspberry Pi.
+
+35
+00:01:43.480 --> 00:01:46.480
+J'imagine que oui, mais est-ce que ça tournerait bien ou pas
+
+36
+00:01:48.040 --> 00:01:48.040
+?
+
+37
+00:01:48.240 --> 00:01:49.240
+Je t'avoue, je ne sais pas.
+
+38
+00:01:50.080 --> 00:01:51.540
+Je ne sais pas c'est quoi la config minimum.
+
+39
+00:01:52.080 --> 00:01:53.560
+Je ne pense pas qu'il y a de la puissance pro ou quoi.
+
+40
+00:01:53.780 --> 00:01:57.080
+Oui, j'ai essayé de regarder sur leur truc, mais ils ne parlent pas vraiment de ça.
+
+41
+00:01:57.100 --> 00:01:57.539
+Salut Mike.
+
+42
+00:01:58.300 --> 00:02:01.720
+En self host, ils ont une super doc, par contre, bien
+
+43
+00:02:02.200 --> 00:02:02.600
+détaillée.
+
+44
+00:02:06.380 --> 00:02:07.820
+Salut Charlotte, salut Emmanuel.
+
+45
+00:02:11.360 --> 00:02:14.680
+Ce qu'ils mettent dans les...
+
+46
+00:02:17.480 --> 00:02:21.260
+1 % d'utilisation CPU et 24 % de mémoire RAM.
+
+47
+00:02:22.820 --> 00:02:23.820
+Ça ne bouge pas trop.
+
+48
+00:02:25.180 --> 00:02:27.420
+24 % de RAM, mais tu as combien de RAM ?
+
+49
+00:02:27.560 --> 00:02:29.860
+Ça me prend utilisation 2 gigas de RAM.
+
+50
+00:02:31.960 --> 00:02:32.030
+Ok.
+
+51
+00:02:32.940 --> 00:02:34.920
+Ça devrait tourner tranquille sur un Raspberry Pi.
+
+52
+00:02:36.700 --> 00:02:38.760
+Oui, c'est ça. Je ne pense pas que ce soit de la puissance
+
+53
+00:02:40.340 --> 00:02:40.880
+CPU.
+
+54
+00:02:41.700 --> 00:02:45.620
+Après, je pense que c'est peut-être quand tu as plein de lignes, peut-être que ça
+
+55
+00:02:45.640 --> 00:02:46.900
+va changer.
+
+56
+00:02:47.340 --> 00:02:48.020
+Oui,
+
+57
+00:02:49.340 --> 00:02:50.400
+parce qu'au final, c'est de l'écriture.
+
+58
+00:02:50.620 --> 00:02:54.580
+Tu me diras, tu prends le dernier, le Raspberry Pi 5.
+
+59
+00:02:55.980 --> 00:02:56.340
+Oui.
+
+60
+00:02:57.680 --> 00:02:58.440
+Il a de super specs.
+
+61
+00:02:59.280 --> 00:02:59.460
+Oui.
+
+62
+00:03:00.060 --> 00:03:02.000
+Maintenant, ça coûte cher un Raspberry, plus de 100 balles.
+
+63
+00:03:03.180 --> 00:03:03.380
+Ah bon
+
+64
+00:03:04.780 --> 00:03:04.780
+?
+
+65
+00:03:04.920 --> 00:03:05.760
+Ça augmente à chaque fois.
+
+66
+00:03:06.660 --> 00:03:10.180
+Les
+
+67
+00:03:10.600 --> 00:03:12.800
+anciens, ça coûtait moins de 50.
+
+68
+00:03:13.820 --> 00:03:15.400
+Déjà le 4 coûtait plus de 50.
+
+69
+00:03:17.140 --> 00:03:18.820
+Oui, par contre, 1 giga.
+
+70
+00:03:29.960 --> 00:03:31.380
+P****n la vache
+
+71
+00:03:32.360 --> 00:03:32.360
+!
+
+72
+00:03:35.440 --> 00:03:37.160
+Est-ce que ce n'est pas parce que la RAM a pris...
+
+73
+00:03:38.940 --> 00:03:39.380
+Je ne sais pas.
+
+74
+00:03:40.180 --> 00:03:43.660
+Parce que 1 giga... Ça ne se met même pas à jour leur truc.
+
+75
+00:03:48.360 --> 00:03:53.240
+C'est
+
+76
+00:03:53.280 --> 00:03:55.850
+cassé. Alors 1 giga, 50 balles,
+
+77
+00:03:56.800 --> 00:04:00.240
+2 gigas 75, 4 gigas
+
+78
+00:04:00.740 --> 00:04:01.100
+130,
+
+79
+00:04:02.880 --> 00:04:04.120
+8 gigas 200.
+
+80
+00:04:04.960 --> 00:04:07.140
+J'ai l'impression que c'est la RAM qui bouffe tout le prix.
+
+81
+00:04:09.160 --> 00:04:11.740
+Est-ce que tu vois toi-même ça sur un Raspberry ?
+
+82
+00:04:13.740 --> 00:04:14.460
+Je ne sais pas.
+
+83
+00:04:14.500 --> 00:04:19.380
+Ça
+
+84
+00:04:19.459 --> 00:04:22.420
+dépend de l'utilisation derrière, après que tu as.
+
+85
+00:04:24.100 --> 00:04:26.960
+Pour ton cas, vu que tu as déjà le VPS, ça ne sert à rien.
+
+86
+00:04:27.020 --> 00:04:29.719
+Mais après, tu peux.
+
+87
+00:04:31.260 --> 00:04:34.360
+Il faudrait voir combien bouffe
+
+88
+00:04:36.780 --> 00:04:40.540
+N8n aussi. J'aime bien avoir le truc
+
+89
+00:04:40.720 --> 00:04:41.480
+chez moi qui tourne,
+
+90
+00:04:42.580 --> 00:04:46.380
+que je gère moi-même. Ça coûte moins cher, oui et non, ça
+
+91
+00:04:46.420 --> 00:04:49.950
+dépend sur le long terme, mais j'aime bien avoir l'appareil que je peux
+
+92
+00:04:50.360 --> 00:04:51.900
+custom après.
+
+93
+00:04:52.660 --> 00:04:56.380
+Ça ne consomme rien, même N8n. Je n'ai pas 50 workflows qui tournent en
+
+94
+00:04:56.420 --> 00:04:56.900
+arrière-plan.
+
+95
+00:04:56.910 --> 00:05:00.979
+Non,
+
+96
+00:05:01.020 --> 00:05:01.740
+ça ne consomme rien.
+
+97
+00:05:02.420 --> 00:05:02.940
+J'en ai plein.
+
+98
+00:05:03.340 --> 00:05:06.920
+J'aurais dû prendre le premier plan même. Un cœur CPU, 4 gigas de RAM.
+
+99
+00:05:07.040 --> 00:05:08.580
+Moi, j'ai deux cœurs CPU, 8 gigas de RAM.
+
+100
+00:05:14.120 --> 00:05:17.280
+Il ne donne pas les stats du CPU, non ? Sur ton VPS.
+
+101
+00:05:18.560 --> 00:05:21.000
+Les stats ? Pourcentage d'utilisation ou le nom ?
+
+102
+00:05:21.080 --> 00:05:21.300
+Non,
+
+103
+00:05:22.980 --> 00:05:24.520
+sa puissance, le CPU.
+
+104
+00:05:25.100 --> 00:05:26.090
+Je ne sais plus combien de gigahertz.
+
+105
+00:05:26.120 --> 00:05:29.680
+C'est des AMD Ryzen qu'ils utilisent, Hostinger, mais je ne crois pas qu'ils
+
+106
+00:05:29.720 --> 00:05:31.220
+donnent le modèle.
+
+107
+00:05:31.820 --> 00:05:35.740
+Parce que là, sur le 5, c'est 2,4 gigahertz.
+
+108
+00:05:39.860 --> 00:05:42.280
+Je n'arrive pas à me rendre compte si c'est costaud ou pas.
+
+109
+00:05:59.680 --> 00:06:00.360
+Je ne sais pas. Je pense
+
+110
+00:06:01.160 --> 00:06:02.900
+que ça peut le faire, spec.
+
+111
+00:06:09.164 --> 00:06:11.344
+Oui, puis ça ne doit rien consommer un Raspberry, je pense.
+
+112
+00:06:12.904 --> 00:06:15.324
+Surtout que c'est Distro Linux.
+
+113
+00:06:23.784 --> 00:06:26.423
+Minimum 4 Go de RAM, ça pourrait le faire.
+
+114
+00:06:33.004 --> 00:06:33.704
+C'est un quatre cœurs.
+
+115
+00:06:36.564 --> 00:06:36.974
+Sur ?
+
+116
+00:06:39.724 --> 00:06:40.444
+Broadcom
+
+117
+00:06:41.763 --> 00:06:42.544
+2.4 GHz.
+
+118
+00:06:44.864 --> 00:06:45.244
+IRM.
+
+119
+00:06:46.784 --> 00:06:48.563
+Je voulais voir comment s'appelle Hostinger.
+
+120
+00:06:48.604 --> 00:06:49.744
+Hostinger, ils ne mettent pas les données
+
+121
+00:06:50.584 --> 00:06:51.924
+du CPU.
+
+122
+00:06:53.944 --> 00:06:54.924
+Je ne crois pas, non.
+
+123
+00:06:55.944 --> 00:06:57.704
+En tout cas, ils parlent de deux cœurs
+
+124
+00:07:01.224 --> 00:07:03.104
+pour le KVM2.
+
+125
+00:07:06.324 --> 00:07:09.383
+Mais il n'y a pas de données. J'imagine qu'il faut fouiller pour les trouver.
+
+126
+00:07:14.914 --> 00:07:18.014
+CPU, quelles sont les limites ? Paramètres.
+
+127
+00:07:18.164 --> 00:07:19.744
+Ils ne parlent pas vraiment des détails.
+
+128
+00:07:21.404 --> 00:07:24.484
+Ça, c'est le grand tabou de tout ce qui est hébergeur.
+
+129
+00:07:27.644 --> 00:07:31.144
+De leak, le CPU utilisé.
+
+130
+00:07:35.604 --> 00:07:37.044
+En tout cas, ça fonctionne super bien.
+
+131
+00:07:37.724 --> 00:07:41.464
+Oui, comme quoi, il n'y a pas besoin de beaucoup de puissance.
+
+132
+00:07:42.824 --> 00:07:43.604
+Pour ce truc-là, non.
+
+133
+00:07:45.284 --> 00:07:49.084
+Par contre, pour tout ce qui est site, je ne mettrai pas sur un VPS Hostinger.
+
+134
+00:07:57.644 --> 00:08:04.644
+AMD
+
+135
+00:08:04.664 --> 00:08:08.544
+EPYC, 9354P, 32 cœurs.
+
+136
+00:08:14.164 --> 00:08:15.904
+Il est possible qu'ils utilisent ça pour les KVM.
+
+137
+00:08:22.844 --> 00:08:24.044
+Après, ce sont des gros trucs serveur.
+
+138
+00:08:28.484 --> 00:08:29.404
+AMD EPYC.
+
+139
+00:08:34.365 --> 00:08:35.225
+3.25 GHz.
+
+140
+00:08:37.144 --> 00:08:37.904
+OK.
+
+141
+00:09:05.064 --> 00:09:07.804
+Sinon, s'il y a quelqu'un qui veut passer, vous me dites.
+
+142
+00:09:09.504 --> 00:09:13.284
+J'ai pas encore d'autre site. Donc si quelqu'un
+
+143
+00:09:13.344 --> 00:09:13.504
+veut
+
+144
+00:09:15.004 --> 00:09:18.444
+montrer des trucs, poser des questions, n'hésitez pas.
+
+145
+00:09:23.904 --> 00:09:24.204
+Pour
+
+146
+00:09:27.764 --> 00:09:31.644
+ceux qui sont arrivés un peu après, Pierre parlait
+
+147
+00:09:32.584 --> 00:09:33.284
+qu'il avait changé
+
+148
+00:09:36.544 --> 00:09:40.384
+Airtable pour NoCodeDB qui se met
+
+149
+00:09:40.424 --> 00:09:41.264
+sur un VPS.
+
+150
+00:09:43.584 --> 00:09:44.964
+Il y a une grosse version gratuite.
+
+151
+00:09:47.304 --> 00:09:48.244
+Je le dis au cas où.
+
+152
+00:09:50.384 --> 00:09:51.524
+Ça ne doit pas intéresser tout le monde.
+
+153
+00:09:52.444 --> 00:09:53.764
+C'est quoi l'usage du coup, Airtable
+
+154
+00:09:55.184 --> 00:09:55.184
+?
+
+155
+00:09:55.444 --> 00:09:57.524
+Là, je laisse Pierre expliquer ce qu'il fait avec.
+
+156
+00:09:58.644 --> 00:10:02.184
+C'est un tableur dynamique. Moi, je l'utilise pour l'intégration produit
+
+157
+00:10:02.584 --> 00:10:05.884
+ou en gros, une ligne, un produit. C'est comme un
+
+158
+00:10:06.364 --> 00:10:10.144
+Google Sheet ou un Excel. L'avantage, c'est que tu peux mettre
+
+159
+00:10:10.184 --> 00:10:11.484
+plusieurs images dans une
+
+160
+00:10:12.364 --> 00:10:12.664
+cellule,
+
+161
+00:10:13.464 --> 00:10:16.964
+dans une colonne, contrairement à Google Sheet où c'est beaucoup plus compliqué à
+
+162
+00:10:16.984 --> 00:10:18.604
+ce niveau-là. Et en plus, tu peux
+
+163
+00:10:20.464 --> 00:10:21.444
+relier différentes
+
+164
+00:10:23.284 --> 00:10:27.244
+feuilles pour différents projets, une pour le SAV, une pour
+
+165
+00:10:29.304 --> 00:10:30.724
+différents trucs.
+
+166
+00:10:30.744 --> 00:10:32.684
+Pour l'intégration.
+
+167
+00:10:34.764 --> 00:10:35.304
+Comment ?
+
+168
+00:10:35.404 --> 00:10:37.424
+C'est sur un Shopify ou un WordPress
+
+169
+00:10:38.464 --> 00:10:38.464
+?
+
+170
+00:10:38.764 --> 00:10:42.524
+WordPress, mais après, tu en fais ce que tu en veux. Peu importe le CMS.
+
+171
+00:10:43.524 --> 00:10:44.484
+C'est à part.
+
+172
+00:10:45.584 --> 00:10:49.224
+Maintenant, avec l'IA,
+
+173
+00:10:49.584 --> 00:10:50.024
+je vois
+
+174
+00:10:51.024 --> 00:10:52.603
+automatiser de l'intégration.
+
+175
+00:10:53.904 --> 00:10:57.444
+Je ne sais pas sur Shopify, mais sur WordPress, tu le fais avec
+
+176
+00:10:59.424 --> 00:11:01.644
+un make et une feuille sheet, enfin un Google Sheet.
+
+177
+00:11:02.164 --> 00:11:05.844
+Oui, ça, c'était la méthode par défaut. Tu peux.
+
+178
+00:11:05.884 --> 00:11:08.004
+Après, si tu le fais avec Google Sheet, c'est pareil.
+
+179
+00:11:08.304 --> 00:11:09.674
+Sauf que là, c'est plus dynamique avec
+
+180
+00:11:10.704 --> 00:11:13.964
+Airtable ou NoCodeDB. Mais en gros, ça te permet d'avoir vraiment
+
+181
+00:11:14.664 --> 00:11:15.684
+toutes les informations
+
+182
+00:11:16.484 --> 00:11:17.204
+de manière dézoomée.
+
+183
+00:11:18.024 --> 00:11:21.264
+Et tu peux après tout envoyer une fois que tu te dis : « OK, c'est bon.
+
+184
+00:11:22.304 --> 00:11:23.984
+» Ligne par ligne, ça envoie tes produits
+
+185
+00:11:24.924 --> 00:11:25.584
+à ton Shopify.
+
+186
+00:11:25.624 --> 00:11:29.184
+OK. Comment tu l'appelles,
+
+187
+00:11:30.124 --> 00:11:30.584
+ton outil ?
+
+188
+00:11:32.544 --> 00:11:33.344
+Le ?
+
+189
+00:11:33.364 --> 00:11:34.804
+Ton outil, ta table.
+
+190
+00:11:35.704 --> 00:11:38.904
+Avant, j'utilisais Airtable. Là, je suis en train d'utiliser
+
+191
+00:11:38.944 --> 00:11:40.384
+NoCodeDB.
+
+192
+00:11:40.564 --> 00:11:44.404
+Le lien dans le chat, si ça t'intéresse.
+
+193
+00:11:45.184 --> 00:11:45.804
+Et Airtable,
+
+194
+00:11:46.784 --> 00:11:49.103
+tu vas le trouver en mettant « Airtable ». Salut Stéphanie.
+
+195
+00:11:50.144 --> 00:11:50.514
+Salut.
+
+196
+00:11:50.904 --> 00:11:52.024
+Airtable.
+
+197
+00:11:56.604 --> 00:11:57.764
+Mais tu utilises Make,
+
+198
+00:11:58.884 --> 00:11:59.444
+Manuel, pour
+
+199
+00:12:00.484 --> 00:12:01.084
+intégrer ?
+
+200
+00:12:01.324 --> 00:12:04.884
+Là, je me mets dessus parce que j'ai fait à la main, mais Make, je pense que je
+
+201
+00:12:04.904 --> 00:12:07.804
+vais rester dessus parce que ça a l'air d'être un
+
+202
+00:12:09.104 --> 00:12:12.732
+outilD'être, pas
+
+203
+00:12:12.772 --> 00:12:14.912
+transdisciplinaire, mais d'être plus complet.
+
+204
+00:12:15.552 --> 00:12:18.411
+Je ne sais pas si tu vois ce que je veux dire.
+
+205
+00:12:19.632 --> 00:12:20.422
+N8N ?
+
+206
+00:12:21.132 --> 00:12:23.412
+Oui, je pense. Après, je peux me tromper.
+
+207
+00:12:24.712 --> 00:12:26.752
+Je pense que Pierre pourrait te faire un bon...
+
+208
+00:12:28.652 --> 00:12:30.692
+Tu l'as déjà utilisé, Make
+
+209
+00:12:32.332 --> 00:12:32.332
+?
+
+210
+00:12:33.012 --> 00:12:36.852
+Ça prend du temps à capter. Je dirais peut-être un bon-
+
+211
+00:12:36.902 --> 00:12:39.432
+Tu le prends pour la première fois Make ?
+
+212
+00:12:39.472 --> 00:12:39.692
+Oui.
+
+213
+00:12:41.992 --> 00:12:43.572
+C'est pour l'intégration produit ?
+
+214
+00:12:43.612 --> 00:12:44.932
+L'intégration produit et même
+
+215
+00:12:46.392 --> 00:12:46.512
+pour
+
+216
+00:12:48.092 --> 00:12:50.192
+tester le site.
+
+217
+00:12:51.972 --> 00:12:55.892
+En termes d'automatisation, tu peux
+
+218
+00:12:56.832 --> 00:12:59.132
+tester, par exemple, ton storytelling avec
+
+219
+00:13:01.012 --> 00:13:04.772
+des bots d'automatisation. Je ne sais pas si tu peux le faire avec
+
+220
+00:13:04.792 --> 00:13:06.192
+d'autres outils d'automatisation.
+
+221
+00:13:06.592 --> 00:13:07.632
+J'ai l'impression que c'est beaucoup plus complet.
+
+222
+00:13:07.672 --> 00:13:11.142
+Tu peux mettre beaucoup de choses dans ta chaîne
+
+223
+00:13:11.172 --> 00:13:12.292
+automatisée.
+
+224
+00:13:12.332 --> 00:13:13.242
+Est-ce que tu utilises Claude
+
+225
+00:13:14.312 --> 00:13:14.312
+?
+
+226
+00:13:14.372 --> 00:13:17.412
+Oui. Je ne maîtrise pas, mais je l'utilise.
+
+227
+00:13:18.312 --> 00:13:19.692
+Est-ce que tu as un VPS
+
+228
+00:13:20.832 --> 00:13:20.832
+?
+
+229
+00:13:20.892 --> 00:13:23.352
+C'est ce que je suis en train de faire, de se remettre sur Hostinger.
+
+230
+00:13:24.712 --> 00:13:25.172
+Je
+
+231
+00:13:26.132 --> 00:13:29.932
+me tâte. Je me suis mis dans dessus parce que j'ai fait une petite
+
+232
+00:13:29.952 --> 00:13:33.352
+landing dessus et j'ai trouvé ça vraiment rapide et propre.
+
+233
+00:13:33.692 --> 00:13:35.052
+Je suis en train de
+
+234
+00:13:36.212 --> 00:13:37.912
+lâcher un peu ChatGPT pour
+
+235
+00:13:38.752 --> 00:13:39.072
+Claude.
+
+236
+00:13:40.352 --> 00:13:43.752
+Franchement, tout ce que je peux te conseiller vraiment, Manuel, si tu
+
+237
+00:13:44.192 --> 00:13:44.692
+commences
+
+238
+00:13:45.652 --> 00:13:46.012
+Make,
+
+239
+00:13:47.232 --> 00:13:50.792
+teste N8N. Parce que moi,
+
+240
+00:13:50.892 --> 00:13:54.592
+c'est Claude qui crée justement ce que je veux faire.
+
+241
+00:13:56.292 --> 00:13:59.892
+Toute la partie création, c'est lui qui s'en occupe, il met les variables au bon
+
+242
+00:13:59.952 --> 00:14:00.192
+endroit.
+
+243
+00:14:01.412 --> 00:14:04.892
+Puis c'est libre. Et s'il y a un truc vraiment complet, il te fait un code
+
+244
+00:14:04.932 --> 00:14:08.492
+JavaScript et il t'écrit tout dedans avec toute la partie
+
+245
+00:14:08.792 --> 00:14:09.592
+conditions, etc.
+
+246
+00:14:11.372 --> 00:14:13.652
+Tu arrives mieux à faire ce que tu as dans ta tête.
+
+247
+00:14:14.812 --> 00:14:15.052
+Ok.
+
+248
+00:14:15.672 --> 00:14:19.352
+Alors que Make, je ne sais même pas si maintenant ça marche Claude plus Make.
+
+249
+00:14:20.032 --> 00:14:23.512
+Et en plus, tu as des limitations avec les crédits API en fonction de la
+
+250
+00:14:23.572 --> 00:14:24.232
+complexité.
+
+251
+00:14:24.952 --> 00:14:27.811
+C'est les crédits, mais je crois que je me casse un peu trop la tête.
+
+252
+00:14:27.852 --> 00:14:30.952
+Mais c'est vrai que j'ai l'impression d'être beaucoup plus libre avec
+
+253
+00:14:31.852 --> 00:14:35.572
+Make et il faudrait que je donne confiance aux nouveaux outils, mais
+
+254
+00:14:36.572 --> 00:14:38.022
+la bascule n'est pas simple. Quand tu
+
+255
+00:14:40.112 --> 00:14:42.632
+as un profil technique, tu as envie de tout faire.
+
+256
+00:14:43.752 --> 00:14:47.072
+Un profil technique, tu vas aimer d'autant plus N8N.
+
+257
+00:14:48.732 --> 00:14:49.132
+Ok.
+
+258
+00:14:51.372 --> 00:14:54.072
+Ça fait un peu peur N8N, mais c'est plus complet.
+
+259
+00:14:55.012 --> 00:14:55.812
+C'est plus complet, ok.
+
+260
+00:14:57.492 --> 00:14:58.492
+Ça fait tellement moins de bugs.
+
+261
+00:14:59.692 --> 00:15:02.532
+Tu connectes le MCP à Claude,
+
+262
+00:15:03.132 --> 00:15:03.892
+puis
+
+263
+00:15:05.072 --> 00:15:08.172
+tu lui envoies l'erreur, si tu as une erreur, il va chercher, il va te corriger la
+
+264
+00:15:08.232 --> 00:15:08.632
+syntaxe
+
+265
+00:15:09.532 --> 00:15:10.672
+cassée et il te la corrige.
+
+266
+00:15:14.832 --> 00:15:17.652
+N8N, c'est quoi les prices ? Je n'ai pas regardé.
+
+267
+00:15:18.732 --> 00:15:20.872
+Si tu le mets sur un VPS, c'est gratos.
+
+268
+00:15:21.292 --> 00:15:22.192
+Ok.
+
+269
+00:15:23.152 --> 00:15:24.372
+Et c'est limité en termes de
+
+270
+00:15:26.712 --> 00:15:30.452
+modules, flows, je ne sais plus comment ça se dit sur
+
+271
+00:15:30.492 --> 00:15:30.832
+Make.
+
+272
+00:15:32.692 --> 00:15:34.272
+Module ou node ?
+
+273
+00:15:34.312 --> 00:15:34.672
+Node.
+
+274
+00:15:35.472 --> 00:15:35.972
+Oui, c'est ça.
+
+275
+00:15:36.572 --> 00:15:39.841
+C'est gratuit. C'est un point par, comment ça s'appelle,
+
+276
+00:15:39.841 --> 00:15:40.612
+pricing.
+
+277
+00:15:40.812 --> 00:15:42.832
+Parce que c'est déjà intégré dans
+
+278
+00:15:43.112 --> 00:15:46.772
+Hostinger, le VPS, donc
+
+279
+00:15:46.832 --> 00:15:50.192
+je vais voir si ce n'est pas plus simple.
+
+280
+00:15:54.212 --> 00:15:57.572
+En plus, ça t'appartient. C'est tes données à toi. Tu as tout sur ton VPS.
+
+281
+00:16:03.492 --> 00:16:05.812
+Et c'est open source.
+
+282
+00:16:08.992 --> 00:16:12.832
+Et tu expliques à Claude et il va tout me poser directement dans N8N
+
+283
+00:16:13.012 --> 00:16:16.392
+si tu bloques à des endroits, ou il débloque, ou il adapte,
+
+284
+00:16:17.592 --> 00:16:21.012
+il débugue. Je ne sais même pas si dans Make, tu peux
+
+285
+00:16:21.052 --> 00:16:23.292
+JavaScript. Tu sais, Pierre ?
+
+286
+00:16:24.172 --> 00:16:24.612
+Je ne crois pas.
+
+287
+00:16:24.932 --> 00:16:25.362
+Je ne crois pas.
+
+288
+00:16:25.482 --> 00:16:27.591
+C'est un enfer Make pour la partie-
+
+289
+00:16:28.312 --> 00:16:30.932
+C'est un gros avantage de N8N, c'est que tu peux
+
+290
+00:16:32.471 --> 00:16:33.272
+ajouter du code
+
+291
+00:16:34.212 --> 00:16:35.492
+que tu ne peux pas faire dans Make.
+
+292
+00:16:35.892 --> 00:16:37.132
+Python, JavaScript.
+
+293
+00:16:38.172 --> 00:16:39.132
+Après, peut-être, il y en a d'autres.
+
+294
+00:16:40.152 --> 00:16:43.272
+Oui, il y en a sûrement. À mon avis, tu peux faire beaucoup de choses.
+
+295
+00:16:44.512 --> 00:16:45.692
+Quand tu fais un truc complet,
+
+296
+00:16:46.932 --> 00:16:48.772
+assez complexe, des fois, tu as envie de
+
+297
+00:16:50.732 --> 00:16:53.332
+récupérer la donnée des tout premiers modules.
+
+298
+00:16:53.612 --> 00:16:56.412
+Et avec Make, j'avais eu ce problème-là. C'était hyper compliqué.
+
+299
+00:16:58.972 --> 00:17:02.072
+Ça, par contre, pour avoir utilisé les deux, je n'ai pas assez utilisé N8N, mais je
+
+300
+00:17:02.112 --> 00:17:03.272
+trouve que le système de
+
+301
+00:17:04.333 --> 00:17:07.992
+variables que tu peux récupérer, il est bien f***u sur Make.
+
+302
+00:17:08.072 --> 00:17:11.512
+Oui, quand ton truc fait une branche, mais quand il fait différentes branches, va
+
+303
+00:17:11.572 --> 00:17:13.452
+récupérer ceux des premiers modules, c'est un enfer.
+
+304
+00:17:14.032 --> 00:17:14.853
+Il faut bien renommer.
+
+305
+00:17:15.192 --> 00:17:18.712
+Tu es obligé de les noter en statique pour après les récupérer.
+
+306
+00:17:18.812 --> 00:17:18.992
+Oui,
+
+307
+00:17:20.572 --> 00:17:22.532
+pas forcément, mais je vois ce que tu veux dire.
+
+308
+00:17:22.853 --> 00:17:25.692
+Ça fait beaucoup de trucs à chercher.
+
+309
+00:17:26.052 --> 00:17:29.552
+À un moment, tu es bloqué parce que tu pars sur une autre branche et tu ne peux
+
+310
+00:17:29.592 --> 00:17:32.752
+plus récupérer la donnée qui a été faite des premières branches.
+
+311
+00:17:33.872 --> 00:17:34.252
+Ah oui ?
+
+312
+00:17:34.292 --> 00:17:35.272
+J'avais vraiment été bloqué.
+
+313
+00:17:36.032 --> 00:17:36.612
+Quand c'est trop long,
+
+314
+00:17:38.432 --> 00:17:41.552
+il n'y a pas tout l'historique des variables d'avant ?
+
+315
+00:17:41.612 --> 00:17:44.312
+Non, c'est technique. Après, il faut vraiment avoir un exemple sous les yeux pour
+
+316
+00:17:44.512 --> 00:17:46.292
+montrer. Je ne l'ai plus mon Make, mais
+
+317
+00:17:47.272 --> 00:17:51.092
+ça le fait aussi avec N8N. Mais tu peux arriver à
+
+318
+00:17:51.832 --> 00:17:55.412
+retrouver plus facilement avec un nœud JavaScript sur N8N
+
+319
+00:17:56.652 --> 00:17:57.752
+les données des premiers modules.
+
+320
+00:17:58.872 --> 00:18:01.952
+Parce que ça va chercher directement la variable en JavaScript et donc récupérer
+
+321
+00:18:01.972 --> 00:18:02.312
+les données.
+
+322
+00:18:04.552 --> 00:18:06.752
+Puis ça compile avec
+
+323
+00:18:08.712 --> 00:18:09.512
+le nœud JavaScript.
+
+324
+00:18:14.392 --> 00:18:15.752
+Essaye ça, Manuel.
+
+325
+00:18:16.592 --> 00:18:19.112
+Si tu as Cloud et Cloud Code,
+
+326
+00:18:21.352 --> 00:18:23.932
+tu prends un VPS, tu mets N8N dessus.
+
+327
+00:18:24.062 --> 00:18:27.952
+Potentiellement, si tu as envie d'une DB, tu as NoCode DB
+
+328
+00:18:28.012 --> 00:18:30.692
+qu'il a conseillé, qui a l'air très bien.
+
+329
+00:18:32.052 --> 00:18:32.352
+Puis
+
+330
+00:18:33.392 --> 00:18:35.072
+tu fais du test.
+
+331
+00:18:38.272 --> 00:18:42.192
+À mon avis, si tu dis que tu es un peu technique et je crois qu'on en a déjà un peu
+
+332
+00:18:42.252 --> 00:18:46.171
+parlé anciennement, mais ça devrait plus te plaire sur le long
+
+333
+00:18:46.232 --> 00:18:49.992
+terme. Au début, l'interface est un peu bizarre
+
+334
+00:18:50.072 --> 00:18:53.712
+de N8N, mais sur le long terme, je pense que ça va te faciliter la
+
+335
+00:18:53.752 --> 00:18:56.331
+vie.
+
+336
+00:18:56.452 --> 00:18:57.052
+Ok.
+
+337
+00:19:01.112 --> 00:19:02.212
+Tu peux revenir en arrière.
+
+338
+00:19:03.272 --> 00:19:06.432
+J'ai fait des vidéos aussi, je ne sais pas si tu les as vues, Manuel, sur
+
+339
+00:19:07.272 --> 00:19:08.992
+Cloud pour intégrer le produit.
+
+340
+00:19:10.132 --> 00:19:12.772
+Là, je me suis même retapé l'intégration.
+
+341
+00:19:17.052 --> 00:19:19.072
+Classroom. Je regarde de suite.
+
+342
+00:19:22.052 --> 00:19:23.442
+C'est avant ou après ? C'est
+
+343
+00:19:25.252 --> 00:19:27.432
+des Modulikit ça, normalement. Oui, c'est ça.
+
+344
+00:19:28.992 --> 00:19:30.712
+J'ai intégration de produit Modulikit.
+
+345
+00:19:32.192 --> 00:19:34.352
+Je ne l'ai plus vue dernièrement.
+
+346
+00:19:36.612 --> 00:19:37.692
+Mais toi, tu es sur Shopify
+
+347
+00:19:39.112 --> 00:19:40.912
+? Tu n'es pas sur-
+
+348
+00:19:41.732 --> 00:19:41.872
+Oui,
+
+349
+00:19:43.232 --> 00:19:46.212
+j'ai pris l'exemple de Shopify dans la vidéo.
+
+350
+00:19:46.272 --> 00:19:48.732
+J'ai fait une partie pour le connecter à WooCommerce.
+
+351
+00:19:49.632 --> 00:19:52.752
+Il y a sûrement plein de façons de le connecter, mais c'est à peu près la même
+
+352
+00:19:53.192 --> 00:19:53.692
+histoire.
+
+353
+00:19:54.852 --> 00:19:55.192
+Right.
+
+354
+00:19:55.692 --> 00:19:57.032
+Ça va te servir pareil.
+
+355
+00:19:58.632 --> 00:19:58.712
+C'est
+
+356
+00:19:58.732 --> 00:20:04.852
+beaucoup
+
+357
+00:20:04.892 --> 00:20:08.672
+de la théorie dans le sens où il faudra vraiment
+
+358
+00:20:08.732 --> 00:20:12.332
+adapter ce que je fais en
+
+359
+00:20:12.372 --> 00:20:15.872
+vidéo à son shop, parce que c'est très spécifique à
+
+360
+00:20:16.472 --> 00:20:18.132
+plein de choses du shop.
+
+361
+00:20:19.492 --> 00:20:22.192
+C'est aussi adaptable à WooCommerce,
+
+362
+00:20:23.671 --> 00:20:27.492
+mais c'est très théorique. Je montre une fois l'idée de comment
+
+363
+00:20:27.552 --> 00:20:31.312
+on connecte, comment on lui parle, ce qu'on dit et comment il va retoucher.
+
+364
+00:20:31.612 --> 00:20:33.092
+Et après, ça s'adapte comme tu veux,
+
+365
+00:20:34.652 --> 00:20:38.092
+si tu as des variations, si tu as des métafields, au CMS, etc.
+
+366
+00:20:39.732 --> 00:20:40.032
+Ok.
+
+367
+00:20:42.432 --> 00:20:46.342
+N'hésite pas. En plus, je
+
+368
+00:20:46.352 --> 00:20:50.332
+n'ai pas eu spécialement de retour dessus dans le sens où est-ce que les
+
+369
+00:20:50.372 --> 00:20:51.052
+gens arrivaient,
+
+370
+00:20:52.132 --> 00:20:53.412
+d'après les vidéos, à le connecter.
+
+371
+00:20:53.712 --> 00:20:56.452
+Si jamais tu vois un détail,
+
+372
+00:20:57.502 --> 00:21:00.692
+un truc qui te manque, par exemple, vu que tu n'es plus sur WooCommerce et que j'ai
+
+373
+00:21:00.852 --> 00:21:04.492
+tourné surtout sur Shopify, est-ce qu'il y a un élément où ça ne marche pas dans ce
+
+374
+00:21:04.512 --> 00:21:08.252
+que je dis sur WooCommerce ? Ce genre de truc, n'hésite pas, un retour sur ça.
+
+375
+00:21:10.932 --> 00:21:12.832
+Ou que je fasse une partie dédiée.
+
+376
+00:21:18.852 --> 00:21:22.672
+Tu as vu, Pierre, Aymeric t'avait demandé, mais je crois que
+
+377
+00:21:22.712 --> 00:21:23.712
+oui, la réponse, c'est oui.
+
+378
+00:21:24.612 --> 00:21:27.852
+Il y a bien une colonne par champ dédiée à tout.
+
+379
+00:21:27.872 --> 00:21:30.452
+Aux variations, aux images,
+
+380
+00:21:32.332 --> 00:21:32.912
+chaque point.
+
+381
+00:21:36.572 --> 00:21:37.172
+Je ne sais pas si, Pierre,
+
+382
+00:21:38.152 --> 00:21:42.032
+tu veux plus répondre que ça, mais en gros, je crois que l'idée, c'est
+
+383
+00:21:42.092 --> 00:21:42.192
+ça.
+
+384
+00:21:42.852 --> 00:21:45.192
+Oui, c'est ça. En gros, tu as une colonne pour chaque truc.
+
+385
+00:21:45.572 --> 00:21:47.172
+Pour chaque métafield, tu as une colonne.
+
+386
+00:21:49.432 --> 00:21:49.632
+Oui.
+
+387
+00:21:50.192 --> 00:21:50.592
+Trop bien.
+
+388
+00:21:52.452 --> 00:21:54.792
+Oui. Justement, j'indique,
+
+389
+00:21:55.872 --> 00:21:58.502
+je suis encore dans N8N, mais je fais la bascule vers Cloud, même si c'est
+
+390
+00:21:58.532 --> 00:21:59.252
+compliqué en vrai.
+
+391
+00:22:00.552 --> 00:22:04.512
+J'explique dans un fichier
+
+392
+00:22:04.592 --> 00:22:08.532
+statique. En gros, je dis ça, tu es dans un prompt
+
+393
+00:22:09.312 --> 00:22:12.052
+Gemini, je dis que tu dois, par rapport aux données que tu as analysées,
+
+394
+00:22:12.592 --> 00:22:16.152
+compléter automatiquement le poids, les tailles,
+
+395
+00:22:16.412 --> 00:22:20.172
+capacity, le nombre de poches et ça vient mettre automatiquement par rapport à
+
+396
+00:22:20.472 --> 00:22:21.812
+ce qui a été scrappé comme données.
+
+397
+00:22:22.332 --> 00:22:25.572
+Et ça vient me l'écrire dans le tableau.
+
+398
+00:22:28.012 --> 00:22:30.892
+Pour ta rédaction, tu parles. Au moment de la rédaction, ça vient...
+
+399
+00:22:31.712 --> 00:22:34.192
+Pas pour la rédaction de produit, c'est à la toute fin, mais par rapport au
+
+400
+00:22:34.232 --> 00:22:37.872
+tableau. C'est un premier workflow que je lance, c'est scrapping.
+
+401
+00:22:38.892 --> 00:22:42.712
+Ça scrape les données d'AliExpress de 1688.
+
+402
+00:22:43.532 --> 00:22:46.992
+Ensuite, ça compacte les deux. Ce qui manque sur l'un
+
+403
+00:22:47.432 --> 00:22:48.752
+vient compléter les données de l'autre.
+
+404
+00:22:49.252 --> 00:22:49.772
+Et à la fin, ça
+
+405
+00:22:51.772 --> 00:22:52.572
+me fait un
+
+406
+00:22:53.872 --> 00:22:57.812
+JSON complet. Par rapport à ce qui a été détecté
+
+407
+00:22:57.852 --> 00:23:00.622
+et par rapport à mon tableau, ça vient mettre les informations
+
+408
+00:23:03.152 --> 00:23:07.011
+adéquates : le nombre de poches, les tailles, le poids, le litre.
+
+409
+00:23:08.572 --> 00:23:09.832
+Sur le départ, il faut juste que tu aies
+
+410
+00:23:10.732 --> 00:23:12.732
+bien rentré l'adresse des
+
+411
+00:23:13.692 --> 00:23:15.932
+deux sites, d'AliExpress et de...
+
+412
+00:23:19.612 --> 00:23:20.032
+Oui, c'est ça.
+
+413
+00:23:23.952 --> 00:23:26.172
+Ok, trop bien.
+
+414
+00:23:27.292 --> 00:23:29.532
+Tu as fait comment au final, Pierre, pour le scrapping
+
+415
+00:23:30.392 --> 00:23:30.392
+?
+
+416
+00:23:30.452 --> 00:23:33.872
+Justement, je suis en train de check. Je suis tombé sur ce site-là.
+
+417
+00:23:34.792 --> 00:23:35.792
+Parce que le problème, c'est que
+
+418
+00:23:36.852 --> 00:23:40.232
+ça fonctionne pour AliExpress, mais pour 1 6 8 8, c'est un peu compliqué avec
+
+419
+00:23:40.292 --> 00:23:40.631
+Cloud.
+
+420
+00:23:41.652 --> 00:23:44.932
+Et là, je suis tombé sur ce site-là, j'envoie dans le chat.
+
+421
+00:23:45.972 --> 00:23:49.672
+Lui, il a l'air de faire tous les sites. En plus, il bypasse les trucs anti-bot.
+
+422
+00:23:49.732 --> 00:23:49.852
+Ok.
+
+423
+00:23:56.732 --> 00:23:57.812
+Il a explosé il n'y a pas longtemps.
+
+424
+00:23:59.082 --> 00:24:00.752
+À ce qu'il paraît, il marche bien et là, je vais le tester.
+
+425
+00:24:02.832 --> 00:24:05.052
+54 étoiles sur GitHub.
+
+426
+00:24:07.432 --> 00:24:09.272
+C'est gratuit du coup ? C'est un script.
+
+427
+00:24:09.332 --> 00:24:11.712
+Oui, c'est ça. Je l'avais vu sur GitHub.
+
+428
+00:24:14.716 --> 00:24:15.196
+OK.
+
+429
+00:24:17.256 --> 00:24:18.196
+Parce que le NPM,
+
+430
+00:24:19.296 --> 00:24:21.456
+je crois que c'est que pour AliExpress.
+
+431
+00:24:21.996 --> 00:24:24.546
+Oui, c'est que pour AliExpress. Il n'y en avait pas un spécial ainsi soit-il ?
+
+432
+00:24:25.376 --> 00:24:26.236
+Celui-là, il fait tous les sites.
+
+433
+00:24:26.996 --> 00:24:27.296
+OK.
+
+434
+00:24:28.216 --> 00:24:30.276
+Tu lui envoies l'URL et il va te scraper le truc.
+
+435
+00:24:30.596 --> 00:24:34.096
+Pourquoi ça marche mieux ? Qu'est-ce qu'il fait dans leur script ?
+
+436
+00:24:37.516 --> 00:24:41.456
+Disons que l'autre est exclusif à AliExpress et celui-là, peu importe le
+
+437
+00:24:41.496 --> 00:24:41.656
+site.
+
+438
+00:24:43.096 --> 00:24:46.676
+Mais comment tu lui dis quelles données tu veux ?
+
+439
+00:24:47.195 --> 00:24:49.416
+Tu as fouillé un peu ? Tu sais comment il est ?
+
+440
+00:24:49.436 --> 00:24:53.336
+Je pense qu'il y a un JSON. Il te le fournit, puis tu le nettoies, tu
+
+441
+00:24:53.396 --> 00:24:55.456
+lui demandes quelle info tu veux garder, je pense.
+
+442
+00:24:56.296 --> 00:24:56.596
+OK.
+
+443
+00:24:57.476 --> 00:24:58.376
+Ça a l'air pas mal ton truc.
+
+444
+00:24:58.696 --> 00:24:59.336
+Je vais le tester.
+
+445
+00:25:00.696 --> 00:25:02.196
+Parce que je ne comprenais pas très bien.
+
+446
+00:25:02.876 --> 00:25:06.636
+NPM, NPX. Ces trucs-là, je fais : « Mais qu'est-ce que c'est ?
+
+447
+00:25:06.646 --> 00:25:06.646
+»
+
+448
+00:25:07.916 --> 00:25:11.576
+Ça se ressemble, c'est du JavaScript au final.
+
+449
+00:25:12.756 --> 00:25:14.196
+Celui-là, je pense que c'est du JavaScript aussi.
+
+450
+00:25:15.896 --> 00:25:16.845
+Oui. Tu sais
+
+451
+00:25:18.056 --> 00:25:21.276
+quoi ? Je le dis parce que ça me permettra de pouvoir y répondre la prochaine fois.
+
+452
+00:25:21.396 --> 00:25:25.216
+Entre NPM et
+
+453
+00:25:25.236 --> 00:25:28.506
+NPX, je ne sais pas. À la limite, on s'en f**t, on verra après.
+
+454
+00:25:28.936 --> 00:25:32.316
+Mais c'est du JavaScript, donc ce sont des paquets de JavaScript qui
+
+455
+00:25:33.656 --> 00:25:36.316
+se lancent sur ta machine. Ce sont des scripts.
+
+456
+00:25:36.876 --> 00:25:37.396
+C'est des scripts.
+
+457
+00:25:38.236 --> 00:25:38.456
+Oui.
+
+458
+00:25:40.556 --> 00:25:44.376
+NPX, c'est un installeur, c'est-à-dire que c'est un binaire à la fin que
+
+459
+00:25:45.196 --> 00:25:45.976
+tu vas exécuter.
+
+460
+00:25:46.936 --> 00:25:47.016
+OK.
+
+461
+00:25:47.556 --> 00:25:49.396
+NPM, c'est plutôt des modules.
+
+462
+00:25:50.756 --> 00:25:54.416
+D'où le X et le M ? M, module et X,
+
+463
+00:25:55.576 --> 00:25:56.396
+execute.
+
+464
+00:25:57.556 --> 00:26:01.316
+NPM, c'est Node Package Manager. C'est Node.js derrière, donc c'est
+
+465
+00:26:01.456 --> 00:26:04.936
+une plateforme d'exécution, un environnement
+
+466
+00:26:04.996 --> 00:26:08.896
+d'exécution du JavaScript. Il va prendre tous les modules qui sont dans ton fichier
+
+467
+00:26:09.176 --> 00:26:11.736
+package.json et c'est ça qui va
+
+468
+00:26:12.636 --> 00:26:13.756
+faire sa tambouille et à un moment
+
+469
+00:26:14.656 --> 00:26:16.736
+te donner un rendu final.
+
+470
+00:26:17.896 --> 00:26:21.136
+Et ça, tu peux débugger. Alors que NPX, lui, t'installe
+
+471
+00:26:22.076 --> 00:26:24.036
+les packages en faisant un binaire.
+
+472
+00:26:24.736 --> 00:26:27.596
+C'est quand tu utilises ton application, mais pas pour débugger.
+
+473
+00:26:28.836 --> 00:26:28.905
+C'est
+
+474
+00:26:29.736 --> 00:26:33.416
+la différence. NPX sera beaucoup plus
+
+475
+00:26:34.696 --> 00:26:37.476
+rapide en exécution,
+
+476
+00:26:38.776 --> 00:26:41.796
+un package installé avec NPX qu'avec NPM.
+
+477
+00:26:42.516 --> 00:26:42.886
+Parce que c'est
+
+478
+00:26:44.216 --> 00:26:46.116
+un peu le programme final. C'est pour ça que c'est plus rapide.
+
+479
+00:26:46.396 --> 00:26:47.376
+C'est ce que tu mets en prod.
+
+480
+00:26:49.476 --> 00:26:50.716
+Si tu fais un peu de dev,
+
+481
+00:26:51.536 --> 00:26:53.936
+tu as besoin de débugger tes solutions.
+
+482
+00:26:54.416 --> 00:26:58.136
+Donc tu vas plutôt installer sur ta machine et faire tourner pour savoir ce qui
+
+483
+00:26:58.176 --> 00:27:00.876
+pète et mettre des alertes.
+
+484
+00:27:01.676 --> 00:27:04.976
+Avec NPM, c'est quand tu as levé toutes les
+
+485
+00:27:05.016 --> 00:27:08.996
+alertes, en exécution finale, tu mets ton application en ligne,
+
+486
+00:27:09.056 --> 00:27:10.056
+tu utilises NPX.
+
+487
+00:27:11.396 --> 00:27:11.736
+OK.
+
+488
+00:27:13.616 --> 00:27:14.796
+Mais nous, quand on l'utilise
+
+489
+00:27:16.396 --> 00:27:18.636
+sans vouloir spécialement débugger.
+
+490
+00:27:18.756 --> 00:27:18.976
+Non.
+
+491
+00:27:19.116 --> 00:27:19.496
+On s'en f**t.
+
+492
+00:27:19.796 --> 00:27:23.036
+Mais vous utilisez les package managers pour quoi
+
+493
+00:27:24.156 --> 00:27:24.156
+?
+
+494
+00:27:24.216 --> 00:27:28.156
+Emeric avait envoyé un NPM qui était dédié
+
+495
+00:27:28.316 --> 00:27:31.996
+à scraper une fiche AliExpress pour retourner les données en
+
+496
+00:27:32.076 --> 00:27:32.876
+JSON assez clean.
+
+497
+00:27:33.276 --> 00:27:33.896
+Je vois.
+
+498
+00:27:34.056 --> 00:27:36.766
+Comment ça
+
+499
+00:27:37.336 --> 00:27:40.616
+marche derrière ?
+
+500
+00:27:40.636 --> 00:27:44.056
+Ça n'aura pas d'incidence parce que le scraper,
+
+501
+00:27:45.216 --> 00:27:48.936
+il n'y a pas de debug à faire.
+
+502
+00:27:49.396 --> 00:27:52.316
+À la fin, tu obtiens des fichiers, mais ce n'est pas vraiment un exécutable.
+
+503
+00:27:52.616 --> 00:27:55.896
+Il s'exécute en une fois et tu obtiens ton résultat
+
+504
+00:27:55.976 --> 00:27:59.776
+qui est des fichiers JSON. Mais à la fin, tu n'as pas besoin
+
+505
+00:27:59.796 --> 00:28:01.096
+d'un exécutable.
+
+506
+00:28:01.956 --> 00:28:04.436
+Les scripts peuvent exécuter
+
+507
+00:28:05.316 --> 00:28:06.656
+ce que tu as déclaré dans ton module.
+
+508
+00:28:06.696 --> 00:28:06.816
+Donc
+
+509
+00:28:07.856 --> 00:28:09.016
+ça n'aura aucune incidence.
+
+510
+00:28:09.536 --> 00:28:09.736
+OK.
+
+511
+00:28:10.516 --> 00:28:12.036
+Est-ce que la différence, ce n'est pas, par exemple,
+
+512
+00:28:12.996 --> 00:28:16.736
+avec le NPM, il est fait pour la page AliExpress, au design et pour
+
+513
+00:28:16.776 --> 00:28:17.936
+extraire les données par rapport à ça.
+
+514
+00:28:17.976 --> 00:28:19.416
+Mais si AliExpress change
+
+515
+00:28:20.436 --> 00:28:23.596
+son design, ça peut bugger. Alors qu'avec ce que tu proposes, Pierre,
+
+516
+00:28:23.616 --> 00:28:27.196
+ce n'est pas préparé
+
+517
+00:28:27.316 --> 00:28:31.296
+en amont en quelque sorte, donc ça va s'adapter peu importe
+
+518
+00:28:31.316 --> 00:28:35.216
+les données qu'il y a sur le site, même si le design a changé entre temps ?
+
+519
+00:28:35.336 --> 00:28:37.216
+Je ne pense pas parce que je ne crois pas que ça s'adapte.
+
+520
+00:28:37.436 --> 00:28:38.816
+Je n'ai pas lu le truc entier.
+
+521
+00:28:39.096 --> 00:28:42.216
+Ça prend le HTML. Donc au final...
+
+522
+00:28:43.656 --> 00:28:44.276
+Toi, tu l'adaptes.
+
+523
+00:28:46.656 --> 00:28:49.796
+Par exemple, si tu parles des dimensions ou si tu parles de la description,
+
+524
+00:28:50.416 --> 00:28:53.476
+avec celui que j'avais envoyé, je pense qu'il va à un endroit sur la page où il
+
+525
+00:28:53.496 --> 00:28:54.916
+sait qu'il y a les descriptions et te la ressort.
+
+526
+00:28:55.436 --> 00:28:58.576
+Si AliExpress change le site, ce n'est plus là, il ne va plus le retrouver.
+
+527
+00:28:58.596 --> 00:29:02.416
+Alors que s'il lit le HTML, si j'ai bien compris, dans celui que tu envoies Pierre,
+
+528
+00:29:02.696 --> 00:29:06.086
+il va aller repérer où il y a les descriptions, peu importe là où c'est et il va-
+
+529
+00:29:06.096 --> 00:29:07.076
+Non, je ne crois pas.
+
+530
+00:29:08.896 --> 00:29:12.776
+Sur ton explication, il reste quand même le fait que
+
+531
+00:29:12.816 --> 00:29:16.776
+si le HTML a changé, il n'va pas avoir un backend
+
+532
+00:29:16.876 --> 00:29:20.676
+d'IA pour détecter où la description a changé de terme et de nom, donc elle est
+
+533
+00:29:20.716 --> 00:29:20.876
+là.
+
+534
+00:29:23.276 --> 00:29:27.256
+Après, peut-être que ce qu'il a envoyé est un truc qui ne fait qu'eux, mais
+
+535
+00:29:28.256 --> 00:29:29.916
+ton NPM, si demain
+
+536
+00:29:30.856 --> 00:29:34.216
+AliExpress change un nom ou un truc qui fait qu'il ne retrouve plus,
+
+537
+00:29:34.776 --> 00:29:37.876
+c'est aussi l'avantage qu'ils vont le mettre à jour pour que ça se mette à
+
+538
+00:29:37.936 --> 00:29:41.636
+jour, pour que ça récupère les bonnes données ensuite quand tu auras mis à jour le
+
+539
+00:29:41.736 --> 00:29:44.936
+NPM. J'imagine que ça fonctionne comme ça, il y a une question de mise à jour.
+
+540
+00:29:50.636 --> 00:29:54.476
+Je ne l'ai pas lu en détail, mais je pense que tu dois remplir
+
+541
+00:29:54.576 --> 00:29:55.376
+les champs que
+
+542
+00:29:57.956 --> 00:30:01.936
+tu veux choper et il va les choper. Mais si AliExpress fait une mise à jour,
+
+543
+00:30:02.056 --> 00:30:05.956
+à mon avis, il faudra quand même que tu updates ce que tu
+
+544
+00:30:05.976 --> 00:30:06.416
+veux choper.
+
+545
+00:30:06.446 --> 00:30:10.396
+Mais dans tous les cas,
+
+546
+00:30:10.436 --> 00:30:14.416
+avant de lancer tes commandes, que ça soit NPM ou NPX, il faut
+
+547
+00:30:14.456 --> 00:30:18.080
+toujours faire un update de tes packagesQuand tu vas les lancer.
+
+548
+00:30:18.340 --> 00:30:21.320
+Il y a bien une histoire de mise à jour, ils font des mises à jour régulières sur
+
+549
+00:30:21.360 --> 00:30:25.270
+les NPM en fonction de plein de trucs et ça dépend de plein de trucs, les NPM.
+
+550
+00:30:25.300 --> 00:30:29.080
+Mais là, pour l'exemple d'AliExpress, si demain AliExpress fait une mise à jour,
+
+551
+00:30:30.160 --> 00:30:33.770
+la description change de terme, il faudra que le mec update son NPM pour
+
+552
+00:30:33.800 --> 00:30:37.060
+que ça récupère le bon endroit. C'est un peu l'histoire,
+
+553
+00:30:37.100 --> 00:30:38.200
+non ?
+
+554
+00:30:38.260 --> 00:30:38.820
+Exactement.
+
+555
+00:30:40.000 --> 00:30:42.840
+Mais ce n'est pas parce que ton package, ce n'est pas comme, comment dire,
+
+556
+00:30:43.860 --> 00:30:45.960
+parce qu'on n'a pas fait de mise à jour que ça n'a pas fonctionné.
+
+557
+00:30:47.240 --> 00:30:47.400
+Oui.
+
+558
+00:30:47.700 --> 00:30:49.140
+Ça va juste fonctionner moins bien.
+
+559
+00:30:50.080 --> 00:30:50.320
+S'il y a
+
+560
+00:30:51.380 --> 00:30:54.980
+un truc qui marche qui est introuvable, il y aura un champ vide, par exemple.
+
+561
+00:30:55.020 --> 00:30:55.760
+Exactement.
+
+562
+00:30:57.460 --> 00:31:01.260
+Du coup, Manuel, quand tu intègres un NPM dans une skill Claude,
+
+563
+00:31:01.880 --> 00:31:05.300
+toi, tu n'as rien à mettre à jour. Ce sont ceux qui gèrent le NPM qui vont le
+
+564
+00:31:05.320 --> 00:31:05.680
+changer.
+
+565
+00:31:06.820 --> 00:31:08.540
+Claude fera une mise à jour du NPM si besoin.
+
+566
+00:31:09.300 --> 00:31:10.000
+J'imagine que
+
+567
+00:31:10.880 --> 00:31:12.780
+Claude fait la mise à jour lui-même.
+
+568
+00:31:12.820 --> 00:31:16.760
+C'est pour ça que j'aime bien avoir la main sur ce que je fais étape
+
+569
+00:31:16.770 --> 00:31:18.200
+par étape. Parce que dans
+
+570
+00:31:19.480 --> 00:31:22.210
+ton prompt,
+
+571
+00:31:23.460 --> 00:31:26.480
+je ne sais pas s'ils ont pensé dans les skills à rajouter
+
+572
+00:31:27.880 --> 00:31:29.060
+un NPM update.
+
+573
+00:31:29.880 --> 00:31:33.820
+C'est ça qui garantit que déjà ta version NPM est à jour et
+
+574
+00:31:33.860 --> 00:31:37.780
+après quand il fait son NPM install et qu'il a lui-même mis les packages aussi
+
+575
+00:31:37.820 --> 00:31:38.120
+à jour.
+
+576
+00:31:39.280 --> 00:31:41.420
+Ok, donc il faut que tu lui mettes ça dans l'instruction.
+
+577
+00:31:41.840 --> 00:31:42.640
+Oui.
+
+578
+00:31:43.700 --> 00:31:46.440
+Pour être sûr. De toute façon même s'il le fait deux fois, ça ne va pas
+
+579
+00:31:48.200 --> 00:31:49.760
+planter le
+
+580
+00:31:55.040 --> 00:31:57.780
+prompt, en tout cas ton exécution.
+
+581
+00:31:58.920 --> 00:32:02.380
+Ce serait intéressant Aymeric que tu lui demandes, que tu dises ça par exemple à
+
+582
+00:32:02.400 --> 00:32:04.320
+Claude sur ton flow, tu lui dis : « Si jamais
+
+583
+00:32:05.180 --> 00:32:08.360
+le NPM que tu utilises, il s'update, est-ce que toi, tu vas le faire
+
+584
+00:32:08.380 --> 00:32:09.900
+automatiquement ou est-ce qu'il faut que je te le dise ?
+
+585
+00:32:09.920 --> 00:32:12.000
+Ou tu vois comment ça marche ? » C'est intéressant de voir
+
+586
+00:32:12.880 --> 00:32:14.360
+comment il fonctionne en backend.
+
+587
+00:32:15.120 --> 00:32:16.020
+Je regarde et je vous dis.
+
+588
+00:32:17.660 --> 00:32:21.560
+Normalement, les bonnes
+
+589
+00:32:21.620 --> 00:32:25.460
+pratiques, c'est que dans n'importe quelle application, tu commences avec un
+
+590
+00:32:25.820 --> 00:32:28.700
+NPM update et ensuite tu fais tout
+
+591
+00:32:29.560 --> 00:32:31.400
+le téléchargement de tes packages.
+
+592
+00:32:31.420 --> 00:32:35.120
+Peut-être qu'il le fait automatiquement avant de lancer le NPM, il fait un update.
+
+593
+00:32:35.860 --> 00:32:37.050
+Il faut voir ce qui est écrit dans les skills.
+
+594
+00:32:37.060 --> 00:32:37.940
+J'avoue que je ne peux pas
+
+595
+00:32:40.380 --> 00:32:43.340
+deviner comme ça, mais si je regarde
+
+596
+00:32:44.000 --> 00:32:47.980
+les skills, tu devrais avoir trouvé la commande, au
+
+597
+00:32:48.040 --> 00:32:49.040
+moins la ligne.
+
+598
+00:32:49.120 --> 00:32:52.900
+Même hors skill, peut-être que parce que tu as le skill qui donne les instructions
+
+599
+00:32:52.960 --> 00:32:56.600
+de ce que Claude doit faire, mais peut-être que dans le back avant le
+
+600
+00:32:56.640 --> 00:33:00.020
+skill, Claude est fait pour qu'il update
+
+601
+00:33:00.280 --> 00:33:02.830
+automatiquement aussi. Peut-être que ce n'est même pas dans le skill, c'est
+
+602
+00:33:02.840 --> 00:33:06.760
+peut-être dans le moteur direct, dans l'intelligence
+
+603
+00:33:06.770 --> 00:33:07.420
+de Claude.
+
+604
+00:33:08.680 --> 00:33:09.400
+C'est possible.
+
+605
+00:33:09.480 --> 00:33:12.080
+Ce que va dire
+
+606
+00:33:14.060 --> 00:33:17.220
+Claude à Aymeric sur sa façon de fonctionner, ça nous donnera des pistes.
+
+607
+00:33:17.700 --> 00:33:20.120
+Peut-être qu'il ne le fait pas du tout, peut-être qu'il le fait automatiquement, ou
+
+608
+00:33:20.180 --> 00:33:22.060
+peut-être que c'est inscrit dans son skill.
+
+609
+00:33:22.080 --> 00:33:22.290
+Je ne sais pas
+
+610
+00:33:24.780 --> 00:33:25.320
+comment ça marche.
+
+611
+00:33:26.500 --> 00:33:29.240
+Vu que tu parles d'update, je ne savais même pas qu'il y avait un système d'update.
+
+612
+00:33:29.560 --> 00:33:32.740
+Si, j'avais vu, on voit des V, si je mets
+
+613
+00:33:32.820 --> 00:33:36.660
+NPM AliExpress scrapping, on voit
+
+614
+00:33:36.920 --> 00:33:37.760
+une question de
+
+615
+00:33:38.980 --> 00:33:41.280
+version, donc je me doutais qu'il y avait un...
+
+616
+00:33:41.640 --> 00:33:42.900
+On voit 12 versions sur celui-là,
+
+617
+00:33:44.360 --> 00:33:47.860
+1.0, 1.01, etc. Donc il y a vraiment un système de
+
+618
+00:33:48.900 --> 00:33:49.720
+mise à jour des fichiers.
+
+619
+00:33:50.440 --> 00:33:53.820
+Après, en général, tu mets @latest et
+
+620
+00:33:54.300 --> 00:33:58.080
+comme ça, tu n'as même pas de numéro de version à mettre et tu seras toujours à
+
+621
+00:33:58.120 --> 00:34:01.680
+jour dès que tu feras tes commandes NPM ou
+
+622
+00:34:01.740 --> 00:34:02.140
+NPX.
+
+623
+00:34:04.260 --> 00:34:06.620
+Tu veux dire que dans ton script, quand tu
+
+624
+00:34:06.780 --> 00:34:10.341
+dis que tu veux call un NPM, si tu mets
+
+625
+00:34:10.500 --> 00:34:13.759
+--latest, ça va automatiquement update ?
+
+626
+00:34:14.440 --> 00:34:17.600
+Exactement. C'est dans le package.json.
+
+627
+00:34:17.640 --> 00:34:20.071
+S'il existe dans tes skills,
+
+628
+00:34:20.660 --> 00:34:23.710
+tu rajoutes la valeur
+
+629
+00:34:23.781 --> 00:34:26.220
+latest au lieu de mettre le numéro de version.
+
+630
+00:34:26.321 --> 00:34:27.361
+Comme ça, tu es sûr que le
+
+631
+00:34:28.600 --> 00:34:29.761
+package, il est toujours à jour.
+
+632
+00:34:31.000 --> 00:34:31.861
+C'est bon à savoir ça.
+
+633
+00:34:33.600 --> 00:34:33.660
+Je
+
+634
+00:34:35.379 --> 00:34:36.400
+ne sais plus.
+
+635
+00:34:38.319 --> 00:34:41.100
+Je crois qu'il avait envoyé le fichier skill.
+
+636
+00:34:41.740 --> 00:34:44.321
+Je parlais du NPM, je crois que je l'ai peut-être dans mes téléchargements.
+
+637
+00:34:44.400 --> 00:34:45.880
+Oui, je les ai qu'il n'y a pas longtemps.
+
+638
+00:34:46.660 --> 00:34:48.380
+Je peux t'envoyer si tu veux.
+
+639
+00:34:49.220 --> 00:34:51.920
+Il t'a dit un truc par rapport au NPM update ?
+
+640
+00:34:52.540 --> 00:34:56.140
+Il me dit que non, mais en fait, il me dit que ma skill est en Python, pas Node.
+
+641
+00:34:56.801 --> 00:34:58.060
+Donc NPM n'a rien à voir ici.
+
+642
+00:34:58.940 --> 00:35:01.480
+Pourtant dans ton skill, il y avait du NPM dedans.
+
+643
+00:35:01.700 --> 00:35:04.020
+Oui, c'est pour ça que je suis en train de creuser, mais je ne comprends pas.
+
+644
+00:35:04.840 --> 00:35:05.960
+Je n'ai pas tout mis comme vous en fait.
+
+645
+00:35:07.220 --> 00:35:08.140
+En fait, il y a du Python
+
+646
+00:35:09.360 --> 00:35:13.340
+ton scrapping. Je suis dans la doc là et je vois dans command
+
+647
+00:35:13.360 --> 00:35:15.480
+line interface, c'est que du Python.
+
+648
+00:35:17.320 --> 00:35:21.240
+Il n'y aura pas de NPM parce que NPM c'est pour Node Package
+
+649
+00:35:21.640 --> 00:35:24.560
+Manager, donc c'est pour les environnements JavaScript.
+
+650
+00:35:24.600 --> 00:35:28.160
+Oui, mais pourtant dans le skill qu'il avait envoyé, il utilisait un NPM.
+
+651
+00:35:29.340 --> 00:35:31.600
+Oui. Je ne sais pas trop comment ça marche.
+
+652
+00:35:33.980 --> 00:35:37.440
+S'il y a un skill qui parle de NPM, c'est qu'il y a forcément des bouts de
+
+653
+00:35:37.560 --> 00:35:38.000
+JavaScript.
+
+654
+00:35:38.140 --> 00:35:40.800
+Après, Python peut exécuter du Java.
+
+655
+00:35:42.220 --> 00:35:42.380
+Non.
+
+656
+00:35:43.780 --> 00:35:46.120
+En fait, Python,
+
+657
+00:35:47.820 --> 00:35:51.720
+oui et non, parce que c'est deux langages de script, donc ça dépend ce qui est
+
+658
+00:35:51.740 --> 00:35:52.190
+dedans. Par exemple,
+
+659
+00:35:53.460 --> 00:35:57.300
+il y a des commandes pour installer qui ne fonctionnent qu'avec du Python, comme il
+
+660
+00:35:57.310 --> 00:35:58.780
+y a des commandes qui ne fonctionnent qu'avec du JavaScript.
+
+661
+00:35:58.790 --> 00:35:59.240
+Par contre, si
+
+662
+00:36:00.420 --> 00:36:01.370
+c'est mal f***u, tu
+
+663
+00:36:02.400 --> 00:36:05.820
+peux avoir dans tes lignes Python un appel à JavaScript,
+
+664
+00:36:06.740 --> 00:36:08.520
+mais ce serait
+
+665
+00:36:09.980 --> 00:36:13.820
+un défaut. Et si
+
+666
+00:36:13.880 --> 00:36:16.060
+tu veux mettre à jour, tu fais ces pipes
+
+667
+00:36:16.200 --> 00:36:20.108
+installOu pipe update pour installer
+
+668
+00:36:20.148 --> 00:36:22.868
+les packages. C'est juste le premier
+
+669
+00:36:23.988 --> 00:36:27.648
+argument qui change. Au lieu de node, tu remplaces par pipe
+
+670
+00:36:28.448 --> 00:36:30.088
+et c'est Python qui prend le relais.
+
+671
+00:36:30.568 --> 00:36:32.388
+Il sait que c'est un package Python qui est derrière.
+
+672
+00:36:34.648 --> 00:36:34.758
+Ok.
+
+673
+00:36:39.208 --> 00:36:42.868
+Je n'ai plus le fichier. Peut-être qu'il me l'avait envoyé sur
+
+674
+00:36:42.928 --> 00:36:44.288
+WhatsApp.
+
+675
+00:36:44.308 --> 00:36:48.068
+Attends, je vais envoyer la mauvaise. Attends, je recommence.
+
+676
+00:36:48.128 --> 00:36:48.828
+Je me suis trompé de
+
+677
+00:36:48.848 --> 00:36:55.488
+skill.
+
+678
+00:36:58.368 --> 00:37:01.828
+Si vous voulez, après, je peux vous montrer le tableau
+
+679
+00:37:03.328 --> 00:37:04.148
+dont on parlait tout à l'heure.
+
+680
+00:37:04.828 --> 00:37:05.088
+Yes.
+
+681
+00:37:05.768 --> 00:37:09.388
+Pour Aymeric et Manuel, pour qu'ils puissent visualiser un petit peu entre NPM
+
+682
+00:37:09.668 --> 00:37:12.688
+et NoSQL DB, comment je fais perso pour m'organiser.
+
+683
+00:37:13.388 --> 00:37:16.208
+Après, moi, c'est comme ça que je m'organise. Je ne dis pas que c'est le mieux.
+
+684
+00:37:17.148 --> 00:37:20.028
+C'est le web, il y a plusieurs façons de faire.
+
+685
+00:37:20.068 --> 00:37:21.508
+Oui, c'est ça. C'est ça qui est cool.
+
+686
+00:37:21.528 --> 00:37:25.108
+Tu en as un, il fait un truc et tu as d'autres qui peuvent adapter et dire : « Moi,
+
+687
+00:37:25.148 --> 00:37:28.248
+je fais comme ça, je trouve ça mieux. » C'est comme ça que tu avances.
+
+688
+00:37:29.268 --> 00:37:29.688
+C'est cool.
+
+689
+00:37:30.848 --> 00:37:34.608
+En fait, ça a l'air d'être un script Python qui fait plusieurs choses et
+
+690
+00:37:34.688 --> 00:37:38.248
+qui, dans ces choses, scrape en NPM
+
+691
+00:37:38.328 --> 00:37:38.868
+AliExpress.
+
+692
+00:37:40.588 --> 00:37:44.028
+Oui, c'est bon, j'ai le truc. C'est un script Python qui appelle
+
+693
+00:37:44.088 --> 00:37:45.868
+Node.js via Subprocess.
+
+694
+00:37:46.908 --> 00:37:48.188
+Il charge le module NPM,
+
+695
+00:37:49.968 --> 00:37:51.808
+AliExpress Product Scraper.
+
+696
+00:37:53.568 --> 00:37:56.908
+C'est le module qui scrape la page AliExpress et après, il retourne un objet en
+
+697
+00:37:57.068 --> 00:37:57.428
+JSON.
+
+698
+00:37:58.468 --> 00:38:00.188
+Et Python récupère le JSON et le retraite.
+
+699
+00:38:01.008 --> 00:38:01.268
+Ok.
+
+700
+00:38:05.788 --> 00:38:07.768
+C'est marrant qu'ils n'ont pas tout fait en JavaScript parce que
+
+701
+00:38:09.168 --> 00:38:13.068
+le dernier appel, ce qui appelle une page web, c'est le JavaScript, au final.
+
+702
+00:38:13.128 --> 00:38:14.658
+Et pareil, le JSON, c'est
+
+703
+00:38:15.888 --> 00:38:17.328
+une notation JavaScript.
+
+704
+00:38:18.438 --> 00:38:18.988
+Donc c'est marrant.
+
+705
+00:38:19.308 --> 00:38:20.148
+Mais il peut traiter du
+
+706
+00:38:22.048 --> 00:38:23.828
+JSON, Java, Scott ?
+
+707
+00:38:24.128 --> 00:38:25.947
+JavaScript, justement, il ne fait que ça.
+
+708
+00:38:26.328 --> 00:38:27.608
+En
+
+709
+00:38:28.627 --> 00:38:31.048
+fait, JavaScript peut traiter deux types de flux.
+
+710
+00:38:31.548 --> 00:38:35.508
+Il peut traiter du JSON ou les anciens scripts, c'est le XML.
+
+711
+00:38:35.588 --> 00:38:37.728
+Ça n'existe plus vraiment. Mais
+
+712
+00:38:40.188 --> 00:38:43.268
+JSON, c'est juste JavaScript Notation.
+
+713
+00:38:44.008 --> 00:38:44.908
+C'est une notation JavaScript.
+
+714
+00:38:50.948 --> 00:38:52.408
+Il y a sûrement une explication, mais
+
+715
+00:38:54.008 --> 00:38:57.008
+Aymeric, tu as moyen de lui demander pourquoi il utilise un script Python ?
+
+716
+00:38:58.468 --> 00:38:59.328
+Parce qu'en vrai,
+
+717
+00:39:00.428 --> 00:39:03.928
+tout est faisable en JavaScript. Parce qu'il scrape juste.
+
+718
+00:39:04.168 --> 00:39:05.908
+Scraper, c'est quoi ? C'est interroger une page web.
+
+719
+00:39:06.848 --> 00:39:09.388
+Une page web, c'est représenté par un objet qui s'appelle
+
+720
+00:39:10.268 --> 00:39:12.468
+le DOM pour Document Object Model.
+
+721
+00:39:13.088 --> 00:39:16.708
+Et ça, tu peux même directement via ton
+
+722
+00:39:16.808 --> 00:39:17.408
+navigateur,
+
+723
+00:39:19.088 --> 00:39:19.468
+connaître
+
+724
+00:39:20.588 --> 00:39:20.808
+la
+
+725
+00:39:22.068 --> 00:39:23.048
+composition de ton DOM.
+
+726
+00:39:24.108 --> 00:39:27.968
+Quand tu ouvres tes outils de développeur dans
+
+727
+00:39:28.048 --> 00:39:29.108
+ton navigateur.
+
+728
+00:39:30.328 --> 00:39:31.188
+Tu affiches le code.
+
+729
+00:39:31.568 --> 00:39:32.348
+Exactement.
+
+730
+00:39:32.998 --> 00:39:34.348
+Tu as tous les DOM.
+
+731
+00:39:34.928 --> 00:39:36.968
+C'est ça. Le JSON est déjà
+
+732
+00:39:38.968 --> 00:39:40.618
+nativement compris par JavaScript.
+
+733
+00:39:42.608 --> 00:39:45.588
+C'est par rapport à ce que je faisais moi d'habitude et comment on en est arrivé
+
+734
+00:39:45.628 --> 00:39:46.668
+là, qu'il utilisait ça.
+
+735
+00:39:47.148 --> 00:39:47.448
+Ok.
+
+736
+00:39:49.328 --> 00:39:53.308
+Tu es parti sur du Python et donc après, il peut améliorer le truc et
+
+737
+00:39:53.328 --> 00:39:55.988
+il en est venu à incorporer ton NPM là-dedans.
+
+738
+00:39:56.308 --> 00:39:59.968
+Oui, je pense qu'il me dit : « On pourrait tout faire en node.js.
+
+739
+00:40:00.398 --> 00:40:01.948
+Le choix Python est largement historique.
+
+740
+00:40:03.728 --> 00:40:03.728
+»
+
+741
+00:40:05.048 --> 00:40:06.568
+Moi, je pars d'un Google Sheet à la base.
+
+742
+00:40:07.428 --> 00:40:07.607
+Ok.
+
+743
+00:40:09.048 --> 00:40:10.828
+Du coup, pour lui, c'est du langage Python.
+
+744
+00:40:14.328 --> 00:40:15.287
+C'est du langage Python.
+
+745
+00:40:16.468 --> 00:40:16.968
+En tout cas...
+
+746
+00:40:17.708 --> 00:40:18.708
+Il le traitait mieux avec Python.
+
+747
+00:40:18.788 --> 00:40:20.048
+Oui, je pense que c'est pour ça.
+
+748
+00:40:21.128 --> 00:40:22.507
+Et du coup, il est resté là-dessus.
+
+749
+00:40:27.028 --> 00:40:28.508
+Oui, parce que du coup, c'est du CSV.
+
+750
+00:40:29.688 --> 00:40:30.488
+Manuel, tu disais...
+
+751
+00:40:30.908 --> 00:40:34.728
+L'écosystème de tes autres skills est Python, donc cohérence et
+
+752
+00:40:34.768 --> 00:40:35.108
+maintenance.
+
+753
+00:40:35.137 --> 00:40:38.998
+Ok. Oui, tu avais une grosse base en Python, du coup, il est
+
+754
+00:40:39.007 --> 00:40:40.228
+allé en Python.
+
+755
+00:40:40.268 --> 00:40:43.468
+La library client Python est plus mature que la version node pour ce genre d'usage
+
+756
+00:40:43.508 --> 00:40:44.027
+scripté.
+
+757
+00:40:44.728 --> 00:40:44.948
+Ok.
+
+758
+00:40:45.748 --> 00:40:46.248
+Tu connais
+
+759
+00:40:47.568 --> 00:40:48.948
+un peu Python via Cloud Code
+
+760
+00:40:50.608 --> 00:40:51.168
+? Oui.
+
+761
+00:40:52.088 --> 00:40:56.068
+De toute façon, les MCP sont en Python, c'est
+
+762
+00:40:56.108 --> 00:40:58.368
+pour ça que tu n'as pas vraiment d'autre choix.
+
+763
+00:41:00.088 --> 00:41:04.028
+Ah oui ? Ok. Après, de toute façon, tout ce qui est lié aux IA, j'ai toujours
+
+764
+00:41:04.068 --> 00:41:05.248
+vu du Python partout.
+
+765
+00:41:05.528 --> 00:41:08.948
+Non, mais ça a du sens. C'est pour ça qu'il y a cette
+
+766
+00:41:09.788 --> 00:41:11.368
+grosse partie Python qui est
+
+767
+00:41:12.728 --> 00:41:15.068
+largement dominante par rapport au JS, au JavaScript.
+
+768
+00:41:16.828 --> 00:41:20.638
+Il me dit : « Python = call qui orchestre tes skills de
+
+769
+00:41:20.688 --> 00:41:24.508
+manière homogène et node = invité technique forcé uniquement pour
+
+770
+00:41:24.528 --> 00:41:25.397
+l'étape de scrapping où
+
+771
+00:41:26.328 --> 00:41:27.928
+aucun équivalent Python décent n'existe.
+
+772
+00:41:28.268 --> 00:41:28.268
+»
+
+773
+00:41:28.328 --> 00:41:29.828
+Oui.
+
+774
+00:41:30.648 --> 00:41:30.748
+Ok.
+
+775
+00:41:31.328 --> 00:41:34.148
+Mais une page web, il n'y a que du HTML, du CSS et du JavaScript.
+
+776
+00:41:34.808 --> 00:41:35.928
+C'est pour ça que Python, il n'a pas
+
+777
+00:41:36.888 --> 00:41:40.568
+trop les moyens d'avoir la main sur les nœuds de ta page,
+
+778
+00:41:40.688 --> 00:41:43.668
+sur les éléments de ta page. Alors que JavaScript, c'est
+
+779
+00:41:44.988 --> 00:41:46.928
+nativement son métier.
+
+780
+00:41:46.948 --> 00:41:48.908
+Python, il ne peut pas lire le HTML du coup ?
+
+781
+00:41:49.008 --> 00:41:50.828
+Non, il s'aide de JavaScript.
+
+782
+00:41:51.248 --> 00:41:51.448
+Ok.
+
+783
+00:41:54.768 --> 00:41:56.128
+Tu peux exécuter directement
+
+784
+00:41:57.008 --> 00:42:00.968
+du JavaScript sur ta page. Si tu ouvres tes
+
+785
+00:42:00.988 --> 00:42:03.188
+outils de développeur depuis n'importe quelle fenêtre.
+
+786
+00:42:03.228 --> 00:42:03.968
+Oui, tu as une console.
+
+787
+00:42:04.368 --> 00:42:06.048
+Tu as une console, exactement, c'est du JavaScript.
+
+788
+00:42:06.748 --> 00:42:07.128
+Ok.
+
+789
+00:42:09.348 --> 00:42:10.548
+Tu n'as pas besoin d'un autre outil
+
+790
+00:42:11.388 --> 00:42:13.748
+pour interroger les éléments de ta page.
+
+791
+00:42:15.828 --> 00:42:17.388
+C'est pour ça que comme chaque
+
+792
+00:42:18.508 --> 00:42:21.568
+élément d'une page, c'est unC'est un
+
+793
+00:42:22.408 --> 00:42:24.968
+objet JavaScript, donc avec du JavaScript.
+
+794
+00:42:25.508 --> 00:42:28.168
+C'est pour ça que ton script de scrapping est en JavaScript.
+
+795
+00:42:28.888 --> 00:42:32.368
+Tu peux remonter jusqu'à la base de données dans une console sur un site ?
+
+796
+00:42:32.408 --> 00:42:33.588
+Non, ce n'est pas possible.
+
+797
+00:42:37.688 --> 00:42:41.248
+Tu te sers
+
+798
+00:42:41.328 --> 00:42:46.368
+des
+
+799
+00:42:46.408 --> 00:42:50.228
+éléments qu'il y a dans ta page pour accéder à une base de données, tels que les
+
+800
+00:42:50.268 --> 00:42:52.268
+cookies. C'est pour ça que les cookies, c'est important.
+
+801
+00:42:54.148 --> 00:42:58.088
+Si je récupère les cookies dans ta page, je me fais passer pour toi sur le
+
+802
+00:42:58.128 --> 00:43:01.348
+serveur et je récupère tes informations.
+
+803
+00:43:01.408 --> 00:43:04.608
+C'est une technique de hacking, mais c'est aussi un moyen de se
+
+804
+00:43:04.688 --> 00:43:08.648
+connecter à tes données,
+
+805
+00:43:08.688 --> 00:43:12.668
+mais sans recharger la page. C'est pour ça qu'on limite
+
+806
+00:43:12.708 --> 00:43:15.328
+l'écriture dans les cookies.
+
+807
+00:43:19.648 --> 00:43:20.788
+C'est une faille de sécurité.
+
+808
+00:43:22.628 --> 00:43:23.768
+C'est le cas.
+
+809
+00:43:25.008 --> 00:43:26.388
+Parce que dans les cookies, il peut y avoir
+
+810
+00:43:27.508 --> 00:43:28.428
+un mot de passe, potentiellement.
+
+811
+00:43:29.108 --> 00:43:30.548
+Il y a tout.
+
+812
+00:43:32.388 --> 00:43:35.108
+Dès que tu arrives sur un site,
+
+813
+00:43:35.468 --> 00:43:39.198
+pour « améliorer » l'expérience utilisateur,
+
+814
+00:43:40.028 --> 00:43:42.768
+le serveur dépose des cookies. Ce qu'on appelle des cookies de session.
+
+815
+00:43:43.468 --> 00:43:46.428
+Pour t'éviter de te reloguer toutes les cinq minutes pour savoir si c'est vraiment
+
+816
+00:43:46.468 --> 00:43:50.028
+toi qui as fait cette requête-là, il dépose ces fameux cookies.
+
+817
+00:43:50.048 --> 00:43:53.898
+Et si moi, je suis mal intentionné, je t'envoie une page et je
+
+818
+00:43:53.968 --> 00:43:57.648
+récupère tes cookies, je me connecte au site, à ton
+
+819
+00:43:57.748 --> 00:43:58.588
+Amazon par exemple,
+
+820
+00:43:59.408 --> 00:44:02.568
+et je me fais passer pour toi, je passe des commandes et ainsi de suite.
+
+821
+00:44:03.088 --> 00:44:06.488
+Surtout si tu n'as pas rajouté la double authentification, par exemple.
+
+822
+00:44:07.828 --> 00:44:08.908
+Mais ça, ce n'est pas sécurisé
+
+823
+00:44:10.148 --> 00:44:12.988
+? Ou alors, ils évitent de mettre des trucs trop confidentiels
+
+824
+00:44:12.998 --> 00:44:14.768
+dans les cookies, non
+
+825
+00:44:16.028 --> 00:44:16.028
+?
+
+826
+00:44:16.088 --> 00:44:19.228
+Oui, mais comme les sites ne sont majoritairement pas audités,
+
+827
+00:44:20.508 --> 00:44:24.068
+chaque développeur voit au plus facile.
+
+828
+00:44:24.748 --> 00:44:26.188
+Je veux que ça soit
+
+829
+00:44:27.988 --> 00:44:30.728
+une vérification moins lourde pour l'utilisateur.
+
+830
+00:44:30.888 --> 00:44:34.648
+Donc j'écris dans ses cookies et je lis ses cookies au
+
+831
+00:44:34.708 --> 00:44:35.108
+lieu de
+
+832
+00:44:36.168 --> 00:44:37.448
+lui demander à chaque fois de se reloguer.
+
+833
+00:44:38.888 --> 00:44:41.358
+C'est comme ça que je me suis fait hacker Discord il n'y a pas longtemps.
+
+834
+00:44:41.468 --> 00:44:45.028
+J'avais craqué un logiciel, une semaine après, justement avec les cookies,
+
+835
+00:44:45.288 --> 00:44:45.568
+bam.
+
+836
+00:44:46.648 --> 00:44:47.408
+Oui.
+
+837
+00:44:48.548 --> 00:44:48.968
+C'est courant,
+
+838
+00:44:50.088 --> 00:44:50.408
+malheureusement.
+
+839
+00:44:50.608 --> 00:44:51.948
+J'avais la double authentification.
+
+840
+00:44:51.968 --> 00:44:51.998
+Je
+
+841
+00:44:53.068 --> 00:44:55.288
+ne sais pas.
+
+842
+00:44:56.848 --> 00:44:58.277
+Mais tu t'es fait hacker Discord ?
+
+843
+00:44:58.768 --> 00:44:59.188
+Oui.
+
+844
+00:45:00.088 --> 00:45:01.008
+Tout était sécurisé ?
+
+845
+00:45:01.768 --> 00:45:03.168
+Je ne sais pas. À mon avis, c'est avec la
+
+846
+00:45:04.428 --> 00:45:08.048
+partie spoofing. Mais en gros,
+
+847
+00:45:08.868 --> 00:45:09.308
+récupérer
+
+848
+00:45:11.348 --> 00:45:15.148
+le script, l'ID d'authentification et tu peux bypass tout.
+
+849
+00:45:15.168 --> 00:45:16.888
+Double authentification, tout.
+
+850
+00:45:17.318 --> 00:45:17.747
+P****n.
+
+851
+00:45:19.308 --> 00:45:21.448
+Tu utilises un générateur de mot de passe ou
+
+852
+00:45:22.428 --> 00:45:25.588
+tu as un mot de passe en dur que tu as stocké quelque part, qui est facilement
+
+853
+00:45:25.628 --> 00:45:25.918
+lisible ?
+
+854
+00:45:26.508 --> 00:45:27.608
+C'est un mot de passe que je mettais
+
+855
+00:45:29.948 --> 00:45:30.908
+par défaut. Je n'avais jamais
+
+856
+00:45:32.328 --> 00:45:32.728
+eu de problème.
+
+857
+00:45:33.568 --> 00:45:35.178
+C'est pour ça, il faut
+
+858
+00:45:36.088 --> 00:45:36.568
+éviter le
+
+859
+00:45:38.728 --> 00:45:39.628
+même mot de passe sur
+
+860
+00:45:41.088 --> 00:45:41.488
+plusieurs sites.
+
+861
+00:45:42.988 --> 00:45:46.768
+Il faut utiliser des générateurs de mot de passe, parce que la faille est beaucoup
+
+862
+00:45:46.808 --> 00:45:47.148
+plus forte.
+
+863
+00:45:48.068 --> 00:45:50.208
+Au final, tu n'as qu'un mot de passe à retenir.
+
+864
+00:45:50.828 --> 00:45:52.688
+Mais là, ils n'ont pas chopé son mot de passe,
+
+865
+00:45:54.508 --> 00:45:55.528
+si ?
+
+866
+00:45:55.538 --> 00:45:59.108
+S'il met le même mot de passe et qu'il était assez facilement accessible, il y a
+
+867
+00:45:59.128 --> 00:46:00.268
+moyen, oui.
+
+868
+00:46:00.288 --> 00:46:03.568
+Parce que de ce que j'avais cru comprendre, c'est que le mec avait
+
+869
+00:46:04.788 --> 00:46:07.908
+chopé, lié aux cookies, une sorte d'ID pour se connecter à
+
+870
+00:46:08.168 --> 00:46:09.668
+Discord.
+
+871
+00:46:09.728 --> 00:46:10.948
+C'est ce que je pense.
+
+872
+00:46:12.248 --> 00:46:14.448
+Parce que je n'ai jamais eu d'autres problèmes, alors que c'était la même adresse
+
+873
+00:46:14.468 --> 00:46:17.967
+mail. Il aurait pu tenter sur plein de trucs. Mais il n'y a eu que sur Discord.
+
+874
+00:46:18.568 --> 00:46:21.108
+Je pense qu'il n'avait pas eu accès au mot de passe, mais plus à l'ID de connexion.
+
+875
+00:46:21.408 --> 00:46:22.168
+En vrai, c'est plus simple.
+
+876
+00:46:22.988 --> 00:46:23.488
+C'est des failles.
+
+877
+00:46:24.788 --> 00:46:28.048
+Comme c'est un bot qui teste en basse les trucs, je ne sais pas.
+
+878
+00:46:30.048 --> 00:46:33.468
+Dans tous les cas, maintenant, j'ai tout sécurisé et j'utilise Proton Pass, comme
+
+879
+00:46:33.488 --> 00:46:34.088
+il dit Mika.
+
+880
+00:46:34.908 --> 00:46:35.628
+Ça marche très bien.
+
+881
+00:46:35.668 --> 00:46:37.728
+Ça marche bien. C'est gratuit, Proton Pass
+
+882
+00:46:39.268 --> 00:46:40.528
+? Il y a une version gratuite, oui.
+
+883
+00:46:41.708 --> 00:46:43.788
+Mais comme moi, je veux utiliser les emails
+
+884
+00:46:48.768 --> 00:46:49.888
+dynamiques, alias,
+
+885
+00:46:51.568 --> 00:46:54.638
+j'ai pris la version payante. Ça ne coûte pas très cher, 2, 3 € par mois
+
+886
+00:46:55.268 --> 00:46:59.168
+et ça permet d'éviter les spams. Là, je suis en train de faire de plus en plus la
+
+887
+00:46:59.208 --> 00:46:59.688
+transition.
+
+888
+00:47:00.588 --> 00:47:01.048
+C'est bien, en vrai.
+
+889
+00:47:01.628 --> 00:47:04.178
+Du coup, tu peux créer autant de mails que tu veux ?
+
+890
+00:47:04.248 --> 00:47:04.828
+Oui.
+
+891
+00:47:04.838 --> 00:47:08.588
+Oui, ce n'est pas mal ça. Et ça coûte combien pour avoir ça
+
+892
+00:47:10.108 --> 00:47:10.108
+?
+
+893
+00:47:10.208 --> 00:47:11.148
+Par mois, 2, 3 €.
+
+894
+00:47:12.108 --> 00:47:12.218
+Ok.
+
+895
+00:47:13.988 --> 00:47:17.368
+Tu as un mail de base et tu crées des alias pour ce que tu veux.
+
+896
+00:47:17.388 --> 00:47:19.888
+Un mail @proton.me.
+
+897
+00:47:21.548 --> 00:47:25.248
+Et tu crées des alias. Comme ça, s'il y a
+
+898
+00:47:25.428 --> 00:47:29.188
+un compte qui se fait hacker, Amazon ou même sur un site de newsletter,
+
+899
+00:47:29.648 --> 00:47:32.448
+c'est ton alias qui se fait spam, pas ton vrai mail.
+
+900
+00:47:32.748 --> 00:47:35.528
+Oui, tu fais Pierre machin -Amazon.
+
+901
+00:47:36.568 --> 00:47:38.548
+Oui, c'est ça. Après, lui, te le fait automatiquement.
+
+902
+00:47:38.808 --> 00:47:39.508
+Ton mail dédié.
+
+903
+00:47:40.428 --> 00:47:42.548
+Il te le génère automatiquement.
+
+904
+00:47:43.448 --> 00:47:46.088
+C'est connecté à Proton Pass qui fait que
+
+905
+00:47:47.508 --> 00:47:49.208
+ça crée le mail automatiquement ?
+
+906
+00:47:49.888 --> 00:47:52.468
+Oui, c'est ça. Tu peux le modifier si tu veux, mais il te
+
+907
+00:47:53.628 --> 00:47:57.548
+préremplit le mail provisoire ainsi que le mot de passe.
+
+908
+00:47:58.028 --> 00:47:59.688
+Puis tu peux gérer toi, si tu veux.
+
+909
+00:48:01.048 --> 00:48:01.608
+Et si tu prends
+
+910
+00:48:02.608 --> 00:48:06.308
+l'abonnement email, tu as le pass inclus ou c'est un truc global ?
+
+911
+00:48:06.428 --> 00:48:07.648
+Comment ça marche ?
+
+912
+00:48:07.708 --> 00:48:09.508
+Leur boîte mail, je n'ai toujours pas compris à quoi ça servait.
+
+913
+00:48:09.628 --> 00:48:10.208
+Moi, je n'utilise pas.
+
+914
+00:48:11.428 --> 00:48:11.648
+Ok.
+
+915
+00:48:14.548 --> 00:48:17.128
+J'utilise celle de Apple, par défaut.
+
+916
+00:48:24.528 --> 00:48:25.328
+Ok.
+
+917
+00:48:29.308 --> 00:48:31.868
+Oui, tu l'avais envoyé, le truc de scrapping.
+
+918
+00:48:32.768 --> 00:48:35.568
+Je regarderai ce que ça donne. Ça a l'air pas mal ton truc.
+
+919
+00:48:36.368 --> 00:48:37.428
+Je vais l'installer juste après.
+
+920
+00:48:38.228 --> 00:48:40.128
+Je vais essayer de convertir ça.
+
+921
+00:48:41.348 --> 00:48:45.128
+Du coup, quand ça marche, c'est quoi ? Installer.
+
+922
+00:48:47.288 --> 00:48:48.248
+Installation.
+
+923
+00:48:49.828 --> 00:48:50.388
+J'essaie d'aller sur-
+
+924
+00:48:50.948 --> 00:48:52.568
+C'est du Python du coup ?
+
+925
+00:48:52.588 --> 00:48:52.688
+Oui.
+
+926
+00:48:52.728 --> 00:48:54.868
+Qui installe Scraping.
+
+927
+00:48:56.588 --> 00:48:58.708
+J'imagine que Claude peut le faire tourner.
+
+928
+00:48:58.948 --> 00:49:01.808
+Il peut l'installer, le lancer et jouer avec.
+
+929
+00:49:02.168 --> 00:49:02.308
+Oui.
+
+930
+00:49:04.008 --> 00:49:04.308
+Ok.
+
+931
+00:49:07.288 --> 00:49:09.428
+Tu peux même le f****e sur un Hermes ou OpenClou,
+
+932
+00:49:10.548 --> 00:49:12.128
+un agent qui ne fait que ça.
+
+933
+00:49:14.388 --> 00:49:18.188
+Il faudra voir comment ça fonctionne en fond,
+
+934
+00:49:18.248 --> 00:49:18.428
+mais
+
+935
+00:49:20.248 --> 00:49:23.908
+tu lui dis : « Je veux scraper telle page » et j'imagine qu'il analyse,
+
+936
+00:49:24.228 --> 00:49:25.198
+il dit ce que tu veux,
+
+937
+00:49:26.028 --> 00:49:28.448
+que tu choppes et après il le fait en masse.
+
+938
+00:49:28.608 --> 00:49:30.628
+GitHub, ça a l'air d'être plus simple au niveau de comment l'installer.
+
+939
+00:49:31.828 --> 00:49:32.968
+En tout cas c'est soutenu par Claude.
+
+940
+00:49:34.288 --> 00:49:35.168
+Ah oui ?
+
+941
+00:49:35.188 --> 00:49:36.468
+Oui.
+
+942
+00:49:40.248 --> 00:49:41.608
+Par contre, il parle de proxy partout.
+
+943
+00:49:42.428 --> 00:49:44.648
+Est-ce qu'il faut un proxy
+
+944
+00:49:46.248 --> 00:49:46.248
+?
+
+945
+00:49:46.308 --> 00:49:47.508
+Proxy, proxy ?
+
+946
+00:49:47.548 --> 00:49:49.748
+Oui. Il parle de Platinum Sponsor.
+
+947
+00:49:50.128 --> 00:49:52.288
+Je ne sais pas si c'est lié à ça, mais proxy.
+
+948
+00:49:54.768 --> 00:49:55.668
+Les sponsors ?
+
+949
+00:49:55.688 --> 00:49:58.788
+J'en ai vu deux, trois. Est-ce qu'il faut un proxy pour faire tourner ton truc ?
+
+950
+00:50:00.168 --> 00:50:01.338
+Non, c'est du , ça ne sert à rien.
+
+951
+00:50:02.668 --> 00:50:06.608
+Oui. Parce qu'il y a certains
+
+952
+00:50:06.628 --> 00:50:09.207
+sites où c'est compliqué de scraper. Ils bloquent.
+
+953
+00:50:11.528 --> 00:50:13.968
+Après, ça dépend des sites, il faut tester.
+
+954
+00:50:14.048 --> 00:50:17.228
+Moi, ce qui m'intéresse, c'est AliExpress et 1688.
+
+955
+00:50:17.508 --> 00:50:21.088
+Mais en tout cas, quand je vois le truc, anti-bot bypass,
+
+956
+00:50:21.808 --> 00:50:24.088
+même les sites bloqués avec Cloudflare.
+
+957
+00:50:25.028 --> 00:50:26.268
+Tu as la petite case à cocher.
+
+958
+00:50:27.928 --> 00:50:30.588
+Et même ça, ça contourne. Donc je me dis, à partir de là...
+
+959
+00:50:33.707 --> 00:50:35.627
+Il faudra voir ce que ça donne. Ça a l'air pas mal.
+
+960
+00:50:36.448 --> 00:50:37.198
+Comment tu sais que c'est
+
+961
+00:50:38.248 --> 00:50:42.028
+poussé ? Enfin, non. Dans les
+
+962
+00:50:42.068 --> 00:50:43.748
+contributeurs, on voit qu'il y a Claude.
+
+963
+00:50:43.848 --> 00:50:43.948
+C'est ça
+
+964
+00:50:44.788 --> 00:50:44.788
+?
+
+965
+00:50:44.828 --> 00:50:45.288
+Oui.
+
+966
+00:50:48.428 --> 00:50:48.668
+Ok.
+
+967
+00:50:50.088 --> 00:50:51.188
+Mais ça peut être une alternative.
+
+968
+00:50:51.508 --> 00:50:52.368
+Je vais le tester puis
+
+969
+00:50:53.688 --> 00:50:54.488
+je vais vous faire un
+
+970
+00:50:55.428 --> 00:50:58.168
+compte rendu de ce truc-là. Je sais que le CLI et le MCP aussi.
+
+971
+00:50:58.668 --> 00:51:00.948
+Je ne vois pas trop à quoi ça sert si je passe directement par Claude.
+
+972
+00:51:01.428 --> 00:51:03.408
+Oui. S'il peut exécuter le Python.
+
+973
+00:51:03.788 --> 00:51:10.688
+Ok,
+
+974
+00:51:11.128 --> 00:51:11.968
+intéressant.
+
+975
+00:51:16.148 --> 00:51:16.948
+FastJSON.
+
+976
+00:51:19.448 --> 00:51:20.328
+Je ne sais pas, c'est
+
+977
+00:51:21.208 --> 00:51:22.088
+propulsé le truc
+
+978
+00:51:23.048 --> 00:51:24.678
+? Plus rapide que les scrappings par défaut ?
+
+979
+00:51:24.688 --> 00:51:26.248
+Je ne sais pas
+
+980
+00:51:27.428 --> 00:51:28.408
+pourquoi il passe.
+
+981
+00:51:31.008 --> 00:51:33.588
+Je ne sais pas du tout comment ça marche.
+
+982
+00:51:34.228 --> 00:51:36.568
+Mais dans les benchmarks, ils
+
+983
+00:51:37.788 --> 00:51:39.568
+se mettent en premier, deux millisecondes.
+
+984
+00:51:40.398 --> 00:51:41.928
+Il y a d'autres où c'est beaucoup plus long.
+
+985
+00:51:51.268 --> 00:51:52.388
+Tu voulais partager ton
+
+986
+00:51:55.248 --> 00:51:58.048
+je ne sais plus quoi d'ailleurs. Base de données, un truc comme ça.
+
+987
+00:51:59.268 --> 00:51:59.828
+Oui.
+
+988
+00:52:03.608 --> 00:52:06.948
+Du coup, c'est quoi ? NocoDB que tu montres ou RTBLavant
+
+989
+00:52:08.028 --> 00:52:08.028
+?
+
+990
+00:52:09.488 --> 00:52:10.168
+Les deux, c'est les mêmes.
+
+991
+00:52:12.188 --> 00:52:14.078
+Je vais plus montrer NocoDB.
+
+992
+00:52:15.228 --> 00:52:15.948
+Qui est le nouveau.
+
+993
+00:52:16.928 --> 00:52:19.528
+Attends, il faut que j'autorise le screen avec Mac.
+
+994
+00:52:19.628 --> 00:52:20.608
+Oui.
+
+995
+00:52:21.868 --> 00:52:23.468
+Sécurité.
+
+996
+00:52:30.888 --> 00:52:33.268
+Il me demande de quitter le navigateur. Ça ne va pas le faire.
+
+997
+00:52:34.828 --> 00:52:37.468
+Il faut quitter et relancer le navigateur pour partager.
+
+998
+00:52:38.888 --> 00:52:39.588
+Super.
+
+999
+00:52:45.948 --> 00:52:46.548
+Je reviens.
+
+1000
+00:52:47.988 --> 00:52:58.878
+Vas-y.
+
+1001
+00:53:03.128 --> 00:53:03.948
+Magnifique.
+
+1002
+00:53:05.508 --> 00:53:07.508
+D'ailleurs, c'est quoi le navigateur que tu utilises sur ton Mac
+
+1003
+00:53:08.808 --> 00:53:08.808
+?
+
+1004
+00:53:11.088 --> 00:53:12.798
+Là, c'est Chrome, mais sinon en perso, c'est
+
+1005
+00:53:13.728 --> 00:53:14.108
+Brave.
+
+1006
+00:53:15.848 --> 00:53:17.278
+Brave ?
+
+1007
+00:53:17.308 --> 00:53:18.448
+Oui, en perso.
+
+1008
+00:53:19.088 --> 00:53:20.678
+C'est quoi Brave ?
+
+1009
+00:53:20.708 --> 00:53:20.718
+Tu ne
+
+1010
+00:53:20.718 --> 00:53:26.448
+connais
+
+1011
+00:53:27.368 --> 00:53:27.378
+pas ?
+
+1012
+00:53:27.448 --> 00:53:27.888
+Non. Brave
+
+1013
+00:53:28.788 --> 00:53:28.788
+?
+
+1014
+00:53:28.888 --> 00:53:30.068
+Oui, Brave Browser.
+
+1015
+00:53:30.108 --> 00:53:31.588
+Ah, Brave ! Ok, d'accord.
+
+1016
+00:53:33.528 --> 00:53:35.488
+Je ne suis pas bon en anglais, donc je n'ai pas compris.
+
+1017
+00:53:35.548 --> 00:53:37.068
+Je croyais que c'était Drive que tu disais.
+
+1018
+00:53:37.108 --> 00:53:38.428
+Ah non.
+
+1019
+00:53:39.048 --> 00:53:39.588
+Je n'ai pas la
+
+1020
+00:53:40.888 --> 00:53:42.668
+bonne compréhension des
+
+1021
+00:53:44.188 --> 00:53:45.868
+lettres en anglais. Brave, ok.
+
+1022
+00:53:46.708 --> 00:53:50.528
+Moi, je dis Brave, mais ça ne doit pas se dire comme ça, j'imagine.
+
+1023
+00:53:51.868 --> 00:53:52.488
+Ok, oui, je vois.
+
+1024
+00:54:01.748 --> 00:54:02.688
+Tu as dû requitter donc.
+
+1025
+00:54:02.708 --> 00:54:19.488
+Yes.
+
+1026
+00:54:19.528 --> 00:54:20.868
+Je vais faire tout l'écran parce que ça me saoule.
+
+1027
+00:54:22.348 --> 00:54:22.538
+Alors,
+
+1028
+00:54:23.428 --> 00:54:24.688
+Create project. Voilà.
+
+1029
+00:54:27.928 --> 00:54:28.508
+Sourcing.
+
+1030
+00:54:29.708 --> 00:54:30.668
+Vous voyez bien là ?
+
+1031
+00:54:30.688 --> 00:54:30.888
+Oui.
+
+1032
+00:54:34.678 --> 00:54:35.258
+Vous m'entendez ?
+
+1033
+00:54:36.198 --> 00:54:39.438
+Oui. On t'entend, on voit.
+
+1034
+00:54:40.658 --> 00:54:41.498
+Je vais dégager ça.
+
+1035
+00:54:43.538 --> 00:54:45.538
+Ce que je fais, c'est qu'ici j'ai
+
+1036
+00:54:48.318 --> 00:54:50.718
+fait deux boutons. Normalement, j'en ai plus avec AirTable.
+
+1037
+00:54:51.518 --> 00:54:53.458
+J'ai tout ça : un, deux, trois, quatre.
+
+1038
+00:54:53.818 --> 00:54:57.738
+Chaque bouton lance un workflow pour ce que je
+
+1039
+00:54:57.758 --> 00:55:00.318
+veux faire. Information, créer information.
+
+1040
+00:55:00.598 --> 00:55:01.418
+Ça, c'est vraiment pour
+
+1041
+00:55:02.618 --> 00:55:03.558
+lancer mon workflow.
+
+1042
+00:55:03.738 --> 00:55:04.748
+Ce sont des liens qui balancent
+
+1043
+00:55:06.557 --> 00:55:07.298
+un truc à N8N ?
+
+1044
+00:55:07.858 --> 00:55:11.598
+Oui, ce sont des webbooks. Ça permet de
+
+1045
+00:55:11.638 --> 00:55:13.358
+lancer différents workflows que j'ai.
+
+1046
+00:55:14.098 --> 00:55:16.118
+Le numéro un, le numéro deux, trois, quatre.
+
+1047
+00:55:18.598 --> 00:55:22.478
+Dedans, j'ai le nom produit, UX Title, c'est
+
+1048
+00:55:22.858 --> 00:55:26.798
+un autre truc, le Slug. AliExpress, lien, ainsi
+
+1049
+00:55:26.838 --> 00:55:30.798
+de suite, lien, les images galerie. Tu peux en mettre plusieurs.
+
+1050
+00:55:32.198 --> 00:55:35.778
+Avec le nom produit, les noms des images que
+
+1051
+00:55:35.798 --> 00:55:36.498
+j'automatise aussi.
+
+1052
+00:55:38.018 --> 00:55:41.318
+Les specs, une fois que la description est faite,
+
+1053
+00:55:41.818 --> 00:55:45.758
+ça récupère toutes les informations,
+
+1054
+00:55:45.958 --> 00:55:46.878
+descriptions produits
+
+1055
+00:55:47.718 --> 00:55:51.238
+ainsi que les images avec toutes les mentions
+
+1056
+00:55:52.798 --> 00:55:55.458
+sur les images. Ça me compacte tout.
+
+1057
+00:55:56.158 --> 00:55:56.978
+Ça me fait une belle phrase
+
+1058
+00:55:57.818 --> 00:55:59.458
+avec les tailles, le poids, etc.
+
+1059
+00:56:02.058 --> 00:56:05.558
+Avec les particularités, etc. C'est vraiment ma donnée first party.
+
+1060
+00:56:06.638 --> 00:56:10.598
+C'est hyper complet. C'est grâce à ça que je rebalance ça
+
+1061
+00:56:10.718 --> 00:56:13.538
+où je veux, dans la partie rédaction de fiches produits si je veux,
+
+1062
+00:56:14.858 --> 00:56:18.598
+pour avoir un max de contexte et avoir justement une description
+
+1063
+00:56:18.618 --> 00:56:19.678
+produit de la plus haute qualité.
+
+1064
+00:56:20.338 --> 00:56:24.168
+Ça, ce n'est pas pour le site, c'est un gros truc pour toi, repiocher dedans où tu
+
+1065
+00:56:24.178 --> 00:56:25.278
+as vraiment toutes tes infos produits.
+
+1066
+00:56:25.478 --> 00:56:29.358
+C'est ça. Si demain, j'ai envie de faire un truc par rapport à tel produit, je
+
+1067
+00:56:29.398 --> 00:56:33.278
+vais reprendre ce bloc-là. C'est ce qui
+
+1068
+00:56:33.298 --> 00:56:36.018
+décrit tout le produit. Je n'ai pas à le refaire.
+
+1069
+00:56:37.418 --> 00:56:38.278
+Je repioche la donnée.
+
+1070
+00:56:39.378 --> 00:56:39.558
+Ok.
+
+1071
+00:56:42.438 --> 00:56:43.168
+Il y a le poids,
+
+1072
+00:56:44.438 --> 00:56:47.998
+les tailles. Tout ça, c'est rempli automatiquement quand je lance le
+
+1073
+00:56:48.458 --> 00:56:52.298
+créer information. Ça me met le poids, les différentes
+
+1074
+00:56:52.338 --> 00:56:55.238
+tailles, le nombre de poches quand ça détecte.
+
+1075
+00:56:55.598 --> 00:56:58.898
+Des fois, ça ne détecte pas, donc je le refais à la main, mais ce n'est pas très
+
+1076
+00:56:58.918 --> 00:57:01.998
+grave. Ça me prend beaucoup moins de temps de juste vérifier comme ça.
+
+1077
+00:57:02.918 --> 00:57:06.678
+Si c'est waterproof, les matières, les catégories principales,
+
+1078
+00:57:06.738 --> 00:57:10.058
+secondaires. Et ça me le fait automatiquement.
+
+1079
+00:57:10.138 --> 00:57:14.118
+Ça détecte si par exemple, il y a sac à dos PC, sac à dos
+
+1080
+00:57:14.778 --> 00:57:18.458
+pour femme. Ça détecte par rapport au contexte
+
+1081
+00:57:19.078 --> 00:57:22.888
+ici qui est envoyé. Sac à dos maman, si j'ai la catégorie sac à dos
+
+1082
+00:57:22.938 --> 00:57:25.878
+maman, ça vient les attribuer automatiquement.
+
+1083
+00:57:28.038 --> 00:57:29.258
+Après, pareil pour
+
+1084
+00:57:30.198 --> 00:57:30.718
+variation.
+
+1085
+00:57:32.998 --> 00:57:36.918
+Ça, c'est ce que je disais tout à l'heure. J'ai réussi à le balancer en bulk.
+
+1086
+00:57:38.898 --> 00:57:40.738
+Ça me crée quatre variations par défaut.
+
+1087
+00:57:41.738 --> 00:57:44.698
+Parce qu'en général, pour ma niche, c'est quatre variations par défaut.
+
+1088
+00:57:45.098 --> 00:57:48.738
+Si je veux en ajouter une, je l'ajoute à la main, ça ne va pas
+
+1089
+00:57:48.798 --> 00:57:51.698
+me gêner plus qu'autre chose. Si je veux en supprimer, pareil.
+
+1090
+00:57:52.338 --> 00:57:55.458
+Par défaut, là, j'avais déjà commencé avec certains produits.
+
+1091
+00:57:55.678 --> 00:57:59.218
+Ça me met deux images. Ici, je viens mettre directement la couleur.
+
+1092
+00:58:00.098 --> 00:58:00.998
+J'ai juste ça à remplir.
+
+1093
+00:58:01.858 --> 00:58:05.368
+Sinon, les records sont déjà automatiquement créés.
+
+1094
+00:58:05.458 --> 00:58:07.398
+J'ai juste à mettre les images
+
+1095
+00:58:08.278 --> 00:58:09.998
+pour le produit ainsi que les variations
+
+1096
+00:58:10.998 --> 00:58:11.638
+et c'est bon.
+
+1097
+00:58:12.558 --> 00:58:14.398
+Pareil pour la partie image bloc.
+
+1098
+00:58:16.058 --> 00:58:17.238
+J'en ai 10 par défaut.
+
+1099
+00:58:18.958 --> 00:58:19.958
+J'ai juste à mettre les images.
+
+1100
+00:58:22.278 --> 00:58:24.898
+Il y a déjà le lien du produit qui est fait.
+
+1101
+00:58:27.458 --> 00:58:31.078
+Automatiquement, le record avec le prix d'achat, prix hors taxes, etc.
+
+1102
+00:58:34.058 --> 00:58:37.698
+Tout est déjà pré-map. J'ai juste à mettre les images et
+
+1103
+00:58:39.838 --> 00:58:43.718
+les variations. Sinon, tout est déjà créé. Je n'ai plus ça à refaire à chaque fois.
+
+1104
+00:58:44.458 --> 00:58:47.978
+Et ça, ça gagnait beaucoup de temps. Imagine tout recréer à la main comme ça.
+
+1105
+00:58:48.758 --> 00:58:50.678
+Il y a peut-être un peu plus de 100 produits.
+
+1106
+00:58:53.138 --> 00:58:54.257
+C'est comme ça que je m'organise.
+
+1107
+00:58:55.197 --> 00:58:56.358
+Une colonne par information.
+
+1108
+00:58:58.778 --> 00:59:00.478
+C'était la question d'Aymeric tout à l'heure.
+
+1109
+00:59:01.818 --> 00:59:05.138
+Une colonne pour chaque info et ensuite tout ça est rebalancé
+
+1110
+00:59:05.698 --> 00:59:07.958
+directement vers mon WooCommerce.
+
+1111
+00:59:09.448 --> 00:59:10.678
+Sinon, pour le workflow,
+
+1112
+00:59:11.498 --> 00:59:14.378
+le scrapping, j'ai fait ça comme ça sur N8N.
+
+1113
+00:59:16.278 --> 00:59:17.118
+Je prends un webbook.
+
+1114
+00:59:18.018 --> 00:59:21.458
+Pour NocoDB, il faut prendre un module HTTP.
+
+1115
+00:59:21.538 --> 00:59:25.448
+Ceux par défaut, ils sont avec l'ancienne API, la V2, et maintenant, ils
+
+1116
+00:59:25.518 --> 00:59:27.958
+utilisent la V3, donc là-dessus, sur N8N,
+
+1117
+00:59:29.478 --> 00:59:33.238
+ça ne fonctionne plus la V2. Il faut passer par la
+
+1118
+00:59:33.278 --> 00:59:37.238
+V3. Et pour utiliser l'API V3 de NocoDB,
+
+1119
+00:59:37.528 --> 00:59:41.158
+il faut passer par un module HTTP. Mais ça, Claude le fait très bien tout seul.
+
+1120
+00:59:41.418 --> 00:59:42.678
+C'est Claude qui m'a tout fait.
+
+1121
+00:59:43.918 --> 00:59:45.578
+Ensuite, ça extrait les données,
+
+1122
+00:59:46.918 --> 00:59:48.758
+ça vient analyser mes données de mon tableau.
+
+1123
+00:59:49.118 --> 00:59:49.478
+Ensuite,
+
+1124
+00:59:50.638 --> 00:59:54.558
+si j'ai un lien 1 6 8 8, ça le prend. Si je n'en ai pas, parce que
+
+1125
+00:59:54.578 --> 00:59:58.548
+parfois ça m'arrive avec AliExpress, il y a certains produits où il
+
+1126
+00:59:58.558 --> 01:00:02.178
+y a tellement de données que je n'ai pas besoin de prendre un lien 1 6 8 8.
+
+1127
+01:00:03.258 --> 01:00:06.818
+Au final, je ne prends que celui de AliExpress.
+
+1128
+01:00:07.118 --> 01:00:10.418
+Ça m'évite de dupliquer. Des fois, il y a 50 images sur
+
+1129
+01:00:10.598 --> 01:00:13.598
+AliExpress, 50 images avec 1 6 8 8.
+
+1130
+01:00:14.458 --> 01:00:15.958
+Là, c'est un peu trop overkill.
+
+1131
+01:00:17.418 --> 01:00:19.878
+Il m'arrive de garder que le lien AliExpress.
+
+1132
+01:00:20.618 --> 01:00:22.698
+Mais si jamais j'ai les deux liens,
+
+1133
+01:00:23.518 --> 01:00:27.398
+il y a la branche qui prend le lien 1 6 8 8, la branche
+
+1134
+01:00:27.458 --> 01:00:30.918
+qui prend le lien AliExpress, ça récupère les informations,
+
+1135
+01:00:31.918 --> 01:00:35.158
+ça me les combine et ensuite ici, ça fait OCR des images.
+
+1136
+01:00:35.738 --> 01:00:39.386
+J'ai bien expliqué ce que ça fait.S'il y a des
+
+1137
+01:00:40.366 --> 01:00:43.846
+images qui contiennent du texte, ça vient aussi scraper avec
+
+1138
+01:00:43.866 --> 01:00:46.446
+l'OCR. Pour ça, je passe par Replicate.
+
+1139
+01:00:47.586 --> 01:00:51.146
+Il y a plusieurs modèles, c'est moins d'un centime par image, donc
+
+1140
+01:00:51.446 --> 01:00:55.206
+ça ne coûte que dalle. Ensuite, ça récupère tout, ça me met tout
+
+1141
+01:00:55.246 --> 01:00:58.806
+dans un prompt. Ça vient clean la data pour garder ce qu'il y a
+
+1142
+01:00:58.826 --> 01:01:01.306
+d'essentiel par rapport à mes produits.
+
+1143
+01:01:03.166 --> 01:01:07.156
+Tout ce qui est les publicités, des fois sur les images de 1 6 8 8,
+
+1144
+01:01:07.226 --> 01:01:09.706
+ça pollue plus qu'autre chose, donc je ne les garde pas.
+
+1145
+01:01:10.365 --> 01:01:11.846
+J'ai un premier filtre avec
+
+1146
+01:01:12.646 --> 01:01:16.276
+la génération Gemini, ça me les
+
+1147
+01:01:16.326 --> 01:01:18.026
+filtre. Ensuite, ça me génère la
+
+1148
+01:01:19.906 --> 01:01:20.606
+description.
+
+1149
+01:01:21.466 --> 01:01:22.326
+Enfin, ce n'est pas la description.
+
+1150
+01:01:23.226 --> 01:01:24.166
+Attends, est-ce que je peux faire...
+
+1151
+01:01:25.186 --> 01:01:26.326
+Je n'ai pas d'exécution.
+
+1152
+01:01:27.646 --> 01:01:28.266
+Exemple.
+
+1153
+01:01:30.506 --> 01:01:31.046
+Est-ce que
+
+1154
+01:01:32.426 --> 01:01:33.226
+j'ai dupliqué
+
+1155
+01:01:34.266 --> 01:01:35.306
+? Je vais peut-être retrouver.
+
+1156
+01:01:37.626 --> 01:01:40.066
+Ça les efface, mince.
+
+1157
+01:01:41.186 --> 01:01:44.846
+J'aurais pu vous montrer un exemple de génération.
+
+1158
+01:01:46.546 --> 01:01:48.626
+Mais là, je ne peux pas, ce n'est pas grave.
+
+1159
+01:01:51.706 --> 01:01:55.306
+Mais en fonction de la data qui est analysée, ça vient me la
+
+1160
+01:01:55.466 --> 01:01:56.186
+rebasculer
+
+1161
+01:01:57.426 --> 01:01:57.686
+ici.
+
+1162
+01:01:58.926 --> 01:02:02.686
+Si ça a détecté le poids, ça vient me mettre le poids ici,
+
+1163
+01:02:03.206 --> 01:02:05.166
+les différentes tailles, le litre, etc.
+
+1164
+01:02:06.406 --> 01:02:08.726
+C'est qui qui fait ça ? C'est quoi comme module ?
+
+1165
+01:02:08.866 --> 01:02:09.546
+Ça, c'est Gemini.
+
+1166
+01:02:09.886 --> 01:02:13.806
+C'est Gemini qui lit les données qu'il va remplir dans ton tableau au
+
+1167
+01:02:13.846 --> 01:02:14.126
+final ?
+
+1168
+01:02:14.186 --> 01:02:18.126
+Oui, c'est ça. Spec produit, data finale, j'ai mis seconde catégorie.
+
+1169
+01:02:19.906 --> 01:02:23.446
+C'est avec un JSON. C'est les JSON qui trient les
+
+1170
+01:02:23.486 --> 01:02:27.466
+données analysées en entrée et en sortie, ils me
+
+1171
+01:02:27.506 --> 01:02:27.786
+splitent
+
+1172
+01:02:28.926 --> 01:02:32.466
+les datas pour me les refoutre colonne par colonne.
+
+1173
+01:02:33.726 --> 01:02:34.626
+C'est un JSON qui fait ça.
+
+1174
+01:02:35.686 --> 01:02:39.566
+Dedans, il y a un JSON où je lui explique, il y a le nom
+
+1175
+01:02:39.606 --> 01:02:43.306
+exact des colonnes et comme ça il n'a plus qu'à mettre les infos par rapport à la
+
+1176
+01:02:43.326 --> 01:02:46.666
+colonne. Et avec l'intelligence de Gemini, c'est Gemini
+
+1177
+01:02:46.686 --> 01:02:50.346
+qui sait reconnaître le poids, c'est le poids, la
+
+1178
+01:02:50.366 --> 01:02:51.626
+longueur, c'est la longueur, etc.
+
+1179
+01:02:53.126 --> 01:02:54.386
+Waterproof : oui, non.
+
+1180
+01:02:56.146 --> 01:02:59.886
+Ensuite, il y a aussi Upload. Pour les images
+
+1181
+01:03:00.766 --> 01:03:02.186
+qui ont été téléchargées
+
+1182
+01:03:03.446 --> 01:03:07.346
+ici. Je préfère par défaut prendre les images de 1
+
+1183
+01:03:07.526 --> 01:03:09.826
+6 8 8, je les trouve de plus haute qualité.
+
+1184
+01:03:12.486 --> 01:03:15.766
+Ici, ça vient me garder les images qui ont été analysées, parce
+
+1185
+01:03:15.786 --> 01:03:19.666
+que ici dans le module, ça ne vient pas scraper
+
+1186
+01:03:19.746 --> 01:03:20.226
+uniquement
+
+1187
+01:03:21.046 --> 01:03:24.766
+la description, ça vient prendre aussi les images, ça les télécharge.
+
+1188
+01:03:27.206 --> 01:03:30.986
+Je récupère la variable du JSON image et ça me les
+
+1189
+01:03:31.006 --> 01:03:31.986
+envoie dans Google Drive.
+
+1190
+01:03:33.166 --> 01:03:34.246
+Dans Google Drive,
+
+1191
+01:03:35.926 --> 01:03:36.446
+ça me fait ça,
+
+1192
+01:03:37.366 --> 01:03:39.866
+ça me les met dans Images Download, comme tu peux le voir.
+
+1193
+01:03:40.386 --> 01:03:41.806
+Ça, c'est celles de 1 6 8
+
+1194
+01:03:42.906 --> 01:03:45.326
+8, avec une nomenclature. Ici, il y a le nom du
+
+1195
+01:03:46.126 --> 01:03:49.466
+produit. Après, variations, parce que je sais que c'est pour les
+
+1196
+01:03:49.486 --> 01:03:51.646
+variations. Et après, le numéro de l'image.
+
+1197
+01:03:52.806 --> 01:03:55.326
+Il y a aussi Galerie. Là, il y a les images bloc.
+
+1198
+01:03:55.746 --> 01:03:58.406
+C'est celles qui sont utilisées normalement pour les images bloc.
+
+1199
+01:03:59.786 --> 01:04:03.466
+Il y a Images Galerie aussi, où ça sera pour les images galerie.
+
+1200
+01:04:03.526 --> 01:04:06.396
+C'est juste pour moi, c'est un mnémotechnique, histoire qu'il n'y ait pas des noms
+
+1201
+01:04:06.466 --> 01:04:08.545
+random et que je me dise : « Ça, c'est quoi ?
+
+1202
+01:04:09.966 --> 01:04:11.646
+» Après, il y a aussi les images AliExpress.
+
+1203
+01:04:11.936 --> 01:04:15.886
+Parfois, il y a des images où je suis obligé de
+
+1204
+01:04:15.926 --> 01:04:16.766
+prendre celles d'AliExpress.
+
+1205
+01:04:17.746 --> 01:04:19.366
+Il
+
+1206
+01:04:20.566 --> 01:04:24.006
+y a des images, parfois, c'est mieux que 1 6 8 8. Donc ça dépend.
+
+1207
+01:04:24.046 --> 01:04:27.486
+Au moins, j'ai les deux et plus j'ai de choix, mieux j'ai de choix.
+
+1208
+01:04:29.926 --> 01:04:32.906
+Ça me le fait par produit. Ça me crée un dossier par produit quand je lance ici.
+
+1209
+01:04:35.026 --> 01:04:38.846
+Créer info 1, 2, 3, 4. Et là, il y a le produit 12.
+
+1210
+01:04:39.546 --> 01:04:42.386
+Est-ce que j'ai le produit 12 ici ? Non, il n'y a pas, je ne l'ai pas lancé.
+
+1211
+01:04:43.606 --> 01:04:46.806
+Imaginons le produit 107. Le produit 107, c'est celui-là.
+
+1212
+01:04:47.706 --> 01:04:49.716
+Il va chercher les images de 1 6 8 8,
+
+1213
+01:04:50.726 --> 01:04:51.626
+celles d'AliExpress.
+
+1214
+01:04:52.566 --> 01:04:56.136
+Comme ça, j'ai le choix, je peux en faire ce que je veux, les modifier, les
+
+1215
+01:04:56.186 --> 01:04:57.386
+rebalancer. Et une fois que
+
+1216
+01:04:59.106 --> 01:05:02.186
+j'ai mes images finales éditées ou triées,
+
+1217
+01:05:03.046 --> 01:05:06.666
+je les mets dans Images Galerie. Et dans Images Galerie, ça me permet de lancer un
+
+1218
+01:05:06.706 --> 01:05:07.306
+workflow.
+
+1219
+01:05:09.786 --> 01:05:12.766
+C'est ce que j'ai fait pour l'instant, Image Processing.
+
+1220
+01:05:14.886 --> 01:05:14.966
+Ça
+
+1221
+01:05:15.806 --> 01:05:18.066
+me permet de lancer Galerie Pipeline.
+
+1222
+01:05:18.886 --> 01:05:20.766
+Il y a le trigger, ça détecte
+
+1223
+01:05:22.446 --> 01:05:25.926
+celles dans Images Galerie et ça me fait la conversion automatiquement.
+
+1224
+01:05:26.146 --> 01:05:27.686
+Ça me lance le workflow.
+
+1225
+01:05:27.706 --> 01:05:28.386
+Et ça te fait quoi là ?
+
+1226
+01:05:29.226 --> 01:05:33.126
+Là, ça uploade un image, ça remove le background de l'image
+
+1227
+01:05:33.186 --> 01:05:33.766
+que j'uploade
+
+1228
+01:05:35.046 --> 01:05:38.006
+dans Images Galerie. Ça remove le background,
+
+1229
+01:05:38.826 --> 01:05:42.006
+ça vient ajouter une ombre avec Nano Banana 2.
+
+1230
+01:05:42.046 --> 01:05:43.786
+D'après mes tests, c'est une meilleure.
+
+1231
+01:05:44.906 --> 01:05:45.386
+Ensuite,
+
+1232
+01:05:47.546 --> 01:05:50.846
+ça la resize en 1200 par 1200. Oui, ça l'upscale aussi.
+
+1233
+01:05:51.186 --> 01:05:51.966
+Ça l'upscale,
+
+1234
+01:05:53.486 --> 01:05:56.606
+ça la resize après en 1200 par 1200, ça la compresse.
+
+1235
+01:05:57.826 --> 01:05:57.926
+Et
+
+1236
+01:05:59.546 --> 01:06:02.706
+après, ça la save directement dans le dossier final.
+
+1237
+01:06:03.156 --> 01:06:04.046
+Pourquoi il y a trois « compresse »
+
+1238
+01:06:05.766 --> 01:06:05.766
+?
+
+1239
+01:06:05.846 --> 01:06:07.046
+Je ne sais plus après où est-ce que ça les met.
+
+1240
+01:06:10.926 --> 01:06:14.446
+Non, ça me crée un autre dossier dans Images Galerie avec le nom du
+
+1241
+01:06:14.466 --> 01:06:18.166
+produit pour après pouvoir rebalancer par rapport au nom du produit
+
+1242
+01:06:19.646 --> 01:06:21.006
+automatiquement
+
+1243
+01:06:23.326 --> 01:06:25.986
+ici, dans Images Galerie. Ça me les f**t automatiquement ici.
+
+1244
+01:06:26.876 --> 01:06:28.666
+P****n.
+
+1245
+01:06:30.066 --> 01:06:32.466
+Voilà. Le seul truc manuel que j'ai à faire,
+
+1246
+01:06:33.206 --> 01:06:36.706
+c'est la partie image. Sinon, le reste, c'est automatisé.
+
+1247
+01:06:41.346 --> 01:06:45.298
+Incroyable.C'est bien poussé tes trucs, ça a l'air
+
+1248
+01:06:46.078 --> 01:06:46.738
+bien ficelé.
+
+1249
+01:06:47.838 --> 01:06:50.558
+J'essaie de convertir ça à Claude, mais c'est compliqué parce que
+
+1250
+01:06:52.418 --> 01:06:55.638
+j'ai tout bien ficelé avec N8N.
+
+1251
+01:06:56.398 --> 01:06:59.058
+Au moins, je sais module par module ce qui se passe, mais après,
+
+1252
+01:06:59.757 --> 01:07:01.858
+c'est compliqué.
+
+1253
+01:07:02.618 --> 01:07:05.718
+Après, Claude peut lire tout ton workflow N8N et le
+
+1254
+01:07:05.758 --> 01:07:08.138
+refaire.
+
+1255
+01:07:08.618 --> 01:07:11.138
+Pour la partie scrapping, ça sera plus simple avec Claude.
+
+1256
+01:07:11.918 --> 01:07:14.758
+C'est vrai, parce que là, je passe par RapidAPI pour
+
+1257
+01:07:15.678 --> 01:07:18.178
+récupérer les données 1688 et AliExpress.
+
+1258
+01:07:19.338 --> 01:07:22.658
+Mais parfois, c'est 100 requêtes par mois.
+
+1259
+01:07:28.038 --> 01:07:29.698
+Le plus simple, j'avais tenté avec
+
+1260
+01:07:30.858 --> 01:07:33.178
+Claude et c'est vrai que c'est beaucoup mieux pour la partie scrapping.
+
+1261
+01:07:33.688 --> 01:07:35.878
+Pour le reste, pour la partie image
+
+1262
+01:07:37.198 --> 01:07:39.778
+et rédaction produit, etc., je pense que je vais laisser avec
+
+1263
+01:07:41.518 --> 01:07:43.717
+N8N parce que c'est bien rodé.
+
+1264
+01:07:44.538 --> 01:07:46.118
+Encore, je n'ai pas montré mon workflow
+
+1265
+01:07:48.878 --> 01:07:51.358
+rédaction de fiche produit. Lui aussi, il est assez complexe.
+
+1266
+01:07:52.998 --> 01:07:56.538
+La partie auto rename image, etc. J'ai
+
+1267
+01:07:56.858 --> 01:07:58.698
+différents workflows pour chaque tâche.
+
+1268
+01:08:00.138 --> 01:08:03.038
+Incroyable. Il faudra
+
+1269
+01:08:05.118 --> 01:08:07.518
+quand même que tu adaptes ton workflow si tu fais un site différent.
+
+1270
+01:08:08.578 --> 01:08:09.398
+Oui, c'est le but.
+
+1271
+01:08:11.278 --> 01:08:13.798
+C'est pour ça que je voulais passer à Claude, parce que je voulais avoir une
+
+1272
+01:08:13.838 --> 01:08:14.578
+gestion de dossiers.
+
+1273
+01:08:15.558 --> 01:08:19.378
+Un dossier fichier statique et dedans, par
+
+1274
+01:08:20.678 --> 01:08:23.178
+site, j'ai juste à modifier ces fichiers-là.
+
+1275
+01:08:24.358 --> 01:08:25.938
+Dynamiquement, il faudrait que Claude
+
+1276
+01:08:27.498 --> 01:08:27.978
+vienne
+
+1277
+01:08:30.038 --> 01:08:31.938
+pinguer, par exemple, le dossier
+
+1278
+01:08:34.898 --> 01:08:36.258
+keyword list,
+
+1279
+01:08:37.478 --> 01:08:40.758
+directement qu'il vienne mettre la variable keyword list dans le fichier statique,
+
+1280
+01:08:41.258 --> 01:08:44.678
+mais que moi, si demain je change de niche,
+
+1281
+01:08:45.258 --> 01:08:46.258
+que je modifie que le
+
+1282
+01:08:47.458 --> 01:08:51.029
+fichier keyword list. C'est ça que j'aimerais,
+
+1283
+01:08:51.458 --> 01:08:52.878
+avoir le truc le plus dynamique possible.
+
+1284
+01:08:54.298 --> 01:08:55.579
+Mais c'est vrai que c'est assez compliqué.
+
+1285
+01:08:57.739 --> 01:09:00.758
+En tout cas, bravo parce que ton workflow a l'air solide.
+
+1286
+01:09:01.378 --> 01:09:01.428
+Ça
+
+1287
+01:09:01.558 --> 01:09:05.798
+demande
+
+1288
+01:09:05.807 --> 01:09:09.418
+trop de temps, tu m'étonnes . Tu m'étonnes que je n'ai toujours pas de truc
+
+1289
+01:09:09.638 --> 01:09:09.958
+lancé.
+
+1290
+01:09:11.199 --> 01:09:14.598
+Ça fait combien de temps que tu as commencé à créer ce système ?
+
+1291
+01:09:14.678 --> 01:09:15.527
+On ne va rien dire
+
+1292
+01:09:17.218 --> 01:09:17.218
+!
+
+1293
+01:09:18.058 --> 01:09:19.358
+Mickaël sait.
+
+1294
+01:09:21.838 --> 01:09:23.218
+Vraiment depuis six mois.
+
+1295
+01:09:23.958 --> 01:09:27.648
+C'est trop bien, bravo. Si tu veux le vendre, je pense que tu trouveras des
+
+1296
+01:09:27.659 --> 01:09:27.958
+preneurs.
+
+1297
+01:09:28.858 --> 01:09:31.378
+Oui, je le garde pour moi, mais c'est clair que je pourrais le vendre.
+
+1298
+01:09:31.998 --> 01:09:34.967
+Le gros avantage comparé à Claude, c'est ce que Mickaël disait l'autre jour, c'est
+
+1299
+01:09:35.038 --> 01:09:35.178
+que
+
+1300
+01:09:36.638 --> 01:09:38.739
+tu es précis sur chaque étape.
+
+1301
+01:09:39.918 --> 01:09:40.378
+Oui, c'est ça.
+
+1302
+01:09:41.058 --> 01:09:43.718
+Moi, j'ai un système qui est beaucoup plus simple avec Claude.
+
+1303
+01:09:43.838 --> 01:09:46.058
+Je pense que j'ai mis moins de temps aussi à le faire.
+
+1304
+01:09:46.079 --> 01:09:49.938
+Mais il y a toujours des choses que je dois réajuster à la main sur chaque fiche
+
+1305
+01:09:49.958 --> 01:09:50.318
+produit.
+
+1306
+01:09:51.978 --> 01:09:54.638
+À la limite, je pense que ça me prend moins de temps que de créer ce système, mais
+
+1307
+01:09:55.118 --> 01:09:57.358
+c'est vrai que tu peux le répliquer pour d'autres sites.
+
+1308
+01:09:57.638 --> 01:09:58.758
+Ce qui est bien, c'est pour les images.
+
+1309
+01:09:58.768 --> 01:10:00.998
+Par exemple, moi, les images, c'est ce qui me prend vraiment le plus de temps.
+
+1310
+01:10:01.838 --> 01:10:05.178
+Parce que j'ai un système, ça me fait quand même pas mal d'images qui
+
+1311
+01:10:07.018 --> 01:10:10.738
+sont bien foireuses, donc ça me coûte aussi des appels API pour
+
+1312
+01:10:10.778 --> 01:10:11.018
+rien.
+
+1313
+01:10:12.278 --> 01:10:15.838
+Non, on peut rêver ton système, mais je pense que le temps de le
+
+1314
+01:10:16.138 --> 01:10:17.358
+mettre en place, c'est un...
+
+1315
+01:10:18.198 --> 01:10:20.618
+Tu sais ce qui te manque, Aymeric, à mon avis, c'est son système d'OSR.
+
+1316
+01:10:25.918 --> 01:10:28.638
+Il lit toutes les infos de toutes ses images, donc il peut avoir une description de
+
+1317
+01:10:28.678 --> 01:10:32.378
+chaque image. Tu peux aussi balancer celles qu'il faut
+
+1318
+01:10:32.418 --> 01:10:34.918
+modifier en fonction de si elles ont besoin ou pas.
+
+1319
+01:10:36.158 --> 01:10:40.098
+C'est celle-là. J'avais arrêté N8N
+
+1320
+01:10:40.278 --> 01:10:42.198
+parce que je passais trop de temps à geeker dessus.
+
+1321
+01:10:43.078 --> 01:10:44.958
+Et je n'en étais pas du tout à ce stade non plus.
+
+1322
+01:10:45.798 --> 01:10:45.918
+Mais
+
+1323
+01:10:46.978 --> 01:10:50.318
+moi, je passe avec Claude. Pour les images, il récupère les images.
+
+1324
+01:10:50.438 --> 01:10:52.278
+C'est que d'AliExpress, donc déjà, c'est moins complet que toi.
+
+1325
+01:10:53.198 --> 01:10:54.578
+Mais il les récupère juste pour prendre la donnée.
+
+1326
+01:10:55.338 --> 01:10:57.838
+Je n'ai pas un fichier où ça me récupère l'image et ensuite, je peux la traiter.
+
+1327
+01:10:58.318 --> 01:11:00.777
+Et ça, c'est des trucs que je peux carrément
+
+1328
+01:11:01.938 --> 01:11:05.638
+ajouter. Après, la grosse différence, c'est que j'ai plein de skills
+
+1329
+01:11:05.657 --> 01:11:09.198
+différentes pour chaque chose. J'ai différents orchestrateurs qui vont regrouper
+
+1330
+01:11:09.238 --> 01:11:11.358
+certaines skills. Mais effectivement, toi, vu que tu as
+
+1331
+01:11:12.918 --> 01:11:14.058
+tout qui est visuellement
+
+1332
+01:11:15.358 --> 01:11:17.258
+bien précis et qui te remet les choses aux bons endroits.
+
+1333
+01:11:18.698 --> 01:11:22.478
+Oui, c'est juste le N8N te permet d'organiser
+
+1334
+01:11:22.998 --> 01:11:26.458
+un peu matériellement des choses, alors que Claude, ça va être...
+
+1335
+01:11:28.138 --> 01:11:32.098
+C'est ce que disait Pierre avant. Il a déjà parlé
+
+1336
+01:11:32.138 --> 01:11:35.958
+de ça. Il aime bien voir visuellement ça et on le voit de ce qu'il a
+
+1337
+01:11:36.018 --> 01:11:39.898
+fait. Tout est bien décrit et on voit le workflow avec un système de
+
+1338
+01:11:39.938 --> 01:11:43.898
+couleurs, d'étapes et tout. Mais premier point,
+
+1339
+01:11:43.998 --> 01:11:47.908
+c'est que tout ce qu'il a fait, tu peux redécrire et tout refaire dans Claude et il
+
+1340
+01:11:47.978 --> 01:11:51.888
+pourra tout refaire pareil. Et deuxième point, c'est que tu
+
+1341
+01:11:51.938 --> 01:11:55.158
+as besoin d'organisation. Tu peux très bien
+
+1342
+01:11:55.218 --> 01:11:59.018
+faire un, ça peut être n'importe quoi, même un HTML
+
+1343
+01:12:00.278 --> 01:12:03.638
+un peu dynamique qui te montre les étapes et qui découpe les
+
+1344
+01:12:03.698 --> 01:12:05.838
+étapes en fonction de ce qu'il y a écrit dans les skills.
+
+1345
+01:12:05.978 --> 01:12:08.498
+Pareil, tu peux avoir un truc visuel si tu as envie.
+
+1346
+01:12:09.858 --> 01:12:12.818
+Ce que je veux dire, c'est par exemple, si tu donnais le conseil à quelqu'un qui
+
+1347
+01:12:12.838 --> 01:12:15.578
+n'a jamais fait. Moi, j'ai fait juste un premier site pour l'instant.
+
+1348
+01:12:15.598 --> 01:12:18.938
+J'ai commencé en décembre. J'ai commencé à faire quelques produits à la main et
+
+1349
+01:12:18.978 --> 01:12:21.318
+après, j'ai redécoupé les différentes tâches que je faisais.
+
+1350
+01:12:21.358 --> 01:12:24.018
+J'ai essayé de les automatiser avec différents outils et différentes choses.
+
+1351
+01:12:24.678 --> 01:12:26.798
+Là, je pense que Pierre, tu as poussé le truc vraiment jusqu'au bout.
+
+1352
+01:12:27.478 --> 01:12:29.618
+Donc si quelqu'un doit commencer, il ne faut surtout pas se lancer là-dedans.
+
+1353
+01:12:29.978 --> 01:12:30.688
+Sinon dans six mois, tu vas-
+
+1354
+01:12:30.718 --> 01:12:34.648
+Non. C'était aussi pour répondre à Manuel qui commençait
+
+1355
+01:12:34.718 --> 01:12:37.758
+Make et qui voulait faire une partie intégration produit.
+
+1356
+01:12:38.098 --> 01:12:39.418
+Je lui ai montré comment ça se passait sous
+
+1357
+01:12:39.438 --> 01:12:43.178
+N8N.Pour un
+
+1358
+01:12:43.198 --> 01:12:45.298
+débutant, il ne faut pas qu'il fasse comme moi.
+
+1359
+01:12:45.858 --> 01:12:49.618
+Peu importe, c'est qu'à force de découper, à terme, on peut arriver à ce que tu as
+
+1360
+01:12:49.658 --> 01:12:52.738
+fait. Tu as de l'expérience, tu as quand même pas mal de connaissances.
+
+1361
+01:12:53.618 --> 01:12:55.738
+Mais par exemple, pour les images, j'ai découpé.
+
+1362
+01:12:55.778 --> 01:12:59.158
+Il y a un moment où je récupérais juste les infos dans un JSON pour avoir
+
+1363
+01:12:59.258 --> 01:13:01.838
+les informations textuelles qu'il y avait sur les images.
+
+1364
+01:13:03.178 --> 01:13:06.688
+Toi, le fait de tout surdécouper, à ce moment-là, ces images, tu les
+
+1365
+01:13:06.738 --> 01:13:09.278
+télécharges, tu les gardes quelque part, c'est ordonné.
+
+1366
+01:13:09.538 --> 01:13:13.318
+Au moment où je passe au moment où je vais aller chercher des images sur
+
+1367
+01:13:13.358 --> 01:13:15.278
+Internet, je vais recommencer autre chose.
+
+1368
+01:13:15.658 --> 01:13:19.378
+Toi, tu as déjà cette donnée avec des images qui sont présentes dans des dossiers.
+
+1369
+01:13:20.158 --> 01:13:23.518
+C'est des choses que clairement, tu peux faire avec Claude, mais c'est là où à
+
+1370
+01:13:23.798 --> 01:13:25.758
+chaque fois, tu améliores ton système au fur et à mesure.
+
+1371
+01:13:26.478 --> 01:13:28.858
+Effectivement, tu es celui qui a poussé vraiment le truc au bout,
+
+1372
+01:13:29.778 --> 01:13:32.238
+même si je pense que pour quelqu'un qui débute ou pour moi, maintenant, ce serait
+
+1373
+01:13:32.258 --> 01:13:34.718
+vraiment c*n de s'arrêter là où on en est, de repartir de zéro pour faire ton
+
+1374
+01:13:34.738 --> 01:13:37.218
+système, même s'il est bien mieux que ce qu'on pourrait faire.
+
+1375
+01:13:37.398 --> 01:13:40.858
+Je pense qu'il y a clairement des choses à prendre dans ce que tu as fait pour
+
+1376
+01:13:40.898 --> 01:13:42.198
+améliorer chacun son système.
+
+1377
+01:13:43.098 --> 01:13:47.077
+Oui, c'est sûr. J'arrête pas de réfléchir, je me dis
+
+1378
+01:13:47.118 --> 01:13:48.888
+: « Quel est l'avantage si je passe par Claude ?
+
+1379
+01:13:48.908 --> 01:13:51.878
+» Et j'essaye d'adapter ça maintenant à Claude, mais je me dis : « Punaise !
+
+1380
+01:13:51.888 --> 01:13:54.597
+» En vrai, c'est juste une ergonomie différente.
+
+1381
+01:13:54.638 --> 01:13:56.058
+Parce qu'à la fin, ça fait les mêmes choses.
+
+1382
+01:13:56.498 --> 01:13:59.818
+Que tu passes par Claude ou N8N, si tu lui expliques les mêmes choses, il fait les
+
+1383
+01:13:59.838 --> 01:14:00.178
+mêmes choses.
+
+1384
+01:14:01.338 --> 01:14:04.018
+Moi, c'est parce que ce sont des modules, j'explique point par point ce que je
+
+1385
+01:14:04.038 --> 01:14:07.838
+veux, mais si tu as un fichier en Markdown, tu lui dis exactement
+
+1386
+01:14:07.878 --> 01:14:08.038
+ça,
+
+1387
+01:14:08.938 --> 01:14:11.458
+Claude, il le fait. Au final, on fait les mêmes choses.
+
+1388
+01:14:12.338 --> 01:14:15.738
+Après, c'est au niveau des idées, quoi mettre à la ligne près.
+
+1389
+01:14:16.058 --> 01:14:17.218
+Là, ça peut donner des idées si
+
+1390
+01:14:18.578 --> 01:14:21.138
+ça a donné des idées par rapport à ce que j'ai montré, mais
+
+1391
+01:14:21.938 --> 01:14:25.518
+on arrive à la même chose au final. Et pour revenir sur la partie OCR,
+
+1392
+01:14:26.538 --> 01:14:27.938
+justement, tu peux avec Claude,
+
+1393
+01:14:28.958 --> 01:14:32.438
+parce qu'avec le NPX de NPM de
+
+1394
+01:14:32.478 --> 01:14:35.918
+AliExpress, comme il récupère déjà les images description,
+
+1395
+01:14:36.778 --> 01:14:40.518
+tu peux à la suite dire : « Récupère le texte sur les images
+
+1396
+01:14:41.118 --> 01:14:42.758
+» et tu fous tout sur un...
+
+1397
+01:14:44.398 --> 01:14:48.298
+Soit tu crées un autre fichier parce que tu n'utilises pas NocoDB, tu
+
+1398
+01:14:48.318 --> 01:14:52.087
+utilises ça en local. Tu peux lui dire : « Récupère les informations,
+
+1399
+01:14:52.578 --> 01:14:56.198
+description avec le nom du produit » et comme ça, tu récupères
+
+1400
+01:14:57.478 --> 01:15:00.238
+ta petite spec description comme j'ai montré tout à l'heure.
+
+1401
+01:15:01.018 --> 01:15:04.798
+Ça permet de tout compacter et de te servir de cette donnée
+
+1402
+01:15:04.938 --> 01:15:08.358
+pour ta rédaction fiche produit, pour avoir un maximum de
+
+1403
+01:15:08.398 --> 01:15:10.138
+données et à ce qu'il n'invente pas.
+
+1404
+01:15:11.218 --> 01:15:14.118
+Tu as vraiment tout le contexte de ton produit lors de la rédaction.
+
+1405
+01:15:15.058 --> 01:15:17.018
+Et ça, ça peut être fait avec Claude à 200 %.
+
+1406
+01:15:21.218 --> 01:15:24.778
+C'est top. Et comment tu as géré ? Par exemple, moi, j'ai aussi des sacs.
+
+1407
+01:15:25.998 --> 01:15:29.018
+Souvent sur AliExpress, les volumes sont totalement
+
+1408
+01:15:29.078 --> 01:15:31.418
+exagérés, je pense, pour survendre.
+
+1409
+01:15:32.278 --> 01:15:35.278
+Maintenant, j'ai intégré dans ma skill qu'ils ne prennent pas le volume qu'ils
+
+1410
+01:15:35.298 --> 01:15:39.018
+voient sur les infos de la page, mais qu'ils les recalculent par rapport aux
+
+1411
+01:15:39.058 --> 01:15:42.778
+dimensions du sac. Tu n'as pas des données comme ça par
+
+1412
+01:15:42.838 --> 01:15:45.618
+moments ? Surtout sur AliExpress où tu as plein d'infos.
+
+1413
+01:15:46.038 --> 01:15:49.278
+Dans les titres des produits, ils mettent plein de choses.
+
+1414
+01:15:49.938 --> 01:15:51.678
+Toi, à chaque fois, tu recentres.
+
+1415
+01:15:51.708 --> 01:15:55.478
+Si tu veux un sac à langer, tu vas le recentrer
+
+1416
+01:15:55.518 --> 01:15:56.958
+vraiment sur sac à langer.
+
+1417
+01:15:58.158 --> 01:16:02.087
+Comment tu traites cet excès de données qui en plus parfois est faux,
+
+1418
+01:16:02.178 --> 01:16:02.818
+c'est avec AliExpress
+
+1419
+01:16:03.898 --> 01:16:03.898
+?
+
+1420
+01:16:04.758 --> 01:16:08.638
+Dans les fiches origine du produit, tout ça ?
+
+1421
+01:16:08.698 --> 01:16:09.338
+Les numéros
+
+1422
+01:16:10.518 --> 01:16:10.518
+?
+
+1423
+01:16:11.178 --> 01:16:13.718
+Je pense que c'est pour le SEO, mais ils mettent un petit peu tout pour parler à
+
+1424
+01:16:13.738 --> 01:16:16.818
+tout le monde. Ça va être aussi bien un sac à langer qu'un sac de voyage, qu'un sac
+
+1425
+01:16:16.898 --> 01:16:17.638
+de je ne sais quoi.
+
+1426
+01:16:18.618 --> 01:16:21.648
+Je pense que si tu recentres pas à un moment ta donnée,
+
+1427
+01:16:24.658 --> 01:16:26.498
+ça peut être trop de choses différentes, non ?
+
+1428
+01:16:26.878 --> 01:16:30.478
+Ça dépend du produit. C'est vrai que les sacs, en général, ça a multi-utilisation.
+
+1429
+01:16:30.998 --> 01:16:34.658
+Est-ce que c'est hors sujet leur truc ?
+
+1430
+01:16:34.678 --> 01:16:37.478
+Je ne sais pas. Moi, je ne trouve pas trop que c'est hors sujet quand ils décrivent
+
+1431
+01:16:37.538 --> 01:16:40.958
+dans le titre sur AliExpress « sac à dos à langer
+
+1432
+01:16:41.058 --> 01:16:43.618
+pour les cours ».
+
+1433
+01:16:44.998 --> 01:16:46.518
+Après, s'il y a des trucs-
+
+1434
+01:16:46.558 --> 01:16:50.438
+Toi, selon la collection dans laquelle tu vas l'intégrer, ça aiguille un
+
+1435
+01:16:50.458 --> 01:16:54.278
+petit peu ta rédaction de fiche produit pour que ça te mette les termes SEO qui
+
+1436
+01:16:54.318 --> 01:16:58.238
+correspondent juste à collection ou tu laisses viser très large ?
+
+1437
+01:16:58.258 --> 01:17:02.017
+Moi, je vise un peu large. Encore une fois, ce ne sont
+
+1438
+01:17:02.518 --> 01:17:05.088
+pas une seule catégorie mes produits.
+
+1439
+01:17:05.098 --> 01:17:07.898
+Surtout les sacs, c'est multi-catégorie.
+
+1440
+01:17:07.978 --> 01:17:11.758
+Encore une fois, le début du titre produit, il
+
+1441
+01:17:11.818 --> 01:17:13.238
+reprend la catégorie principale.
+
+1442
+01:17:13.878 --> 01:17:16.898
+Mais après le titre, je mets plusieurs
+
+1443
+01:17:18.298 --> 01:17:19.598
+types d'utilisation entre guillemets.
+
+1444
+01:17:22.438 --> 01:17:24.458
+Je reprends différentes specs. Si le
+
+1445
+01:17:25.118 --> 01:17:28.018
+sac à dos, c'est pour femme, mais que
+
+1446
+01:17:29.478 --> 01:17:32.718
+tu peux mettre un PC portable 15 pouces, je le mets.
+
+1447
+01:17:32.938 --> 01:17:36.598
+Multifonction, ultra-léger, filtre
+
+1448
+01:17:36.838 --> 01:17:37.138
+léger.
+
+1449
+01:17:38.838 --> 01:17:38.968
+Tout ça.
+
+1450
+01:17:44.078 --> 01:17:45.898
+Pour vraiment cocher un maximum et surtout
+
+1451
+01:17:47.678 --> 01:17:51.078
+toucher un maximum de requêtes parce qu'on n'invente pas, c'est vraiment le cas.
+
+1452
+01:17:51.598 --> 01:17:53.198
+Si le sac est léger, tu mets sac à dos léger.
+
+1453
+01:17:55.378 --> 01:17:57.518
+S'il contient un PC, tu mets contient un PC.
+
+1454
+01:17:57.578 --> 01:17:59.038
+C'est hyper important pour
+
+1455
+01:17:59.638 --> 01:18:01.598
+Google.
+
+1456
+01:18:05.718 --> 01:18:07.798
+C'est vrai que toute la niche sac à dos,
+
+1457
+01:18:07.938 --> 01:18:11.658
+c'est vraiment une niche particulière parce que
+
+1458
+01:18:13.358 --> 01:18:14.338
+c'est multi-catégorie.
+
+1459
+01:18:14.498 --> 01:18:19.258
+Heureusement
+
+1460
+01:18:19.278 --> 01:18:21.498
+que je me suis entraîné sur cette niche-là parce que j'ai pu voir en
+
+1461
+01:18:23.178 --> 01:18:26.598
+profondeur les problématiques liées à une niche
+
+1462
+01:18:27.398 --> 01:18:30.178
+multi-usages. Imagine si j'aurais été dans les luminaires.
+
+1463
+01:18:34.258 --> 01:18:36.158
+En tout cas, bien joué parce qu'on en parle depuis un petit bout de temps, mais
+
+1464
+01:18:36.198 --> 01:18:40.178
+c'est cool de le visualiser. Effectivement, le jour où tu vas relancer un autre
+
+1465
+01:18:40.218 --> 01:18:40.438
+site,
+
+1466
+01:18:41.438 --> 01:18:44.358
+tu vas peut-être passer quelques jours à changer un petit peu
+
+1467
+01:18:45.638 --> 01:18:49.258
+l'intérieur de tes nœuds, mais par contre le système en place,
+
+1468
+01:18:49.678 --> 01:18:53.308
+je pense que tu vasUn site, tu peux
+
+1469
+01:18:53.788 --> 01:18:54.428
+aller super vite.
+
+1470
+01:18:55.488 --> 01:18:56.688
+Oui, c'est juste mes données statiques.
+
+1471
+01:18:57.388 --> 01:19:00.828
+Je réfléchissais à ça avec Claude, d'avoir tout au même endroit, parce que ça me
+
+1472
+01:19:00.888 --> 01:19:01.928
+saoule d'aller dans chaque nœud,
+
+1473
+01:19:03.448 --> 01:19:06.568
+d'aller dans chaque workflow, me dire : « Il faut que je modifie ce nœud-là.
+
+1474
+01:19:06.988 --> 01:19:10.788
+» C'est vrai qu'il faut que je fasse une rétrospective de quel nœud changer pour
+
+1475
+01:19:11.228 --> 01:19:11.708
+une autre niche.
+
+1476
+01:19:12.968 --> 01:19:16.768
+Mais au final, je pense que pour mes derniers workflows, je ne les ai pas montrés,
+
+1477
+01:19:16.808 --> 01:19:17.038
+mais je
+
+1478
+01:19:18.748 --> 01:19:19.788
+vais devoir justement
+
+1479
+01:19:23.908 --> 01:19:27.628
+prendre un nœud, un sticky node, il y a ça dans N8N,
+
+1480
+01:19:28.228 --> 01:19:29.948
+entouré en rouge les nœuds à modifier.
+
+1481
+01:19:31.628 --> 01:19:35.568
+C'est vrai qu'il faut le faire une fois, remplacer le nom de l'ancien site par
+
+1482
+01:19:35.588 --> 01:19:37.368
+le nouveau. Mais après, il y a Claude.
+
+1483
+01:19:37.468 --> 01:19:40.608
+Pour remplacer une URL dans chaque node, il peut le faire.
+
+1484
+01:19:42.568 --> 01:19:43.597
+L'autre gros avantage, c'est qu'à
+
+1485
+01:19:44.768 --> 01:19:47.768
+chaque fois, le débat, chaque mardi, c'est
+
+1486
+01:19:47.888 --> 01:19:51.498
+entre N8N et Claude. Mais
+
+1487
+01:19:52.508 --> 01:19:55.328
+l'inconvénient de Claude, c'est que plus tu rajoutes de choses, plus on peut se
+
+1488
+01:19:55.368 --> 01:19:59.268
+perdre un peu dans le contexte. Et toi, le fait d'avoir tout détaillé, d'avoir
+
+1489
+01:19:59.788 --> 01:20:02.468
+juste à chaque fois un petit module pour chaque chose, c'est très précis sur ce que
+
+1490
+01:20:02.488 --> 01:20:02.768
+tu veux.
+
+1491
+01:20:04.268 --> 01:20:07.848
+Par exemple, quand tu as un truc qui bugge sur une skill sur Claude, avant d'aller
+
+1492
+01:20:07.888 --> 01:20:11.108
+retrouver pile la petite chose, parfois, tu peux aller le faire se perdre
+
+1493
+01:20:11.148 --> 01:20:14.368
+juste pour régler un petit truc qui ne va pas.
+
+1494
+01:20:15.568 --> 01:20:16.048
+Alors que toi, tu
+
+1495
+01:20:16.888 --> 01:20:19.828
+as un truc qui ne va pas, tu peux aller précisément trouver là où ça ne va pas.
+
+1496
+01:20:20.428 --> 01:20:23.868
+Et quand tu voudras faire un site sur autre chose, encore plus pertinent, parce que
+
+1497
+01:20:24.148 --> 01:20:25.828
+plutôt que de lui faire reprendre tes skills,
+
+1498
+01:20:27.128 --> 01:20:28.268
+c'est toi qui sais
+
+1499
+01:20:29.288 --> 01:20:29.828
+où tu vas aller.
+
+1500
+01:20:30.948 --> 01:20:34.688
+On en parlait il y a quelques semaines, mais tu me disais que le
+
+1501
+01:20:34.728 --> 01:20:36.548
+problème, c'est qu'avec N8N, c'est en statique.
+
+1502
+01:20:37.748 --> 01:20:39.268
+S'il y a un truc qui casse, tout casse.
+
+1503
+01:20:39.868 --> 01:20:42.248
+Alors que là, avec Claude, il peut s'adapter.
+
+1504
+01:20:42.288 --> 01:20:43.668
+Et c'est vrai que c'est la puissance de Claude.
+
+1505
+01:20:44.118 --> 01:20:46.908
+« OK, ça, ça ne marche pas », il va faire autrement automatiquement.
+
+1506
+01:20:48.318 --> 01:20:49.268
+Il peut s'adapter.
+
+1507
+01:20:49.328 --> 01:20:53.088
+Avantage, inconvénient. Claude, tu le fais
+
+1508
+01:20:53.108 --> 01:20:56.568
+travailler, lui, à lui dire d'aller t'écrire ta skill, d'aller lui réparer tel
+
+1509
+01:20:56.608 --> 01:20:59.928
+truc. Alors que toi, tu fais peut-être un petit peu plus tout seul,
+
+1510
+01:21:00.527 --> 01:21:02.087
+mais parfois, tu ne sais même plus
+
+1511
+01:21:02.928 --> 01:21:06.308
+comment ça a été fait ou ça bugge. Tu as l'avantage visuel.
+
+1512
+01:21:06.348 --> 01:21:07.968
+Mais c'est vrai qu'il y a quelques semaines, je disais le contraire.
+
+1513
+01:21:11.108 --> 01:21:14.248
+Oui. Je suis vraiment en train de tester tout ça.
+
+1514
+01:21:14.648 --> 01:21:15.668
+Je voudrais faire un peu l'entre-deux.
+
+1515
+01:21:15.728 --> 01:21:18.048
+En tout cas, pour la partie intégration
+
+1516
+01:21:19.068 --> 01:21:22.848
+scrapping, j'aimerais bien passer 100 % par Claude, parce que c'est mieux.
+
+1517
+01:21:23.528 --> 01:21:26.907
+Juste, c'est mieux. En local, je trouve que c'est plus pertinent.
+
+1518
+01:21:27.728 --> 01:21:30.348
+Mais pour le reste, j'ai un petit peu du mal à encore adapter.
+
+1519
+01:21:31.568 --> 01:21:32.268
+Et est-ce qu'au final,
+
+1520
+01:21:33.548 --> 01:21:36.088
+le vrai inconvénient que j'ai pour mes
+
+1521
+01:21:36.128 --> 01:21:38.228
+workflows 2, 3, 4,
+
+1522
+01:21:39.268 --> 01:21:42.248
+c'est juste la partie statique au cas où j'ai un autre site à adapter.
+
+1523
+01:21:43.348 --> 01:21:44.588
+J'aurais aimé avoir tout au même
+
+1524
+01:21:45.688 --> 01:21:46.028
+fichier,
+
+1525
+01:21:47.008 --> 01:21:50.268
+tout dans un dossier et changer juste les valeurs dans ce dossier.
+
+1526
+01:21:51.178 --> 01:21:52.848
+Mais encore une fois,
+
+1527
+01:21:54.008 --> 01:21:56.758
+je le fais qu'une fois. Est-ce que ça vaut le coup de tout réadapter, de perdre je
+
+1528
+01:21:56.758 --> 01:22:00.228
+ne sais pas combien de temps, alors que là, je mets les mains une fois par nouveau
+
+1529
+01:22:00.248 --> 01:22:00.428
+site ?
+
+1530
+01:22:01.448 --> 01:22:02.848
+Et au final, ça fonctionne.
+
+1531
+01:22:04.028 --> 01:22:04.668
+C'est toujours ça.
+
+1532
+01:22:09.348 --> 01:22:10.328
+Ça ne vaut pas le coup pour moi.
+
+1533
+01:22:10.988 --> 01:22:11.648
+Oui.
+
+1534
+01:22:11.698 --> 01:22:12.948
+Sauf si tu veux faire 100 sites.
+
+1535
+01:22:13.248 --> 01:22:15.908
+Oui, c'est ça. Soit je fais une Edouard, où lui, carrément, il scrappe sur autre
+
+1536
+01:22:15.948 --> 01:22:18.108
+chose, il scrappe les sites des autres.
+
+1537
+01:22:19.048 --> 01:22:20.828
+Je ne sais pas combien il en lance par mois, Edouard.
+
+1538
+01:22:20.848 --> 01:22:21.008
+Mais
+
+1539
+01:22:21.988 --> 01:22:25.948
+c'est ça. De base, je ne voulais pas non plus créer des sites toutes les
+
+1540
+01:22:25.968 --> 01:22:29.808
+deux semaines. Vraiment avoir un site développé, mais si ça se trouve, ça va
+
+1541
+01:22:29.828 --> 01:22:31.388
+changer en cours. Je ne sais pas.
+
+1542
+01:22:35.008 --> 01:22:37.328
+Voyez plus long terme. Moi, je voulais garder mes sites long terme, donc c'est pour
+
+1543
+01:22:37.368 --> 01:22:37.728
+ça que je me suis
+
+1544
+01:22:37.768 --> 01:22:41.688
+Vu ce que tu as mis en place, ça serait c*n de ne pas en profiter et d'en faire
+
+1545
+01:22:41.728 --> 01:22:42.888
+un peu quand même.
+
+1546
+01:22:43.688 --> 01:22:44.148
+Oui, c'est ça.
+
+1547
+01:22:49.928 --> 01:22:51.968
+Mais oui, en tout cas, bravo, c'est clean.
+
+1548
+01:22:52.528 --> 01:22:53.528
+Grosses
+
+1549
+01:22:53.568 --> 01:22:57.157
+sessions, celui-là.
+
+1550
+01:22:57.157 --> 01:22:59.608
+Bien sûr, je peux vous montrer aussi les autres workflows tant que j'y suis.
+
+1551
+01:22:59.948 --> 01:23:02.688
+Mais avant, s'il y a d'autres qui ont des questions pour ne pas tout monopoliser.
+
+1552
+01:23:04.568 --> 01:23:05.648
+Est-ce que quelqu'un a une question
+
+1553
+01:23:06.528 --> 01:23:10.088
+avant que Pierre montre les suites
+
+1554
+01:23:10.688 --> 01:23:10.688
+?
+
+1555
+01:23:12.128 --> 01:23:13.748
+Je crois que tu es un peu sur ta masterclass.
+
+1556
+01:23:15.588 --> 01:23:16.048
+Bravo.
+
+1557
+01:23:17.728 --> 01:23:17.858
+J'ai du
+
+1558
+01:23:18.128 --> 01:23:21.848
+soutien.
+
+1559
+01:23:24.768 --> 01:23:25.328
+Tout l'écran.
+
+1560
+01:23:32.448 --> 01:23:34.208
+Oui, je vais montrer celui-là : Name product.
+
+1561
+01:23:38.828 --> 01:23:40.208
+Vous voyez bien ?
+
+1562
+01:23:40.268 --> 01:23:40.318
+Oui.
+
+1563
+01:23:40.318 --> 01:23:46.168
+Oui,
+
+1564
+01:23:46.288 --> 01:23:46.488
+c'est bon.
+
+1565
+01:23:48.048 --> 01:23:48.548
+Pareil pour
+
+1566
+01:23:49.348 --> 01:23:53.068
+les noms produits, moi, c'est automatique. Ça le fait automatiquement.
+
+1567
+01:23:53.888 --> 01:23:57.048
+Je me lance sur le marché japonais. J'ai envie de tenter.
+
+1568
+01:23:57.528 --> 01:23:59.487
+Ils sont très casse-couilles, donc je vais voir.
+
+1569
+01:24:00.928 --> 01:24:03.468
+Par exemple, là, j'ai généré un titre automatiquement, ça fait : « Sac à dos
+
+1570
+01:24:03.488 --> 01:24:07.228
+professionnel élégant pour femme, grande capacité pouvant contenir des documents au
+
+1571
+01:24:07.248 --> 01:24:09.408
+format A4 et ordinateur portable.
+
+1572
+01:24:09.838 --> 01:24:13.668
+» Ça le traduit de manière hyper longue parce que c'est une traduction,
+
+1573
+01:24:14.188 --> 01:24:16.928
+mais sinon, ça prend 34 caractères. Ça fait comme ça.
+
+1574
+01:24:18.848 --> 01:24:22.108
+Mais il y a un maximum d'informations reliées
+
+1575
+01:24:22.148 --> 01:24:25.808
+au produit. Et c'est avec ce workflow-là,
+
+1576
+01:24:26.188 --> 01:24:28.348
+où mes noms produits, je les génère automatiquement.
+
+1577
+01:24:29.008 --> 01:24:29.348
+Je n'aime pas
+
+1578
+01:24:31.628 --> 01:24:35.188
+le faire à la main, ça me stresse. Donc j'ai voulu
+
+1579
+01:24:35.208 --> 01:24:38.588
+automatiser ce truc-là par rapport à toute la data de qualité.
+
+1580
+01:24:38.708 --> 01:24:41.748
+J'appelle ça la donnée first party, ce truc-là.
+
+1581
+01:24:42.368 --> 01:24:43.288
+Spec description.
+
+1582
+01:24:43.488 --> 01:24:45.288
+Ça se base sur ça pour créer ton titre ?
+
+1583
+01:24:45.328 --> 01:24:47.328
+Oui, c'est ça. Comme ça, ça n'invente rien.
+
+1584
+01:24:47.708 --> 01:24:51.688
+Il y a tout ici, au détail près, de tout ce qui a été scrappé : description,
+
+1585
+01:24:52.148 --> 01:24:52.568
+image,
+
+1586
+01:24:53.888 --> 01:24:56.228
+texte dans l'image. Et une fois que c'est bien
+
+1587
+01:24:56.248 --> 01:25:00.020
+faitLe truc le plus important de tout mon workflow, c'est ça.
+
+1588
+01:25:00.060 --> 01:25:04.000
+C'est le pilier. C'est vraiment ma donnée first
+
+1589
+01:25:04.080 --> 01:25:04.440
+party.
+
+1590
+01:25:05.400 --> 01:25:09.280
+C'est pour ça que je me suis cassé le c*l à ce que ce soit nickel pour que la
+
+1591
+01:25:09.380 --> 01:25:11.620
+suite soit nickel niveau rédaction.
+
+1592
+01:25:11.640 --> 01:25:15.400
+Une fois que tu as un maximum de contexte à l'IA, tu lui
+
+1593
+01:25:15.440 --> 01:25:18.820
+balances ça, il ne te fait pas un truc générique parce qu'il sait sur quoi
+
+1594
+01:25:18.840 --> 01:25:19.160
+s'appuyer.
+
+1595
+01:25:24.120 --> 01:25:24.280
+Ici,
+
+1596
+01:25:24.400 --> 01:25:31.140
+au
+
+1597
+01:25:31.180 --> 01:25:34.820
+niveau des poches, il y a des produits, des fois, ça ne
+
+1598
+01:25:34.860 --> 01:25:37.300
+complète pas 100 % par rapport à
+
+1599
+01:25:38.700 --> 01:25:40.960
+la description. Donc je lui demande de
+
+1600
+01:25:41.000 --> 01:25:43.600
+réanalyser mes images.
+
+1601
+01:25:44.920 --> 01:25:48.420
+Et en général, c'est sous différents angles et ça analyse le nombre de poches
+
+1602
+01:25:49.580 --> 01:25:51.440
+et ça vient compléter ce qui est manquant.
+
+1603
+01:25:52.980 --> 01:25:54.580
+Je suis tellement flemmard, j'ai poussé le truc.
+
+1604
+01:25:55.420 --> 01:25:57.980
+Ensuite, ça vient créer ici avec un prompt,
+
+1605
+01:25:59.170 --> 01:25:59.170
+le
+
+1606
+01:26:03.280 --> 01:26:07.080
+nom produit. C'est le workflow de base qui sert à ça, mais j'en avais
+
+1607
+01:26:07.100 --> 01:26:10.980
+profité ici pour identifier le nombre de poches par rapport à ma niche.
+
+1608
+01:26:11.620 --> 01:26:14.640
+Mais si je change de niche et que je ne suis plus dans les sacs à dos, j'ai juste à
+
+1609
+01:26:14.740 --> 01:26:18.620
+supprimer tout ça. Je ne garde que le reste, parce que
+
+1610
+01:26:18.660 --> 01:26:20.760
+le but, c'est juste de générer un nom produit.
+
+1611
+01:26:21.520 --> 01:26:24.220
+Et ici, map keyword, par contre, c'est un truc statique.
+
+1612
+01:26:24.440 --> 01:26:24.650
+Dedans,
+
+1613
+01:26:25.700 --> 01:26:29.380
+je viens prendre tous les mots-clés long trend de Semrush plus
+
+1614
+01:26:29.540 --> 01:26:32.860
+Ahref. Je fais une tri à côté, mais ça, c'est à faire qu'une seule fois
+
+1615
+01:26:33.760 --> 01:26:35.480
+quand on fait une recherche de niche.
+
+1616
+01:26:36.320 --> 01:26:37.340
+Et ici, je mets tous les mots-clés.
+
+1617
+01:26:39.140 --> 01:26:43.040
+Bien entendu, je dégage tous les mots-clés de marque et je ne garde que ceux
+
+1618
+01:26:43.100 --> 01:26:43.940
+qui ont une intention
+
+1619
+01:26:45.540 --> 01:26:46.860
+transactionnelle, tous
+
+1620
+01:26:48.140 --> 01:26:51.580
+les mots-clés qui peuvent servir
+
+1621
+01:26:52.360 --> 01:26:54.240
+pour une base de mots-clés produits.
+
+1622
+01:26:54.740 --> 01:26:56.420
+Je les mets tous ici par catégorie.
+
+1623
+01:26:57.780 --> 01:26:59.480
+Ensuite, je lui dis
+
+1624
+01:27:01.120 --> 01:27:04.980
+: « Pour le nom produit, viens prendre un des mots-clés ici par
+
+1625
+01:27:05.020 --> 01:27:06.560
+rapport à ce qui est le plus pertinent.
+
+1626
+01:27:07.150 --> 01:27:11.140
+» Pour savoir ce qui est le plus pertinent par rapport à la
+
+1627
+01:27:11.160 --> 01:27:11.380
+niche,
+
+1628
+01:27:12.280 --> 01:27:14.160
+il vient prendre la catégorie produit,
+
+1629
+01:27:15.500 --> 01:27:18.900
+plus l'aspect description pour savoir ce qui matche le mieux.
+
+1630
+01:27:19.440 --> 01:27:23.180
+Comme ça, il me reprend la base des mots-clés qui ont déjà été recherchés pour
+
+1631
+01:27:24.300 --> 01:27:26.600
+que ça n'invente pas de trop. Ça reprend une base.
+
+1632
+01:27:27.260 --> 01:27:31.200
+Et après, ça me reformule par rapport à mes données et à la
+
+1633
+01:27:31.240 --> 01:27:31.500
+base
+
+1634
+01:27:32.320 --> 01:27:36.220
+des mots-clés produits. Après, ça me
+
+1635
+01:27:36.260 --> 01:27:39.100
+recrée le mot-clé puis ça me le met ici.
+
+1636
+01:27:40.760 --> 01:27:42.040
+Ça, c'est pour le workflow
+
+1637
+01:27:43.420 --> 01:27:45.280
+nom produit. Après, il y a Auto Rename.
+
+1638
+01:27:46.300 --> 01:27:49.300
+Ça, c'est pour les images. Ça renomme toutes les images.
+
+1639
+01:27:50.200 --> 01:27:50.980
+Galerie branche,
+
+1640
+01:27:52.580 --> 01:27:53.860
+en gros, ça analyse
+
+1641
+01:27:56.880 --> 01:27:57.820
+toutes les images.
+
+1642
+01:27:59.140 --> 01:28:03.020
+Et par rapport à toutes les images, après, ça me met le nom
+
+1643
+01:28:03.800 --> 01:28:04.440
+produit ici.
+
+1644
+01:28:04.840 --> 01:28:07.170
+Ça te les met en anglais ? Et pas en japonais ?
+
+1645
+01:28:08.740 --> 01:28:09.009
+Non, parce que
+
+1646
+01:28:10.020 --> 01:28:13.240
+c'est mon truc. Je vais voir ça, mais
+
+1647
+01:28:13.960 --> 01:28:16.020
+il ne faut pas les mettre en japonais à ce qu'il paraît, il faut les mettre en
+
+1648
+01:28:16.060 --> 01:28:17.160
+anglais. Pareil, les URL.
+
+1649
+01:28:18.160 --> 01:28:18.760
+Je vais voir.
+
+1650
+01:28:19.560 --> 01:28:22.820
+C'est la particularité aussi de faire un site international, il y a des petites
+
+1651
+01:28:22.880 --> 01:28:23.460
+contraintes comme ça.
+
+1652
+01:28:24.840 --> 01:28:28.820
+Ça m'a aussi posé problème, ça. Parce que là où tu fais
+
+1653
+01:28:28.840 --> 01:28:31.680
+un site en français, tu ne te poses pas la question, tu mets en français partout.
+
+1654
+01:28:32.380 --> 01:28:36.229
+Mais là, il y a des fois : « Tel truc, il faut que ce soit en anglais, tel truc, il
+
+1655
+01:28:36.240 --> 01:28:37.280
+faut que ce soit dans la langue cible.
+
+1656
+01:28:37.910 --> 01:28:37.910
+»
+
+1657
+01:28:39.400 --> 01:28:43.080
+Ça me renomme les images galerie. Pareil pour les
+
+1658
+01:28:43.100 --> 01:28:45.660
+variations, ça prend les images variations.
+
+1659
+01:28:46.420 --> 01:28:49.880
+Et pareil pour la branche bloc. Par contre, pour la branche bloc, j'ai un peu
+
+1660
+01:28:49.940 --> 01:28:53.220
+galéré quand même, parce que c'est une image, une ligne.
+
+1661
+01:28:56.740 --> 01:28:58.600
+Ça fait aussi la partie alt text.
+
+1662
+01:28:59.860 --> 01:29:01.880
+Par exemple, alt text
+
+1663
+01:29:02.840 --> 01:29:06.080
+ici. Alt text et title, moi, je prends les deux.
+
+1664
+01:29:06.140 --> 01:29:10.000
+Et ça analyse image, analyze only, ça me
+
+1665
+01:29:10.020 --> 01:29:11.660
+prend celle-ci et non pas celle-ci.
+
+1666
+01:29:12.420 --> 01:29:12.590
+C'est
+
+1667
+01:29:13.460 --> 01:29:15.280
+un autre truc. Pourquoi ? Parce
+
+1668
+01:29:15.320 --> 01:29:17.780
+qu'au niveau de
+
+1669
+01:29:17.820 --> 01:29:21.500
+l'analyse image,
+
+1670
+01:29:21.600 --> 01:29:22.559
+parfois, il y a du texte
+
+1671
+01:29:23.520 --> 01:29:27.040
+sur les images et j'ai envie qu'il analyse l'image
+
+1672
+01:29:27.600 --> 01:29:30.920
+avec le texte qui peut être généré par défaut avec AliExpress.
+
+1673
+01:29:31.380 --> 01:29:34.420
+Comme ça, ça me donne un maximum de contexte pour la partie
+
+1674
+01:29:35.360 --> 01:29:36.540
+alt text et title.
+
+1675
+01:29:37.820 --> 01:29:41.140
+Et je ne reprends pas mon bloc spec description parce que
+
+1676
+01:29:41.840 --> 01:29:43.960
+ça ne correspond pas forcément à l'image même.
+
+1677
+01:29:43.970 --> 01:29:47.890
+En général, quand tu fais l'alt text, il faut
+
+1678
+01:29:47.980 --> 01:29:50.320
+que ça décrive ce qui se passe dans l'image.
+
+1679
+01:29:50.340 --> 01:29:52.820
+Donc, je prends juste le contexte de l'image.
+
+1680
+01:29:53.380 --> 01:29:54.440
+Je n'ai pas d'exemple ici.
+
+1681
+01:30:00.860 --> 01:30:01.780
+Non, je ne l'ai plus.
+
+1682
+01:30:03.460 --> 01:30:04.400
+Peut-être celui-ci.
+
+1683
+01:30:06.200 --> 01:30:06.940
+Image bloc.
+
+1684
+01:30:09.580 --> 01:30:09.940
+Voilà.
+
+1685
+01:30:12.620 --> 01:30:14.880
+Et ici, si je traduis tout, ça me le fait nickel.
+
+1686
+01:30:18.300 --> 01:30:21.540
+« D'une personne portant un sac à dos bicolore rose pâle et blanc, doté d'une
+
+1687
+01:30:21.580 --> 01:30:24.560
+grande poche avant, fermoir doré. Sa conception...
+
+1688
+01:30:25.070 --> 01:30:28.900
+» Ça décrit vraiment l'image nickel et parfois avec le texte qu'il peut y avoir
+
+1689
+01:30:28.960 --> 01:30:30.240
+dans l'image, ici,
+
+1690
+01:30:31.200 --> 01:30:34.820
+ça va cibler ce qui se dit dans l'image.
+
+1691
+01:30:35.540 --> 01:30:36.200
+Ça me permet d'avoir
+
+1692
+01:30:37.300 --> 01:30:40.620
+un alt text beaucoup plus précis. Ça reprend aussi le titre
+
+1693
+01:30:40.660 --> 01:30:44.640
+produit parce que c'est toujours plus précis dans l'alt text de reprendre le nom
+
+1694
+01:30:44.680 --> 01:30:46.840
+produit et qu'il le reformule naturellement.
+
+1695
+01:30:49.780 --> 01:30:50.400
+Il y a ça.
+
+1696
+01:30:51.200 --> 01:30:53.660
+Ça me le fait pour les images bloc, variations.
+
+1697
+01:30:54.020 --> 01:30:55.100
+Pour galerie, c'est dans un
+
+1698
+01:30:57.120 --> 01:31:00.820
+autre workflow parce que dans Airtable,
+
+1699
+01:31:01.460 --> 01:31:05.308
+c'était ma difficultéIci, je ne peux pas
+
+1700
+01:31:05.368 --> 01:31:09.158
+mettre les alt texts par image, comme tout est
+
+1701
+01:31:09.208 --> 01:31:12.008
+dans une colonne. Ça le fait à la
+
+1702
+01:31:12.048 --> 01:31:13.708
+création.
+
+1703
+01:31:16.668 --> 01:31:18.648
+Auto rename. Et là, c'est l'intégration produit.
+
+1704
+01:31:18.708 --> 01:31:21.448
+C'est le plus gros workflow, c'était le plus compliqué.
+
+1705
+01:31:22.848 --> 01:31:24.207
+Je l'ai poussé vraiment loin celui-là.
+
+1706
+01:31:25.748 --> 01:31:26.988
+Pareil, Web Book,
+
+1707
+01:31:28.068 --> 01:31:29.028
+ça récupère
+
+1708
+01:31:29.868 --> 01:31:31.248
+le nom de la catégorie.
+
+1709
+01:31:32.388 --> 01:31:36.108
+Ce qui est bien, c'est que c'est en dynamique, ça analyse
+
+1710
+01:31:36.628 --> 01:31:40.588
+ma boutique. Avant, à chaque création de boutique,
+
+1711
+01:31:40.968 --> 01:31:44.748
+je créais les catégories et ça vient analyser les
+
+1712
+01:31:44.768 --> 01:31:48.688
+ID de catégories en temps réel et par rapport à l'ID en temps réel, ça
+
+1713
+01:31:48.708 --> 01:31:52.667
+vient détecter quelle catégorie est adaptée au produit.
+
+1714
+01:31:53.308 --> 01:31:56.928
+À partir de là, ça génère la
+
+1715
+01:31:56.988 --> 01:31:57.708
+description
+
+1716
+01:31:59.888 --> 01:32:03.208
+de la rédaction de la fiche produit. Dedans, il fait 8 000 caractères.
+
+1717
+01:32:03.788 --> 01:32:04.748
+Ça, par contre, je ne veux pas le montrer.
+
+1718
+01:32:04.758 --> 01:32:07.308
+On va dire que c'est confidentiel,
+
+1719
+01:32:08.108 --> 01:32:11.888
+je n'aime pas montrer les prompts, mais c'est un gros prompt qui dit quoi envoyer,
+
+1720
+01:32:12.348 --> 01:32:13.768
+où envoyer, dans tel
+
+1721
+01:32:14.808 --> 01:32:15.408
+métafield.
+
+1722
+01:32:16.808 --> 01:32:20.648
+Ça, c'est pour la partie fiche produit SEO et ça, c'est pour la
+
+1723
+01:32:20.708 --> 01:32:22.748
+partie description Merchant Center.
+
+1724
+01:32:22.848 --> 01:32:26.748
+Pour compléter un maximum pour la partie Merchant
+
+1725
+01:32:26.788 --> 01:32:29.028
+Center, je ne reprends pas le même.
+
+1726
+01:32:29.228 --> 01:32:32.908
+C'est un métafield exprès, donc une donnée
+
+1727
+01:32:32.948 --> 01:32:34.368
+exprès pour Merchant Center.
+
+1728
+01:32:34.628 --> 01:32:38.528
+C'est ça. Il y a une génération pour les fiches produits
+
+1729
+01:32:38.648 --> 01:32:42.408
+SEO et une génération pour la description Merchant Center,
+
+1730
+01:32:42.968 --> 01:32:46.668
+où ça reformule tout ce qui a déjà été fait pour la fiche SEO.
+
+1731
+01:32:47.348 --> 01:32:50.708
+Sauf que là, ça la reformule de manière parfaite pour
+
+1732
+01:32:52.088 --> 01:32:55.248
+Merchant Center. Et ça met les informations les plus utiles
+
+1733
+01:32:56.128 --> 01:32:59.728
+au tout début de la description Merchant Center. C'est recommandé.
+
+1734
+01:33:02.208 --> 01:33:02.768
+Ça
+
+1735
+01:33:02.788 --> 01:33:07.568
+complète
+
+1736
+01:33:07.608 --> 01:33:09.928
+aussi-- non,
+
+1737
+01:33:11.568 --> 01:33:14.928
+c'est dans un autre module, dans le flux produit.
+
+1738
+01:33:15.228 --> 01:33:19.008
+Ça reprend les infos du flux
+
+1739
+01:33:19.528 --> 01:33:22.108
+pour justement faire une description riche.
+
+1740
+01:33:22.868 --> 01:33:23.668
+Ça fait aussi le titre
+
+1741
+01:33:24.968 --> 01:33:27.768
+Merchant Center et la description Merchant Center.
+
+1742
+01:33:28.948 --> 01:33:30.728
+Ensuite, ça envoie les images blocs,
+
+1743
+01:33:32.788 --> 01:33:36.688
+les images variations que ça analyse
+
+1744
+01:33:36.708 --> 01:33:39.928
+depuis Airtable. Là, il faut que je le convertisse à NoCodeDB.
+
+1745
+01:33:41.908 --> 01:33:43.948
+Ensuite, ça me récupère toutes les infos.
+
+1746
+01:33:44.188 --> 01:33:45.008
+Et c'est ça qui est compliqué,
+
+1747
+01:33:46.108 --> 01:33:47.648
+Théo, avec Make
+
+1748
+01:33:48.768 --> 01:33:52.148
+: récupérer ici toutes les informations qui ont été faites.
+
+1749
+01:33:52.348 --> 01:33:54.848
+Et là, justement, avec le nœud JavaScript,
+
+1750
+01:33:56.228 --> 01:34:00.178
+ça récupère tout. Ici, ça récupère les champs mappés,
+
+1751
+01:34:00.588 --> 01:34:04.448
+Merchant Center, product description, image bloc, les
+
+1752
+01:34:04.488 --> 01:34:08.448
+color array aussi. Ça me reprend tout, alors qu'avec Make, c'était vachement
+
+1753
+01:34:08.468 --> 01:34:10.828
+compliqué. Mais là, avec un nœud JavaScript,
+
+1754
+01:34:11.968 --> 01:34:15.568
+tu peux faire des conditions. Mais ça, Claude le fait automatiquement.
+
+1755
+01:34:15.578 --> 01:34:18.908
+Tu dis ce que tu as envie de récupérer et il le fait.
+
+1756
+01:34:18.948 --> 01:34:22.728
+Ensuite, ça détecte si c'est un produit variable ou simple, la branche simple en
+
+1757
+01:34:22.748 --> 01:34:22.888
+bas,
+
+1758
+01:34:23.988 --> 01:34:27.948
+la branche variable en haut, ça me crée le produit
+
+1759
+01:34:28.028 --> 01:34:28.228
+avec
+
+1760
+01:34:29.208 --> 01:34:32.908
+mappé l'ID de la catégorie principale, secondaire,
+
+1761
+01:34:33.388 --> 01:34:36.788
+les dimensions. Bref, tout ça. Toutes les métadonnées sont dans ce
+
+1762
+01:34:37.708 --> 01:34:38.028
+filtre.
+
+1763
+01:34:40.268 --> 01:34:41.968
+Si je peux le montrer, il n'y a rien de ouf.
+
+1764
+01:34:42.668 --> 01:34:45.008
+J'ai 50 métafields.
+
+1765
+01:34:46.248 --> 01:34:49.788
+UX title, ça met le UX title, short title pour le short title,
+
+1766
+01:34:50.368 --> 01:34:51.508
+le COG,
+
+1767
+01:34:52.488 --> 01:34:53.288
+avantage 5,
+
+1768
+01:34:54.328 --> 01:34:56.708
+4, 3. Bref, tous mes métafields pour ma fiche produit.
+
+1769
+01:34:58.068 --> 01:35:00.568
+Ensuite, ça vient mettre les images
+
+1770
+01:35:01.468 --> 01:35:05.388
+variations, ça les crée. La branche variations,
+
+1771
+01:35:05.908 --> 01:35:06.588
+ça crée en haut.
+
+1772
+01:35:07.548 --> 01:35:11.128
+La branche images galerie, ici, ça me fait les alt texts
+
+1773
+01:35:11.588 --> 01:35:15.528
+pour les images galerie, comme je disais tout à l'heure, où j'avais
+
+1774
+01:35:15.548 --> 01:35:19.188
+le problème avec la colonne de Airtable qui ne pouvait pas créer
+
+1775
+01:35:19.548 --> 01:35:23.328
+les alt texts. Du coup, je le fais ici, à la création de la fiche
+
+1776
+01:35:23.348 --> 01:35:25.648
+produit et ça me le fait image par image.
+
+1777
+01:35:26.968 --> 01:35:27.628
+Ensuite,
+
+1778
+01:35:29.328 --> 01:35:30.188
+ça update
+
+1779
+01:35:32.968 --> 01:35:33.728
+alt text, etc.,
+
+1780
+01:35:35.948 --> 01:35:36.908
+dans les modules suivants.
+
+1781
+01:35:38.968 --> 01:35:40.888
+À la fin, ça met save
+
+1782
+01:35:42.888 --> 01:35:44.488
+dans Airtable. Je ne sais plus pourquoi.
+
+1783
+01:35:44.508 --> 01:35:46.208
+Si
+
+1784
+01:35:47.368 --> 01:35:50.108
+! En gros, quand il y a un produit qui est publié à la fin,
+
+1785
+01:35:51.008 --> 01:35:53.648
+il me met « publié »
+
+1786
+01:35:54.728 --> 01:35:54.948
+ici.
+
+1787
+01:35:56.388 --> 01:35:58.308
+Non, je ne l'ai pas mis sourcing.
+
+1788
+01:35:59.408 --> 01:36:03.398
+Ça ne met pas à jour le statut, il y avait écrit « à publier », ça ne le
+
+1789
+01:36:03.428 --> 01:36:04.068
+passe pas en publié.
+
+1790
+01:36:04.428 --> 01:36:06.128
+Je l'ai mis au début, je ne l'avais pas vu. C'est ça.
+
+1791
+01:36:06.328 --> 01:36:07.898
+Là, il passe de « publier » à « publié ».
+
+1792
+01:36:08.728 --> 01:36:11.348
+Comme ça, au moins, je sais quand le workflow
+
+1793
+01:36:12.328 --> 01:36:13.348
+s'est exécuté avec succès,
+
+1794
+01:36:14.608 --> 01:36:15.568
+ça le passe automatiquement.
+
+1795
+01:36:17.388 --> 01:36:18.388
+Mince.
+
+1796
+01:36:20.968 --> 01:36:24.028
+C'est ça.
+
+1797
+01:36:24.488 --> 01:36:25.918
+Variations, images galerie.
+
+1798
+01:36:27.048 --> 01:36:30.888
+Par contre, c'était vachement chaud à créer ce truc.
+
+1799
+01:36:31.608 --> 01:36:34.078
+J'ai simplifié l'explication, mais le créer, c'est-
+
+1800
+01:36:34.168 --> 01:36:36.728
+La gueule du workflow total est énorme.
+
+1801
+01:36:37.148 --> 01:36:37.348
+Oui.
+
+1802
+01:36:39.528 --> 01:36:43.428
+Build persona. C'est un truc aussi, j'ai mis un
+
+1803
+01:36:43.508 --> 01:36:44.888
+persona au contexte pour
+
+1804
+01:36:47.368 --> 01:36:50.028
+guider l'IA à qui il doit écrire la fiche produit.
+
+1805
+01:36:54.708 --> 01:36:56.508
+Pas que ce soit hyper...
+
+1806
+01:36:58.228 --> 01:36:59.848
+Mais ça, j'ai pris Opus et il me l'a généré.
+
+1807
+01:37:02.828 --> 01:37:03.568
+Rating style,
+
+1808
+01:37:04.708 --> 01:37:07.028
+ce qui donne envie d'acheter, copywriting, les
+
+1809
+01:37:07.088 --> 01:37:10.812
+anglesEt
+
+1810
+01:37:10.852 --> 01:37:11.892
+par catégorie
+
+1811
+01:37:12.752 --> 01:37:16.412
+principale, homme, femme. Il y a un persona pour les hommes, un
+
+1812
+01:37:16.452 --> 01:37:17.311
+persona pour les femmes.
+
+1813
+01:37:18.472 --> 01:37:18.972
+Tu vas
+
+1814
+01:37:21.072 --> 01:37:21.952
+vraiment aller dans le détail.
+
+1815
+01:37:22.812 --> 01:37:23.372
+Oui, c'est ça.
+
+1816
+01:37:25.412 --> 01:37:26.152
+Takumi,
+
+1817
+01:37:27.012 --> 01:37:28.312
+homme japonais, 27 ans,
+
+1818
+01:37:31.492 --> 01:37:35.472
+service à Osaka. Ça lui a donné vraiment du contexte de qui il est, ce
+
+1819
+01:37:35.512 --> 01:37:39.392
+qu'il recherche : un sac qui fonctionne, boss office, weekend use,
+
+1820
+01:37:39.952 --> 01:37:41.792
+clean. Il veut un sac à dos
+
+1821
+01:37:42.632 --> 01:37:42.732
+pour
+
+1822
+01:37:44.072 --> 01:37:47.911
+mettre son PC de 13 à 15 pouces. Tout ça, c'est vraiment Claude.
+
+1823
+01:37:48.132 --> 01:37:49.642
+Tu dis : « Crée-moi un persona »,
+
+1824
+01:37:50.452 --> 01:37:52.032
+il va te poser des questions de
+
+1825
+01:37:52.852 --> 01:37:55.132
+comment créer le persona. Tu vois que ce n'est pas compliqué.
+
+1826
+01:37:56.092 --> 01:37:59.892
+Ça, c'est une valeur statique, encore à changer quand je vais créer une autre
+
+1827
+01:37:59.912 --> 01:38:00.192
+boutique.
+
+1828
+01:38:03.712 --> 01:38:05.212
+Description field. Non, c'est bon.
+
+1829
+01:38:06.212 --> 01:38:07.752
+Et ça, je les lance au final
+
+1830
+01:38:09.392 --> 01:38:12.412
+ici. Pour le premier workflow, ça me génère les
+
+1831
+01:38:12.672 --> 01:38:13.452
+informations
+
+1832
+01:38:14.412 --> 01:38:16.812
+spec description ainsi que
+
+1833
+01:38:18.212 --> 01:38:19.052
+les différentes
+
+1834
+01:38:20.152 --> 01:38:20.552
+colonnes.
+
+1835
+01:38:22.752 --> 01:38:26.672
+Ensuite, title, ça me crée le title, ici, ici
+
+1836
+01:38:26.892 --> 01:38:30.472
+et ici, les trois. Ensuite, file name, ça me fait les alt
+
+1837
+01:38:30.612 --> 01:38:30.932
+texts
+
+1838
+01:38:31.792 --> 01:38:32.352
+et les noms
+
+1839
+01:38:33.252 --> 01:38:33.612
+images,
+
+1840
+01:38:34.432 --> 01:38:38.032
+que ce soit pour les images gallery, variation ou image block.
+
+1841
+01:38:38.892 --> 01:38:42.372
+Ensuite, générer produit. Là, je lance pour créer le produit et l'envoyer à mon
+
+1842
+01:38:42.412 --> 01:38:42.872
+WooCommerce.
+
+1843
+01:38:43.892 --> 01:38:45.632
+Mais si j'ai Shopify, je peux l'envoyer à Shopify.
+
+1844
+01:38:45.812 --> 01:38:47.732
+J'ai juste les modules adéquats à changer.
+
+1845
+01:38:47.842 --> 01:38:48.952
+Tu n'as pas un bouton qui te fait
+
+1846
+01:38:49.972 --> 01:38:50.592
+1, 2, 3, 4
+
+1847
+01:38:51.432 --> 01:38:51.432
+?
+
+1848
+01:38:51.512 --> 01:38:52.832
+Je peux, mais moi, j'ai envie d'avoir le contrôle.
+
+1849
+01:38:52.992 --> 01:38:55.012
+Sinon, ça ne servira à rien d'avoir le tableau. C'est pour ça.
+
+1850
+01:38:55.212 --> 01:38:56.132
+Je préfère quand même voir.
+
+1851
+01:38:56.952 --> 01:38:59.392
+Tu es obligé de vérifier à chaque fois, à chaque bouton.
+
+1852
+01:38:59.412 --> 01:39:01.052
+Oui, c'est ça que je vérifie globalement.
+
+1853
+01:39:01.752 --> 01:39:05.712
+Après, le alt text, j'aurais peut-être pu le mettre avec le title,
+
+1854
+01:39:05.772 --> 01:39:06.532
+mais des fois, le title,
+
+1855
+01:39:07.372 --> 01:39:11.312
+j'ai quand même envie de voir si ça a bien été formulé,
+
+1856
+01:39:11.352 --> 01:39:13.512
+parce que des fois, il peut y avoir des petites erreurs.
+
+1857
+01:39:14.292 --> 01:39:17.632
+Donc je regarde et ça me permet d'avoir un contrôle à chaque étape.
+
+1858
+01:39:18.412 --> 01:39:21.762
+Mais je peux les lancer en bulk. Par exemple, j'ai créé 10
+
+1859
+01:39:21.792 --> 01:39:25.632
+produits, je fais « créer info » , je lance les 10, ça me
+
+1860
+01:39:25.672 --> 01:39:29.492
+lance les 10 workflows à la suite. Et dès que le premier a fini, ça me lance le
+
+1861
+01:39:29.512 --> 01:39:32.912
+deuxième. Dès que le deuxième a fini, ça me lance le troisième, etc.
+
+1862
+01:39:34.012 --> 01:39:35.652
+Ce n'est pas vraiment contraignant.
+
+1863
+01:39:36.792 --> 01:39:37.912
+Ça me permet d'avoir un contrôle.
+
+1864
+01:39:39.432 --> 01:39:41.692
+Mais oui, j'aurais pu tout compact en un workflow, mais
+
+1865
+01:39:44.012 --> 01:39:47.952
+moins de contrôle. L'avantage d'avoir un tableau, c'est d'avoir du contrôle au
+
+1866
+01:39:47.992 --> 01:39:51.072
+niveau des alt texts. Est-ce que ça a bien envoyé les alt texts, etc.
+
+1867
+01:39:52.872 --> 01:39:56.572
+Tu es tellement allé dans le détail et la qualité que je ne vois pas comment ton
+
+1868
+01:39:56.592 --> 01:39:57.312
+site ne va pas marcher.
+
+1869
+01:39:59.932 --> 01:40:00.972
+Vraiment.
+
+1870
+01:40:01.272 --> 01:40:03.412
+C'est pour la partie automatisation fiche produit.
+
+1871
+01:40:03.592 --> 01:40:06.172
+C'est tellement le cœur de notre business, c'est le truc le plus chiant.
+
+1872
+01:40:06.212 --> 01:40:08.772
+Je me suis dit : « Tu sais quoi ? Fais de la recherche et développement à fond tant
+
+1873
+01:40:08.872 --> 01:40:11.572
+que tu peux, parce que demain, tu n'auras plus. Je lance une boutique.
+
+1874
+01:40:12.082 --> 01:40:12.082
+»
+
+1875
+01:40:12.082 --> 01:40:16.052
+Oui, mais même hors automatisation, tu es allé dans le détail, dans plein de choses
+
+1876
+01:40:16.132 --> 01:40:18.752
+que beaucoup ne font pas parce qu'ils veulent vite lancer.
+
+1877
+01:40:18.772 --> 01:40:20.112
+Tu as
+
+1878
+01:40:21.052 --> 01:40:23.352
+beaucoup de détails produits, de specs,
+
+1879
+01:40:24.752 --> 01:40:26.582
+on a vu tes personas en fonction des catégories.
+
+1880
+01:40:27.352 --> 01:40:30.732
+Tout ça, c'est un ensemble de trucs qui fait que tu as fait beaucoup plus.
+
+1881
+01:40:31.572 --> 01:40:34.232
+Il y a des avantages et inconvénients d'avoir fait beaucoup plus, mais
+
+1882
+01:40:35.432 --> 01:40:38.862
+ça va être tellement clean, je pense, en finalité, que je ne vois pas comment ça ne
+
+1883
+01:40:38.872 --> 01:40:40.512
+marche pas. Même si c'est du sac.
+
+1884
+01:40:41.492 --> 01:40:42.132
+Je pourrais le montrer.
+
+1885
+01:40:44.012 --> 01:40:45.332
+Oui, moi, je suis curieux de voir
+
+1886
+01:40:46.592 --> 01:40:49.652
+quand c'est fini et une page produit complète faite par ça.
+
+1887
+01:40:54.192 --> 01:40:57.952
+Mais oui, comme a dit Mika, il faut que tu y ailles.
+
+1888
+01:40:58.912 --> 01:40:59.632
+Il faut vraiment que tu y ailles.
+
+1889
+01:41:01.612 --> 01:41:03.332
+Ça ne sera pas parfait de toute façon, donc
+
+1890
+01:41:04.272 --> 01:41:06.232
+il y aura sûrement des petits détails à remodifier.
+
+1891
+01:41:06.312 --> 01:41:07.772
+Mais il faut que
+
+1892
+01:41:08.672 --> 01:41:11.262
+tu appuies sur tous tes boutons, que tu balances sur ton site et que tu lances ton
+
+1893
+01:41:11.312 --> 01:41:11.492
+site.
+
+1894
+01:41:12.172 --> 01:41:12.712
+C'est clair.
+
+1895
+01:41:15.172 --> 01:41:16.172
+Je suis d'accord. C'est pour ça,
+
+1896
+01:41:17.452 --> 01:41:21.132
+j'ai tellement fait ce truc-là que je fais deux pas en arrière à me concentrer à
+
+1897
+01:41:21.152 --> 01:41:25.082
+fond sur Claude. À part sur la partie scrapping, où là, évidemment, c'est
+
+1898
+01:41:25.792 --> 01:41:26.552
+un avantage pour moi.
+
+1899
+01:41:27.362 --> 01:41:29.792
+Parce que j'ai des contraintes avec N8N, mais tout remettre sur-
+
+1900
+01:41:30.492 --> 01:41:31.772
+Oui, mais je pense
+
+1901
+01:41:32.612 --> 01:41:33.752
+que tu
+
+1902
+01:41:34.892 --> 01:41:37.572
+es passé de AirTable à NoCodeDB, OK.
+
+1903
+01:41:37.842 --> 01:41:41.332
+Peut-être pour le prochain site, Claude, OK, mais peut-être pour le prochain site,
+
+1904
+01:41:41.412 --> 01:41:44.612
+là, tu as fait beaucoup de choses, tu devrais balancer
+
+1905
+01:41:45.372 --> 01:41:49.332
+et après, tu améliores au pire ou pour le prochain site, tu changes quelques
+
+1906
+01:41:49.352 --> 01:41:52.372
+trucs. Tu vois ce que je veux dire ? Parce que là, tu vas reperdre du temps à
+
+1907
+01:41:52.392 --> 01:41:55.692
+remodifier des trucs que tu as déjà faits, qui fonctionnent.
+
+1908
+01:41:55.972 --> 01:41:59.932
+Tu ne devrais pas perdre du temps à changer de
+
+1909
+01:41:59.972 --> 01:42:02.532
+base de données, changer pour Claude pour le scrapping, etc.
+
+1910
+01:42:03.632 --> 01:42:06.492
+Tu vas perdre trop de temps, là. Fais-le pour le prochain.
+
+1911
+01:42:07.072 --> 01:42:10.712
+Je n'ai pas fait la partie automatisation des mannequins qui portent le
+
+1912
+01:42:10.812 --> 01:42:14.372
+sac par fiche produit. Il y a 4 mannequins.
+
+1913
+01:42:14.492 --> 01:42:18.132
+Qu'est-ce qui t'empêche de balancer ton site comme ça
+
+1914
+01:42:18.212 --> 01:42:21.652
+et dans un deuxième temps, une fois qu'il est en ligne et qu'il tourne en pub,
+
+1915
+01:42:21.772 --> 01:42:23.672
+balancer les photos mannequins en plus après
+
+1916
+01:42:25.112 --> 01:42:25.112
+?
+
+1917
+01:42:25.192 --> 01:42:27.772
+Oui, c'est ça.
+
+1918
+01:42:29.112 --> 01:42:32.432
+Moi, je suis plus un flemmard dans le sens où
+
+1919
+01:42:32.532 --> 01:42:34.232
+j'aurais envie de lancer.
+
+1920
+01:42:36.052 --> 01:42:39.652
+Après, je ferais. Et après, j'adapterai ce qui manque, les photos
+
+1921
+01:42:39.692 --> 01:42:42.791
+mannequins, etc., s'il manque des trucs.
+
+1922
+01:42:46.552 --> 01:42:49.152
+Il te faut de la data pour voir le comportement du client.
+
+1923
+01:42:50.172 --> 01:42:52.212
+Voilà, peut-être que tu auras des trucs en fonction des
+
+1924
+01:42:53.252 --> 01:42:53.952
+retours clients,
+
+1925
+01:42:55.052 --> 01:42:55.212
+etc.
+
+1926
+01:42:56.152 --> 01:42:57.512
+Mais il faut vraiment que tu lances.
+
+1927
+01:42:58.752 --> 01:43:01.672
+Tu devrais vraiment lancer. Là, ton objectif, ça sera vraiment de lancer et pas
+
+1928
+01:43:01.892 --> 01:43:02.352
+fignoler.
+
+1929
+01:43:03.252 --> 01:43:04.252
+Et après, tu fignoleras.
+
+1930
+01:43:06.212 --> 01:43:09.692
+Le truc, c'est ça. Je me dis : « Imagine, ça fonctionne, mais je serais tellement
+
+1931
+01:43:09.712 --> 01:43:12.652
+la tête dans le SAV et tout ça que je serais dans un autre truc encore.
+
+1932
+01:43:12.952 --> 01:43:13.592
+J'aurais d'autres problématiques.
+
+1933
+01:43:13.602 --> 01:43:13.602
+»
+
+1934
+01:43:13.872 --> 01:43:17.084
+Le SAV, ce n'est pasAprès, tu auras
+
+1935
+01:43:17.904 --> 01:43:21.604
+la gestion des commandes et tout ça, mais ça
+
+1936
+01:43:21.884 --> 01:43:24.364
+ne prendra pas toutes tes journées.
+
+1937
+01:43:25.704 --> 01:43:26.024
+Oui.
+
+1938
+01:43:26.284 --> 01:43:29.364
+Tu pourras améliorer, fignoler ensuite sans problème.
+
+1939
+01:43:30.964 --> 01:43:32.104
+De toute façon, j'arrive au bout du bout.
+
+1940
+01:43:32.264 --> 01:43:32.524
+Maintenant,
+
+1941
+01:43:33.384 --> 01:43:34.444
+ce que je veux, c'est lancer au plus vite.
+
+1942
+01:43:35.804 --> 01:43:36.204
+Oui, mais ne
+
+1943
+01:43:37.584 --> 01:43:40.084
+soit pas tout sur NoCodeDB, ne soit pas tout sur Claude.
+
+1944
+01:43:41.464 --> 01:43:43.144
+Tu vas perdre trop de temps.
+
+1945
+01:43:43.164 --> 01:43:44.064
+Pour Claude, non.
+
+1946
+01:43:45.304 --> 01:43:47.024
+Pour le prochain, tu fais ça.
+
+1947
+01:43:48.324 --> 01:43:48.544
+Oui.
+
+1948
+01:43:49.493 --> 01:43:52.884
+Tu pourras même ajouter une dimension, que ça soit beaucoup plus dynamique
+
+1949
+01:43:54.444 --> 01:43:56.244
+pour tout ce qu'on a vu, pour que ça s'adapte au prochain.
+
+1950
+01:43:56.264 --> 01:43:58.604
+Et là, tu remodifieras tout ton flow.
+
+1951
+01:43:58.684 --> 01:44:02.604
+Mais ne modifie pas ton flow sur Claude, NoCodeDB ou
+
+1952
+01:44:02.664 --> 01:44:02.884
+autre.
+
+1953
+01:44:04.464 --> 01:44:05.964
+Il n'y a pas d'intérêt à le
+
+1954
+01:44:06.004 --> 01:44:08.504
+faire.
+
+1955
+01:44:11.784 --> 01:44:12.424
+Je veux vraiment le faire.
+
+1956
+01:44:13.904 --> 01:44:17.004
+C'est juste le module de début et de fin à changer, ce n'est pas grand-chose.
+
+1957
+01:44:17.044 --> 01:44:20.444
+Oui, si ce n'est pas trop long. Mais après, quel avantage tu as à le faire
+
+1958
+01:44:21.184 --> 01:44:21.184
+?
+
+1959
+01:44:21.224 --> 01:44:23.884
+Parce que je n'ai pas encore fait toute mon intégration produit à 100 %.
+
+1960
+01:44:24.264 --> 01:44:25.344
+Je n'ai pas fait toutes les images.
+
+1961
+01:44:26.604 --> 01:44:29.284
+Il n'y a pas d'intérêt, en finalité, c'est juste changer d'outil.
+
+1962
+01:44:30.784 --> 01:44:31.384
+Pour ça, oui.
+
+1963
+01:44:34.124 --> 01:44:35.464
+Après, si ce n'est pas trop long, OK.
+
+1964
+01:44:35.564 --> 01:44:39.444
+L'idée, c'est : ne modifie pas tout un flow, un
+
+1965
+01:44:39.524 --> 01:44:41.704
+bout de workflow parce que je ne sais quoi.
+
+1966
+01:44:42.804 --> 01:44:43.274
+Ou ça marche ?
+
+1967
+01:44:43.384 --> 01:44:44.634
+Au niveau temps et
+
+1968
+01:44:46.144 --> 01:44:49.024
+exécution, ça ne va vraiment pas prendre de temps.
+
+1969
+01:44:50.004 --> 01:44:51.844
+Je sais quel module fonctionne en entrée et en sortie.
+
+1970
+01:44:52.104 --> 01:44:55.624
+J'ai juste à faire le copier-coller aux autres modules. C'est tout.
+
+1971
+01:44:56.224 --> 01:44:56.444
+Mais pour
+
+1972
+01:44:58.364 --> 01:45:01.144
+Claude, tout réadapter, je vais perdre beaucoup de temps.
+
+1973
+01:45:01.884 --> 01:45:03.324
+Ça, ce n'est vraiment pas 20/80.
+
+1974
+01:45:04.964 --> 01:45:06.584
+En tout cas, bravo parce que
+
+1975
+01:45:07.544 --> 01:45:11.464
+c'est beaucoup de boulot et pour moi, ce qui marque, ce sont les détails
+
+1976
+01:45:12.504 --> 01:45:12.644
+qui
+
+1977
+01:45:14.044 --> 01:45:15.544
+t'apporteront beaucoup de bénéfices
+
+1978
+01:45:17.244 --> 01:45:17.844
+sur ton travail.
+
+1979
+01:45:18.164 --> 01:45:20.544
+Le truc qui est cool aussi, c'est que j'ai mis
+
+1980
+01:45:22.384 --> 01:45:23.084
+le-- comment ça s'appelle
+
+1981
+01:45:24.584 --> 01:45:24.584
+?
+
+1982
+01:45:26.084 --> 01:45:28.173
+Avec NoCodeDB, ça me l'a cassé. Ça n'a
+
+1983
+01:45:28.204 --> 01:45:30.474
+pas
+
+1984
+01:45:32.164 --> 01:45:35.884
+importé mes formules de Airtable
+
+1985
+01:45:36.404 --> 01:45:37.044
+vers un NoCodeDB.
+
+1986
+01:45:39.364 --> 01:45:43.124
+Comment ça s'appelle ?
+
+1987
+01:45:46.984 --> 01:45:49.104
+Le prix par produit, etc. Le tableau des marges.
+
+1988
+01:45:49.564 --> 01:45:51.404
+J'ai même réussi à créer le tableau des marges de base.
+
+1989
+01:45:56.624 --> 01:46:00.484
+J'ai le calcul ROSBE qui est automatiquement calculé et envoyé à
+
+1990
+01:46:00.524 --> 01:46:01.584
+la fiche produit, comme
+
+1991
+01:46:03.704 --> 01:46:06.244
+le tableau que Steph avait déjà envoyé.
+
+1992
+01:46:08.404 --> 01:46:11.164
+J'ai réussi directement à le faire et à connecter chaque produit.
+
+1993
+01:46:11.824 --> 01:46:15.804
+Ça se fait automatiquement. Quand je fais la partie sourcing, je mets
+
+1994
+01:46:15.844 --> 01:46:17.504
+juste le lien Aliexpress, ainsi de suite.
+
+1995
+01:46:18.944 --> 01:46:22.744
+Le prix d'achat se scrape automatiquement. Je peux scrape automatiquement.
+
+1996
+01:46:23.284 --> 01:46:25.444
+Et donc ça te fait ton calcul et ça te balance les bons prix.
+
+1997
+01:46:25.724 --> 01:46:28.884
+Après, c'est à moi de mettre à la main combien j'ai envie de le revendre de manière
+
+1998
+01:46:28.924 --> 01:46:31.944
+finale, mais ça m'évite de faire copier-coller le prix
+
+1999
+01:46:32.544 --> 01:46:34.144
+Aliexpress et le prix dans mon tableau.
+
+2000
+01:46:34.964 --> 01:46:38.204
+Mais après, c'est à moi de mettre la valeur de combien j'ai envie de le vendre
+
+2001
+01:46:38.244 --> 01:46:40.164
+au final.
+
+2002
+01:46:41.564 --> 01:46:42.964
+La valeur perçue que tu vois.
+
+2003
+01:46:43.684 --> 01:46:44.284
+Oui, c'est ça.
+
+2004
+01:46:45.604 --> 01:46:46.644
+Je pense fois trois à peu près,
+
+2005
+01:46:47.644 --> 01:46:48.764
+ça me semble OK.
+
+2006
+01:46:54.184 --> 01:46:55.104
+C'est l'avantage d'avoir un tableau.
+
+2007
+01:46:55.184 --> 01:46:57.504
+Tu peux inclure ton intégration de produit,
+
+2008
+01:46:58.864 --> 01:47:02.044
+ton tableau des marges directement sur la même interface.
+
+2009
+01:47:02.584 --> 01:47:05.984
+Il y a la partie aussi, plus tard, ça, je le ferai peut-être, SAV, pour avoir des
+
+2010
+01:47:06.024 --> 01:47:09.894
+retours par exemple par produit. S'il y a des problèmes sur ce produit, je
+
+2011
+01:47:09.984 --> 01:47:10.424
+les note.
+
+2012
+01:47:12.644 --> 01:47:14.984
+Ça peut être des bons retours comme des inconvénients.
+
+2013
+01:47:15.724 --> 01:47:17.184
+Après, je peux améliorer les fiches produits,
+
+2014
+01:47:18.204 --> 01:47:21.324
+améliorer la valeur perçue par rapport au retour réel client.
+
+2015
+01:47:22.104 --> 01:47:24.804
+Il y a beaucoup de choses à faire. Il y a une
+
+2016
+01:47:24.864 --> 01:47:26.184
+évolutivité.
+
+2017
+01:47:28.084 --> 01:47:29.624
+Puis ça rend vraiment un suivi aussi SAV.
+
+2018
+01:47:30.344 --> 01:47:31.944
+Une fois que tu as ton tableau, tu fais ce que tu veux.
+
+2019
+01:47:39.384 --> 01:47:41.554
+Merci du partage. Et
+
+2020
+01:47:42.604 --> 01:47:44.404
+bravo encore. C'est clean.
+
+2021
+01:47:52.904 --> 01:47:56.804
+En vrai, même pour ceux qui n'utiliseront pas
+
+2022
+01:47:56.824 --> 01:48:00.764
+une Item, parce que c'est lui la gueule des workflows, ça peut donner beaucoup de
+
+2023
+01:48:00.804 --> 01:48:04.584
+pistes. Il a quasiment décrit beaucoup de choses de tous ses workflows.
+
+2024
+01:48:04.644 --> 01:48:07.104
+Ça donnera forcément beaucoup de
+
+2025
+01:48:07.964 --> 01:48:10.644
+plus-value à ceux qui vont revoir les replays.
+
+2026
+01:48:11.764 --> 01:48:13.564
+Des trucs auxquels ils n'auraient pas pensé, etc.
+
+2027
+01:48:14.864 --> 01:48:15.644
+Donc merci pour ça.
+
+2028
+01:48:16.694 --> 01:48:18.504
+Si ça peut servir à la communauté.
+
+2029
+01:48:24.144 --> 01:48:26.884
+Je n'ai pas été en micro-détail avec chaque module, les variables.
+
+2030
+01:48:27.184 --> 01:48:27.804
+Ce n'est pas le but.
+
+2031
+01:48:27.864 --> 01:48:28.544
+Tu n'as pas besoin.
+
+2032
+01:48:30.224 --> 01:48:31.664
+C'est la logique.
+
+2033
+01:48:32.584 --> 01:48:36.424
+Il y a la grosse logique, les idées, le sens, l'ordre.
+
+2034
+01:48:36.804 --> 01:48:39.704
+Qu'est-ce que tu fais ? Pourquoi ? Tu as expliqué quand même beaucoup de choses,
+
+2035
+01:48:40.144 --> 01:48:40.564
+c'est nickel.
+
+2036
+01:48:40.744 --> 01:48:44.724
+Le truc que j'ai remarqué, le plus important, c'est vraiment la donnée
+
+2037
+01:48:44.764 --> 01:48:47.204
+que tu prends en entrée. Après, on s'en f**t de la manière.
+
+2038
+01:48:48.944 --> 01:48:52.144
+Si tu utilises Claude et que tu envoies tout comme ça, ça, à la limite, ce n'est
+
+2039
+01:48:52.184 --> 01:48:55.924
+pas grave. Les alt texts, etc. Il y a plein de manières de
+
+2040
+01:48:55.964 --> 01:48:56.304
+faire.
+
+2041
+01:48:58.124 --> 01:49:00.064
+Ce que j'utilise, c'est un maximum de contexte
+
+2042
+01:49:01.144 --> 01:49:03.844
+par rapport à ce que j'ai fait au début pour après améliorer la data.
+
+2043
+01:49:04.064 --> 01:49:07.824
+Par exemple, améliorer les alt texts, ça reprend le nom produit, ça
+
+2044
+01:49:07.904 --> 01:49:08.384
+reprend
+
+2045
+01:49:09.624 --> 01:49:11.783
+peut-être deux, trois infos à droite, à gauche.
+
+2046
+01:49:12.464 --> 01:49:12.664
+Mais
+
+2047
+01:49:13.884 --> 01:49:16.723
+le plus important, c'est vraiment la partie scrapping, parce que c'est la base.
+
+2048
+01:49:17.464 --> 01:49:20.520
+J'appelle ça laDonnées first party.
+
+2049
+01:49:21.520 --> 01:49:24.180
+Une fois que tu as vraiment les caractéristiques des images, etc.,
+
+2050
+01:49:25.040 --> 01:49:29.020
+limite, peu importe le prompt que tu vas faire en
+
+2051
+01:49:29.060 --> 01:49:32.880
+rédaction de produits, si tu prends le contexte
+
+2052
+01:49:34.240 --> 01:49:38.200
+que tu as déjà scrappé, tu auras une qualité de rédaction qui n'a rien
+
+2053
+01:49:38.280 --> 01:49:39.160
+à voir. Tu n'auras pas de
+
+2054
+01:49:41.160 --> 01:49:43.140
+rédaction générique dans tes blocages.
+
+2055
+01:49:43.520 --> 01:49:45.620
+Oui, je vois exactement.
+
+2056
+01:49:45.700 --> 01:49:47.480
+Ça n'a rien à voir. J'ai vu la différence.
+
+2057
+01:49:49.860 --> 01:49:52.500
+C'est sûr qu'au niveau rédaction, avec beaucoup plus de contexte et de données
+
+2058
+01:49:52.540 --> 01:49:55.620
+produits, c'est forcément plus clean. C'est clair.
+
+2059
+01:49:57.020 --> 01:49:57.840
+Je vous remets le lien.
+
+2060
+01:49:58.640 --> 01:50:02.600
+Ce n'est pas ce que tu as utilisé, mais c'est un truc que tu nous
+
+2061
+01:50:02.660 --> 01:50:04.000
+as partagé tout à l'heure,
+
+2062
+01:50:05.900 --> 01:50:08.580
+que à mon avis, vous pouvez juste filer à Claude.
+
+2063
+01:50:10.480 --> 01:50:10.980
+Salut Steph.
+
+2064
+01:50:12.540 --> 01:50:15.200
+C'est un truc que vous devez filer à Claude et qui vous
+
+2065
+01:50:19.160 --> 01:50:22.060
+guidera, je pense. Il lira la doc, il se démerdera.
+
+2066
+01:50:23.740 --> 01:50:26.040
+Si vous avez besoin de scrapper une page,
+
+2067
+01:50:27.120 --> 01:50:29.680
+là, en l'occurrence, on parle d'AliExpress, mais ça peut être beaucoup de choses,
+
+2068
+01:50:30.460 --> 01:50:31.180
+il devrait
+
+2069
+01:50:32.640 --> 01:50:36.300
+tout comprendre et le faire à votre place et vous faire un rendu
+
+2070
+01:50:37.740 --> 01:50:40.700
+de qualité. J'ai remis le lien.
+
+2071
+01:50:41.440 --> 01:50:44.240
+Je n'ai pas testé, je ne crois pas que Pierre non plus,
+
+2072
+01:50:45.200 --> 01:50:46.780
+mais c'est bien noté.
+
+2073
+01:50:46.840 --> 01:50:47.980
+Début d'aprèm.
+
+2074
+01:50:49.160 --> 01:50:51.320
+Je vais l'installer, puis après, je vais faire vite un retour.
+
+2075
+01:50:51.940 --> 01:50:52.240
+Yes.
+
+2076
+01:50:53.300 --> 01:50:57.040
+C'est soutenu par Claude, enfin, il est contributeur du truc, donc ça ne devrait
+
+2077
+01:50:57.080 --> 01:50:59.000
+pas être trop pourri.
+
+2078
+01:51:01.000 --> 01:51:04.040
+Il y a le NPM AliExpress ?
+
+2079
+01:51:04.100 --> 01:51:07.540
+Oui. Je peux le remettre, mais vous mettez NPM
+
+2080
+01:51:07.560 --> 01:51:08.200
+AliExpress
+
+2081
+01:51:09.140 --> 01:51:10.460
+scrapping ou scrapper.
+
+2082
+01:51:11.340 --> 01:51:13.780
+Puis vous allez tomber dessus. C'est déjà une bonne base.
+
+2083
+01:51:14.520 --> 01:51:16.600
+Ça récupère des données qui étaient très clean.
+
+2084
+01:51:18.920 --> 01:51:20.040
+Attends, je vais le remettre.
+
+2085
+01:51:20.880 --> 01:51:21.640
+NPM
+
+2086
+01:51:23.380 --> 01:51:26.000
+AliExpress product scrapper. Voilà, c'est ça.
+
+2087
+01:51:27.660 --> 01:51:30.220
+Pareil, si le premier vous
+
+2088
+01:51:31.800 --> 01:51:32.280
+fait peur,
+
+2089
+01:51:33.620 --> 01:51:34.440
+le deuxième
+
+2090
+01:51:35.520 --> 01:51:38.900
+est un peu plus simple et Claude, pareil, vous lui filez sien.
+
+2091
+01:51:39.380 --> 01:51:39.790
+Vous lui dites
+
+2092
+01:51:41.500 --> 01:51:44.220
+que ça permet de scrapper les produits, il comprendra et il l'utilisera,
+
+2093
+01:51:44.960 --> 01:51:45.460
+simplement.
+
+2094
+01:51:47.780 --> 01:51:49.500
+Je ne sais pas si
+
+2095
+01:51:49.580 --> 01:51:53.520
+j'ai posé plusieurs fois la question dans le live, donc
+
+2096
+01:51:53.530 --> 01:51:56.560
+tant pis pour cette question, mais je vais couper
+
+2097
+01:51:57.540 --> 01:51:58.020
+direct.
+
+2098
+01:51:59.100 --> 01:52:02.040
+Merci encore Pierre pour tout ça, pour ton partage.
+
+2099
+01:52:02.880 --> 01:52:06.220
+Merci beaucoup. Je pense que ça servira à beaucoup de gens.
+
+2100
+01:52:07.580 --> 01:52:11.020
+Passez une bonne journée, bonne semaine, bon courage, travaillez
+
+2101
+01:52:11.080 --> 01:52:13.500
+bien et à bientôt.
+
+2102
+01:52:14.600 --> 01:52:16.040
+À plus tout le monde.
+
+2103
+01:52:16.160 --> 01:52:16.820
+Salut.
+
+2104
+01:52:17.180 --> 01:52:17.360
+Ciao

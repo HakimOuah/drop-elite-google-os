@@ -1,22 +1,19 @@
 
-===== PAGE 1 =====
 
-
-
-===== PAGE 2 =====
+--- PAGE ---
 
 Fast-Track GMC Approval
 Framework | 2026 Edition
 This eBook is protected by copyright law and may not be reproduced, distributed, or transmitted in any form or by any means, including
 photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case
 of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
- terry@terryecom.com
+terry@terryecom.com
 
 
-===== PAGE 3 =====
+--- PAGE ---
 
 By Terry Ecom
- Founder of GMC HELP and GMC Scout
+Founder of GMC HELP and GMC Scout
 Introduction
 This eBook contains enforcement-driven guidance based on live Google Merchant Center reviews,
 weekly audits, and data surfaced from GMC Scout and the GMC HELP community.
@@ -25,11 +22,11 @@ faster, cleaner approvals inside the Merchant Center.
 Let's get into it.
 
 
-===== PAGE 4 =====
+--- PAGE ---
 
 Fast-Track GMC Approval
- Framework
- 2026 Edition
+Framework
+2026 Edition
 Up-to-date approval guidance based on 500+ real store reviews, live GMC audits, and observed
 Google Merchant Center review patterns.
 Created by Terry Ecom, founder of GMC HELP (the leading free GMC compliance community) and
@@ -45,7 +42,7 @@ This framework is designed to help you align correctly and reach approval faster
 guarantee approval. Google Merchant Center decisions are automated and subject to change.
 
 
-===== PAGE 5 =====
+--- PAGE ---
 
 How to Use This Framework
 Read and apply sections in order. Do not skip ahead. Most failures happen before GMC creation or
@@ -67,7 +64,7 @@ Core mindset: look, act, and operate like a legitimate brand that ships what it 
 is scoring signals, not stories.
 
 
-===== PAGE 6 =====
+--- PAGE ---
 
 SECTION 2 - Fast-Track Approval Principles (Non-
 Negotiable)
@@ -83,7 +80,8 @@ duplicated (same policies/about/contact across other domains), Google reads it a
 nonlegitimate setup and downgrades trust.
 If any principle fails, stop and fix before proceeding.
 
-===== PAGE 7 =====
+
+--- PAGE ---
 
 SECTION 3 - Pre-Build Setup (Before Shopify or GMC
 Exists)
@@ -111,14 +109,14 @@ Phone Number Strategy
 Environment Isolation
 
 
-===== PAGE 8 =====
+--- PAGE ---
 
 - Use proxy + anti-detect only for Gmail, GMC, and Ads
 - Never access Shopify inside a proxy (high ban risk)
 If this section is incomplete, do not proceed.
 
 
-===== PAGE 9 =====
+--- PAGE ---
 
 SECTION 4 - Store Build Requirements (Trust Signals)
 This section determines whether Google perceives your store as legitimate or risky.
@@ -144,13 +142,13 @@ Social Media (High-Risk When Done Early)
 External Trust Signals
 
 
-===== PAGE 10 =====
+--- PAGE ---
 
 - If Trustpilot exists, rating must be 3.0+ before any review
 - Trustpilot below 3.0 is a hard rejection gate
 
 
-===== PAGE 11 =====
+--- PAGE ---
 
 SECTION 5 - Policies & Compliance (Top
 Misrepresentation Trigger)
@@ -171,7 +169,7 @@ Google Checks Line-by-Line
 Reference policy templates are provided in Appendix A for guidance only.
 
 
-===== PAGE 12 =====
+--- PAGE ---
 
 SECTION 6 - Products, Collections & Feed Rules
 Visual Rule - Collections Requirement
@@ -196,7 +194,7 @@ Technical
 - Avoid embedded images in descriptions
 
 
-===== PAGE 13 =====
+--- PAGE ---
 
 SECTION 7 - GMC Creation & Verification Blueprint
 Fast-Track Creation Flow (Correct Order)
@@ -221,12 +219,13 @@ Feed Connection
 - Use Simprosys app on Shopify
 - Ensure all products are approved in feed
 
-===== PAGE 14 =====
+
+--- PAGE ---
 
 - Fix disapprovals before requesting review
 
 
-===== PAGE 15 =====
+--- PAGE ---
 
 SECTION 8 - Review Submission & Post-Approval
 Before Requesting Review
@@ -251,7 +250,7 @@ Post-Approval Maintenance
 - Monitor for policy violations in feed
 
 
-===== PAGE 16 =====
+--- PAGE ---
 
 APPENDIX A - Policy Templates
 Please do not copy this text directly. Google checks for duplicate policy pages. Use these templates
@@ -278,7 +277,8 @@ applies when the customer orders the wrong item, it doesn't fit, or they no long
 costs are non-refundable.
 How to Return an Item
 
-===== PAGE 17 =====
+
+--- PAGE ---
 
 1. Contact Us: Email [Support Email] with your order number and reason for the return.
 2. Pack Your Item: Repack the item securely in its original packaging, including all accessories, tags,
@@ -306,12 +306,12 @@ Phone: [Support Phone Number]
 Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Your Time Zone)]
 
 
-===== PAGE 18 =====
+--- PAGE ---
 
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 19 =====
+--- PAGE ---
 
 Shipping Policy Template
 At [Your Store Name], we are committed to providing an exceptional shopping experience for our
@@ -337,7 +337,8 @@ Paid Shipping (if applicable): For destinations outside our free shipping zones,
 calculated and displayed at checkout.
 Delivery Issues
 
-===== PAGE 20 =====
+
+--- PAGE ---
 
 If you experience any issues with your delivery, such as delays or lost packages, please contact our
 customer service team immediately. We are here to assist you and ensure your order arrives safely
@@ -356,7 +357,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 21 =====
+--- PAGE ---
 
 Privacy Policy Template
 Last updated: [Month Day, Year]
@@ -385,7 +386,8 @@ Information from Third Parties:
 We may receive information from vendors, service providers, or social media platforms that help us
 operate the Site and Services.
 
-===== PAGE 22 =====
+
+--- PAGE ---
 
 How We Use Your Personal Information
 - To process orders and deliver products or services.
@@ -412,7 +414,7 @@ information.
 Children's Data
 
 
-===== PAGE 23 =====
+--- PAGE ---
 
 Our Services are not intended for children, and we do not knowingly collect personal information from
 minors. If you believe your child has shared data with us, please contact us to request deletion.
@@ -440,7 +442,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 24 =====
+--- PAGE ---
 
 Terms of Service Template
 This Terms of Service document outlines the conditions under which [Your Store Name] provides
@@ -470,7 +472,8 @@ encrypted during transfer.
 We are not responsible if information on this site is inaccurate, incomplete, or outdated. The material
 is provided for general information only and should not be solely relied upon.
 
-===== PAGE 25 =====
+
+--- PAGE ---
 
 4. Modifications to the Service and Prices
 Prices for products are subject to change without notice. We reserve the right to modify or
@@ -497,7 +500,7 @@ We reserve the right to correct any errors or omissions and to change or update 
 time without prior notice.
 
 
-===== PAGE 26 =====
+--- PAGE ---
 
 12. Prohibited Uses
 You are prohibited from using the site or its content for unlawful purposes, to violate rights, distribute
@@ -522,7 +525,7 @@ These Terms shall be governed by and construed in accordance with the laws of [C
 19. Changes to Terms of Service
 
 
-===== PAGE 27 =====
+--- PAGE ---
 
 You can review the most current version of these Terms at any time on this page. We reserve the
 right to modify these Terms by posting updates to our website.
@@ -535,7 +538,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 28 =====
+--- PAGE ---
 
 Billing Terms & Conditions Template
 This Billing Terms and Conditions document outlines the payment and billing practices for [Your Store
@@ -563,7 +566,8 @@ All payments are processed in [Currencies Accepted, e.g., United States Dollars 
 transactions are secure.
 - We do not store your credit card or payment details.
 
-===== PAGE 29 =====
+
+--- PAGE ---
 
 5. Refunds & Chargebacks
 - Refunds are processed according to our Refund & Return Policy.
@@ -582,7 +586,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 30 =====
+--- PAGE ---
 
 FAQ Template
 Welcome to the [Your Store Name] Frequently Asked Questions (FAQ) page.
@@ -608,7 +612,8 @@ Answer: Yes, we offer a 24-hour cancellation window. To cancel your order within
 please contact our support team.
 Question #6: What is your return policy?
 
-===== PAGE 31 =====
+
+--- PAGE ---
 
 Answer: We have a simple and hassle-free return process. For complete details, please visit our
 [Return Policy URL].
@@ -634,7 +639,7 @@ Question #13: What is the process for exchanging a product?
 Answer: For detailed information about product exchanges, please refer to our [Return Policy URL].
 
 
-===== PAGE 32 =====
+--- PAGE ---
 
 Question #14: How can I track my order?
 Answer: You can track your order through the [Track Order Page URL] on our website.
@@ -647,7 +652,7 @@ Customer Service Hours: [Days & Times, e.g., Monday-Friday, 9:00 AM - 5:00 PM (Y
 Response Time: We aim to reply within [1-2 business days].
 
 
-===== PAGE 33 =====
+--- PAGE ---
 
 APPENDIX B - High-Risk Mistakes
 Common mistakes that lead to immediate rejection:
@@ -659,7 +664,7 @@ Common mistakes that lead to immediate rejection:
 - Rushing reviews
 
 
-===== PAGE 34 =====
+--- PAGE ---
 
 Recommended Tool: GMC Scout
 GMC Scout is the AI-powered compliance scanner built specifically for Shopify and Google Merchant
@@ -670,10 +675,10 @@ Center stores.
 Learn more at: https://gmcscout.com
 
 
-===== PAGE 35 =====
+--- PAGE ---
 
 Join the Free GMC HELP Skool
- Community
+Community
 The leading free Google Merchant Center support hub online.
 - Weekly approval audits
 - Fix walkthroughs

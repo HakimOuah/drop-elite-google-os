@@ -1,0 +1,342 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  1  —
+RAPPORT DE SESSION
+23 juin 2026 • Durée : 2h01 • Coach : Théo
+Participants : Pierre, Sébastien, Samuel, Raphaël, Thibaud, Omar, Mika, Stéphanie
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Démo Pierre — Une appli locale faite avec Claude pour automatiser tout
+le workflow image
+▶ 00:06 Hot seat Sébastien — Intégrer 200 produits vite : Claude connecté à
+Shopify
+▶ 00:14 Images AliExpress — Conserver ou retravailler, Nano Banana, Pixelyz,
+métafields dès le début
+▶ 00:23 Hot seat Samuel — Recherche de niche : pourquoi Claude ne suffit pas,
+la méthode Amazon
+▶ 00:27 Hot seat Raphaël — 400 pages en attente d’indexation : budget crawl,
+autorité, backlinks
+▶ 00:36 Principes transversaux — schema.org, métafields et flux produit : la
+fondation data
+▶ 01:20 Partage Thibaud — Channable et le vrai prix d’un freelance médiabuy
+▶ 01:28 Raphaël — La relance des ventes : vitesse du site, PMax Feed Only,
+Meta catalogue
+▶ 01:37 Hot seat Omar — Sous-collections vs filtres, ciblage large vs « argent
+», arbo bijoux
+⚔ DÉTAIL DES HOTSEATS
+► Pierre — Une appli locale pour industrialiser ses images
+Pierre a montré l’application qu’il s’est codée avec Claude (en Opus, abonnement pro) pour recentrer tout son
+workflow de traitement d’images produit. Tri au clavier par raccourcis, attribution directe à la bonne variation,
+création d’images-blocs (deux visuels combinés en une image unique), puis envoi automatique dans son
+tableau. Le gros gain : le renommage automatique des fichiers selon leur position, là où il perdait énormément
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  2  —
+de temps à renommer à la main.
+Le bouton « Run » en haut envoie toutes les images (galerie, variation, bloc) vers Higgsfield via un script
+Python : galerie et variation tournent en upscale only, la partie bloc déclenche l’expand pour refaire les détails
+sur les côtés. L’enseignement de fond : plutôt que de chercher des visionneuses payantes inadaptées, se faire
+un outil custom local avec Claude, rapide et taillé pour son besoin.
+« C’est bien que tu aies fait ça, parce que du coup sur la suite tu vas en faire plein : tu auras besoin
+de trucs spécifiques. »
+— Théo
+► Sébastien — Intégrer 200 produits sans y passer des semaines
+Sébastien doit intégrer environ 200 produits (niche luminaires, focus appliques murales) et a l’impression de «
+taper des clous avec un tournevis ». La réponse de Théo : connecter Claude à Shopify pour qu’il lise et
+comprenne les produits, puis lui faire créer des compétences qui remplissent les fiches comme voulu. On cale
+l’IA sur 10 à 15 fiches (on corrige, on lui dit ce qui ne va pas), puis on lance sur un panel de 50 ou directement
+les 200. L’IA abat le gros du travail — environ 90 % — avec une relecture systématique derrière.
+Pas question de reprendre les fiches des concurrents : contenu dupliqué, pas unique, et risque de plainte. Sur
+les images AliExpress, on peut les garder si elles sont de bonne qualité, mais mieux vaut des visuels différents
+pour avoir des images uniques. Pour la retouche et l’upscale : Nano Banana ou GPT (il a l’abonnement), qui
+génèrent une vraie amélioration là où un upscale basique ne fait qu’agrandir. Pixelyz a aussi été cité pour les
+photos, à tester sur du luminaire. Consigne importante dès le départ : créer les métafields de specs et de filtres,
+indispensables pour la suite sur une niche luminaire.
+« Une fois qu’il a bien cerné comment remplir, il peut t’en faire 50 en une ou deux heures. Pendant
+ce temps-là, toi tu installes ton thème et tu fais tes pages produit. »
+— Théo
+► Samuel — Recherche de niche : la méthode Amazon plutôt que l’IA
+Samuel cherche encore sa niche et son vrai frein, c’est le temps (il bosse à côté). Sa question : trouver des
+niches via Claude. Théo déconseille clairement. L’IA donne des idées basiques (du type « portefeuille crocodile
+» ou « manteau en laine bouillie »), mais sans les données qui comptent : volume, CPC, KD, ratio de rentabilité.
+Pour avoir ces données, il faudrait la connecter à un outil type Semrush, DataForSEO ou Ahrefs — des
+abonnements qui coûtent cher.
+La meilleure approche reste la méthode Amazon (cf. vidéo formation) : plonger directement dans la data
+mots-clés d’un gros site à catalogue, filtrer pour faire émerger des idées, puis analyser. Ça marche aussi avec
+d’autres gros catalogues selon l’angle (sport, bricolage…). Le process express : une heure à fouiller, on liste 5 à
+10 niches, on les analyse, on garde la meilleure.
+« À part l’IA qui est connectée à un outil, je vois pas. Le meilleur truc que je peux te dire, c’est
+Amazon : tu passes une heure, tu en listes 5-10, et tu analyses lesquelles sont les meilleures. »
+— Théo
+► Raphaël — Indexation bloquée & relance des ventes
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  3  —
+Indexation. Raphaël a plus de 700 pages indexées pour 950 produits, mais environ 400 pages « découvertes /
+explorées mais pas indexées », bloquées depuis deux semaines, sur un nom de domaine de moins de 3 mois.
+Diagnostic : pas de no-index ni de robots qui bloquent ; c’est surtout une question d’autorité faible, de site récent
+et d’un gros volume de pages qui limite le budget crawl. Les leviers : quelques backlinks ciblés (il a analysé les
+backlinks de ses concurrents sur Semrush pour démarcher en direct, presse régionale incluse), le maillage
+interne, et tout simplement du temps. Pierre rappelle que la balise canonical posée par Shopify sur les filtres
+économise du budget crawl.
+Relance. Bonne nouvelle, le site est reparti (une journée à 1 000 €, un record battu). Le déclic : la correction de
+la vitesse du site, dégradée à 2,7 s de FCP par un bloc mal codé. Côté ads, il a gardé une PMax Feed Only et
+coupé le Shopping standard, et il teste Meta en catalogue (environ 5 de ROAS sur 30 €/jour, 2 commandes). Il a
+aussi pris un freelance médiabuy qui gère Meta et Pinterest.
+Indicateur
+Valeur
+Contexte
+Pages indexées
+700+
+Pour 950 produits
+Pages en attente
+env. 400
+Bloquées depuis 2 semaines
+Âge du domaine
+< 3 mois
+Autorité encore faible
+FCP avant correction
+2,7 s
+Bloc mal codé
+CA journée record
+1 000 €
+Après relance
+ROAS Meta catalogue
+env. 5
+30 €/jour, 2 commandes
+« C’est très probable que ça se débloque naturellement : Google fait petit à petit, il peut pas tout
+indexer du jour au lendemain. Un ou deux backlinks dessus, ce sera pas perdu. »
+— Théo
+► Thibaud — Channable & le vrai prix d’un médiabuy
+Thibaud partage Channable, un équivalent de Simprosys qui ajoute des automatisations : on pose des règles et
+l’outil relègue ou promeut un produit entre campagnes (top produit / tout produit) selon ses ventes. Réputé,
+utilisé par les médiabuys pour centraliser le flux quel que soit le CMS, mais cher (autour de 80 €/mois) — sans
+doute excessif pour du seul Merchant Center sur Shopify. Sur les freelances médiabuys, il reste sceptique
+après 6 mois en agence (CA quasi identique) ; Raphaël, lui, vient d’en prendre un et y voit de la valeur.
+Conclusion partagée : ce qui se paie, c’est l’expérience, et la métrique qui tranche reste le CA avant / après.
+« C’est l’histoire du plombier : 1 € le coup de marteau, 99 € pour savoir où taper. Ce que tu paies,
+c’est l’expérience. »
+— Théo & Mika
+► Omar — Sous-collections, filtres & ciblage des mots-clés
+Omar travaille une niche immense (bijoux argent) et se demande à partir de quel volume créer une
+sous-collection plutôt qu’un simple filtre. Repère donné par Théo : en dessous de 100-200 recherches c’est
+limite (plutôt un filtre), au-delà de 500-700 ça justifie une collection — à moduler selon la taille globale de la
+niche. Il en a environ 102 créées pour un potentiel qui pourrait monter vers 1 000 à terme : on crée d’abord les
+plus importantes.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  4  —
+Gros point stratégique sur le ciblage : pour les grosses collections, viser parfois le mot-clé large (par exemple «
+bague homme » à 7-8 000 de volume) plutôt que le spécifique « bague argent homme » à 3 000, parce que la
+masse de sous-collections donne la puissance pour ranker plus haut. Google teste, te place, puis ajuste selon le
+rebond et la conversion. Le débat du mot « argent » : le garder = trafic ultra-ciblé mais on rate du volume. Plan
+retenu : démarrer en « argent », puis dans un second temps ouvrir vers les requêtes larges là où la SERP le
+justifie.
+Côté exécution : croiser le choix des collections de départ avec ce que le fournisseur peut réellement fournir (il
+n’a pas encore d’agent, donc parfois 1-2 articles par collection). Démarrer avec un peu de tout (homme, femme,
+enfant) pour que Google comprenne dès le départ le positionnement global « bijou argent ». Le site étant
+protégé par mot de passe, il peut importer puis trier sans risque de 404. Et côté légal : adresse du siège (même
+US) obligatoire en mentions légales / CGV, adresse de retour clairement indiquée ; dans le footer, email et
+téléphone recommandés mais adresse non obligatoire.
+Indicateur
+Valeur
+Contexte
+Seuil collection
+500-700+
+Recherches mensuelles
+Seuil limite (filtre)
+100-200
+En dessous → filtre
+Collections actuelles
+env. 102
+Sur ~1 000 à terme
+Volume homme (large)
+env. 72 000
+Mots-clés sans « argent »
+Volume homme (argent)
+env. 26 000
+Uniquement « argent »
+Volume femme (large)
+env. 118 000
+Mots-clés sans « argent »
+Volume femme (argent)
+env. 39 000
+Uniquement « argent »
+« C’est dommage de cibler un mot-clé à 3 000 de recherche quand tu peux viser le 7 000 : il est un
+peu plus concurrentiel, mais tu auras 100 produits pour le pousser. »
+— Théo
+⚙ PRINCIPES TRANSVERSAUX — DONNÉES STRUCTURÉES & FLUX
+PRODUIT
+Pas de masterclass formelle cette fois, mais un long échange technique (Pierre, Théo, Mika) dont voici les
+principes à retenir pour tout le monde.
+La donnée structurée, c’est la fondation. Un schema.org riche sert à trois choses : le SEO, l’éligibilité aux
+filtres Google Shopping, et la visibilité auprès des LLM — qui lisent le schema en priorité parce que le HTML est
+trop lourd pour eux. C’est de la donnée first-party, le socle du site.
+Shopify ne pousse pas tout automatiquement. Contrairement à WooCommerce (où Rank Math récupère les
+attributs), Shopify ne balance pas seul les métafields de spécifications dans le schema. Il faut donc créer les
+specs en métafields, puis les pousser — ce qui se confirme produit par produit (voir le schéma final via
+schema.org une fois la fiche remplie).
+Remplir le flux produit à fond. Dans le flux Merchant Center (géré ici via Simprosys), il faut renseigner un
+maximum d’attributs : color, gender, age group, size, material, pattern… et pas seulement le titre et la
+description. Plus on fournit de données, plus on baisse ses CPC, plus on est pertinent, plus on est éligible aux
+filtres Shopping. Le minimum requis tourne autour de age group et gender (color fortement recommandé).
+Attention : un attribut faux (mauvaise couleur déclarée) peut faire bloquer le compte.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  5  —
+Trois couches à ne pas confondre : le flux Merchant Center, les données schema.org et le HTML/SEO
+on-site — ce sont trois choses distinctes. Bonus signalé : pousser une FAQ (questions/réponses) dans
+Merchant Center, grâce aux nouveaux champs Google, peut donner un avantage.
+« C’est la donnée first-party, c’est le truc le plus important : c’est la fondation de ton site. Plus tu as
+d’attributs, mieux c’est. »
+— Pierre
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Continuer à dérouler l’intégration produits avec son nouvel outil d’automatisation d’images.
+⚡ Vérifier son schema.org produit : pousser specs et attributs custom pour les filtres Shopping et la
+visibilité LLM.
+SECONDAIRE
+○ Documenter ses scripts Higgsfield (galerie/variation = upscale, bloc = expand) pour réutilisation.
+○ Envisager d’autres mini-apps locales avec Claude selon ses besoins spécifiques.
+  ⚓  Sébastien
+PRIORITAIRE
+⚡ Regarder la vidéo du module Claude (intégration produits Shopify) avant de continuer.
+⚡ Caler Claude sur 10-15 fiches produits, corriger, puis lancer sur le reste des 200.
+⚡ Créer dès le départ les métafields specs & filtres (luminaires / appliques murales).
+SECONDAIRE
+○ Retoucher et upscaler les images AliExpress floues via Nano Banana ou GPT ; tester Pixelyz sur du
+luminaire.
+○ Réserver son hot seat pour la semaine prochaine.
+  ⚓  Samuel
+PRIORITAIRE
+⚡ Appliquer la méthode Amazon : sortir une short-list de 5-10 niches en ~1h, puis les analyser
+(volume, CPC, KD, RR).
+⚡ Ne pas compter sur Claude pour la recherche de niche elle-même : il n’a pas les données.
+SECONDAIRE
+○ Élargir aux autres gros catalogues (sport, bricolage…) selon les angles de recherche.
+○ Revenir au coach pour une validation une fois une niche identifiée.
+  ⚓  Raphaël
+PRIORITAIRE
+⚡ Poser quelques backlinks ciblés sur les collections importantes non indexées (presse régionale,
+backlinks concurrents).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  6  —
+⚡ Surveiller la vitesse du site (FCP) après tout ajout de bloc ; suivre l’indexation au jour le jour.
+⚡ Remplir le flux produit (color, gender, age group, size, material) au-delà du titre / description.
+SECONDAIRE
+○ Renforcer le maillage interne collections ↔ produits ; laisser du temps au budget crawl.
+○ Poursuivre le test Meta catalogue (env. 5 de ROAS) et juger le freelance sur le CA avant / après.
+  ⚓  Thibaud
+PRIORITAIRE
+⚡ Évaluer Channable seulement en cas de gros catalogue ou de besoin multi-CMS (~80 €/mois,
+souvent excessif pour Merchant Center seul).
+SECONDAIRE
+○ Juger son freelance médiabuy sur la métrique CA avant / après, pas sur le ressenti.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Compléter l’arborescence côté homme (sous-collections manquantes, ex. bracelet homme) comme
+côté femme.
+⚡ Croiser le choix des collections de départ avec ce que le fournisseur peut réellement fournir.
+⚡ Démarrer avec un peu de tout (homme/femme/enfant) pour fixer le positionnement global « bijou
+argent ».
+SECONDAIRE
+○ Pour les grosses collections, étudier le ciblage du mot-clé large en vérifiant la SERP (majorité de produits
+argent ?).
+○ Travailler les produits en draft (site protégé) : tri possible après import, sans risque de 404.
+○ Compléter mentions légales / CGV (adresse siège + adresse de retour) ; footer email + téléphone.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Pousser un maximum d’attributs et de specs en métafields (color, gender, age group, size,
+material) vers le flux produit et le schema.org.
+SECONDAIRE
+○ Vérifier dans Merchant Center les attributs réellement poussés (couleur, variantes).
+○ Récupérer la liste des champs Google (product data specification) partagée par Pierre.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Produits à intégrer (Sébastien)
+200
+Niche luminaires / appliques
+Temps manuel par produit (avant IA)
+35-60 min
+Méthode historique
+Part du travail abattue par l’IA
+env. 90 %
+Fiches via Claude + Shopify
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/06/2026
+—  7  —
+Indicateur
+Valeur
+Contexte
+Délai d’intégration estimé
+1 sem.-10 j
+Pour 200 produits
+Pages indexées (Raphaël)
+700+
+Pour 950 produits
+Pages en attente d’indexation
+env. 400
+Depuis 2 semaines
+FCP avant correction
+2,7 s
+Vitesse dégradée par un bloc
+CA journée record (Raphaël)
+1 000 €
+Après relance des ventes
+ROAS Meta catalogue
+env. 5
+30 €/jour, 2 commandes
+Seuil sous-collection (Omar)
+500-700+
+Recherches mensuelles
+Seuil limite (filtre)
+100-200
+En dessous → filtre
+Collections actuelles (Omar)
+env. 102
+Sur ~1 000 à terme
+Volume bijoux argent homme
+env. 26 000
+Uniquement « argent »
+Volume bijoux argent femme
+env. 39 000
+Uniquement « argent »
+Channable
+env. 80 €/mois
+Automatisation de flux
+Attributs Google requis min.
+age group +
+gender
++ color recommandé
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

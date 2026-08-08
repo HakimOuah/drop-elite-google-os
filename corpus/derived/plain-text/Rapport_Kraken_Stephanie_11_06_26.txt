@@ -1,0 +1,300 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  1  —
+RAPPORT DE SESSION
+11 juin 2026 • Durée : 1h37 • Coach : Stéphanie
+Participants : Manuel, Aude, Omar, Nicolas, Élodie, Pierre, Charlotte, Samuel, Katia, Gaël
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Manuel — Qualité produit et piste des fournisseurs européens (hors
+Asie, aux normes)
+▶ 00:01 Aude — Génération d’images IA et calibrage des visuels produit
+▶ 00:06 Omar — 3 fournisseurs trouvés, architecture à figer et nom de domaine
+expiré
+▶ 00:13 Charlotte — Gérer un échange de taille sur Obordesk (duplication de
+commande)
+▶ 00:19 Masterclass — Préparer le Q4 : data, marges et anticipation
+▶ 00:36 Identifier et traiter les produits drainers ; les KPIs qui comptent
+vraiment
+▶ 00:58 SAV préprogrammé, branding et dashboards de pilotage
+▶ 01:24 Q&A — Séquence de mails Black Friday et idées de cadeaux
+⚔ TOUR DE TABLE & POINTS TECHNIQUES
+► Manuel — Élargir le catalogue hors Asie
+Manuel s’interroge sur la qualité produit : après avoir ciblé sur Alibaba des fournisseurs ayant plus de 10 ans
+d’expérience, il constate que beaucoup ne livrent pas un produit qualitatif, alors qu’il a eu en main un produit fini
+d’excellente facture. D’où l’hypothèse de fournisseurs hors Asie.
+Réponse de la coach : il existe des fournisseurs et des dropshippers européens, la piste mérite d’être creusée.
+Contacter les fournisseurs européens identifiés pour vérifier s’ils acceptent le dropshipping permet d’élargir le
+catalogue avec des produits de qualité et surtout aux normes, sans dépendre uniquement de la Chine.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  2  —
+► Aude — Génération d’images et format des fiches
+Aude a intégré deux produits : la rédaction via l’IA est rapide, mais la production des visuels lui prend un temps
+considérable, notamment la cohérence du fond qui varie d’une image à l’autre.
+Conseils de la coach : partir de l’image AliExpress avec une consigne simple (ex. changer le mannequin, le faire
+poser assis, de dos, debout) et éviter les consignes trop précises qui contraignent le modèle et génèrent des
+erreurs. Pour le fond, ne pas chercher à le fixer dans le prompt : générer l’image, détourer le produit, puis
+changer le fond sur Canva ou Shopify. Une image principale sur fond clair suffit ; les autres peuvent être des
+visuels lifestyle en situation, réalisables via Pixelyz (l’outil de Mika).
+Sur le format des fiches : c’est à elle de fixer sa règle et de l’appliquer partout. Les concurrents utilisant des
+photos verticales type mannequin (photos de pied), on retient le format portrait, calé sur les premières fiches qui
+étaient nickel. Éviter les dimensions démesurées (rester raisonnable, pas du 3000 px).
+« Il faut éviter les consignes trop précises : quand l’IA est contrainte, elle fait des erreurs. »
+— Coach Kraken
+► Omar — Architecture, certification et nom de domaine
+Omar a trouvé trois fournisseurs couvrant les différentes catégories de sa niche (bijouterie en argent) et va les
+contacter au sujet de la certification.
+Prochaine étape validée par la coach : figer d’abord l’architecture, en y intégrant les mots-clés sur lesquels la
+recherche n’avait pas encore été faite, puis l’envoyer pour validation. Une fois l’architecture figée : créer le
+Shopify, choisir le thème (le thème Kraken préfait ou un autre), réserver le nom de domaine et l’email pro
+associé, avant d’attaquer design et sourcing.
+Sur le nom de domaine expiré : pas de seuil fixe de backlinks, la décision repose sur un ratio entre le prix qu’on
+est prêt à mettre et la qualité des backlinks trouvés (un bon historique peut coûter cher). Pour un domaine actif
+sur un marché anglophone ou US, la coach ne tranche pas (sujet plus maîtrisé par Théo) : a priori moins
+pertinent qu’un domaine FR, mais toujours mieux que partir de zéro. Omar est invité au RDV de mardi matin
+avec Théo pour approfondir et présenter son architecture.
+« Ça va être un ratio entre le prix que tu es prêt à mettre et les backlinks que tu trouves. »
+— Coach Kraken
+► Pierre — Process images et PhotoRoom
+Pierre avance bien sur l’intégration ; il était bloqué sur l’automatisation des images. Il vise 15 à 20 images par
+produit (environ 7 en galerie, le reste en blocs) pour maximiser le contenu SEO. La coach alerte sur le ratio
+utilité / temps : 20 images par produit peut être trop au regard du temps investi.
+Il partage son process : PhotoRoom, qui traite les images en bulk (preset 1200x1200), recentre, exporte au bon
+format, supprime l’arrière-plan et ajoute une ombre naturelle. Tarif 40 € l’année (essai 7 jours), quota d’environ
+125 images par semaine et 500 par mois en bulk sur le plan pro.
+► Charlotte — Échange de taille sur Obordesk
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  3  —
+Charlotte cherche à relier, côté Obordesk, un échange de taille à la commande Shopify existante (automatique
+sur Shopify via un retour, mais pas évident sur Obordesk).
+Méthode donnée par la coach : dupliquer la commande du client, modifier la taille avant de valider la duplication,
+puis la passer en « traité » et « payé » à 0 €. Cela génère une nouvelle ligne de commande chez Obordesk ;
+l’envoi du numéro de suivi part alors directement au client, comme une nouvelle commande. Exception : ne pas
+procéder ainsi pour un produit défectueux ou une mauvaise taille reçue — dans ce cas, c’est à la charge
+d’Obordesk.
+« Une fois que tu as pris le coup, ça prend deux minutes. »
+— Coach Kraken
+► Élodie et Nicolas — Points rapides
+Élodie approche les 200 produits intégrés sur son premier site et poursuit le SAV sur le second ; les ventes
+générant déjà du SAV, l’intégration de nouveaux produits est temporairement en pause.
+Nicolas a sa boutique en ligne et attend la validation de ses ads avant d’avancer sur la suite.
+⚙ MASTERCLASS — PRÉPARER LE Q4
+La masterclass de ce jeudi est entièrement consacrée à la préparation du Q4 (Black Friday ► Noël ► Nouvel
+An), période qui peut concentrer jusqu’à 70 % du chiffre d’affaires annuel d’un e-commerce. Objectif : optimiser
+une boutique déjà lancée, lever les points de blocage à la croissance, maîtriser chaque levier de marge et
+structurer la boutique pour scaler sereinement. Le Q4 se prépare maintenant, pas en octobre.
+► Piloter par la data, pas à l’intuition
+Un « bon » produit ne se résume pas à « j’en ai vendu beaucoup ». Ce qui compte : unités vendues, prix
+d’achat fournisseur, prix de vente, marge réelle et coût d’acquisition par client, et ce par canal (Meta, Google
+Ads…). Un afflux de chiffre d’affaires peut masquer un produit à marge faible et coût d’acquisition élevé — on le
+découvre souvent trop tard. C’est aujourd’hui, au calme de l’été, qu’on analyse le catalogue et qu’on documente
+les process (en dictant ses tâches à un assistant IA) pour pouvoir déléguer en cas de besoin.
+« On peut faire énormément de chiffre d’affaires sans jamais gagner d’argent. »
+— Coach Kraken
+► Anticiper la logistique et le stock
+Pour ceux qui ont l’historique et la trésorerie : commander dès l’été le stock des bestsellers pour une arrivée fin
+septembre / début octobre. Acheminé en train ou en bateau (environ 12 semaines, coût d’expédition dérisoire),
+un stock en France permet de livrer en 72 h. Avantage décisif : les dropshippers expédiant d’Asie doivent
+couper la pub vers le 8-10 décembre faute de garantir la livraison de Noël ; avec du stock en France, on
+continue de scaler jusqu’au 20 décembre.
+Projection : à partir des ventes Q4 d’un produit / variation, calculer une moyenne quotidienne et viser 30 jours
+de stock d’avance, déjà packagé et brandé. Sans data suffisante, on ne s’aventure pas — le cashflow est le nerf
+de la guerre. À défaut de stock, faire confirmer les délais de production et d’expédition par chaque fournisseur
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  4  —
+(ou via l’agent), et sécuriser un stock tampon en Chine (environ 10 pièces) pour absorber les ruptures.
+► Sécuriser les 4 piliers et traquer les drainers
+Une boutique devient instable dès qu’un des quatre piliers faiblit : acquisition, catalogue, paiement, fournisseur.
+Un seul point de dépendance (100 % ads, fournisseur unique, SAV géré par une seule personne) peut faire
+sauter tout un Q4 — d’où la nécessité de plans B pour devenir antifragile.
+KPIs réellement utiles (et non le CA brut, le ROAS global ou le volume de commandes) : marge réelle par
+produit, coût réel du SAV, taux de remboursement, rentabilité de l’acquisition par canal, taux de rupture,
+rentabilité catalogue et coût réel de la logistique.
+Produits drainers : ils consomment du budget, attirent un trafic peu qualifié, convertissent mal et ont une marge
+faible. Repérage via Google Ads (beaucoup d’impressions / peu de clics, ou beaucoup de clics / peu de
+conversions). On les identifie maintenant, on optimise d’abord (parcours d’achat, réassurance, fiche produit,
+pièges de variation ou de prix), on teste 3 semaines ; si ça ne convertit toujours pas, on les sort des campagnes
+(pas du site). Même logique pour les produits à fort SAV (changer de fournisseur ou de qualité) et à faible
+marge (les passer en bundle pour augmenter la valeur perçue et le panier moyen).
+► SAV préprogrammé, branding et dashboards
+À niveau de ventes équivalent, le SAV se décuple en période de Noël ; avec des ventes elles-mêmes
+décuplées, il devient exponentiel. Tout doit être préprogrammé : mail de retard prêt à activer, séquence de
+réassurance post-achat, FAQ intelligente, bouton « suivre ma commande », notifications de suivi à chaque
+étape. Pendant le scaling, on ne gère plus que commandes, logistique et SAV.
+Le branding est l’arme cachée du Q4 : packaging personnalisé, carte de remerciement, petit cadeau, code
+promo, lien de parrainage. Les achats étant souvent des cadeaux, chaque commande touche 3 à 4 personnes
+qui découvrent la marque. Le branding passe par l’agent (maquette, dimensions, logo en PDF, prototype) ;
+compter 15 jours à 3 semaines de production. À préparer dès maintenant : commander cartes et petit cadeau
+(environ 50 centimes) à stocker chez l’agent, à glisser dès qu’un retard apparaît.
+Côté pilotage, remplacer les notifications de vente par des dashboards propres : acquisition (ROAS par
+campagne, CPA réel, CPC), produit (ventes, SAV, ruptures, top ventes) et finance (trésorerie, coûts cachés,
+dépenses pub, taux de remboursement du jour). Un assistant IA branché sur Shopify permet aujourd’hui de
+remonter cette data de façon synthétique.
+► Sourcing Europe, SEO et calendrier marketing
+Pour ceux qui ne peuvent pas faire de stock en France, ouvrir un double catalogue avec un sourcing Europe :
+livraison 72 h, meilleure conversion, moins de litiges, image de marque renforcée et argument « fabrication ou
+expédition Europe ». On peut y faire expédier le packaging brandé pour garder la cohérence.
+Le SEO est un actif long terme : plus la part des ventes SEO augmente, plus la marge s’améliore
+mécaniquement. Créer et mailler dès maintenant les pages et collections saisonnières (Noël, cadeaux) pour
+qu’elles soient indexées à temps.
+Tout passe par un calendrier marketing précis (de septembre à décembre) : analyse de la data des 3 dernières
+années (ventes et tableaux SAV) dès juin, planification des visuels, des séquences mails (Black Month, Black
+Week, Black Friday, Cyber Monday, Noël, Nouvel An), des codes promos et de l’A/B testing des offres.
+Attention aux promos trop agressives : sur une marge serrée, du -20 ou -30 % est le meilleur moyen de faire du
+CA sans jamais gagner d’argent. Penser aussi à relever les abonnements capés (Klaviyo, étiquettes Colissimo)
+avant la montée en charge.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  5  —
+« 80 % de la réussite d’un service se passe dans la préparation. C’est la même chose pour un Q4.
+»
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Identifier et contacter des fournisseurs européens pour vérifier s’ils acceptent le dropshipping
+(produits de qualité, aux normes).
+SECONDAIRE
+○ Construire progressivement un double catalogue Europe / Asie.
+○ Vérifier la conformité aux normes des nouveaux fournisseurs.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Figer un format photo unique (portrait / vertical type mannequin) et l’appliquer à toutes les fiches ;
+éviter les dimensions démesurées.
+⚡ Simplifier les prompts de génération d’images (consigne unique) ; détourer puis changer le fond
+sur Canva ou Shopify plutôt que de contraindre l’IA.
+SECONDAIRE
+○ 1 image principale sur fond clair + visuels lifestyle en situation (Pixelyz).
+○ Tester PhotoRoom pour accélérer le traitement des visuels.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Finaliser et figer l’architecture (intégrer les derniers mots-clés) puis l’envoyer à la coach pour
+validation.
+⚡ Contacter les 3 fournisseurs (bijouterie argent) au sujet de la certification.
+SECONDAIRE
+○ Créer le Shopify + thème, réserver le nom de domaine et l’email pro.
+○ Arbitrer le nom de domaine expiré selon le ratio prix / qualité des backlinks.
+○ Venir au RDV de mardi matin avec Théo (nom de domaine + présentation de l’architecture).
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Calibrer le nombre d’images par produit selon le ratio utilité / temps (15-20 peut être trop).
+SECONDAIRE
+○ Poursuivre le process PhotoRoom en bulk (preset 1200x1200).
+○ Répartir le traitement sur plusieurs plateformes pour absorber le quota.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  6  —
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Échange de taille sur Obordesk : dupliquer la commande, modifier la taille avant validation, passer
+en traité / payé à 0 € (hors produit défectueux ou mauvaise taille reçue, à la charge d’Obordesk).
+SECONDAIRE
+○ Anticiper dès maintenant son prochain Q4 (premier Q4 lancé en octobre = janvier difficile).
+○ Nouer une relation suivie avec son équipe Obordesk.
+  ⚓  Élodie
+PRIORITAIRE
+⚡ Terminer l’intégration produit du premier site (environ 200) et stabiliser le SAV du second.
+SECONDAIRE
+○ Prévoir un cadeau léger pour le Q4 (foulard, petit bijou).
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Valider les ads de la boutique avant d’avancer sur la suite.
+SECONDAIRE
+○ Prévoir un petit cadeau Q4 (mini-peluche ou smiley, coût dérisoire).
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Identifier les tops produits et les drainers (marge réelle, SAV, conversion) et les lister.
+⚡ Structurer le calendrier marketing de septembre à décembre (dates et objectifs clairs).
+SECONDAIRE
+○ Automatiser le SAV (séquences mail + FAQ) avant la montée en charge.
+○ Construire des dashboards simples (acquisition, produit, finance).
+○ Créer dès maintenant les pages et collections SEO de Noël, et prévoir des plans B (fournisseur, équipe).
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Q4 — part du CA annuel
+env. 70 %
+Les ventes se concentrent sur le Q4
+Loi de Pareto catalogue
+20 / 80
+20 % des produits = 80 % du CA
+Stock France — acheminement
+env. 12 sem.
+Train ou bateau, coût dérisoire
+Stock France — livraison client
+72 h
+Avantage concurrentiel à Noël
+Coupure pub dropshipping Asie
+8-10 déc.
+Livraison Noël plus garantie
+Scaling prolongé (stock FR)
+jusqu’au 20 déc.
+Environ 12-13 jours gagnés
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  11/06/2026
+—  7  —
+Indicateur
+Valeur
+Contexte
+Projection de stock
+30 jours
+Avance de vente, déjà packagé
+Stock tampon Chine
+env. 10 pièces
+Roulement anti-rupture
+Cadeau d’anticipation retard
+env. 0,50 €
+Carte + petit cadeau chez l’agent
+Production packaging
+15 j à 3 sem.
+Via l’agent (maquette, prototype)
+Obordesk — fermeture octobre
+8 à 15 j
+Repos des équipes avant le Q4
+Boîte aux lettres FR — hauteur max
+2 cm
+Colis plats privilégiés
+PhotoRoom — tarif
+40 €/an
+Essai 7 jours
+PhotoRoom — quota bulk
+env. 500/mois
+Environ 125/semaine (plan pro)
+Format photo carré
+800-1000 px
+Preset bulk 1200x1200
+Élodie — produits intégrés
+env. 200
+Premier site
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,0 +1,7545 @@
+WEBVTT
+
+1
+00:00:02.900 --> 00:00:03.420
+Ça marche.
+
+2
+00:00:05.280 --> 00:00:08.879
+Aude, Shiraz, tu prends la suite dans 15 minutes, si ça te va.
+
+3
+00:00:12.540 --> 00:00:16.460
+On va juste finir avec Aude un tout petit truc
+
+4
+00:00:16.600 --> 00:00:17.900
+qu'on n'a pas terminé
+
+5
+00:00:19.140 --> 00:00:21.900
+et ça va permettre aussi peut-être à certains de voir où on en est.
+
+6
+00:00:21.930 --> 00:00:22.840
+Pour vous donner l'exemple,
+
+7
+00:00:24.300 --> 00:00:27.940
+Aude est en train... Tu es ok que je partage mon écran, Aude, d'ailleurs ?
+
+8
+00:00:28.240 --> 00:00:29.020
+Oui, vas-y.
+
+9
+00:00:32.100 --> 00:00:33.560
+Il y a quelqu'un qui vient de sonner à la porte, il faut que je
+
+10
+00:00:33.620 --> 00:00:37.720
+l'accepte.
+
+11
+00:00:37.820 --> 00:00:41.629
+Aude doit simplement créer les balises
+
+12
+00:00:41.660 --> 00:00:43.890
+dynamiques. On était en train de créer les balises dynamiques, mais il nous
+
+13
+00:00:43.940 --> 00:00:45.840
+manquait celles des FAQ.
+
+14
+00:00:47.120 --> 00:00:47.790
+C'est ce qu'on va faire
+
+15
+00:00:48.680 --> 00:00:49.760
+maintenant.
+
+16
+00:00:55.760 --> 00:00:57.060
+Aude, rappelle-moi où on doit aller.
+
+17
+00:00:58.660 --> 00:01:01.199
+Oh purée, c'est là qui est la reine de ça.
+
+18
+00:01:02.320 --> 00:01:04.220
+On doit aller, attends, je l'ai noté, dans
+
+19
+00:01:06.580 --> 00:01:08.840
+boutique en ligne, non ? Ce n'est pas ça ?
+
+20
+00:01:08.880 --> 00:01:10.820
+Là, on crée les méta fields.
+
+21
+00:01:11.680 --> 00:01:11.820
+Ok.
+
+22
+00:01:12.730 --> 00:01:16.600
+Sur le site, tu vas dans Paramètres, Champs et méta-objets.
+
+23
+00:01:16.680 --> 00:01:19.300
+Là, on va dans le champ et méta-objet des produits parce que c'est ce qu'on était
+
+24
+00:01:19.320 --> 00:01:22.100
+en train de faire et on va ajouter une définition.
+
+25
+00:01:22.780 --> 00:01:26.480
+La définition, on va dire que c'est la question FAQ
+
+26
+00:01:26.680 --> 00:01:28.500
+1. Je te crée la première.
+
+27
+00:01:29.500 --> 00:01:32.180
+Sélectionner un type, c'est un texte sur une seule ligne parce que c'est la
+
+28
+00:01:32.220 --> 00:01:32.880
+première question.
+
+29
+00:01:34.240 --> 00:01:35.840
+On enregistre et après, on va créer
+
+30
+00:01:36.760 --> 00:01:40.360
+une nouvelle définition. Ajouter une définition qui va
+
+31
+00:01:40.420 --> 00:01:41.940
+s'appeler Réponse,
+
+32
+00:01:42.780 --> 00:01:43.700
+je mets R pour réponse,
+
+33
+00:01:44.580 --> 00:01:45.000
+FAQ
+
+34
+00:01:46.360 --> 00:01:50.070
+1. On va sélectionner un type et on va mettre texte
+
+35
+00:01:50.070 --> 00:01:50.680
+multiligne
+
+36
+00:01:52.100 --> 00:01:55.820
+ou texte enrichi. Si tu veux mettre des mots en gras et du maillage, ça peut être
+
+37
+00:01:55.840 --> 00:01:56.480
+intéressant.
+
+38
+00:01:58.260 --> 00:02:01.960
+On va créer la deuxième question, ajouter une définition.
+
+39
+00:02:02.060 --> 00:02:03.180
+On va mettre question
+
+40
+00:02:04.440 --> 00:02:05.600
+FAQ 1.
+
+41
+00:02:07.180 --> 00:02:08.160
+Sélectionner un type.
+
+42
+00:02:09.720 --> 00:02:10.320
+M***e, c'est la 2.
+
+43
+00:02:11.560 --> 00:02:15.100
+On a déjà fait la 1. Sélectionner un type, texte sur une seule ligne,
+
+44
+00:02:15.700 --> 00:02:16.320
+enregistrer.
+
+45
+00:02:20.440 --> 00:02:21.560
+Et on va faire la deuxième
+
+46
+00:02:22.520 --> 00:02:25.080
+question. Je te laisserai faire la troisième, vu que tu auras normalement compris
+
+47
+00:02:25.120 --> 00:02:26.880
+comment ça se passe. La réponse
+
+48
+00:02:27.940 --> 00:02:28.400
+FAQ
+
+49
+00:02:29.720 --> 00:02:32.720
+2, sélectionner un type, texte enrichi,
+
+50
+00:02:33.540 --> 00:02:34.120
+enregistrer.
+
+51
+00:02:36.000 --> 00:02:39.960
+Une fois qu'on a créé les méta fields, on va bien dans Boutique en ligne.
+
+52
+00:02:42.240 --> 00:02:43.020
+Modifier le thème.
+
+53
+00:02:47.080 --> 00:02:47.660
+Page d'accueil,
+
+54
+00:02:48.460 --> 00:02:49.160
+page Produits.
+
+55
+00:02:52.580 --> 00:02:55.940
+Et quand on va sur la page Produits, on va aller en bas dans la
+
+56
+00:02:56.200 --> 00:03:00.020
+FAQ. Là, c'est la carcasse. À la place de la première
+
+57
+00:03:00.060 --> 00:03:03.440
+question, moi, ce que je veux ici, c'est appeler la balise dynamique
+
+58
+00:03:04.100 --> 00:03:04.760
+qui s'appellera
+
+59
+00:03:05.720 --> 00:03:07.940
+et qu'on a appelée question FAQ 1.
+
+60
+00:03:09.200 --> 00:03:10.500
+Et à la place du texte...
+
+61
+00:03:18.440 --> 00:03:19.200
+Ah, je l'ai perdu.
+
+62
+00:03:20.980 --> 00:03:21.780
+J'avais oublié que ça bugait.
+
+63
+00:03:34.120 --> 00:03:37.600
+Excusez-moi, j'ai un petit bug de
+
+64
+00:03:38.740 --> 00:03:39.100
+pad.
+
+65
+00:03:46.480 --> 00:03:48.380
+Ok, on va
+
+66
+00:03:49.660 --> 00:03:51.740
+aller voir ailleurs si on y est, sur le côté.
+
+67
+00:03:55.060 --> 00:03:58.680
+Là, c'est la question 2. Sur la question 2, on appelle la réponse.
+
+68
+00:03:58.720 --> 00:03:59.740
+Là, je suis en train de faire la réponse.
+
+69
+00:03:59.760 --> 00:04:00.760
+On appelle la réponse
+
+70
+00:04:01.580 --> 00:04:02.340
+à la FAQ 2.
+
+71
+00:04:04.020 --> 00:04:05.920
+Et on la remonte parce qu'il y a trop d'espace au-dessus.
+
+72
+00:04:08.280 --> 00:04:11.440
+Et à la place de la question 2, on va appeler la
+
+73
+00:04:14.200 --> 00:04:17.880
+question à la FAQ 2. Et on
+
+74
+00:04:17.899 --> 00:04:20.940
+enregistre. Je laisse faire les autres et si tu ne veux pas les autres questions,
+
+75
+00:04:20.959 --> 00:04:23.940
+on les effacera. Si tu veux que trois questions, par exemple.
+
+76
+00:04:23.980 --> 00:04:26.039
+Là, on n'a fait que les deux premières.
+
+77
+00:04:26.480 --> 00:04:28.960
+Et quand on sort de là, maintenant, tu vas aller dans ta fiche produit,
+
+78
+00:04:29.520 --> 00:04:33.120
+du verre à martini.
+
+79
+00:04:34.520 --> 00:04:38.020
+On aura bien en bas, dans les méta, tu pourras personnaliser.
+
+80
+00:04:38.060 --> 00:04:38.600
+Et ici,
+
+81
+00:04:39.480 --> 00:04:41.960
+on va les remettre dans l'ordre pour que ça soit joli, mais tu auras bien ta
+
+82
+00:04:42.000 --> 00:04:45.980
+question à la FAQ 1, Personnaliser, la question et la
+
+83
+00:04:46.020 --> 00:04:49.840
+réponse. Et ça te permettra d'avoir une FAQ personnalisée sur chacune de tes
+
+84
+00:04:49.860 --> 00:04:53.820
+fiches produits. Rien ne t'empêche de poser toujours les mêmes questions, si ça
+
+85
+00:04:53.840 --> 00:04:57.340
+a du sens, mais à chaque fois, et des réponses personnalisées pour chaque fiche
+
+86
+00:04:57.360 --> 00:05:00.880
+produit, histoire que ça puisse servir au client.
+
+87
+00:05:00.920 --> 00:05:01.920
+Et là, je te les remets dans l'ordre
+
+88
+00:05:03.240 --> 00:05:04.200
+pour que ce soit plus simple pour toi.
+
+89
+00:05:04.240 --> 00:05:07.800
+La question FAQ 1, suivie de la réponse à la FAQ 1
+
+90
+00:05:08.780 --> 00:05:12.380
+et la question à la FAQ 2, qui sera suivie de la
+
+91
+00:05:12.440 --> 00:05:14.700
+réponse à la FAQ 2. Et ainsi de suite.
+
+92
+00:05:15.400 --> 00:05:18.100
+Tu peux là continuer de ton côté et faire ajouter une définition.
+
+93
+00:05:18.460 --> 00:05:21.880
+Question FAQ 3, ajouter une définition avec une texture une seule ligne,
+
+94
+00:05:23.180 --> 00:05:24.260
+réponse FAQ 3,
+
+95
+00:05:25.240 --> 00:05:26.719
+texte enrichi
+
+96
+00:05:27.720 --> 00:05:28.340
+et ainsi de suite.
+
+97
+00:05:30.000 --> 00:05:30.340
+Ok.
+
+98
+00:05:33.260 --> 00:05:34.720
+Est-ce que c'est
+
+99
+00:05:35.560 --> 00:05:36.840
+chouïa plus clair ?
+
+100
+00:05:36.980 --> 00:05:38.980
+Oui, après, c'est dans la répétition.
+
+101
+00:05:39.100 --> 00:05:41.220
+Là, ça faisait beaucoup d'un coup aujourd'hui, mais oui.
+
+102
+00:05:42.000 --> 00:05:44.180
+Je vais le reprendre et ça va être clair.
+
+103
+00:05:45.140 --> 00:05:46.020
+C'est déjà plus clair.
+
+104
+00:05:47.840 --> 00:05:51.320
+Tous ceux qui sont là et qui ont commencé. Aymeric, je pense que tu as commencé.
+
+105
+00:05:52.960 --> 00:05:53.900
+Cuisine &amp; Astuces ?
+
+106
+00:05:54.940 --> 00:05:57.680
+Non. Si, aussi Cuisine &amp; Astuces, Thibault.
+
+107
+00:05:58.340 --> 00:06:01.260
+On est d'accord qu'une fois qu'on l'a fait, une fois qu'on a les mains dedans, ça
+
+108
+00:06:01.460 --> 00:06:01.950
+paraît facile ?
+
+109
+00:06:06.528 --> 00:06:06.768
+Oui.
+
+110
+00:06:09.928 --> 00:06:12.988
+Vraiment parce que là, ça paraît être hyper compliqué d'être le breton, mais une
+
+111
+00:06:13.008 --> 00:06:15.888
+fois qu'on commence à mettre les mains dedans, tout devient un peu évident
+
+112
+00:06:16.768 --> 00:06:18.768
+et intuitif, même si au début, ça paraît être une montagne.
+
+113
+00:06:19.588 --> 00:06:20.608
+Oui, carrément.
+
+114
+00:06:22.108 --> 00:06:26.088
+Toi, tu l'as
+
+115
+00:06:26.148 --> 00:06:26.828
+fait 1000 fois déjà.
+
+116
+00:06:27.468 --> 00:06:29.868
+Oui. De toute façon, tout le monde le fait 1000 fois au bout d'un moment, donc
+
+117
+00:06:30.128 --> 00:06:31.828
+forcément, ça rentre et ça devient une habitude.
+
+118
+00:06:32.788 --> 00:06:35.128
+Oui, c'est ce que je me rassure avec ça.
+
+119
+00:06:35.228 --> 00:06:37.828
+C'est parce que là, tout est nouveau, il y a beaucoup d'informations d'un coup,
+
+120
+00:06:37.888 --> 00:06:41.388
+mais après, quand tu le fais 10 fois, forcément, après,
+
+121
+00:06:41.848 --> 00:06:44.288
+ça va tout seul. Donc, je m'inquiète sans m'inquiéter.
+
+122
+00:06:45.248 --> 00:06:47.788
+Après, Aude, si tu as du mal,
+
+123
+00:06:47.828 --> 00:06:51.768
+sur la chaîne d'Enzo, sur la chaîne YouTube,
+
+124
+00:06:51.808 --> 00:06:55.088
+tu as des vidéos où ils font Mon Trait d'Union avec Théo et tout le processus de la
+
+125
+00:06:55.108 --> 00:06:57.008
+création du site, ils te le montrent vraiment en détail.
+
+126
+00:06:58.948 --> 00:07:02.658
+Si tu galères sur ce genre de choses, retrouve ces vidéos-là et tu as vraiment tous
+
+127
+00:07:02.688 --> 00:07:04.008
+les détails, ils montrent tout
+
+128
+00:07:05.488 --> 00:07:06.488
+sur Mon Trait d'Union.
+
+129
+00:07:06.908 --> 00:07:10.068
+C'est gentil. Oui, c'est vrai que je ne pense jamais à aller sur YouTube.
+
+130
+00:07:10.108 --> 00:07:13.928
+Pour l'instant, je suis sur les modules. Oui, je me le note. Merci.
+
+131
+00:07:15.428 --> 00:07:18.968
+Aujourd'hui, c'est tout neuf
+
+132
+00:07:19.008 --> 00:07:20.968
+d'aujourd'hui, donc c'est normal.
+
+133
+00:07:22.728 --> 00:07:25.328
+Oui, parce que là, ça fait deux heures que je te dis la
+
+134
+00:07:26.148 --> 00:07:30.028
+même chose en boucle. Tu vois que du coup, c'est beaucoup d'informations, beaucoup
+
+135
+00:07:30.068 --> 00:07:32.388
+de trucs. Effectivement, l'idée est vraie qu'elle est bonne, parce que si tu
+
+136
+00:07:32.448 --> 00:07:35.808
+regardes les vidéos et qu'ils le font en direct, tu pourras les suivre pas à pas et
+
+137
+00:07:35.848 --> 00:07:38.888
+faire comme eux. Ils feront exactement la même chose qu'on vient de faire, mais au
+
+138
+00:07:38.928 --> 00:07:39.608
+moins, tu auras
+
+139
+00:07:41.808 --> 00:07:43.448
+un truc hyper visuel à suivre.
+
+140
+00:07:44.228 --> 00:07:48.168
+D'accord. Oui, puis même en regardant la vidéo de nous, je crois que ça
+
+141
+00:07:48.188 --> 00:07:48.348
+va.
+
+142
+00:07:52.068 --> 00:07:52.328
+Merci.
+
+143
+00:07:53.548 --> 00:07:54.248
+Avec plaisir.
+
+144
+00:07:55.948 --> 00:07:59.508
+Je continuerai après à faire les bénéfices. Il manque le 2, le 3 et le 4.
+
+145
+00:07:59.828 --> 00:08:02.328
+Essaie toi, teste-le, de faire les FAQ tant qu'on est là.
+
+146
+00:08:03.008 --> 00:08:06.228
+Si tu bugges, tu peux nous partager ton écran et on peut regarder ensemble.
+
+147
+00:08:07.028 --> 00:08:10.868
+Oui, mais tu sais que moi, avec ma connexion, je ne suis même pas sûre d'arriver
+
+148
+00:08:10.948 --> 00:08:13.168
+à... C'est Ela qui pourra partager.
+
+149
+00:08:13.868 --> 00:08:16.128
+Non, mais en tout cas, moi, je pourrais partager. Moi, j'ai accès à ton truc.
+
+150
+00:08:16.827 --> 00:08:20.668
+Essaie simplement, de ton côté, de faire les balises pour les questions
+
+151
+00:08:21.048 --> 00:08:21.408
+3 et 4.
+
+152
+00:08:22.128 --> 00:08:23.348
+Ok, ça marche.
+
+153
+00:08:24.388 --> 00:08:26.948
+Et en attendant, allez faire un tour du côté de Shiraz.
+
+154
+00:08:27.608 --> 00:08:31.308
+Ce qu'on va faire aujourd'hui avec Shiraz, l'idée, c'est qu'on peut le
+
+155
+00:08:31.368 --> 00:08:34.828
+faire ensemble et que ce soit un truc participatif.
+
+156
+00:08:35.468 --> 00:08:39.048
+Shiraz est en train de faire l'architecture de son site et c'est vraiment à
+
+157
+00:08:39.088 --> 00:08:39.509
+voir
+
+158
+00:08:40.428 --> 00:08:42.869
+avec elle aujourd'hui, comment articuler son site
+
+159
+00:08:43.828 --> 00:08:46.108
+pour que la navigation client soit fluide et soit logique.
+
+160
+00:08:47.248 --> 00:08:50.788
+Par rapport à votre bon sens d'utilisateur, vous allez tous être consommateurs des
+
+161
+00:08:50.808 --> 00:08:53.548
+produits qu'elle va vendre. Donc, pour le coup, c'est comment vous, vous allez voir
+
+162
+00:08:53.568 --> 00:08:55.238
+la navigation, comment vous rangeriez
+
+163
+00:08:56.168 --> 00:09:00.028
+les collections et peut-être penser à des mots clés qu'elle n'aura pas forcément
+
+164
+00:09:00.608 --> 00:09:04.008
+pensé à analyser. Parce que quand on a la tête dedans, l'idée, c'est d'avoir le
+
+165
+00:09:04.048 --> 00:09:05.008
+maximum d'idées
+
+166
+00:09:06.408 --> 00:09:07.408
+pour lui venir en aide ce soir.
+
+167
+00:09:09.428 --> 00:09:11.868
+Donc, Shiraz, est-ce que tu veux bien nous partager ton écran ?
+
+168
+00:09:11.908 --> 00:09:14.428
+Ou sinon, je peux le faire moi, c'est toi qui me dis.
+
+169
+00:09:14.448 --> 00:09:15.608
+Oui, je préfère que tu le fasses.
+
+170
+00:09:16.828 --> 00:09:17.098
+Ça marche.
+
+171
+00:09:17.528 --> 00:09:19.348
+Le document que je t'avais partagé tout à l'heure.
+
+172
+00:09:21.968 --> 00:09:25.798
+Vous m'entendez bien ? Est-ce qu'il n'y a pas trop de bruit ou de
+
+173
+00:09:25.808 --> 00:09:29.788
+musique autour de moi ? J'essaie de réduire le bruit, mais j'espère
+
+174
+00:09:29.848 --> 00:09:30.828
+que ça va.
+
+175
+00:09:32.368 --> 00:09:35.548
+Non, moi, ça me paraît bien. Est-ce que vous voyez bien mon
+
+176
+00:09:35.708 --> 00:09:36.928
+écran
+
+177
+00:09:39.908 --> 00:09:39.908
+?
+
+178
+00:09:41.568 --> 00:09:41.748
+Oui.
+
+179
+00:09:41.848 --> 00:09:43.838
+Vous le voyez ? Ok, ça marche.
+
+180
+00:09:44.988 --> 00:09:46.668
+Shiraz est partie sur la niche des ceintures.
+
+181
+00:09:47.428 --> 00:09:51.108
+Et l'idée, c'est qu'aujourd'hui, le but du jeu, c'est de faire
+
+182
+00:09:51.448 --> 00:09:53.688
+l'architecture et de voir comment ranger les choses.
+
+183
+00:09:54.248 --> 00:09:58.148
+La première supposition a été de les ranger par genre : ceinture homme, ceinture
+
+184
+00:09:58.188 --> 00:09:59.488
+femme, ceinture enfant,
+
+185
+00:10:00.388 --> 00:10:04.188
+et possiblement avoir un rangement qui soit dans un second
+
+186
+00:10:04.208 --> 00:10:07.668
+temps, par style ou par matière, ou avec des collections, ou avec des filtres.
+
+187
+00:10:11.308 --> 00:10:13.808
+La première chose, c'est de valider ça ensemble.
+
+188
+00:10:14.808 --> 00:10:18.748
+On s'est rendu compte dans sa recherche de mots clés qu'il y avait beaucoup de
+
+189
+00:10:18.808 --> 00:10:20.988
+mots clés où il y avait beaucoup de volume de recherche genré.
+
+190
+00:10:21.468 --> 00:10:25.088
+Par exemple, la ceinture en cuir a beaucoup de recherches, la ceinture en cuir
+
+191
+00:10:25.168 --> 00:10:29.068
+femme représente également un gros volume, tout comme la ceinture en cuir homme, et
+
+192
+00:10:29.108 --> 00:10:32.948
+que certains mots clés n'étaient pas possibles d'être calés dans les deux
+
+193
+00:10:32.988 --> 00:10:36.788
+genres. Donc l'idée, c'était de dupliquer ça, de mettre les noms des
+
+194
+00:10:36.808 --> 00:10:38.548
+collections et d'avancer dans ce sens.
+
+195
+00:10:39.988 --> 00:10:43.348
+Par exemple, concernant la matière, on a uniquement la matière ceinture en cuir.
+
+196
+00:10:43.788 --> 00:10:47.088
+Est-ce que vous voulez bien ce soir être force de proposition et nous dire, vous,
+
+197
+00:10:47.228 --> 00:10:48.648
+si vous n'avez pas pensé à d'autres
+
+198
+00:10:50.188 --> 00:10:53.188
+ceintures. Par exemple, moi, je proposerais ceinture en toile.
+
+199
+00:10:53.688 --> 00:10:57.388
+Et c'est des mots clés qu'on va noter ici pour permettre à Shiraz, à côté, de faire
+
+200
+00:10:59.648 --> 00:11:03.188
+de la recherche de volume de mots clés, de CAD, de
+
+201
+00:11:03.248 --> 00:11:06.248
+CPC et de ratio de rentabilité sur des mots clés sur lesquels elle n'a pas
+
+202
+00:11:06.268 --> 00:11:08.248
+forcément pensé et qui ne sont pas sortis
+
+203
+00:11:09.388 --> 00:11:10.988
+au premier abord sur Semrush.
+
+204
+00:11:12.848 --> 00:11:15.508
+Est-ce que vous avez tous compris le principe du jeu ?
+
+205
+00:11:15.548 --> 00:11:17.388
+Et est-ce que vous êtes tous chauds de participer
+
+206
+00:11:18.448 --> 00:11:19.128
+à une telle aventure
+
+207
+00:11:21.168 --> 00:11:21.168
+?
+
+208
+00:11:21.208 --> 00:11:22.348
+Moi, je suis chaude.
+
+209
+00:11:22.788 --> 00:11:23.528
+Merci, Shiraz.
+
+210
+00:11:24.788 --> 00:11:27.288
+Oui, on a compris. On va aider.
+
+211
+00:11:27.348 --> 00:11:28.168
+Allez, ça marche.
+
+212
+00:11:28.728 --> 00:11:29.788
+C'est gentil les gars, merci.
+
+213
+00:11:30.748 --> 00:11:34.508
+Concernant la matière, ne levez pas la main pour prendre la parole, de toute façon,
+
+214
+00:11:34.568 --> 00:11:37.308
+je ne vous vois pas. Ceinture en cuir, d'autres idées ?
+
+215
+00:11:37.348 --> 00:11:38.588
+Ceinture en toile, moi, je mets.
+
+216
+00:11:43.388 --> 00:11:45.308
+Ceinture en daim.
+
+217
+00:11:45.328 --> 00:11:46.088
+Ceinture en daim.
+
+218
+00:11:47.468 --> 00:11:48.128
+Simili cuir.
+
+219
+00:11:50.268 --> 00:11:51.068
+Simili cuir.
+
+220
+00:11:54.128 --> 00:11:57.848
+Foulard, non, ce n'est pas une matière
+
+221
+00:11:58.388 --> 00:11:59.108
+? Ou c'est un style ?
+
+222
+00:11:59.188 --> 00:12:00.648
+Foulard, c'est ou une matière ou un style.
+
+223
+00:12:00.708 --> 00:12:04.288
+En tout cas, je le mets là et tu pourras tester le mot clé.
+
+224
+00:12:06.388 --> 00:12:07.188
+Synthétique.
+
+225
+00:12:09.108 --> 00:12:09.808
+Synthétique.
+
+226
+00:12:14.736 --> 00:12:18.296
+J'ai vu qu'il y avait ceinture plastique qui tournait un peu sur Internet.
+
+227
+00:12:19.336 --> 00:12:20.696
+Je ne sais pas à quoi ça ressemble.
+
+228
+00:12:23.336 --> 00:12:23.716
+Ok.
+
+229
+00:12:25.576 --> 00:12:26.116
+Élastique
+
+230
+00:12:28.036 --> 00:12:28.036
+?
+
+231
+00:12:28.176 --> 00:12:28.856
+Élastique.
+
+232
+00:12:30.456 --> 00:12:31.676
+Il y a les ceintures réversibles.
+
+233
+00:12:33.036 --> 00:12:35.716
+Alors réversible, je ne le mettrai plus dans un
+
+234
+00:12:38.636 --> 00:12:40.236
+truc de style, peut-être que ce n'est pas une matière.
+
+235
+00:12:41.216 --> 00:12:41.696
+D'accord.
+
+236
+00:12:43.096 --> 00:12:43.676
+Il y en a.
+
+237
+00:12:46.296 --> 00:12:47.936
+J'arrive plus à accepter le mic. Il est là.
+
+238
+00:12:51.876 --> 00:12:53.116
+Il est où
+
+239
+00:12:54.076 --> 00:12:57.656
+? Il est là. Ok, réversible. Super. On a foulard aussi à tester.
+
+240
+00:12:59.636 --> 00:13:03.316
+On avait déjà ceinture sans boucle, ceinture
+
+241
+00:13:03.376 --> 00:13:06.996
+large, ceinture élastique femme, ceinture en chaîne, ceinture tressée, ceinture
+
+242
+00:13:07.076 --> 00:13:07.356
+robe,
+
+243
+00:13:08.176 --> 00:13:09.016
+ceinture cow-boy.
+
+244
+00:13:10.936 --> 00:13:11.786
+Ça, c'est dans les styles ?
+
+245
+00:13:12.076 --> 00:13:14.756
+Ça, c'est dans les styles. On voit en matière.
+
+246
+00:13:15.356 --> 00:13:16.896
+Peut-être essayer le strass parce que
+
+247
+00:13:17.816 --> 00:13:18.916
+je le vois là sur le côté
+
+248
+00:13:20.776 --> 00:13:22.056
+et que tu ne l'avais pas mis
+
+249
+00:13:23.216 --> 00:13:25.676
+dans un premier temps.
+
+250
+00:13:25.716 --> 00:13:28.656
+Ceinture en silicone.
+
+251
+00:13:31.996 --> 00:13:33.656
+Silicone aussi, je l'ai vu.
+
+252
+00:13:35.976 --> 00:13:37.996
+Je mets « à tester » parce que ce sont des mots-clés qui n'ont pas
+
+253
+00:13:39.176 --> 00:13:42.916
+forcément été validés, mais ce sont des mots qu'on va tester sur Semrush.
+
+254
+00:13:45.336 --> 00:13:47.246
+Ceinture magnétique.
+
+255
+00:13:48.196 --> 00:13:49.576
+Magnétique ?
+
+256
+00:13:49.666 --> 00:13:49.896
+Oui.
+
+257
+00:13:54.636 --> 00:13:58.236
+Ok. Pour les styles, on a réversible, on a foulard, on
+
+258
+00:13:58.276 --> 00:14:01.436
+a cow-boy. Moi, je veux bien que tu aies western.
+
+259
+00:14:05.396 --> 00:14:09.136
+Stéphanie, le petit tableau à droite, ce sont les mots-clés que j'ai trouvés
+
+260
+00:14:09.236 --> 00:14:09.396
+sur
+
+261
+00:14:10.516 --> 00:14:11.996
+l'atelier de la ceinture.
+
+262
+00:14:13.196 --> 00:14:14.176
+Ok, pas mal.
+
+263
+00:14:15.156 --> 00:14:16.276
+Il y a les styles.
+
+264
+00:14:20.216 --> 00:14:24.095
+On a ceinture en tissu par modèle, qui est là et qu'on n'avait pas
+
+265
+00:14:24.136 --> 00:14:24.276
+mis.
+
+266
+00:14:26.576 --> 00:14:28.346
+Grande taille, strass, élastique, fine.
+
+267
+00:14:28.756 --> 00:14:30.916
+Ceinture japonaise, ça fait deux fois qu'on le voit.
+
+268
+00:14:33.796 --> 00:14:35.996
+Voir s'il y a un volume de recherche là-dessus, parce que ça fait deux fois qu'on
+
+269
+00:14:36.036 --> 00:14:38.496
+le voit chez tes concurrents. Pareil pour la ceinture tressée.
+
+270
+00:14:41.256 --> 00:14:43.316
+Ceinture large, ceinture cuir, tu l'avais. Ceinture corset.
+
+271
+00:14:44.556 --> 00:14:46.056
+Pas mal, ceinture corset.
+
+272
+00:14:46.116 --> 00:14:46.276
+Oui.
+
+273
+00:14:46.316 --> 00:14:46.676
+On ne l'avait pas.
+
+274
+00:14:48.736 --> 00:14:51.576
+Sur les couleurs, là, on reste du classique.
+
+275
+00:14:52.396 --> 00:14:54.626
+Par style, bretelle, réversible, tressée, luxe, élastique.
+
+276
+00:14:54.676 --> 00:14:58.136
+Ceinture militaire aussi, à tester, qui n'est pas dans ton
+
+277
+00:14:58.196 --> 00:15:00.236
+listing. Ceinture cloutée.
+
+278
+00:15:03.596 --> 00:15:05.136
+Ceinture boucle automatique, ok.
+
+279
+00:15:05.496 --> 00:15:08.636
+Elle n'était pas non plus dans la première liste. Ceinture cache-billets.
+
+280
+00:15:09.676 --> 00:15:10.116
+Pourquoi pas.
+
+281
+00:15:13.656 --> 00:15:16.276
+Et tu vois, pour les hommes et les femmes, on n'a pas forcément les mêmes couleurs,
+
+282
+00:15:16.296 --> 00:15:18.256
+on n'a pas forcément les mêmes styles.
+
+283
+00:15:19.336 --> 00:15:22.256
+Les femmes, par définition, n'ont pas d'oseille parce que les femmes n'ont pas
+
+284
+00:15:22.316 --> 00:15:23.436
+besoin de ceinture cache-billets.
+
+285
+00:15:25.396 --> 00:15:26.176
+Que ce soit clair
+
+286
+00:15:27.296 --> 00:15:30.096
+entre nous, les femmes ne cachent pas les billets.
+
+287
+00:15:30.636 --> 00:15:31.796
+Non, on les dépense, c'est tout.
+
+288
+00:15:33.216 --> 00:15:34.276
+Ok, il n'y a pas de problème, c'est
+
+289
+00:15:35.376 --> 00:15:36.646
+une manière de voir les choses.
+
+290
+00:15:37.856 --> 00:15:41.566
+Et après, ceinture enfant, ceinture fille, ceinture garçon, ça, je pense qu'on est
+
+291
+00:15:41.596 --> 00:15:42.476
+tous d'accord là-dessus.
+
+292
+00:15:43.396 --> 00:15:45.456
+Est-ce que vous pensez à d'autres options de ceinture ?
+
+293
+00:15:46.476 --> 00:15:48.996
+Ceinture à pression.
+
+294
+00:15:50.036 --> 00:15:51.196
+Ok, ceinture à pression.
+
+295
+00:15:52.256 --> 00:15:54.756
+Je vois ce que tu veux dire. Je ne sais pas comment ça s'appelle réellement, mais
+
+296
+00:15:54.816 --> 00:15:58.076
+effectivement, il faut voir comment ça s'appelle.
+
+297
+00:15:59.956 --> 00:16:03.036
+D'autres styles de ceinture sur lesquels on est passés à côté ?
+
+298
+00:16:03.816 --> 00:16:05.736
+Je vois ceinture bijou.
+
+299
+00:16:07.196 --> 00:16:07.836
+Ceinture bijou
+
+300
+00:16:09.336 --> 00:16:09.336
+?
+
+301
+00:16:11.516 --> 00:16:11.736
+Ok.
+
+302
+00:16:15.036 --> 00:16:18.656
+Pour ceux qui ont Semrush ouvert, n'hésitez pas à dire si vous voyez
+
+303
+00:16:18.696 --> 00:16:19.216
+des
+
+304
+00:16:20.096 --> 00:16:22.056
+idées ou des choses oubliées.
+
+305
+00:16:23.756 --> 00:16:24.736
+Militaire, femme, cloutée.
+
+306
+00:16:25.856 --> 00:16:28.665
+Je ne me rappelle plus de ceinture pour jupe parce qu'on a mis ceinture robe, mais
+
+307
+00:16:28.676 --> 00:16:31.256
+est-ce que ceinture jupe, je crois qu'on l'avait essayée.
+
+308
+00:16:33.476 --> 00:16:36.176
+On n'a pas pensé, mais tout simplement, ceinture pantalon.
+
+309
+00:16:37.356 --> 00:16:38.436
+Oui.
+
+310
+00:16:38.836 --> 00:16:41.396
+Voir si c'est un volume de mots-clés qui serait intéressant.
+
+311
+00:16:42.216 --> 00:16:43.016
+Ceinture de costume.
+
+312
+00:16:48.216 --> 00:16:49.896
+Ceinture militaire, ça, on l'a mis.
+
+313
+00:16:52.316 --> 00:16:54.896
+Je ne sais pas si ça vaut le coup, mais il faut tenter le ceinture banane.
+
+314
+00:16:56.356 --> 00:16:57.776
+Ceinture banane ?
+
+315
+00:16:57.836 --> 00:16:58.056
+Oui.
+
+316
+00:16:59.576 --> 00:17:01.376
+Écoute, je vis dans un pays où la ceinture banane,
+
+317
+00:17:03.716 --> 00:17:04.616
+tout le monde aime beaucoup ça.
+
+318
+00:17:05.436 --> 00:17:05.916
+D'accord.
+
+319
+00:17:06.085 --> 00:17:07.816
+Pour voir si c'est un volume de recherche aussi en France.
+
+320
+00:17:09.676 --> 00:17:10.536
+Les Espagnols aiment beaucoup.
+
+321
+00:17:12.316 --> 00:17:13.517
+D'accord.
+
+322
+00:17:16.056 --> 00:17:18.576
+Donc déjà, tu as un paquet de mots-clés à chercher de ce côté-là.
+
+323
+00:17:19.796 --> 00:17:23.536
+Pour rester dans la
+
+324
+00:17:23.616 --> 00:17:27.556
+partie tenue, il y a ceinture pour short.
+
+325
+00:17:27.796 --> 00:17:31.275
+Oui.
+
+326
+00:17:32.556 --> 00:17:34.656
+Je vois que c'est recherché un peu.
+
+327
+00:17:35.756 --> 00:17:38.736
+Après, pour le coup, j'ai entendu ceinture sport, ce serait quand même à tester
+
+328
+00:17:38.796 --> 00:17:40.196
+aussi. Je ne sais pas si ça vaut le coup.
+
+329
+00:17:41.456 --> 00:17:42.256
+À tester, oui.
+
+330
+00:17:43.776 --> 00:17:46.056
+À la ligne générale, là,
+
+331
+00:17:47.296 --> 00:17:51.076
+vous verriez comment, en tour de table rapide, l'architecture du site
+
+332
+00:17:51.656 --> 00:17:54.776
+? Vous rangeriez par style, par couleur, par matière ou par genre
+
+333
+00:17:55.956 --> 00:17:59.776
+? Pour la première
+
+334
+00:17:59.816 --> 00:18:00.416
+séparation.
+
+335
+00:18:04.676 --> 00:18:06.956
+Par matière.
+
+336
+00:18:08.976 --> 00:18:19.636
+Ok.Toi
+
+337
+00:18:19.656 --> 00:18:21.976
+quand tu achètes une ceinture, c'est d'abord la matière qui t'intéresse ?
+
+338
+00:18:22.036 --> 00:18:23.545
+Oui, d'abord la couleur
+
+339
+00:18:24.356 --> 00:18:24.656
+pour moi.
+
+340
+00:18:24.696 --> 00:18:26.076
+D'abord la couleur ?
+
+341
+00:18:26.136 --> 00:18:28.816
+Oui, après la matière. Effectivement, on regarde aussi.
+
+342
+00:18:30.976 --> 00:18:31.376
+Ok.
+
+343
+00:18:32.536 --> 00:18:35.816
+Mais ça veut dire que d'abord, tu cherches une ceinture pour homme ou pour femme ou
+
+344
+00:18:35.876 --> 00:18:35.996
+pas ?
+
+345
+00:18:36.036 --> 00:18:38.136
+Oui, déjà. Bien sûr, homme.
+
+346
+00:18:39.756 --> 00:18:42.976
+Ok, donc d'abord le genre et après la matière ou la couleur.
+
+347
+00:18:43.576 --> 00:18:45.236
+Moi, d'abord couleur puis
+
+348
+00:18:45.256 --> 00:18:47.936
+les genres.
+
+349
+00:18:49.476 --> 00:18:50.056
+Ok.
+
+350
+00:18:52.416 --> 00:18:53.606
+Tu vois, ceinture sport, on n'est pas
+
+351
+00:18:55.156 --> 00:18:57.256
+si nombreux. 390.
+
+352
+00:18:58.946 --> 00:19:00.456
+Il y en a qui en est à 13, après pourquoi pas.
+
+353
+00:19:03.356 --> 00:19:04.156
+Ce n'est pas le mot clé de l'année.
+
+354
+00:19:04.866 --> 00:19:07.156
+Pour compléter, peut-être.
+
+355
+00:19:08.156 --> 00:19:10.956
+Voilà pour compléter, mais d'abord, on va se concentrer sur les
+
+356
+00:19:12.376 --> 00:19:13.556
+premières concernant les couleurs.
+
+357
+00:19:13.576 --> 00:19:15.796
+Toi, tu avais mis marron, doré, noir, vert, léopard,
+
+358
+00:19:16.616 --> 00:19:17.996
+rouge, blanche, argenté.
+
+359
+00:19:20.276 --> 00:19:23.316
+Ici, il y a du camel, du beige que tu n'as pas mis, toi.
+
+360
+00:19:23.356 --> 00:19:23.635
+Oui.
+
+361
+00:19:24.376 --> 00:19:27.616
+Camel, beige, tu n'as pas mis.
+
+362
+00:19:27.636 --> 00:19:30.756
+Peut-être pas
+
+363
+00:19:30.796 --> 00:19:32.066
+comme ça.
+
+364
+00:19:34.096 --> 00:19:37.056
+Le rouge, tu l'as mis. Le bleu marine, tu ne l'as pas mis.
+
+365
+00:19:42.456 --> 00:19:43.676
+Le rose non plus d'ailleurs.
+
+366
+00:19:45.096 --> 00:19:45.816
+Oui.
+
+367
+00:19:46.556 --> 00:19:48.316
+Et la grise non plus.
+
+368
+00:19:50.976 --> 00:19:51.236
+Ok.
+
+369
+00:19:52.596 --> 00:19:53.936
+Et de l'autre côté, on est pareil.
+
+370
+00:19:55.496 --> 00:19:57.996
+Ça marche. Donc là, on a utilisé déjà ce tableau-là.
+
+371
+00:19:58.116 --> 00:20:01.776
+Les couleurs pour homme, on a
+
+372
+00:20:02.716 --> 00:20:03.076
+tout
+
+373
+00:20:04.336 --> 00:20:04.336
+?
+
+374
+00:20:04.396 --> 00:20:04.716
+De quoi
+
+375
+00:20:05.536 --> 00:20:05.536
+?
+
+376
+00:20:06.076 --> 00:20:09.096
+Les couleurs dans le genre homme, on a tout ?
+
+377
+00:20:09.116 --> 00:20:09.396
+Oui.
+
+378
+00:20:09.416 --> 00:20:10.376
+On a tout récupéré ?
+
+379
+00:20:11.996 --> 00:20:12.316
+D'accord.
+
+380
+00:20:14.476 --> 00:20:17.556
+Oui, il manquait que la bleu marine et le reste, on a récupéré des deux côtés.
+
+381
+00:20:18.316 --> 00:20:19.036
+D'accord.
+
+382
+00:20:19.076 --> 00:20:19.976
+Blanc, bleu marine.
+
+383
+00:20:22.076 --> 00:20:24.406
+Maintenant, on a tout là. Il faut bien évidemment que tu testes ces mots
+
+384
+00:20:24.456 --> 00:20:28.296
+clés-là et ces mots clés-là.
+
+385
+00:20:28.375 --> 00:20:29.095
+Oui.
+
+386
+00:20:30.336 --> 00:20:34.196
+Mais l'idée, c'est qu'à l'avis général, on a ceinture homme et ceinture
+
+387
+00:20:34.216 --> 00:20:36.076
+femme, on a vu qu'on avait des mots clés différents
+
+388
+00:20:36.896 --> 00:20:37.776
+dans les deux colonnes.
+
+389
+00:20:39.016 --> 00:20:42.776
+Et que pour le coup, moi, si je cherche une ceinture
+
+390
+00:20:42.836 --> 00:20:45.936
+marron, j'aimerais bien avoir que des ceintures marron pour femme et ne pas me
+
+391
+00:20:45.976 --> 00:20:47.756
+retrouver mélangé avec des ceintures marron pour homme.
+
+392
+00:20:48.436 --> 00:20:50.036
+Donc, il va falloir que tu distingues
+
+393
+00:20:51.316 --> 00:20:53.876
+ceinture marron homme, ceinture marron femme.
+
+394
+00:20:53.896 --> 00:20:57.816
+À voir si tu fais cette distinction de genre dans le mot clé de
+
+395
+00:20:57.856 --> 00:21:00.776
+la création de la collection.
+
+396
+00:21:02.396 --> 00:21:03.996
+Est-ce que ça vaut le coup en termes de volume ?
+
+397
+00:21:04.036 --> 00:21:06.336
+Oui, parce que tu as 1 300 juste pour les hommes.
+
+398
+00:21:07.556 --> 00:21:09.396
+Oui, 300 aussi, je crois, pour les femmes.
+
+399
+00:21:11.016 --> 00:21:12.696
+Donc, on peut s'amuser à faire ça.
+
+400
+00:21:14.816 --> 00:21:16.516
+Je pense que c'est une niche qui va vraiment se
+
+401
+00:21:17.536 --> 00:21:19.556
+distinguer entre hommes et femmes.
+
+402
+00:21:20.096 --> 00:21:20.736
+400, oui.
+
+403
+00:21:22.336 --> 00:21:23.996
+Donc du coup, il faut que tu puisses dupliquer.
+
+404
+00:21:27.096 --> 00:21:28.296
+Donc ça, c'était les mots clés que tu avais trouvés.
+
+405
+00:21:28.376 --> 00:21:31.056
+Garde-les pour avoir les volumes de recherche quand même, c'est intéressant.
+
+406
+00:21:31.556 --> 00:21:32.476
+Et de là, tu peux mettre
+
+407
+00:21:33.396 --> 00:21:36.176
+par matière. On a bien évidemment la ceinture
+
+408
+00:21:37.316 --> 00:21:38.656
+en cuir pour homme.
+
+409
+00:21:39.516 --> 00:21:39.736
+Oui.
+
+410
+00:21:42.536 --> 00:21:46.476
+Et en dessous, à tester du coup, ceinture toile homme, ceinture daim homme.
+
+411
+00:21:46.896 --> 00:21:49.976
+Si jamais le mot clé principal, c'est juste ceinture daim et pas ceinture daim
+
+412
+00:21:50.046 --> 00:21:53.336
+homme, il n'y a pas de problème, on le prend quand même et on différenciera au
+
+413
+00:21:53.376 --> 00:21:54.176
+niveau du genre
+
+414
+00:21:55.656 --> 00:21:56.816
+comme il se doit.
+
+415
+00:21:56.936 --> 00:21:57.356
+D'accord.
+
+416
+00:22:02.956 --> 00:22:04.656
+La ceinture daim, on est à 210.
+
+417
+00:22:05.676 --> 00:22:06.896
+Et ceinture en cuir
+
+418
+00:22:07.736 --> 00:22:10.416
+suédé, ne me demandez pas la différence entre daim et cuir suédé, mais je sais que
+
+419
+00:22:10.436 --> 00:22:11.276
+les deux existent.
+
+420
+00:22:13.876 --> 00:22:15.116
+Mais peut-être que ça ne s'écrit pas comme ça.
+
+421
+00:22:21.356 --> 00:22:22.176
+Non, ça ne veut pas.
+
+422
+00:22:24.156 --> 00:22:26.906
+On n'aura que ceinture en cuir, 2 004. Ok.
+
+423
+00:22:28.616 --> 00:22:32.356
+Et là, venir le mettre
+
+424
+00:22:34.276 --> 00:22:38.176
+par genre, par style et d'en mettre les styles pour homme, les styles pour femme.
+
+425
+00:22:38.196 --> 00:22:40.736
+Peut-être que la ceinture de costume, ce ne sera que pour les hommes, la ceinture
+
+426
+00:22:40.776 --> 00:22:44.476
+pour robe, ce sera du côté femme. Et décliner ici les styles.
+
+427
+00:22:45.556 --> 00:22:46.716
+D'accord.
+
+428
+00:22:48.296 --> 00:22:50.996
+Est-ce que quelqu'un dans l'assemblée a
+
+429
+00:22:52.416 --> 00:22:56.336
+une idée pour aider Shiraz ? Ceux qui sont déjà passés par
+
+430
+00:22:56.356 --> 00:22:59.656
+là, qui ont déjà fait des architectures, comment vous vous y êtes pris pour vous
+
+431
+00:22:59.696 --> 00:23:03.236
+faciliter la vie ? Là, aujourd'hui, Shiraz, elle se retrouve avec je ne sais pas
+
+432
+00:23:03.296 --> 00:23:04.176
+combien de mots clés
+
+433
+00:23:05.336 --> 00:23:05.876
+à ranger.
+
+434
+00:23:06.856 --> 00:23:09.256
+Comment vous avez fait ? Thibault, par exemple, toi qui es là et qui as fait plein
+
+435
+00:23:09.296 --> 00:23:11.536
+de sites à la pelle, avant qu'on revienne sur le tableau de Shiraz,
+
+436
+00:23:12.796 --> 00:23:13.996
+comment tu t'y es pris de ton côté
+
+437
+00:23:17.776 --> 00:23:17.776
+?
+
+438
+00:23:20.736 --> 00:23:24.716
+Je crois que j'avais regardé les concurrents,
+
+439
+00:23:24.836 --> 00:23:28.816
+voir comment ils faisaient. Et ensuite, j'avais fait pas mal avec l'IA.
+
+440
+00:23:31.356 --> 00:23:31.816
+Je lui avais donné
+
+441
+00:23:32.656 --> 00:23:34.596
+tout ce qui était volume de recherche.
+
+442
+00:23:35.796 --> 00:23:39.656
+Et en fait, j'avais classé ça. Puis après, en bossant un peu avec lui, on a
+
+443
+00:23:39.696 --> 00:23:42.776
+réussi à faire des catégories qui soient logiques et
+
+444
+00:23:43.336 --> 00:23:44.786
+efficaces pour les gens,
+
+445
+00:23:45.676 --> 00:23:48.816
+tout simplement. En gros, beaucoup d'IA par rapport au volume de recherche.
+
+446
+00:23:49.196 --> 00:23:52.576
+Et puis après, un peu de logique et essayer de faire un truc
+
+447
+00:23:53.576 --> 00:23:54.556
+qui te semble
+
+448
+00:23:55.736 --> 00:23:56.256
+facile.
+
+449
+00:23:57.156 --> 00:24:00.816
+Tu n'as pas eu besoin de rechercher mot clé par mot clé les volumes ?
+
+450
+00:24:00.876 --> 00:24:04.656
+C'est l'IA qui t'a donné directement les chiffres et quand tu les
+
+451
+00:24:04.676 --> 00:24:05.356
+as
+
+452
+00:24:06.596 --> 00:24:08.376
+vérifiés, ils étaient bons ?
+
+453
+00:24:08.536 --> 00:24:10.616
+Non. En gros, ce que j'avais fait, c'est que j'avais exporté
+
+454
+00:24:11.696 --> 00:24:13.716
+tout ce qui venait de Semrush, donc il y avait le volume, etc.,
+
+455
+00:24:14.556 --> 00:24:16.316
+le KD, bref, toutes ces infos-là.
+
+456
+00:24:16.736 --> 00:24:17.196
+Oui.
+
+457
+00:24:17.216 --> 00:24:19.916
+Il m'avait directement filé le fichier XL.
+
+458
+00:24:20.476 --> 00:24:24.116
+Donc, il avait tous les chiffres, il avait les ratios de rentabilité, il avait
+
+459
+00:24:25.276 --> 00:24:29.056
+le prix moyen de vente, etc. Et puis après, il m'avait classé çaSelon
+
+460
+00:24:29.116 --> 00:24:30.436
+le degré d'importance.
+
+461
+00:24:32.316 --> 00:24:36.196
+D'accord. Donc tu as demandé à l'IA surtout de hiérarchiser
+
+462
+00:24:36.276 --> 00:24:39.896
+les catégories et de te créer une architecture, mais pas de te donner
+
+463
+00:24:39.936 --> 00:24:41.416
+les volumes.
+
+464
+00:24:41.516 --> 00:24:41.696
+Non,
+
+465
+00:24:42.696 --> 00:24:45.616
+parce que je ne suis pas sûr de savoir comment ça marche.
+
+466
+00:24:45.836 --> 00:24:49.816
+Et après, tu regardes ce que
+
+467
+00:24:49.876 --> 00:24:51.536
+font les concurrents. Puis tu fais un mix.
+
+468
+00:24:53.196 --> 00:24:57.046
+Des fois, il y a des trucs un peu aberrants qui étaient un peu illogiques,
+
+469
+00:24:57.096 --> 00:25:00.976
+donc tu adaptes ça. Je ne sais pas si c'est clair,
+
+470
+00:25:01.036 --> 00:25:04.276
+mais en gros, il y a de la logique et après tu regardes les concurrents.
+
+471
+00:25:05.196 --> 00:25:08.256
+D'accord, l'IA plus concurrent et puis c'est toi à la fin qui
+
+472
+00:25:10.076 --> 00:25:11.216
+juge le tout. Ok.
+
+473
+00:25:13.036 --> 00:25:13.756
+Merci beaucoup.
+
+474
+00:25:14.196 --> 00:25:18.016
+Par contre si tu fais ça et que tu veux tout donner à l'IA, il faudrait d'abord que
+
+475
+00:25:18.036 --> 00:25:20.776
+tu fasses dans un premier temps la recherche de volumes pour tous les mots clés
+
+476
+00:25:20.786 --> 00:25:23.976
+qu'on a dits là. Et abandonner le tableau à l'IA.
+
+477
+00:25:24.376 --> 00:25:27.136
+Parce que si tu donnes le tableau à l'IA, au moins avec les volumes de recherche,
+
+478
+00:25:27.196 --> 00:25:30.336
+lui, il pourra directement te faire une proposition d'architecture
+
+479
+00:25:31.756 --> 00:25:32.196
+cohérente.
+
+480
+00:25:33.036 --> 00:25:36.956
+Oui, il faut lui donner un maximum de chiffres et d'infos pour qu'il
+
+481
+00:25:37.016 --> 00:25:39.716
+sorte à une bonne architecture logique et cohérente.
+
+482
+00:25:40.456 --> 00:25:43.636
+Oui, à savoir qu'il ne connaîtra pas les volumes de recherche s'il ne lui donne
+
+483
+00:25:43.656 --> 00:25:46.035
+pas. Parce qu'il ne pourra pas aller sur Semrush tout seul.
+
+484
+00:25:46.716 --> 00:25:50.476
+D'accord. Stéphanie, tu vois, dans les mots clés à tester,
+
+485
+00:25:50.616 --> 00:25:52.636
+j'ai regardé pour « ceinture toile
+
+486
+00:25:53.556 --> 00:25:56.936
+» sur Semrush. Je prends quoi ? Est-ce que je prends
+
+487
+00:25:57.596 --> 00:26:01.316
+All keywords qui est à six cent soixante-seize ou je prends « ceinture toile
+
+488
+00:26:01.436 --> 00:26:02.316
+homme » qui est à
+
+489
+00:26:05.476 --> 00:26:07.916
+deux cent soixante ?
+
+490
+00:26:08.436 --> 00:26:09.396
+Je n'ai pas compris la question.
+
+491
+00:26:10.936 --> 00:26:11.336
+J'ai voulu
+
+492
+00:26:12.456 --> 00:26:14.846
+chercher les volumes pour « ceinture toile ».
+
+493
+00:26:16.176 --> 00:26:19.276
+Ok, donc « ceinture toile », Semrush, c'est ça ?
+
+494
+00:26:19.336 --> 00:26:19.576
+Oui.
+
+495
+00:26:23.936 --> 00:26:27.596
+Est-ce que je prends la première donnée, « ceinture toile » deux cent
+
+496
+00:26:27.696 --> 00:26:31.656
+soixante ou je prends All keywords qui est
+
+497
+00:26:31.796 --> 00:26:33.036
+à six cent soixante-seize
+
+498
+00:26:34.896 --> 00:26:34.896
+?
+
+499
+00:26:35.736 --> 00:26:38.056
+Tu veux dire la « ceinture toile homme » deux cent soixante ?
+
+500
+00:26:39.156 --> 00:26:39.396
+Oui.
+
+501
+00:26:41.336 --> 00:26:41.786
+C'est ça que tu prends ?
+
+502
+00:26:41.806 --> 00:26:44.336
+Sinon, tu as le volume global au-dessus.
+
+503
+00:26:45.396 --> 00:26:47.716
+Total volume ou All keywords.
+
+504
+00:26:47.756 --> 00:26:49.496
+Le global volume, c'est pour tous les pays.
+
+505
+00:26:50.696 --> 00:26:52.976
+Espagne, DE, Suisse, Canada, Belgique.
+
+506
+00:26:54.016 --> 00:26:57.756
+D'accord, donc même si je sélectionnais la France, il me donne quand même tous les
+
+507
+00:26:57.896 --> 00:26:57.916
+pays.
+
+508
+00:26:57.996 --> 00:26:58.756
+Il te donne la France
+
+509
+00:26:59.656 --> 00:27:03.376
+pour « ceinture toile » en France, c'est cent dix, mais il te dit que «
+
+510
+00:27:03.416 --> 00:27:05.616
+ceinture toile homme », c'est deux cent soixante.
+
+511
+00:27:05.666 --> 00:27:06.996
+« Ceinture toile» tout court, c'est cent dix.
+
+512
+00:27:07.036 --> 00:27:09.316
+Deux cent trente, c'est sur tous les pays.
+
+513
+00:27:09.416 --> 00:27:11.086
+Par contre, si je mets « ceinture toile homme »,
+
+514
+00:27:12.436 --> 00:27:15.866
+je vais avoir ici pour la France deux cent soixante et en global volume trois cent
+
+515
+00:27:15.916 --> 00:27:17.376
+quatre-vingt.
+
+516
+00:27:18.236 --> 00:27:20.336
+Ok, donc tu es d'accord, c'est deux cent soixante.
+
+517
+00:27:20.616 --> 00:27:24.176
+Mais moi, j'ai tapé « ceinture toile » et ça m'a sorti « ceinture toile homme
+
+518
+00:27:25.036 --> 00:27:25.996
+» deux cent soixante.
+
+519
+00:27:26.936 --> 00:27:30.656
+En fait, si je veux avoir femme, il faut que je tape « ceinture toile femme
+
+520
+00:27:31.716 --> 00:27:32.076
+». Et là,
+
+521
+00:27:33.356 --> 00:27:36.416
+je vais avoir pas grand-chose, vingt.
+
+522
+00:27:37.076 --> 00:27:39.436
+Est-ce qu'on dit vraiment « toile » ?
+
+523
+00:27:39.456 --> 00:27:42.686
+Ou est-ce que l'appellation, c'est peut-être « ceinture en tissu »
+
+524
+00:27:45.296 --> 00:27:45.296
+?
+
+525
+00:27:46.596 --> 00:27:48.696
+Parce qu'on a dit « toile », mais peut-être que c'est « ceinture en tissu »,
+
+526
+00:27:48.716 --> 00:27:50.916
+peut-être que c'est « ceinture... » tu vois ?
+
+527
+00:27:51.076 --> 00:27:54.126
+C'est là tout le truc de voir comment ont appelé tes
+
+528
+00:27:54.156 --> 00:27:57.056
+concurrents. Est-ce que tes concurrents l'ont appelé « tissu » ?
+
+529
+00:27:57.066 --> 00:27:59.105
+Est-ce que tes concurrents l'ont appelé « toile » ?
+
+530
+00:27:59.656 --> 00:28:00.956
+Pour le coup, il n'y a pas que les ceintures en cuir.
+
+531
+00:28:01.016 --> 00:28:02.376
+Les ceintures en toile, il y en a un paquet.
+
+532
+00:28:02.396 --> 00:28:03.976
+Tout ce qui va être ceinture militaire, c'est en toile.
+
+533
+00:28:04.036 --> 00:28:04.876
+Tout ce qui va être ceinture
+
+534
+00:28:06.076 --> 00:28:08.986
+pour robe, pour tout, il y a plein de ceintures qui ne sont pas forcément en
+
+535
+00:28:11.676 --> 00:28:15.156
+cuir ou en chaîne. Tu vas avoir ceinture argentée, ceinture en chaîne, ceinture
+
+536
+00:28:15.196 --> 00:28:16.936
+métallique aussi à tester par exemple.
+
+537
+00:28:17.396 --> 00:28:20.056
+Mais n'hésite pas à tester des mots clés différents.
+
+538
+00:28:20.456 --> 00:28:22.356
+Parce que toi, tu as toujours appelé ça ceinture
+
+539
+00:28:23.656 --> 00:28:26.376
+en toile par exemple, mais l'appellation des gens, c'est ceinture tissu.
+
+540
+00:28:27.396 --> 00:28:30.496
+C'est vrai quand je cherche « ceinture tissu », c'est beaucoup plus, c'est à quatre
+
+541
+00:28:30.536 --> 00:28:31.836
+cent quatre-vingt.
+
+542
+00:28:31.916 --> 00:28:34.436
+Tu vois ? Du coup, « ceinture tissu », ça peut valoir le coup.
+
+543
+00:28:34.496 --> 00:28:37.416
+Et donc cette collection, on ne va pas l'appeler finalement...
+
+544
+00:28:38.976 --> 00:28:41.206
+J'ai trop de tableaux ouverts. On ne va pas l'appeler « ceinture en toile », mais
+
+545
+00:28:41.256 --> 00:28:42.906
+peut-être plus, on va l'appeler « ceinture en tissu ».
+
+546
+00:28:44.076 --> 00:28:44.536
+D'accord.
+
+547
+00:28:45.796 --> 00:28:49.786
+Et on va pouvoir la genrer « ceinture en tissu femme » et homme, voir si
+
+548
+00:28:49.796 --> 00:28:50.756
+ça vaut le coup.
+
+549
+00:28:52.156 --> 00:28:55.586
+Pareil pour les autres, tu vois « ceinture
+
+550
+00:28:56.056 --> 00:28:56.686
+similicuir »,
+
+551
+00:28:57.496 --> 00:29:00.086
+peut-être que le mot sera simplement « ceinture simili ».
+
+552
+00:29:00.836 --> 00:29:03.756
+Nous, on aimerait que tu as similicuir, peut-être que c'est juste simili.
+
+553
+00:29:04.896 --> 00:29:08.696
+Et de là, tu vas pouvoir voir les différences de volume de recherche
+
+554
+00:29:09.416 --> 00:29:12.716
+et essayer de voir si on peut genrer ou non la matière.
+
+555
+00:29:12.756 --> 00:29:16.256
+Si ce n'est pas le cas, ce n'est pas grave, on gardera simplement la matière en
+
+556
+00:29:16.276 --> 00:29:16.836
+principal.
+
+557
+00:29:18.696 --> 00:29:19.516
+D'accord.
+
+558
+00:29:21.156 --> 00:29:24.006
+Et on pourra la genrer derrière avec des filtres.
+
+559
+00:29:24.176 --> 00:29:28.036
+Que le client puisse sélectionner que homme ou que femme avec
+
+560
+00:29:28.076 --> 00:29:29.636
+un filtre et pas forcément créer une
+
+561
+00:29:32.616 --> 00:29:33.156
+collection
+
+562
+00:29:34.056 --> 00:29:35.356
+que pour les hommes ou que pour les femmes,
+
+563
+00:29:36.176 --> 00:29:37.816
+selon la matière.
+
+564
+00:29:39.176 --> 00:29:39.276
+Ok.
+
+565
+00:29:40.576 --> 00:29:43.155
+On a vu que pour les couleurs, c'était intéressant.
+
+566
+00:29:43.416 --> 00:29:43.626
+Pardon
+
+567
+00:29:44.656 --> 00:29:44.656
+?
+
+568
+00:29:44.786 --> 00:29:45.196
+Non, vas-y.
+
+569
+00:29:45.976 --> 00:29:48.716
+J'allais dire, par exemple, « ceinture simili », il n'y a quasiment pas de
+
+570
+00:29:48.756 --> 00:29:52.696
+recherche, il y en a vingt. Mais la catégorie, la sous-catégorie existe
+
+571
+00:29:52.736 --> 00:29:56.016
+quand même dans d'autres sites. Donc oui, parfois, ils ont peut-être rajouté
+
+572
+00:29:56.796 --> 00:29:58.896
+des catégories de collection juste
+
+573
+00:30:00.016 --> 00:30:00.136
+pour
+
+574
+00:30:01.536 --> 00:30:01.776
+compléter.
+
+575
+00:30:01.786 --> 00:30:02.976
+C'est pour l'usage ?
+
+576
+00:30:03.036 --> 00:30:05.656
+Oui, sans pour autant qu'il y ait du volume.
+
+577
+00:30:07.296 --> 00:30:10.996
+C'est ça. Et ça peut être ajouté juste pour l'usage parce que ça a un
+
+578
+00:30:11.056 --> 00:30:13.456
+avantage, parce que les gens le cherchent, parce que ça coule de source.
+
+579
+00:30:14.296 --> 00:30:17.356
+Parfois, il faut ajouter des collections, pas que pour le volume de recherche, mais
+
+580
+00:30:17.396 --> 00:30:18.336
+par exemple, on a vu...
+
+581
+00:30:19.976 --> 00:30:21.196
+Attends que je donne un exemple.
+
+582
+00:30:22.796 --> 00:30:23.176
+Je ne sais pas,
+
+583
+00:30:24.956 --> 00:30:26.596
+tu vends des brosses à cheveux ?
+
+584
+00:30:26.656 --> 00:30:26.836
+Oui.
+
+585
+00:30:27.656 --> 00:30:30.056
+Tu as un site de brosses à cheveux, peut-être que tu peux mettre une collection
+
+586
+00:30:31.176 --> 00:30:34.524
+de chouchous ou de pinces ou de barrettesOu je sais pas,
+
+587
+00:30:34.804 --> 00:30:37.524
+démêlant, ce sera pas forcément pour le volume de recherche, mais plus pour l'usage
+
+588
+00:30:37.604 --> 00:30:39.384
+client, parce qu'il y a une logique qui cherche à acheter
+
+589
+00:30:40.804 --> 00:30:42.384
+du démêlant s'il achète une brosse à cheveux.
+
+590
+00:30:44.544 --> 00:30:48.464
+Parfois, ça peut simplement rentrer dans une logique d'utilisateur
+
+591
+00:30:49.144 --> 00:30:51.904
+et pas forcément dans une pure logique SEO.
+
+592
+00:30:53.164 --> 00:30:54.204
+D'accord.
+
+593
+00:30:55.824 --> 00:30:58.004
+L'important va être de...
+
+594
+00:30:59.264 --> 00:31:01.844
+Aude, partage l'expérience. Tu as fait ton architecture cette semaine.
+
+595
+00:31:03.224 --> 00:31:07.204
+Pardon, j'ai un cerveau, je ne peux faire qu'une tâche à
+
+596
+00:31:07.264 --> 00:31:09.584
+la fois. Ça y est, j'ai essayé de faire ce que tu m'as demandé.
+
+597
+00:31:09.644 --> 00:31:11.504
+Du coup, je n'ai pas entendu ce que vous faisiez.
+
+598
+00:31:12.324 --> 00:31:12.824
+Je disais,
+
+599
+00:31:14.744 --> 00:31:16.264
+ton architecture, tu l'as faite cette semaine.
+
+600
+00:31:16.364 --> 00:31:18.404
+Comment tu t'y es prise et est-ce que tu as eu des galères ?
+
+601
+00:31:20.764 --> 00:31:22.424
+En fait,
+
+602
+00:31:23.864 --> 00:31:27.704
+non. Ça a été plus de la logique. J'ai pris
+
+603
+00:31:27.764 --> 00:31:31.284
+tous les mots clés et
+
+604
+00:31:31.344 --> 00:31:33.624
+j'en ai fait des sélections.
+
+605
+00:31:34.804 --> 00:31:37.644
+Je ne sais pas comment l'expliquer parce que je n'ai pas suivi ce que vous dites,
+
+606
+00:31:37.684 --> 00:31:41.664
+de quoi vous parlez exactement pour la hiérarchie, mais on
+
+607
+00:31:41.724 --> 00:31:44.544
+a fait par type, par matière, par couleur.
+
+608
+00:31:48.364 --> 00:31:51.124
+C'est sur un site de ceintures, c'est ça ? J'ai entendu.
+
+609
+00:31:51.784 --> 00:31:51.984
+Oui.
+
+610
+00:31:54.544 --> 00:31:55.244
+Oui, du coup,
+
+611
+00:31:57.164 --> 00:31:58.524
+je me mets en grand pour voir.
+
+612
+00:32:00.004 --> 00:32:02.924
+Ça reste du prêt-à-porter, donc on est sensiblement dans
+
+613
+00:32:03.484 --> 00:32:07.324
+des niches connexes. L'idée, ce serait de ranger par homme,
+
+614
+00:32:07.844 --> 00:32:10.684
+par genre, par homme, femme, matière, style et couleur.
+
+615
+00:32:11.344 --> 00:32:14.884
+Il faut juste que tu regardes le volume qui soit intéressant.
+
+616
+00:32:17.024 --> 00:32:19.224
+On a mis « cuir ». Et en fait, là, ton but...
+
+617
+00:32:21.244 --> 00:32:23.764
+Aude, si jamais tu as une idée supplémentaire, n'hésite pas à la partager.
+
+618
+00:32:24.504 --> 00:32:26.944
+Maintenant, je suis dessus, du coup, je peux le voir.
+
+619
+00:32:29.704 --> 00:32:32.364
+Comme on a fait pour toi, Aude, parfois, il y a des mots clés auxquels on ne pense
+
+620
+00:32:32.384 --> 00:32:36.094
+pas forcément. Et toi, je t'ai fait rajouter, Aude, des mots clés à la fin de ta
+
+621
+00:32:36.264 --> 00:32:37.584
+liste, qu'il manquait.
+
+622
+00:32:38.444 --> 00:32:42.324
+Oui, et puis j'ai repris en dernier, j'ai remis mon mot principal, donc là,
+
+623
+00:32:42.363 --> 00:32:46.284
+qui serait « ceinture » et je me suis déroulé tout
+
+624
+00:32:46.644 --> 00:32:47.954
+ce que je trouvais sur « ceinture ».
+
+625
+00:32:48.004 --> 00:32:51.324
+À chaque fois que je trouvais un mot clé supplémentaire et qu'il y avait assez de
+
+626
+00:32:51.364 --> 00:32:55.144
+volume, je le rajoutais. Et c'est comme ça que j'ai retrouvé « colle
+
+627
+00:32:55.224 --> 00:32:59.044
+bénitier », « colle Bardot » que je n'avais pas pensé, parce que je ne connaissais
+
+628
+00:32:59.084 --> 00:32:59.244
+pas.
+
+629
+00:33:00.904 --> 00:33:04.804
+Tu peux aussi t'aider
+
+630
+00:33:04.864 --> 00:33:08.784
+avec Chat GPT. Tu lui donnes les mots clés, tu
+
+631
+00:33:08.804 --> 00:33:12.124
+lui demandes qu'il te déroule ceux auxquels tu n'aurais pas pensé. À tester.
+
+632
+00:33:12.144 --> 00:33:15.784
+Par exemple, tu dis que tu crées une architecture, donc tu mets un peu en jambe
+
+633
+00:33:15.944 --> 00:33:19.864
+Chat GPT, tu lui dis que c'est quand même un gars qui maîtrise un peu le SEO
+
+634
+00:33:19.884 --> 00:33:23.504
+et l'e-commerce. Tu dis que tu crées l'architecture pour les ceintures et tu lui
+
+635
+00:33:23.544 --> 00:33:26.144
+dis : « Je veux créer une architecture pour les ceintures par matière.
+
+636
+00:33:26.704 --> 00:33:28.604
+Voilà ce que j'ai déjà avec les volumes de recherche.
+
+637
+00:33:28.704 --> 00:33:30.524
+Dis-moi s'il n'y a pas un mot clé que j'aurais pu oublier.
+
+638
+00:33:32.574 --> 00:33:35.784
+» Et de là, tu vas pouvoir tester ce mot clé sur Semrush qui te donnera un volume
+
+639
+00:33:35.804 --> 00:33:39.784
+de recherche. Tu vérifies le KD et le CPC pour pas
+
+640
+00:33:39.794 --> 00:33:42.004
+que ce soit non plus délirant et qu'on puisse le rentrer.
+
+641
+00:33:42.864 --> 00:33:43.064
+Et
+
+642
+00:33:45.124 --> 00:33:47.884
+l'idée, c'est après d'aller venir l'ajouter à chaque fois
+
+643
+00:33:50.024 --> 00:33:50.524
+dans ton
+
+644
+00:33:54.644 --> 00:33:55.484
+architecture.
+
+645
+00:34:00.924 --> 00:34:03.424
+À mon avis, il y a des mots clés vraiment intéressants, là, sur le coup, sur la
+
+646
+00:34:03.564 --> 00:34:04.604
+ceinture réversible.
+
+647
+00:34:05.524 --> 00:34:06.124
+On ne l'a pas mis.
+
+648
+00:34:10.705 --> 00:34:14.344
+Sur la ceinture réversible. Et après, vois, moi, je me suis baladée sur les réseaux
+
+649
+00:34:14.364 --> 00:34:17.324
+sociaux, il y a plein de trucs sur les boucles interchangeables.
+
+650
+00:34:19.265 --> 00:34:20.464
+Tu sais, où tu changes de...
+
+651
+00:34:21.324 --> 00:34:23.924
+J'ai dit ça parce que j'ai regardé entre-temps dans la journée
+
+652
+00:34:26.104 --> 00:34:30.004
+sur les réseaux sociaux où c'est des boucles, tu as ta ceinture et tu changes
+
+653
+00:34:30.024 --> 00:34:30.984
+la boucle et tu en mets une autre.
+
+654
+00:34:31.024 --> 00:34:34.924
+Tu gardes la ceinture et ça te fait plusieurs styles
+
+655
+00:34:34.964 --> 00:34:36.484
+de ceinture différents.
+
+656
+00:34:36.844 --> 00:34:40.484
+C'est ça, oui. Tu as une boucle, une grosse boucle un peu clinquante, après une
+
+657
+00:34:40.504 --> 00:34:42.104
+boucle discrète, après une boucle machin.
+
+658
+00:34:42.594 --> 00:34:45.324
+Et ça te permet d'adapter ta ceinture à chacune de tes tenues.
+
+659
+00:34:45.924 --> 00:34:48.725
+Ça, c'est le petit côté un peu minimaliste, sans acheter cinq ceintures
+
+660
+00:34:48.765 --> 00:34:51.225
+différentes. Tu arrives à avoir cinq ceintures différentes en achetant une seule
+
+661
+00:34:51.265 --> 00:34:54.884
+ceinture. Il y a plein de trucs comme ça sur les réseaux sociaux en ce moment.
+
+662
+00:34:54.944 --> 00:34:58.544
+Et ça serait quoi ? Ce serait « ceinture boucle interchangeable »,
+
+663
+00:34:59.754 --> 00:34:59.754
+c'est ça ?
+
+664
+00:34:59.784 --> 00:35:03.144
+Interchangeable, oui, ça peut être le mot à tester.
+
+665
+00:35:03.564 --> 00:35:07.064
+Je viens de le rajouter. On est sur le même fichier, je l'ai rajouté.
+
+666
+00:35:07.704 --> 00:35:10.904
+Même si le mot, ce n'est pas forcément le mot idéal, ça te permet de garder l'idée
+
+667
+00:35:10.964 --> 00:35:12.424
+en tête pour pouvoir derrière toi,
+
+668
+00:35:13.724 --> 00:35:14.484
+aller chercher la suite.
+
+669
+00:35:15.204 --> 00:35:15.604
+D'accord.
+
+670
+00:35:16.584 --> 00:35:19.894
+Je fais juste une petite parenthèse par rapport à « ceinture foulard ».
+
+671
+00:35:21.624 --> 00:35:24.294
+Il y a « ceinture foulard » et « foulard en ceinture ».
+
+672
+00:35:24.824 --> 00:35:25.884
+Ce serait la même chose pour toi
+
+673
+00:35:27.444 --> 00:35:27.444
+?
+
+674
+00:35:27.504 --> 00:35:27.924
+La même chose
+
+675
+00:35:28.804 --> 00:35:28.804
+?
+
+676
+00:35:28.864 --> 00:35:30.344
+La même chose.
+
+677
+00:35:30.624 --> 00:35:31.284
+Oui, c'est la même chose.
+
+678
+00:35:33.144 --> 00:35:36.704
+C'est le même produit, en tout cas. Si tu as une question, tu demandes à Google.
+
+679
+00:35:36.744 --> 00:35:37.684
+Est-ce que pour Google,
+
+680
+00:35:39.384 --> 00:35:39.384
+«
+
+681
+00:35:40.844 --> 00:35:41.604
+foulard ceinture
+
+682
+00:35:43.424 --> 00:35:44.724
+», ça te donne
+
+683
+00:35:46.044 --> 00:35:49.804
+les mêmes produits ici
+
+684
+00:35:50.084 --> 00:35:51.024
+que «
+
+685
+00:35:52.464 --> 00:35:53.254
+ceinture foulard »
+
+686
+00:35:54.444 --> 00:35:54.444
+?
+
+687
+00:35:54.464 --> 00:35:54.924
+D'accord.
+
+688
+00:35:56.184 --> 00:35:56.684
+Et si pour
+
+689
+00:35:59.764 --> 00:36:01.144
+Google, la réponse est la même.
+
+690
+00:36:04.384 --> 00:36:04.414
+C'est bon.
+
+691
+00:36:04.414 --> 00:36:07.124
+C'est bon. Moi, là, je n'ai pas mis de VPN et je ne suis pas en France.
+
+692
+00:36:07.144 --> 00:36:08.684
+Du coup, je n'ai pas forcément les mêmes résultats que vous.
+
+693
+00:36:09.444 --> 00:36:13.204
+Mais tu vois si la réponse est la même, si ça répond au même
+
+694
+00:36:14.604 --> 00:36:15.244
+critère pour
+
+695
+00:36:17.624 --> 00:36:20.504
+Google. Là, j'ai l'impression qu'il n'y a pas de shopping, du coup, sur « ceinture
+
+696
+00:36:20.524 --> 00:36:21.164
+foulard ». Ah si.
+
+697
+00:36:23.084 --> 00:36:24.324
+Ce produit, tout à l'heure.
+
+698
+00:36:26.964 --> 00:36:27.924
+Tu vois, c'est à voir
+
+699
+00:36:28.824 --> 00:36:29.284
+ce qui sort.
+
+700
+00:36:30.564 --> 00:36:32.904
+Mais « foulard ceinture », ça marchait beaucoup mieux, du coup, j'ai l'impression.
+
+701
+00:36:33.324 --> 00:36:34.664
+Oui, ça marche mieux. D'ailleurs,
+
+702
+00:36:35.544 --> 00:36:39.304
+« ceinture foulard », c'est 720 et « foulard en
+
+703
+00:36:39.344 --> 00:36:40.944
+ceinture », c'est 390.
+
+704
+00:36:41.604 --> 00:36:43.902
+Tu vois ?Du coup, tu peux mettre
+
+705
+00:36:45.092 --> 00:36:45.622
+"ceinture".
+
+706
+00:36:46.452 --> 00:36:46.462
+"Ceinture".
+
+707
+00:36:48.932 --> 00:36:51.532
+On l'ajoute parce que dans les styles, on a "ceinture sans boucle".
+
+708
+00:36:52.312 --> 00:36:55.512
+Là, ce que tu dois tester, c'est si on peut le genrer.
+
+709
+00:36:58.212 --> 00:37:02.142
+Ou alors, si tu vois que ce n'est pas le cas, on met
+
+710
+00:37:02.142 --> 00:37:02.852
+"style" à côté.
+
+711
+00:37:04.552 --> 00:37:05.052
+D'accord.
+
+712
+00:37:05.712 --> 00:37:09.292
+Tu vois ? Et le "homme", "femme", on le met en filtre.
+
+713
+00:37:10.132 --> 00:37:12.032
+Là, c'est vraiment le nerf de la guerre pour toi, c'est de savoir ça.
+
+714
+00:37:12.252 --> 00:37:15.112
+Est-ce que "homme", "femme", ça a un intérêt de créer des catégories genrées ou
+
+715
+00:37:15.152 --> 00:37:15.992
+est-ce qu'il vaut mieux
+
+716
+00:37:16.812 --> 00:37:17.412
+créer les filtres ?
+
+717
+00:37:18.912 --> 00:37:21.912
+Ah oui, tu mettrais "homme", "femme" en filtre ?
+
+718
+00:37:21.992 --> 00:37:23.812
+Oui, c'est une option.
+
+719
+00:37:24.272 --> 00:37:26.292
+Je pensais que ce serait plutôt les couleurs ou
+
+720
+00:37:27.172 --> 00:37:28.852
+les styles qui seraient en filtre.
+
+721
+00:37:29.832 --> 00:37:33.032
+C'est possible, mais en style, ce serait quand même de mettre les styles, il faut
+
+722
+00:37:33.052 --> 00:37:35.292
+quand même que ce soit des collections, parce que tu as quand même un paquet de
+
+723
+00:37:35.332 --> 00:37:38.872
+collections qui sont intéressantes sur les volumes de recherche, sur la ceinture
+
+724
+00:37:38.912 --> 00:37:41.892
+sans boucle, la ceinture élastique, la ceinture chaîne, la ceinture pour robe, la
+
+725
+00:37:41.912 --> 00:37:44.652
+ceinture cow-boy. Tout ça, ça a quand même un volume de recherche qui est
+
+726
+00:37:44.672 --> 00:37:45.112
+conséquent.
+
+727
+00:37:46.032 --> 00:37:48.502
+Donc il faut que dans ton architecture, ils apparaissent comme des
+
+728
+00:37:51.152 --> 00:37:51.812
+collections.
+
+729
+00:37:52.752 --> 00:37:53.892
+Tu vois ce que je veux dire ?
+
+730
+00:37:53.972 --> 00:37:54.112
+Oui.
+
+731
+00:37:55.092 --> 00:37:57.012
+Est-ce qu'à l'intérieur d'une collection
+
+732
+00:37:58.232 --> 00:38:02.132
+style, est-ce qu'il peut y avoir des
+
+733
+00:38:02.152 --> 00:38:03.432
+sous-catégories homme, femme
+
+734
+00:38:05.652 --> 00:38:05.652
+?
+
+735
+00:38:05.692 --> 00:38:06.252
+Vas-y, répète.
+
+736
+00:38:07.432 --> 00:38:10.752
+À l'intérieur d'une collection style, est-ce qu'on peut mettre
+
+737
+00:38:11.532 --> 00:38:14.232
+des sous-catégories homme, femme ?
+
+738
+00:38:14.252 --> 00:38:14.562
+C'est-à-dire,
+
+739
+00:38:15.792 --> 00:38:19.532
+tu cliques sur style de ceinture et à l'intérieur, tu
+
+740
+00:38:19.632 --> 00:38:22.452
+cliques sur homme pour avoir tous les styles de ceinture pour
+
+741
+00:38:22.462 --> 00:38:25.332
+homme.
+
+742
+00:38:28.592 --> 00:38:30.872
+Jusque-là, c'était l'inverse chez les concurrents.
+
+743
+00:38:31.352 --> 00:38:34.612
+Imagine, ça veut dire que là, tu as style.
+
+744
+00:38:36.032 --> 00:38:38.372
+On l'écrit en gros. Et là, tu as
+
+745
+00:38:39.512 --> 00:38:40.132
+homme et femme.
+
+746
+00:38:40.812 --> 00:38:41.832
+Oui, c'est ça.
+
+747
+00:38:42.352 --> 00:38:45.232
+Bien sûr, tu peux. Tu peux mettre style là-haut, homme, femme.
+
+748
+00:38:46.132 --> 00:38:49.672
+Et là, tu aurais ceinture pour robe,
+
+749
+00:38:50.392 --> 00:38:51.401
+ceinture robe,
+
+750
+00:38:52.812 --> 00:38:56.332
+ceinture cow-boy, etc. Et là, ceinture costume. Bien sûr, tu peux.
+
+751
+00:38:58.232 --> 00:39:00.092
+Tu peux décider que ce soit comme ça.
+
+752
+00:39:02.112 --> 00:39:02.392
+OK.
+
+753
+00:39:03.552 --> 00:39:07.332
+Tu peux décider aussi de mettre style et matière, par exemple, et dans matière, tu
+
+754
+00:39:07.342 --> 00:39:08.072
+aurais homme, femme.
+
+755
+00:39:09.892 --> 00:39:13.602
+Couleur, et dans couleur... C'est bizarre, couleur homme, femme.
+
+756
+00:39:15.252 --> 00:39:17.192
+Non, dans Couleur, tu sépares les hommes et les femmes.
+
+757
+00:39:18.632 --> 00:39:19.432
+Je pense que ça le fait.
+
+758
+00:39:19.472 --> 00:39:21.762
+Oui, tu peux aussi mettre homme, femme.
+
+759
+00:39:21.772 --> 00:39:23.772
+Pense aux enfants quand même, tu as les enfants quelque part à mettre.
+
+760
+00:39:25.592 --> 00:39:26.832
+Mais les enfants, tu peux les mettre à part.
+
+761
+00:39:26.892 --> 00:39:29.112
+Les enfants, tu peux mettre une collection enfants plus loin.
+
+762
+00:39:30.512 --> 00:39:32.232
+Je ne pense pas que ça représente le nerf de la guerre, les enfants.
+
+763
+00:39:32.252 --> 00:39:33.752
+Il y a peu de volume de recherche, je crois, sur les enfants.
+
+764
+00:39:34.452 --> 00:39:35.112
+Non, il n'y a pas beaucoup.
+
+765
+00:39:36.372 --> 00:39:36.872
+On va tester.
+
+766
+00:39:37.152 --> 00:39:39.272
+Oui, finalement, je le vois bien comme ça.
+
+767
+00:39:39.532 --> 00:39:42.832
+Matière, style, couleur et à l'intérieur, il y a les genres.
+
+768
+00:39:43.612 --> 00:39:45.832
+Enfant, tu n'as que 1 003, ce serait dommage de t'en priver.
+
+769
+00:39:45.912 --> 00:39:47.251
+Tu peux peut-être les mettre quelque part.
+
+770
+00:39:49.512 --> 00:39:52.312
+Il y aurait enfant en plus de style, matière, couleur.
+
+771
+00:39:52.412 --> 00:39:54.492
+Non, ce n'est pas cohérent ?
+
+772
+00:39:54.672 --> 00:39:55.512
+Ce n'est pas joli, je pense.
+
+773
+00:39:56.392 --> 00:39:58.492
+Tu as style, matière et après, tu as enfant, tu n'as pas homme, femme qui
+
+774
+00:39:58.552 --> 00:40:01.692
+apparaissent. Peut-être que tu peux, je ne sais pas, style
+
+775
+00:40:02.792 --> 00:40:03.232
+et mettre...
+
+776
+00:40:09.652 --> 00:40:12.172
+On va trouver où caser les enfants, mais tu peux faire ça en tout cas.
+
+777
+00:40:12.192 --> 00:40:13.872
+Tu peux faire style et à chaque fois genrer
+
+778
+00:40:14.992 --> 00:40:15.572
+dans tes styles.
+
+779
+00:40:17.052 --> 00:40:17.512
+D'accord.
+
+780
+00:40:20.132 --> 00:40:20.432
+OK.
+
+781
+00:40:20.972 --> 00:40:21.602
+Si tu le vois comme ça,
+
+782
+00:40:22.412 --> 00:40:23.892
+ça peut le faire. Il faut juste changer le tableau.
+
+783
+00:40:25.332 --> 00:40:25.892
+Ce matin,
+
+784
+00:40:27.872 --> 00:40:31.512
+on voyait un site super épuré avec juste homme, femme,
+
+785
+00:40:31.572 --> 00:40:34.152
+enfant. Et à l'intérieur, on allait tout mettre.
+
+786
+00:40:34.732 --> 00:40:38.352
+Et on allait mettre un filtre à part pour les couleurs pour qu'on puisse trouver
+
+787
+00:40:38.372 --> 00:40:39.412
+les couleurs plus facilement.
+
+788
+00:40:40.292 --> 00:40:41.492
+C'est vrai que maintenant, au fil de l'eau...
+
+789
+00:40:43.032 --> 00:40:46.032
+Au fil de l'eau, tu peux changer, tu peux avoir un style épuré pareil, mais avec
+
+790
+00:40:46.072 --> 00:40:48.712
+juste un style, avec style, matière, couleur.
+
+791
+00:40:49.792 --> 00:40:52.652
+Et à l'intérieur, c'est tout. C'est juste une
+
+792
+00:40:52.692 --> 00:40:56.152
+manière de présenter et de faire ta navigation client.
+
+793
+00:40:56.172 --> 00:40:57.852
+Pour moi, ce n'est pas un problème que tu le fasses comme ça.
+
+794
+00:40:58.752 --> 00:40:59.851
+Oui.
+
+795
+00:41:00.552 --> 00:41:04.332
+Ce qu'il faut juste, c'est reprendre le tableau
+
+796
+00:41:05.312 --> 00:41:06.492
+et changer les colonnes.
+
+797
+00:41:07.292 --> 00:41:07.751
+Oui.
+
+798
+00:41:08.132 --> 00:41:12.052
+Un simple coup de copier-coller. Tu vois, tu recommences à côté et au lieu
+
+799
+00:41:12.072 --> 00:41:14.972
+de ceinture homme, ceinture femme et ceinture enfant,
+
+800
+00:41:15.992 --> 00:41:19.232
+tu changes. Par contre, on se rappelle que ceinture homme et ceinture femme sont
+
+801
+00:41:19.272 --> 00:41:20.352
+des gros volumes de recherche.
+
+802
+00:41:22.252 --> 00:41:25.532
+Il faut que ces collections apparaissent, existent quand même.
+
+803
+00:41:27.872 --> 00:41:28.232
+D'accord.
+
+804
+00:41:28.652 --> 00:41:32.322
+Tu peux les ranger comme tu veux, mais le mot clé «
+
+805
+00:41:32.372 --> 00:41:33.032
+ceinture homme
+
+806
+00:41:33.932 --> 00:41:37.212
+» est un gros volume de recherche. Il faut qu'à un moment, tu aies ceinture homme,
+
+807
+00:41:38.812 --> 00:41:42.072
+ce qui est largement faisable avec ton idée, mais n'oublie pas les grosses têtes.
+
+808
+00:41:43.552 --> 00:41:44.972
+Oui, il faut qu'on soit bien.
+
+809
+00:41:45.532 --> 00:41:49.012
+Tu mets style en haut. Après, tu peux le faire comme ça, tu mets style en haut.
+
+810
+00:41:53.472 --> 00:41:55.872
+Ça, c'est pour te faire un truc visuel.
+
+811
+00:41:55.952 --> 00:41:56.772
+Et là, tu vas mettre
+
+812
+00:41:58.152 --> 00:41:59.202
+ceinture homme.
+
+813
+00:42:00.252 --> 00:42:02.872
+Et là, tu vas mettre une deuxième colonne, ceinture femme.
+
+814
+00:42:04.192 --> 00:42:06.102
+Et là, tu vas mettre cow-boy, etc.
+
+815
+00:42:06.952 --> 00:42:10.272
+Tout ce que tu veux. Et là, à côté, tu vas te faire un truc qui sera
+
+816
+00:42:11.152 --> 00:42:11.572
+matière,
+
+817
+00:42:13.112 --> 00:42:16.612
+matériau, comme tu veux. Et là, tu vas mettre cuir homme,
+
+818
+00:42:18.312 --> 00:42:18.912
+toile homme,
+
+819
+00:42:20.652 --> 00:42:22.152
+cuir ou chaîne femme,
+
+820
+00:42:23.132 --> 00:42:24.712
+métallique, etc. Tu vois
+
+821
+00:42:26.332 --> 00:42:27.212
+l'idée ?
+
+822
+00:42:27.272 --> 00:42:27.912
+Oui, je vois.
+
+823
+00:42:28.332 --> 00:42:30.312
+Et la couleur. Tu peux bien sûr le faire comme ça.
+
+824
+00:42:31.812 --> 00:42:32.152
+OK.
+
+825
+00:42:33.572 --> 00:42:34.952
+Si ça te convient mieux comme ça,
+
+826
+00:42:37.152 --> 00:42:40.832
+il n'y a pas de mauvaise réponse. Si tu utilises bien tous tes mots clés et que tu
+
+827
+00:42:40.852 --> 00:42:43.052
+les ranges et que ça reste cohérent pour le client, pour moi, ce n'est pas un
+
+828
+00:42:43.112 --> 00:42:43.332
+souci.
+
+829
+00:42:44.716 --> 00:42:48.516
+Je trouve que ça me distinguerait bien de la concurrence, parce que si tu
+
+830
+00:42:48.576 --> 00:42:51.896
+prends les boutiques qui sont spécialisées que dans la ceinture, je ne prends pas
+
+831
+00:42:51.916 --> 00:42:53.996
+les autres boutiques qui proposent aussi d'autres accessoires,
+
+832
+00:42:54.916 --> 00:42:57.676
+mais si je prends les deux ou trois qui font que de la ceinture,
+
+833
+00:42:58.676 --> 00:42:59.256
+ils ont tous
+
+834
+00:43:00.495 --> 00:43:03.536
+homme, femme, enfant. Et à l'intérieur, il y a plein de trucs.
+
+835
+00:43:05.176 --> 00:43:08.416
+Je pense que je serai un peu plus distinguée si je fais
+
+836
+00:43:09.736 --> 00:43:11.736
+autrement, si je fais matière, style,
+
+837
+00:43:12.916 --> 00:43:13.356
+couleur.
+
+838
+00:43:13.376 --> 00:43:17.176
+Après, attention, si ça te paraît logique et que ça te paraît bien,
+
+839
+00:43:17.776 --> 00:43:20.356
+c'est évident. Parfois, il ne faut pas faire différent juste pour que ce soit
+
+840
+00:43:20.396 --> 00:43:20.796
+différent.
+
+841
+00:43:21.456 --> 00:43:21.796
+D'accord.
+
+842
+00:43:23.776 --> 00:43:26.896
+Regarde si ça vaut le coup et si tu arrives à faire une architecture cohérente.
+
+843
+00:43:26.936 --> 00:43:29.216
+Tente-le. Dans tous les cas, ce n'est que des copiés-collés à faire.
+
+844
+00:43:29.716 --> 00:43:32.356
+Et voir si le rendu te paraît cohérent.
+
+845
+00:43:32.876 --> 00:43:36.076
+Mais avant de faire ça, il faut vérifier que ces volumes de recherche-là
+
+846
+00:43:37.076 --> 00:43:38.876
+soient intéressants. Par exemple, ceinture japonaise,
+
+847
+00:43:39.756 --> 00:43:43.596
+de mémoire, il y a vu 500 de recherche. Ça peut être intéressant.
+
+848
+00:43:43.976 --> 00:43:46.576
+Une ceinture japonaise, regarde dans l'usage, mais je ne suis pas sûre que la
+
+849
+00:43:46.596 --> 00:43:47.376
+ceinture japonaise,
+
+850
+00:43:49.035 --> 00:43:51.396
+peut-être que je me trompe, donc je vais le vérifier avant de m'exprimer.
+
+851
+00:43:52.556 --> 00:43:54.796
+J'imagine ça beaucoup plus pour les femmes.
+
+852
+00:43:56.416 --> 00:43:56.916
+D'accord.
+
+853
+00:43:58.796 --> 00:44:01.936
+Il n'y a même pas de shopping dans ce qu'il propose.
+
+854
+00:44:04.076 --> 00:44:05.076
+Japonaise, super.
+
+855
+00:44:06.336 --> 00:44:07.876
+Si tu ne mets pas ceinture, on ne risque pas de...
+
+856
+00:44:11.396 --> 00:44:14.536
+Tu as la ceinture japonaise. De ce qui est proposé sur une shopping, c'est
+
+857
+00:44:14.576 --> 00:44:18.556
+principalement féminin. Donc, vois si la ceinture japonaise, ce n'est pas
+
+858
+00:44:18.936 --> 00:44:21.796
+dans un site qui irait principalement sur les femmes et qui ne soit pas forcément
+
+859
+00:44:21.856 --> 00:44:22.696
+pour les hommes.
+
+860
+00:44:23.156 --> 00:44:23.456
+Oui.
+
+861
+00:44:24.896 --> 00:44:28.236
+Et de là, tu peux avancer, comme ça, petit à petit, à tester les mots et voir te
+
+862
+00:44:28.256 --> 00:44:30.316
+dire : « Ok, c'est plus féminin », tu le mets dans ta colonne femme.
+
+863
+00:44:30.916 --> 00:44:34.476
+C'est plus masculin. Comme on l'a vu, tes sites concurrents, ils ne mettent pas
+
+864
+00:44:34.516 --> 00:44:38.336
+forcément toujours les mêmes mots clés chez la femme et chez l'homme et
+
+865
+00:44:38.376 --> 00:44:38.876
+inversement.
+
+866
+00:44:39.496 --> 00:44:42.276
+Oui, pas toujours. Même les couleurs, ce n'est pas les mêmes.
+
+867
+00:44:43.616 --> 00:44:46.416
+Même les couleurs ne sont pas les mêmes. Donc, ça peut être intéressant.
+
+868
+00:44:47.656 --> 00:44:50.536
+La première chose, c'est de tester tous ces mots clés, garder ceux qui sont
+
+869
+00:44:50.576 --> 00:44:52.356
+intéressants et virer ceux qui ne le sont pas.
+
+870
+00:44:54.156 --> 00:44:55.696
+Ceinture bijou, on a vu.
+
+871
+00:45:00.156 --> 00:45:02.516
+Et en fait parfois, dans un même mot clé,
+
+872
+00:45:03.836 --> 00:45:05.316
+il y a beaucoup de demandes de volume.
+
+873
+00:45:05.996 --> 00:45:06.476
+1 300.
+
+874
+00:45:07.716 --> 00:45:08.156
+Oui.
+
+875
+00:45:08.976 --> 00:45:11.856
+Merci, c'était qui ? C'était Gaëlle ? Non, c'était...
+
+876
+00:45:13.496 --> 00:45:13.526
+Viviane.
+
+877
+00:45:13.526 --> 00:45:14.576
+Oui, Viviane, merci.
+
+878
+00:45:17.076 --> 00:45:19.536
+Tu vois, c'est des mots que tu n'aurais pas forcément pensés.
+
+879
+00:45:20.176 --> 00:45:21.376
+C'est le cerveau qui fait ça.
+
+880
+00:45:22.276 --> 00:45:24.636
+On est d'accord que ceinture bijou, ça ira forcément pour les femmes.
+
+881
+00:45:25.056 --> 00:45:26.736
+Donc ton idée de séparer à chaque fois,
+
+882
+00:45:28.016 --> 00:45:31.676
+c'est une bonne idée. Il faut juste arriver à le mettre en place.
+
+883
+00:45:32.376 --> 00:45:36.196
+En gros, si tu y passes en une heure, si tu cherches les volumes et
+
+884
+00:45:36.236 --> 00:45:40.136
+après, tu donnes tout à l'IA et que tu déplaces les cases comme tu veux,
+
+885
+00:45:40.256 --> 00:45:42.276
+en une heure, tu peux avoir l'architecture qui est bouclée.
+
+886
+00:45:42.956 --> 00:45:45.856
+Oui, là, franchement, je suis lancée, je vois beaucoup plus clair.
+
+887
+00:45:45.916 --> 00:45:49.676
+Donc ce soir, c'est sûr, je vais reprendre tous les mots clés auxquels on a pensé.
+
+888
+00:45:49.716 --> 00:45:53.496
+Je vais chercher à chaque fois les volumes et faire pour homme et pour femme.
+
+889
+00:45:54.196 --> 00:45:58.016
+Et suite à ça, je vais proposer ça à l'IA
+
+890
+00:45:58.056 --> 00:46:00.576
+pour en découler
+
+891
+00:46:01.676 --> 00:46:05.476
+une architecture. Et je trouve que parfois, dans certains mots clés, on peut
+
+892
+00:46:05.556 --> 00:46:08.156
+avoir le genre, la couleur et le style.
+
+893
+00:46:08.196 --> 00:46:10.556
+Par exemple : ceinture homme cuir réversible.
+
+894
+00:46:11.856 --> 00:46:13.136
+Mais ça, c'est un mot clé long trail.
+
+895
+00:46:13.576 --> 00:46:15.356
+Ça veut dire que ça, tu ne vas pas en faire une catégorie.
+
+896
+00:46:16.596 --> 00:46:18.716
+Dans ta collection ceinture en cuir,
+
+897
+00:46:20.636 --> 00:46:24.356
+tu vas intégrer un produit qui s'appelle ceinture en
+
+898
+00:46:24.416 --> 00:46:25.976
+cuir réversible
+
+899
+00:46:26.976 --> 00:46:28.696
+pour homme. Et ça va devenir un produit.
+
+900
+00:46:29.756 --> 00:46:33.096
+Ce produit-là, il sera rangé dans ceinture en cuir, il sera rangé dans ceinture
+
+901
+00:46:33.116 --> 00:46:35.096
+réversible, il sera rangé dans ceinture pour homme.
+
+902
+00:46:36.016 --> 00:46:36.116
+Oui.
+
+903
+00:46:36.136 --> 00:46:37.996
+Et s'il est marron, il sera aussi rangé en ceinture marron.
+
+904
+00:46:38.436 --> 00:46:42.356
+Et l'idée, c'est que plus le mot clé est long trail, plus ça va devenir un produit.
+
+905
+00:46:43.636 --> 00:46:46.756
+Plus on peut le retrouver dans plusieurs endroits.
+
+906
+00:46:47.196 --> 00:46:47.596
+Bien sûr.
+
+907
+00:46:49.036 --> 00:46:49.276
+Ok.
+
+908
+00:46:49.996 --> 00:46:53.176
+Juste attention dans la manière qu'on est en train de faire.
+
+909
+00:46:53.296 --> 00:46:54.836
+Imaginons ceinture bijou.
+
+910
+00:46:55.776 --> 00:46:57.276
+Ok, ceinture bijou, 1 300.
+
+911
+00:46:58.636 --> 00:47:02.356
+Ceinture bijou femme, peut-être que ça vaudra 600.
+
+912
+00:47:03.256 --> 00:47:05.436
+Et ceinture bijou homme n'existera pas.
+
+913
+00:47:05.476 --> 00:47:07.616
+Ta collection, tu vas simplement l'appeler ceinture bijou.
+
+914
+00:47:08.016 --> 00:47:11.156
+Tu vas la ranger du côté des femmes pour que dans l'utilisateur, ce soit
+
+915
+00:47:11.956 --> 00:47:15.496
+plus clair pour lui que ce soit côté femme, mais tu ne vas pas la genrer dans
+
+916
+00:47:15.976 --> 00:47:18.856
+le titre de la collection parce que le mot clé va perdre de sa puissance.
+
+917
+00:47:19.256 --> 00:47:22.016
+Toi, ce que tu veux ranker, tu veux ranker sur ceinture bijou.
+
+918
+00:47:23.296 --> 00:47:24.576
+Le ceinture bijou
+
+919
+00:47:26.036 --> 00:47:26.336
+femme,
+
+920
+00:47:27.156 --> 00:47:30.976
+ce sera moins de volume.
+
+921
+00:47:32.256 --> 00:47:32.576
+D'accord.
+
+922
+00:47:34.896 --> 00:47:35.156
+C'est
+
+923
+00:47:35.196 --> 00:47:40.756
+fou,
+
+924
+00:47:40.816 --> 00:47:43.236
+bijou, quand tu l'écris au singulier,
+
+925
+00:47:44.056 --> 00:47:47.816
+tu as très peu de volume et au pluriel, tu as 1 300.
+
+926
+00:47:49.496 --> 00:47:50.816
+Il faut vraiment chercher les deux.
+
+927
+00:47:51.416 --> 00:47:53.216
+Il faut tester plusieurs mots clés à chaque fois.
+
+928
+00:47:54.956 --> 00:47:56.256
+Excuse-moi, je n'ai pas compris ce que tu as dit.
+
+929
+00:47:56.956 --> 00:48:00.836
+Quand j'ai cherché ceinture bijou au singulier, sans le X, j'ai eu
+
+930
+00:48:01.076 --> 00:48:04.496
+390. Et bijou au pluriel,
+
+931
+00:48:05.916 --> 00:48:06.756
+il y a 1 300.
+
+932
+00:48:08.076 --> 00:48:08.816
+Tu vois la différence
+
+933
+00:48:10.276 --> 00:48:10.276
+?
+
+934
+00:48:10.596 --> 00:48:12.976
+Attention à
+
+935
+00:48:15.116 --> 00:48:19.006
+ça. Ceinture homme sera différente
+
+936
+00:48:19.056 --> 00:48:22.016
+de ceinture pour homme. Ceinture
+
+937
+00:48:25.576 --> 00:48:27.016
+à boucle ou ceinture boucle.
+
+938
+00:48:28.196 --> 00:48:31.876
+Il faut en tester plusieurs et prendre le volume le plus gros ?
+
+939
+00:48:31.936 --> 00:48:32.436
+Exactement.
+
+940
+00:48:33.376 --> 00:48:36.676
+D'accord. Désolée, je pose vraiment des questions de
+
+941
+00:48:37.036 --> 00:48:37.696
+débutante.
+
+942
+00:48:38.276 --> 00:48:40.116
+Non, mais c'est des questions complètement normales.
+
+943
+00:48:40.376 --> 00:48:42.816
+J'ai mon cerveau qui s'illumine à chaque réponse.
+
+944
+00:48:43.816 --> 00:48:44.595
+Ceinture cuir.
+
+945
+00:48:45.616 --> 00:48:47.156
+D'accord. Ceinture en cuir.
+
+946
+00:48:49.896 --> 00:48:53.744
+M***e, je n'ai pas de troisième.OK, ceinture cuir, ceinture en
+
+947
+00:48:53.824 --> 00:48:56.144
+cuir. Le plus gros volume de recherche, c'est ceinture cuir.
+
+948
+00:48:56.684 --> 00:48:58.054
+Ta collection, tu vas l'appeler ceinture cuir.
+
+949
+00:48:58.164 --> 00:48:59.474
+Par contre, rien ne va t'empêcher,
+
+950
+00:49:01.064 --> 00:49:03.944
+dans ton optimisation de collection, dans tes textes, dans tes titres produits, de
+
+951
+00:49:04.084 --> 00:49:07.264
+parler de ceinture en cuir, parce que ce mot-clé a aussi du volume de recherche.
+
+952
+00:49:08.024 --> 00:49:11.644
+Ceinture boucle ou ceinture à boucle ou ceinture à boucles au pluriel,
+
+953
+00:49:12.444 --> 00:49:13.984
+tous ces mots-là ont un volume intéressant.
+
+954
+00:49:14.584 --> 00:49:16.504
+Tu ne vas pas te contenter du premier.
+
+955
+00:49:17.004 --> 00:49:20.204
+Si le singulier a plus de volume de recherche, appelle au singulier, mais dans ton
+
+956
+00:49:20.264 --> 00:49:22.784
+texte, tu vas peut-être plusieurs fois le nommer au pluriel.
+
+957
+00:49:24.224 --> 00:49:26.164
+Oui, c'est ça. D'accord.
+
+958
+00:49:26.944 --> 00:49:28.664
+Ceinture luxe, tu l'as mis
+
+959
+00:49:29.744 --> 00:49:29.744
+?
+
+960
+00:49:29.784 --> 00:49:29.904
+Non.
+
+961
+00:49:31.104 --> 00:49:32.664
+Parce qu'il y a 1 300 de volume.
+
+962
+00:49:33.884 --> 00:49:34.864
+Merci Aude.
+
+963
+00:49:37.044 --> 00:49:40.944
+J'essaie de chercher pour t'aider, mais tes questions, je me suis posé
+
+964
+00:49:41.264 --> 00:49:42.964
+exactement les mêmes.
+
+965
+00:49:43.544 --> 00:49:43.904
+OK.
+
+966
+00:49:44.864 --> 00:49:45.884
+Je comprends tellement.
+
+967
+00:49:46.564 --> 00:49:47.664
+Oui, tellement.
+
+968
+00:49:49.524 --> 00:49:53.044
+Ceinture luxe, 1 300. Magnifique, c'est comme bijou.
+
+969
+00:49:53.844 --> 00:49:57.404
+Ceinture pantalon, ceinture pour pantalon, ceinture de pantalon.
+
+970
+00:49:58.484 --> 00:50:00.864
+Il y a tous ces trucs-là, tu peux utiliser dans tes textes et décliner au
+
+971
+00:50:00.924 --> 00:50:01.864
+singulier, au pluriel.
+
+972
+00:50:04.064 --> 00:50:04.984
+Ça fonctionne aussi.
+
+973
+00:50:06.344 --> 00:50:10.304
+Même ceinture homme luxe ou ceinture femme luxe, tu as encore plus de
+
+974
+00:50:10.324 --> 00:50:13.744
+volume. C'est ce que tu disais Stéphanie.
+
+975
+00:50:14.744 --> 00:50:17.344
+C'est ça. Du coup, là, c'est intéressant de nommer,
+
+976
+00:50:18.384 --> 00:50:21.504
+de genrer la collection et de pouvoir la dissocier en deux et d'avoir et la
+
+977
+00:50:21.564 --> 00:50:24.964
+ceinture luxe homme et la ceinture luxe femme et la ceinture luxe tout court, que
+
+978
+00:50:25.184 --> 00:50:26.404
+tous les mots clés soient représentés.
+
+979
+00:50:28.284 --> 00:50:31.304
+Pour l'instant, j'ai seulement ceinture luxe femme.
+
+980
+00:50:33.564 --> 00:50:37.224
+Eux, ils disent ceinture femme luxe 2 400, ceinture homme
+
+981
+00:50:37.304 --> 00:50:40.744
+luxe, dans ce sens-là, 3 600, mais je n'ai pas testé dans l'autre sens.
+
+982
+00:50:41.714 --> 00:50:43.644
+Parce que des fois, ça varie aussi. C'était ça.
+
+983
+00:50:43.804 --> 00:50:45.664
+Moi, j'avais les mêmes questions, les mêmes problèmes.
+
+984
+00:50:45.784 --> 00:50:47.384
+Je te pose exactement les mêmes questions.
+
+985
+00:50:48.344 --> 00:50:49.684
+Je me sens moins bête.
+
+986
+00:50:51.084 --> 00:50:52.104
+2 400.
+
+987
+00:50:52.904 --> 00:50:54.384
+Après, je vais faire pour homme.
+
+988
+00:50:57.184 --> 00:50:58.124
+Incroyable ce mot-clé.
+
+989
+00:51:00.504 --> 00:51:04.444
+3 600. Ceinture homme luxe, ceinture luxe
+
+990
+00:51:04.464 --> 00:51:07.623
+homme, 3 600 et 1 900. Donc je prends le 3 600.
+
+991
+00:51:08.104 --> 00:51:08.304
+Oui.
+
+992
+00:51:09.924 --> 00:51:10.303
+D'accord.
+
+993
+00:51:12.564 --> 00:51:16.024
+Tu vois, là va être tout l'avantage d'élargir.
+
+994
+00:51:16.844 --> 00:51:20.304
+Là, il y a Aude qui t'a donné des mots, il y a Viviane qui t'a donné des mots
+
+995
+00:51:20.344 --> 00:51:24.144
+aussi. ChatGPT pourra t'en donner d'autres auxquels on n'aura certainement pas
+
+996
+00:51:24.164 --> 00:51:24.584
+pensé.
+
+997
+00:51:25.544 --> 00:51:27.444
+Par exemple, ceinture tressée, tu ne l'avais pas toi, dans ton
+
+998
+00:51:27.504 --> 00:51:31.344
+architecture. À mon avis, il y a plein de mots comme
+
+999
+00:51:31.424 --> 00:51:35.053
+ça qui vont sortir ou à force de parler, tu vas les
+
+1000
+00:51:35.184 --> 00:51:36.244
+retrouver. On a
+
+1001
+00:51:37.204 --> 00:51:39.744
+ceinture tressée homme 1 000,
+
+1002
+00:51:41.924 --> 00:51:42.304
+par exemple.
+
+1003
+00:51:44.584 --> 00:51:48.564
+L'idée, c'est que tu vas venir toutes les tester, toutes celles qu'on a suggérées.
+
+1004
+00:51:48.704 --> 00:51:51.964
+Une fois que tu as testé tout ça et que tu les as rangées, parce que
+
+1005
+00:51:52.524 --> 00:51:54.514
+l'idée c'est de les tester et de les ranger.
+
+1006
+00:51:55.074 --> 00:51:58.204
+Et une fois que tu as testé et rangé, on avance et comme ça, ça va nous permettre
+
+1007
+00:51:58.264 --> 00:52:01.484
+de proposer tout ça, 1 000 ceintures militaires.
+
+1008
+00:52:06.304 --> 00:52:09.804
+Une fois que tu as tout rangé, tu soumets à ChatGPT pour voir s'il ne pense pas à
+
+1009
+00:52:09.844 --> 00:52:10.884
+d'autres mots clés que tu aurais oubliés
+
+1010
+00:52:12.204 --> 00:52:15.294
+ou à un rangement autre que celui que tu as proposé.
+
+1011
+00:52:15.344 --> 00:52:18.264
+D'accord. J'ai bien compris le principe.
+
+1012
+00:52:22.024 --> 00:52:24.524
+À partir du moment où tu en es là, après ça va aller super vite.
+
+1013
+00:52:25.024 --> 00:52:25.604
+Oui, c'est clair.
+
+1014
+00:52:27.984 --> 00:52:31.244
+Juste, pense que si tu partages le tableau à ChatGPT, tu as plein d'autres onglets
+
+1015
+00:52:31.284 --> 00:52:34.124
+en bas, qui ne lisent pas tous les onglets, qui se concentrent que sur-
+
+1016
+00:52:35.104 --> 00:52:35.964
+Non, je vais isoler.
+
+1017
+00:52:36.604 --> 00:52:37.484
+Oui, isole le
+
+1018
+00:52:39.064 --> 00:52:39.384
+tableau.
+
+1019
+00:52:40.884 --> 00:52:43.034
+On refait un petit tour de table. Vous n'avez pas une idée lumineuse encore ?
+
+1020
+00:52:43.124 --> 00:52:45.444
+On a trouvé des nouveaux mots clés pour Chiraz.
+
+1021
+00:52:47.764 --> 00:52:49.604
+Vu que vous pensez à des ceintures depuis tout à l'heure.
+
+1022
+00:52:51.104 --> 00:52:54.374
+On ne sait jamais, peut-être qu'un nouveau style de ceinture va sortir derrière les
+
+1023
+00:52:54.404 --> 00:52:54.784
+fagots.
+
+1024
+00:52:57.044 --> 00:53:00.154
+Je continue à chercher. J'ai même mis ceinture pour outils parce que je sais qu'il
+
+1025
+00:53:00.184 --> 00:53:02.124
+y a des ceintures où tu peux ranger des trucs.
+
+1026
+00:53:03.104 --> 00:53:05.164
+Oui, alors attention, les ceintures à
+
+1027
+00:53:05.344 --> 00:53:09.183
+outils. Même si ça a peut-être un gros volume de
+
+1028
+00:53:09.224 --> 00:53:12.364
+recherche, si Chiraz a un site un peu
+
+1029
+00:53:13.284 --> 00:53:16.824
+joli, trucs, machins, prêt-à-porter, il ne faut pas partir dans tous les sens et
+
+1030
+00:53:16.864 --> 00:53:19.444
+proposer. Sinon, tu vas proposer de la ceinture de soutien lombaire,
+
+1031
+00:53:20.284 --> 00:53:24.264
+tu vas de chantier, de la ceinture à outils et ça
+
+1032
+00:53:24.274 --> 00:53:25.184
+va changer un peu de
+
+1033
+00:53:27.304 --> 00:53:30.674
+style, ça va changer d'avatar et ça risque de créer une petite dissonance quand
+
+1034
+00:53:30.704 --> 00:53:32.424
+même sur l'intégrité du site.
+
+1035
+00:53:35.024 --> 00:53:38.184
+ChatGPT me propose ceinture réglable, sans trou,
+
+1036
+00:53:38.344 --> 00:53:40.224
+automatique, ardillon,
+
+1037
+00:53:41.464 --> 00:53:42.424
+métallique.
+
+1038
+00:53:44.304 --> 00:53:45.564
+Tu as déjà plein de mots à tester.
+
+1039
+00:53:46.764 --> 00:53:50.624
+Ceinture à ardillon, c'est la manière de fermer
+
+1040
+00:53:50.664 --> 00:53:54.024
+ardillon. C'est quand tu as la petite tige qui rentre dans le trou.
+
+1041
+00:53:54.064 --> 00:53:55.624
+Ça, c'est une ceinture ardillon.
+
+1042
+00:53:56.684 --> 00:53:58.904
+Ceinture réglable, tu as d'autres mots clés à tester.
+
+1043
+00:53:58.924 --> 00:54:00.284
+Effectivement, ça peut être intéressant.
+
+1044
+00:54:00.764 --> 00:54:03.424
+Il faut juste vraiment arriver à les ranger d'une manière cohérente.
+
+1045
+00:54:04.224 --> 00:54:04.824
+Oui, c'est ça.
+
+1046
+00:54:05.604 --> 00:54:08.824
+Parce que là, tu as plein de trucs. Tu as le style, mais tu as aussi le style de
+
+1047
+00:54:08.864 --> 00:54:09.383
+fermeture.
+
+1048
+00:54:10.404 --> 00:54:14.104
+On avait dit ceinture ardillon, des ceintures à
+
+1049
+00:54:14.164 --> 00:54:15.444
+nouer, il y a des ceintures...
+
+1050
+00:54:16.924 --> 00:54:17.344
+Sans trou.
+
+1051
+00:54:18.684 --> 00:54:20.884
+Ça, tu as plein de manières de ranger.
+
+1052
+00:54:20.964 --> 00:54:24.224
+Tu as le style vestimentaire, mais tu as l'usage, tu as comment ça se ferme, tu as
+
+1053
+00:54:24.244 --> 00:54:24.824
+le genre.
+
+1054
+00:54:25.764 --> 00:54:27.124
+La tenue.
+
+1055
+00:54:28.564 --> 00:54:31.524
+La tenue, effectivement. Pantalon, robe, jupe, manteau.
+
+1056
+00:54:32.864 --> 00:54:35.444
+Ceinture pour manteau aussi, je ne sais pas si c'est plus de saison.
+
+1057
+00:54:36.224 --> 00:54:37.844
+On cherche. Je vais regarder.
+
+1058
+00:54:38.664 --> 00:54:41.524
+Mais pour le coup, ceinture bijou, tu rentres complètement dans la saison de la
+
+1059
+00:54:41.584 --> 00:54:44.004
+ceinture bijou, donc ça peut être intéressant.
+
+1060
+00:54:45.104 --> 00:54:45.284
+Oui.
+
+1061
+00:54:46.844 --> 00:54:49.664
+Ceinture pour manteau, 170, pas beaucoup.
+
+1062
+00:54:54.164 --> 00:54:54.244
+Ok.
+
+1063
+00:54:55.404 --> 00:54:56.884
+Bon, il n'y a plus qu'à alors.
+
+1064
+00:54:59.856 --> 00:55:00.276
+D'accord.
+
+1065
+00:55:02.136 --> 00:55:02.676
+Est-ce que
+
+1066
+00:55:04.236 --> 00:55:05.656
+tu as des questions en particulier
+
+1067
+00:55:06.876 --> 00:55:07.216
+sur
+
+1068
+00:55:09.096 --> 00:55:12.156
+un truc que tu veux qu'on affine ? Un truc
+
+1069
+00:55:12.616 --> 00:55:14.696
+qui n'est pas super clair ?
+
+1070
+00:55:14.736 --> 00:55:18.716
+Non, je pense que j'ai
+
+1071
+00:55:18.736 --> 00:55:22.616
+posé toutes mes questions. Ce qui est bien, c'est que c'est très clair pour
+
+1072
+00:55:22.696 --> 00:55:23.956
+moi maintenant ce que je dois faire.
+
+1073
+00:55:24.976 --> 00:55:28.916
+Je vais rechercher déjà tous ces mots clés et les compléter
+
+1074
+00:55:28.956 --> 00:55:29.996
+par des nouveaux mots clés.
+
+1075
+00:55:31.096 --> 00:55:31.556
+Ensuite,
+
+1076
+00:55:32.776 --> 00:55:34.716
+je te présenterai ça pour qu'on
+
+1077
+00:55:36.296 --> 00:55:38.696
+réfléchisse à une architecture.
+
+1078
+00:55:39.836 --> 00:55:43.756
+Je t'avoue, j'hésite beaucoup entre les genres en premier et ensuite
+
+1079
+00:55:44.516 --> 00:55:48.236
+les styles, etc., dans les sous-catégories ou à l'inverse.
+
+1080
+00:55:49.416 --> 00:55:51.316
+Je t'avouerais que je ne suis pas tranchée non plus sur l'idée.
+
+1081
+00:55:51.356 --> 00:55:52.456
+Si j'étais tranchée, je te le dirais.
+
+1082
+00:55:52.736 --> 00:55:56.416
+Si j'étais tranchée, je te dirais : « Non,
+
+1083
+00:55:56.956 --> 00:55:59.936
+je te conseille de faire comme ça ». Là, je ne suis pas tranchée.
+
+1084
+00:56:00.586 --> 00:56:01.436
+Fais les deux.
+
+1085
+00:56:02.876 --> 00:56:04.296
+Ça viendra avec
+
+1086
+00:56:05.496 --> 00:56:06.086
+les recherches.
+
+1087
+00:56:06.796 --> 00:56:10.296
+Fais les deux. Déjà, tu cherches tous les mots clés, tu te fais la liste et après,
+
+1088
+00:56:10.336 --> 00:56:12.116
+demande à ChatGPT de te faire les deux :
+
+1089
+00:56:13.376 --> 00:56:17.256
+une architecture classée en tête de silo par genre et en dessous, de
+
+1090
+00:56:17.316 --> 00:56:21.096
+décliner style, matière, couleur, et une autre version d'architecture
+
+1091
+00:56:21.376 --> 00:56:23.576
+visuelle. En plus, il va te sortir une image, une mind map.
+
+1092
+00:56:24.676 --> 00:56:28.396
+ChatGPT ou Claude, un des deux. Claude te sortira plus facilement une image et tu
+
+1093
+00:56:28.456 --> 00:56:30.256
+demandes une autre version avec une architecture
+
+1094
+00:56:32.556 --> 00:56:34.176
+classée par style,
+
+1095
+00:56:36.236 --> 00:56:38.456
+matière, couleur et en dessous,
+
+1096
+00:56:39.336 --> 00:56:43.296
+une division par genre. Tu demandes les deux et visuellement, tu vas voir ce
+
+1097
+00:56:43.316 --> 00:56:44.156
+qui te parle le plus.
+
+1098
+00:56:44.976 --> 00:56:46.236
+Moi, ce qui m'aidait à faire ça,
+
+1099
+00:56:47.356 --> 00:56:48.156
+c'est le faire sur un papier.
+
+1100
+00:56:49.576 --> 00:56:51.036
+Un papier ? D'accord.
+
+1101
+00:56:52.136 --> 00:56:54.716
+Moi, vraiment, ce que je faisais, c'est que je prenais une feuille de papier,
+
+1102
+00:56:54.756 --> 00:56:55.616
+j'écrivais les collections
+
+1103
+00:56:56.856 --> 00:56:59.136
+et après, sur une table, je les mettais
+
+1104
+00:57:01.196 --> 00:57:02.216
+et je les changeais comme ça.
+
+1105
+00:57:03.156 --> 00:57:05.916
+Je sais que maintenant, il y a l'ordinateur et c'est beaucoup plus rapide, mais
+
+1106
+00:57:05.976 --> 00:57:09.496
+moi, visuellement, ça m'aidait de les toucher et de les ranger sur ma table.
+
+1107
+00:57:09.566 --> 00:57:12.305
+De les bouger : « Non, là, c'est plutôt en haut.
+
+1108
+00:57:12.416 --> 00:57:14.496
+Ça, je le mettrai plus là, je fais une colonne de ça ».
+
+1109
+00:57:14.616 --> 00:57:16.805
+J'avais tous mes bouts de papier sur la table et ça m'a permis de faire à chaque
+
+1110
+00:57:16.805 --> 00:57:19.876
+fois les architectures à plat de manière hyper visuelle.
+
+1111
+00:57:20.796 --> 00:57:21.756
+Oui, c'est pas mal ça.
+
+1112
+00:57:22.716 --> 00:57:26.596
+C'est une bonne idée. En plus, moi aussi, j'aime
+
+1113
+00:57:26.636 --> 00:57:28.896
+bien écrire, ça me facilite beaucoup
+
+1114
+00:57:29.736 --> 00:57:30.216
+les choses.
+
+1115
+00:57:30.976 --> 00:57:31.316
+Moi aussi.
+
+1116
+00:57:32.676 --> 00:57:34.976
+Moi, ça m'allait mieux comme ça. Ça prend un petit moment effectivement d'écrire
+
+1117
+00:57:35.036 --> 00:57:36.775
+sur un bout de papier toutes les collections.
+
+1118
+00:57:36.796 --> 00:57:38.226
+Ce n'est pas non plus que ça prend 10 minutes,
+
+1119
+00:57:39.056 --> 00:57:40.856
+mais après, au moins, ça me permettait de me vider la tête.
+
+1120
+00:57:40.996 --> 00:57:43.656
+Tout était écrit et j'avais mon truc qui était hyper clair pour moi.
+
+1121
+00:57:44.416 --> 00:57:46.776
+Et bouger, j'aimais bien bouger mes colonnes.
+
+1122
+00:57:47.176 --> 00:57:48.596
+Je prenais, j'enlevais, je changeais.
+
+1123
+00:57:49.436 --> 00:57:52.316
+En tout cas, mon cerveau fonctionnait mieux comme ça.
+
+1124
+00:57:54.176 --> 00:57:57.496
+Oui, je vais essayer comme ça. Il y a cette technique, il y a la technique qui est
+
+1125
+00:57:57.516 --> 00:58:00.796
+présentée dans la formation avec le site
+
+1126
+00:58:01.276 --> 00:58:02.356
+Mindmap, je crois.
+
+1127
+00:58:02.796 --> 00:58:03.356
+Exactement.
+
+1128
+00:58:04.136 --> 00:58:04.615
+Voilà.
+
+1129
+00:58:05.776 --> 00:58:08.416
+Mindmap, tu peux, c'est la même chose que les bouts de papier, mais avec des
+
+1130
+00:58:08.436 --> 00:58:08.696
+bulles.
+
+1131
+00:58:11.036 --> 00:58:11.275
+Ok.
+
+1132
+00:58:12.616 --> 00:58:15.376
+Moi, je n'ai jamais réussi à me faire à ce truc-là, mais effectivement, ça
+
+1133
+00:58:15.416 --> 00:58:16.596
+fonctionne très bien pour tout le monde.
+
+1134
+00:58:19.196 --> 00:58:23.136
+Le coup des bulles à bouger. Mais à partir du
+
+1135
+00:58:23.196 --> 00:58:26.456
+moment où tu auras un truc hyper visuel, ça va te permettre que ce soit beaucoup
+
+1136
+00:58:26.496 --> 00:58:27.156
+plus clair pour toi.
+
+1137
+00:58:27.976 --> 00:58:30.596
+Et après, dès que c'est fait, par contre, quand tu vas avancer, n'attends pas la
+
+1138
+00:58:30.636 --> 00:58:32.496
+semaine prochaine. Tu me dis sur WhatsApp.
+
+1139
+00:58:32.716 --> 00:58:35.085
+Tu m'envoies ce que tu as fait, tu me prends en photo tes bouts de papier, tu
+
+1140
+00:58:36.076 --> 00:58:36.596
+as ta table.
+
+1141
+00:58:37.176 --> 00:58:38.556
+Ok, je vais te solliciter cette semaine.
+
+1142
+00:58:39.836 --> 00:58:41.716
+Vas-y, je te l'ai dit.
+
+1143
+00:58:43.736 --> 00:58:47.116
+Et du coup, l'idée, c'est que dès que tu as fini ça, et là, tu n'en as pas pour
+
+1144
+00:58:47.136 --> 00:58:49.496
+trois plombes à faire l'architecture.
+
+1145
+00:58:49.506 --> 00:58:49.516
+Non.
+
+1146
+00:58:49.956 --> 00:58:50.436
+Après, tu
+
+1147
+00:58:51.316 --> 00:58:53.596
+rejoins directement Aude et son sujet du jour.
+
+1148
+00:58:54.676 --> 00:58:56.216
+Ok, je vais te rattraper, Aude.
+
+1149
+00:58:57.876 --> 00:58:59.696
+Aude a simplement un coup d'avance sur toi.
+
+1150
+00:59:00.656 --> 00:59:01.836
+Ne t'inquiète pas,
+
+1151
+00:59:04.496 --> 00:59:06.096
+je pars de tellement loin que
+
+1152
+00:59:06.956 --> 00:59:08.356
+je vais vite me rattraper.
+
+1153
+00:59:09.156 --> 00:59:10.696
+On est sur le même bateau, ne t'inquiète pas.
+
+1154
+00:59:11.136 --> 00:59:14.636
+Mais c'est bien qu'il y ait au moins une ou deux personnes qui soient dans la
+
+1155
+00:59:15.016 --> 00:59:16.296
+même étape.
+
+1156
+00:59:17.056 --> 00:59:17.155
+Oui.
+
+1157
+00:59:17.616 --> 00:59:19.335
+Avancer ensemble et se motiver ensemble.
+
+1158
+00:59:20.236 --> 00:59:21.256
+Oui, ça rassure.
+
+1159
+00:59:21.936 --> 00:59:22.236
+Oui.
+
+1160
+00:59:23.576 --> 00:59:26.676
+Qu'est-ce que j'allais dire ? Oui, juste pour le
+
+1161
+00:59:26.796 --> 00:59:29.936
+vocabulaire. Donc tête de silo, c'est...
+
+1162
+00:59:30.016 --> 00:59:33.896
+Oui, pardon. En plus, ça ne veut pas forcément dire
+
+1163
+00:59:33.916 --> 00:59:34.996
+quelque chose ce que je suis en train de dire.
+
+1164
+00:59:35.616 --> 00:59:38.776
+Stéphanie, je m'excuse, je dois y aller parce qu'il est 19 h.
+
+1165
+00:59:38.786 --> 00:59:39.896
+Oh non !
+
+1166
+00:59:40.076 --> 00:59:44.056
+Ou alors, je te montre juste ce que j'ai fait parce qu'il est 19
+
+1167
+00:59:44.076 --> 00:59:44.516
+h 06.
+
+1168
+00:59:44.696 --> 00:59:46.866
+Mais je n'ai pas faim.
+
+1169
+00:59:47.056 --> 00:59:50.476
+Non, mais ce n'est pas grave. Mais je ne veux pas couper la parole à Chiraz non
+
+1170
+00:59:50.556 --> 00:59:52.196
+plus, mais c'est que je vois l'heure.
+
+1171
+00:59:54.016 --> 00:59:57.956
+Je te dis juste parce que tu vas me disputer, parce que tu vas voir que j'ai
+
+1172
+00:59:58.236 --> 01:00:00.136
+un peu buggé. Donc attends.
+
+1173
+01:00:01.356 --> 01:00:03.416
+En aucun cas, j'ai cru que tu allais réussir sans bugger.
+
+1174
+01:00:04.896 --> 01:00:05.196
+Tu me rassures.
+
+1175
+01:00:05.256 --> 01:00:07.356
+Montrer le truc en 30 secondes tout à l'heure.
+
+1176
+01:00:09.516 --> 01:00:12.916
+À quel moment j'ai pensé qu'en te montrant un truc en 30 secondes en partage
+
+1177
+01:00:12.926 --> 01:00:16.216
+d'écran, tu arriverais à
+
+1178
+01:00:16.996 --> 01:00:18.196
+le recréer ?
+
+1179
+01:00:18.376 --> 01:00:20.516
+J'ai appelé là en cachette aussi.
+
+1180
+01:00:21.736 --> 01:00:22.936
+Ok, tu as fait...
+
+1181
+01:00:22.946 --> 01:00:25.836
+J'ai fait celui-là et je l'ai replacé là et j'ai fait ça.
+
+1182
+01:00:25.896 --> 01:00:27.776
+Mais après, il me manquait une étape.
+
+1183
+01:00:29.656 --> 01:00:31.236
+Ok, ferme avec la croix.
+
+1184
+01:00:35.376 --> 01:00:36.576
+Ok, boutique en ligne.
+
+1185
+01:00:38.096 --> 01:00:39.836
+Thème, parfait, tu y es déjà. Modifier le thème.
+
+1186
+01:00:40.636 --> 01:00:41.736
+À droite, un bouton noir.
+
+1187
+01:00:44.156 --> 01:00:45.896
+Ok, en haut, tu cliques sur page d'accueil,
+
+1188
+01:00:46.916 --> 01:00:47.976
+tu vas sur page produit,
+
+1189
+01:00:49.216 --> 01:00:50.416
+tu vas sur modèle par défaut.
+
+1190
+01:00:52.616 --> 01:00:54.296
+Ok, tu descends, tu vas dans la FAQ.
+
+1191
+01:00:56.936 --> 01:00:58.296
+Remonte, elle est où ? Elle est là.
+
+1192
+01:00:59.296 --> 01:00:59.576
+Ok.
+
+1193
+01:01:01.336 --> 01:01:05.176
+Tu ouvres la question 3 : « En combien de temps je vais être livrée ?
+
+1194
+01:01:05.186 --> 01:01:09.160
+»Non, ce n'est pas la question 3. Remonte, la question 3, c'est : « Le
+
+1195
+01:01:09.240 --> 01:01:10.940
+produit est-il compatible avec ? » Excuse-moi.
+
+1196
+01:01:12.420 --> 01:01:14.280
+Tu ouvres la
+
+1197
+01:01:15.680 --> 01:01:16.100
+question.
+
+1198
+01:01:16.720 --> 01:01:18.380
+Attends, c'est parce qu'il faut que je décale ça.
+
+1199
+01:01:19.440 --> 01:01:23.200
+Ouvre la question. Non, celle d'en haut, la 3. Là, tu es à la 5.
+
+1200
+01:01:23.380 --> 01:01:26.640
+Non, celle d'en haut. Les questions 1 et 2 ont été cachées.
+
+1201
+01:01:27.580 --> 01:01:27.960
+OK.
+
+1202
+01:01:28.080 --> 01:01:29.780
+Là, c'est directement la 3. Ouvre la 3.
+
+1203
+01:01:32.200 --> 01:01:34.420
+Tu cliques sur le texte. Pas la question, le texte.
+
+1204
+01:01:35.220 --> 01:01:35.540
+Oui.
+
+1205
+01:01:36.260 --> 01:01:36.520
+OK.
+
+1206
+01:01:39.320 --> 01:01:39.860
+Encore une fois.
+
+1207
+01:01:42.240 --> 01:01:43.460
+Clique deux fois.
+
+1208
+01:01:49.160 --> 01:01:50.040
+Non, encore clique.
+
+1209
+01:01:53.440 --> 01:01:57.300
+Clique à côté. Non, clique à côté, ça ne l'a pas pris. Clique sur le texte.
+
+1210
+01:01:59.660 --> 01:02:00.620
+Deux fois.
+
+1211
+01:02:03.760 --> 01:02:07.280
+OK, il ne veut pas. À gauche.
+
+1212
+01:02:07.360 --> 01:02:08.770
+À ma gauche ou à la tienne
+
+1213
+01:02:09.940 --> 01:02:09.940
+?
+
+1214
+01:02:10.060 --> 01:02:11.260
+Il n'y en a qu'une seule de gauche.
+
+1215
+01:02:12.980 --> 01:02:15.310
+Non, c'est nous, on se gêne. Enlève-nous.
+
+1216
+01:02:15.900 --> 01:02:17.420
+Excuse-moi, je ne vois pas, c'est derrière nous.
+
+1217
+01:02:17.460 --> 01:02:17.900
+Mets la croix,
+
+1218
+01:02:19.020 --> 01:02:19.460
+vire-nous.
+
+1219
+01:02:21.240 --> 01:02:23.440
+OK, excuse-moi, c'est là. À droite, tu as le texte.
+
+1220
+01:02:23.840 --> 01:02:25.040
+Clique sur la petite pile de pièces.
+
+1221
+01:02:26.560 --> 01:02:28.140
+Voilà, c'était ça qui me manquait.
+
+1222
+01:02:29.220 --> 01:02:31.740
+Et là, tu vas appeler ta réponse à la question 3.
+
+1223
+01:02:35.720 --> 01:02:36.940
+Tu l'as appelée R3.
+
+1224
+01:02:40.900 --> 01:02:41.239
+C'est ça.
+
+1225
+01:02:42.080 --> 01:02:44.100
+OK, maintenant, reclique sur la question.
+
+1226
+01:02:46.640 --> 01:02:48.680
+Le produit est-il compatible avec ?
+
+1227
+01:02:49.000 --> 01:02:49.500
+Merci.
+
+1228
+01:02:53.180 --> 01:02:56.450
+Et là, à droite, tu as le texte. Clique sur la petite pile de pièces
+
+1229
+01:02:58.580 --> 01:03:00.360
+et tu vas appeler ta question 3.
+
+1230
+01:03:01.840 --> 01:03:04.680
+Que tu as appelée FAQ 3, tu n'as pas du tout respecté la nomenclature du truc.
+
+1231
+01:03:05.320 --> 01:03:08.990
+Oui, déjà, je stresse. Je me suis dit : « Je ne vais pas y arriver », tu vas voir.
+
+1232
+01:03:09.060 --> 01:03:11.440
+Enregistrer. On pense toujours à enregistrer, il n'y a pas d'enregistrement
+
+1233
+01:03:11.460 --> 01:03:14.400
+automatique. Et tu viens de faire la FAQ 3.
+
+1234
+01:03:15.080 --> 01:03:17.340
+OK, c'était ce lien-là qui me manquait.
+
+1235
+01:03:17.379 --> 01:03:21.160
+Du coup, je me mets dessus et je vais dans les piles et
+
+1236
+01:03:21.220 --> 01:03:22.040
+je change. Ok.
+
+1237
+01:03:22.440 --> 01:03:22.960
+Exactement.
+
+1238
+01:03:24.680 --> 01:03:27.000
+Parfait. Tu peux partir tranquille.
+
+1239
+01:03:27.100 --> 01:03:30.780
+Merci. Bonne soirée à tous. Désolée, je pars comme une sauvage.
+
+1240
+01:03:31.520 --> 01:03:33.380
+Pas de souci. Pense à dire si tu as des questions.
+
+1241
+01:03:34.400 --> 01:03:35.700
+Oui, c'est gentil, merci.
+
+1242
+01:03:36.360 --> 01:03:39.900
+Pensez que la semaine prochaine, le rendez-vous, c'est lundi et pas jeudi.
+
+1243
+01:03:39.960 --> 01:03:40.260
+OK.
+
+1244
+01:03:43.860 --> 01:03:45.380
+Shiraz, à nous.
+
+1245
+01:03:46.100 --> 01:03:46.109
+Oui.
+
+1246
+01:03:47.260 --> 01:03:50.940
+Nous, on était sur la fin. On était juste sur le vocabulaire.
+
+1247
+01:03:51.860 --> 01:03:54.800
+Oui, c'était ça le vocabulaire et je dis, il ne faut pas m'écouter quand je dis...
+
+1248
+01:03:57.460 --> 01:03:58.160
+Moi, j'appelle ça,
+
+1249
+01:03:59.700 --> 01:04:00.460
+une tête de silo.
+
+1250
+01:04:01.660 --> 01:04:02.980
+OK.
+
+1251
+01:04:03.860 --> 01:04:07.300
+Cette tête-là, elle peut être ou une collection, si ça a du sens,
+
+1252
+01:04:08.160 --> 01:04:08.600
+ou alors
+
+1253
+01:04:10.140 --> 01:04:14.040
+juste un truc qui n'est pas relié à une collection, mais qui permet aux gens
+
+1254
+01:04:14.080 --> 01:04:15.040
+de comprendre ce qu'ils cherchent.
+
+1255
+01:04:15.600 --> 01:04:16.120
+Imaginons,
+
+1256
+01:04:16.960 --> 01:04:17.360
+je vends
+
+1257
+01:04:21.880 --> 01:04:25.669
+des fringues. Là, j'ai pantalons, j'ai robes, j'ai jupes, j'ai trucs, j'ai
+
+1258
+01:04:25.680 --> 01:04:27.580
+machins. Et après, j'ai tout un bazar où j'ai
+
+1259
+01:04:28.540 --> 01:04:30.360
+des bracelets, des ceintures, des trucs, je ne sais pas.
+
+1260
+01:04:30.460 --> 01:04:31.790
+Donc, je vais appeler « accessoires ».
+
+1261
+01:04:33.080 --> 01:04:33.770
+Accessoires, ce n'est pas
+
+1262
+01:04:34.620 --> 01:04:36.540
+un mot clé. Ça n'a pas de volume de recherche.
+
+1263
+01:04:36.620 --> 01:04:39.540
+Mais la tête, je vais l'appeler « accessoires » et dedans, je vais y ranger
+
+1264
+01:04:39.560 --> 01:04:43.080
+bracelets, ceintures, foulards, tout ça, ce sera des mots clés
+
+1265
+01:04:43.100 --> 01:04:44.600
+avec du volume de recherche.
+
+1266
+01:04:45.800 --> 01:04:49.620
+Par contre, tu as animaux, ce n'est pas un mot clé.
+
+1267
+01:04:51.740 --> 01:04:53.500
+Le mot clé serait peut-être veilleuse animaux.
+
+1268
+01:04:54.600 --> 01:04:55.440
+Animaux, ce n'est pas le cas.
+
+1269
+01:04:57.760 --> 01:04:58.820
+Veilleuse animaux, ça existe.
+
+1270
+01:05:00.080 --> 01:05:02.600
+Et dedans, ils ont rangé tous les animaux.
+
+1271
+01:05:02.720 --> 01:05:06.180
+Tu vois, si tu mets
+
+1272
+01:05:06.500 --> 01:05:09.860
+ceinture par style, ce n'est pas forcément un mot clé.
+
+1273
+01:05:10.300 --> 01:05:13.680
+C'est comme hiver, mais dedans, tu aurais tous les autres mots clés avec du volume
+
+1274
+01:05:13.700 --> 01:05:14.160
+de recherche.
+
+1275
+01:05:15.620 --> 01:05:17.160
+Donc ça, c'est des têtes
+
+1276
+01:05:17.960 --> 01:05:19.080
+et en dessous, c'est des collections.
+
+1277
+01:05:22.040 --> 01:05:24.260
+Et là, tu peux ranger. Veilleuse fantastique,
+
+1278
+01:05:25.620 --> 01:05:29.180
+ça englobe Disney, dinosaures, fantômes, Hello Kitty, Licornes et Pokémon.
+
+1279
+01:05:30.420 --> 01:05:31.439
+C'est juste visuel.
+
+1280
+01:05:32.560 --> 01:05:35.440
+La veilleuse manga, c'est un mot clé de volume de recherche.
+
+1281
+01:05:36.100 --> 01:05:38.540
+Ça englobe visuellement Naruto et Dragon Ball.
+
+1282
+01:05:39.100 --> 01:05:39.660
+Tu as l'idée que
+
+1283
+01:05:40.520 --> 01:05:43.820
+Naruto et Dragon Ball sont des mangas, donc on les a rangés en dessous de veilleuse
+
+1284
+01:05:43.900 --> 01:05:47.440
+manga visuellement. Mais veilleuse manga est un mot clé vu que c'est une collection
+
+1285
+01:05:47.480 --> 01:05:47.740
+aussi.
+
+1286
+01:05:48.620 --> 01:05:49.900
+C'est un mot clé avec du volume de recherche.
+
+1287
+01:05:51.060 --> 01:05:54.640
+Et dedans sont rangés les produits Naruto et Pokémon, mais en plus d'autres
+
+1288
+01:05:54.680 --> 01:05:56.320
+mangas dont je ne connais pas
+
+1289
+01:05:57.420 --> 01:05:59.340
+le nom. One Piece, par exemple, ou
+
+1290
+01:06:00.340 --> 01:06:02.040
+Dragon Ball Z, ou tous les gens qui sont
+
+1291
+01:06:02.060 --> 01:06:04.720
+là.
+
+1292
+01:06:05.340 --> 01:06:05.920
+Oui.
+
+1293
+01:06:06.020 --> 01:06:09.819
+Encore une fois, sur Shopify, il n'y a pas de hiérarchie de collection.
+
+1294
+01:06:09.860 --> 01:06:13.680
+Tout est pareil sur Shopify. Donc, la manière dont tu vas le ranger, c'est
+
+1295
+01:06:13.720 --> 01:06:17.600
+simplement pour que le client navigue mieux et que ce soit plus clair
+
+1296
+01:06:17.700 --> 01:06:19.800
+pour lui. Mais il n'y a pas de hiérarchie.
+
+1297
+01:06:20.180 --> 01:06:22.880
+Tu n'as pas de collection, sous-collection, sous-sous-collection.
+
+1298
+01:06:23.160 --> 01:06:24.220
+Tout est juste collection.
+
+1299
+01:06:25.960 --> 01:06:29.140
+Et quand tu vas la ranger, bien évidemment, vu qu'il y a un bon volume de
+
+1300
+01:06:29.180 --> 01:06:30.530
+recherche, si tu mets en haut
+
+1301
+01:06:31.380 --> 01:06:34.600
+de manière plus évidente des volumes de recherche, le client peut être amené à
+
+1302
+01:06:34.640 --> 01:06:37.020
+cliquer dessus parce que c'est quelque chose qu'il va forcément rechercher plus.
+
+1303
+01:06:39.060 --> 01:06:42.980
+Là, il faut vraiment se concentrer sur la navigation.
+
+1304
+01:06:43.460 --> 01:06:46.520
+Quand tu rentres dans un supermarché ou quand tu vas dans les Galeries Lafayette,
+
+1305
+01:06:47.220 --> 01:06:50.240
+Galeries Lafayette, c'est un super généraliste de plein de trucs, il faut que tu
+
+1306
+01:06:50.300 --> 01:06:51.620
+saches où sont rangées les choses.
+
+1307
+01:06:52.040 --> 01:06:54.100
+En bas de l'escalator, on t'écrit
+
+1308
+01:06:54.980 --> 01:06:57.020
+: au premier étage, tu as ça, au deuxième étage, tu as ça, au troisième étage, tu
+
+1309
+01:06:57.080 --> 01:07:00.120
+as ça. Et quand tu arrives, au-dessus des rayons, il y a des trucs qui pendent où
+
+1310
+01:07:00.140 --> 01:07:03.130
+ils te disent : « Ici, c'est les ceintures, ici, c'est les chaussures, ici, c'est
+
+1311
+01:07:03.200 --> 01:07:05.620
+le linge de maison », et j'en sais rien.
+
+1312
+01:07:06.220 --> 01:07:09.040
+Il faut que tu permettes ça à ton client, d'arriver dans Carrefour et de savoir
+
+1313
+01:07:09.100 --> 01:07:10.840
+s'il veut acheter un steak et une bouteille d'eau,
+
+1314
+01:07:12.140 --> 01:07:14.940
+qu'il ne fasse pas les demi-mètres carrés du magasin à pied, rayon par rayon, pour
+
+1315
+01:07:14.960 --> 01:07:18.810
+les trouver.Il faut que ça soit accessible à tout moment, c'est pour ça qu'il faut
+
+1316
+01:07:18.850 --> 01:07:19.850
+que ce soit indiqué en gros.
+
+1317
+01:07:22.210 --> 01:07:25.770
+Peut-être qu'en très gros, tu auras écrit : « Boissons » et qu'en dessous, en plus
+
+1318
+01:07:25.810 --> 01:07:27.150
+petit, tu auras écrit : « Soda,
+
+1319
+01:07:28.210 --> 01:07:29.700
+alcool, jus de fruits ».
+
+1320
+01:07:30.570 --> 01:07:31.430
+Ça reste des boissons,
+
+1321
+01:07:32.230 --> 01:07:36.020
+mais c'est un peu plus précis. Il faut toujours que plus tu rentres dans des
+
+1322
+01:07:36.130 --> 01:07:37.110
+niveaux différents, plus
+
+1323
+01:07:38.110 --> 01:07:38.870
+ce soit précis.
+
+1324
+01:07:43.490 --> 01:07:47.450
+Pour que ce soit le plus fluide possible et plus simple pour le client
+
+1325
+01:07:47.490 --> 01:07:48.450
+pour trouver ce qu'il cherche.
+
+1326
+01:07:49.270 --> 01:07:52.190
+C'est ça. Encore une fois, tu n'es pas obligée d'y passer trois plombes.
+
+1327
+01:07:52.230 --> 01:07:55.069
+Ça veut dire que l'architecture, après, tu pourras la bouger de place.
+
+1328
+01:07:55.970 --> 01:07:59.370
+Là, il ne faut pas qu'il y passe une journée complète à faire ça.
+
+1329
+01:07:59.990 --> 01:08:02.870
+Là, l'idée, c'est qu'une fois que tu l'as, où tu te dis : « Ok, j'ai à peu près
+
+1330
+01:08:02.890 --> 01:08:05.650
+placé comme ça, ça me va. » Hop, on crée le Shopify.
+
+1331
+01:08:06.930 --> 01:08:10.870
+Et la semaine prochaine, l'idée, c'est de bosser sur le site, de commencer à créer
+
+1332
+01:08:10.910 --> 01:08:11.210
+le site,
+
+1333
+01:08:12.030 --> 01:08:15.470
+les couleurs, l'emplacement, sourcer les produits.
+
+1334
+01:08:15.550 --> 01:08:16.900
+Après, on enchaîne avec l'intégration produits.
+
+1335
+01:08:17.471 --> 01:08:21.351
+L'architecture, si vraiment, tu t'es plantée ou ça ne va pas
+
+1336
+01:08:21.450 --> 01:08:23.061
+et que tu te dis : « Waouh,
+
+1337
+01:08:24.070 --> 01:08:25.290
+ça ne marche pas », on rebougera.
+
+1338
+01:08:27.110 --> 01:08:30.351
+C'est comme ouvrir un bout de papier après. Ce n'est pas figé.
+
+1339
+01:08:30.650 --> 01:08:32.449
+Le menu, tu peux le prendre et le déplacer.
+
+1340
+01:08:34.530 --> 01:08:36.230
+Après, ce ne sera pas figé dans le temps.
+
+1341
+01:08:36.510 --> 01:08:40.271
+Par contre, une fois que tu l'as fait, une fois que ton site est
+
+1342
+01:08:40.290 --> 01:08:42.490
+publié, il est publié. Après, c'est dommage de toucher.
+
+1343
+01:08:42.891 --> 01:08:43.050
+Oui.
+
+1344
+01:08:43.590 --> 01:08:46.250
+Mais si tu fais l'architecture et que dans un mois, tu fais l'intégration produit,
+
+1345
+01:08:46.311 --> 01:08:49.050
+tu dis : « Ce n'est pas clair, cette histoire, ça ne me va pas », tu pourras
+
+1346
+01:08:49.090 --> 01:08:52.150
+rebouger après. Donc, ne te prends pas la tête de fou non plus,
+
+1347
+01:08:53.070 --> 01:08:53.670
+parce que ce n'est pas
+
+1348
+01:08:55.271 --> 01:08:56.130
+définitif, l'histoire.
+
+1349
+01:08:57.811 --> 01:08:58.931
+En vrai, j'aime bien ma niche.
+
+1350
+01:09:00.110 --> 01:09:00.610
+Ça, c'est cool.
+
+1351
+01:09:02.771 --> 01:09:05.210
+Et là, tu aimeras encore plus la semaine prochaine, parce que la semaine prochaine,
+
+1352
+01:09:05.490 --> 01:09:07.271
+tu vas devoir choisir le style de ton site
+
+1353
+01:09:08.570 --> 01:09:10.530
+et commencer le sourcing des produits.
+
+1354
+01:09:10.570 --> 01:09:11.771
+Donc, qu'est-ce que tu veux vendre vraiment ?
+
+1355
+01:09:12.030 --> 01:09:13.410
+Quel est le style de produit que tu veux vendre ?
+
+1356
+01:09:13.870 --> 01:09:15.610
+Le style que tu veux donner à ta boutique.
+
+1357
+01:09:16.070 --> 01:09:17.351
+Et ça, c'est la partie qui est plutôt cool.
+
+1358
+01:09:18.070 --> 01:09:20.630
+Oui, côté créatif, je vais apporter ma petite touche.
+
+1359
+01:09:21.851 --> 01:09:23.410
+Et puis, tu es dans ta boutique, dans ton univers.
+
+1360
+01:09:24.190 --> 01:09:26.650
+Tu as décidé que la boutique serait toute rose fuchsia
+
+1361
+01:09:27.950 --> 01:09:30.311
+avec des bandes marrons, tu vas bosser dedans tous les jours, tu seras contente
+
+1362
+01:09:30.351 --> 01:09:33.920
+parce que tes produits, tu vas les aimer, tu vas les mettre en scène et tout et ça
+
+1363
+01:09:33.950 --> 01:09:34.990
+va être particulièrement cool.
+
+1364
+01:09:36.570 --> 01:09:39.670
+Oui, c'est cool. On va bien s'amuser à partir de là.
+
+1365
+01:09:40.230 --> 01:09:44.130
+À partir de là, oui. Là, tu auras fini toute la carcasse.
+
+1366
+01:09:45.050 --> 01:09:48.010
+Toute la carcasse, toute la pensée, décider de ce que tu veux.
+
+1367
+01:09:48.050 --> 01:09:49.030
+Après, il n'y a plus qu'à dérouler.
+
+1368
+01:09:50.510 --> 01:09:53.830
+Les métaphiles de ce qu'on a fait avec Aude, ça va te paraître un peu embêtant,
+
+1369
+01:09:53.870 --> 01:09:54.510
+mais ça dure une heure.
+
+1370
+01:09:55.710 --> 01:09:58.370
+En une heure, c'est fait, on le fera ensemble.
+
+1371
+01:09:58.450 --> 01:10:01.510
+Et après, c'est juste toi qui construis ta boutique.
+
+1372
+01:10:01.550 --> 01:10:04.950
+Tu choisis tes produits, tu les mets en rayon.
+
+1373
+01:10:05.230 --> 01:10:06.450
+C'est la partie la plus longue, par contre.
+
+1374
+01:10:08.550 --> 01:10:12.130
+Comme on l'a dit tout à l'heure, j'en ferai une cinquantaine.
+
+1375
+01:10:12.870 --> 01:10:15.890
+Après, je vais essayer aussi de voir comment ça marche avec Cloud Code pour
+
+1376
+01:10:17.170 --> 01:10:18.530
+apprendre aussi à automatiser.
+
+1377
+01:10:19.750 --> 01:10:23.670
+Aymeric, peut-être, tu l'as fait avec l'IA, les intégrations
+
+1378
+01:10:23.710 --> 01:10:24.390
+produits ou pas du tout
+
+1379
+01:10:26.670 --> 01:10:29.310
+? Non, Aymeric est dans un tunnel aussi le soir.
+
+1380
+01:10:29.390 --> 01:10:31.070
+Avec Charlotte, ils sont tous les deux dans un tunnel.
+
+1381
+01:10:32.630 --> 01:10:33.270
+Je comprends.
+
+1382
+01:10:36.870 --> 01:10:39.650
+Le truc de l'IA, Théo
+
+1383
+01:10:39.730 --> 01:10:42.610
+est un tueur pour ça.
+
+1384
+01:10:43.630 --> 01:10:44.570
+Théo, je l'ai appelé tout à l'heure.
+
+1385
+01:10:44.830 --> 01:10:48.530
+Tout à l'heure, j'étais bloquée depuis un moment sur un truc vraiment c******n.
+
+1386
+01:10:49.350 --> 01:10:53.170
+J'ai appelé Théo et comme d'habitude, Théo, en moins de deux
+
+1387
+01:10:53.210 --> 01:10:55.730
+minutes, voire trois minutes, il trouve la solution.
+
+1388
+01:10:56.530 --> 01:10:57.070
+Ingénieux.
+
+1389
+01:10:57.690 --> 01:11:01.470
+C'est ingénieux. Donc pour le coup de l'IA, je pense que Théo sera à même
+
+1390
+01:11:01.510 --> 01:11:05.410
+de te filer un coup de main et de te permettre d'avancer beaucoup plus vite
+
+1391
+01:11:05.450 --> 01:11:07.590
+et de débloquer certains trucs avec ça.
+
+1392
+01:11:08.490 --> 01:11:11.290
+Théo va m'exiger la condition d'avoir déjà fait en manuel.
+
+1393
+01:11:11.970 --> 01:11:15.230
+Je connais ses conditions et je vais en faire plusieurs d'abord,
+
+1394
+01:11:16.230 --> 01:11:19.550
+au moins 50. Et après, je vais prendre un autre site avec lui pour
+
+1395
+01:11:20.590 --> 01:11:24.430
+connecter la boutique, pour faire les 150 autres avec l'IA.
+
+1396
+01:11:25.230 --> 01:11:26.370
+J'ai ça en tête.
+
+1397
+01:11:27.230 --> 01:11:31.050
+Je suis d'accord avec lui. Toujours commencer en manuel avant de demander à
+
+1398
+01:11:31.070 --> 01:11:34.750
+l'IA. Il n'y a rien de mieux pour comprendre qu'on veut demander à l'IA et prompter
+
+1399
+01:11:34.790 --> 01:11:37.830
+de la meilleure manière possible quand on l'a fait nous-mêmes.
+
+1400
+01:11:38.430 --> 01:11:39.750
+C'est ce qu'elle m'a dit Charlotte aussi.
+
+1401
+01:11:41.610 --> 01:11:42.970
+Ce sont des gens sages, ils ont raison.
+
+1402
+01:11:44.550 --> 01:11:48.500
+Je suis bien entourée, moi. Ce que je sais faire le mieux, c'est
+
+1403
+01:11:49.390 --> 01:11:50.630
+m'entourer des meilleures personnes .
+
+1404
+01:11:51.930 --> 01:11:52.990
+C'est parfait.
+
+1405
+01:11:55.490 --> 01:11:58.610
+Embête-moi quand tu veux. Embête-moi ce week-end.
+
+1406
+01:11:58.850 --> 01:11:59.810
+Montre-moi des
+
+1407
+01:12:01.070 --> 01:12:02.850
+bouts de papier, des mind maps et ce que tu veux.
+
+1408
+01:12:02.990 --> 01:12:06.890
+Ce serait top qu'on arrive que ce soit bouclé avant
+
+1409
+01:12:06.910 --> 01:12:08.830
+la fin de la semaine. Tu as l'architecture qui est nickel.
+
+1410
+01:12:08.890 --> 01:12:11.590
+De suite, tu prends un abonnement
+
+1411
+01:12:11.600 --> 01:12:12.990
+Shopify.
+
+1412
+01:12:13.030 --> 01:12:13.610
+Oui, trop cool.
+
+1413
+01:12:14.710 --> 01:12:16.190
+Merci. Je compte sur moi.
+
+1414
+01:12:16.290 --> 01:12:20.150
+Et le thème, et le truc, et derrière, on enchaîne et tu choisis les
+
+1415
+01:12:20.210 --> 01:12:20.450
+couleurs
+
+1416
+01:12:21.430 --> 01:12:22.310
+pour décorer la maison.
+
+1417
+01:12:24.510 --> 01:12:28.210
+Non, ça, c'est sûr, je vais le faire très rapidement parce que j'ai beaucoup plus
+
+1418
+01:12:28.250 --> 01:12:31.770
+de temps maintenant et c'est plus clair dans ma tête.
+
+1419
+01:12:31.810 --> 01:12:33.290
+Je sais précisément ce qu'il faut faire.
+
+1420
+01:12:34.110 --> 01:12:36.610
+J'ai déjà toutes mes fenêtres qui sont déjà ouvertes.
+
+1421
+01:12:36.650 --> 01:12:38.390
+D'ailleurs, je ne vais pas éteindre mon ordi ce soir.
+
+1422
+01:12:38.910 --> 01:12:41.870
+Je vais laisser toutes mes fenêtres ouvertes, comme ça demain matin, j'enchaîne.
+
+1423
+01:12:43.170 --> 01:12:45.950
+Et n'hésite pas, ce soir, moi, ce que je fais parfois avant de me coucher, ça veut
+
+1424
+01:12:45.970 --> 01:12:47.290
+dire que tu lances un truc avec l'IA.
+
+1425
+01:12:48.450 --> 01:12:48.710
+Toi, tu
+
+1426
+01:12:49.510 --> 01:12:53.070
+as la tête au chaud, ça veut dire que toi, tu es dedans depuis tout à l'heure.
+
+1427
+01:12:53.310 --> 01:12:54.789
+Tu penses charnière, tu trucs, tu machins.
+
+1428
+01:12:56.570 --> 01:12:59.590
+Tu peux chat GPT, tu allumes le micro et tu lui parles et tu dis : « J'ai fait ça,
+
+1429
+01:12:59.650 --> 01:13:01.610
+j'ai fait ça. Aujourd'hui, j'ai fait réfléchir à ça, machin.
+
+1430
+01:13:01.640 --> 01:13:04.190
+» Te donne tous les fichiers et fais-moi un truc.
+
+1431
+01:13:04.260 --> 01:13:05.230
+Et là, tu laisses l'ordinateur tourner.
+
+1432
+01:13:05.270 --> 01:13:08.890
+Demain matin, quand tu vas arriver, tu auras toi une date proposée, un œil neuf et
+
+1433
+01:13:08.950 --> 01:13:11.990
+tu vas voir ce qu'il t'a proposé. Ne regarde pas ce soir ce qu'il te propose.
+
+1434
+01:13:12.570 --> 01:13:12.810
+Ok.
+
+1435
+01:13:13.090 --> 01:13:16.970
+Toi, tu lui parles, tu lances la recherche, tu ne fermes pas ton ordinateur avant
+
+1436
+01:13:16.980 --> 01:13:20.842
+qu'il ait fini la propositionTu ne lis pas, tu triques et demain matin tu te dis :
+
+1437
+01:13:20.852 --> 01:13:24.002
+« OK, qu'est-ce qu'il propose ? Ah ouais, OK ». C'est une vision qui est cool.
+
+1438
+01:13:24.442 --> 01:13:28.362
+Au moins, ça t'aura permis de te reposer un peu et reposer les
+
+1439
+01:13:28.402 --> 01:13:30.001
+idées, ça marche toujours mieux, comme ma mère disait.
+
+1440
+01:13:31.022 --> 01:13:32.622
+Le matin, on est plus frais.
+
+1441
+01:13:32.702 --> 01:13:36.262
+Et le matin, ça marche mieux. Surtout après avoir passé une journée à parler que de
+
+1442
+01:13:36.282 --> 01:13:37.622
+ceinture et à penser ceinture,
+
+1443
+01:13:38.462 --> 01:13:42.452
+une pause, ça te permet parfois d'avoir la vision un peu
+
+1444
+01:13:42.522 --> 01:13:43.221
+plus neuve sur le truc.
+
+1445
+01:13:45.822 --> 01:13:47.682
+Je faisais ça quand j'étais à l'école, je préférais
+
+1446
+01:13:48.642 --> 01:13:49.002
+dormir
+
+1447
+01:13:50.582 --> 01:13:52.242
+et me réveiller très tôt le matin pour réviser.
+
+1448
+01:13:52.342 --> 01:13:54.242
+J'emmagasinais mieux les informations.
+
+1449
+01:13:55.082 --> 01:13:58.711
+Moi aussi. Donc vas-y, tente-le. Demande à ChatGPT, après,
+
+1450
+01:13:59.042 --> 01:13:59.542
+tu vas te coucher.
+
+1451
+01:14:01.282 --> 01:14:02.282
+Allez, je fais ça.
+
+1452
+01:14:03.262 --> 01:14:06.722
+Très bien. Merci beaucoup et merci à tous, ceux qui ont participé,
+
+1453
+01:14:07.802 --> 01:14:09.402
+qui ont écouté aussi. Merci à vous.
+
+1454
+01:14:10.982 --> 01:14:14.962
+Merci. Je ne sais pas si Charlotte ou Aymeric veulent prendre la
+
+1455
+01:14:15.002 --> 01:14:15.322
+parole.
+
+1456
+01:14:16.162 --> 01:14:16.262
+Si
+
+1457
+01:14:17.282 --> 01:14:18.582
+c'est possible, dites-le, n'hésitez pas.
+
+1458
+01:14:18.702 --> 01:14:21.922
+Gaëlle, tu as débloqué ton micro, est-ce que tu voulais nous dire quelque chose ?
+
+1459
+01:14:21.982 --> 01:14:25.612
+Non, je voulais dire merci aussi à Sheroz de nous avoir fait
+
+1460
+01:14:25.642 --> 01:14:26.422
+participer.
+
+1461
+01:14:27.402 --> 01:14:28.082
+Avec plaisir.
+
+1462
+01:14:30.422 --> 01:14:33.382
+Et on a Cuisine &amp; Astuces qui est là et on ne lui a pas demandé comment ça allait à
+
+1463
+01:14:33.402 --> 01:14:34.172
+Cuisine &amp; Astuces.
+
+1464
+01:14:38.622 --> 01:14:39.852
+Bonjour ,
+
+1465
+01:14:41.202 --> 01:14:45.042
+ça va. Je voudrais montrer quelques fiches produits.
+
+1466
+01:14:45.342 --> 01:14:47.582
+J'essaie de voir si c'est correct.
+
+1467
+01:14:48.262 --> 01:14:48.422
+Oui,
+
+1468
+01:14:49.222 --> 01:14:50.622
+on t'écoute, on te regarde.
+
+1469
+01:14:53.722 --> 01:14:56.822
+Juste pour information, il faudra que je quitte la pièce à
+
+1470
+01:14:56.862 --> 01:15:00.782
+19 h 47 précisément.
+
+1471
+01:15:05.922 --> 01:15:06.582
+Donc on a le temps.
+
+1472
+01:15:07.502 --> 01:15:07.602
+Je
+
+1473
+01:15:07.702 --> 01:15:12.482
+ne
+
+1474
+01:15:12.502 --> 01:15:13.602
+sais pas si ça va.
+
+1475
+01:15:15.222 --> 01:15:16.002
+Oui, on te voit.
+
+1476
+01:15:16.882 --> 01:15:17.202
+OK.
+
+1477
+01:15:18.322 --> 01:15:20.062
+Par exemple, celui-ci.
+
+1478
+01:15:20.102 --> 01:15:21.102
+Je vois
+
+1479
+01:15:22.142 --> 01:15:24.542
+des titres tellement
+
+1480
+01:15:26.242 --> 01:15:26.562
+longs.
+
+1481
+01:15:27.522 --> 01:15:28.462
+Je n'ai pas encore modifié.
+
+1482
+01:15:30.262 --> 01:15:31.762
+OK, alors je ne dis rien sur le titre.
+
+1483
+01:15:32.542 --> 01:15:34.462
+Dis-moi qu'est-ce que tu veux montrer ?
+
+1484
+01:15:34.562 --> 01:15:41.422
+Affichage.
+
+1485
+01:15:44.302 --> 01:15:44.642
+OK.
+
+1486
+01:15:46.802 --> 01:15:48.042
+Les bullet points, c'est mieux.
+
+1487
+01:15:52.211 --> 01:15:53.642
+Ça, c'est mieux.
+
+1488
+01:15:56.122 --> 01:15:58.702
+La photo est bien recadrée, on voit bien le bébé.
+
+1489
+01:16:05.062 --> 01:16:08.462
+Juste, je trouve que tes titres sont disproportionnés par rapport à tes textes.
+
+1490
+01:16:10.742 --> 01:16:14.692
+Alors, « Ergonomie et sérénité : pourquoi ce porte-bébé prévient les lombalgies
+
+1491
+01:16:15.322 --> 01:16:18.402
+? » Il faudrait que tu regardes le titre, je le trouve très gros visuellement.
+
+1492
+01:16:18.822 --> 01:16:22.762
+Donc peut-être que tu t'es trompée et que tu as balisé le titre en H1 ou en H2
+
+1493
+01:16:23.462 --> 01:16:25.382
+et peut-être que tu devrais le baliser en H3.
+
+1494
+01:16:26.702 --> 01:16:29.602
+Non, je pense que c'est du H1 et que simplement, tu devrais le baliser en H2.
+
+1495
+01:16:31.042 --> 01:16:32.402
+Mais le titre est très gros, je trouve.
+
+1496
+01:16:33.682 --> 01:16:35.082
+Et ça, tu ne pourras le voir que
+
+1497
+01:16:37.222 --> 01:16:40.262
+quand tu vas dans « Boutique en ligne » et c'est le thème.
+
+1498
+01:16:42.262 --> 01:16:43.032
+« Boutique en ligne »
+
+1499
+01:16:43.932 --> 01:16:43.932
+?
+
+1500
+01:16:43.932 --> 01:16:44.592
+« Boutique en ligne ».
+
+1501
+01:16:46.302 --> 01:16:47.522
+Tu cliques sur « Modifier le thème
+
+1502
+01:16:49.922 --> 01:16:49.922
+».
+
+1503
+01:16:51.322 --> 01:16:55.242
+Parce que visuellement, c'est trop agressif le titre, on ne lit pas
+
+1504
+01:16:55.282 --> 01:16:57.802
+le texte en dessous. « Modifier le thème ».
+
+1505
+01:16:57.822 --> 01:17:01.722
+Tu vas en haut, tu sélectionnes « Produits ».
+
+1506
+01:17:03.742 --> 01:17:03.742
+«
+
+1507
+01:17:07.162 --> 01:17:08.122
+Produits ».
+
+1508
+01:17:09.292 --> 01:17:10.122
+« Produits par défaut
+
+1509
+01:17:12.362 --> 01:17:12.362
+».
+
+1510
+01:17:14.442 --> 01:17:17.142
+OK, tu descends, tu cliques sur ton titre que je trouve trop gros.
+
+1511
+01:17:19.082 --> 01:17:22.082
+Non, descends sur la fiche produit, mets ta souris au milieu. Non.
+
+1512
+01:17:23.302 --> 01:17:23.982
+Clique dans le vide.
+
+1513
+01:17:26.762 --> 01:17:27.182
+Descends.
+
+1514
+01:17:31.082 --> 01:17:31.782
+Ici, c'est OK
+
+1515
+01:17:32.582 --> 01:17:32.582
+?
+
+1516
+01:17:33.902 --> 01:17:37.192
+Non, remonte. « Porte-bébé papa maman ».
+
+1517
+01:17:37.882 --> 01:17:38.442
+Clique là-dessus.
+
+1518
+01:17:44.952 --> 01:17:46.002
+Et c'est un H2.
+
+1519
+01:17:47.632 --> 01:17:50.842
+« Taille du titre », il est grand. Tu vois, à droite, tu as écrit « Taille du titre
+
+1520
+01:17:50.882 --> 01:17:53.982
+grand ». Mets-le moyen ou petit. Non, laisse le H2, c'est bien.
+
+1521
+01:17:55.862 --> 01:17:56.722
+Voilà.
+
+1522
+01:17:58.502 --> 01:18:00.062
+Tu fais pareil avec le titre du dessus.
+
+1523
+01:18:01.422 --> 01:18:02.842
+Tu bloques du dessus, il est trop gros aussi.
+
+1524
+01:18:04.242 --> 01:18:07.082
+Celui-là, clique sur le titre et mets-le en moyen aussi.
+
+1525
+01:18:08.562 --> 01:18:09.142
+C'est déjà mieux.
+
+1526
+01:18:17.502 --> 01:18:17.962
+OK.
+
+1527
+01:18:19.182 --> 01:18:20.802
+Ici aussi, ça va ?
+
+1528
+01:18:20.862 --> 01:18:23.722
+Non, ça, tu ne touches pas, c'est le titre, il est forcément en H1, lui.
+
+1529
+01:18:25.842 --> 01:18:29.062
+C'est un chef. Et si jamais c'est trop gros, tu peux aussi tenter de le mettre en
+
+1530
+01:18:29.082 --> 01:18:30.942
+petit, peut-être. Ça restera un H2.
+
+1531
+01:18:32.742 --> 01:18:33.102
+Lui, là.
+
+1532
+01:18:34.642 --> 01:18:38.482
+Mais peut-être tente-le en petit, voir si c'est plus facile à lire,
+
+1533
+01:18:38.682 --> 01:18:39.602
+plus ergonomique.
+
+1534
+01:18:42.562 --> 01:18:43.262
+Mon avis, les autres
+
+1535
+01:18:45.062 --> 01:18:45.942
+? Mets-le en petit pour voir.
+
+1536
+01:18:49.462 --> 01:18:50.542
+Celui-ci ?
+
+1537
+01:18:50.582 --> 01:18:51.552
+Oui, clique sur « Petit ».
+
+1538
+01:18:53.942 --> 01:18:57.462
+Moi, j'aime bien. Moi, je préfère petit, mais ça reste tout à fait subjectif.
+
+1539
+01:18:58.962 --> 01:19:01.702
+Je fais pareil en bas aussi ?
+
+1540
+01:19:01.742 --> 01:19:04.662
+Oui. Après, c'est toi qui décides. Moi, je trouvais qu'il était trop gros.
+
+1541
+01:19:06.062 --> 01:19:08.692
+Moi, je préfère en petit, tu peux le mettre en moyen, mais c'est juste pour qu'il y
+
+1542
+01:19:08.702 --> 01:19:11.322
+ait une fluidité, qu'on lise tout sans que ce soit
+
+1543
+01:19:12.782 --> 01:19:13.002
+trop-
+
+1544
+01:19:13.042 --> 01:19:15.962
+Il faut voir sur mobile aussi, peut-être. Bonsoir.
+
+1545
+01:19:16.782 --> 01:19:18.462
+Bonsoir. Vas-y, clique sur
+
+1546
+01:19:18.502 --> 01:19:21.742
+mobileLe mobile, tu
+
+1547
+01:19:21.842 --> 01:19:23.002
+montes. Monte
+
+1548
+01:19:24.282 --> 01:19:26.282
+ta souris tranquillement. Juste ta souris.
+
+1549
+01:19:28.242 --> 01:19:29.801
+Oui, parfait, au top.
+
+1550
+01:19:30.982 --> 01:19:32.082
+Vas-y, descends.
+
+1551
+01:19:35.102 --> 01:19:38.222
+Descends. Oui, moi, j'aime bien comme ça.
+
+1552
+01:19:39.462 --> 01:19:39.722
+OK.
+
+1553
+01:19:41.842 --> 01:19:44.142
+Tu peux décider de le remettre, mais juste grand, c'était trop grand.
+
+1554
+01:19:45.782 --> 01:19:48.262
+Du coup, ça mettait le titre sur beaucoup trop de lignes.
+
+1555
+01:19:49.862 --> 01:19:51.842
+Moins petit, je trouve ça cohérent.
+
+1556
+01:19:53.461 --> 01:19:54.181
+Ce titre
+
+1557
+01:19:56.402 --> 01:19:59.682
+: « Écharpe avant pour bébé style enveloppant bandoulière multifonctionnelle
+
+1558
+01:19:59.702 --> 01:20:01.682
+fourniture de voyage de maternité
+
+1559
+01:20:02.882 --> 01:20:02.882
+».
+
+1560
+01:20:04.622 --> 01:20:08.312
+Je n'ai pas encore modifié le titre de celui-là et
+
+1561
+01:20:08.382 --> 01:20:08.902
+celui-ci.
+
+1562
+01:20:13.882 --> 01:20:17.362
+Ici aussi, je vais modifier partout.
+
+1563
+01:20:27.962 --> 01:20:29.102
+Qu'est-ce que tu veux modifier partout
+
+1564
+01:20:30.502 --> 01:20:30.502
+?
+
+1565
+01:20:30.562 --> 01:20:31.502
+Le titre aussi.
+
+1566
+01:20:34.862 --> 01:20:36.522
+Il est bien, lui.
+
+1567
+01:20:38.602 --> 01:20:39.842
+Il était déjà bien.
+
+1568
+01:20:41.262 --> 01:20:43.642
+Non, c'est bon. Là, tu as modifié sur toutes tes fiches produits en même temps.
+
+1569
+01:20:44.762 --> 01:20:47.622
+Tu modifies la structure du site, tu modifies le modèle des fiches produits.
+
+1570
+01:20:47.862 --> 01:20:49.962
+Là, ça l'a modifié sur toutes tes fiches produits d'un coup.
+
+1571
+01:20:50.902 --> 01:20:51.522
+D'accord.
+
+1572
+01:20:51.742 --> 01:20:53.502
+Cette photo-là, elle n'est pas mal cadrée.
+
+1573
+01:20:55.802 --> 01:20:59.302
+Cette image
+
+1574
+01:20:59.862 --> 01:20:59.862
+?
+
+1575
+01:20:59.922 --> 01:21:00.122
+Oui,
+
+1576
+01:21:01.082 --> 01:21:03.202
+quand on voit la maman de face.
+
+1577
+01:21:04.922 --> 01:21:08.822
+Elle est tirée ta photo en plus,
+
+1578
+01:21:09.122 --> 01:21:09.712
+celle d'en haut.
+
+1579
+01:21:11.302 --> 01:21:14.222
+Rappelle-toi la semaine dernière, celle d'en haut, tu l'avais tirée.
+
+1580
+01:21:14.862 --> 01:21:15.642
+Elle a une tête bizarre.
+
+1581
+01:21:16.982 --> 01:21:18.062
+J'aime elle étirée.
+
+1582
+01:21:21.322 --> 01:21:22.282
+Je vais modifier.
+
+1583
+01:21:25.402 --> 01:21:27.702
+Maintenant qu'on a arrangé les titres,
+
+1584
+01:21:28.702 --> 01:21:29.522
+le reste, ça me paraît
+
+1585
+01:21:30.442 --> 01:21:33.742
+OK. Par exemple, taille unique, ça ne sert à rien qu'il y ait une variation taille
+
+1586
+01:21:33.782 --> 01:21:37.662
+unique. Ou tu l'as mis exprès parce que tu
+
+1587
+01:21:37.682 --> 01:21:38.002
+voulais
+
+1588
+01:21:39.022 --> 01:21:39.862
+indiquer au client.
+
+1589
+01:21:40.062 --> 01:21:41.961
+Si ça était, j'ai supprimé.
+
+1590
+01:21:42.562 --> 01:21:42.842
+Ou tu
+
+1591
+01:21:44.562 --> 01:21:47.982
+le laisses de manière volontaire, sinon, tu peux le supprimer.
+
+1592
+01:21:49.582 --> 01:21:52.702
+Brun, c'est brun que tu as écrit
+
+1593
+01:21:53.602 --> 01:21:53.602
+?
+
+1594
+01:21:56.222 --> 01:21:57.362
+Oui.
+
+1595
+01:21:57.842 --> 01:21:59.822
+Moi, j'appellerais ça marron, mais tu as le droit de l'appeler brun.
+
+1596
+01:21:59.862 --> 01:22:01.282
+Mais marron, dans le SEO,
+
+1597
+01:22:02.902 --> 01:22:06.782
+il y a plus de gens qui vont taper « porte-bébé marron » que « porte-bébé brun
+
+1598
+01:22:08.302 --> 01:22:11.212
+». À savoir que quand tu crées une fiche produit, tu la crées pour répondre à une
+
+1599
+01:22:11.262 --> 01:22:12.222
+intention de recherche.
+
+1600
+01:22:13.882 --> 01:22:14.482
+Peu de gens
+
+1601
+01:22:16.042 --> 01:22:19.782
+vont écrire « porte-bébé brun » parce que brun n'est pas une appellation de
+
+1602
+01:22:19.822 --> 01:22:23.122
+couleur de la majorité. Pense toujours majorité.
+
+1603
+01:22:25.722 --> 01:22:27.562
+Tu ne vas pas appeler des produits bleu
+
+1604
+01:22:29.282 --> 01:22:30.822
+fondot, c'est bleu.
+
+1605
+01:22:31.662 --> 01:22:35.482
+Parce que la majorité des gens vont taper bleu et pas bleu quelque chose.
+
+1606
+01:22:36.132 --> 01:22:39.242
+Sauf s'il y a une vraie différence sur la couleur, mais la majorité des gens ne
+
+1607
+01:22:39.262 --> 01:22:43.192
+vont pas jusque-là et ton produit va être sélectionné par Google pour répondre à
+
+1608
+01:22:43.222 --> 01:22:47.022
+une requête client. L'idée, c'est de te concentrer réellement sur les
+
+1609
+01:22:47.362 --> 01:22:48.822
+trucs avec le plus de généralités.
+
+1610
+01:22:49.622 --> 01:22:51.382
+Ne dis pas brun, dis marron.
+
+1611
+01:22:52.462 --> 01:22:58.342
+Est-ce
+
+1612
+01:22:58.762 --> 01:23:00.182
+que c'est clair pour toi, Viviane ?
+
+1613
+01:23:00.262 --> 01:23:02.262
+Oui, c'est clair, j'ai compris.
+
+1614
+01:23:03.182 --> 01:23:03.802
+Ça marche.
+
+1615
+01:23:07.502 --> 01:23:10.832
+Est-ce que tu as d'autres questions sur tes fiches
+
+1616
+01:23:10.842 --> 01:23:11.762
+produits ?
+
+1617
+01:23:11.862 --> 01:23:13.462
+Non, je voudrais
+
+1618
+01:23:14.762 --> 01:23:18.742
+faire plusieurs fiches produits correctes et je vous contacte
+
+1619
+01:23:19.042 --> 01:23:22.822
+si je peux passer à l'intelligence artificielle pour
+
+1620
+01:23:22.882 --> 01:23:23.602
+finaliser.
+
+1621
+01:23:25.122 --> 01:23:26.182
+Bien sûr.
+
+1622
+01:23:28.902 --> 01:23:31.742
+Vas-y, montre-m'en une autre que tu as faite.
+
+1623
+01:23:50.242 --> 01:23:55.062
+Mais
+
+1624
+01:23:55.862 --> 01:23:56.682
+nous, en affiché.
+
+1625
+01:24:06.622 --> 01:24:08.722
+OK. Les bullet points, c'est bon, préservés.
+
+1626
+01:24:09.602 --> 01:24:10.202
+Clique sur B.
+
+1627
+01:24:12.022 --> 01:24:15.642
+OK.
+
+1628
+01:24:17.082 --> 01:24:19.482
+Descends, clique sur Description.
+
+1629
+01:24:25.282 --> 01:24:27.982
+OK. Clique sur Caractéristiques.
+
+1630
+01:24:31.002 --> 01:24:31.522
+OK.
+
+1631
+01:24:35.562 --> 01:24:38.362
+Descends. Le titre, il est petit.
+
+1632
+01:24:38.982 --> 01:24:41.082
+La photo, OK.
+
+1633
+01:24:42.202 --> 01:24:43.162
+Descends.
+
+1634
+01:24:45.902 --> 01:24:49.222
+OK, descends.
+
+1635
+01:24:53.582 --> 01:24:57.362
+Moi, c'est très subjectif, toi, tu proposes que deux
+
+1636
+01:24:57.442 --> 01:24:59.262
+produits en bas, moi, j'en mettrais quatre.
+
+1637
+01:25:02.902 --> 01:25:04.682
+Comment tu l'as modifie, s'il te plaît ?
+
+1638
+01:25:04.722 --> 01:25:06.882
+Vas-y, retourne sur Modifier le thème.
+
+1639
+01:25:12.282 --> 01:25:12.482
+Tu as
+
+1640
+01:25:16.042 --> 01:25:26.082
+modifié
+
+1641
+01:25:26.102 --> 01:25:27.182
+le thème ?
+
+1642
+01:25:27.962 --> 01:25:27.972
+Oui.
+
+1643
+01:25:29.422 --> 01:25:30.001
+Merci
+
+1644
+01:25:32.352 --> 01:25:33.112
+Modifier le thème.
+
+1645
+01:25:39.572 --> 01:25:40.052
+Produits.
+
+1646
+01:25:43.292 --> 01:25:46.812
+Non, en haut milieu, page d'accueil, super. Produits.
+
+1647
+01:25:48.532 --> 01:25:49.652
+Produits par défaut.
+
+1648
+01:25:55.252 --> 01:25:55.952
+Ok, descends.
+
+1649
+01:25:57.452 --> 01:25:58.792
+Descends.
+
+1650
+01:26:00.172 --> 01:26:03.972
+Et là, clique dans le vide à
+
+1651
+01:26:04.012 --> 01:26:05.672
+côté de ce produit-là.
+
+1652
+01:26:08.872 --> 01:26:11.692
+Ok, c'est bon. Et là, à droite, tu vois ? À droite.
+
+1653
+01:26:12.132 --> 01:26:14.192
+Non, tu as cliqué, non. Reclique là où tu avais.
+
+1654
+01:26:16.412 --> 01:26:16.752
+Clique.
+
+1655
+01:26:18.192 --> 01:26:19.792
+Non. Là, dans le vide.
+
+1656
+01:26:20.692 --> 01:26:21.952
+C'est bon. Et là, à droite, tu vois
+
+1657
+01:26:23.751 --> 01:26:23.751
+?
+
+1658
+01:26:24.732 --> 01:26:25.972
+Excuse-moi, reviens en arrière.
+
+1659
+01:26:27.532 --> 01:26:28.272
+Voilà.
+
+1660
+01:26:37.132 --> 01:26:39.232
+Ok, on recommence. Modifier le thème.
+
+1661
+01:26:39.452 --> 01:26:41.052
+Il y a un décalage à partir du moment où je vois
+
+1662
+01:26:42.352 --> 01:26:43.612
+ce que tu fais et je dis.
+
+1663
+01:26:44.532 --> 01:26:46.932
+Je vais essayer de faire bien. Page d'accueil.
+
+1664
+01:26:48.232 --> 01:26:50.112
+Produit.
+
+1665
+01:26:53.492 --> 01:26:54.472
+Produit par défaut.
+
+1666
+01:26:57.092 --> 01:27:01.072
+Ok. Et là, tu descends et tu vas cliquer dans le vide à côté du produit.
+
+1667
+01:27:02.972 --> 01:27:03.232
+Là.
+
+1668
+01:27:04.192 --> 01:27:05.372
+Oui, clique dans le vide.
+
+1669
+01:27:07.512 --> 01:27:07.912
+Parfait.
+
+1670
+01:27:09.352 --> 01:27:12.492
+Et là, à droite, tu as un truc qui vient de s'ouvrir. Va dans la colonne de droite.
+
+1671
+01:27:14.692 --> 01:27:17.632
+Et là, tu vois : quantité maximale de produits à afficher.
+
+1672
+01:27:17.672 --> 01:27:20.152
+Il y a deux et moi, je trouve que quatre, c'est bien.
+
+1673
+01:27:20.972 --> 01:27:24.472
+Parce que ça permet plus de maillage, plus de propositions au client.
+
+1674
+01:27:32.232 --> 01:27:32.512
+Là, tu
+
+1675
+01:27:33.312 --> 01:27:36.392
+as un menu déroulant, tu peux décider comment tu veux les
+
+1676
+01:27:37.512 --> 01:27:38.192
+présenter.
+
+1677
+01:27:38.812 --> 01:27:41.132
+Je vais supprimer le menu déroulant.
+
+1678
+01:27:41.171 --> 01:27:43.892
+Je voudrais que les images s'affichent directement.
+
+1679
+01:27:44.292 --> 01:27:45.052
+Vas-y, remonte.
+
+1680
+01:27:47.952 --> 01:27:51.732
+Alors, nuancier : cinq. Non. Style de description : non. Vas-y, descends.
+
+1681
+01:27:52.532 --> 01:27:55.732
+Valise de titre SEO : non. Taille du titre : moyen.
+
+1682
+01:27:55.752 --> 01:27:59.032
+Alignement du texte : ok. Quantité maximale de produits affichés :
+
+1683
+01:28:00.052 --> 01:28:00.352
+quatre.
+
+1684
+01:28:01.212 --> 01:28:03.632
+Rapport à l'image square. Afficher le
+
+1685
+01:28:03.732 --> 01:28:10.032
+nuancier.
+
+1686
+01:28:12.392 --> 01:28:13.072
+C'est quoi ton thème ?
+
+1687
+01:28:14.532 --> 01:28:15.032
+Posta.
+
+1688
+01:28:16.492 --> 01:28:17.372
+Et on ne peut pas choisir
+
+1689
+01:28:18.532 --> 01:28:22.292
+de tous les afficher ? Ça ne marche pas ?
+
+1690
+01:28:22.992 --> 01:28:25.232
+Si je fais le deuxième, première image, fiche distributeur.
+
+1691
+01:28:26.632 --> 01:28:27.332
+Non, il ne veut pas.
+
+1692
+01:28:29.772 --> 01:28:32.332
+Peut-être quelque part, ça tourne.
+
+1693
+01:28:33.812 --> 01:28:35.952
+Activer le carrousel. Non.
+
+1694
+01:28:36.072 --> 01:28:37.472
+Peut-être nombre de colonnes.
+
+1695
+01:28:38.772 --> 01:28:40.552
+Non, mais c'est en haut. Désactive le carrousel.
+
+1696
+01:28:41.852 --> 01:28:44.801
+Non, descends.
+
+1697
+01:28:44.801 --> 01:28:46.832
+Descends.
+
+1698
+01:28:47.692 --> 01:28:48.752
+Top, remonte un chouïa.
+
+1699
+01:28:49.392 --> 01:28:50.552
+Ici ?
+
+1700
+01:28:50.772 --> 01:28:54.372
+Non, là, tu es sur mobile. Remonte un chouïa.
+
+1701
+01:28:55.812 --> 01:28:57.612
+Désactive le carrousel sur ordinateur.
+
+1702
+01:28:58.912 --> 01:28:59.772
+Là, tu désactives.
+
+1703
+01:29:04.512 --> 01:29:06.412
+Nombre de colonnes : quatre.
+
+1704
+01:29:13.712 --> 01:29:14.932
+Attends, on n'enregistre pas encore.
+
+1705
+01:29:15.672 --> 01:29:17.512
+Aïe, déjà. Voilà.
+
+1706
+01:29:17.552 --> 01:29:20.772
+Voilà, ça. Et sur mobile, par contre, tu actives le carrousel.
+
+1707
+01:29:22.412 --> 01:29:24.832
+Descends. Sur mobile, activer le carrousel. Ok.
+
+1708
+01:29:25.572 --> 01:29:27.972
+Nombre de colonnes : deux. Parfait.
+
+1709
+01:29:28.892 --> 01:29:32.392
+Et là, tu peux enregistrer maintenant.
+
+1710
+01:29:32.572 --> 01:29:36.392
+Voilà. Comme ça, tu as plus de produits proposés, c'est un peu plus équilibré au
+
+1711
+01:29:36.432 --> 01:29:37.772
+niveau de la taille des images.
+
+1712
+01:29:38.152 --> 01:29:39.212
+D'accord.
+
+1713
+01:29:42.292 --> 01:29:44.192
+Pour moi, c'est bon. Tu peux enchaîner.
+
+1714
+01:29:45.012 --> 01:29:47.752
+D'accord. Merci beaucoup.
+
+1715
+01:29:48.532 --> 01:29:49.332
+Tu en as fait combien
+
+1716
+01:29:50.872 --> 01:29:50.872
+?
+
+1717
+01:29:50.912 --> 01:29:51.952
+Pardon ?
+
+1718
+01:29:51.992 --> 01:29:54.452
+Tu as intégré combien de produits pour l'instant ?
+
+1719
+01:29:55.132 --> 01:29:58.931
+Je suis déjà à 60, petit à petit.
+
+1720
+01:30:00.232 --> 01:30:03.601
+Et tu voudrais passer à l'intelligence artificielle maintenant
+
+1721
+01:30:04.592 --> 01:30:04.592
+?
+
+1722
+01:30:07.352 --> 01:30:07.972
+Bientôt.
+
+1723
+01:30:09.652 --> 01:30:10.042
+D'accord.
+
+1724
+01:30:12.612 --> 01:30:15.232
+Oui, Aymeric, pas besoin de lever la main, tu peux nous parler.
+
+1725
+01:30:18.472 --> 01:30:22.212
+Oui, salut Stéphanie. Salut tout le monde, j'ai une question, c'est par rapport
+
+1726
+01:30:22.272 --> 01:30:22.472
+au
+
+1727
+01:30:23.832 --> 01:30:25.712
+Merchant Center et Google Ads.
+
+1728
+01:30:26.852 --> 01:30:30.552
+J'ai envoyé mon flux via Symprosis ce
+
+1729
+01:30:30.592 --> 01:30:30.992
+matin
+
+1730
+01:30:32.112 --> 01:30:35.192
+et dans la formation, ils disaient d'attendre que le Merchant Center soit validé
+
+1731
+01:30:35.232 --> 01:30:36.372
+avant de brancher le Google Ads.
+
+1732
+01:30:37.532 --> 01:30:39.892
+Là,
+
+1733
+01:30:41.472 --> 01:30:45.252
+mon flux de produits est déjà sur
+
+1734
+01:30:45.332 --> 01:30:46.612
+le Merchant Center et
+
+1735
+01:30:47.872 --> 01:30:48.812
+tout est coché en vert.
+
+1736
+01:30:51.052 --> 01:30:54.092
+Et du coup, Gemini me disait que c'était déjà accepté,
+
+1737
+01:30:54.932 --> 01:30:55.852
+que ça avait été rapide.
+
+1738
+01:30:57.012 --> 01:31:00.752
+Heureusement que
+
+1739
+01:31:00.772 --> 01:31:03.872
+Nicolas n'est pas là, il ne serait pas bien, Nicolas. Non, je rigole.
+
+1740
+01:31:04.272 --> 01:31:07.312
+Moi, c'était mon gros stress, ce Merchant Center,
+
+1741
+01:31:08.232 --> 01:31:09.912
+parce que j'entends partout que ça va être super compliqué.
+
+1742
+01:31:10.452 --> 01:31:12.672
+Et du coup, je me dis : « Est-ce que c'est vraiment validé ?
+
+1743
+01:31:12.702 --> 01:31:14.652
+» Excusez-moi.
+
+1744
+01:31:15.592 --> 01:31:19.562
+Ton Merchant Center, tu n'as pas de message alerte dessus, il est
+
+1745
+01:31:19.572 --> 01:31:22.172
+tout vert, tes produits sont verts dessus, tout va bien.
+
+1746
+01:31:22.792 --> 01:31:23.052
+Ok.
+
+1747
+01:31:24.032 --> 01:31:25.852
+Tu l'as fait quand
+
+1748
+01:31:27.012 --> 01:31:27.012
+?
+
+1749
+01:31:27.752 --> 01:31:31.672
+J'ai envoyé le flux, je pense que ça a été vers 11 h ce matin,
+
+1750
+01:31:31.732 --> 01:31:31.972
+je crois
+
+1751
+01:31:32.860 --> 01:31:33.870
+Déjà ? Tu as accepté
+
+1752
+01:31:34.680 --> 01:31:34.680
+?
+
+1753
+01:31:34.760 --> 01:31:38.680
+À 11 h 02, je l'ai envoyé et je me
+
+1754
+01:31:38.720 --> 01:31:41.880
+suis rendu compte à 16 h que c'était bon, mais je ne sais pas quand c'était bon.
+
+1755
+01:31:42.320 --> 01:31:44.760
+Écoute, si c'est ça, tu es un magicien parce que c'est quand même très rapide
+
+1756
+01:31:44.780 --> 01:31:45.380
+l'histoire.
+
+1757
+01:31:47.040 --> 01:31:48.240
+Du premier coup comme ça ?
+
+1758
+01:31:48.960 --> 01:31:49.499
+Premier coup.
+
+1759
+01:31:50.660 --> 01:31:50.960
+Est-ce que je
+
+1760
+01:31:53.000 --> 01:31:55.020
+ne dois pas attendre un petit peu quand même pour brancher le Google Ads ?
+
+1761
+01:31:56.000 --> 01:31:58.180
+Attends un peu, vois si demain tout est toujours OK.
+
+1762
+01:31:58.700 --> 01:32:01.640
+Mais si demain tout est toujours OK, tout est toujours vert, que tu n'as pas de
+
+1763
+01:32:01.680 --> 01:32:03.200
+message alerte et que ton truc est bon,
+
+1764
+01:32:04.140 --> 01:32:04.960
+tu peux continuer.
+
+1765
+01:32:07.440 --> 01:32:07.580
+Laisse
+
+1766
+01:32:09.200 --> 01:32:10.180
+la nuit te porter conseil.
+
+1767
+01:32:10.420 --> 01:32:10.920
+De
+
+1768
+01:32:11.860 --> 01:32:13.050
+toute façon,
+
+1769
+01:32:13.900 --> 01:32:17.300
+je ne fais encore pas des produits, je n'ai pas encore terminé
+
+1770
+01:32:17.320 --> 01:32:21.010
+l'intégration. Mais je voulais le faire maintenant justement pour pas que si ça ne
+
+1771
+01:32:21.040 --> 01:32:21.480
+marchait pas,
+
+1772
+01:32:22.460 --> 01:32:25.480
+si je mettais des semaines à débloquer, je ne voulais pas avoir fini l'intégration.
+
+1773
+01:32:26.840 --> 01:32:28.350
+Je comprends. Maintenant, continue à intégrer des produits.
+
+1774
+01:32:28.560 --> 01:32:31.680
+Si tout ton flux est vert et que tout a été accepté et que tu n'as aucun produit
+
+1775
+01:32:31.700 --> 01:32:33.800
+rejeté et que tout a l'air de rouler, vas-y.
+
+1776
+01:32:35.520 --> 01:32:36.080
+Eh bien, trop bien.
+
+1777
+01:32:37.300 --> 01:32:39.320
+Ça marche. Félicitations en tout cas.
+
+1778
+01:32:39.900 --> 01:32:42.620
+Je trouve que je ne m'attendais pas à ça, donc c'était cool.
+
+1779
+01:32:43.600 --> 01:32:44.180
+Je veux dire,
+
+1780
+01:32:45.320 --> 01:32:47.420
+il y en a que ça agacerait d'entendre ça.
+
+1781
+01:32:49.000 --> 01:32:51.710
+Après, j'ai réfléchi cette après-midi, parce que j'avais un peu suivi les mises à
+
+1782
+01:32:51.760 --> 01:32:52.660
+jour. Excuse-moi, j'ai
+
+1783
+01:32:53.680 --> 01:32:54.220
+le petit qui est
+
+1784
+01:32:55.220 --> 01:32:58.780
+un peu excité à cette heure-ci. Je l'ai fait avec
+
+1785
+01:32:59.200 --> 01:33:02.420
+une vraie société. Je ne sais pas si ça joue vraiment.
+
+1786
+01:33:03.860 --> 01:33:04.960
+C'est-à-dire une vraie société
+
+1787
+01:33:06.020 --> 01:33:06.020
+?
+
+1788
+01:33:06.460 --> 01:33:08.560
+J'ai une SAS sur laquelle j'ai mis le site.
+
+1789
+01:33:09.180 --> 01:33:11.220
+Non, je t'assure que ce n'est pas...
+
+1790
+01:33:12.580 --> 01:33:14.920
+Si, c'est sûr que c'est mieux une SAS que l'autre, mais j'en connais d'autres qui
+
+1791
+01:33:15.000 --> 01:33:15.620
+avaient des trucs
+
+1792
+01:33:17.080 --> 01:33:19.040
+tout beau tout bien pareil, mais ça n'a pas fonctionné.
+
+1793
+01:33:21.680 --> 01:33:23.360
+Non, en tout cas, je suis ravie pour toi.
+
+1794
+01:33:23.780 --> 01:33:23.860
+Et
+
+1795
+01:33:24.760 --> 01:33:26.839
+vas-y, continue à intégrer les produits et tiens-moi au jus.
+
+1796
+01:33:26.900 --> 01:33:28.360
+Si demain tout va bien, tu peux continuer.
+
+1797
+01:33:29.240 --> 01:33:29.840
+Eh bien, trop bien.
+
+1798
+01:33:31.680 --> 01:33:32.280
+Ça marche.
+
+1799
+01:33:33.360 --> 01:33:33.720
+Parfait.
+
+1800
+01:33:34.820 --> 01:33:37.000
+Je vous ai écouté à moitié tout le monde, donc je ne sais pas si...
+
+1801
+01:33:38.020 --> 01:33:40.860
+Ce que j'allais dire, mais Charles, je t'entendais parler du fait d'intégrer
+
+1802
+01:33:41.160 --> 01:33:42.479
+beaucoup de produits avant d'utiliser l'IA.
+
+1803
+01:33:44.080 --> 01:33:45.740
+Je pense que tu peux
+
+1804
+01:33:47.300 --> 01:33:49.980
+intégrer l'IA dès les premiers. Au début, il faut que tu crées la structure, mais
+
+1805
+01:33:50.000 --> 01:33:52.820
+tu peux un peu utiliser l'IA. Après, pardon, Céline, je sens que tu vas dire autre
+
+1806
+01:33:52.840 --> 01:33:56.760
+chose. Je pense que ce que veut dire Théo,
+
+1807
+01:33:56.840 --> 01:33:58.480
+c'est qu'une fois que tu as créé quelques produits,
+
+1808
+01:33:59.280 --> 01:34:00.380
+tu vas être confronté à
+
+1809
+01:34:02.640 --> 01:34:03.440
+tous les aspects de
+
+1810
+01:34:04.500 --> 01:34:08.020
+tes produits par rapport à ton site, donc tous les champs méta que tu vas devoir
+
+1811
+01:34:08.760 --> 01:34:12.730
+créer, les balises et tout ça. Mais
+
+1812
+01:34:12.740 --> 01:34:15.860
+après, je pense qu'une fois que tu as fait 10, 20 produits, à mon avis, tu peux
+
+1813
+01:34:15.920 --> 01:34:17.740
+déjà automatiser pas mal avec l'IA.
+
+1814
+01:34:20.180 --> 01:34:23.160
+C'est exactement la même chose que ce qu'on aurait fait manuellement
+
+1815
+01:34:25.120 --> 01:34:25.120
+?
+
+1816
+01:34:25.140 --> 01:34:28.960
+Juste, ce que Théo veut, ce n'est pas que vous
+
+1817
+01:34:28.980 --> 01:34:31.180
+commenciez directement avant même d'avoir fait un produit.
+
+1818
+01:34:31.820 --> 01:34:34.940
+Théo ne veut pas directement que vous pluguiez un truc de phasage de produits
+
+1819
+01:34:34.960 --> 01:34:38.700
+automatique. C'est juste ça. Mais si tu fais tes métas, que tu fais
+
+1820
+01:34:38.760 --> 01:34:41.430
+bien et que tu intègres quelques produits où tu comprends le mécanisme
+
+1821
+01:34:41.460 --> 01:34:42.070
+d'intégration,
+
+1822
+01:34:43.020 --> 01:34:44.460
+déjà, quand tu en auras fait 20, tu en auras
+
+1823
+01:34:45.620 --> 01:34:46.100
+plein le c*l.
+
+1824
+01:34:46.660 --> 01:34:46.960
+Compris.
+
+1825
+01:34:47.860 --> 01:34:48.700
+Et à ce moment-là,
+
+1826
+01:34:50.080 --> 01:34:52.660
+dans tous les cas, tu demanderas à Théo qu'il t'aide à le mettre en place.
+
+1827
+01:34:52.700 --> 01:34:56.140
+Mais Théo, ce qu'il ne veut pas, c'est que vous commenciez directement à penser
+
+1828
+01:34:56.220 --> 01:34:59.080
+paramétrage IA avant même d'avoir intégré un produit et de savoir
+
+1829
+01:34:59.940 --> 01:35:03.520
+quels sont les métas à remplir, quelle est la logique par rapport aussi à faire un
+
+1830
+01:35:03.560 --> 01:35:06.880
+bon prompt pour que les trucs se remplissent bien avec des bénéfices au bon
+
+1831
+01:35:06.960 --> 01:35:07.800
+endroit. C'est juste ça.
+
+1832
+01:35:08.780 --> 01:35:09.600
+D'accord.
+
+1833
+01:35:11.000 --> 01:35:13.400
+Mais effectivement, si tu fais 10, 20 produits,
+
+1834
+01:35:14.220 --> 01:35:15.480
+tu auras complètement la logique.
+
+1835
+01:35:16.740 --> 01:35:19.500
+Tu auras déjà envie au bout d'un moment.
+
+1836
+01:35:19.510 --> 01:35:22.920
+T'aurais fait une vingtaine manuellement d'abord ?
+
+1837
+01:35:23.040 --> 01:35:27.020
+Non, j'utilise l'IA depuis le début, mais j'en ai fait, je
+
+1838
+01:35:27.060 --> 01:35:27.960
+pense, une bonne centaine.
+
+1839
+01:35:29.020 --> 01:35:32.280
+Je n'ai pas encore vu les vidéos de Théo, donc je ne sais pas exactement
+
+1840
+01:35:32.380 --> 01:35:36.080
+ce qui va être mis dedans, mais je pense que le principe, c'est que tu ne peux pas
+
+1841
+01:35:36.880 --> 01:35:40.260
+t'imaginer que ça va se faire tout seul et que tu vas utiliser l'IA et ça va te
+
+1842
+01:35:40.280 --> 01:35:44.130
+créer ton truc tout seul. Je pense que ce qui est important, c'est d'avoir
+
+1843
+01:35:44.220 --> 01:35:48.210
+toi un process d'intégration et ensuite, au fur et à mesure, juste certaines
+
+1844
+01:35:48.260 --> 01:35:51.960
+tâches, créer des skills si c'est avec Cloud Code,
+
+1845
+01:35:52.980 --> 01:35:54.700
+créer des skills pour juste certaines tâches.
+
+1846
+01:35:55.080 --> 01:35:58.340
+Et au fur et à mesure, tu vas rassembler ces tâches et après, ça se fera en partie
+
+1847
+01:35:58.400 --> 01:36:00.200
+tout seul, même si tu vas devoir quand même valider certaines choses.
+
+1848
+01:36:00.760 --> 01:36:03.880
+Mais si tu ne fais pas ce travail d'intégration et que tu ne vois pas chaque petite
+
+1849
+01:36:03.960 --> 01:36:04.280
+étape,
+
+1850
+01:36:05.860 --> 01:36:09.840
+je pense que l'IA, tu peux t'en servir pour répliquer ton travail à toi et
+
+1851
+01:36:09.960 --> 01:36:10.640
+l'automatiser.
+
+1852
+01:36:11.500 --> 01:36:14.560
+C'est possible. Je pense que ce qu'il va te montrer dans une vidéo, c'est que si tu
+
+1853
+01:36:14.640 --> 01:36:17.680
+copies juste ce qu'il fait lui sur un site, tu peux juste faire : « L'IA,
+
+1854
+01:36:17.840 --> 01:36:18.700
+intègre-moi ce produit.
+
+1855
+01:36:19.680 --> 01:36:21.960
+» Mais si tu n'as pas toi fait le chemin, ça va être fait de façon
+
+1856
+01:36:23.440 --> 01:36:25.800
+ultra aléatoire et pas précise.
+
+1857
+01:36:27.120 --> 01:36:28.060
+Je pense que le mieux, c'est de
+
+1858
+01:36:30.160 --> 01:36:33.520
+faire ton architecture, d'avoir tes différentes
+
+1859
+01:36:33.560 --> 01:36:37.260
+tâches avec quels inputs et après, ça te fait plusieurs petites
+
+1860
+01:36:37.300 --> 01:36:40.790
+briques. Brique par brique, tu les fais construire par l'IA et après, tu rassembles
+
+1861
+01:36:40.800 --> 01:36:41.280
+les choses.
+
+1862
+01:36:42.940 --> 01:36:46.040
+D'accord. C'est la bonne combinaison entre
+
+1863
+01:36:47.280 --> 01:36:48.320
+le manuel et l'IA.
+
+1864
+01:36:49.120 --> 01:36:49.220
+Oui.
+
+1865
+01:36:50.460 --> 01:36:53.090
+Quelqu'un qui veut
+
+1866
+01:36:53.120 --> 01:36:57.100
+parler
+
+1867
+01:36:57.120 --> 01:36:57.520
+à côté de toi.
+
+1868
+01:37:00.120 --> 01:37:02.720
+Je suis désolée, je dois vous laisser un peu plus tôt ce soir.
+
+1869
+01:37:03.640 --> 01:37:05.340
+Je mets 10 minutes en levant.
+
+1870
+01:37:06.600 --> 01:37:08.819
+Merci en tout cas d'avoir été là ce soir.
+
+1871
+01:37:08.840 --> 01:37:09.800
+Chiraz, contacte-moi
+
+1872
+01:37:10.960 --> 01:37:13.360
+dès demain ou envoie-moi des photos, tiens-moi au courant.
+
+1873
+01:37:14.600 --> 01:37:17.680
+Aymeric, pareil, si tu as des nouvelles du merchant, n'hésite pas à nous le dire.
+
+1874
+01:37:17.760 --> 01:37:20.120
+En tout cas, on serait contents de célébrer avec toi le fait que tu aies un
+
+1875
+01:37:20.160 --> 01:37:22.540
+merchant qui soit passé du premier coup sans problème. Félicitations.
+
+1876
+01:37:23.420 --> 01:37:24.440
+Merci.
+
+1877
+01:37:24.520 --> 01:37:27.640
+Et confirme-nous quand même que c'est bien le cas demain, que tu n'aies pas de
+
+1878
+01:37:27.800 --> 01:37:30.620
+mauvaise surprise. Si c'est le cas, n'hésite pas à partager pour qu'on te file un
+
+1879
+01:37:30.640 --> 01:37:30.980
+coup de main.
+
+1880
+01:37:32.120 --> 01:37:33.800
+Et merci aux autres. Viviane,
+
+1881
+01:37:34.600 --> 01:37:36.180
+continue, tu es sur la bonne voie.
+
+1882
+01:37:37.460 --> 01:37:37.540
+Et
+
+1883
+01:37:38.340 --> 01:37:40.620
+merci à tous d'avoir participé ce soir.
+
+1884
+01:37:42.040 --> 01:37:43.980
+Merci, bonne soirée.
+
+1885
+01:37:43.990 --> 01:37:43.990
+Bonne soirée,
+
+1886
+01:37:45.280 --> 01:37:45.939
+à lundi.

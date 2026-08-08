@@ -1,0 +1,829 @@
+WEBVTT
+
+1
+00:00:00.850 --> 00:00:03.940
+Bonjour à tous, bienvenue sur cette quatrième vidéo.
+
+2
+00:00:04.160 --> 00:00:07.100
+On se retrouve donc dans cette vidéo
+
+3
+00:00:07.720 --> 00:00:09.820
+à l'origine pour commencer la page d'accueil,
+
+4
+00:00:10.330 --> 00:00:12.380
+j'ai juste oublié de vous montrer quelque chose d'important.
+
+5
+00:00:12.550 --> 00:00:14.700
+C'est la manière de créer les fiches produits.
+
+6
+00:00:15.690 --> 00:00:19.220
+Donc on va plutôt dédier la quatrième vidéo à la création
+
+7
+00:00:19.840 --> 00:00:22.420
+des fils des différents champs pour la fiche produit.
+
+8
+00:00:24.040 --> 00:00:26.940
+Et on commencera donc l'intégration normalement cette fois
+
+9
+00:00:26.940 --> 00:00:28.180
+dans la cinquième vidéo.
+
+10
+00:00:28.990 --> 00:00:30.640
+Donc on va commencer dès maintenant.
+
+11
+00:00:30.700 --> 00:00:33.600
+On va une nouvelle fois se rendre sur le dashboard et on va
+
+12
+00:00:33.600 --> 00:00:37.000
+avoir tout de suite la différence qu'on voudrait rajouter
+
+13
+00:00:37.620 --> 00:00:40.880
+en fait dans les produits, quand on va ajouter un produit
+
+14
+00:00:43.010 --> 00:00:45.550
+là, on va avoir une méthode de la méthode classique
+
+15
+00:00:45.550 --> 00:00:46.630
+pour acheter les produits.
+
+16
+00:00:47.620 --> 00:00:50.550
+Comment dire l'ajout de produits basiques de commerce se
+
+17
+00:00:50.550 --> 00:00:52.310
+fait comme ça avec le nom du produit, la description,
+
+18
+00:00:52.770 --> 00:00:54.950
+on ajoute le prix, les différentes variations,
+
+19
+00:00:56.170 --> 00:00:57.350
+les attributs, etc.
+
+20
+00:00:57.570 --> 00:01:02.550
+Le nombre d'inventaires ici et une description courte ici
+
+21
+00:01:03.170 --> 00:01:05.990
+et un coup de si ça, c'est avec l'extension,
+
+22
+00:01:06.500 --> 00:01:08.550
+mais sinon, ça, c'est le basique.
+
+23
+00:01:08.550 --> 00:01:10.230
+On choisit une catégorie et on publie,
+
+24
+00:01:10.360 --> 00:01:13.110
+c'est le basique du produit, le problème de vos commerce,
+
+25
+00:01:13.110 --> 00:01:16.190
+c'est qui il part du principe qu'il va falloir créer une
+
+26
+00:01:16.280 --> 00:01:19.830
+fiche produit par produit à chaque fois avec description
+
+27
+00:01:19.830 --> 00:01:21.270
+différentes, etc, etc.
+
+28
+00:01:22.100 --> 00:01:23.310
+Nous on veut rendre,
+
+29
+00:01:23.490 --> 00:01:25.230
+on veut faire quelque chose de dynamique,
+
+30
+00:01:26.630 --> 00:01:27.690
+ce qui va permettre en fait,
+
+31
+00:01:27.690 --> 00:01:28.970
+quand on va arriver sur un produit,
+
+32
+00:01:30.760 --> 00:01:33.290
+plutôt qu'à chaque fois de voir changer,
+
+33
+00:01:33.390 --> 00:01:35.050
+les mettre une nouvelle image,
+
+34
+00:01:35.090 --> 00:01:37.090
+une nouvelle description sur toutes les fiches produits et
+
+35
+00:01:37.090 --> 00:01:40.650
+créer une fiche produits différentes par produits qui ce
+
+36
+00:01:40.650 --> 00:01:42.050
+qui mettra un temps à fini.
+
+37
+00:01:42.070 --> 00:01:44.330
+Si on a 200 produits, ça ferait 200 fiches produits.
+
+38
+00:01:44.630 --> 00:01:46.770
+Là, ce qu'on va faire, c'est qu'on va créer un modèle de
+
+39
+00:01:46.770 --> 00:01:49.370
+fiches produits, un modèle de champ, par exemple,
+
+40
+00:01:49.370 --> 00:01:51.810
+description une et dans description une,
+
+41
+00:01:51.810 --> 00:01:55.270
+on mettra la description qu'on souhaite mettre.
+
+42
+00:01:55.270 --> 00:01:57.710
+Mais il ce sera pas ce champ là, ce sera un champ différent,
+
+43
+00:01:57.710 --> 00:01:58.710
+mettra les images, etc.
+
+44
+00:01:59.060 --> 00:02:02.070
+Ensuite, sur le modèle de fiche produits, on dira que,
+
+45
+00:02:02.070 --> 00:02:04.350
+par exemple, à tel endroit de la fiche produit,
+
+46
+00:02:04.530 --> 00:02:06.710
+on veut afficher la description une et
+
+47
+00:02:06.710 --> 00:02:07.790
+ça récupéra à la description.
+
+48
+00:02:07.890 --> 00:02:11.310
+Une de tous les produits, les images de tous les produits,
+
+49
+00:02:11.310 --> 00:02:13.310
+ça fera comme une boucle géante.
+
+50
+00:02:13.970 --> 00:02:15.110
+Et sur une seule fich produit,
+
+51
+00:02:15.110 --> 00:02:16.470
+on pourra afficher tous les produits.
+
+52
+00:02:16.470 --> 00:02:19.190
+Vous allez voir en le faisant, j'ai du mal à m'exprimer.
+
+53
+00:02:20.160 --> 00:02:22.870
+C'est pas qu'on va le créer dès maintenant.
+
+54
+00:02:24.290 --> 00:02:27.350
+On va se rendre dans jette and Engine et dans méta box.
+
+55
+00:02:31.550 --> 00:02:34.170
+Voilà ici, il y en a aucune de trouver. C'est normal.
+
+56
+00:02:34.390 --> 00:02:35.530
+On va faire ad New.
+
+57
+00:02:39.830 --> 00:02:40.850
+Et donc c'est parieu.
+
+58
+00:02:40.850 --> 00:02:45.670
+On va l'appeler donc produit et on va
+
+59
+00:02:45.670 --> 00:02:47.270
+ensuite nable for post
+
+60
+00:02:48.170 --> 00:02:52.830
+ici va mettre produit et variations produits
+
+61
+00:02:55.080 --> 00:02:56.900
+et variation.
+
+62
+00:02:59.800 --> 00:03:01.940
+On va ensuite créer un méta field.
+
+63
+00:03:05.660 --> 00:03:08.610
+Alors le label on va l'appeler
+
+64
+00:03:12.160 --> 00:03:13.250
+tableau de taille.
+
+65
+00:03:20.230 --> 00:03:22.130
+Ici, on va l'appeler tableau taille simplement.
+
+66
+00:03:25.500 --> 00:03:29.110
+Donc c'est un chant et c'est pas un texte et un répit
+
+67
+00:03:32.170 --> 00:03:36.190
+rippit là, on va mettre New rippit field.
+
+68
+00:03:36.810 --> 00:03:41.350
+Et ici on va donc l'appeler
+
+69
+00:03:41.970 --> 00:03:44.710
+taille et ce sera un type
+
+70
+00:03:44.710 --> 00:03:48.670
+texte Pour ça.
+
+71
+00:03:49.720 --> 00:03:53.350
+C'est tout ça endessous on n'a pas besoin d'y toucher.
+
+72
+00:03:54.130 --> 00:03:56.270
+Et ensuite on peut faire New méta field.
+
+73
+00:03:56.530 --> 00:03:58.390
+Il y en a une dizaine à créer comme ça.
+
+74
+00:03:59.130 --> 00:04:01.230
+Le deuxième, il s'appellera titre block un.
+
+75
+00:04:02.260 --> 00:04:05.140
+Donc titre bloc un,
+
+76
+00:04:07.450 --> 00:04:08.750
+et c'est un chant
+
+77
+00:04:15.120 --> 00:04:15.860
+de type texte.
+
+78
+00:04:15.960 --> 00:04:17.060
+On va lui mettre une description,
+
+79
+00:04:26.210 --> 00:04:27.530
+indiquer le titre du premier bloc.
+
+80
+00:04:27.530 --> 00:04:29.250
+Ça c'est la description qui va apparaître dans
+
+81
+00:04:29.250 --> 00:04:30.290
+le champ sur la fiche produit.
+
+82
+00:04:31.020 --> 00:04:33.290
+C'est une indication en gros, à quoi sert le champ?
+
+83
+00:04:33.950 --> 00:04:35.090
+On va le laisser comme ça.
+
+84
+00:04:35.090 --> 00:04:37.450
+Ensuite, pour le reste, on touche à rien.
+
+85
+00:04:37.950 --> 00:04:40.930
+On va pouvoir faire New métaphysique une nouvelle fois ça,
+
+86
+00:04:40.930 --> 00:04:45.330
+à chaque fois, on peut les refermer pour gagner de la place
+
+87
+00:04:46.470 --> 00:04:48.010
+et ensuite on est à description.
+
+88
+00:04:48.200 --> 00:04:48.850
+Bloc un.
+
+89
+00:04:55.190 --> 00:04:59.650
+Voilà, c'est une nouvelle fois un chant fail, type fil type.
+
+90
+00:05:01.180 --> 00:05:03.770
+C'est un wi wiig cette fois
+
+91
+00:05:07.390 --> 00:05:10.530
+avec comme description, la même chose.
+
+92
+00:05:12.140 --> 00:05:16.800
+Et pour le reste, on ne touche à rien là.
+
+93
+00:05:16.800 --> 00:05:18.360
+Donc ça, c'est pour
+
+94
+00:05:20.500 --> 00:05:22.200
+la description du bloc un.
+
+95
+00:05:22.700 --> 00:05:25.900
+On va ensuite créer l'image
+
+96
+00:05:27.380 --> 00:05:28.370
+image, description,
+
+97
+00:05:32.850 --> 00:05:37.750
+bloc un image,
+
+98
+00:05:37.750 --> 00:05:40.390
+description un ici, on ça comme ça.
+
+99
+00:05:42.160 --> 00:05:46.110
+C'est un champ de type média cette fois.
+
+100
+00:05:48.270 --> 00:05:49.630
+Alors voilà de type média.
+
+101
+00:05:49.650 --> 00:05:51.710
+La description indiquait ici l'image.
+
+102
+00:05:52.770 --> 00:05:56.130
+On va laisser celle ci va du forme.
+
+103
+00:05:56.130 --> 00:05:58.160
+On peut laisser vierge ici,
+
+104
+00:05:59.340 --> 00:06:01.160
+on laisse comme ça et c'est fini
+
+105
+00:06:01.390 --> 00:06:04.450
+pour le bloc un.
+
+106
+00:06:04.450 --> 00:06:05.850
+Et du coup, on va faire pareil pour
+
+107
+00:06:05.850 --> 00:06:07.050
+cette fois, le bloc deux.
+
+108
+00:06:07.400 --> 00:06:09.290
+Donc on a titre blog, deux
+
+109
+00:06:13.620 --> 00:06:15.330
+petit bloc de c'est très bien comme ça.
+
+110
+00:06:16.630 --> 00:06:20.410
+Et on va juste lui indiquer catégorie parce qu'en fait sur
+
+111
+00:06:20.410 --> 00:06:23.370
+les fiches produits, on va faire la tout ce qui est titre.
+
+112
+00:06:23.650 --> 00:06:25.810
+Blo un description blog et image.
+
+113
+00:06:25.810 --> 00:06:27.810
+Description, bloc un, ça va être
+
+114
+00:06:28.770 --> 00:06:30.070
+un bloc et sur la fiche produit.
+
+115
+00:06:30.660 --> 00:06:32.590
+Donc il y a la présentation du produit à côté.
+
+116
+00:06:32.690 --> 00:06:34.230
+On va avoir les différentes variations,
+
+117
+00:06:34.690 --> 00:06:37.950
+la description courte, le prix et la joue au panier.
+
+118
+00:06:38.370 --> 00:06:40.670
+On va avoir des blocs. Donc le bloc un,
+
+119
+00:06:40.670 --> 00:06:43.070
+ça va être la description du produit et le bloc deux,
+
+120
+00:06:43.090 --> 00:06:46.400
+la description de la catégorie ici pour
+
+121
+00:06:46.640 --> 00:06:48.880
+indiquer au rajouter produit.
+
+122
+00:06:49.340 --> 00:06:51.440
+On va indiquer catégorie comme ça.
+
+123
+00:06:51.440 --> 00:06:53.800
+Ils savent exactement de quoi on parler.
+
+124
+00:06:55.800 --> 00:06:59.250
+Donc ici, une nouvelle fois, la description
+
+125
+00:07:02.800 --> 00:07:06.460
+et le reste, on laisse on reste, on laisse vierge pardon,
+
+126
+00:07:06.590 --> 00:07:08.420
+comme le titre du bloc un.
+
+127
+00:07:10.100 --> 00:07:11.250
+C'est parfait comme ceci.
+
+128
+00:07:11.520 --> 00:07:13.170
+Ensuite, on va
+
+129
+00:07:13.170 --> 00:07:17.640
+créer absent val fermer.
+
+130
+00:07:18.060 --> 00:07:20.600
+On va créer la description du bloc de '
+
+131
+00:07:23.170 --> 00:07:24.700
+Description Bloc deux.
+
+132
+00:07:24.720 --> 00:07:26.020
+Une nouvelle fois, on indique
+
+133
+00:07:26.590 --> 00:07:31.590
+catégorie ça, on
+
+134
+00:07:35.090 --> 00:07:36.230
+Voilà ici.
+
+135
+00:07:36.230 --> 00:07:39.980
+Une nouvelle fois, c'est un wi whig et
+
+136
+00:07:43.740 --> 00:07:45.880
+on va indiquer comme ceci la des discussion.
+
+137
+00:07:48.400 --> 00:07:50.060
+Voilà là, même si c'est un peu long,
+
+138
+00:07:50.060 --> 00:07:52.540
+je coupe pas la vidéo pour bien tout vous montrer,
+
+139
+00:07:53.030 --> 00:07:54.180
+même si là le bloc deux,
+
+140
+00:07:54.180 --> 00:07:58.860
+c'est un peu répétitif par rapport au bloc un image,
+
+141
+00:07:58.980 --> 00:08:02.660
+description, bloc deux, image,
+
+142
+00:08:03.790 --> 00:08:07.940
+image, description, bloc deux.
+
+143
+00:08:08.720 --> 00:08:12.390
+Une nouvelle fois, n'indique catégorie
+
+144
+00:08:14.670 --> 00:08:15.970
+ici, un pouvoir enlever ça.
+
+145
+00:08:17.370 --> 00:08:18.390
+Et ça,
+
+146
+00:08:22.140 --> 00:08:26.890
+c'est un média puisque ça va être une image et ici
+
+147
+00:08:28.150 --> 00:08:29.570
+Un Pouvoir indiquer comme ça.
+
+148
+00:08:32.480 --> 00:08:33.890
+Donc voilà. Une fois que c'est fait,
+
+149
+00:08:34.790 --> 00:08:36.210
+on a créé toutes les méta.
+
+150
+00:08:36.440 --> 00:08:39.650
+Donc de tableaux de taille jusqu'à image d. Blog deux.
+
+151
+00:08:40.910 --> 00:08:45.730
+On va pouvoir faire ad méta box pour l'enregistrer
+
+152
+00:08:47.720 --> 00:08:49.540
+là, savoir pendant qu'on enregistre,
+
+153
+00:08:49.540 --> 00:08:51.500
+ajouter à toutes les fiches produits.
+
+154
+00:08:53.360 --> 00:08:58.280
+Et donc maintenant on peut voir que quand on va
+
+155
+00:08:58.280 --> 00:09:02.960
+dans méta box, on peut voir qu'on a bien créé notre
+
+156
+00:09:02.970 --> 00:09:05.840
+méta boxe ici produit, produit, variation.
+
+157
+00:09:06.420 --> 00:09:10.720
+Et donc quand on va dans produit et ajouter,
+
+158
+00:09:10.740 --> 00:09:13.480
+on peut voir que cette fois la fiche d'ajout de
+
+159
+00:09:13.480 --> 00:09:14.920
+produits a changé.
+
+160
+00:09:15.780 --> 00:09:17.720
+On retrouve bien le nom du produit et la description.
+
+161
+00:09:17.720 --> 00:09:19.120
+Comme avant tout en bas,
+
+162
+00:09:19.120 --> 00:09:22.640
+on va retrouver notre tableau et entre deux, on va retrouver
+
+163
+00:09:23.370 --> 00:09:27.290
+comme ça produit avec toutes les descriptions,
+
+164
+00:09:27.290 --> 00:09:29.410
+le titre bloc, un description, bloc un, etc.
+
+165
+00:09:29.500 --> 00:09:32.290
+Qu'on a créé d' l'intérêt d'avoir mis catégorie comme ça.
+
+166
+00:09:32.290 --> 00:09:34.170
+Quand on vater un produit, on va vite savoir que ça
+
+167
+00:09:34.170 --> 00:09:35.210
+appartient à la catégorie.
+
+168
+00:09:36.810 --> 00:09:38.190
+Et donc ici, on va rempli
+
+169
+00:09:38.820 --> 00:09:42.550
+l'équipe produit ou les racheteurs produits ou celui qui est
+
+170
+00:09:42.650 --> 00:09:44.990
+en charge d'ajouter les produits sur le site
+
+171
+00:09:46.060 --> 00:09:47.840
+va devoir remplir ses champs et ensuite
+
+172
+00:09:48.420 --> 00:09:50.160
+sur le template de fiches produits.
+
+173
+00:09:50.970 --> 00:09:52.960
+Quand on va créer la fiche produit ou du site,
+
+174
+00:09:52.960 --> 00:09:54.080
+on va la créer une seule fois.
+
+175
+00:09:54.080 --> 00:09:55.240
+Et on va dire qu'à cet endroit,
+
+176
+00:09:55.240 --> 00:09:57.800
+on veut afficher de description, bloc un titre, bloc,
+
+177
+00:09:57.900 --> 00:10:00.440
+un image, bloc un à différents endroits,
+
+178
+00:10:00.700 --> 00:10:02.520
+ce qui fait que toutes les fiches produits vont se
+
+179
+00:10:02.520 --> 00:10:05.240
+ressembler avec des images différentes
+
+180
+00:10:05.240 --> 00:10:06.440
+descriptions différentes.
+
+181
+00:10:06.870 --> 00:10:08.080
+Mais à chaque fois,
+
+182
+00:10:09.100 --> 00:10:12.360
+ça va avoir le même design et ça va juste récupérer les
+
+183
+00:10:12.360 --> 00:10:15.240
+champs et ça nous évite d'avoir besoin de créer s'il y a 200
+
+184
+00:10:15.240 --> 00:10:17.360
+produits, de créer 200 fiches produits,
+
+185
+00:10:17.360 --> 00:10:18.880
+ce serait beaucoup trop long là.
+
+186
+00:10:18.880 --> 00:10:21.920
+Ça nous permet de créer qu'une seule fois la fiche produit
+
+187
+00:10:22.460 --> 00:10:24.360
+et de récupérer le même design à chaque fois.
+
+188
+00:10:27.300 --> 00:10:31.510
+Donc on en a terminé avec cet épisode sur
+
+189
+00:10:32.290 --> 00:10:33.790
+la création de fiches produits,
+
+190
+00:10:34.570 --> 00:10:35.990
+la mise en page de fich produits.
+
+191
+00:10:37.940 --> 00:10:39.230
+Donc voilà, c'est plutôt simple.
+
+192
+00:10:39.400 --> 00:10:41.350
+C'est juste grâce à l'extension de GT Engine,
+
+193
+00:10:41.350 --> 00:10:43.150
+on peut créer des champs supplémentaires
+
+194
+00:10:44.180 --> 00:10:47.590
+dans la mine de wordpress qui va nous permettre d'ajouter de
+
+195
+00:10:47.590 --> 00:10:49.710
+vraiment faire ce qu'on veut afin
+
+196
+00:10:49.770 --> 00:10:50.910
+de nous faciliter le travail.
+
+197
+00:10:50.910 --> 00:10:53.670
+Ensuite, pour l'équipe qui va racheter les produits ou pour
+
+198
+00:10:53.670 --> 00:10:55.710
+nous mêmes, ou pour ceux qui vont s'occuper de ça,
+
+199
+00:10:56.370 --> 00:10:57.870
+ça va vraiment faciliter le travail.
+
+200
+00:10:58.450 --> 00:11:01.390
+Et même pour les intégrateurs, ça nous évite de créer
+
+201
+00:11:02.530 --> 00:11:04.490
+autant de fiches produits qu'il y a de produits.
+
+202
+00:11:04.750 --> 00:11:06.970
+On la créé une seule fois et ensuite les
+
+203
+00:11:07.070 --> 00:11:08.130
+de produit empl, les champs.
+
+204
+00:11:08.210 --> 00:11:10.290
+Et c'est beaucoup plus simple pour tout le monde. Merci.
+
+205
+00:11:10.290 --> 00:11:13.570
+Une nouvelle fois d'avoir regardé cet épisode et dans le
+
+206
+00:11:13.690 --> 00:11:17.090
+prochain épisode, on pourra enfin commencer l'intégration de
+
+207
+00:11:17.090 --> 00:11:19.970
+la page d'accueil à très vite pour la cinquième épisode.

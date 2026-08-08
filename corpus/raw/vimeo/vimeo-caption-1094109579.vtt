@@ -1,0 +1,1741 @@
+WEBVTT
+
+1
+00:00:01.020 --> 00:00:03.920
+Est parti pour la présentation de Shopify.
+
+2
+00:00:04.270 --> 00:00:05.840
+Donc le backend de Shopify.
+
+3
+00:00:06.420 --> 00:00:08.840
+Je vous montrerai un petit peu le fontaine après,
+
+4
+00:00:08.840 --> 00:00:10.320
+je vais l'ouvrir pour y penser.
+
+5
+00:00:10.830 --> 00:00:12.680
+Donc quand vous êtes inscrits, vous arrivez ici.
+
+6
+00:00:13.660 --> 00:00:16.280
+Je viens de passer une commande en draft pour
+
+7
+00:00:16.370 --> 00:00:17.680
+qu'on savoir un peu data.
+
+8
+00:00:17.710 --> 00:00:20.080
+Donc vous retrouver bon des infos,
+
+9
+00:00:20.940 --> 00:00:22.480
+le recap des visites des ventes.
+
+10
+00:00:22.820 --> 00:00:25.760
+Et ici, vous avez un petit aperçu qu'on verra après dans
+
+11
+00:00:25.920 --> 00:00:29.280
+analyse de données, un petit aperçu des commandes
+
+12
+00:00:30.460 --> 00:00:35.120
+à la date que vous souhaitez et des produits deuxième
+
+13
+00:00:35.740 --> 00:00:39.000
+on anglais commande donc vous retrouver toutes les toutes
+
+14
+00:00:39.000 --> 00:00:43.080
+les commandes du site que vous avez eu date, clients, etc.
+
+15
+00:00:45.100 --> 00:00:46.600
+Les paniers abandonnés l',
+
+16
+00:00:46.600 --> 00:00:47.920
+j'en aurai pas parce que c'est un site test.
+
+17
+00:00:48.740 --> 00:00:50.240
+On retrouve les produits.
+
+18
+00:00:50.430 --> 00:00:52.000
+Donc tous les produits que vous pouvez
+
+19
+00:00:52.680 --> 00:00:55.000
+exporter importés ou ajouter manuellement,
+
+20
+00:00:55.380 --> 00:00:57.000
+je vous montrerai aussi plus tard comment,
+
+21
+00:00:57.710 --> 00:01:00.640
+comment les importer avec diserte que j'utilise pour
+
+22
+00:01:00.640 --> 00:01:02.000
+Shopify, qui est très bien fait
+
+23
+00:01:02.700 --> 00:01:06.120
+et qui est d'ailleurs un produit de l'express.
+
+24
+00:01:06.120 --> 00:01:08.200
+Donc, qui est parfaitement intégré.
+
+25
+00:01:09.980 --> 00:01:13.840
+On a bon, je vais aller sur une fich produit comme ça.
+
+26
+00:01:13.840 --> 00:01:16.640
+Je vous le montre un peu. Je ne pas vous montrer en détail
+
+27
+00:01:16.640 --> 00:01:17.800
+puisque je vous montrerais plus tard,
+
+28
+00:01:17.800 --> 00:01:20.640
+mais on on retrouve toutes les infos, le titre description,
+
+29
+00:01:21.340 --> 00:01:24.080
+on peut on peut à peu près tout faire, comme,
+
+30
+00:01:24.290 --> 00:01:25.320
+comme sur au commerce,
+
+31
+00:01:26.900 --> 00:01:29.040
+les prix avant réduction la gestion du stock,
+
+32
+00:01:29.220 --> 00:01:33.320
+ce qu'il y a eu le référencements méta et méta, description
+
+33
+00:01:34.100 --> 00:01:35.840
+les variantes qu'on peut créer.
+
+34
+00:01:35.870 --> 00:01:37.600
+Mais pareil vous montrer plus tard.
+
+35
+00:01:38.300 --> 00:01:41.160
+On a aussi les collections
+
+36
+00:01:43.460 --> 00:01:45.560
+ici que ça se passe du coup pouvait créer une collection,
+
+37
+00:01:45.890 --> 00:01:47.920
+titre, description, image.
+
+38
+00:01:49.020 --> 00:01:53.320
+On peut automatiser ou pas le fait que je ne sais pas si
+
+39
+00:01:54.860 --> 00:01:58.880
+si on a une collection qui s'appelle t-s shirt, on peut
+
+40
+00:02:01.820 --> 00:02:05.390
+inclure automatiquement tous les produits qui
+
+41
+00:02:05.630 --> 00:02:06.990
+auraient dans le nom.
+
+42
+00:02:07.580 --> 00:02:09.110
+Vous voyez, vous avez pas mal d'options
+
+43
+00:02:09.810 --> 00:02:12.670
+qui inclurait par exemple le mot tee shirt
+
+44
+00:02:13.300 --> 00:02:16.870
+dans les produits, tous les produits qui auraient tee shirt
+
+45
+00:02:17.390 --> 00:02:20.270
+seraient inclus automatiquement dans cette collection.
+
+46
+00:02:20.290 --> 00:02:24.550
+Pouvez aussi le faire manuellement. Généralement c'est bien.
+
+47
+00:02:25.520 --> 00:02:27.590
+C'est plus simple à dire d'automatisme
+
+48
+00:02:29.690 --> 00:02:30.870
+des produits dans la collection.
+
+49
+00:02:31.380 --> 00:02:32.510
+Vous avez plein d'options,
+
+50
+00:02:33.050 --> 00:02:34.710
+ça peut être pour des types de produits.
+
+51
+00:02:34.810 --> 00:02:38.710
+Ça peut être en fonction du poids du prix. Par exemple.
+
+52
+00:02:38.730 --> 00:02:40.150
+Je vous donne un exemple sur le prix.
+
+53
+00:02:41.830 --> 00:02:46.720
+Si le prix n, c'est pas comme ça que j'avais fait.
+
+54
+00:02:48.730 --> 00:02:51.670
+Je me rappelle avoir fait une collection qui a group,
+
+55
+00:02:51.770 --> 00:02:56.230
+en gros, les que les produits en rduction avaient effet avec
+
+56
+00:02:56.230 --> 00:03:00.000
+un syst me de balis rouge avait ajout sur les produits qui
+
+57
+00:03:00.000 --> 00:03:01.600
+étaient en réduction de balise promotion.
+
+58
+00:03:02.060 --> 00:03:05.920
+Et je metais que si si le produit avait une balise,
+
+59
+00:03:05.920 --> 00:03:09.920
+promotion était inclus automatiquement du coup sur mon,
+
+60
+00:03:10.700 --> 00:03:14.440
+sur mon menu, j'avais une section promotion ou
+
+61
+00:03:17.540 --> 00:03:19.000
+je ne suis pas avant de priver, par exemple.
+
+62
+00:03:19.580 --> 00:03:22.200
+Et du coup, j'avais tous les produits qui étaient en
+
+63
+00:03:22.200 --> 00:03:24.480
+réduction ou que je voulais mettre en réduction ici.
+
+64
+00:03:25.820 --> 00:03:28.160
+Bon carte cadeau, pourquoi pas?
+
+65
+00:03:28.160 --> 00:03:30.360
+Mais vous pouvez faire des cartes cadeaux.
+
+66
+00:03:31.110 --> 00:03:32.720
+Vous avez la gestion de tous les clients
+
+67
+00:03:33.460 --> 00:03:36.440
+qu'une fois qui commande, vous avez la liste des clients
+
+68
+00:03:37.520 --> 00:03:39.160
+analyse de données pour le coup.
+
+69
+00:03:39.180 --> 00:03:41.160
+Ce n'est pas très intéressant sur ce site.
+
+70
+00:03:43.010 --> 00:03:45.470
+Ce n'est pas très intéressant puisqu'il n'y a aucune data.
+
+71
+00:03:46.460 --> 00:03:50.470
+Mais bon, c'est assez. Il y a cette données dedans.
+
+72
+00:03:50.500 --> 00:03:54.790
+Vous vous verrez les ventes, les visites, le taux de clients
+
+73
+00:03:55.610 --> 00:03:58.950
+qui reviennent, le panier moyen, le taux de conversion,
+
+74
+00:03:59.930 --> 00:04:01.230
+les performances des produits.
+
+75
+00:04:02.330 --> 00:04:06.750
+Il y a tout quoi que vous avez plusieurs rapports différents
+
+76
+00:04:07.780 --> 00:04:11.390
+dans l'analyse de données à
+
+77
+00:04:11.390 --> 00:04:12.670
+fouiller en fonction de ce que vous voulez.
+
+78
+00:04:12.740 --> 00:04:15.750
+Mais généralement, l'analyse de données suffit.
+
+79
+00:04:16.050 --> 00:04:18.710
+Et encore, j'utilise plutôt que l'analytique pour
+
+80
+00:04:20.280 --> 00:04:22.610
+pouvoir des données un peu plus pertinent.
+
+81
+00:04:22.710 --> 00:04:25.770
+Du coup, vous avez un côté marketing
+
+82
+00:04:27.660 --> 00:04:31.010
+qu'on va pas spécialement voir peut être que on verra.
+
+83
+00:04:31.010 --> 00:04:34.490
+Si on fait une vidéo dessus, il est
+
+84
+00:04:35.840 --> 00:04:38.130
+pouvait faire des automatisation et des campagnes
+
+85
+00:04:38.130 --> 00:04:42.370
+directement ici, que ce soit email ou Google ou Facebook
+
+86
+00:04:42.440 --> 00:04:45.570
+vous pouvait faire pas mal de choses ici ou snap comme je
+
+87
+00:04:46.430 --> 00:04:49.290
+te reste, on pouvait tout ce qui est côté marketing qui
+
+88
+00:04:49.290 --> 00:04:50.410
+serait intégré à Shopify.
+
+89
+00:04:50.410 --> 00:04:53.970
+Donc, à peu près tout quand même pour le faire ici,
+
+90
+00:04:55.380 --> 00:04:58.330
+réduction, on peut créer des codes promos.
+
+91
+00:04:58.670 --> 00:05:02.050
+On peut aussi s'envoyer à plusieurs options.
+
+92
+00:05:02.230 --> 00:05:04.290
+On peut créer des codes promos simples.
+
+93
+00:05:04.400 --> 00:05:05.930
+Donc montant sur la réduction de produit.
+
+94
+00:05:06.390 --> 00:05:11.050
+Je pas si je n'importe quoi que je n'ai que c'est 10 %,
+
+95
+00:05:12.230 --> 00:05:13.290
+il s est bienvenu.
+
+96
+00:05:13.300 --> 00:05:17.450
+C'est 10. Je ne suis pas vous vous expliquer en détail
+
+97
+00:05:18.230 --> 00:05:20.610
+les options sur sur les codes,
+
+98
+00:05:20.920 --> 00:05:23.410
+mais peut être qu'on peut voir rapidement ce qui est
+
+99
+00:05:23.530 --> 00:05:24.890
+possible de faire, même si je connais pas tous
+
+100
+00:05:25.090 --> 00:05:28.930
+honnêtement mon temps.
+
+101
+00:05:29.670 --> 00:05:32.250
+Voilà donc là, ce serait sur un produit ou sur la commande
+
+102
+00:05:32.270 --> 00:05:34.690
+totale x pour le prix de.
+
+103
+00:05:34.920 --> 00:05:39.850
+Donc, en gros, j'imagine que si vous avez produit un 50
+
+104
+00:05:40.670 --> 00:05:42.370
+et que vous voulez qu vous,
+
+105
+00:05:42.370 --> 00:05:44.690
+vous avez une promo en disant si vous achetez ce produit,
+
+106
+00:05:44.760 --> 00:05:46.410
+vous avez 20 euros de réduction.
+
+107
+00:05:47.080 --> 00:05:49.650
+Vous pouvez le faire en fonction de tels produits
+
+108
+00:05:49.950 --> 00:05:50.970
+sur tel prix, etc.
+
+109
+00:05:51.590 --> 00:05:54.570
+Et pareil, un code sur la livraison gratuite,
+
+110
+00:05:55.410 --> 00:05:57.640
+livraison gratuite en utilisant le code.
+
+111
+00:05:57.860 --> 00:05:59.240
+Et vous pouvez faire comme ça.
+
+112
+00:06:00.900 --> 00:06:04.880
+Du coup, on arrive sur la boutique en ligne en ligne,
+
+113
+00:06:05.470 --> 00:06:07.800
+elle regroupe et ça,
+
+114
+00:06:07.800 --> 00:06:09.560
+on le verra aussi plus tard pour les thèmes,
+
+115
+00:06:10.110 --> 00:06:13.640
+mais elle regroupe le thème,
+
+116
+00:06:13.860 --> 00:06:15.360
+les articles de blog et page on gros,
+
+117
+00:06:15.360 --> 00:06:18.080
+tout ce qui est la base du site.
+
+118
+00:06:18.630 --> 00:06:21.440
+Donc les pages, la navigation, en préférence,
+
+119
+00:06:21.500 --> 00:06:24.280
+on verra après, surtout le thème, le thème pareil.
+
+120
+00:06:24.380 --> 00:06:27.200
+Je ne vais pas éterniser dessus parce que je vais le
+
+121
+00:06:27.200 --> 00:06:32.160
+présenter après je vous présenter, je dirais trois,
+
+122
+00:06:33.250 --> 00:06:36.120
+trois possibilités, voire quatre possibilités
+
+123
+00:06:37.500 --> 00:06:40.520
+de choisir un thème et lesquelles je vous recommande pour
+
+124
+00:06:40.520 --> 00:06:43.760
+Shopify en ici, vous en avez des gratuits
+
+125
+00:06:44.700 --> 00:06:46.000
+que je vous recommande pas
+
+126
+00:06:46.540 --> 00:06:49.280
+ce qui ne sont pas optimisés si haut.
+
+127
+00:06:49.280 --> 00:06:51.000
+Ils sont pas ultra rapides,
+
+128
+00:06:51.460 --> 00:06:53.440
+ils sont pas ultra personnalisables.
+
+129
+00:06:53.480 --> 00:06:56.120
+Donc je vous en parlera plus tard,
+
+130
+00:06:56.550 --> 00:06:59.920
+mais vous avez possibilité de
+
+131
+00:07:01.060 --> 00:07:02.800
+en gros quasiment dupliquer le site
+
+132
+00:07:03.470 --> 00:07:06.240
+puisque vous pouvez télécharger le fichier du thème qui fait
+
+133
+00:07:06.300 --> 00:07:08.880
+que si vous faites beaucoup de modifications de couleur de
+
+134
+00:07:09.190 --> 00:07:11.160
+code d'agencement,
+
+135
+00:07:11.390 --> 00:07:13.600
+vous pouvez le télécharger apr s le mettre sur un nouveau
+
+136
+00:07:13.600 --> 00:07:15.280
+Shopify en haut, il aura elle mame aspect
+
+137
+00:07:16.630 --> 00:07:18.770
+mis part que les produits pourraient changer ou pas
+
+138
+00:07:18.770 --> 00:07:21.890
+d'ailleurs, si on veut, je sais pas, on a,
+
+139
+00:07:21.990 --> 00:07:24.170
+on a un site faire et on veut le mettre en anglais
+
+140
+00:07:24.720 --> 00:07:25.810
+pour lui faire un sous domaine.
+
+141
+00:07:25.810 --> 00:07:26.810
+On peut créer un nouveau site,
+
+142
+00:07:27.280 --> 00:07:28.810
+dupliquer exactement la même base,
+
+143
+00:07:28.810 --> 00:07:31.210
+on télécharger le fichier du thème et
+
+144
+00:07:32.470 --> 00:07:35.250
+et finalement avoir le même site exactement pareil,
+
+145
+00:07:35.280 --> 00:07:38.090
+mais avec des produits qui seraient écrits en anglais avec
+
+146
+00:07:38.250 --> 00:07:39.890
+pourquoi pas les mêmes produits ou des produits différents.
+
+147
+00:07:41.590 --> 00:07:43.890
+On a une possibilité de modification du
+
+148
+00:07:43.890 --> 00:07:46.650
+code des langages.
+
+149
+00:07:46.710 --> 00:07:49.210
+Si on va ouvrir les langages tout de suite.
+
+150
+00:07:50.950 --> 00:07:53.170
+Si je ne sais pas, je ne sais pas comment
+
+151
+00:07:53.170 --> 00:07:54.370
+ça se passe derrière dans wordpress.
+
+152
+00:07:54.370 --> 00:07:56.570
+Moi, j'utilise locaux translate, je crois,
+
+153
+00:07:56.570 --> 00:07:59.010
+pour traduire à traductions qui ne sont pas bien,
+
+154
+00:07:59.010 --> 00:08:01.890
+faites pas bien faites ou que je changer un exemple
+
+155
+00:08:02.440 --> 00:08:07.290
+dans vous commerce, on aurait le bouton valider la commande
+
+156
+00:08:07.470 --> 00:08:10.210
+qui s'appelle terminer le paiement ou tout comme ça,
+
+157
+00:08:10.210 --> 00:08:13.170
+généralement, je passe en valider la commande ou
+
+158
+00:08:13.320 --> 00:08:14.410
+finaliser la commande.
+
+159
+00:08:14.670 --> 00:08:16.450
+Et ça, c'est quelque chose qu'on peut faire ici.
+
+160
+00:08:17.950 --> 00:08:19.970
+Voilà, vous avez toutes les modifications.
+
+161
+00:08:20.000 --> 00:08:23.090
+Donc je sais pas si on va dans checkout
+
+162
+00:08:25.910 --> 00:08:29.930
+et qu'on trouve on prendre ça en exemple.
+
+163
+00:08:31.030 --> 00:08:33.130
+Si on ne veut pas que laat tribu,
+
+164
+00:08:34.310 --> 00:08:36.170
+en gros ou entre l'email,
+
+165
+00:08:36.170 --> 00:08:38.130
+le client s'appelle l'adresse e email.
+
+166
+00:08:38.550 --> 00:08:41.090
+Et bien, on peut mettre juste email, par exemple,
+
+167
+00:08:41.800 --> 00:08:44.090
+changer la traduction vous laisse
+
+168
+00:08:44.840 --> 00:08:46.890
+vous imaginer les possibilités de
+
+169
+00:08:46.890 --> 00:08:48.130
+traduction qui sont possibles.
+
+170
+00:08:50.520 --> 00:08:52.890
+Ensuite, on a un bon article de blog.
+
+171
+00:08:52.990 --> 00:08:54.610
+Je ne vais pas m'éterniser non plus dessus,
+
+172
+00:08:54.610 --> 00:08:56.480
+mais vous pouvez créer des articles.
+
+173
+00:08:56.480 --> 00:08:59.320
+Donc ça peut les mettre dans des sections.
+
+174
+00:08:59.380 --> 00:09:02.920
+Là, vous pouvez ajouter des des blocs de blog.
+
+175
+00:09:04.020 --> 00:09:08.000
+Je ne sais pas si vous aidez un blog sur la nutrition.
+
+176
+00:09:08.000 --> 00:09:09.600
+Eh bien, il y en aurait un sur les recettes,
+
+177
+00:09:10.900 --> 00:09:15.560
+une section recette, une section santé, une section sport.
+
+178
+00:09:15.700 --> 00:09:19.720
+Je ne sais pas. Et après titre des fin, contenu
+
+179
+00:09:20.770 --> 00:09:23.120
+image référencements.
+
+180
+00:09:23.220 --> 00:09:24.240
+Je vous montrer aussi ça.
+
+181
+00:09:24.240 --> 00:09:28.200
+Plus tard suite, on arrive dans les pages.
+
+182
+00:09:28.460 --> 00:09:30.080
+Pareil, tout est, tout est fait
+
+183
+00:09:31.150 --> 00:09:33.080
+pour que ce soit très simple qu'on ait vraiment
+
+184
+00:09:33.100 --> 00:09:34.840
+pas s'y connaître.
+
+185
+00:09:35.160 --> 00:09:36.640
+Comparer à voir près.
+
+186
+00:09:36.640 --> 00:09:39.080
+Je trouve que c'est quand même beaucoup plus simple, juste
+
+187
+00:09:39.860 --> 00:09:41.040
+niveau x.
+
+188
+00:09:41.100 --> 00:09:43.840
+Du coup, si j'ajoute une page pareil,
+
+189
+00:09:43.900 --> 00:09:46.240
+on a toujours un peu les mêmes, mêmes ressemblance,
+
+190
+00:09:47.450 --> 00:09:50.800
+titre donc qui serait le hacha et pour mettre du contenu.
+
+191
+00:09:51.030 --> 00:09:55.080
+Donc le contenu on peut mettre, on peut mettre, je tester.
+
+192
+00:09:57.420 --> 00:10:00.200
+Voilà je, je peux le mettre en match de ça.
+
+193
+00:10:00.200 --> 00:10:03.840
+Je peux le mettre en trois en gras ou pas souligner.
+
+194
+00:10:04.790 --> 00:10:08.080
+Aligner centr en liste
+
+195
+00:10:08.590 --> 00:10:10.480
+vous est un peu tout ce qui est possible de faire
+
+196
+00:10:10.500 --> 00:10:11.520
+un peu comme partout.
+
+197
+00:10:12.260 --> 00:10:15.640
+Et vous avez toujours le référencements ici.
+
+198
+00:10:15.640 --> 00:10:17.880
+Vous pouvez changer méta, title, méta,
+
+199
+00:10:17.880 --> 00:10:20.840
+description et l'encre l'url du coup
+
+200
+00:10:22.770 --> 00:10:24.000
+qu'on peut modifier,
+
+201
+00:10:25.270 --> 00:10:28.840
+mais étant différent de ce qui aurait écrit ici.
+
+202
+00:10:31.270 --> 00:10:33.160
+Mais c'est pareil. Mon travail plus tard
+
+203
+00:10:34.240 --> 00:10:38.140
+sur la fich produit, navigation,
+
+204
+00:10:39.890 --> 00:10:41.980
+menu du coup, on a le menu.
+
+205
+00:10:42.360 --> 00:10:44.380
+On peut créer autant de menu qu'on veut.
+
+206
+00:10:45.160 --> 00:10:47.660
+Je vais prendre l'exemple de actualiser parce
+
+207
+00:10:47.660 --> 00:10:48.780
+que ça n'a pas l'air de marché.
+
+208
+00:10:52.000 --> 00:10:54.580
+Un exemple de pourquoi on aurait besoin de plusieurs menus
+
+209
+00:10:55.600 --> 00:10:59.660
+de base in un main qui qui sera dans le menu tout en haut
+
+210
+00:11:00.050 --> 00:11:02.420
+dans le heider finalement, et un menu de foot,
+
+211
+00:11:02.520 --> 00:11:06.460
+on peut aussi en créer d'autres qui serait,
+
+212
+00:11:06.760 --> 00:11:08.260
+par exemple, formation.
+
+213
+00:11:09.720 --> 00:11:11.060
+Bon, je n'ai pas de page ajouter.
+
+214
+00:11:11.060 --> 00:11:13.580
+Donc ça sert à rien mon exemple.
+
+215
+00:11:13.930 --> 00:11:16.380
+Mais si j'enregistre le menu,
+
+216
+00:11:17.680 --> 00:11:19.740
+si on l'utilisera plus tard pour la personnalisation,
+
+217
+00:11:20.000 --> 00:11:22.420
+on a nouveau et par exemple dans le fouteur du site.
+
+218
+00:11:22.730 --> 00:11:25.140
+Donc, tout en bas ici, on pourrait afficher
+
+219
+00:11:26.160 --> 00:11:27.660
+le premier fouteur qui pourrait être
+
+220
+00:11:28.430 --> 00:11:31.140
+celui qu'on utilise ici pour permettre à
+
+221
+00:11:31.260 --> 00:11:32.460
+utilisateur, même en bas.
+
+222
+00:11:32.570 --> 00:11:36.580
+Pour le coup, on a un leader qui descend avec.
+
+223
+00:11:36.610 --> 00:11:38.900
+Donc on n'a pas spécialement besoin sur mobile.
+
+224
+00:11:39.260 --> 00:11:41.300
+Pourquoi pas? Quoique sur mobile aussi.
+
+225
+00:11:41.300 --> 00:11:42.940
+On a, il reste en haut.
+
+226
+00:11:42.940 --> 00:11:45.060
+Donc ce ne serait pas pour vous donner exemple,
+
+227
+00:11:45.330 --> 00:11:46.700
+dans le menu du foot,
+
+228
+00:11:46.840 --> 00:11:49.540
+on pourrait ajouter deux ou trois menus différents qui
+
+229
+00:11:49.660 --> 00:11:51.780
+seraient pas les informations légales,
+
+230
+00:11:52.120 --> 00:11:54.240
+les informations du coup, le menu du site,
+
+231
+00:11:55.020 --> 00:11:56.200
+ça pourrait être d'autres information.
+
+232
+00:11:56.200 --> 00:12:00.640
+Donc l'avantage de pour faire plusieurs menus comme dans vos
+
+233
+00:12:00.800 --> 00:12:04.400
+commerces, finalement, là, on arrive un peu plus dans le
+
+234
+00:12:05.630 --> 00:12:09.000
+dans les réglages du site.
+
+235
+00:12:09.070 --> 00:12:12.560
+Donc ça, ça sera le méta title
+
+236
+00:12:13.340 --> 00:12:15.360
+du site internet fin de la home en tout cas.
+
+237
+00:12:16.190 --> 00:12:20.040
+Donc, ce qui va s'afficher sur Google, si les gens tapent
+
+238
+00:12:20.580 --> 00:12:22.920
+le nom du site exact ou
+
+239
+00:12:24.740 --> 00:12:27.000
+le nom du site du coup, ce sera le méta title, les méta,
+
+240
+00:12:27.000 --> 00:12:28.080
+description du site internet.
+
+241
+00:12:28.080 --> 00:12:31.720
+Donc ça, évidemment, ça aide au référencements en fonction
+
+242
+00:12:31.720 --> 00:12:34.840
+de sur quoi vous voulez vous positionner en mots clé,
+
+243
+00:12:35.700 --> 00:12:37.680
+pas jeter des images pour c,
+
+244
+00:12:37.680 --> 00:12:40.000
+un partage Facebook ou ou social.
+
+245
+00:12:40.900 --> 00:12:44.640
+On ajoute ici les le code analytique
+
+246
+00:12:45.630 --> 00:12:48.160
+peut être que je montre ça aussi.
+
+247
+00:12:48.160 --> 00:12:52.760
+Ce sera dans les paramétrage de Shopify.
+
+248
+00:12:52.790 --> 00:12:56.480
+Ensuite, dans une autre vidéo, pareil pixel Facebook,
+
+249
+00:12:58.330 --> 00:13:00.320
+c'est RGPD.
+
+250
+00:13:01.420 --> 00:13:04.080
+On peut limiter par un mot de passe pour qui s'évite de se
+
+251
+00:13:04.080 --> 00:13:07.560
+référencer et ou ne pas donner accès direct au site
+
+252
+00:13:08.580 --> 00:13:13.000
+ou il y a une possibilité qui est récente d'avoir
+
+253
+00:13:13.860 --> 00:13:17.240
+un site en gros accessible
+
+254
+00:13:17.770 --> 00:13:20.680
+aussi au bit tobi avec des prix it tobi, ça, je ne vais pas
+
+255
+00:13:21.660 --> 00:13:23.720
+en parler parce que ça n'a pas d'intérêt,
+
+256
+00:13:23.750 --> 00:13:26.080
+mais il y a possibilité de faire ça pour en savoir
+
+257
+00:13:26.080 --> 00:13:27.320
+plus s' plus quand du coup.
+
+258
+00:13:28.060 --> 00:13:29.640
+Et on a fait peu pr s le tour de ça,
+
+259
+00:13:29.670 --> 00:13:31.520
+voir si j'ai pas oubli un truc dans les thèmes.
+
+260
+00:13:33.260 --> 00:13:35.960
+Si par couter on va peut être faire un tour sur la
+
+261
+00:13:36.460 --> 00:13:39.520
+personnalisation qu'en gros, c'est pas montrer,
+
+262
+00:13:39.520 --> 00:13:41.240
+mais je vous montrerais plus tard, mais on peut ajouter des
+
+263
+00:13:41.240 --> 00:13:42.360
+thèmes ici.
+
+264
+00:13:42.590 --> 00:13:46.480
+Donc on l'achète, je ne sais où ou directement sur Shopify
+
+265
+00:13:47.260 --> 00:13:50.320
+ce qu'on a accès ici à la boutique de thèmes de Shopify qui
+
+266
+00:13:50.320 --> 00:13:55.280
+font des très hôtels d'ailleurs et on peut en ilo
+
+267
+00:13:56.570 --> 00:14:00.480
+l'avantage, je pense, le Shopify aussi ici,
+
+268
+00:14:01.010 --> 00:14:04.240
+c'est qu'on peut pas votre site à 10 ans,
+
+269
+00:14:05.900 --> 00:14:08.200
+il est sur un, vous avez envie de le faire.
+
+270
+00:14:08.390 --> 00:14:12.990
+Donc il est actif avec le design qui a 10 ans du coup
+
+271
+00:14:13.650 --> 00:14:17.710
+et vous souhaitez remettre à jour un peu changer de thème ou
+
+272
+00:14:18.650 --> 00:14:20.310
+ou refaire un petit peu l'agencement.
+
+273
+00:14:21.260 --> 00:14:23.870
+Vous avez deux possibilités, c'est soit bon.
+
+274
+00:14:23.870 --> 00:14:25.230
+Vous le faites direct en live, mais
+
+275
+00:14:26.280 --> 00:14:27.430
+c'est peut être pas une bonne idée.
+
+276
+00:14:27.810 --> 00:14:30.830
+Et le deuxième, c'est de soit le même thème,
+
+277
+00:14:30.830 --> 00:14:33.790
+soit si vous changez pour changer de thème,
+
+278
+00:14:34.130 --> 00:14:38.190
+des possibilités de personnaliser l'agencement, le design,
+
+279
+00:14:38.410 --> 00:14:41.110
+les couleurs, le logo, etc, sans
+
+280
+00:14:42.780 --> 00:14:43.790
+sans que ce soit actif.
+
+281
+00:14:43.860 --> 00:14:48.830
+Donc, en un peu en prévu en bake,
+
+282
+00:14:48.830 --> 00:14:51.150
+finalement, qui serait pas vu par l'utilisateur.
+
+283
+00:14:51.500 --> 00:14:53.240
+Ça c'est pas mal parce que vous pouvez faire votre travail
+
+284
+00:14:53.340 --> 00:14:55.840
+qui peut durer pas deux ou trois à sept jours.
+
+285
+00:14:56.350 --> 00:14:58.200
+Vous faites ici et ce n'est pas actif sur le site.
+
+286
+00:14:58.200 --> 00:15:01.000
+Et quand vous avez décidé de le finaliser,
+
+287
+00:15:01.070 --> 00:15:02.880
+vous faites publier à ce moment là,
+
+288
+00:15:02.880 --> 00:15:05.760
+tout se remplace et c'est le nouveau site qui sera actif.
+
+289
+00:15:05.760 --> 00:15:06.960
+Donc ça, ça peut être intéressant.
+
+290
+00:15:08.580 --> 00:15:11.440
+Je vais Montrer le code parce que j'ai montrer
+
+291
+00:15:11.440 --> 00:15:12.560
+les langages, mais pas le code.
+
+292
+00:15:12.700 --> 00:15:15.400
+Et je vais vous montrer la partie personnalisation vous
+
+293
+00:15:15.400 --> 00:15:18.000
+montre rapidement le code parce que ce n'est pas le but
+
+294
+00:15:18.980 --> 00:15:23.000
+De Vous montrer ça, mais bon, vous avez accès aux,
+
+295
+00:15:23.690 --> 00:15:27.760
+c'est coder en liquide, c'est coder en,
+
+296
+00:15:28.120 --> 00:15:29.720
+c'est pas très compliqué à comprendre.
+
+297
+00:15:29.720 --> 00:15:33.000
+Je sais pas si vous faisait des bases en programmation.
+
+298
+00:15:33.000 --> 00:15:34.480
+C'est un pas compliqué.
+
+299
+00:15:36.670 --> 00:15:39.720
+Vous êtes toutes les pages, sauf celles du check out,
+
+300
+00:15:40.300 --> 00:15:43.560
+ce qui ne sont pas modifiables dans la
+
+301
+00:15:43.560 --> 00:15:45.360
+version standard et premium.
+
+302
+00:15:45.540 --> 00:15:49.800
+En gros, il faut passer sur une version shop.
+
+303
+00:15:50.060 --> 00:15:51.060
+Je ne sais plus le nom
+
+304
+00:15:53.140 --> 00:15:54.640
+De Mémoire de 1000 par mois.
+
+305
+00:15:54.670 --> 00:15:55.670
+Donc
+
+306
+00:15:56.770 --> 00:16:00.640
+C'est pas, C'est pas dès le départ que qu'on s'occupe
+
+307
+00:16:00.640 --> 00:16:02.000
+de ça, du check out.
+
+308
+00:16:02.100 --> 00:16:03.880
+En tout cas, on ne pourra pas le modifier jusque là,
+
+309
+00:16:04.430 --> 00:16:05.880
+mais vous avez possibilité.
+
+310
+00:16:06.460 --> 00:16:08.000
+Je vous donne un exemple. Encore une fois,
+
+311
+00:16:08.660 --> 00:16:11.480
+On va trouver, Je fais un contrôle,
+
+312
+00:16:12.900 --> 00:16:14.880
+Le hacha, il n'a pas, ça
+
+313
+00:16:15.430 --> 00:16:16.960
+peut être pas dans la bonne page
+
+314
+00:16:19.710 --> 00:16:23.850
+product product. Donc, bon,
+
+315
+00:16:24.000 --> 00:16:25.570
+Pour le coup, j'ai installé un thème
+
+316
+00:16:28.320 --> 00:16:29.780
+qui n'est pas Shopify.
+
+317
+00:16:30.330 --> 00:16:34.380
+Donc il y a comme pour les connaisseurs,
+
+318
+00:16:34.380 --> 00:16:36.500
+vous voyez qu'il y a beaucoup de pages pour pas grand chose,
+
+319
+00:16:37.810 --> 00:16:40.740
+mais parce qu'il y a en gros plusieurs possibilités
+
+320
+00:16:41.910 --> 00:16:44.340
+qu'on verra juste après du coup dans la personnalisation,
+
+321
+00:16:44.800 --> 00:16:48.180
+on a des tetes de pages produits et
+
+322
+00:16:48.180 --> 00:16:49.580
+tempate de pages collection, etc.
+
+323
+00:16:49.680 --> 00:16:51.980
+Ce qui fait que ça fait beaucoup de pages de quoi?
+
+324
+00:16:51.980 --> 00:16:53.660
+Parce que j'ai juste mis products.
+
+325
+00:16:54.170 --> 00:16:55.740
+Bref, je suis pas m'éterniser, mais en gros,
+
+326
+00:16:57.240 --> 00:16:59.460
+on va aller sur le site si vous voulez.
+
+327
+00:16:59.600 --> 00:17:02.740
+Je ne sais pas que ça ça soit
+
+328
+00:17:04.160 --> 00:17:06.260
+En ho Alors que c'est ho,
+
+329
+00:17:06.450 --> 00:17:09.500
+vous pouvez le modifier dans le code si vous voulez que
+
+330
+00:17:10.560 --> 00:17:13.220
+il y en ait pas cinq ici qui s'affichent.
+
+331
+00:17:13.220 --> 00:17:16.660
+Mais quatre, ça se modifie dans le code ou dans la
+
+332
+00:17:16.660 --> 00:17:17.980
+personnalisation s'ils l'ont permis.
+
+333
+00:17:18.880 --> 00:17:20.980
+En tout cas, vous avez possibilité de modifier quelques
+
+334
+00:17:20.980 --> 00:17:22.180
+trucs dans le code si jamais besoin,
+
+335
+00:17:22.180 --> 00:17:25.220
+Mais Ou de faire appel à un développeur qui
+
+336
+00:17:25.220 --> 00:17:26.380
+pourra qui pourra le faire
+
+337
+00:17:27.210 --> 00:17:29.340
+Pour au moins, C'est montrer la
+
+338
+00:17:29.340 --> 00:17:30.860
+section, la section code,
+
+339
+00:17:33.310 --> 00:17:35.500
+L'appareil, Je pas, je ne vais pas m'éterniser,
+
+340
+00:17:35.530 --> 00:17:37.860
+mais parce que je fais un vidéo dédiée à ça,
+
+341
+00:17:38.730 --> 00:17:40.860
+mais vous avez possibilité
+
+342
+00:17:41.840 --> 00:17:45.780
+de modifier très facilement l'agencement du site.
+
+343
+00:17:46.250 --> 00:17:48.100
+Donc là, on est sur la page d'accueil, mais
+
+344
+00:17:49.100 --> 00:17:53.040
+on va aller sur la page produit qui est
+
+345
+00:17:53.700 --> 00:17:56.320
+qui est de base avec ce thème là pour le coup,
+
+346
+00:17:58.470 --> 00:17:59.600
+vous avez plusieurs options.
+
+347
+00:17:59.600 --> 00:18:01.640
+Donc là, on a toujours accès aux leader en foot
+
+348
+00:18:03.060 --> 00:18:04.840
+qui sont des paramètres un peu généraux.
+
+349
+00:18:04.840 --> 00:18:08.680
+Donc si vous le modifier là, ça se modifiera un peu partout,
+
+350
+00:18:08.870 --> 00:18:12.000
+mais vous avez aussi voyez entre les petits réussis,
+
+351
+00:18:12.420 --> 00:18:16.000
+les paramètres de la page produit que j'ai choisi du coup
+
+352
+00:18:16.660 --> 00:18:20.960
+la possibilité avec ce thème, encore une fois, de modifier
+
+353
+00:18:22.500 --> 00:18:26.800
+les les comme on appelle saint français les,
+
+354
+00:18:27.140 --> 00:18:29.640
+on va dire les tables si vous voulez,
+
+355
+00:18:30.340 --> 00:18:32.480
+je ne sais pas mettre tel contenu dans la description.
+
+356
+00:18:33.300 --> 00:18:36.560
+Si vous pouvez mettre un code pour afficher la description
+
+357
+00:18:36.660 --> 00:18:41.000
+du produit ici, vous avez possibilité de rajouter un petit
+
+358
+00:18:41.000 --> 00:18:43.200
+peu n'importe quoi, mais là, ils ont mis des bons exemples.
+
+359
+00:18:43.200 --> 00:18:45.280
+Je pense que review shipping.
+
+360
+00:18:45.280 --> 00:18:46.880
+Donc du coup ça pour le coup,
+
+361
+00:18:46.880 --> 00:18:48.120
+ça sur toutes les fiches produits,
+
+362
+00:18:49.300 --> 00:18:52.160
+des conditions de livraison et de retour, etc.
+
+363
+00:18:53.420 --> 00:18:55.240
+Et vous avez possibilité de modifier un peu
+
+364
+00:18:55.240 --> 00:18:56.480
+tout pour le coup.
+
+365
+00:18:56.500 --> 00:18:59.440
+Ce n'est pas personnalisable à 100 % parce
+
+366
+00:18:59.440 --> 00:19:00.560
+que c'est les options du thème.
+
+367
+00:19:00.830 --> 00:19:03.320
+Vous pouvez honnêtement,
+
+368
+00:19:03.440 --> 00:19:06.240
+avec les options qui fournissent surtout ce genre de thème,
+
+369
+00:19:06.530 --> 00:19:07.720
+faire un peu ce que vous voulez
+
+370
+00:19:08.860 --> 00:19:10.080
+en fonction du thème que vous choisi.
+
+371
+00:19:10.220 --> 00:19:14.080
+Je vous laisserai bidouiller fouiller un petit peu ce qui
+
+372
+00:19:14.080 --> 00:19:18.120
+propose en option et et faire en fonction pour que ce soit
+
+373
+00:19:18.220 --> 00:19:20.680
+au mieux de ce que vous souhaitez, mais
+
+374
+00:19:21.550 --> 00:19:26.040
+vous avez possibilité est ce qu'on le voit ici
+
+375
+00:19:26.270 --> 00:19:30.590
+peut être pas non,
+
+376
+00:19:30.610 --> 00:19:31.750
+il n'y a pas de,
+
+377
+00:19:34.490 --> 00:19:37.910
+il n'y a pas de possibilité d'afficher autrement.
+
+378
+00:19:37.910 --> 00:19:39.870
+Normalement, on a des templates, mais pas dans ce système.
+
+379
+00:19:39.870 --> 00:19:44.110
+Apparemment, je retourne vite fait sur la page d'accueil
+
+380
+00:19:44.780 --> 00:19:49.150
+pour montrer un petit, un petit truc.
+
+381
+00:19:50.090 --> 00:19:53.110
+Si je suis sûr là, je clique sur cette section du coup,
+
+382
+00:19:53.110 --> 00:19:56.230
+j'ai toutes les options ici ou on peut ajouter plein de
+
+383
+00:19:56.230 --> 00:19:58.550
+choses et on peut choisir quelle collection va s'afficher
+
+384
+00:19:58.610 --> 00:20:01.270
+ici, peut changer la collection de changer de titre.
+
+385
+00:20:01.290 --> 00:20:02.710
+On peut mettre un bouton, une description.
+
+386
+00:20:03.770 --> 00:20:06.510
+Encore une fois, je vous laisserais fouiller en fonction du
+
+387
+00:20:06.510 --> 00:20:08.190
+thème pour ajouter des sections.
+
+388
+00:20:08.580 --> 00:20:12.550
+Donc, en fonction des thèmes, on a des sections prédéfinies,
+
+389
+00:20:12.550 --> 00:20:15.830
+en gros, des template de sections préfète.
+
+390
+00:20:16.610 --> 00:20:20.390
+Je prends exemple un aller à vie.
+
+391
+00:20:20.390 --> 00:20:24.070
+Par exemple, on allait on ajouter cette section,
+
+392
+00:20:24.530 --> 00:20:25.550
+on a des sous blocs.
+
+393
+00:20:25.550 --> 00:20:27.950
+Donc on a des réglages générales pour les avis,
+
+394
+00:20:27.980 --> 00:20:29.550
+pour la nouvelle section qu'on a ajouté.
+
+395
+00:20:29.730 --> 00:20:32.470
+On a aussi des réglages, pas beaucoup, mais pour
+
+396
+00:20:33.010 --> 00:20:35.310
+les avis qu'on pourrait ajouter et on peut en rajouter un
+
+397
+00:20:35.310 --> 00:20:38.190
+plus si on veut vous modifier,
+
+398
+00:20:39.390 --> 00:20:40.910
+modifier un peu tout dans les options.
+
+399
+00:20:41.860 --> 00:20:44.310
+Mais bon, j'y reviendrai plus tard parce qu'il y a
+
+400
+00:20:44.310 --> 00:20:45.390
+beaucoup à dire là dessus.
+
+401
+00:20:46.690 --> 00:20:50.440
+Moi, j'ai montré le côté personnalisation, on va finir
+
+402
+00:20:51.500 --> 00:20:55.160
+par les applications, les applications
+
+403
+00:20:56.190 --> 00:21:00.690
+ou vous avez affiché autrement depuis pas longtemps avant
+
+404
+00:21:00.690 --> 00:21:04.930
+vous aviez une page qui s'ouvrait ce qui n'est plus le cas,
+
+405
+00:21:05.520 --> 00:21:08.930
+mais on a l'option de paramètres ici qui me permet de voir
+
+406
+00:21:08.950 --> 00:21:13.050
+la liste des options à des applications et
+
+407
+00:21:13.720 --> 00:21:15.930
+d'en rajouter, personnaliser la boutique
+
+408
+00:21:16.840 --> 00:21:18.690
+dans le menu application.
+
+409
+00:21:18.690 --> 00:21:20.690
+Et on arrive sur, en gros,
+
+410
+00:21:23.470 --> 00:21:26.050
+le LP store, pas comment l'appeler,
+
+411
+00:21:26.050 --> 00:21:28.090
+mais ou l store en Shopify
+
+412
+00:21:28.630 --> 00:21:31.730
+ou vous avez toutes les toutes les appli possibles
+
+413
+00:21:33.230 --> 00:21:35.730
+et inimaginable parce qu'il y a vraiment de tout.
+
+414
+00:21:36.480 --> 00:21:37.610
+Vous avez des recommandés.
+
+415
+00:21:37.610 --> 00:21:40.770
+Pouvez, je pense qu'il y a une section un peu catégorie
+
+416
+00:21:40.770 --> 00:21:45.490
+quelque part, j'imagine, par objectif
+
+417
+00:21:46.630 --> 00:21:48.290
+ou parcourir toutes les applications.
+
+418
+00:21:48.290 --> 00:21:52.130
+Et là vous avez ce pas, vous cherchez pour la conversion
+
+419
+00:21:53.190 --> 00:21:54.850
+après vous chercher du gratuit.
+
+420
+00:21:55.110 --> 00:21:57.970
+Hélas, ça vous propose quelques trucs en fonction des notes
+
+421
+00:21:57.970 --> 00:22:00.410
+et tout ça vous de de voir pareil jour.
+
+422
+00:22:00.430 --> 00:22:03.370
+Je vous proposerais des une liste
+
+423
+00:22:04.040 --> 00:22:06.130
+d'application qu'on verra plus tard que je
+
+424
+00:22:06.130 --> 00:22:08.170
+recommande moins de base.
+
+425
+00:22:08.230 --> 00:22:12.370
+Et quelques quelques appli intéressantes à mettre dessus,
+
+426
+00:22:16.390 --> 00:22:19.170
+on va, on a fait tour des appuis du coup
+
+427
+00:22:19.170 --> 00:22:20.210
+on va dans les paramètres.
+
+428
+00:22:20.330 --> 00:22:21.890
+Alors là, je vais essayer de faire un peu plus rapide
+
+429
+00:22:23.280 --> 00:22:25.090
+pour finir, parce qu'on a,
+
+430
+00:22:25.950 --> 00:22:29.250
+je fais toute une vidéo sur sur ça.
+
+431
+00:22:29.840 --> 00:22:32.970
+Donc je vous ai juste montré comment y accéder.
+
+432
+00:22:32.970 --> 00:22:35.730
+Donc on a un bouton paramètre tout en bas à gauche.
+
+433
+00:22:36.430 --> 00:22:38.570
+Et si vous avez toute une liste de paramètres
+
+434
+00:22:40.070 --> 00:22:43.010
+et ça fera partie d'une autre vidéo,
+
+435
+00:22:44.590 --> 00:22:45.610
+je pense que j'ai fait le tour.

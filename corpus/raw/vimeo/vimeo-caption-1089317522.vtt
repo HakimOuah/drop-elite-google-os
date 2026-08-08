@@ -1,0 +1,1265 @@
+WEBVTT
+
+1
+00:00:00.330 --> 00:00:02.840
+Salut, nous allons voir du coup dans cette vidéo comment
+
+2
+00:00:02.840 --> 00:00:05.680
+installer une extension de référence naturelles et comment
+
+3
+00:00:05.680 --> 00:00:07.760
+l'utiliser, la connecter à la Serge console, etc.
+
+4
+00:00:08.060 --> 00:00:09.440
+Et faire les bonnes configurations,
+
+5
+00:00:09.440 --> 00:00:12.560
+justement avancer pour avoir une bonne technique sur le site
+
+6
+00:00:12.740 --> 00:00:15.200
+sur Warp presse, on conseille souvent yo stio.
+
+7
+00:00:15.200 --> 00:00:17.520
+Malheureusement, c'est plus plugin que
+
+8
+00:00:17.520 --> 00:00:18.560
+je vous recommanderai aujourd'hui.
+
+9
+00:00:18.860 --> 00:00:20.800
+Nos sein de l'agence en utiliseront que mal pour plusieurs
+
+10
+00:00:20.800 --> 00:00:22.240
+raisons, parce qu'il est plus léger.
+
+11
+00:00:22.500 --> 00:00:24.400
+Et au final, il y a des fonctionnalités assez
+
+12
+00:00:24.400 --> 00:00:25.840
+avancées qui sont très intéressantes.
+
+13
+00:00:25.860 --> 00:00:27.400
+Du coup, je vais faire avec vous sur un
+
+14
+00:00:27.400 --> 00:00:28.480
+nouveau site qu'on est en train à construire.
+
+15
+00:00:28.480 --> 00:00:30.200
+On n'est pas spécialement fan du site. Voilà.
+
+16
+00:00:30.200 --> 00:00:32.000
+Mais encore une fois, on vous cachera dans cette formation.
+
+17
+00:00:32.310 --> 00:00:35.200
+Donc moi, je vais tout simplement télécharger rock math.
+
+18
+00:00:35.200 --> 00:00:37.000
+Donc rock math pro, bien sûr,
+
+19
+00:00:37.000 --> 00:00:38.640
+fait l'investissement du plugin.
+
+20
+00:00:38.710 --> 00:00:40.280
+Vous avez une version gratuite, mais bon,
+
+21
+00:00:40.300 --> 00:00:42.160
+je vous invite surtout à l'acheter et surtout qu'il n'est
+
+22
+00:00:42.160 --> 00:00:44.520
+pas, il n'est pas très chef au vu de la qualité de
+
+23
+00:00:44.520 --> 00:00:47.000
+l'extension, c'est un investissement à faire.
+
+24
+00:00:47.000 --> 00:00:49.880
+Absolument. Donc je vais suivre du coup
+
+25
+00:00:50.540 --> 00:00:53.040
+les étapes pour installer qu'on va aller dans la
+
+26
+00:00:53.200 --> 00:00:54.560
+configuration hop.
+
+27
+00:00:54.630 --> 00:00:56.400
+Normalement, ça sens automatiquement,
+
+28
+00:00:56.400 --> 00:00:58.000
+je pense qu'il a déjà dû être installé.
+
+29
+00:00:58.270 --> 00:01:00.080
+Donc on va commencer la configuration.
+
+30
+00:01:00.080 --> 00:01:03.800
+Donc vous allez cliquer sur adv et on va lancer l'assistant.
+
+31
+00:01:05.030 --> 00:01:06.240
+Donc votre site, voilà.
+
+32
+00:01:06.310 --> 00:01:07.960
+Vous mettez bien boutique en ligne,
+
+33
+00:01:08.080 --> 00:01:10.960
+organisation dans l'entreprise pour un,
+
+34
+00:01:11.210 --> 00:01:12.360
+c'est un autre site à nous.
+
+35
+00:01:13.420 --> 00:01:17.240
+Hop, on va mettre miss qui mono partage réseaux sociaux,
+
+36
+00:01:20.190 --> 00:01:21.520
+Connecter les services Google.
+
+37
+00:01:21.590 --> 00:01:23.400
+Donc ça, on va connecter la Serge console.
+
+38
+00:01:40.520 --> 00:01:42.260
+Là, il mouline un peu parce qu'il est en train
+
+39
+00:01:42.260 --> 00:01:43.340
+de chercher le site.
+
+40
+00:01:43.340 --> 00:01:44.740
+Je dois avoir plein de sages. Consoles.
+
+41
+00:01:44.740 --> 00:01:46.940
+Voilà, vous mettez contenté statistique.
+
+42
+00:01:47.740 --> 00:01:49.420
+Alors vous pouvez l'utiliser, non,
+
+43
+00:01:49.420 --> 00:01:51.580
+on utilisez un autre plugin un peu plus performant.
+
+44
+00:01:51.580 --> 00:01:54.100
+Si vous n'avez pas les moyens d'installer un guide,
+
+45
+00:01:54.250 --> 00:01:55.540
+vous pouvez très bien connecter ici.
+
+46
+00:01:55.610 --> 00:01:58.420
+Mais voilà moi, je ne vais pas activer.
+
+47
+00:01:58.420 --> 00:01:59.780
+Je vais désactiver les rapports par mail
+
+48
+00:01:59.780 --> 00:02:00.940
+parce que, bon, je suis pas intéressé.
+
+49
+00:02:00.940 --> 00:02:02.420
+Mais si vous vous êtes intéressé,
+
+50
+00:02:02.420 --> 00:02:04.540
+n'hésitez pas à cliquer sur les rapports par mail,
+
+51
+00:02:05.080 --> 00:02:06.380
+les plans du site, c'est très important.
+
+52
+00:02:06.380 --> 00:02:07.900
+Donc, bien sûr, on va activer les plans du site.
+
+53
+00:02:08.100 --> 00:02:09.980
+Alors là, on va choisir bien les plans du site.
+
+54
+00:02:09.980 --> 00:02:11.660
+Donc nous, ce qui nous intéresse, c'est les articles
+
+55
+00:02:11.850 --> 00:02:12.900
+page d'atterrissage.
+
+56
+00:02:12.900 --> 00:02:14.620
+Donc ça, c'est li alimentant des actifs.
+
+57
+00:02:14.620 --> 00:02:16.980
+On s'en fiche les pages. Oui, les produits. Oui.
+
+58
+00:02:16.980 --> 00:02:18.020
+Listing, non.
+
+59
+00:02:18.020 --> 00:02:21.180
+Catégorie catégories de produits, New site map, non vidéo,
+
+60
+00:02:21.180 --> 00:02:22.820
+site map, pas moins que vous êtes ainsi de news,
+
+61
+00:02:22.930 --> 00:02:25.540
+mais ce n'est pas le cas archives de catégorie et
+
+62
+00:02:25.540 --> 00:02:26.740
+d'étiquettes vite, non index.
+
+63
+00:02:27.140 --> 00:02:28.740
+Alors ça, c'est à double tranchant.
+
+64
+00:02:28.740 --> 00:02:30.300
+C'est à dire que si vous faites des erreurs,
+
+65
+00:02:30.300 --> 00:02:31.700
+ça vous permet automatiquement.
+
+66
+00:02:31.800 --> 00:02:33.820
+Si vous créez des CS, que voulez rempli, remplacez jamais.
+
+67
+00:02:33.820 --> 00:02:37.420
+Ça vous permet. Voilà de les mettre en nos index pour pour
+
+68
+00:02:37.420 --> 00:02:39.460
+améliorer le si mais si d'un autre côté,
+
+69
+00:02:39.480 --> 00:02:40.740
+voilà, vous faites des cé.
+
+70
+00:02:40.740 --> 00:02:41.860
+Vous vous attendez quelques
+
+71
+00:02:41.860 --> 00:02:42.980
+jours après avoir afi des produits.
+
+72
+00:02:42.980 --> 00:02:44.700
+C'est un peu, donc nous, on va le désactiver.
+
+73
+00:02:45.050 --> 00:02:46.380
+Mais encore une fois, vous pouvez laisser
+
+74
+00:02:46.380 --> 00:02:47.420
+vous faut comprendre ce que vous faites.
+
+75
+00:02:47.760 --> 00:02:49.500
+Si vous avez tendance à oublier que vous mettez des
+
+76
+00:02:49.500 --> 00:02:51.380
+catégories vides, laissez le activer,
+
+77
+00:02:51.380 --> 00:02:53.740
+sinon des activ là exter nos follow, non?
+
+78
+00:02:53.740 --> 00:02:55.900
+Parce que bon, on n'a pas besoin
+
+79
+00:02:55.960 --> 00:02:57.100
+de mettre les liens à nos follow.
+
+80
+00:02:57.100 --> 00:02:58.580
+Donc les liens, nos follow, c'est tout simplement,
+
+81
+00:02:58.650 --> 00:03:01.880
+vous n'allez pas donner votre jus si aussi,
+
+82
+00:03:01.880 --> 00:03:05.120
+ou vous allez poser le lien, on s'en fiche d'activer cette
+
+83
+00:03:05.120 --> 00:03:07.240
+option, ouvrir le lien dans un nouvel anglais.
+
+84
+00:03:07.380 --> 00:03:10.360
+Ça peut être très sympa automatiquement qui nous le
+
+85
+00:03:10.360 --> 00:03:12.080
+fasse du coup.
+
+86
+00:03:12.080 --> 00:03:13.280
+Voilà. Là, on va cliquer maintenant sur
+
+87
+00:03:13.440 --> 00:03:14.600
+configuration des options avancées.
+
+88
+00:03:15.300 --> 00:03:17.880
+Je gestion l'air de rôle. Donc ça c'est pour créer les rôles
+
+89
+00:03:17.880 --> 00:03:21.080
+au niveau de votre, de vos autres utilisateurs.
+
+90
+00:03:21.080 --> 00:03:24.600
+On va passer, on va laisser tel quel 404 directions.
+
+91
+00:03:24.600 --> 00:03:27.760
+Donc on va activer les surveillances 404 et bien entendu,
+
+92
+00:03:27.780 --> 00:03:30.920
+les redirection et bal l'age du schéma.
+
+93
+00:03:30.920 --> 00:03:33.080
+Normalement, voilà. Vous allez articles pour les articles de
+
+94
+00:03:33.080 --> 00:03:36.800
+blog et vous allez avoir produit type de schéma pour les
+
+95
+00:03:36.800 --> 00:03:38.680
+produits produits et le reste normalement, on est bon.
+
+96
+00:03:39.550 --> 00:03:40.600
+Donc on va enregistrer.
+
+97
+00:03:41.780 --> 00:03:44.560
+Et maintenant on va voir la configuration avancée qui
+
+98
+00:03:44.560 --> 00:03:45.840
+vous intéresse beaucoup.
+
+99
+00:03:46.030 --> 00:03:48.800
+Donc on va aller déjà dans réglages per malien.
+
+100
+00:03:49.000 --> 00:03:50.240
+Alors on va vérifier quelque chose.
+
+101
+00:03:50.240 --> 00:03:51.480
+Normalement par défaut sur votre
+
+102
+00:03:51.480 --> 00:03:52.560
+presse, il les met correctement.
+
+103
+00:03:52.750 --> 00:03:55.480
+Mais moi, j'ai déjà vu certains hébergeurs faire ça,
+
+104
+00:03:55.620 --> 00:03:57.680
+ce que je suis en train de faire par rapport à avoir presse.
+
+105
+00:03:57.750 --> 00:03:59.440
+Vous pouvez le faire également sur Shopify.
+
+106
+00:03:59.440 --> 00:04:00.520
+Il existe des extensions.
+
+107
+00:04:00.520 --> 00:04:02.240
+Encore une fois, je ne suis pas expert Shopify,
+
+108
+00:04:02.470 --> 00:04:04.640
+mais l'objectif étant d'avoir des permanents de qualité.
+
+109
+00:04:04.700 --> 00:04:06.440
+Je vais vous montrer juste ça dans un instant.
+
+110
+00:04:06.540 --> 00:04:08.920
+Qu'est ce que c'est? Donc structure personnalisée.
+
+111
+00:04:08.920 --> 00:04:10.120
+Moi, je vous invite pour les articles de blog
+
+112
+00:04:10.120 --> 00:04:11.280
+à mettre flash blog, flash post.
+
+113
+00:04:11.280 --> 00:04:12.760
+Ne ça va dépendre du nombre d'articles.
+
+114
+00:04:12.860 --> 00:04:14.400
+Encore une fois, des experts ici,
+
+115
+00:04:14.400 --> 00:04:16.920
+on me diront que ce n'est pas le père plus optimisé.
+
+116
+00:04:17.150 --> 00:04:18.920
+Mais encore une fois, non, on fait du 80 20.
+
+117
+00:04:19.180 --> 00:04:21.880
+Je vous recommande du coup cette configuration préfixe des
+
+118
+00:04:21.880 --> 00:04:24.920
+catégories produits, la catégorie tiré produit at étiquette.
+
+119
+00:04:24.920 --> 00:04:27.000
+Vous pouvez soit étiquette, soit attribue sans sans fiche,
+
+120
+00:04:27.070 --> 00:04:28.640
+mais c'est surtout ça qui nous intéresse.
+
+121
+00:04:28.640 --> 00:04:31.520
+Base personnalisée slash produit, slash
+
+122
+00:04:32.030 --> 00:04:34.800
+pour centage product tiré du ba quatre pourcentage de
+
+123
+00:04:34.800 --> 00:04:36.680
+mettrait à la limite dans votre module de formation.
+
+124
+00:04:36.680 --> 00:04:38.200
+Comme ça, vous ne pourrez plus copier coller.
+
+125
+00:04:38.760 --> 00:04:40.640
+Pourquoi est donc vérifier que c'est bien enregistré comme
+
+126
+00:04:40.640 --> 00:04:41.680
+ça, l'objectif.
+
+127
+00:04:41.680 --> 00:04:42.640
+Donc je vous montrer. Donc
+
+128
+00:04:42.640 --> 00:04:43.640
+c'est un site qui est en construction.
+
+129
+00:04:44.780 --> 00:04:46.040
+On ne sait pas si on va le lancer.
+
+130
+00:04:46.040 --> 00:04:48.000
+La niche est bien mon galère, un pas avec les photos.
+
+131
+00:04:48.000 --> 00:04:48.800
+On n'a pas beaucoup de temps. On
+
+132
+00:04:48.800 --> 00:04:50.000
+aimerait faire des jolies photos.
+
+133
+00:04:50.230 --> 00:04:54.480
+Mais l'idée, c'est que vous ayez du coup dans votre URL,
+
+134
+00:04:54.480 --> 00:04:57.400
+vous voyez slash ki mono, femme slash ki mono.
+
+135
+00:04:58.470 --> 00:05:01.320
+Contrairement à certains Shopify ou au commerce de base,
+
+136
+00:05:01.320 --> 00:05:04.600
+vous allez souvent slash collection slash ki mono femme ou
+
+137
+00:05:04.600 --> 00:05:05.920
+sur quand vous cliquez sur un produit,
+
+138
+00:05:06.070 --> 00:05:10.480
+vous avez slash produit slash cardigan kimono était fin.
+
+139
+00:05:11.160 --> 00:05:12.600
+Pourquoi est ce que Shopify et
+
+140
+00:05:12.600 --> 00:05:13.760
+vos commerces font ça par défaut?
+
+141
+00:05:14.240 --> 00:05:16.120
+Alors que ce n'est pas le plus optimisé de pas de vue.
+
+142
+00:05:16.180 --> 00:05:19.600
+Si c'est tout simplement pour éviter les bugs, pourquoi?
+
+143
+00:05:19.610 --> 00:05:22.320
+Parce que en utilisant ce qu'on va voir juste après,
+
+144
+00:05:22.320 --> 00:05:25.280
+il faut faire super attention de ne pas créer des
+
+145
+00:05:25.350 --> 00:05:28.400
+redirection si involontaire qui pourrait
+
+146
+00:05:28.730 --> 00:05:29.960
+nuire et casser vos ions.
+
+147
+00:05:30.660 --> 00:05:32.640
+Je vous explique ça dans un instant, mais c'est pour ça,
+
+148
+00:05:32.640 --> 00:05:34.360
+en gros que vous comprenez pourquoi Shopify et
+
+149
+00:05:34.360 --> 00:05:35.480
+au commerce ne le mette pas de base.
+
+150
+00:05:35.710 --> 00:05:37.080
+Donc, pour activer cette option,
+
+151
+00:05:37.460 --> 00:05:39.280
+ça a être dû activer parce que j'ai déjà dû
+
+152
+00:05:39.630 --> 00:05:40.680
+toucher à ce rank.
+
+153
+00:05:41.310 --> 00:05:45.240
+Vous allez dans réglages généraux, vous allez dans le lien,
+
+154
+00:05:45.390 --> 00:05:47.680
+vous allez cliquer sur retirer la base de la catégorie.
+
+155
+00:05:48.300 --> 00:05:50.760
+Ok, ensuite, dans beau commerce, vous avez c,
+
+156
+00:05:50.760 --> 00:05:52.120
+cliqué sur retirer la base et
+
+157
+00:05:52.120 --> 00:05:53.360
+supprimer la base de catégorie.
+
+158
+00:05:53.580 --> 00:05:54.840
+Encore une fois, sur Shopify,
+
+159
+00:05:54.840 --> 00:05:56.560
+vous avez des extensions qui permettent de faire exactement
+
+160
+00:05:56.560 --> 00:05:58.640
+la même chose du coup pour vous expliquer comment
+
+161
+00:05:58.660 --> 00:05:59.760
+un bug pourrait apparaître.
+
+162
+00:05:59.760 --> 00:06:02.200
+Et ce bug existe à la fois sur vos commerces et à la fois
+
+163
+00:06:02.200 --> 00:06:03.880
+sur Shopify, en utilisant ce système,
+
+164
+00:06:04.830 --> 00:06:08.080
+imaginons que du coup vous, on va à partir de notre produit.
+
+165
+00:06:08.150 --> 00:06:09.560
+Donc vous avez fait un kimono,
+
+166
+00:06:09.560 --> 00:06:12.600
+femme qui mono femme et ça un cardiant qui mono femme,
+
+167
+00:06:13.300 --> 00:06:16.840
+si vous avez un produit qui s'appelle kimo femme et que vous
+
+168
+00:06:16.870 --> 00:06:18.160
+avez le père malien.
+
+169
+00:06:18.160 --> 00:06:20.240
+Donc le père qui l'url de votre produit,
+
+170
+00:06:20.500 --> 00:06:21.920
+qui est également kimo femme,
+
+171
+00:06:22.380 --> 00:06:25.360
+si vous avez appelé du coup votre produit, juste kimo femme,
+
+172
+00:06:25.360 --> 00:06:27.880
+forcément son per man aura écrit ki mon femme,
+
+173
+00:06:28.170 --> 00:06:30.360
+votre catégorie, c'est kimo femme.
+
+174
+00:06:30.380 --> 00:06:32.760
+Ça va créer un bug. Quand vous cliquez sur la catégorie,
+
+175
+00:06:32.760 --> 00:06:34.560
+vous serez automatiquement rediriger vers le
+
+176
+00:06:34.560 --> 00:06:35.640
+produit et sa casse vo.
+
+177
+00:06:36.370 --> 00:06:38.200
+C'est pour ça que cette option n'est,
+
+178
+00:06:38.380 --> 00:06:41.680
+je suppose que c'est une des raisons de pourquoi Shopify au
+
+179
+00:06:41.880 --> 00:06:45.760
+commerce dé active cette option par défaut et vous laisse
+
+180
+00:06:45.760 --> 00:06:49.520
+bien un slash collection slash produit, slash, machin, etc.
+
+181
+00:06:49.700 --> 00:06:52.040
+Par contre se passe qu' le plus optimisé d'un point de vue.
+
+182
+00:06:52.470 --> 00:06:54.320
+Donc, voici encore une configuration utilisée.
+
+183
+00:06:54.320 --> 00:06:56.480
+Si vous voulez vraiment faire les choses correctement,
+
+184
+00:06:57.980 --> 00:06:59.800
+on va retourner sur nos réglages.
+
+185
+00:07:00.560 --> 00:07:02.040
+Alors surveillance 404 moi,
+
+186
+00:07:02.040 --> 00:07:03.280
+je vous invite bien sûr à l'activer.
+
+187
+00:07:03.280 --> 00:07:05.240
+Donc, si ce n'est pas activé à aller dans le tableau de
+
+188
+00:07:05.240 --> 00:07:07.000
+bord, ça va vous permettre de voir les erreurs.
+
+189
+00:07:07.000 --> 00:07:09.920
+Donc, bien sûr, activer les 404 MP.
+
+190
+00:07:09.920 --> 00:07:11.200
+On n'a pas besoin statistiques,
+
+191
+00:07:11.450 --> 00:07:13.120
+c'est pour avoir les données de la ser console.
+
+192
+00:07:13.140 --> 00:07:14.160
+Ça peut être très intéressant,
+
+193
+00:07:14.580 --> 00:07:16.160
+est si image, on va le faire ensemble.
+
+194
+00:07:16.160 --> 00:07:17.800
+Ça n'a pas pas été fait. Donc c'est pour automatiquement
+
+195
+00:07:17.900 --> 00:07:21.680
+mettre les noms d'images tout simplement de mettre bien les
+
+196
+00:07:21.680 --> 00:07:23.600
+balises haltes et les balises.
+
+197
+00:07:24.870 --> 00:07:27.040
+Donc ça, on va le voir dans la partie contenue un plus en
+
+198
+00:07:27.040 --> 00:07:29.120
+détail, comment remplir des balises, halte,
+
+199
+00:07:29.120 --> 00:07:30.200
+mais en tout cas, on va pouvoir,
+
+200
+00:07:30.500 --> 00:07:32.000
+si vous les remplissez pas ou si vous les
+
+201
+00:07:32.160 --> 00:07:33.280
+oubliez les activer.
+
+202
+00:07:33.460 --> 00:07:36.280
+Moi, je vous vous invite non pas à mettre du coup le truc
+
+203
+00:07:36.280 --> 00:07:38.520
+par défaut, mais de mettre le titre de la publication.
+
+204
+00:07:38.680 --> 00:07:39.680
+Alors je vais essayer de le trouver. Je ne
+
+205
+00:07:39.680 --> 00:07:40.360
+le connais pas par cœur.
+
+206
+00:07:40.690 --> 00:07:43.400
+Titre de publication hop, title.
+
+207
+00:07:43.980 --> 00:07:47.440
+Je crois qu'il y a également des variations ou catégories
+
+208
+00:07:47.910 --> 00:07:49.320
+catégories de la publication.
+
+209
+00:07:49.320 --> 00:07:51.720
+Ça peut être pas mal. Je vais mettre catégorie title.
+
+210
+00:07:52.220 --> 00:07:53.800
+Ça va me permettre de remplir
+
+211
+00:07:53.830 --> 00:07:55.440
+directement pareil pour la baliste.
+
+212
+00:07:55.440 --> 00:07:56.720
+Cette fois ci, on va juste mettre title.
+
+213
+00:07:57.420 --> 00:08:01.520
+On va juste mettre title. Et puis on est pas mal.
+
+214
+00:08:01.980 --> 00:08:03.440
+Hop, on va se regarder les modifications.
+
+215
+00:08:03.440 --> 00:08:05.200
+Encore une fois, c'est pas ce qu' de plus optimisé,
+
+216
+00:08:05.200 --> 00:08:07.000
+mais ça vous vous permet, au moins si vous,
+
+217
+00:08:07.420 --> 00:08:10.520
+si vous oubliez de mettre les balises haltes les balise s,
+
+218
+00:08:10.520 --> 00:08:12.320
+on va le voir dans la partie contenue, au moins,
+
+219
+00:08:12.320 --> 00:08:14.360
+vous avez un système automatique qui vous permet de les
+
+220
+00:08:14.360 --> 00:08:15.400
+remplir outway master.
+
+221
+00:08:15.550 --> 00:08:18.440
+Donc ça, c'est tout simplement pour connecter votre nom de
+
+222
+00:08:18.440 --> 00:08:20.880
+domaine, pour mettre ici, pour simplifier robot, texter.
+
+223
+00:08:20.880 --> 00:08:24.120
+Il y a des optimisation. Si encore une fois ça,
+
+224
+00:08:24.650 --> 00:08:26.680
+c'est spécifique à votre niche, mais effectivement,
+
+225
+00:08:26.700 --> 00:08:30.360
+il est normalement votre hébergeur ou se plugin vous
+
+226
+00:08:30.360 --> 00:08:31.440
+met déjà une pré configuration.
+
+227
+00:08:31.440 --> 00:08:33.640
+Comme vous pouvez le voir, il désactive les
+
+228
+00:08:34.020 --> 00:08:35.120
+les outils d'administration.
+
+229
+00:08:35.120 --> 00:08:37.520
+Donc voilà. Mais ça, c'est plutôt des outils avancés.
+
+230
+00:08:37.750 --> 00:08:40.080
+Ensuite, dans autant, sans fiche dans au commerce.
+
+231
+00:08:40.080 --> 00:08:41.520
+On a déjà vu dans brand,
+
+232
+00:08:41.940 --> 00:08:44.680
+si vous avez du coup des si vous êtes un revendeur de
+
+233
+00:08:44.680 --> 00:08:46.640
+marque, ça peut être intéressant de choisir le champ
+
+234
+00:08:47.500 --> 00:08:48.960
+si vous utilisez pareil des GT.
+
+235
+00:08:49.270 --> 00:08:50.800
+Donc n GT,
+
+236
+00:08:51.050 --> 00:08:53.720
+c'est des bas des code bars par rapport au produit.
+
+237
+00:08:53.770 --> 00:08:55.240
+C'est également intéressant de les les mettre.
+
+238
+00:08:55.500 --> 00:08:57.840
+Et bien sûr, mais ça, c'est des ation, tout ça par défaut.
+
+239
+00:08:57.900 --> 00:08:58.960
+Ça a déjà dû être coche couché,
+
+240
+00:08:59.430 --> 00:09:00.920
+vérifier juste que c'est bien comme ça.
+
+241
+00:09:01.240 --> 00:09:03.640
+Modifier. Donc le htr, on l'a dit qu'on y touchait pas.
+
+242
+00:09:03.640 --> 00:09:05.440
+Surveillance 400, on mas ça.
+
+243
+00:09:05.440 --> 00:09:08.720
+On a activé statistique, on a connecté, il y a de contenu.
+
+244
+00:09:09.330 --> 00:09:11.480
+C'est pareil, ça, ça va plus être dans la partie contenu.
+
+245
+00:09:11.910 --> 00:09:13.040
+Nous ce que on va voir,
+
+246
+00:09:13.040 --> 00:09:14.480
+c'est plutôt dans les titres et meta.
+
+247
+00:09:14.830 --> 00:09:16.400
+Vous allez cliquer sur titre etta
+
+248
+00:09:17.750 --> 00:09:19.120
+normalement dont vous avez des pré.
+
+249
+00:09:19.280 --> 00:09:22.600
+Configuration de base est si au local,
+
+250
+00:09:22.600 --> 00:09:23.760
+on vérifie que c'est bien rempli.
+
+251
+00:09:24.450 --> 00:09:26.400
+C'est pas ça.
+
+252
+00:09:26.400 --> 00:09:28.440
+Ça doit être une copié collé du site qu'on a,
+
+253
+00:09:28.440 --> 00:09:30.440
+mais on va remplir mais tiré
+
+254
+00:09:32.300 --> 00:09:33.480
+Qui mono point.
+
+255
+00:09:33.480 --> 00:09:36.040
+Comme je vous laisserai remplir cette partie pareil.
+
+256
+00:09:36.360 --> 00:09:39.240
+Pourquoi est ce que on a des configurations de sites qui
+
+257
+00:09:39.240 --> 00:09:42.400
+n'est pas le bon site, ça dû être un copié collé.
+
+258
+00:09:43.390 --> 00:09:45.200
+Donc n'hésitez pas à remplir cette partie
+
+259
+00:09:46.310 --> 00:09:47.640
+pour les méta à données sociales.
+
+260
+00:09:47.640 --> 00:09:49.200
+Bien entendu, c'est également aussi important.
+
+261
+00:09:49.780 --> 00:09:51.480
+Mettez le liens Facebook, etc.
+
+262
+00:09:52.070 --> 00:09:53.680
+Page diverses, on s' fiche un peu.
+
+263
+00:09:53.680 --> 00:09:55.160
+Donc ensuite, ce qui va nous intéresser,
+
+264
+00:09:55.740 --> 00:09:59.080
+ça va de mettre les produits auxquels nous vérifiez que vous
+
+265
+00:09:59.080 --> 00:10:01.960
+êtes bien dans titre page séparateur side.
+
+266
+00:10:02.070 --> 00:10:03.280
+Mais ça, normalement, c'est pareil.
+
+267
+00:10:03.390 --> 00:10:06.120
+Vous les remplissez de votre côté ici.
+
+268
+00:10:06.120 --> 00:10:07.680
+Ça, c'est une erreur de wordpres.
+
+269
+00:10:07.680 --> 00:10:10.440
+Il faut absolument supprimer. Vous ne mettez pas archives.
+
+270
+00:10:10.440 --> 00:10:14.040
+Vous me virez ce archive du type produit, titre archive.
+
+271
+00:10:14.220 --> 00:10:16.560
+Ok, normalement tout ça. On est bon.
+
+272
+00:10:17.390 --> 00:10:20.480
+Auto, des textes vidéo, on est bon miniature pour Facebook.
+
+273
+00:10:20.480 --> 00:10:23.880
+Donc ça, c'est pareil. Il faut remplir ici une miniature qui
+
+274
+00:10:23.880 --> 00:10:25.600
+est mise par défaut pour les partages.
+
+275
+00:10:25.600 --> 00:10:29.120
+C'est très important. Elle doit faire du coup 1200 par 630.
+
+276
+00:10:29.380 --> 00:10:31.080
+Pensez à la remplir. Je ne vais pas vous apprendre à faire
+
+277
+00:10:31.080 --> 00:10:33.040
+une image aujourd'hui, mais penser du coup à
+
+278
+00:10:33.040 --> 00:10:34.600
+remplir cette miniature.
+
+279
+00:10:34.900 --> 00:10:37.760
+Voilà donc ça, c'est pour les champs en plus.
+
+280
+00:10:38.590 --> 00:10:41.960
+Normalement, si je ne dis pas de bêtises, description,
+
+281
+00:10:42.250 --> 00:10:44.880
+assis au, mais ça de façon, on l'a déjà viré.
+
+282
+00:10:45.810 --> 00:10:49.000
+Catégorie étiquette, catégorie de produits.
+
+283
+00:10:49.000 --> 00:10:50.480
+Voilà, c'est ça, catégorie de produits.
+
+284
+00:10:50.480 --> 00:10:54.480
+Vous me virez pareil, le archive ici qui normalement se met
+
+285
+00:10:54.580 --> 00:10:58.080
+par défaut de votre côté étiquette de produit.
+
+286
+00:10:58.100 --> 00:10:59.280
+On va faire exactement la même chose.
+
+287
+00:10:59.600 --> 00:11:03.200
+Étiquette de produit on via le archive.
+
+288
+00:11:11.540 --> 00:11:14.960
+Ok, voilà là on a un outil du coup si configuré.
+
+289
+00:11:14.960 --> 00:11:16.120
+Donc c'est plutôt sympathique.
+
+290
+00:11:16.220 --> 00:11:17.760
+Je vais vous montrer du coup comment est ce qu'il
+
+291
+00:11:17.840 --> 00:11:18.840
+fonctionne, cet outil très rapidement.
+
+292
+00:11:18.860 --> 00:11:21.480
+Encore une fois, on verra comment l'utiliser de a à z
+
+293
+00:11:21.590 --> 00:11:22.600
+dans la partie contenu.
+
+294
+00:11:22.940 --> 00:11:24.880
+Je vous explique juste voilà.
+
+295
+00:11:24.880 --> 00:11:26.480
+Vous avez quand même, c'est quand même un module complet,
+
+296
+00:11:26.860 --> 00:11:28.080
+la barre du haut, vous allez voir,
+
+297
+00:11:28.080 --> 00:11:30.040
+vous avez un module rank math qui vous permet tout
+
+298
+00:11:30.040 --> 00:11:33.040
+simplement voilà d'avoir des outils directement qui vous
+
+299
+00:11:33.160 --> 00:11:34.200
+mettent tous les liens dont on a parlé.
+
+300
+00:11:34.200 --> 00:11:35.880
+Google pi PE, Google mobile friendly
+
+301
+00:11:36.460 --> 00:11:37.640
+les résultats enrichis Google.
+
+302
+00:11:37.640 --> 00:11:39.200
+Donc ça, c'est ce qu'on appelle les snippets.
+
+303
+00:11:39.260 --> 00:11:41.160
+Encore une fois, ça l'a fait automatiquement.
+
+304
+00:11:41.160 --> 00:11:44.880
+Si vous avez suivi la configuration qu'on vient de mettre en
+
+305
+00:11:44.880 --> 00:11:47.360
+place, je voulais juste vous montrer donc sur un article de
+
+306
+00:11:47.360 --> 00:11:50.400
+blog, à quoi ça pouvait ressembler à le s'il faut vraiment
+
+307
+00:11:50.400 --> 00:11:51.960
+qu'on le refasse, il est ramp, pas joli.
+
+308
+00:11:51.960 --> 00:11:53.870
+J'espère que quand vous verrez cette vidéo,
+
+309
+00:11:53.870 --> 00:11:55.120
+le site aura été refait.
+
+310
+00:12:00.780 --> 00:12:03.510
+Donc voilà, vous trouvez ici sur les partis articles de blog
+
+311
+00:12:03.690 --> 00:12:06.310
+ici, le petit outil pour mettre donc tout simplement
+
+312
+00:12:06.310 --> 00:12:07.390
+les méta de méta, description.
+
+313
+00:12:07.390 --> 00:12:08.990
+Encore une fois, on le verra juste après.
+
+314
+00:12:09.010 --> 00:12:10.110
+Voilà donc ça,
+
+315
+00:12:10.120 --> 00:12:13.310
+c'est pour la configuration de Matt et on se retrouve du
+
+316
+00:12:13.310 --> 00:12:14.270
+coup au prochain module.

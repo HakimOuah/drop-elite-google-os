@@ -16,6 +16,7 @@ FILES = {
     "test-card.md": "04-test-card.md",
     "decision-log.md": "05-decisions.md",
     "postmortem.md": "06-postmortem.md",
+    "demand-map.md": "07-demand-map.md",
 }
 
 

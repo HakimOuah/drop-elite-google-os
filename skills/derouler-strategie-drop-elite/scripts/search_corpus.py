@@ -9,8 +9,7 @@ import re
 import unicodedata
 from pathlib import Path
 
-
-DEFAULT_CORPUS = Path(__file__).resolve().parents[3] / "corpus"
+from resolve_repo import resolve_repo_root
 
 
 def normalize(value: str) -> str:
@@ -42,13 +41,13 @@ def parse_vtt(path: Path) -> list[dict[str, str]]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("terms", nargs="+")
-    parser.add_argument("--corpus-root", type=Path, default=DEFAULT_CORPUS)
+    parser.add_argument("--corpus-root", type=Path)
     parser.add_argument("--all", action="store_true", help="exiger tous les termes dans un cue")
     parser.add_argument("--limit", type=int, default=50)
     parser.add_argument("--json", action="store_true", dest="as_json")
     args = parser.parse_args()
 
-    root = args.corpus_root.expanduser().resolve()
+    root = (args.corpus_root or (resolve_repo_root() / "corpus")).expanduser().resolve()
     queries = [normalize(term) for term in args.terms]
     results: list[dict[str, str]] = []
 

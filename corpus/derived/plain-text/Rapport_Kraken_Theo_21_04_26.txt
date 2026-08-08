@@ -1,0 +1,288 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  1  —
+RAPPORT DE SESSION
+21 avril 2026 • Durée : 2h03 • Coach : Théo
+Participants : Hugo, Mika, Chiraz, Pierre, Emeric, Katia
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Hugo — Tour d’horizon des niches passées au crible après 2
+semaines de recherche
+▶ 00:15 Hugo — Paravant intérieur : analyse complète du concurrent principal
+(SEO, backlinks, ads)
+▶ 00:34 Hugo — Applique murale : stratégie des 40 winners via Google
+Transparency
+▶ 00:52 Hot seat Chiraz — Validation architecture site Ceinture (collections,
+filtres, menu)
+▶ 01:11 Discussion fournisseurs — Cas d’école ventilateur de plafond,
+fournisseur espagnol
+▶ 01:30 Atelier IA — Workflow images automatisé (Replicate + N8N + Nano
+Banana)
+▶ 01:43 Tip Merchant Center — Images 1024x1024 minimum pour le label « high
+quality »
+▶ 01:51 Stack outils — Claude Design vs Figma, et thème Full Stack en licence
+illimitée
+⚔ DÉTAIL DES HOTSEATS
+► Hugo — Tour d’horizon de 15+ niches analysées
+2 semaines de recherche structurée. Hugo a retourné le marché français en profondeur (8h/jour sur
+SEMrush) et exploré plusieurs marchés européens (Allemagne, UK, Pays-Bas, Suède). Le coach a recadré sur
+le marché français en priorité pour la simplicité d’exécution.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  2  —
+Niche
+Verdict
+Commentaire clé
+Poulailler
+Éliminé
+Concurrent unique avec deux sites verrouillant le SEO.
+Réveil
+Écarté
+Pas de valeur ajoutée, RR juste, électronique = garanties.
+Rideau de douche FR
+Bloqué
+Concurrent solide depuis 3 ans, panier 40€.
+Rotin / Bouillotte
+Trop concurrentiel
+Marqués par Enzo et 5+ dropshippers en place.
+Macramé
+Petite niche
+Mot-clé général informationnel, gamme limitée.
+Terrarium
+Compliqué
+Pour passionnés, shipping difficile, parti-pris fort.
+Pot de fleurs
+Bloqué par
+shipping
+Niche pure fournisseur, AliExpress impossible.
+Tête de lit
+À explorer
+Volume élevé mais shipping = fournisseur européen obligatoire.
+Pistes potentielles identifiées : robe invitée de mariage (haute saison printemps-été, 2 petits dropshippers en
+place), ventilateur de plafond (60 000 vol/mois mais fournisseur espagnol présent en France avec prix
+imbattables), tapis de marche pour particuliers/personnes âgées (positionnement Meta plutôt que SEO).
+« Faut faire ta recherche de fournisseur en premier. C’est ton feu vert. Si tu trouves des
+fournisseurs qui acceptent de faire de l’envoi individuel et qui ont un bon catalogue, là tu lances.
+Pas l’inverse. »
+— Coach Kraken
+► Hugo — Paravant intérieur : la niche validée
+Niche structurée et viable. Volume solide, variantes multiples (bois, métal, japonais), CPC un peu élevé mais
+largement compensé par un panier moyen possible à 200€. La niche n’a pas de marketplace ou gros concurrent
+généraliste qui domine — le top concurrent est un dropshipper en micro-entreprise.
+Analyse du concurrent principal (cas d’école) :
+Indicateur
+Valeur
+Lecture
+Trafic mensuel
+7 000
+Pionnier de la niche depuis plusieurs années.
+Articles de blog
+0
+Aucun maillage SEO — angle d’attaque immédiat.
+Backlinks légitimes
+15
+Barre d’entrée très faible, 3 BL/mois suffisent.
+Google Shopping
+Aucun
+Boutique en SEO pur uniquement — angle libre.
+Statut
+Micro-entreprise
+Probablement pas à jour sur les nouvelles pratiques.
+Conclusion du coach : niche validée en l’état — même avec un exact match sur le nom de domaine, un site
+mieux travaillé (blog, shopping, backlinks de qualité) passe devant en 6 mois. Le seul vrai blocage : trouver un
+fournisseur européen (l’Express n’est pas adapté vu les volumes des paravants).
+« Si son site c’est de la merde, s’il a mal fait plein de trucs, il va redescendre. C’est pas parce que
+exact match qu’il sera premier tout le temps. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  3  —
+► Hugo — Applique murale : stratégie des 40 winners
+Site quasi prêt. 280 variantes, 45 collections, architecture SEO Kraken propre. Concurrence présente (Enzo +
+1 autre acteur bien placé), mais le levier de différenciation est ailleurs.
+Méthode des 40 winners. Hugo a croisé PixelMe avec Google Ads Transparency Center sur les 5 plus gros
+concurrents pour identifier les produits qui tournent en ads depuis longtemps avec beaucoup d’impressions.
+Résultat : 40 produits validés comme bestsellers du marché, sourcés sur AliExpress, prix alignés ou inférieurs
+aux concurrents.
+Levier de différenciation = images. Vu que la gamme AliExpress est finie (Hugo a fait le tour des patterns),
+tout se joue sur la qualité visuelle. Mise en situation par contexte (applique salle de bain dans une salle de bain,
+applique chambre dans une chambre) pour que le client se projette immédiatement. Approche 20/80 : retoucher
+en priorité les 40 bestsellers identifiés.
+« L’élément important pour cette niche, c’est le choix des produits. Il y a tellement de produits sur Ali
+que faire une bonne sélection cohérente crée déjà ta différenciation. »
+— Coach Kraken
+► Chiraz — Architecture site Ceinture
+Structure présentée : ceinture homme / femme / enfant + sous-collections par sous-catégories (couleur, style,
+matière, tenue). Tout le travail mots-clés est fait sur SEMrush.
+Arbitrage 1 — Bretelles : le coach recommande de NE PAS intégrer les bretelles au lancement. Rester full
+ceinture pour s’installer comme spécialiste, et ajouter bretelles plus tard pour garnir le contenu Google sans
+risque de dilution.
+Arbitrage 2 — Couleurs non genrées (ceinture noire, léopard, argentée) : doivent obligatoirement exister en
+collections (pas seulement en filtres) pour ranker correctement sur Shopify. Sur le menu : analyser les SERPs
+Google sur « ceinture noire », « ceinture noire homme », « ceinture noire femme » avant d’arbitrer entre menu
+vs filtre uniquement.
+Concurrents analysés : atelierdelaceinture.com et laboutiquedelaceinture (filtres bien travaillés : matière,
+aspect de la lanière, couleur, largeur, type de boucle). Ni l’un ni l’autre ne mettent les couleurs dans le menu —
+mais ce n’est pas un argument pour s’aligner aveuglément.
+« Avant de faire plein de produits, fais-en cinq ultra clean avec tous tes filtres et métafields, fais-le
+valider, et après tu continues. Sinon tu vas devoir repasser sur tout. »
+— Coach Kraken
+⚙ ATELIER — STACK IA & OUTILS PRODUCTIVITÉ
+La deuxième moitié de session a été un échange collectif très dense sur les workflows automatisés (Pierre,
+Emeric, Hugo) et les outils récents qui changent la donne.
+Workflow images Pierre (Replicate + N8N) — Pipeline complet : import images depuis Google Drive, upscale,
+remove background, ajout d’ombre, conversion webp. Coût : 0,17€ par image en qualité galerie. Limite actuelle :
+la compression webp à 75 % dégrade trop l’image.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  4  —
+Skill retouche d’image Emeric (Claude Code + API Nano Banana 2) — Branchement direct via clé API
+Google AI Studio (pas via revendeur). Résultats 100 % fiables sur fonds + ombre standard, plus aléatoire dès
+qu’il faut intégrer des humains. Modèle utilisé : Gemini 2.5 Flash Image (le « Nano Banana 2 » évoqué). Le Pro
+est plus cher sans gain de qualité sur ce cas d’usage.
+Tip Merchant Center — Toutes les images produits doivent être en 1024 x 1024 minimum. C’est le seuil qui
+débloque le label « high quality » dans Merchant Center et donne un boost de visibilité. Pas critique sur un site
+existant, mais à appliquer d’office sur tout nouveau lancement.
+Claude Design (Anthropic) — Sortie récente, alternative sérieuse à Figma et Google Stitch. Qualité de design
+généré nettement supérieure aux concurrents testés. À évaluer pour les futures constructions de sites.
+Thème Full Stack — 200€/an en licence illimitée (toutes les boutiques de Mika, Hugo, Pierre… sur le même
+compte). Mises à jour mensuelles déployées proprement (pas besoin de refaire le site à chaque version),
+système de blocs imbriqués permettant de composer n’importe quel design depuis le builder Shopify.
+« Quand Claude dit « je peux pas », tu lui dis d’aller se renseigner et de trouver une solution. Faut
+le challenger pour qu’il réfléchisse — il a souvent un contournement. »
+— Coach Kraken
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Hugo
+PRIORITAIRE
+⚡ Trouver des fournisseurs européens pour paravant intérieur AVANT de lancer le site (recherches
+Google multi-pays, contact direct par mail, ne pas mentionner le terme dropshipping).
+⚡ Travailler les images des 40 winners applique murale en priorité (mise en situation contextuelle
+salle de bain / chambre / salon). Approche 20/80.
+⚡ Préparer le lancement ads coussin grossesse + rideau thermique avec Théo (point dédié à caler
+sur WhatsApp).
+SECONDAIRE
+○ Lister en parallèle les fournisseurs sur 3-4 niches compliquées (paravant, pergola, serre de jardin) pour
+amortir le temps de recherche.
+○ Tester le prompt Nano Banana 2 d’Emeric pour la retouche images (ombre + fond standard).
+○ Vérifier que toutes les images produits sortent en 1024 x 1024 minimum.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Analyser les SERPs Google sur ceinture noire, ceinture noire homme et ceinture noire femme pour
+arbitrer menu vs filtre uniquement.
+⚡ Créer les collections couleur / style / matière EN PLUS des filtres (sinon Shopify ne ranke pas
+correctement).
+⚡ Faire 5 fiches produits ultra clean avec tous les filtres et métafields, faire valider, puis 50 fiches
+manuelles avant de passer à l’IA.
+SECONDAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  5  —
+○ Garder la structure full ceinture au lancement — ajouter bretelles plus tard.
+○ Représenter l’arbitrage menu vs filtre à Stéphanie jeudi pour trancher définitivement.
+○ Garder atelierdelaceinture et laboutiquedelaceinture comme références UX (filtres bien travaillés).
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Tester le prompt Nano Banana 2 d’Emeric pour comparer le résultat avec le workflow Replicate
+actuel (économie potentielle vs 0,17€/image).
+⚡ Mettre toutes les images produits en 1024 x 1024 minimum pour activer le label high quality
+Merchant Center.
+SECONDAIRE
+○ Affiner la conversion webp dans le workflow N8N (compression actuelle à 75 % trop destructive).
+○ Tester Claude Design sur un futur projet pour comparer avec son workflow actuel.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Partager la skill complète de retouche d’image avec Pierre et le groupe (prompt + structure des
+appels API).
+SECONDAIRE
+○ Continuer à documenter ses skills Claude Code pour automatisation — retour communauté très positif.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Toujours faire la recherche de fournisseur AVANT de lancer un site — c’est le feu vert qui valide la
+niche.
+SECONDAIRE
+○ Quand Claude IA bloque sur un point, lui demander d’aller se renseigner pour trouver une solution — il a
+souvent un contournement.
+○ Évaluer le thème Full Stack (200€/an, licence illimitée) pour ceux qui en ont plusieurs en cours.
+○ Sur tout nouveau lancement : images en 1024 x 1024 minimum dès le départ.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Paravant — trafic concurrent
+7 000
+Pionnier en micro-entreprise
+Paravant — panier moyen
+100-200 €
+RR favorable malgré CPC élevé
+Paravant — backlinks concurrent
+15
+Barrière d’entrée très faible
+Applique — variantes site Hugo
+280
+45 collections, structure complète
+Applique — winners identifiés
+40
+Via Google Ads Transparency
+Ventilateur de plafond — volume
+60 000
+Cas d’école fournisseur espagnol
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  21/04/2026
+—  6  —
+Indicateur
+Valeur
+Contexte
+Rideau thermique — volume
+25 000
+Sur 3 mois (concurrent récent)
+Rideau thermique — CPC
+0,30-0,40 €
+Très accessible
+Rideau thermique — source / vente
+35 € / 130 €
+Marge x3+
+Rideau de douche UK — volume
+40-50 000
+Marché UK quasi vide
+Ceinture noire — volume
+1 900
+Mot-clé non genré
+Ceinture noire femme — volume
+1 600
+Mot-clé distinct
+Image Replicate — coût
+0,17 €/img
+Workflow Pierre (galerie)
+Photoroom API
+100 €/mois
+Écarté (trop cher)
+Thème Full Stack
+200 €/an
+Licence illimitée toutes boutiques
+Merchant Center HQ — seuil
+1024 x 1024
+Label high quality + boost visibilité
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,6 +1,6 @@
 ---
 name: integrer-videos-formation
-description: Ingérer dans le dépôt privé des vidéos, audios, VTT, sous-titres YouTube ou documents de formation autorisés ; extraire/transcrire localement si nécessaire, préserver les sources brutes, produire des dérivés, empreintes, métadonnées et fiches sourcées. Utiliser quand Hakim fournit du contenu Skool, Vimeo, CloudFront, YouTube, MP4, VTT ou PDF à ajouter au corpus Drop Elite.
+description: Ingérer dans le dépôt privé des vidéos, audios, VTT, sous-titres YouTube ou documents de formation autorisés ; extraire/transcrire localement si nécessaire, préserver les sources brutes, produire des dérivés, empreintes, métadonnées et fiches sourcées. Utiliser quand Hakim fournit du contenu Skool, Vimeo, CloudFront, YouTube, MP4, VTT ou PDF à ajouter au corpus de La Méthode Kraken.
 ---
 
 # Intégrer des contenus de formation

@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.570
+Dans cette vidéo va faire un petit tour très rapide sur la
+
+2
+00:00:02.570 --> 00:00:05.080
+Google ser console qui est vraiment normalement votre
+
+3
+00:00:05.260 --> 00:00:06.360
+centre de commande.
+
+4
+00:00:06.420 --> 00:00:08.720
+Si vous faites du référence naturel, encore une fois,
+
+5
+00:00:08.720 --> 00:00:10.880
+vous avez la possibilité de le connecter comme on a vu à
+
+6
+00:00:10.880 --> 00:00:12.560
+rank mat ou à également,
+
+7
+00:00:12.580 --> 00:00:13.680
+je ne vais pas rentrer dans le détail,
+
+8
+00:00:13.790 --> 00:00:16.680
+mais n'hésitez pas à utiliser du coup ces outils pour suivre
+
+9
+00:00:16.890 --> 00:00:19.160
+votre référence naturel concernant celui ci.
+
+10
+00:00:19.160 --> 00:00:20.760
+Donc, vous pouvez voir du coup ici les performances.
+
+11
+00:00:20.760 --> 00:00:22.760
+Donc celle ci qu'on vient de connecter le nombre de pages
+
+12
+00:00:22.910 --> 00:00:25.960
+valides et l'ergonomie mobile et l'expérience sur la page.
+
+13
+00:00:25.990 --> 00:00:27.240
+Donc, dans performance,
+
+14
+00:00:27.240 --> 00:00:29.360
+on va voir du coup l'onglet performance de performance.
+
+15
+00:00:29.360 --> 00:00:31.280
+Vous pouvez voir du coup l'évolution du nombre d'impressions
+
+16
+00:00:31.340 --> 00:00:33.800
+ici et le nombre de clics, c'est vraiment,
+
+17
+00:00:33.800 --> 00:00:37.280
+on va utiliser ces données pour ensuite faire notre travail.
+
+18
+00:00:37.620 --> 00:00:40.560
+Si au fur et à mesure que je vais vous expliquer juste après
+
+19
+00:00:41.990 --> 00:00:44.480
+dans l'idée pour vous expliquer un peu quelle est la
+
+20
+00:00:44.680 --> 00:00:47.040
+stratégie suite à la construction du coût de l'architecture
+
+21
+00:00:47.040 --> 00:00:50.960
+kraken et à la suite de la mise en place des catégories moi,
+
+22
+00:00:50.960 --> 00:00:51.960
+ce que je vous invite à faire,
+
+23
+00:00:52.450 --> 00:00:55.080
+c'est d'essayer de détecter quelles sont les catégories
+
+24
+00:00:55.080 --> 00:00:56.120
+qui commencent à pré enquer.
+
+25
+00:00:56.390 --> 00:00:59.520
+Donc pré, ça va être tout simplement se positionner en page
+
+26
+00:00:59.550 --> 00:01:01.600
+deux ou à la fin de la page un.
+
+27
+00:01:01.700 --> 00:01:03.480
+Et c'est là dessus qu'on va travailler.
+
+28
+00:01:03.550 --> 00:01:05.600
+Donc tout ça, ça se passe au niveau de cet onglet
+
+29
+00:01:05.600 --> 00:01:08.600
+performance qui va vous permettre de voir ce comment à se
+
+30
+00:01:08.720 --> 00:01:11.240
+positionner vos reets inspection de l'ur,
+
+31
+00:01:11.240 --> 00:01:14.120
+tout simplement pour vérifier que votre page
+
+32
+00:01:14.140 --> 00:01:15.320
+est correctement indexé.
+
+33
+00:01:15.790 --> 00:01:17.960
+Donc, ouverture bien, tout simplement.
+
+34
+00:01:18.030 --> 00:01:20.960
+Vous allez voir si visuels sont correctement indexé,
+
+35
+00:01:20.960 --> 00:01:22.960
+comme on peut le voir, on n'a que des valides.
+
+36
+00:01:22.960 --> 00:01:26.120
+Donc vous pouvez trouver ici les erreurs sur les sitemap,
+
+37
+00:01:26.220 --> 00:01:27.960
+ça normalement, on a dû le générer automatiquement.
+
+38
+00:01:27.960 --> 00:01:31.080
+Donc, si c'est les pa, n'hésitez pas à mettre sitemap index,
+
+39
+00:01:31.610 --> 00:01:32.800
+point xml ici.
+
+40
+00:01:33.410 --> 00:01:36.600
+C'est mac qui l'a fait hop pour le mettez ici.
+
+41
+00:01:36.600 --> 00:01:38.440
+Si ça ne l'a pas fait automatiquement, eh bien,
+
+42
+00:01:38.460 --> 00:01:40.600
+mettez le à cet endroit là, suppression.
+
+43
+00:01:40.650 --> 00:01:41.920
+C'est un outil de suppression de lien.
+
+44
+00:01:41.920 --> 00:01:44.720
+Donc ça, on le verra dans le menu net. Mais c'est ici.
+
+45
+00:01:44.720 --> 00:01:47.320
+Si, pour supprimer entre guillemets, les mauvais liens,
+
+46
+00:01:47.420 --> 00:01:50.720
+par exemple les liens, le négatif, expérience sur la page,
+
+47
+00:01:50.720 --> 00:01:53.240
+ça va vous permettre de voir justement la vitesse de
+
+48
+00:01:53.240 --> 00:01:56.000
+chargement et de suivre la véritable
+
+49
+00:01:56.630 --> 00:01:59.240
+vitesse de chargement basée sur les critères analytics,
+
+50
+00:01:59.740 --> 00:02:02.600
+les signaux au web essentiels, pareil et ergonomie.
+
+51
+00:02:02.600 --> 00:02:05.400
+Pareil. C'est pour ça. C'est uniquement par l'algorithme.
+
+52
+00:02:05.630 --> 00:02:08.040
+Normalement, si vous n'avez pas trop mal fait le poulo,
+
+53
+00:02:08.060 --> 00:02:09.320
+ça devrait être tout le temps vers ici.
+
+54
+00:02:09.820 --> 00:02:12.120
+Fil daria. Donc fil d, rien de module rock mode.
+
+55
+00:02:12.120 --> 00:02:14.080
+Si vous avez suivi les étapes, a permis de le générer.
+
+56
+00:02:14.110 --> 00:02:16.800
+Vérifiez que sur Shopify, votre thème, que votre moduler,
+
+57
+00:02:16.800 --> 00:02:19.040
+si les met bien en place, le fil daria,
+
+58
+00:02:19.040 --> 00:02:20.920
+c'est tout simplement la navigation.
+
+59
+00:02:21.100 --> 00:02:24.120
+Si alors pour vous montrer à quoi ressemble un fil, daria,
+
+60
+00:02:25.210 --> 00:02:27.800
+c'est ça, c'est ça le fil daria, les produits,
+
+61
+00:02:27.800 --> 00:02:29.520
+c'est pour voir si tout simplement vous avez des produits,
+
+62
+00:02:29.600 --> 00:02:31.000
+mais ça vous permet de voir les snippets.
+
+63
+00:02:31.020 --> 00:02:34.120
+Par exemple. Ici, ça va me dire que je n'ai pas d'avis
+
+64
+00:02:34.120 --> 00:02:35.160
+forcément les avis.
+
+65
+00:02:35.220 --> 00:02:36.920
+Si vous avez des avis, vous pouvez donc les mettre dans les
+
+66
+00:02:37.040 --> 00:02:39.840
+snippets, les snippets, c'est tout simplement les champs un
+
+67
+00:02:39.840 --> 00:02:41.320
+peu plus agrandis sur Google.
+
+68
+00:02:41.780 --> 00:02:43.000
+Par exemple, si vous êtes sur un produit,
+
+69
+00:02:43.000 --> 00:02:44.720
+vous allez du coup voir les étoiles remonter sur
+
+70
+00:02:44.720 --> 00:02:45.920
+Google et ensuite le reste.
+
+71
+00:02:45.920 --> 00:02:47.280
+On s' fiche un peu, ok,
+
+72
+00:02:47.280 --> 00:02:50.200
+voici pour le petit tour très rapide de Google, sa console.
+
+73
+00:02:50.340 --> 00:02:51.640
+Si jamais on a besoin de l'utiliser,
+
+74
+00:02:51.640 --> 00:02:52.920
+on l'utilisera dans le module.
+
+75
+00:02:52.920 --> 00:02:53.880
+Voilà tout de suite.

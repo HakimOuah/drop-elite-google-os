@@ -1,0 +1,140 @@
+x
+
+
+--- PAGE ---
+
+CHAPITRE 4
+Valider ton Merchant Center
+(checklist de conformité)
+
+
+--- PAGE ---
+
+valider ton compte Merchant Center = éviter toute
+suspension future
+Google n’explique jamais précisément pourquoi
+il suspend un compte
+©ATLANTID  - La méthode KRAKEN
+Introduction :
+Pourquoi valider ton Merchant est essentiel
+👉 une checklist ultra précise
+pour éviter les mauvaises surprises
+
+
+--- PAGE ---
+
+Les 6 vérifications à faire 
+AVANT de lancer tes campagnes
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Pages légales obligatoires dans le footer :
+CGV
+Politique de retour
+Politique de confidentialité
+Mentions légales (si applicable)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Adresse de retour & délai précis
+Ta page “retour” doit contenir une adresse postale
++ le délai de retour (ex : 14 jours)
+Bonus : ajoute un lien vers un bon de retour PDF
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Cohérence entre Merchant & site
+Même nom de domaine
+Même nom d’entreprise
+Même adresse (pas de société “X” sur Merchant et “Y”
+sur ton site)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Descriptions produits propres
+Pas de copier-coller AliExpress ❌
+Pas de claims mensongers / promesses irréalistes ❌
+Si tu mentionnes un code promo, il doit fonctionner ✅
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Site fonctionnel mobile
+Teste-le sur un téléphone
+Pas de bug de scroll, pas de blocage,
+              pas de lenteur critique
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Flux produit à jour
+Ton flux est bien connecté via Shopify ou Woo
++ un outil comme Feed Donkey / GMCFeed
+Les produits sont visibles dans l’onglet “Produits” →
+“Tous les produits”
+
+
+--- PAGE ---
+
+Erreurs fréquentes à éviter
+(et anecdotes vécues)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+ Nom de société différent entre site et Merchant 
+→ compte suspendu pour misrepresentation
+Footer vide 
+→ site considéré comme non professionnel
+Code promo affiché mais inactif 
+→ ban immédiat
+Fiche produit promet “livraison 24h” alors que le site
+annonce 7–10 jours 
+→ suspicion mensonge → suspension
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Chez Google, la cohérence est plus importante
+que la perfection.
+
+
+--- PAGE ---
+
+Étape finale : faire valider
+ par ton coach
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Avant de lancer ta première campagne, envoie
+ton site à ton coach via la plateforme ou Slack
+ 👉 Il checkera avec toi tous les points de la checklist
+ 👉 C’est une garantie anti-ban supplémentaire
+avant le lancement
+
+
+--- PAGE ---
+
+WHAT WE WILL
+TALK ABOUT
+Tu viens de sécuriser ton compte Merchant
+On va lancer ta première campagne Shopping
+intelligente
+Next : lancement de ta première campagne Shopping
+(avec les bonnes options dès le départ)
+©ATLANTID  - La méthode KRAKEN
+Conclusion

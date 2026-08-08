@@ -1,0 +1,10 @@
+TO DO LIST KRAKEN
+MODULE 3 BIS
+Configuration du thème
+Intégration de mon premier produit
+Installation des applications
+Paramètres Shopify
+Mise en place de la Homepage
+Mise en place de la page produit
+Mise en place des Métaboxes
+Personnalisation du thème

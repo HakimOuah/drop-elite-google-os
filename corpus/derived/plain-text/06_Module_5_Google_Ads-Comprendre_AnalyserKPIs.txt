@@ -1,0 +1,149 @@
+x
+
+
+--- PAGE ---
+
+CHAPITRE 6
+Comprendre et analyser les
+performances (comme un pro)
+
+
+--- PAGE ---
+
+Maintenant que tes campagnes tournent, 
+le vrai travail commence :
+Lire les chiffres
+Comprendre ce qui se passe
+Prendre les bonnes décisions
+©ATLANTID  - La méthode KRAKEN
+Introduction
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Dans ce chapitre, tu vas apprendre à :
+analyser tes performances au quotidien
+utiliser les bonnes métriques
+pour scaler ou couper intelligemment
+
+
+--- PAGE ---
+
+Les métriques clés à suivre
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+5 KPI à toujours suivre sur ton tableau de bord :
+1.Nombre de clics (volume de trafic)
+2.Taux de clics (CTR) → bon indicateur de pertinence
+3.Coût par clic (CPC) → indicateur de rentabilité brute
+4.Taux de conversion (CVR) → % de visiteurs qui achètent
+5.ROAS / COS → rentabilité réelle des campagnes
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Tu n’as pas besoin de 20 colonnes, juste les bonnes.
+Et toujours comparer par campagne, par produit,
+et dans le temps
+
+
+--- PAGE ---
+
+Où lire tes résultats
+(interface Google Ads)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Aller dans Campagnes → puis Groupes d’annonces
+Vue personnalisée (ajout colonne ROAS, CPC, Taux
+de conversion)
+Filtres par :
+Période : 7 derniers jours vs 30 derniers jours
+Campagnes actives uniquement
+Produits avec clics mais 0 ventes
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Ne regarde pas tes stats toutes les heures
+Une lecture tous les 2-3 jours est plus pertinente
+au démarrage
+
+
+--- PAGE ---
+
+Lecture dans Merchant Center
+(flux produit)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+     Tu dois t’assurer que :
+Ton flux produit est actif
+Tous les produits sont bien validés
+Il n’y a pas d’erreurs majeures
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Si un produit ne s’affiche pas,
+il ne sera jamais vendu.
+
+
+--- PAGE ---
+
+Savoir réagir : quand couper,
+scaler, ou ajuster
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Cas 1 — Trop de clics mais pas de ventes :
+⛔️ Produit pas optimisé (fiche, prix, image) → retravailler
+🔄 ou exclure produit du flux
+Cas 2 — CPC trop élevé :
+👉 Réduire budget ou exclure mots-clés trop chers
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Cas 3 — ROAS < 1 après 10 jours :
+Cas 4 — ROAS > 2 ou 3 :
+👉 On coupe → sauf si très peu de clics (échantillon
+insuffisant)
+🚀 On augmente le budget progressivement
+(pas +50% d’un coup)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+L’important c’est de tester, observer,
+et agir calmement.
+Google a besoin de données, et toi de méthode.
+
+
+--- PAGE ---
+
+WHAT WE WILL
+TALK ABOUT
+Bienvenue chez les pros. Bientôt, tu pourras : 
+Arrêter les campagnes qui te font perdre de l’argent
+Scaler celles qui te rendent profitable
+Et surtout… dormir plus tranquille 😴
+Next : on voit comment optimiser les campagnes
+pour améliorer ton ROAS
+©ATLANTID  - La méthode KRAKEN
+Conclusion

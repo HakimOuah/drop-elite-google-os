@@ -1,0 +1,234 @@
+x
+
+
+--- PAGE ---
+
+CHAPITRE 2
+Préparation
+& Pré-requis techniques
+
+
+--- PAGE ---
+
+Avant de lancer une campagne, tu dois absolument
+poser une base technique propre
+La plupart des erreurs qu’on voit chez les débutants
+viennent d’un mauvais setup
+On va tout faire dans l’ordre pour sécuriser ton compte
+et éviter les mauvaises surprises
+©ATLANTID  - La méthode KRAKEN
+Introduction : pourquoi c’est fondamental
+
+
+--- PAGE ---
+
+Étape 1 : Création ou vérification
+de ton compte Google Ads
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+1.connecte-toi à ton compte Google principal
+2.va sur ads.google.com
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+3. vérifie que tu es bien en mode expert
+⚠️ ne pas rester en mode simplifié
+4. crée un compte SANS campagne
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Résultat attendu : un compte Google Ads propre,
+sans configuration par défaut imposée
+
+
+--- PAGE ---
+
+Étape 2 : Création de ton 
+Merchant Center
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+1.va sur merchants.google.com 
+2.connecte le même compte Gmail
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      le nom de ta boutique
+      l’URL de ton site
+Renseigne : 
+      les infos de ton entreprise
+(raison sociale, pays, etc)     
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      via balise HTML
+      Google Analytics
+      Google Tag Manager 
+Valide la propriété de ton domaine :
+OU
+OU
+(on recommande la balise)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Résultat attendu : Merchant Center actif,
+domaine vérifié
+
+
+--- PAGE ---
+
+Étape 3 : Connexions essentielles
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Connecte ensemble les outils :
+Depuis le Merchant Center, paramètres → comptes liés
+→ lier ton Google Ads.
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Google Analytics / GA4 (si utilisé)
+On recommande fortement de connecter GA4 au
+Google Ads pour suivre les conversions
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Google Tag Manager (facultatif mais conseillé)
+Centralise toutes tes balises pour les gérer sans coder
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Résultat attendu : tous les outils interconnectés
+proprement
+
+
+--- PAGE ---
+
+Étape 4 : Configuration
+du tracking des conversions
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+WHAT WE WILL
+TALK ABOUT
+Version Shopify
+Active le suivi dans “Paramètres > Outils de vente >
+Google & YouTube”
+Vérifie que le pixel Google Ads est bien installé
+Ajoute les conversions dans Google Ads si besoin
+(formulaire d’achat / “Thank you page”)
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+WHAT WE WILL
+TALK ABOUT
+Installe l’extension gratuite ou payante “Site Kit by
+Google” OU une extension dédiée à Google Ads
+Ajoute la balise de conversion manuellement OU via
+Tag Manager
+Vérifie que le déclenchement fonctionne bien (test
+achat conseillé)
+Version WooCommerce
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Résultat attendu : chaque vente déclenche
+une conversion dans Google Ads
+
+
+--- PAGE ---
+
+Étape 5 : Configuration
+de ton flux produit
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+      Shopify
+          WooCommerce 
+Depuis Merchant Center, choisis “Flux → Ajouter un
+flux → Flux principal”
+Choisis méthode d’importation :
+via l’app Google & YouTube (Symprosis)
+via plugin comme Product
+Feed Pro ou CTX Feed
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Vérifie les champs obligatoires : 
+ID, titre, description, prix, disponibilité, lien, image, catégorie
+⚠️ Attention : le nom de domaine
+affiché doit être identique partout
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Résultat attendu : flux actif
+et produits en cours de validation
+
+
+--- PAGE ---
+
+Étape 6 : Check complet
+avant lancement
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+ton domaine est validé ?
+ton flux est actif ?
+tes balises de tracking fonctionnent ?
+tous tes outils sont connectés ?
+
+
+--- PAGE ---
+
+©ATLANTID  - La méthode KRAKEN
+Si tout est bon : tu es prêt à créer
+tes premières campagnes Shopping
+
+
+--- PAGE ---
+
+WHAT WE WILL
+TALK ABOUT
+Tu viens de faire un énorme pas
+C’est souvent la partie la + technique, mais si elle est
+bien faite, le reste est beaucoup + simple
+Next : lancement de ta première campagne Shopping
+©ATLANTID  - La méthode KRAKEN
+Conclusion

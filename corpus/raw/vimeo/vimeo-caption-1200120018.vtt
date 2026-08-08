@@ -1,0 +1,849 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.240
+Salut à tous. Je vous fais la suite de la vidéo
+
+2
+00:00:03.260 --> 00:00:05.620
+pour Claude sur Shopify.
+
+3
+00:00:06.680 --> 00:00:10.140
+Là, on est sur un site test sur lequel je suis parti sur des
+
+4
+00:00:10.160 --> 00:00:12.580
+plafonniers, mais surtout du luminaire.
+
+5
+00:00:13.440 --> 00:00:15.290
+Pourquoi ? Parce que les luminaires,
+
+6
+00:00:16.240 --> 00:00:18.040
+ça me paraissait être un produit assez compliqué.
+
+7
+00:00:19.120 --> 00:00:22.360
+Et je me suis dit : « Autant entraîner
+
+8
+00:00:22.420 --> 00:00:26.320
+l'IA sur des produits compliqués », parce qu'il y a
+
+9
+00:00:26.380 --> 00:00:29.310
+les images où il y aura beaucoup de tailles, on va le voir après, et les
+
+10
+00:00:30.480 --> 00:00:34.200
+spécifications qui, souvent sur les luminaires, il y a pas mal de
+
+11
+00:00:34.240 --> 00:00:34.540
+données.
+
+12
+00:00:35.620 --> 00:00:38.800
+Je me suis dit que c'était un des produits les plus compliqués que j'avais en tête.
+
+13
+00:00:39.900 --> 00:00:43.580
+J'ai fait rapidement un petit Shopify. J'ai fait quelques tests avant.
+
+14
+00:00:43.620 --> 00:00:44.420
+Là, on en voit
+
+15
+00:00:45.540 --> 00:00:48.600
+neuf. L'idée, c'était
+
+16
+00:00:48.700 --> 00:00:50.700
+aussi de vous dire que
+
+17
+00:00:51.660 --> 00:00:52.840
+dès le début, ce n'était pas parfait.
+
+18
+00:00:52.900 --> 00:00:55.949
+Donc j'ai entraîné, je lui ai fait tourner un produit, je lui ai dit ce que je
+
+19
+00:00:55.980 --> 00:00:58.700
+voulais. Elle a composé un skill lié à ça.
+
+20
+00:00:59.240 --> 00:01:01.260
+Elle a refait un deuxième produit, je lui ai dit ce qui n'allait pas.
+
+21
+00:01:01.460 --> 00:01:05.121
+On a fait des allers-retours. Ça a été vraiment plein d'itérations pour
+
+22
+00:01:05.181 --> 00:01:09.140
+arriver à un point où on n'est pas trop mal, sachant
+
+23
+00:01:09.180 --> 00:01:12.840
+qu'il y a moyen que je continue encore à lui faire des allers-retours sur peut-être
+
+24
+00:01:12.880 --> 00:01:15.440
+une quinzaine de produits en tout. Là, on est à neuf.
+
+25
+00:01:15.500 --> 00:01:18.420
+Et après, elle pourra travailler en toute autonomie. C'est important de faire ça.
+
+26
+00:01:19.680 --> 00:01:23.640
+Ça évite de faire beaucoup de retouches à la fin et de voir potentiellement des
+
+27
+00:01:23.680 --> 00:01:27.620
+problèmes plus tard, etc. Ce que je vous conseille, c'est comme quand on le fait
+
+28
+00:01:27.660 --> 00:01:31.500
+manuellement, on fait un produit tout bien, on en fait cinq,
+
+29
+00:01:31.800 --> 00:01:35.620
+on vérifie que tout est OK et à partir de là, on peut continuer à faire
+
+30
+00:01:36.640 --> 00:01:40.420
+à la chaîne. Sachez que je
+
+31
+00:01:40.460 --> 00:01:43.420
+mettrai sûrement à disposition en dessous en lien
+
+32
+00:01:44.400 --> 00:01:44.860
+le
+
+33
+00:01:46.340 --> 00:01:50.220
+fichier skill qui sera forcément adapté en fonction de votre niche.
+
+34
+00:01:50.720 --> 00:01:53.940
+Là, on est sur un truc luminaire. Même si votre niche, imaginons que c'est du
+
+35
+00:01:53.980 --> 00:01:56.540
+luminaire, il y aura des détails à modifier.
+
+36
+00:01:57.020 --> 00:01:59.660
+Par exemple, les métafield, vous n'allez peut-être pas utiliser les mêmes que moi,
+
+37
+00:02:00.480 --> 00:02:04.460
+etc. Prenez ça
+
+38
+00:02:04.500 --> 00:02:04.960
+en compte.
+
+39
+00:02:06.280 --> 00:02:10.081
+Il y aura quand même un fichier skill pour vous aider, mais prenez en compte de
+
+40
+00:02:10.440 --> 00:02:13.560
+faire des produits, faites-le tourner avec le skill que je vous
+
+41
+00:02:14.160 --> 00:02:17.500
+donnerai et adaptez-le. Faites des allers-retours,
+
+42
+00:02:18.060 --> 00:02:21.480
+itérez, expliquez-lui ce qui ne va pas, expliquez-lui ce qui est bien,
+
+43
+00:02:21.900 --> 00:02:23.200
+expliquez-lui pourquoi ça ne va pas, etc.
+
+44
+00:02:24.780 --> 00:02:27.740
+On n'a pas l'avant/après, mais à la limite, ce n'est pas très important.
+
+45
+00:02:28.240 --> 00:02:31.460
+On le verra sur le produit suivant où il y aura vraiment l'avant et après.
+
+46
+00:02:32.000 --> 00:02:34.600
+Là, l'idée, c'est de voir le produit, est-ce qu'il est fini ?
+
+47
+00:02:34.740 --> 00:02:37.140
+Qu'est-ce qu'il a fait potentiellement ?
+
+48
+00:02:37.200 --> 00:02:41.000
+Là, on voit qu'il a rempli tous mes métafield, sauf les dimensions, mais
+
+49
+00:02:41.660 --> 00:02:44.020
+je ne lui ai pas demandé de le faire.
+
+50
+00:02:44.040 --> 00:02:47.940
+Pour le coup, c'est logique. Couleur,
+
+51
+00:02:48.120 --> 00:02:51.280
+pièce, style, matériau, tout ça, c'est du métafield lié
+
+52
+00:02:51.320 --> 00:02:55.220
+au filtre. Et tout le reste, c'est ce qui va être affiché sur la fiche
+
+53
+00:02:55.260 --> 00:02:58.940
+produit. On va aller voir un peu en détail après ce qu'il a fait, mais déjà,
+
+54
+00:02:58.980 --> 00:03:02.020
+vous n'avez pas vu l'avant, mais ça a été renommé.
+
+55
+00:03:04.320 --> 00:03:06.920
+Les variations ont été renommées. Il a ajouté les collections.
+
+56
+00:03:07.620 --> 00:03:09.620
+Les images, je pense qu'il a traduit.
+
+57
+00:03:10.860 --> 00:03:13.000
+Pareil, vous n'avez pas l'avant.
+
+58
+00:03:14.160 --> 00:03:16.380
+Les mots clés, je lui ai filé
+
+59
+00:03:16.480 --> 00:03:20.340
+un document Excel que j'ai exporté
+
+60
+00:03:20.440 --> 00:03:22.540
+de Semrush.
+
+61
+00:03:23.480 --> 00:03:26.700
+C'est tout un listing de mots clés qui étaient liés à la niche.
+
+62
+00:03:27.180 --> 00:03:30.040
+Je ne me suis pas trop f**t c***r, je n'ai pas listé absolument tous les mots clés.
+
+63
+00:03:30.080 --> 00:03:32.660
+J'ai pris surtout les collections et à partir de là, je lui ai
+
+64
+00:03:34.740 --> 00:03:36.180
+donné des directives pour les noms.
+
+65
+00:03:37.040 --> 00:03:37.320
+Ça, c'est
+
+66
+00:03:39.540 --> 00:03:41.180
+à vous de voir comment vous voulez gérer ça.
+
+67
+00:03:41.240 --> 00:03:44.460
+Encore une fois, dans le skill, si ça, ça ne vous plaît pas, à vous de
+
+68
+00:03:44.500 --> 00:03:48.269
+modifier en fonction pour que le titre soit pertinent par
+
+69
+00:03:48.300 --> 00:03:51.280
+rapport à ce que vous souhaitez. Pareil pour la description, pareil pour les
+
+70
+00:03:51.340 --> 00:03:53.440
+métafield, etc. Tout est adaptable.
+
+71
+00:03:53.980 --> 00:03:57.960
+Vite fait, les specs et on va aller voir directement
+
+72
+00:03:58.060 --> 00:03:58.680
+ce que ça donne
+
+73
+00:03:59.760 --> 00:04:01.980
+sur le site. Le site n'est pas terminé.
+
+74
+00:04:02.400 --> 00:04:05.300
+De toute façon, il ne sera jamais terminé, vu que c'est un site exemple.
+
+75
+00:04:05.760 --> 00:04:09.660
+J'ai quand même installé full stack dessus et on voit visuellement
+
+76
+00:04:10.260 --> 00:04:14.080
+ce que ça peut donner. Le système de variation,
+
+77
+00:04:14.120 --> 00:04:14.980
+les avantages.
+
+78
+00:04:15.800 --> 00:04:18.000
+Je ne sais pas ce que c'est travertin, mais j'imagine.
+
+79
+00:04:19.880 --> 00:04:20.940
+Ok, c'est un type de pierre.
+
+80
+00:04:22.720 --> 00:04:24.900
+Ça, c'est pareil, encore une fois, si ça ne vous plaît pas,
+
+81
+00:04:25.740 --> 00:04:28.260
+expliquez-lui pourquoi ça ne vous plaît pas et modifiez-le.
+
+82
+00:04:28.720 --> 00:04:29.280
+Là, c'est vraiment
+
+83
+00:04:30.860 --> 00:04:33.980
+un exemple de vidéo pour vous montrer ce qu'il peut potentiellement faire.
+
+84
+00:04:34.600 --> 00:04:38.200
+Et on voit qu'il a pu modifier les images parce qu'elles étaient en anglais.
+
+85
+00:04:38.380 --> 00:04:40.180
+Je me demande s'il n'en a pas supprimé une ou deux.
+
+86
+00:04:40.880 --> 00:04:43.820
+Et potentiellement, il peut en générer s'il ne voit pas qu'il y a de mise en
+
+87
+00:04:43.840 --> 00:04:47.640
+situation. Là, je ne crois pas que dans ces cas-là, il en ait généré, mais
+
+88
+00:04:47.720 --> 00:04:50.080
+c'est dans mes directives aussi, il peut générer des images.
+
+89
+00:04:50.540 --> 00:04:54.539
+Il a mis des images un peu différentes en métafield et pareil, il a
+
+90
+00:04:54.580 --> 00:04:57.000
+fait des titres et des descriptions, etc.
+
+91
+00:04:58.000 --> 00:05:01.610
+Il a mis une description un peu vendeuse ici et des caractéristiques techniques
+
+92
+00:05:01.740 --> 00:05:03.280
+basées sur les infos qu'il avait déjà.
+
+93
+00:05:03.920 --> 00:05:06.980
+À vous de déterminer potentiellement ce que vous voulez et lui, il ira chercher les
+
+94
+00:05:07.020 --> 00:05:10.400
+infos. Voilà, c'est un peu tout pour le produit.
+
+95
+00:05:10.460 --> 00:05:12.520
+Ce que je vais faire, c'est que dans
+
+96
+00:05:14.120 --> 00:05:16.460
+Disserts, je voulais importer ce produit.
+
+97
+00:05:18.800 --> 00:05:22.660
+Je n'ai rien modifié. Le produit est en anglais, il y a des variantes en anglais,
+
+98
+00:05:23.240 --> 00:05:23.960
+la description,
+
+99
+00:05:25.000 --> 00:05:28.900
+il y a tout en anglais. Là, on voit l'aperçu complet
+
+100
+00:05:29.280 --> 00:05:32.200
+avec toutes les photos, etc., qu'on ne va pas vouloir importer, ça ne sert à rien.
+
+101
+00:05:32.700 --> 00:05:35.720
+Je ne vois pas l'avantage. Sauf si vous voulez lui donner plus de données, mais
+
+102
+00:05:35.740 --> 00:05:39.640
+honnêtement, ça, ça suffit à mon avis. Et les images, pareil.
+
+103
+00:05:40.280 --> 00:05:41.600
+Je vais pousser vers le magasin.
+
+104
+00:05:43.080 --> 00:05:46.440
+Je vous conseille de cocher « N'envoyer que les spécifications
+
+105
+00:05:47.200 --> 00:05:50.220
+». Ça évite d'avoir justement ce bloc qu'on a vu qui ne sert à rien en dessous avec
+
+106
+00:05:50.260 --> 00:05:51.580
+toutes les images. Et donc
+
+107
+00:05:52.560 --> 00:05:54.700
+améliorer la vitesse de production.
+
+108
+00:05:56.540 --> 00:05:59.800
+Là, on va juste attendre que ça s'importe.
+
+109
+00:06:01.180 --> 00:06:03.000
+Et ensuite, on va
+
+110
+00:06:04.520 --> 00:06:07.020
+lui dire : « Fais le produit
+
+111
+00:06:07.820 --> 00:06:11.690
+suivant ».Là, je lui dis de faire le produit
+
+112
+00:06:11.750 --> 00:06:14.250
+suivant parce que je suis toujours dans une optique de test,
+
+113
+00:06:14.570 --> 00:06:18.489
+mais l'idée, c'est qu'une fois que j'ai tout établi, je lui
+
+114
+00:06:18.510 --> 00:06:20.750
+dirai : « Fais les 50 produits suivants.
+
+115
+00:06:21.010 --> 00:06:22.730
+» Sachant que dans
+
+116
+00:06:23.750 --> 00:06:25.210
+le skill, j'ai expliqué
+
+117
+00:06:26.050 --> 00:06:29.610
+à la fin qu'il y ait un agent différent qui aille
+
+118
+00:06:30.030 --> 00:06:33.430
+vérifier que tout est cohérent par rapport à mes
+
+119
+00:06:33.470 --> 00:06:37.090
+directives qui sont expliquées dans le skill, ce qui fait que s'il a oublié quelque
+
+120
+00:06:37.110 --> 00:06:40.990
+chose, l'agent qui va vérifier va lui faire un retour et
+
+121
+00:06:41.050 --> 00:06:41.770
+l'agent va modifier.
+
+122
+00:06:43.590 --> 00:06:46.730
+Là, on voit que le dernier a mis à peu près 8 minutes 30 à faire le
+
+123
+00:06:46.770 --> 00:06:48.590
+produit. C'est un peu long,
+
+124
+00:06:49.730 --> 00:06:53.530
+mais c'est fait de manière automatique et il y a un traitement d'images,
+
+125
+00:06:53.550 --> 00:06:55.710
+donc forcément, ça allonge un peu le temps.
+
+126
+00:06:55.770 --> 00:06:58.850
+Sans le traitement d'images, je pense qu'on peut tourner autour des 4 ou 5 minutes.
+
+127
+00:06:59.710 --> 00:07:01.210
+Je lance la commande.
+
+128
+00:07:02.510 --> 00:07:05.570
+Je lui dis de faire le produit suivant.
+
+129
+00:07:05.650 --> 00:07:08.750
+Là, il va tout de suite comprendre que j'ai importé un nouveau produit.
+
+130
+00:07:09.810 --> 00:07:12.549
+Il va le détecter, logiquement, on va voir en dessous.
+
+131
+00:07:15.430 --> 00:07:19.029
+Là, il cherche les produits sur le
+
+132
+00:07:19.090 --> 00:07:19.530
+site.
+
+133
+00:07:20.730 --> 00:07:22.330
+Control O pour voir
+
+134
+00:07:23.270 --> 00:07:23.890
+toutes les données.
+
+135
+00:07:25.090 --> 00:07:27.810
+Il a trouvé une ordi, j'imagine que c'est celui-là.
+
+136
+00:07:31.470 --> 00:07:35.410
+Je vais juste mettre pause parce que ça va tourner pendant 8, 10
+
+137
+00:07:35.450 --> 00:07:38.990
+minutes. Je ne vois pas l'intérêt de continuer à discuter et je vous reprends
+
+138
+00:07:39.370 --> 00:07:39.790
+dès que c'est fini.
+
+139
+00:07:41.030 --> 00:07:44.770
+Ok, il a terminé. Je ne sais pas pourquoi il a mis un peu plus de temps que
+
+140
+00:07:45.450 --> 00:07:46.090
+le précédent.
+
+141
+00:07:47.170 --> 00:07:51.030
+Peut-être qu'il y avait plus de modifs à faire, aucune idée.
+
+142
+00:07:51.050 --> 00:07:52.010
+En tout cas, c'est fini.
+
+143
+00:07:53.070 --> 00:07:55.190
+On va aller tout de suite checker ce que ça donne.
+
+144
+00:07:57.210 --> 00:08:00.910
+Je n'ai pas montré le avant dans Shopify, mais j'ai
+
+145
+00:08:00.950 --> 00:08:01.610
+montré dans
+
+146
+00:08:02.990 --> 00:08:06.950
+Disserts. Vous savez ce qui se passe quand on importe depuis
+
+147
+00:08:07.010 --> 00:08:10.740
+Disserts. Il y a les mêmes données, les mêmes photos, c'est écrit en anglais, il y
+
+148
+00:08:10.740 --> 00:08:12.350
+a les specs, etc. Peu importe.
+
+149
+00:08:13.350 --> 00:08:15.700
+Là, je ne sais pas pourquoi il m'a fait une description beaucoup plus longue et
+
+150
+00:08:15.970 --> 00:08:17.450
+sans gras. Peu importe.
+
+151
+00:08:18.690 --> 00:08:22.130
+Dimensions, couleurs, il a tout rempli, on est bon.
+
+152
+00:08:22.990 --> 00:08:24.929
+Il a fait le
+
+153
+00:08:26.230 --> 00:08:29.030
+meta title et meta description.
+
+154
+00:08:30.390 --> 00:08:32.890
+D'ailleurs, je n'ai pas montré, mais il fait aussi
+
+155
+00:08:33.410 --> 00:08:37.091
+les alt texts, donc « plafonnier LED naturel
+
+156
+00:08:37.591 --> 00:08:40.571
+», « travertin », je crois qu'on a vu tout à l'heure que c'était le type de pierre,
+
+157
+00:08:41.110 --> 00:08:43.240
+et « bois », « vue de proche », « couloir bois ».
+
+158
+00:08:43.650 --> 00:08:47.310
+Il décrit bien l'image. « Deux finitions »,
+
+159
+00:08:47.810 --> 00:08:51.370
+j'en ai parlé tout à l'heure, mais si je n'ai pas envie qu'il parle de ça,
+
+160
+00:08:51.790 --> 00:08:53.510
+je lui explique et il ne le fera plus.
+
+161
+00:08:53.610 --> 00:08:55.410
+Il peut même d'ailleurs corriger les produits précédents.
+
+162
+00:08:56.750 --> 00:08:57.230
+Les images.
+
+163
+00:08:58.910 --> 00:09:01.110
+C'est vrai que je n'ai même pas montré les images non plus avant, c'est dommage.
+
+164
+00:09:03.310 --> 00:09:06.930
+C'était en anglais. On le voit, ça a été retravaillé un peu.
+
+165
+00:09:07.090 --> 00:09:10.810
+Ce n'est pas incroyable, mais c'est toujours mieux que ce soit en
+
+166
+00:09:10.850 --> 00:09:14.790
+français qu'en anglais. Là, je pourrais par exemple lui dire
+
+167
+00:09:16.230 --> 00:09:19.410
+: « Ta description est trop longue. » Si je n'ai pas envie, il n'y a pas de gras.
+
+168
+00:09:20.330 --> 00:09:23.090
+Tout ça, je peux lui expliquer si j'ai envie.
+
+169
+00:09:23.230 --> 00:09:26.070
+On n'est pas trop mal pour cette partie, donc on va aller voir ce que ça donne en
+
+170
+00:09:26.190 --> 00:09:26.570
+live.
+
+171
+00:09:27.670 --> 00:09:27.830
+Le
+
+172
+00:09:29.070 --> 00:09:33.430
+nom,
+
+173
+00:09:33.850 --> 00:09:35.650
+OK. Les avantages.
+
+174
+00:09:37.310 --> 00:09:40.640
+« Deux finitions », il y a bien deux finitions. « Lumière douce ».
+
+175
+00:09:40.710 --> 00:09:42.310
+« LED 4 watts », je ne sais pas si c'est important.
+
+176
+00:09:42.810 --> 00:09:45.190
+Encore une fois, si on n'a pas envie de ce genre d'info, on lui dit.
+
+177
+00:09:45.940 --> 00:09:45.940
+«
+
+178
+00:09:46.910 --> 00:09:50.470
+Pierre travertin naturel », on pourrait mettre juste « Naturel » par
+
+179
+00:09:50.530 --> 00:09:50.950
+exemple.
+
+180
+00:09:52.130 --> 00:09:55.350
+Et la description, caractéristiques
+
+181
+00:09:55.430 --> 00:09:56.210
+techniques.
+
+182
+00:09:58.350 --> 00:10:01.530
+On est bon, on a les deux métafields
+
+183
+00:10:02.290 --> 00:10:03.030
+et les deux blocs.
+
+184
+00:10:04.440 --> 00:10:06.700
+« Un éclairage minimaliste en pierre, deux finitions,
+
+185
+00:10:08.290 --> 00:10:11.990
+deux canopées. » Je ne sais pas ce que ça veut dire, mais j'imagine que pareil.
+
+186
+00:10:12.000 --> 00:10:14.240
+De toute façon, c'est un bon exemple pour
+
+187
+00:10:15.970 --> 00:10:19.070
+regarder ce qu'il fait, checker si ce n'est pas
+
+188
+00:10:19.110 --> 00:10:22.770
+incohérent. Si ça l'est, expliquez-lui pourquoi c'est incohérent
+
+189
+00:10:23.430 --> 00:10:27.309
+et faites les modifs. Comme pour le titre, pour ça, si on n'a pas
+
+190
+00:10:27.330 --> 00:10:31.150
+envie, comme pour ça, comme pour le « LED 4 watts », comme
+
+191
+00:10:31.210 --> 00:10:35.050
+pour le nom ici. Tout ça, si ça ne vous correspond pas, vous lui
+
+192
+00:10:35.090 --> 00:10:35.630
+expliquez,
+
+193
+00:10:37.170 --> 00:10:40.490
+vous lui dites de refaire le produit, il le refait. Si c'est bon, on est bon.
+
+194
+00:10:40.970 --> 00:10:44.370
+Si ce n'est pas bon, vous recommencez et vous itérez jusqu'à ce que ce soit bon.
+
+195
+00:10:44.810 --> 00:10:48.350
+Après, vous passez à un produit suivant et vous en faites, comme je disais tout à
+
+196
+00:10:48.390 --> 00:10:48.590
+l'heure,
+
+197
+00:10:49.650 --> 00:10:53.610
+pour que tout soit bon. Et une fois qu'il a le process en place et que
+
+198
+00:10:53.650 --> 00:10:56.970
+tout est parfait, vous avez juste à lancer en
+
+199
+00:10:57.070 --> 00:11:00.930
+boucle les 100, 200, 300 produits et il
+
+200
+00:11:00.950 --> 00:11:04.630
+fera tout automatiquement. Je répète juste qu'il y a le skill
+
+201
+00:11:04.750 --> 00:11:07.920
+en description en dessous. Il y aura un lien pour accéder à un fichier qui vous
+
+202
+00:11:07.930 --> 00:11:11.740
+permettra de le copier. Il faudra juste le donner à Claude en lui disant : «
+
+203
+00:11:11.750 --> 00:11:13.650
+Voilà un skill pour mon intégration produit.
+
+204
+00:11:14.000 --> 00:11:17.890
+» Je rappelle qu'il y a une vidéo qui permet d'expliquer comment on connecte
+
+205
+00:11:17.950 --> 00:11:21.130
+Claude à Shopify. Il y aura le lien aussi potentiellement de la vidéo.
+
+206
+00:11:22.010 --> 00:11:25.630
+Vous avez toutes les infos pour que Claude travaille sur votre site et
+
+207
+00:11:25.690 --> 00:11:29.350
+intègre complètement de A to Z vos produits, dont les images,
+
+208
+00:11:29.830 --> 00:11:33.360
+en sachant qu'il y a quand même une petite vérif à faire manuellement si vous ne
+
+209
+00:11:33.360 --> 00:11:36.150
+voulez pas de problème, surtout si vous faites de la pub.
+
+210
+00:11:37.010 --> 00:11:40.120
+J'espère que ça vous aura aidé, donné des astuces,
+
+211
+00:11:40.270 --> 00:11:43.850
+conseils et aussi de l'info sur ce qu'il est possible de
+
+212
+00:11:43.890 --> 00:11:45.650
+faire sur Shopify avec Claude.

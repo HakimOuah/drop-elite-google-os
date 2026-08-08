@@ -1,0 +1,10257 @@
+WEBVTT
+
+1
+00:00:06.860 --> 00:00:07.820
+Théo ?
+
+2
+00:00:07.860 --> 00:00:08.061
+Oui.
+
+3
+00:00:08.960 --> 00:00:11.700
+Je ne sais pas si c'est le même truc que tu as utilisé dans ta vidéo pour
+
+4
+00:00:12.040 --> 00:00:16.000
+l'intégration produit avec Cloud Code et Shopify, mais ils ont
+
+5
+00:00:16.020 --> 00:00:18.340
+sorti un truc, Shopify. J'ai vu ça hier.
+
+6
+00:00:19.120 --> 00:00:23.020
+C'est le MCP officiel, mais directement dans Cloud Code, dans la partie
+
+7
+00:00:23.080 --> 00:00:23.420
+plugin.
+
+8
+00:00:23.920 --> 00:00:27.030
+Non, il n'y avait pas. Salut
+
+9
+00:00:27.100 --> 00:00:28.000
+Raph.
+
+10
+00:00:29.080 --> 00:00:29.280
+OK.
+
+11
+00:00:29.580 --> 00:00:32.940
+Shopkit iTool. Toolkit.
+
+12
+00:00:35.920 --> 00:00:37.320
+Shopify iToolkit.
+
+13
+00:00:37.350 --> 00:00:37.400
+Tu as
+
+14
+00:00:38.760 --> 00:00:39.200
+un lien ?
+
+15
+00:00:40.220 --> 00:00:44.120
+Oui. Mais c'est directement dans les connecteurs de Cloud, dans l'app, tu veux
+
+16
+00:00:44.140 --> 00:00:47.480
+dire ? Dans l'app Cloud ? Oui. Attends.
+
+17
+00:00:48.720 --> 00:00:50.160
+Je ne l'ai même pas sur ce PC, je crois.
+
+18
+00:00:51.220 --> 00:00:51.900
+Non ?
+
+19
+00:00:51.980 --> 00:00:52.180
+Non.
+
+20
+00:00:53.220 --> 00:00:53.880
+Je te vois le lien.
+
+21
+00:00:56.540 --> 00:00:57.780
+Yes.
+
+22
+00:00:59.060 --> 00:01:01.080
+Ta technique, c'était en CLI ? C'était en quoi
+
+23
+00:01:02.900 --> 00:01:02.900
+?
+
+24
+00:01:04.300 --> 00:01:05.481
+Ce que j'ai fait dans la vidéo ?
+
+25
+00:01:05.520 --> 00:01:05.800
+Oui.
+
+26
+00:01:08.960 --> 00:01:12.840
+Non, c'était un MCP, mais pas officiel ou
+
+27
+00:01:12.960 --> 00:01:14.340
+pas clairement officiel.
+
+28
+00:01:18.420 --> 00:01:19.300
+Je
+
+29
+00:01:20.320 --> 00:01:21.920
+ne sais même pas comment ça peut s'appeler.
+
+30
+00:01:23.400 --> 00:01:25.820
+C'était un connecteur, mais manuel.
+
+31
+00:01:27.440 --> 00:01:30.000
+Parce que je ne sais pas si celui-là, il est plus simple à connecter ou en vrai, ça
+
+32
+00:01:30.010 --> 00:01:30.760
+ne change pas grand-chose.
+
+33
+00:01:31.100 --> 00:01:31.900
+Oui, je ne sais pas.
+
+34
+00:01:31.920 --> 00:01:34.240
+Je sais que les MCP, de base, ça consomme un peu,
+
+35
+00:01:35.100 --> 00:01:37.360
+ça prend beaucoup de contexte de base.
+
+36
+00:01:39.480 --> 00:01:39.660
+Oui.
+
+37
+00:01:40.280 --> 00:01:44.140
+Le mieux, c'est tout ce qui est CLI ou alors REST API, qui est
+
+38
+00:01:44.180 --> 00:01:44.880
+directement...
+
+39
+00:01:45.540 --> 00:01:47.000
+Oui. Mais je me demande si
+
+40
+00:01:48.000 --> 00:01:51.700
+ça marche avec l'API. Je croyais GraphQL API aussi.
+
+41
+00:01:51.760 --> 00:01:52.940
+Vu que ce n'était pas
+
+42
+00:01:54.200 --> 00:01:54.920
+un truc officiel,
+
+43
+00:01:55.860 --> 00:01:58.080
+je ne sais pas. Franchement, je ne saurais pas trop te répondre sur ça.
+
+44
+00:01:58.820 --> 00:01:58.830
+Il
+
+45
+00:02:00.300 --> 00:02:01.200
+faudrait que je voie
+
+46
+00:02:02.540 --> 00:02:05.960
+ce que tu as envoyé, mais c'est un peu bizarre. Plugin, marketplace.
+
+47
+00:02:06.240 --> 00:02:06.700
+Oui, d'accord.
+
+48
+00:02:07.620 --> 00:02:11.580
+Ils te mettent une ligne de code qui va dans la marketplace
+
+49
+00:02:11.680 --> 00:02:13.820
+pour aller choper le truc officiel qui s'appelle
+
+50
+00:02:13.860 --> 00:02:15.760
+Shopify-i-toolkit.
+
+51
+00:02:16.380 --> 00:02:16.840
+Oui, c'est ça.
+
+52
+00:02:18.320 --> 00:02:21.240
+Je vais essayer d'installer sur mon cloud pour voir ce que ça donne.
+
+53
+00:02:22.680 --> 00:02:23.460
+Il y a
+
+54
+00:02:24.920 --> 00:02:26.040
+Shopify CLI aussi.
+
+55
+00:02:27.780 --> 00:02:31.480
+Oui, j'ai vu qu'il y avait un lien. Non,
+
+56
+00:02:32.420 --> 00:02:33.840
+j'ai vu Gemini CLI.
+
+57
+00:02:34.160 --> 00:02:36.380
+Tu peux créer des applications aussi ?
+
+58
+00:02:38.220 --> 00:02:39.400
+C'est où que tu vois un CLI ?
+
+59
+00:02:40.440 --> 00:02:41.860
+En bas de la page du lien.
+
+60
+00:02:43.920 --> 00:02:47.780
+Oui, OK. Tu as vu ? C'est pour les apps
+
+61
+00:02:47.820 --> 00:02:48.840
+et le...
+
+62
+00:02:48.860 --> 00:02:49.500
+Pour le thème ?
+
+63
+00:02:49.560 --> 00:02:49.740
+Oui.
+
+64
+00:02:50.680 --> 00:02:51.340
+Ça, ça fait un moment.
+
+65
+00:02:51.540 --> 00:02:55.340
+Comment je
+
+66
+00:02:55.460 --> 00:02:57.160
+fais pour télécharger ?
+
+67
+00:03:01.520 --> 00:03:03.400
+Windows. Oui.
+
+68
+00:03:11.020 --> 00:03:13.080
+Ça fait longtemps, Raph.
+
+69
+00:03:15.040 --> 00:03:15.840
+Qu'est-ce que ça devient ?
+
+70
+00:03:16.840 --> 00:03:17.780
+Oui, de ouf.
+
+71
+00:03:19.000 --> 00:03:22.940
+Ça va. Je finalise un site
+
+72
+00:03:23.000 --> 00:03:25.720
+sur une niche déco avec pas mal de
+
+73
+00:03:26.900 --> 00:03:28.940
+produits. J'ai plus de 600 produits au total.
+
+74
+00:03:32.440 --> 00:03:34.580
+Ça va. J'ai fait un testing sur
+
+75
+00:03:35.760 --> 00:03:39.260
+la même niche, mais des produits un peu plus
+
+76
+00:03:39.660 --> 00:03:42.160
+haut de gamme, un peu plus nichés.
+
+77
+00:03:43.680 --> 00:03:45.500
+Quelques ventes, mais en shopping, c'était un peu galère.
+
+78
+00:03:45.920 --> 00:03:46.740
+Parce qu'en shopping,
+
+79
+00:03:48.200 --> 00:03:50.720
+j'avais beaucoup de curieux, des gens qui cliquaient parce que les produits étaient
+
+80
+00:03:50.780 --> 00:03:52.400
+beaux, etc, mais qui n'achetaient pas forcément.
+
+81
+00:03:53.100 --> 00:03:55.580
+Donc ça marchait pas mal sur Pinterest.
+
+82
+00:03:55.820 --> 00:03:58.140
+J'ai testé Pinterest à un moment, Pinterest shopping, c'était cool.
+
+83
+00:03:59.440 --> 00:04:01.160
+Ads de Pinterest ?
+
+84
+00:04:01.280 --> 00:04:02.960
+Oui, l'Ads de Pinterest.
+
+85
+00:04:03.780 --> 00:04:04.880
+Je l'ai testé.
+
+86
+00:04:05.020 --> 00:04:05.720
+Ça a bien marché ?
+
+87
+00:04:06.660 --> 00:04:08.760
+Oui, ça a bien marché.
+
+88
+00:04:10.780 --> 00:04:14.549
+Oui et non. J'ai fait quelques ventes, mais oui, ça a
+
+89
+00:04:14.580 --> 00:04:17.360
+marché. En plus, le truc, c'est que ça ramène du trafic pas cher.
+
+90
+00:04:17.601 --> 00:04:20.601
+Et comme c'est une niche déco, ça s'y prêtait bien.
+
+91
+00:04:20.700 --> 00:04:23.200
+Et c'est des produits qui sont assez chers. Donc, je me suis dit : « Go tester.
+
+92
+00:04:23.340 --> 00:04:26.960
+» J'ai dû faire trois ventes. Trois ventes sur l'espace de...
+
+93
+00:04:27.340 --> 00:04:30.040
+Tu as dépensé combien ?
+
+94
+00:04:30.420 --> 00:04:30.560
+Sur
+
+95
+00:04:31.880 --> 00:04:35.120
+Pinterest, je ne sais plus. J'ai dû dépenser, je crois, 300
+
+96
+00:04:36.220 --> 00:04:36.860
+balles à peu près.
+
+97
+00:04:37.500 --> 00:04:37.680
+Oui.
+
+98
+00:04:38.600 --> 00:04:38.720
+Oui,
+
+99
+00:04:41.220 --> 00:04:41.960
+ça roule, c'est pas mal.
+
+100
+00:04:43.440 --> 00:04:46.580
+Tu as bien fait, parce qu'en plus, déco, c'est parfait pour Pinterest.
+
+101
+00:04:47.240 --> 00:04:51.210
+Oui, carrément. Puis, tu as des crédits offerts aussi, tu as 80 balles
+
+102
+00:04:51.260 --> 00:04:52.159
+à l'ouverture.
+
+103
+00:04:56.060 --> 00:04:59.900
+Yes. Salut Omar, salut Mika, salut Gaël, salut Aymeric,
+
+104
+00:05:00.640 --> 00:05:01.380
+Yoann.
+
+105
+00:05:02.300 --> 00:05:04.120
+Je crois que j'ai fait le tour.
+
+106
+00:05:06.460 --> 00:05:07.940
+Cool.
+
+107
+00:05:09.320 --> 00:05:10.340
+Après, Pinterest,
+
+108
+00:05:12.860 --> 00:05:13.800
+pour l'avoir testé,
+
+109
+00:05:15.260 --> 00:05:18.820
+pour scaler le Pinterest ads, je trouvais que c'était chiant, long, dur.
+
+110
+00:05:20.220 --> 00:05:23.960
+Je ne sais pas, tu nous diras si tu continueras dessus à
+
+111
+00:05:23.980 --> 00:05:26.960
+l'optimiser. Je crois que tu as passé ton
+
+112
+00:05:27.880 --> 00:05:29.860
+micro.
+
+113
+00:05:29.980 --> 00:05:34.080
+Oui,
+
+114
+00:05:34.540 --> 00:05:35.670
+désolé.
+
+115
+00:05:36.700 --> 00:05:40.580
+L'antibruit qui n'était pas activé.
+
+116
+00:05:41.880 --> 00:05:42.360
+Yes.
+
+117
+00:05:44.100 --> 00:05:48.040
+Du coup, il n'y a pas d'autres sites, donc je ne sais pas si quelqu'un veut
+
+118
+00:05:48.080 --> 00:05:49.740
+passer voir un truc.
+
+119
+00:05:52.140 --> 00:05:54.280
+Pendant ce temps-là, j'essaie d'installer. Je vais voir les connecteurs.
+
+120
+00:05:55.640 --> 00:05:57.080
+Est-ce que si je vais dans
+
+121
+00:05:59.020 --> 00:06:00.900
+Connecteur,
+
+122
+00:06:02.640 --> 00:06:04.220
+Ajouter, Parcourir,
+
+123
+00:06:05.140 --> 00:06:09.068
+ShopifyOn ne le trouve pas comme ça.
+
+124
+00:06:10.228 --> 00:06:10.688
+Plugin.
+
+125
+00:06:12.208 --> 00:06:13.067
+Define.
+
+126
+00:06:18.928 --> 00:06:22.868
+J'avais quelques petites questions, j'en profite s'il n'y a pas de autres sites.
+
+127
+00:06:22.888 --> 00:06:23.808
+Oui, vas-y.
+
+128
+00:06:25.868 --> 00:06:28.288
+Sur mon nouveau site, la nouvelle niche,
+
+129
+00:06:30.048 --> 00:06:34.008
+j'ai beaucoup de produits. J'ai un peu plus de
+
+130
+00:06:34.148 --> 00:06:35.028
+600 produits au total.
+
+131
+00:06:35.868 --> 00:06:38.388
+Ce n'est pas encore lancé en ads, en shopping, il n'y a rien.
+
+132
+00:06:38.948 --> 00:06:42.048
+Je me demandais si ça ne venait pas trop
+
+133
+00:06:42.368 --> 00:06:46.308
+limite de balancer 600 produits en
+
+134
+00:06:46.388 --> 00:06:50.348
+shopping d'un coup. J'imagine que ça va être
+
+135
+00:06:50.388 --> 00:06:51.967
+plus long pour le testing et tout ça.
+
+136
+00:06:54.248 --> 00:06:55.268
+Oui, forcément,
+
+137
+00:06:57.008 --> 00:07:00.068
+plus tu auras de produits, plus il va falloir de budget pour les tester.
+
+138
+00:07:00.848 --> 00:07:01.548
+Oui, c'est ça.
+
+139
+00:07:03.008 --> 00:07:06.968
+C'est sûr. Après, tu peux aussi avoir 600 produits
+
+140
+00:07:07.028 --> 00:07:10.428
+sur ton site et balancer du shopping que sur 2 ou 300.
+
+141
+00:07:11.588 --> 00:07:13.268
+À toi de faire ta sélection avec tes
+
+142
+00:07:15.268 --> 00:07:16.527
+filtres pour faire ça.
+
+143
+00:07:16.968 --> 00:07:20.508
+Déjà, j'ai déjà fait une préselection.
+
+144
+00:07:20.608 --> 00:07:24.308
+J'ai plus de 900 produits au total et ensuite j'en ai retenu
+
+145
+00:07:24.348 --> 00:07:28.298
+600. Après, sur les 600, j'ai des produits qui sont hors stock puisque je ne
+
+146
+00:07:28.368 --> 00:07:31.768
+passe pas par Aliexpress, je passe par un fournisseur direct.
+
+147
+00:07:31.808 --> 00:07:35.048
+Les stocks suivent ceux de mes fournisseurs.
+
+148
+00:07:36.628 --> 00:07:37.808
+Forcément, il y a des produits hors stock.
+
+149
+00:07:38.568 --> 00:07:42.128
+Par contre,
+
+150
+00:07:42.248 --> 00:07:45.508
+au niveau des variantes de
+
+151
+00:07:46.048 --> 00:07:46.368
+taille,
+
+152
+00:07:47.448 --> 00:07:51.368
+sur chaque produit, c'est un peu plus de 600 produits
+
+153
+00:07:51.488 --> 00:07:55.468
+uniques. Si j'inclue des variantes de taille, il y a environ 4,5
+
+154
+00:07:55.548 --> 00:07:57.268
+variations de taille sur chaque produit.
+
+155
+00:07:59.008 --> 00:08:01.048
+Je me demandais même si
+
+156
+00:08:02.008 --> 00:08:05.848
+ça valait le coup de balancer toutes les variantes ou pas, ou faire du
+
+157
+00:08:05.888 --> 00:08:06.748
+variant only.
+
+158
+00:08:08.028 --> 00:08:08.768
+Ça
+
+159
+00:08:09.668 --> 00:08:11.088
+dépend de tes variantes.
+
+160
+00:08:12.968 --> 00:08:14.708
+Étant donné ta niche,
+
+161
+00:08:15.788 --> 00:08:17.327
+je vais essayer de te donner un exemple.
+
+162
+00:08:23.108 --> 00:08:26.688
+Je vais essayer de te donner un exemple dans la déco.
+
+163
+00:08:30.628 --> 00:08:33.328
+Non, je n'en ai pas. J'en ai un pour les chaussons, les chaussures.
+
+164
+00:08:34.369 --> 00:08:36.129
+En vrai, je peux donner ma niche.
+
+165
+00:08:36.168 --> 00:08:39.509
+C'est toi qui vois, tu n'es pas obligé.
+
+166
+00:08:40.588 --> 00:08:43.648
+Ça n'a même pas trop d'intérêt, sauf si vraiment, tu veux qu'on discute dessus.
+
+167
+00:08:44.108 --> 00:08:44.668
+Oui, c'est vrai.
+
+168
+00:08:45.828 --> 00:08:48.868
+En gros, ce sont des variations de taille.
+
+169
+00:08:48.888 --> 00:08:49.448
+Il y a de la
+
+170
+00:08:50.608 --> 00:08:53.578
+recherche explicite sur des variations de
+
+171
+00:08:53.608 --> 00:08:54.648
+taille.
+
+172
+00:08:56.968 --> 00:09:00.548
+Mais des fois, j'ai des tailles qui
+
+173
+00:09:00.648 --> 00:09:04.568
+sont vraiment similaires. Il n'y a pas de grands
+
+174
+00:09:04.608 --> 00:09:07.338
+écarts. Ok, il y a des petits produits, il y a des moyens produits, il y a des
+
+175
+00:09:07.368 --> 00:09:11.188
+grands produits, mais dans les moyens, il y a des tailles qui
+
+176
+00:09:11.248 --> 00:09:12.468
+sont assez proches.
+
+177
+00:09:19.548 --> 00:09:23.328
+À mon avis, le meilleur test que tu peux faire pour ta
+
+178
+00:09:23.388 --> 00:09:26.508
+niche, c'est de taper tes mots clés dans Google,
+
+179
+00:09:27.408 --> 00:09:31.088
+voir les fiches produits de tes concurrents et voir à quel
+
+180
+00:09:31.228 --> 00:09:31.668
+point
+
+181
+00:09:32.728 --> 00:09:34.368
+ils ont mis une importance sur les tailles.
+
+182
+00:09:35.048 --> 00:09:36.408
+S'il n'y a pas spécialement,
+
+183
+00:09:37.808 --> 00:09:41.648
+je vais essayer de te donner un exemple qui n'a rien à voir, mais qu'on avait
+
+184
+00:09:41.668 --> 00:09:45.168
+déjà vu il n'y a pas longtemps en live, c'était le bureau assis-debout.
+
+185
+00:09:47.648 --> 00:09:49.748
+Il y a un système de tailles de plateaux.
+
+186
+00:09:51.408 --> 00:09:53.508
+Ça dépend, mais ça rentre dans l'exemple.
+
+187
+00:09:53.748 --> 00:09:57.128
+Il y a un système de tailles quand même parce que tu peux rechercher un bureau qui
+
+188
+00:09:57.168 --> 00:09:57.908
+fait telle taille, etc.
+
+189
+00:09:58.808 --> 00:10:00.508
+Mais en soi, ton
+
+190
+00:10:02.388 --> 00:10:04.108
+objectif, c'est déjà de trouver le bureau.
+
+191
+00:10:04.508 --> 00:10:05.208
+Après, la taille,
+
+192
+00:10:06.348 --> 00:10:10.268
+je ne suis pas sûr que ça soit le truc, même s'il y a de la recherche
+
+193
+00:10:10.308 --> 00:10:13.328
+dessus parce que c'est pertinent et cohérent et logique de
+
+194
+00:10:14.488 --> 00:10:18.368
+chercher un bureau qui fait 2 mètres, mais je pense que tu
+
+195
+00:10:18.408 --> 00:10:21.948
+vas aussi rechercher déjà le bureau en soi pour voir s'il y en a un qui te plaît.
+
+196
+00:10:22.308 --> 00:10:25.217
+Et après, ils auront un système de tailles et tu vas aller checker dans tes
+
+197
+00:10:25.288 --> 00:10:29.147
+tailles. Je ne sais pas si ça va t'aider par rapport à ta niche à toi,
+
+198
+00:10:29.828 --> 00:10:33.548
+mais c'est le bon exemple qu'il n'y a pas spécialement
+
+199
+00:10:33.608 --> 00:10:35.348
+besoin, je pense, de mettre toutes les variations.
+
+200
+00:10:37.048 --> 00:10:40.328
+La première suffira et en cliquant dessus, après, ils choisissent leur taille en
+
+201
+00:10:40.388 --> 00:10:41.388
+fonction de leurs besoins.
+
+202
+00:10:42.708 --> 00:10:43.308
+Je vois.
+
+203
+00:10:43.348 --> 00:10:45.228
+Je ne sais pas si ça t'aide pour ta niche.
+
+204
+00:10:48.528 --> 00:10:48.847
+Oui.
+
+205
+00:10:49.088 --> 00:10:49.448
+Au pire,
+
+206
+00:10:50.728 --> 00:10:52.048
+est-ce que tu arrives à trouver
+
+207
+00:10:53.608 --> 00:10:55.128
+ton produit qui n'est pas ton produit ?
+
+208
+00:10:55.988 --> 00:10:59.648
+Ou alors me MP la niche et j'essaie de trouver un exemple proche.
+
+209
+00:11:01.668 --> 00:11:02.128
+En vrai,
+
+210
+00:11:04.008 --> 00:11:07.368
+par comparaison directe, un tableau, par exemple.
+
+211
+00:11:07.548 --> 00:11:07.888
+OK.
+
+212
+00:11:09.468 --> 00:11:13.328
+Typiquement, un tableau ou un poster ou autre, tu peux
+
+213
+00:11:13.388 --> 00:11:15.368
+clairement faire ce variante.
+
+214
+00:11:16.268 --> 00:11:16.888
+Ah oui ? Ok.
+
+215
+00:11:18.308 --> 00:11:18.668
+Franchement,
+
+216
+00:11:19.548 --> 00:11:21.508
+oui, il y a beaucoup de recherches liées aux tailles,
+
+217
+00:11:22.388 --> 00:11:22.648
+mais
+
+218
+00:11:26.848 --> 00:11:29.028
+la personne peut s'adapter un peu à la taille.
+
+219
+00:11:29.248 --> 00:11:31.808
+S'il y a 10 centimètres de moins ou je ne sais pas.
+
+220
+00:11:33.428 --> 00:11:35.148
+Si je choisis du poster ou du tableau,
+
+221
+00:11:36.748 --> 00:11:40.328
+je force variante. Parce qu'en plus, il y a tellement de tailles.
+
+222
+00:11:40.428 --> 00:11:43.198
+Toi, tu disais que tu n'en avais que quatre, donc ce n'est peut-être pas exactement
+
+223
+00:11:43.228 --> 00:11:43.468
+pareil.
+
+224
+00:11:44.728 --> 00:11:48.038
+En moyenne, j'en ai quatre à cinq. Des fois, ça va jusqu'à
+
+225
+00:11:48.068 --> 00:11:48.787
+huit.
+
+226
+00:11:50.248 --> 00:11:50.448
+Oui.
+
+227
+00:11:51.648 --> 00:11:55.628
+C'est autant la taille, d'avoir des variations de tailles
+
+228
+00:11:55.668 --> 00:11:59.308
+différentes, forcément, ça va me faire avoir des prix affichés
+
+229
+00:11:59.348 --> 00:12:02.688
+différents en shopping, parce qu'entre des petits modèles et des grands modèles,
+
+230
+00:12:02.888 --> 00:12:05.528
+des fois, les petits modèles peuvent se vendre 40 euros quand les grands peuvent
+
+231
+00:12:05.588 --> 00:12:06.868
+aller jusqu'à 400 euros, par
+
+232
+00:12:06.928 --> 00:12:10.536
+exemple.En même
+
+233
+00:12:10.616 --> 00:12:11.036
+temps,
+
+234
+00:12:13.376 --> 00:12:13.445
+j'ai
+
+235
+00:12:15.616 --> 00:12:18.466
+beaucoup de produits. En plus, si j'incluais les variations de taille, ça ferait
+
+236
+00:12:18.496 --> 00:12:20.266
+encore plus de produits, plus de trucs à tester.
+
+237
+00:12:20.616 --> 00:12:22.686
+Si je mets
+
+238
+00:12:23.616 --> 00:12:23.616
+«
+
+239
+00:12:24.456 --> 00:12:25.596
+poster un chien
+
+240
+00:12:27.816 --> 00:12:30.176
+mignon », c'est ce que Google me recommande.
+
+241
+00:12:31.236 --> 00:12:33.596
+Non, pas photo,
+
+242
+00:12:33.956 --> 00:12:37.796
+poster. Est-ce que vous aussi, vous avez le
+
+243
+00:12:37.896 --> 00:12:40.356
+bip ? Non, il n'y a que moi qui ai le bip quand il y a quelqu'un qui arrive.
+
+244
+00:12:40.936 --> 00:12:41.736
+Il n'y a que moi qui l'ai, OK.
+
+245
+00:12:42.696 --> 00:12:45.596
+Si je mets « poster un machin » sur Google,
+
+246
+00:12:46.556 --> 00:12:50.546
+en général, déjà de un, vu que c'est la first variante, tu as le prix le
+
+247
+00:12:50.546 --> 00:12:50.816
+plus bas.
+
+248
+00:12:51.656 --> 00:12:55.196
+Donc ça peut augmenter ton CTR dans le shopping parce que ça va
+
+249
+00:12:55.796 --> 00:12:59.416
+prendre la first variation qui est en logique la plus petite et donc la moins
+
+250
+00:12:59.436 --> 00:13:02.226
+chère. Tu as cet avantage-là. Et de deux,
+
+251
+00:13:03.256 --> 00:13:05.116
+en général, tu cliques sur ton produit,
+
+252
+00:13:06.156 --> 00:13:10.136
+tu vas sur le site et après il propose une chiée de tailles
+
+253
+00:13:10.176 --> 00:13:10.956
+et tu choisis ta taille.
+
+254
+00:13:11.796 --> 00:13:15.646
+Même s'il y a des gens qui vont mettre « poster 50 70 ».
+
+255
+00:13:16.556 --> 00:13:16.796
+Oui.
+
+256
+00:13:19.096 --> 00:13:20.376
+Il y en a qui vont rechercher ça,
+
+257
+00:13:21.236 --> 00:13:22.096
+mais en général,
+
+258
+00:13:23.176 --> 00:13:27.136
+en tout cas pour l'exemple des posters, c'est un bon exemple où tu vas déjà
+
+259
+00:13:27.176 --> 00:13:27.916
+trouver ton design
+
+260
+00:13:28.796 --> 00:13:31.796
+et après, tu vas sur la fiche produit et logiquement, il y a la taille, parce que
+
+261
+00:13:31.836 --> 00:13:33.566
+tu devrais avoir des tailles un peu standards.
+
+262
+00:13:34.556 --> 00:13:38.235
+Oui, je comprends totalement. C'est un peu comme ça que je réfléchis.
+
+263
+00:13:38.696 --> 00:13:42.356
+Donc pour l'exemple des posters, clairement, first variante.
+
+264
+00:13:43.876 --> 00:13:44.136
+OK.
+
+265
+00:13:45.016 --> 00:13:46.696
+Du coup, c'est ce duo design et
+
+266
+00:13:47.736 --> 00:13:51.716
+après, le mec trouve sa taille. Imaginons, il voulait du 50 70,
+
+267
+00:13:52.176 --> 00:13:54.236
+il y a du 50 60. Est-ce
+
+268
+00:13:54.276 --> 00:13:58.156
+qu'il ne trouve pas une solution pour au final
+
+269
+00:13:58.196 --> 00:14:01.676
+prendre du 50 60 ? Ce sera à peu près pareil là où il veut le poser.
+
+270
+00:14:02.496 --> 00:14:05.896
+Après, s'il a le cadre, c'est un autre sujet.
+
+271
+00:14:07.036 --> 00:14:07.816
+Je suis d'accord.
+
+272
+00:14:11.476 --> 00:14:15.346
+Ça veut dire que la taille serait quand
+
+273
+00:14:15.396 --> 00:14:17.816
+même affichée sur Google Shopping.
+
+274
+00:14:17.836 --> 00:14:19.536
+À la lecture, ça serait visible, je pense.
+
+275
+00:14:22.046 --> 00:14:23.236
+Dans le titre, je peux dire.
+
+276
+00:14:25.756 --> 00:14:28.876
+Je ne crois pas. Je crois que quand tu first variante, ça ne met même pas la
+
+277
+00:14:28.916 --> 00:14:29.336
+variante.
+
+278
+00:14:29.496 --> 00:14:29.506
+Ah
+
+279
+00:14:30.316 --> 00:14:33.036
+oui, tu as une option quand même en first variante.
+
+280
+00:14:33.076 --> 00:14:34.316
+Oui, je crois.
+
+281
+00:14:35.556 --> 00:14:37.436
+Il faut que je fasse un test pour ça.
+
+282
+00:14:38.525 --> 00:14:38.996
+« Poster
+
+283
+00:14:40.316 --> 00:14:41.116
+chien mignon ».
+
+284
+00:14:47.556 --> 00:14:49.656
+Non, je pense que
+
+285
+00:14:51.476 --> 00:14:52.036
+tu peux
+
+286
+00:14:54.596 --> 00:14:56.116
+faire en sorte que ça affiche ton produit.
+
+287
+00:14:56.536 --> 00:14:58.896
+Donc là, c'est « poster chien mignon aquarelle ».
+
+288
+00:14:59.696 --> 00:15:03.576
+Et ça met ça dans Google. Ça ne met pas la première variante qui est 13 x 18.
+
+289
+00:15:04.096 --> 00:15:04.656
+Oui, OK.
+
+290
+00:15:05.316 --> 00:15:06.716
+Donc il y a moyen de faire ça, je pense.
+
+291
+00:15:06.776 --> 00:15:10.596
+Après, à toi de parler avec Synprosis, mais de mémoire, pour l'avoir fait avec un
+
+292
+00:15:10.656 --> 00:15:10.896
+site,
+
+293
+00:15:11.716 --> 00:15:14.456
+je ne crois pas qu'il y avait la variante qui était affichée non plus en taille.
+
+294
+00:15:15.126 --> 00:15:16.496
+Je crois que c'était juste le nom du produit.
+
+295
+00:15:17.296 --> 00:15:19.696
+Oui, on va voir. Je pense qu'il y a moyen de bidouiller.
+
+296
+00:15:19.716 --> 00:15:23.416
+La seule limite que je
+
+297
+00:15:23.456 --> 00:15:27.416
+vois à ça, c'est qu'au final, le client clique sur la fiche sans
+
+298
+00:15:27.576 --> 00:15:28.956
+connaître la taille.
+
+299
+00:15:29.476 --> 00:15:30.196
+Et tu n'as pas sa taille.
+
+300
+00:15:31.276 --> 00:15:35.236
+Oui, déjà, c'est un peu le cas. Et même en termes de prix, le client peut
+
+301
+00:15:35.276 --> 00:15:38.736
+s'attendre à ce qu'à ce prix-là, ça soit une taille un peu plus élevée.
+
+302
+00:15:39.016 --> 00:15:40.366
+Et au final,
+
+303
+00:15:41.386 --> 00:15:45.236
+tu n'as pas l'info réelle du prix par rapport au produit réel que tu veux, parce
+
+304
+00:15:45.256 --> 00:15:46.016
+que c'est telle taille.
+
+305
+00:15:46.116 --> 00:15:49.996
+Oui, mais alors deux points
+
+306
+00:15:50.016 --> 00:15:51.376
+sur ça. Premier point,
+
+307
+00:15:57.616 --> 00:15:58.876
+tout le monde ne va pas rechercher une taille.
+
+308
+00:16:00.036 --> 00:16:02.316
+Donc ceux qui ne mettront pas de taille, de toute façon, auront
+
+309
+00:16:03.516 --> 00:16:05.596
+dans ton shopping, ce n'est pas la bonne taille qu'ils vont leur...
+
+310
+00:16:06.076 --> 00:16:06.636
+Tu vois ce que je veux dire ?
+
+311
+00:16:07.816 --> 00:16:09.696
+Imaginons qu'en tête, ils veulent un truc grand,
+
+312
+00:16:10.596 --> 00:16:14.556
+mais qu'ils n'ont pas la taille dans Google, ils vont avoir ton shopping, ils vont
+
+313
+00:16:14.616 --> 00:16:16.676
+avoir une des variantes, si tu as les variantes.
+
+314
+00:16:17.296 --> 00:16:20.116
+Donc ce ne sera pas non plus le prix directement. Tu vois ce que je veux dire ?
+
+315
+00:16:20.256 --> 00:16:22.196
+Ce ne sera pas directement votre produit affiché non plus pour eux.
+
+316
+00:16:22.616 --> 00:16:25.636
+Voilà. Et le deuxième point, c'est que
+
+317
+00:16:27.596 --> 00:16:28.176
+si tu
+
+318
+00:16:30.816 --> 00:16:32.716
+first variante, que le prix est bas
+
+319
+00:16:34.076 --> 00:16:35.476
+et qu'ils mettent quand même une taille
+
+320
+00:16:37.176 --> 00:16:41.116
+qui serait plus grande. Imaginons, c'est la taille maximum que tu vends et que
+
+321
+00:16:41.196 --> 00:16:44.945
+toi, tu affiches ton produit sans taille et il y a écrit, je te donne un exemple au
+
+322
+00:16:44.976 --> 00:16:46.936
+pif, 10 euros parce que c'est une taille minuscule.
+
+323
+00:16:47.736 --> 00:16:49.696
+Ils se doutent bien que c'est à partir de.
+
+324
+00:16:50.916 --> 00:16:51.096
+Oui.
+
+325
+00:16:51.976 --> 00:16:54.576
+Donc pour moi, ce n'est pas trop un problème vu ces deux
+
+326
+00:16:54.636 --> 00:16:56.276
+points.
+
+327
+00:16:58.176 --> 00:17:02.096
+Là, quand j'ai mis « poster chien mignon » et que je vois 6
+
+328
+00:17:02.136 --> 00:17:02.396
+euros,
+
+329
+00:17:03.216 --> 00:17:05.237
+je me doute qu'à 6 euros, ce n'est pas du
+
+330
+00:17:06.856 --> 00:17:07.777
+poster qui fait tout mon mur.
+
+331
+00:17:07.816 --> 00:17:07.896
+Oui.
+
+332
+00:17:10.856 --> 00:17:12.036
+Il y a ces deux points qui
+
+333
+00:17:12.896 --> 00:17:16.856
+sont importants et surtout le point d'avant est pertinent dans le sens
+
+334
+00:17:16.896 --> 00:17:19.956
+où tout le monde ne va pas mettre la taille.
+
+335
+00:17:20.696 --> 00:17:20.977
+C'est vrai.
+
+336
+00:17:21.676 --> 00:17:24.636
+Donc ta first variant corrige ça.
+
+337
+00:17:25.777 --> 00:17:29.036
+En plus, j'ai pu le voir via Sean Rush ou autre.
+
+338
+00:17:29.316 --> 00:17:33.036
+Il y a des gens qui recherchent explicitement des tailles, mais c'est assez infime.
+
+339
+00:17:33.416 --> 00:17:35.406
+Et en plus, qui c'est, infime ?
+
+340
+00:17:35.756 --> 00:17:38.476
+Oui, tu as beaucoup de gens qui ne recherchent pas de taille ou alors tu as des
+
+341
+00:17:38.496 --> 00:17:42.356
+gens qui vont cibler une taille,
+
+342
+00:17:42.596 --> 00:17:46.396
+mais sans mettre du 50 par 60, mais plutôt mettre un mot
+
+343
+00:17:46.456 --> 00:17:48.496
+genre « petit » ou « moyen » ou « grand ».
+
+344
+00:17:51.316 --> 00:17:54.936
+Tu vois, s'ils mettent « grand » et que tu
+
+345
+00:17:55.176 --> 00:17:56.596
+first variante et que c'est à 10 euros,
+
+346
+00:17:57.996 --> 00:18:01.096
+ils vont peut-être se douter que c'est à partir de.
+
+347
+00:18:01.936 --> 00:18:02.836
+Oui.
+
+348
+00:18:05.156 --> 00:18:08.916
+Au pire, tu testes. Je pense que ton CTA sera meilleur parce
+
+349
+00:18:08.956 --> 00:18:09.536
+que ta
+
+350
+00:18:11.016 --> 00:18:13.996
+first variante est donc un prix bas et donc ça va appeler au clic.
+
+351
+00:18:14.356 --> 00:18:15.636
+Oui, tu auras un pourcentage.
+
+352
+00:18:16.756 --> 00:18:18.586
+Mais même s'ils avaient
+
+353
+00:18:18.656 --> 00:18:22.184
+mis50-70 si tu veux, et
+
+354
+00:18:22.324 --> 00:18:25.964
+imaginons que tu l'affiches à 50 €. 50 € c'est trop cher ?
+
+355
+00:18:26.224 --> 00:18:29.254
+De toute façon, ils ne vont clairement pas cliquer sur ton annonce où il y aurait
+
+356
+00:18:29.264 --> 00:18:33.224
+écrit la variante 50-70 à 50 €. Au final, l'un
+
+357
+00:18:33.244 --> 00:18:36.264
+dans l'autre, ça revient au même que tu mettes
+
+358
+00:18:36.544 --> 00:18:38.024
+dans le clic.
+
+359
+00:18:38.504 --> 00:18:42.184
+Ça revient un peu au même, mais au contraire, ça peut me faire gagner un peu de
+
+360
+00:18:42.244 --> 00:18:44.484
+temps sachant que j'ai déjà beaucoup de produits.
+
+361
+00:18:45.824 --> 00:18:47.784
+De mettre toutes les variantes, ça me ferait un peu dépenser dans le vide.
+
+362
+00:18:48.024 --> 00:18:51.204
+Ça serait compliqué de shooter ou pas tel ou tel produit.
+
+363
+00:18:52.504 --> 00:18:52.824
+En plus,
+
+364
+00:18:53.824 --> 00:18:54.034
+oui.
+
+365
+00:18:54.034 --> 00:18:56.364
+Ok, je vois. Je vais réfléchir par rapport à
+
+366
+00:18:57.224 --> 00:18:57.464
+ça.
+
+367
+00:18:58.284 --> 00:18:58.784
+Pertinent.
+
+368
+00:19:00.624 --> 00:19:04.144
+Je pense split direct mes produits,
+
+369
+00:19:04.884 --> 00:19:08.564
+pas au niveau des campagnes, je veux dire pas un gros
+
+370
+00:19:08.684 --> 00:19:12.484
+split en profondeur, mais déjà en termes de prix, parce
+
+371
+00:19:12.524 --> 00:19:16.504
+que si je laisse tout dans la même campagne, forcément, mes produits à 300 balles,
+
+372
+00:19:16.584 --> 00:19:19.684
+ils ne vont pas du tout dépenser quand ceux à 30 balles, ils vont dépenser.
+
+373
+00:19:19.724 --> 00:19:22.484
+Non, parce que du coup, il n'y aurait plus le cas de la variante.
+
+374
+00:19:22.724 --> 00:19:24.664
+Oui, ou alors tu la joues comme ça.
+
+375
+00:19:24.744 --> 00:19:28.184
+Non, puisque du coup, il n'y aura même plus l'histoire
+
+376
+00:19:28.264 --> 00:19:30.044
+de produits plus ou moins-
+
+377
+00:19:30.084 --> 00:19:32.524
+Non, mais je veux dire, tu la joues comme ça, c'est-à-dire que tu mets toutes les
+
+378
+00:19:32.544 --> 00:19:34.884
+variantes et tu la découpes par prix.
+
+379
+00:19:37.224 --> 00:19:38.604
+Vraiment, ça va dépendre de ta niche.
+
+380
+00:19:38.764 --> 00:19:42.304
+Mais si on reprend l'exemple des
+
+381
+00:19:42.324 --> 00:19:42.784
+posters,
+
+382
+00:19:44.684 --> 00:19:48.484
+il n'y a aucun intérêt que tu mettes dans des groupes tous ceux qui
+
+383
+00:19:48.524 --> 00:19:49.044
+sont chers.
+
+384
+00:19:50.144 --> 00:19:51.244
+Vraiment, je ne vois pas l'intérêt.
+
+385
+00:19:52.024 --> 00:19:55.724
+C'est plus au niveau de la dépense, parce que ça aura tendance à ne pas dépenser du
+
+386
+00:19:55.764 --> 00:19:59.084
+coup sur les grands. Si je ne fais pas le first variant.
+
+387
+00:19:59.304 --> 00:20:01.203
+C'est pour ça que tu corriges aussi en first variant.
+
+388
+00:20:01.784 --> 00:20:03.464
+Oui, ça corrige en même temps.
+
+389
+00:20:05.044 --> 00:20:06.994
+En tout cas, si c'est proche de
+
+390
+00:20:07.984 --> 00:20:10.984
+l'exemple des posters, first variant, c'est pareil, le meilleur choix.
+
+391
+00:20:12.364 --> 00:20:14.474
+Et c'est ce qu'ils font tous. Quand tu mets « poster »,
+
+392
+00:20:15.364 --> 00:20:18.994
+il n'y en a quasiment pas qui ont un système de taille, c'est que du produit first
+
+393
+00:20:19.064 --> 00:20:19.684
+variant direct.
+
+394
+00:20:21.464 --> 00:20:21.684
+Oui.
+
+395
+00:20:22.904 --> 00:20:23.024
+Ok.
+
+396
+00:20:23.624 --> 00:20:27.024
+Quasiment tous, voire tous. Ils sont tous à 5 balles parce que c'est
+
+397
+00:20:27.644 --> 00:20:28.744
+première variante, premier prix.
+
+398
+00:20:30.304 --> 00:20:31.304
+Ok. Ça
+
+399
+00:20:34.844 --> 00:20:35.124
+marche.
+
+400
+00:20:42.584 --> 00:20:44.164
+Pinterest, teste.
+
+401
+00:20:45.404 --> 00:20:46.624
+Pinterest, c'était pas mal.
+
+402
+00:20:46.724 --> 00:20:49.844
+Continue à tester. Après, 300 balles, 3 ventes.
+
+403
+00:20:49.984 --> 00:20:51.324
+Je ne sais pas combien tu as fait de ventes liées à ça.
+
+404
+00:20:51.404 --> 00:20:54.864
+Ce n'est peut-être pas ouf ou c'est peut-être bien, mais surtout,
+
+405
+00:20:55.884 --> 00:20:57.924
+c'est très long à s'optimiser, Pinterest.
+
+406
+00:20:59.344 --> 00:21:03.133
+Oui, c'est hyper long. C'est des ventes, c'est 600
+
+407
+00:21:03.224 --> 00:21:04.004
+balles le produit.
+
+408
+00:21:05.784 --> 00:21:07.424
+J'ai un bon ROS sur
+
+409
+00:21:08.364 --> 00:21:09.804
+Pinterest. Oui,
+
+410
+00:21:09.924 --> 00:21:13.914
+ça prend du temps. J'avais testé deux types
+
+411
+00:21:13.944 --> 00:21:17.264
+de campagnes, les campagnes shopping ou aussi une campagne par mots clés.
+
+412
+00:21:18.024 --> 00:21:19.424
+Oui, c'est vrai que ça prend du temps.
+
+413
+00:21:19.464 --> 00:21:23.304
+En même temps, j'avais une strat juste publiée en automatique pour
+
+414
+00:21:23.964 --> 00:21:25.584
+surfer la go en SEO et tout.
+
+415
+00:21:26.784 --> 00:21:28.664
+Et en même temps, tester là.
+
+416
+00:21:29.704 --> 00:21:32.464
+C'est surtout par rapport au type de produits que j'avais.
+
+417
+00:21:32.724 --> 00:21:35.164
+C'était dans la même niche, niche déco,
+
+418
+00:21:35.724 --> 00:21:37.944
+mais des produits
+
+419
+00:21:39.104 --> 00:21:43.044
+pas compétitifs en termes de prix, mais c'est
+
+420
+00:21:43.104 --> 00:21:43.644
+des
+
+421
+00:21:44.904 --> 00:21:46.304
+produits qui apportaient quelque chose.
+
+422
+00:21:47.844 --> 00:21:49.724
+Ils avaient une qualité qui
+
+423
+00:21:51.504 --> 00:21:53.584
+faisait que ça pouvait se vendre à tel prix.
+
+424
+00:21:54.964 --> 00:21:58.944
+Déjà en Google Shopping, moi, je le voyais au niveau
+
+425
+00:21:58.984 --> 00:21:59.764
+des termes de
+
+426
+00:22:00.564 --> 00:22:03.224
+recherche sur les trois premières semaines, sur le premier mois,
+
+427
+00:22:03.964 --> 00:22:07.114
+la plupart des gens qui cliquaient, c'était des
+
+428
+00:22:07.164 --> 00:22:08.004
+curieux
+
+429
+00:22:08.084 --> 00:22:11.764
+qui cliquaient
+
+430
+00:22:11.774 --> 00:22:14.884
+parce que l'image était belle, mais qui n'avaient pas forcément d'intention
+
+431
+00:22:14.924 --> 00:22:18.884
+réelle d'achat, je pense. C'est pour ça que j'avais testé
+
+432
+00:22:19.124 --> 00:22:20.804
+sur Pinterest en parallèle.
+
+433
+00:22:22.204 --> 00:22:24.704
+J'avais même testé du search, du coup.
+
+434
+00:22:25.064 --> 00:22:27.384
+J'avais testé du search direct sur Google sur
+
+435
+00:22:28.444 --> 00:22:31.304
+ces produits-là, mais p****n, le search, ça m'a coûté hyper cher.
+
+436
+00:22:31.464 --> 00:22:32.284
+Je sais que ce n'était pas
+
+437
+00:22:33.544 --> 00:22:34.504
+viable de toute manière.
+
+438
+00:22:34.584 --> 00:22:38.423
+Après, tu as peut-être des mots clés qui tu dis « qualité » ou «
+
+439
+00:22:38.464 --> 00:22:39.923
+premium » ou ce genre de trucs.
+
+440
+00:22:41.064 --> 00:22:42.444
+Oui. Mais
+
+441
+00:22:43.304 --> 00:22:43.484
+bon,
+
+442
+00:22:45.444 --> 00:22:46.424
+ils cliquent hyper cher.
+
+443
+00:22:46.564 --> 00:22:49.074
+En fait, le search, au début, c'est rarement rentable, mais il
+
+444
+00:22:49.124 --> 00:22:51.904
+faut tester les mots clés.
+
+445
+00:22:53.024 --> 00:22:54.164
+Oui.
+
+446
+00:22:57.404 --> 00:22:59.704
+Mais bon, ça peut marcher, ça dépend des niches.
+
+447
+00:23:01.224 --> 00:23:03.504
+Il faut bien optimiser les mots clés petit à petit, mais
+
+448
+00:23:05.404 --> 00:23:06.424
+il y a plein de
+
+449
+00:23:07.984 --> 00:23:10.724
+niches et de possibilités avec du search où ça tourne bien.
+
+450
+00:23:11.524 --> 00:23:11.734
+Carrément.
+
+451
+00:23:15.124 --> 00:23:16.844
+Et puis, si Pinterest
+
+452
+00:23:17.864 --> 00:23:21.664
+fonctionne, moi, limite, je testerais presque aussi du Facebook Ads après.
+
+453
+00:23:24.584 --> 00:23:24.744
+Oui.
+
+454
+00:23:26.604 --> 00:23:30.464
+Si tu fais du produit déco un peu cher, il y a moyen que tu sois
+
+455
+00:23:30.504 --> 00:23:34.484
+rentable. Après, je ne sais pas si
+
+456
+00:23:34.524 --> 00:23:35.824
+tu as déjà touché Facebook Ads.
+
+457
+00:23:36.584 --> 00:23:38.884
+Facebook Ads, non. Juste
+
+458
+00:23:41.164 --> 00:23:42.904
+le retargeting pour l'instant, c'est tout.
+
+459
+00:23:43.204 --> 00:23:43.364
+Ok.
+
+460
+00:23:44.304 --> 00:23:44.634
+En tout cas,
+
+461
+00:23:46.144 --> 00:23:48.984
+long terme, je pense que c'est un truc à tester Facebook Ads pour
+
+462
+00:23:49.904 --> 00:23:51.744
+déco, cher, c'est pas mal.
+
+463
+00:23:52.524 --> 00:23:52.644
+Oui.
+
+464
+00:23:55.344 --> 00:23:58.564
+J'avais pensé.
+
+465
+00:24:02.564 --> 00:24:06.424
+C'est vrai que ça demande de
+
+466
+00:24:06.524 --> 00:24:08.364
+faire de la créa, de la vidéo.
+
+467
+00:24:10.804 --> 00:24:12.604
+Ça peut être du statique.
+
+468
+00:24:15.144 --> 00:24:16.144
+La déco
+
+469
+00:24:17.124 --> 00:24:18.284
+image, ça peut le faire.
+
+470
+00:24:18.924 --> 00:24:20.623
+Oui, ça peut être plus facile pour l'instant.
+
+471
+00:24:20.634 --> 00:24:21.864
+Si tu as des trucs
+
+472
+00:24:22.724 --> 00:24:25.184
+image tout vidéo, ça peut le faire aussi
+
+473
+00:24:25.832 --> 00:24:25.972
+Oui.
+
+474
+00:24:26.372 --> 00:24:28.512
+Ça dépend encore une fois du type de déco.
+
+475
+00:24:28.932 --> 00:24:32.652
+Si je reprends l'exemple du poster, du statique image, ça suffit.
+
+476
+00:24:34.552 --> 00:24:35.972
+Oui, c'est clair.
+
+477
+00:24:37.432 --> 00:24:37.992
+C'est beau.
+
+478
+00:24:40.312 --> 00:24:42.812
+Oui. Je continue.
+
+479
+00:24:44.212 --> 00:24:45.542
+Le test est de balancer-
+
+480
+00:24:47.112 --> 00:24:49.412
+Ici sur les sœurs EU que tu as.
+
+481
+00:24:49.452 --> 00:24:50.592
+Oui, c'est ça.
+
+482
+00:24:53.352 --> 00:24:54.632
+Ou là, par contre, je suis allé aussi
+
+483
+00:24:56.472 --> 00:24:59.012
+avoir les bons prix comparé à l'autre site sur
+
+484
+00:24:59.932 --> 00:25:02.132
+les valises où c'était compliqué de marger, etc.
+
+485
+00:25:02.312 --> 00:25:04.212
+Mais qui tourne toujours, ce site-là.
+
+486
+00:25:04.352 --> 00:25:07.612
+En fait, si je suis gapé, forcément, comme
+
+487
+00:25:08.232 --> 00:25:12.172
+ma marge est faible sur les produits,
+
+488
+00:25:12.352 --> 00:25:15.892
+j'arrive à faire un peu de bénéfice, mais déjà, je n'arrive pas à scale parce que
+
+489
+00:25:16.052 --> 00:25:16.332
+le
+
+490
+00:25:17.172 --> 00:25:19.372
+ROS qu'il me faut derrière, forcément,
+
+491
+00:25:20.372 --> 00:25:24.292
+est un peu plus élevé, puisque mon BE est un peu plus élevé aussi.
+
+492
+00:25:24.552 --> 00:25:28.532
+C'est un truc que j'ai compris en même temps, c'est OK, une
+
+493
+00:25:28.612 --> 00:25:31.712
+niche sur les valises, par exemple, c'est bien, c'est cool, il y a du volume, il y
+
+494
+00:25:31.722 --> 00:25:34.112
+a des barrières à l'entrée. Si tu arrives à casser les barrières à l'entrée, tu as
+
+495
+00:25:34.132 --> 00:25:38.112
+des trucs à faire. OK. Mais la base, c'est
+
+496
+00:25:38.172 --> 00:25:42.072
+la marge. Et c'est vrai que forcément, si tu n'as pas des bonnes marges, tu ne peux
+
+497
+00:25:42.132 --> 00:25:43.652
+pas scale non plus derrière. C'est un truc
+
+498
+00:25:44.692 --> 00:25:47.112
+que j'ai compris.
+
+499
+00:25:48.692 --> 00:25:48.972
+Yes.
+
+500
+00:25:50.572 --> 00:25:54.232
+C'est le but aussi, c'est de lancer pour comprendre, apprendre.
+
+501
+00:25:54.892 --> 00:25:58.742
+Complètement. Parce que le volume, c'est cool, c'est bien,
+
+502
+00:25:58.952 --> 00:26:00.552
+mais bon, si ça ne te permet pas de
+
+503
+00:26:02.352 --> 00:26:04.892
+pousser, ça ne sert à rien.
+
+504
+00:26:10.492 --> 00:26:14.712
+Yes.
+
+505
+00:26:14.992 --> 00:26:18.972
+Pas d'autres questions liées à ce site ?
+
+506
+00:26:19.092 --> 00:26:19.532
+Non.
+
+507
+00:26:21.332 --> 00:26:22.632
+Je te dirai si
+
+508
+00:26:24.052 --> 00:26:25.732
+oui, nécessairement, et maintenant c'est OK.
+
+509
+00:26:26.712 --> 00:26:28.872
+Oui, faire ces variantes sur Synchrozy.
+
+510
+00:26:30.652 --> 00:26:32.912
+Je pense que c'est plus qu'une bonne idée.
+
+511
+00:26:34.811 --> 00:26:36.091
+Tu as plusieurs catégories ou c'est
+
+512
+00:26:36.892 --> 00:26:38.772
+plusieurs types de produits
+
+513
+00:26:39.612 --> 00:26:41.032
+? Ou c'est un type de produit ?
+
+514
+00:26:43.212 --> 00:26:46.712
+C'est un type de produit, mais qui rentre dans plusieurs catégories différentes.
+
+515
+00:26:47.112 --> 00:26:47.372
+OK.
+
+516
+00:26:49.232 --> 00:26:49.512
+Oui.
+
+517
+00:26:51.992 --> 00:26:55.852
+Si tu as plusieurs types, ça aurait valu le coup peut-être de dédier
+
+518
+00:26:55.912 --> 00:26:57.512
+des
+
+519
+00:26:58.652 --> 00:27:00.732
+campagnes à ça, mais si ce n'est qu'un type.
+
+520
+00:27:01.272 --> 00:27:01.472
+Oui,
+
+521
+00:27:02.832 --> 00:27:03.292
+c'est comme
+
+522
+00:27:06.012 --> 00:27:09.652
+dans la déco, un canapé, par exemple, tu as plein de styles, de formes,
+
+523
+00:27:10.332 --> 00:27:11.672
+etc. Mais ça reste un produit.
+
+524
+00:27:12.752 --> 00:27:13.492
+Ok.
+
+525
+00:27:13.532 --> 00:27:13.772
+Oui.
+
+526
+00:27:20.732 --> 00:27:21.092
+Parfait.
+
+527
+00:27:21.992 --> 00:27:25.872
+Je ne sais pas si quelqu'un a une question, veut passer, dites-moi.
+
+528
+00:27:29.612 --> 00:27:31.112
+Oui, salut Théo.
+
+529
+00:27:31.152 --> 00:27:31.932
+Salut.
+
+530
+00:27:31.972 --> 00:27:33.192
+Salut Mika, salut tout le monde.
+
+531
+00:27:33.612 --> 00:27:34.172
+Salut.
+
+532
+00:27:35.932 --> 00:27:38.692
+Là, je reviens après avoir disparu quelques semaines.
+
+533
+00:27:39.512 --> 00:27:41.632
+Je cherche encore la niche.
+
+534
+00:27:42.912 --> 00:27:45.872
+Là, en vrai, ce n'était pas vraiment prévu que je passe aujourd'hui.
+
+535
+00:27:45.932 --> 00:27:47.272
+C'est juste que j'ai
+
+536
+00:27:49.012 --> 00:27:52.872
+exploré un peu une niche hier soir et je voulais savoir si je continue
+
+537
+00:27:52.912 --> 00:27:53.792
+dans ça ou
+
+538
+00:27:55.332 --> 00:27:56.172
+si je vois autre chose.
+
+539
+00:27:56.932 --> 00:27:59.592
+Oui, vas-y, pas de problème, partage, on va check.
+
+540
+00:28:06.432 --> 00:28:10.412
+J'ai
+
+541
+00:28:10.612 --> 00:28:13.632
+la croix. C'est bon, c'est partagé
+
+542
+00:28:15.592 --> 00:28:15.592
+?
+
+543
+00:28:17.732 --> 00:28:20.732
+Attends, je vais faire un truc. C'est bon.
+
+544
+00:28:21.012 --> 00:28:21.952
+Je pense que c'est bon.
+
+545
+00:28:22.052 --> 00:28:22.932
+C'est bon.
+
+546
+00:28:22.992 --> 00:28:25.122
+Donc voilà, c'est par rapport aux plantes artificielles.
+
+547
+00:28:28.352 --> 00:28:28.692
+OK.
+
+548
+00:28:29.712 --> 00:28:30.052
+Vas-y.
+
+549
+00:28:31.052 --> 00:28:32.492
+Je pense que tu as déjà-
+
+550
+00:28:35.032 --> 00:28:36.272
+Ça ne sent pas bon, on va dire.
+
+551
+00:28:37.052 --> 00:28:37.292
+OK.
+
+552
+00:28:38.592 --> 00:28:42.252
+J'ai vu que le volume, n'est pas énorme, mais
+
+553
+00:28:43.872 --> 00:28:47.532
+il y a un peu de volume. J'ai vu que le CPC, il est pas
+
+554
+00:28:47.571 --> 00:28:47.912
+mal.
+
+555
+00:28:49.052 --> 00:28:51.452
+Il y a des marges qui sont intéressantes.
+
+556
+00:28:53.052 --> 00:28:56.992
+Des marges intéressantes sur
+
+557
+00:28:57.032 --> 00:28:58.432
+les plantes artificielles ?
+
+558
+00:28:58.712 --> 00:28:59.151
+Oui.
+
+559
+00:29:00.952 --> 00:29:03.711
+C'est ce point-là qui m'a aussi attiré.
+
+560
+00:29:04.852 --> 00:29:05.372
+Parce qu'on
+
+561
+00:29:06.732 --> 00:29:07.232
+peut sourcer,
+
+562
+00:29:08.292 --> 00:29:10.432
+on peut faire du fois trois, fois quatre facilement.
+
+563
+00:29:11.272 --> 00:29:12.542
+En tout cas, j'ai vu ce que les concurrents
+
+564
+00:29:13.352 --> 00:29:14.192
+font. J'ai vu
+
+565
+00:29:16.432 --> 00:29:18.232
+le sourcing sur AliExpress.
+
+566
+00:29:19.312 --> 00:29:21.312
+Les marges sont intéressantes.
+
+567
+00:29:22.792 --> 00:29:26.012
+Il y a moyen aussi d'avoir une
+
+568
+00:29:26.092 --> 00:29:29.692
+bonne arborescence par rapport
+
+569
+00:29:29.702 --> 00:29:33.592
+aux arbres qui sont recherchés, comme ici, olivier artificiel,
+
+570
+00:29:34.732 --> 00:29:34.862
+des
+
+571
+00:29:36.512 --> 00:29:40.252
+plantes particulières. Après, il y a
+
+572
+00:29:40.312 --> 00:29:43.532
+aussi tout ce qui est... Parce que ceux qui achètent des plantes artificielles, ils
+
+573
+00:29:43.552 --> 00:29:45.612
+veulent aussi un pot qui va avec. Donc, il y a aussi
+
+574
+00:29:45.752 --> 00:29:49.372
+les pots qui vont
+
+575
+00:29:49.432 --> 00:29:50.091
+avec.
+
+576
+00:29:51.652 --> 00:29:53.232
+Ce n'est pas vendu avec généralement ?
+
+577
+00:29:53.252 --> 00:29:55.352
+Une plante artificiel, ce n'est pas dans un pot ?
+
+578
+00:29:55.732 --> 00:29:57.272
+Non, pas forcément.
+
+579
+00:30:00.512 --> 00:30:00.812
+Ok.
+
+580
+00:30:02.552 --> 00:30:04.471
+Est-ce que tu as moyen de faire un...
+
+581
+00:30:04.612 --> 00:30:08.492
+Moi, ce qui me fait peur, c'est tes prix moyens constatés qui
+
+582
+00:30:08.612 --> 00:30:11.472
+ne sont peut-être pas réels, mais on peut vérifier.
+
+583
+00:30:11.792 --> 00:30:12.892
+Ce serait bien qu'on vérifie parce que
+
+584
+00:30:14.292 --> 00:30:17.152
+si on ne prend pas ça en compte pour l'instant.
+
+585
+00:30:18.032 --> 00:30:21.932
+Tu as 12 000 sur ton mot clé principal.
+
+586
+00:30:22.672 --> 00:30:25.572
+Tu as des sous-catégories, tu en as quelques-unes.
+
+587
+00:30:25.592 --> 00:30:29.472
+Ce n'est pas une énorme niche. Ça peut être, pourquoi pas, pour commencer,
+
+588
+00:30:29.492 --> 00:30:33.232
+une petite niche à tester. Après, tu as quand même des CPC
+
+589
+00:30:33.292 --> 00:30:36.856
+ultra-élevés en général.Tes minimums, c'est
+
+590
+00:30:36.956 --> 00:30:40.176
+27, allez 21, mais si cash pos, ce n'est pas directement ton truc.
+
+591
+00:30:40.656 --> 00:30:44.516
+C'est du 35, 40 de moyenne et tu as
+
+592
+00:30:44.576 --> 00:30:47.036
+des trucs à 70, 86. C'est un peu haut.
+
+593
+00:30:48.096 --> 00:30:51.836
+Déjà, il y a ce point-là. Sinon en volume, je l'ai dit
+
+594
+00:30:51.916 --> 00:30:52.196
+avant,
+
+595
+00:30:53.136 --> 00:30:55.656
+c'est une petite niche, mais pourquoi pas pour commencer ?
+
+596
+00:30:56.696 --> 00:30:59.236
+En CAD, tu as l'air plutôt OK. Par contre,
+
+597
+00:31:01.536 --> 00:31:05.116
+être spécialiste de ça, il faudrait vérifier s'il y en a qui font que ça.
+
+598
+00:31:05.176 --> 00:31:05.356
+Mais
+
+599
+00:31:06.236 --> 00:31:08.216
+il y a peut-être moyen d'avoir une place
+
+600
+00:31:09.116 --> 00:31:11.756
+sur quelques catégories en tout cas, parce que tu as des trucs super bas.
+
+601
+00:31:13.596 --> 00:31:13.636
+Ce
+
+602
+00:31:14.636 --> 00:31:15.876
+sont les prix qui me font peur.
+
+603
+00:31:16.936 --> 00:31:17.876
+Prix constatés.
+
+604
+00:31:20.236 --> 00:31:23.756
+On va le faire ensemble, tu vas en prendre un dans tes catégories.
+
+605
+00:31:26.136 --> 00:31:28.696
+J'aimerais bien qu'on fasse Olivier, mais en second.
+
+606
+00:31:29.236 --> 00:31:30.866
+Et le premier, on va se dire
+
+607
+00:31:34.616 --> 00:31:38.456
+fleurs artificielles.
+
+608
+00:31:39.196 --> 00:31:42.296
+Après, c'est à 35, il est à 100, donc non, on ne va pas faire celui-là.
+
+609
+00:31:42.696 --> 00:31:45.436
+Parce que lui, déjà, on sait qu'il n'est pas ouf, il est à 100 de RR.
+
+610
+00:31:45.656 --> 00:31:49.556
+Olivier, il a l'air intéressant. Donc on le fera en
+
+611
+00:31:49.596 --> 00:31:51.936
+deuxième, mais en premier, on va se faire
+
+612
+00:31:53.276 --> 00:31:56.516
+les fausses plantes. On va faire fausses plantes.
+
+613
+00:31:58.036 --> 00:32:01.916
+Va sur Google, fais une recherche de fausses plantes et vois comment tu es arrivé
+
+614
+00:32:01.936 --> 00:32:02.796
+au prix de 55.
+
+615
+00:32:04.436 --> 00:32:08.136
+Je vais directement voir les concurrents ou je fais sur Shopping
+
+616
+00:32:09.236 --> 00:32:09.236
+?
+
+617
+00:32:09.396 --> 00:32:10.966
+Comment tu as fait pour arriver à 55 ?
+
+618
+00:32:10.996 --> 00:32:12.836
+C'est sur les concurrents.
+
+619
+00:32:14.716 --> 00:32:18.076
+Montre-moi, vas-y, refais comment tu as trouvé 55.
+
+620
+00:32:19.256 --> 00:32:22.616
+Tu me dis, tu fais comme tu as fait.
+
+621
+00:32:22.996 --> 00:32:23.516
+OK.
+
+622
+00:32:23.856 --> 00:32:26.796
+Si c'est sur les concurrents, vas-y, montre-nous.
+
+623
+00:32:27.106 --> 00:32:27.756
+Accepter.
+
+624
+00:32:32.256 --> 00:32:35.876
+Fausses plantes. Je ne sais pas exactement ce que veut dire le...
+
+625
+00:32:35.936 --> 00:32:36.896
+C'est un peu tout au final.
+
+626
+00:32:38.116 --> 00:32:39.856
+C'est pour ça, ce n'est peut-être pas le meilleur exemple.
+
+627
+00:32:39.896 --> 00:32:41.736
+Retourne vite fait dans ton doc pour voir si on ne trouve pas mieux.
+
+628
+00:32:41.756 --> 00:32:45.716
+Parce que le problème, c'est que c'est ultra-large, fausses plantes.
+
+629
+00:32:45.776 --> 00:32:49.666
+On voit des trucs à 25. Qu'est-ce qu'il y
+
+630
+00:32:49.676 --> 00:32:51.245
+aurait d'autre qui marcherait ?
+
+631
+00:32:52.556 --> 00:32:55.476
+Le plantes artificielles extérieur. On va faire celui-là.
+
+632
+00:32:56.476 --> 00:32:58.585
+On part sur ça. Comment tu es tombé à 95 ?
+
+633
+00:33:02.056 --> 00:33:05.656
+Vas-y. Ok, parfait, ils ont la collection pour.
+
+634
+00:33:07.076 --> 00:33:09.496
+Tu peux quitter
+
+635
+00:33:10.316 --> 00:33:14.236
+le carré à droite ? Tu peux le virer ce truc, la limite.
+
+636
+00:33:14.736 --> 00:33:17.076
+Tu peux appuyer sur la croix pour ne pas quitter.
+
+637
+00:33:17.176 --> 00:33:17.576
+OK.
+
+638
+00:33:17.816 --> 00:33:21.326
+Parfait. Comment tu es arrivé à 95 ? Qu'est-ce que tu as fait ?
+
+639
+00:33:21.336 --> 00:33:22.516
+Qu'est-ce que tu t'es dit
+
+640
+00:33:23.536 --> 00:33:23.536
+?
+
+641
+00:33:24.256 --> 00:33:28.156
+Franchement, à ce stade-là, j'ai pris le concurrent.
+
+642
+00:33:30.036 --> 00:33:33.956
+J'ai tout envoyé à Claude. Je lui ai dit de me calculer directement
+
+643
+00:33:34.036 --> 00:33:36.676
+les moyennes à partir des sites des concurrents.
+
+644
+00:33:37.656 --> 00:33:41.436
+Tu as copié l'intégralité de la page et tu lui as dit : « Fais-moi une moyenne de
+
+645
+00:33:41.456 --> 00:33:41.946
+prix ? »
+
+646
+00:33:41.996 --> 00:33:43.316
+Non, je lui ai donné les sites, carrément.
+
+647
+00:33:43.896 --> 00:33:46.936
+Là, ici, j'ai trois, quatre concurrents.
+
+648
+00:33:48.096 --> 00:33:51.556
+Tu n'as pas vraiment fait le travail de recherche, tu lui as laissé-
+
+649
+00:33:52.156 --> 00:33:55.016
+Non, c'est un travail de dernière minute que j'ai fait hier soir.
+
+650
+00:33:55.476 --> 00:33:55.696
+OK.
+
+651
+00:33:57.396 --> 00:34:00.356
+Tu peux voir, ça monte. Là, je vais en être à 190.
+
+652
+00:34:00.416 --> 00:34:02.706
+Des choses beaucoup
+
+653
+00:34:02.776 --> 00:34:04.776
+moins chères.
+
+654
+00:34:05.336 --> 00:34:09.116
+Il y a de tout. Ce que j'aime bien faire, c'est par exemple
+
+655
+00:34:09.127 --> 00:34:12.957
+prendre la première page. Si possible, la trier par best-seller.
+
+656
+00:34:12.996 --> 00:34:14.877
+Monte tout en haut pour voir si on peut.
+
+657
+00:34:17.316 --> 00:34:20.857
+Si tu fais popularité, il y a écrit « tri par popularité ». Oui, ça doit être ça.
+
+658
+00:34:22.136 --> 00:34:26.096
+Clique sur popularité pour voir s'il n'y a pas meilleure vente ou un truc comme ça.
+
+659
+00:34:26.136 --> 00:34:28.576
+On va dire que c'est popularité, logiquement, ça doit être ça.
+
+660
+00:34:28.796 --> 00:34:29.756
+Ce que tu peux faire
+
+661
+00:34:30.937 --> 00:34:30.937
+:
+
+662
+00:34:32.136 --> 00:34:33.656
+sélectionne
+
+663
+00:34:34.576 --> 00:34:38.386
+de la première à la dernière pour avoir en gros les prix et les
+
+664
+00:34:38.437 --> 00:34:38.676
+noms.
+
+665
+00:34:39.716 --> 00:34:43.196
+Sélectionne toute la page. Descends jusqu'en bas.
+
+666
+00:34:47.496 --> 00:34:50.316
+Jusqu'au dernier prix. Tu copies ça.
+
+667
+00:34:50.397 --> 00:34:56.115
+Moi,
+
+668
+00:34:56.156 --> 00:34:59.926
+je ne suis pas trop fan aussi de partager mon Neesia, mais au pire, tu vas dans
+
+669
+00:35:00.036 --> 00:35:00.756
+Perplexity.
+
+670
+00:35:01.636 --> 00:35:04.456
+Tu as un abonnement Perplexity ou pas du tout
+
+671
+00:35:05.816 --> 00:35:05.816
+?
+
+672
+00:35:06.436 --> 00:35:06.636
+Non.
+
+673
+00:35:07.136 --> 00:35:11.096
+Va dans un nouvel onglet, copie ça, va dans un nouvel onglet, mets
+
+674
+00:35:11.136 --> 00:35:11.816
+Perplexity.
+
+675
+00:35:13.536 --> 00:35:14.016
+En général,
+
+676
+00:35:14.896 --> 00:35:16.976
+pour une requête ou deux, ça passe sans se connecter.
+
+677
+00:35:17.136 --> 00:35:20.376
+Tu lui colles ton truc. Alors, j'ai peur, c'est peut-être le c*n-
+
+678
+00:35:28.356 --> 00:35:28.656
+Allô
+
+679
+00:35:30.536 --> 00:35:31.356
+? Ça a coupé ?
+
+680
+00:35:33.736 --> 00:35:33.956
+Non.
+
+681
+00:35:34.936 --> 00:35:35.816
+C'est moi qui ai coupé ?
+
+682
+00:35:35.856 --> 00:35:38.156
+Oui, je ne sais pas. À un moment donné, ça a coupé, je ne sais pas.
+
+683
+00:35:40.196 --> 00:35:40.416
+OK.
+
+684
+00:35:41.796 --> 00:35:42.476
+Je vais sur
+
+685
+00:35:43.436 --> 00:35:43.515
+Perplexity.
+
+686
+00:35:43.536 --> 00:35:44.456
+Oui, tu vas sur Perplexity.
+
+687
+00:35:45.456 --> 00:35:46.276
+Je colle.
+
+688
+00:35:48.296 --> 00:35:52.176
+Tu colles et tu lui dis de te faire une moyenne des prix constatés sur cette page.
+
+689
+00:35:52.936 --> 00:35:55.336
+Déjà, on va commencer comme ça.
+
+690
+00:35:57.836 --> 00:35:59.575
+C'est qui qui est arrivé ? Je n'ai pas fait gaffe.
+
+691
+00:36:00.836 --> 00:36:01.656
+C'est moi, Théo, salut.
+
+692
+00:36:02.446 --> 00:36:02.936
+Salut Thibaut.
+
+693
+00:36:08.276 --> 00:36:10.016
+Parfait. J'espère que ça va passer
+
+694
+00:36:10.876 --> 00:36:12.976
+parce que c'est peut-être beaucoup de contenu.
+
+695
+00:36:13.116 --> 00:36:13.706
+Non, ça a l'air de le
+
+696
+00:36:13.716 --> 00:36:19.876
+faire.
+
+697
+00:36:20.796 --> 00:36:23.996
+Là, il te liste tous les trucs.
+
+698
+00:36:26.376 --> 00:36:29.996
+Moyenne
+
+699
+00:36:30.036 --> 00:36:30.416
+27.
+
+700
+00:36:31.356 --> 00:36:32.656
+Dis-lui un deuxième truc et
+
+701
+00:36:32.676 --> 00:36:36.722
+dis-luiJe
+
+702
+00:36:36.722 --> 00:36:40.562
+ne suis pas assez bon en maths pour savoir si la médiane serait plus logique, mais
+
+703
+00:36:40.592 --> 00:36:44.312
+dis-lui de retirer les extrêmes. Les prix les plus hauts et les prix les plus bas
+
+704
+00:36:44.332 --> 00:36:47.172
+et refais une moyenne pour voir si c'est une grosse différence.
+
+705
+00:36:50.592 --> 00:36:52.882
+C'est ça une médiane ou pas ? Il y en a qui connaissent le terme ?
+
+706
+00:36:53.152 --> 00:36:54.952
+La médiane, elle fait ça automatiquement ou pas
+
+707
+00:36:55.832 --> 00:36:55.832
+?
+
+708
+00:36:55.952 --> 00:36:56.692
+Non, pas forcément.
+
+709
+00:36:57.472 --> 00:36:58.212
+Non ? Ok.
+
+710
+00:37:06.572 --> 00:37:08.851
+Il faut que tu le dises « s'il te plaît », parce que sinon tu te feras tuer dans
+
+711
+00:37:09.112 --> 00:37:09.572
+trois ans.
+
+712
+00:37:11.352 --> 00:37:13.792
+Non, mais apparemment, ce n'est pas écologique de dire « s'il te plaît ».
+
+713
+00:37:15.272 --> 00:37:15.992
+Oui, c'est ce qu'ils disent.
+
+714
+00:37:19.432 --> 00:37:21.032
+Ce qui n'est pas écologique, c'est d'avoir collé
+
+715
+00:37:21.932 --> 00:37:23.751
+pas que les prix et tout le contenu de la page aussi.
+
+716
+00:37:23.892 --> 00:37:24.092
+Oui.
+
+717
+00:37:26.032 --> 00:37:27.552
+Ok, donc là il trouve 24.
+
+718
+00:37:29.292 --> 00:37:31.812
+Tu vois là, c'est un exemple.
+
+719
+00:37:33.072 --> 00:37:36.652
+Essaie d'aller dans Google et mets «
+
+720
+00:37:36.692 --> 00:37:40.512
+plante artificielle extérieure » dans Google directement, pas en allant sur
+
+721
+00:37:40.552 --> 00:37:42.071
+ton site. On va essayer d'en trouver un deuxième.
+
+722
+00:37:42.472 --> 00:37:42.712
+Ok.
+
+723
+00:37:44.332 --> 00:37:47.572
+Je vais me connecter. Je vais me mettre sur VPN.
+
+724
+00:37:50.912 --> 00:37:51.372
+Ah, ok.
+
+725
+00:37:59.412 --> 00:37:59.832
+Après,
+
+726
+00:38:02.252 --> 00:38:03.792
+on en parlera après, mais
+
+727
+00:38:04.672 --> 00:38:06.332
+tu peux aussi choisir d'avoir que des...
+
+728
+00:38:09.652 --> 00:38:10.852
+On a vu que sur le
+
+729
+00:38:11.952 --> 00:38:14.752
+site que tu as affiché, il y avait des petites plantes et des grosses plantes.
+
+730
+00:38:15.372 --> 00:38:17.992
+Tu peux aussi choisir que de mettre des grosses.
+
+731
+00:38:18.232 --> 00:38:20.012
+Mais à ce moment-là, il faut
+
+732
+00:38:21.652 --> 00:38:22.612
+que tes produits,
+
+733
+00:38:23.732 --> 00:38:27.062
+ce soit que des grosses. Si tu vends les petits pots qui se vendent à 30 balles et
+
+734
+00:38:27.092 --> 00:38:29.872
+toi tu les vends à 100, tu ne les vendras jamais. Tu vois ce que je veux dire ?
+
+735
+00:38:30.872 --> 00:38:34.772
+C'est OK si tu vends que les gros, mais il faut que tu vendes que les gros.
+
+736
+00:38:34.852 --> 00:38:36.212
+Il faut que tu sois cohérent en termes de prix.
+
+737
+00:38:42.872 --> 00:38:45.432
+Il va y avoir un reco de NordVPN, j'imagine.
+
+738
+00:38:45.472 --> 00:38:47.712
+Oui, c'est le passage en VPN.
+
+739
+00:39:01.392 --> 00:39:04.131
+Donc là, tu disais, j'ai fait fausse plante, par exemple, c'est ça ?
+
+740
+00:39:04.212 --> 00:39:04.412
+Oui,
+
+741
+00:39:05.612 --> 00:39:08.452
+je ne sais plus le terme que c'était. Plante artificielle.
+
+742
+00:39:14.072 --> 00:39:21.912
+Ok.
+
+743
+00:39:25.752 --> 00:39:29.002
+Déjà, ce qui est un peu rassurant, c'est que là, dans le shopping, ce sont des
+
+744
+00:39:29.072 --> 00:39:29.872
+trucs un peu gros.
+
+745
+00:39:31.842 --> 00:39:34.472
+Donc c'est plutôt bien. Vas-y, fais voir la deuxième page du shopping.
+
+746
+00:39:42.492 --> 00:39:46.432
+À part les Temu et Aliexpress, en général, les prix sont assez...
+
+747
+00:39:47.092 --> 00:39:50.212
+Ça, ça f**t c***r qu'ils soient là.
+
+748
+00:39:50.472 --> 00:39:52.372
+Ça fait assez c***r, mais vas-y, descends un peu.
+
+749
+00:39:55.472 --> 00:39:58.492
+Toi, c'était un des trois premiers là ou pas ? Je ne me souviens pas.
+
+750
+00:39:59.672 --> 00:40:01.472
+Oui, celui-là, je pense qu'il y était.
+
+751
+00:40:02.512 --> 00:40:03.792
+Ça, c'est celui sur lequel on était
+
+752
+00:40:04.872 --> 00:40:04.872
+?
+
+753
+00:40:05.432 --> 00:40:05.672
+Non.
+
+754
+00:40:09.152 --> 00:40:09.852
+Comment il s'appelait ?
+
+755
+00:40:10.632 --> 00:40:10.982
+Non,
+
+756
+00:40:12.692 --> 00:40:13.232
+on était sur...
+
+757
+00:40:13.332 --> 00:40:14.392
+Artip plante. Ok.
+
+758
+00:40:15.212 --> 00:40:18.112
+Vas-y, retourne dans la requête. On va checker le premier.
+
+759
+00:40:20.852 --> 00:40:24.752
+Vas-y. Oui, on va checker celui-là. Après, on fera peut-être vite fait le deuxième.
+
+760
+00:40:25.292 --> 00:40:25.372
+Le
+
+761
+00:40:26.032 --> 00:40:31.352
+problème,
+
+762
+00:40:31.392 --> 00:40:34.592
+c'est que j'ai dit le truc juste après sur que vendre les grosses, etc.
+
+763
+00:40:35.012 --> 00:40:37.792
+Donc limite, il faudrait même faire un tri pour n'avoir que les grosses.
+
+764
+00:40:37.932 --> 00:40:41.832
+Tu vois ce que je veux dire ? Il y a ce point-là à prendre en compte.
+
+765
+00:40:41.842 --> 00:40:44.402
+Parce que là, si on refait une moyenne, elle va être super basse.
+
+766
+00:40:44.422 --> 00:40:48.092
+Tu as des trucs à 7, à 13 balles. Toi, tu ne vas pas spécialement vouloir vendre
+
+767
+00:40:48.112 --> 00:40:49.612
+des produits à 13 balles, aucun intérêt.
+
+768
+00:40:49.972 --> 00:40:50.452
+Oui, bien sûr.
+
+769
+00:40:50.472 --> 00:40:51.172
+Tu feras zéro marge.
+
+770
+00:40:52.252 --> 00:40:53.162
+Tu vas vouloir vendre des trucs
+
+771
+00:40:54.692 --> 00:40:58.652
+à 90, à 70, peut-être à 100, à 60, pourquoi pas,
+
+772
+00:40:58.732 --> 00:40:58.872
+etc.
+
+773
+00:41:01.592 --> 00:41:02.812
+Là, limite, la moyenne
+
+774
+00:41:04.212 --> 00:41:08.042
+ne fonctionnerait pas dans le sens où il faudrait exclure à la main les mini trucs
+
+775
+00:41:08.072 --> 00:41:08.911
+à deux balles.
+
+776
+00:41:11.112 --> 00:41:13.432
+C'est un peu dur. Il faudrait presque faire du manuel.
+
+777
+00:41:15.012 --> 00:41:16.472
+Oui, il n'y a pas de souci. Moi, ça ne me dérange pas.
+
+778
+00:41:16.532 --> 00:41:19.252
+C'est juste que, comme je t'ai dit, c'était un truc fait hier soir.
+
+779
+00:41:19.452 --> 00:41:21.092
+Il faut présenter quelque chose ce matin.
+
+780
+00:41:23.012 --> 00:41:26.692
+Alors du coup, ce que je te recommande de faire, c'est : tu vois,
+
+781
+00:41:27.212 --> 00:41:30.432
+là, on a mis, par exemple, cette requête est plutôt intéressante, donc tu feras
+
+782
+00:41:30.552 --> 00:41:31.012
+celle-là.
+
+783
+00:41:32.112 --> 00:41:33.392
+D'ailleurs, dans l'idéal, tu en fais cinq.
+
+784
+00:41:34.012 --> 00:41:36.642
+Tu fais les cinq premières collections et tu calcules le RR.
+
+785
+00:41:36.752 --> 00:41:40.512
+Mais du coup, là, c'est un peu particulier parce que tu as tout
+
+786
+00:41:40.612 --> 00:41:43.272
+type de produits, tu as des trucs à 7 balles et tu as des trucs à 150.
+
+787
+00:41:43.932 --> 00:41:44.232
+Essaie,
+
+788
+00:41:45.152 --> 00:41:48.872
+dans ta sélection de prix, de retirer aussi
+
+789
+00:41:48.912 --> 00:41:51.992
+possiblement les extrêmes, mais en général, tu n'auras pas des trucs trop extrêmes
+
+790
+00:41:52.032 --> 00:41:55.312
+non plus, mais surtout de retirer tous les petits trucs à deux balles.
+
+791
+00:41:55.872 --> 00:41:59.292
+Ce qui fait que toi, tu ne les mettras pas sur ton site et tu auras que les,
+
+792
+00:42:00.512 --> 00:42:02.632
+on va dire à partir de 50 euros, à la limite.
+
+793
+00:42:03.372 --> 00:42:03.632
+Ok.
+
+794
+00:42:04.272 --> 00:42:06.952
+Et comme ça, tu refais des moyennes à partir de ça.
+
+795
+00:42:07.472 --> 00:42:09.152
+Ce n'est même pas question de prix.
+
+796
+00:42:09.392 --> 00:42:11.352
+Je dis 50 euros, mais c'est plutôt une question visuelle.
+
+797
+00:42:11.772 --> 00:42:14.072
+Est-ce que c'est des grosses plantes ? Pas des mini pots.
+
+798
+00:42:15.032 --> 00:42:15.152
+Oui.
+
+799
+00:42:15.712 --> 00:42:17.372
+Et tu vois, on voit quand même, il y a souvent des pots avec.
+
+800
+00:42:19.232 --> 00:42:21.432
+Oui, les plus grosses, il y a des pots avec.
+
+801
+00:42:22.012 --> 00:42:24.312
+Oui, mais toi, de toute façon, tu veux vendre les grosses.
+
+802
+00:42:25.812 --> 00:42:28.112
+Ça ne t'empêche pas d'en vendre.
+
+803
+00:42:29.392 --> 00:42:33.332
+Il faudrait que tu recalcules le RR parce que l'IA,
+
+804
+00:42:33.452 --> 00:42:37.172
+c'est bien, mais lui dire : « Fais-moi le prix moyen
+
+805
+00:42:37.852 --> 00:42:39.552
+au pif comme ça », ça ne marche pas. Tu as
+
+806
+00:42:40.452 --> 00:42:44.376
+mis 95. Peut-être que c'est bon au final.Je
+
+807
+00:42:44.956 --> 00:42:47.796
+reste calcul parce qu'il est trop important pour
+
+808
+00:42:50.596 --> 00:42:51.036
+en déduire
+
+809
+00:42:52.576 --> 00:42:56.256
+si la niche est bonne ou pas. Audi, dans les filtres, il n'y a pas un système
+
+810
+00:42:57.116 --> 00:42:57.936
+pour voir les grandes
+
+811
+00:42:59.076 --> 00:42:59.076
+?
+
+812
+00:42:59.856 --> 00:43:00.796
+Ici, ils ont des filtres.
+
+813
+00:43:01.436 --> 00:43:02.246
+Oui, dans les tailles.
+
+814
+00:43:02.246 --> 00:43:05.976
+Les tailles et tout.
+
+815
+00:43:06.696 --> 00:43:10.296
+Si j'élimine les plus
+
+816
+00:43:10.316 --> 00:43:12.816
+petites, je pense que ça va de soi, je vais avoir que des prix.
+
+817
+00:43:13.996 --> 00:43:14.236
+Oui,
+
+818
+00:43:17.296 --> 00:43:18.236
+carrément, bonne idée.
+
+819
+00:43:19.536 --> 00:43:22.116
+Après, tu as un truc à 11 parce que c'est un truc tombant.
+
+820
+00:43:23.436 --> 00:43:24.976
+Fais voir un peu les prix qu'on a.
+
+821
+00:43:26.076 --> 00:43:28.136
+Maintenant, j'ai mis à partir de 50 centimètres.
+
+822
+00:43:28.616 --> 00:43:29.636
+Oui, ça me paraît pas mal.
+
+823
+00:43:30.156 --> 00:43:31.536
+À part le truc tombant comme tu as dit.
+
+824
+00:43:31.856 --> 00:43:32.036
+Là,
+
+825
+00:43:33.076 --> 00:43:33.276
+c'est une
+
+826
+00:43:34.336 --> 00:43:36.536
+branche. C'est juste une branche.
+
+827
+00:43:37.576 --> 00:43:38.856
+Sinon, à part la branche-
+
+828
+00:43:39.356 --> 00:43:43.346
+Tu as des prix plus cohérents. Pour moi, tu
+
+829
+00:43:43.356 --> 00:43:45.496
+as des trucs à 130. Tu as une haie, mais ça,
+
+830
+00:43:47.236 --> 00:43:50.056
+limite, je ne la compterais pas parce que tu as une collection haie exprès.
+
+831
+00:43:50.336 --> 00:43:54.176
+C'est pour ça, il y a presque une sélection manuelle pour les
+
+832
+00:43:54.216 --> 00:43:54.436
+prix.
+
+833
+00:43:55.096 --> 00:43:55.336
+Ok.
+
+834
+00:43:56.736 --> 00:43:59.716
+Mais peut-être qu'on n'est pas loin de ton 95 ou peut-être qu'on est un peu en
+
+835
+00:43:59.736 --> 00:44:01.206
+dessous, on est peut-être à 80, je ne sais pas.
+
+836
+00:44:02.576 --> 00:44:05.016
+En tout cas, prends les 3 premiers résultats
+
+837
+00:44:06.316 --> 00:44:08.756
+pour tes 5 grosses premières collections.
+
+838
+00:44:09.316 --> 00:44:13.176
+Calcule, comme ça tu auras une moyenne de prix, recalcule le RR et peut-être on
+
+839
+00:44:13.236 --> 00:44:14.616
+verra. Sinon,
+
+840
+00:44:15.856 --> 00:44:18.936
+si on reste dans les RR que tu avais affichés, pourquoi pas ?
+
+841
+00:44:18.956 --> 00:44:22.076
+Est-ce que tu as moyen de me remontrer vite fait le Google pour voir les RR ?
+
+842
+00:44:22.116 --> 00:44:23.256
+Le Google Sheet, pardon, le Excel.
+
+843
+00:44:23.636 --> 00:44:24.176
+L'Excel.
+
+844
+00:44:25.196 --> 00:44:30.646
+Il
+
+845
+00:44:30.646 --> 00:44:33.536
+faudrait recalculer parce qu'en fait, le 100 n'est pas bon.
+
+846
+00:44:34.076 --> 00:44:37.196
+Tu as quelques trucs à 150, assez
+
+847
+00:44:37.276 --> 00:44:38.336
+bas.
+
+848
+00:44:39.536 --> 00:44:40.876
+Si le RR est plus bas.
+
+849
+00:44:42.776 --> 00:44:46.396
+Il faut recalculer, c'est trop dur à dire. Ça dépend trop de si ça bouge.
+
+850
+00:44:51.515 --> 00:44:55.036
+Tu vois plante artificielle 65. À mon avis, le mot clé principal,
+
+851
+00:44:55.196 --> 00:44:58.446
+plante, pour moi, c'est plutôt les
+
+852
+00:44:58.516 --> 00:45:02.296
+petits. On n'est pas du tout à 65, on est plus à 30
+
+853
+00:45:02.376 --> 00:45:02.636
+max.
+
+854
+00:45:04.316 --> 00:45:05.906
+Ça divise par 2, tu es à 100. Là, tu es
+
+855
+00:45:06.856 --> 00:45:10.036
+à 100, en dessous tu es à 100. Olivier, il y a peut-être moyen
+
+856
+00:45:11.016 --> 00:45:13.356
+que tu sois autour des 200 ou peut-être 150.
+
+857
+00:45:13.396 --> 00:45:16.456
+À ce moment-là, on a quand même un bon RR. C'est pour ça, il faut le faire.
+
+858
+00:45:17.896 --> 00:45:19.256
+Même si tu peux le faire sur les 10 premières,
+
+859
+00:45:20.196 --> 00:45:21.196
+comme ça, on est vraiment sûr.
+
+860
+00:45:21.716 --> 00:45:22.356
+D'accord, ça marche.
+
+861
+00:45:22.376 --> 00:45:23.356
+Et comme ça...
+
+862
+00:45:24.716 --> 00:45:28.556
+Ou tes RR sont très bons, au-dessus de 200 partout.
+
+863
+00:45:29.576 --> 00:45:32.896
+En tout cas pas sur les deux premiers, mais si tout le reste est au-dessus de 200,
+
+864
+00:45:36.276 --> 00:45:40.236
+pourquoi pas ? Mais le problème, c'est que si les deux premiers sont à 100 et
+
+865
+00:45:40.276 --> 00:45:41.936
+que c'est tes plus grosses requêtes, ça f**t c***r aussi.
+
+866
+00:45:44.496 --> 00:45:47.996
+Pour ça, ça me fait peur sur ça. En plus, il y aura un autre truc à checker après,
+
+867
+00:45:48.456 --> 00:45:50.716
+parce que tu vas vendre les grosses.
+
+868
+00:45:51.656 --> 00:45:53.696
+Du coup, ok, tu as un RR de 200.
+
+869
+00:45:55.376 --> 00:45:57.156
+C'est un produit que tu vas vendre à 100 balles, on va dire.
+
+870
+00:45:57.556 --> 00:45:58.556
+Mais combien tu l'achètes
+
+871
+00:46:00.016 --> 00:46:01.096
+? Si tu l'achètes 70,
+
+872
+00:46:02.516 --> 00:46:06.356
+ça ne marche pas. Ça sera gros, ça ne sera pas spécialement lourd, mais ça
+
+873
+00:46:06.396 --> 00:46:07.836
+sera gros, donc peut-être que ça va être cher.
+
+874
+00:46:08.456 --> 00:46:12.276
+Il y aura un dernier check après les RR, c'est : est-ce que ta
+
+875
+00:46:12.356 --> 00:46:13.056
+marge suit
+
+876
+00:46:13.936 --> 00:46:13.936
+?
+
+877
+00:46:14.016 --> 00:46:14.436
+Ok.
+
+878
+00:46:18.236 --> 00:46:20.496
+Mais ça me fait peur parce que les deux premiers vont être bas
+
+879
+00:46:21.416 --> 00:46:22.336
+et c'est tes grosses requêtes.
+
+880
+00:46:24.256 --> 00:46:26.496
+Après, si tout le reste est ok, pourquoi pas ?
+
+881
+00:46:28.056 --> 00:46:31.576
+Parce que les deux premières, tu as aussi l'avantage qu'elles sont super larges en
+
+882
+00:46:31.636 --> 00:46:35.336
+termes de requêtes, donc ce n'est pas trop grave qu'elles soient à 100.
+
+883
+00:46:35.396 --> 00:46:35.876
+Dans l'idée,
+
+884
+00:46:36.876 --> 00:46:39.276
+tes fleurs, ça peut être des grosses fleurs, tes plantes, ça peut être des grosses
+
+885
+00:46:39.316 --> 00:46:42.696
+plantes. Ça peut marcher. Il faut vraiment que le reste soit bon.
+
+886
+00:46:43.456 --> 00:46:46.476
+Ici, en vrai, fleurs, il faut vendre des bouquets, parce qu'une fleur,
+
+887
+00:46:46.716 --> 00:46:50.616
+c'est ridicule. C'est ce qui a fait baisser la
+
+888
+00:46:50.696 --> 00:46:53.976
+moyenne, je suppose. Une fleur, c'est 5 euros, 8 euros, ce
+
+889
+00:46:54.696 --> 00:46:57.256
+n'est rien du tout. Par contre, un bouquet, il y a moyen de
+
+890
+00:46:58.196 --> 00:46:58.956
+vendre un peu plus cher.
+
+891
+00:47:00.096 --> 00:47:02.656
+Vas-y, mets fleur artificielle sur Google.
+
+892
+00:47:02.696 --> 00:47:06.496
+Quelle est la SERP
+
+893
+00:47:06.756 --> 00:47:07.316
+? Qu'est-ce qui sort
+
+894
+00:47:10.156 --> 00:47:10.156
+?
+
+895
+00:47:11.056 --> 00:47:15.176
+Oui,
+
+896
+00:47:19.516 --> 00:47:20.916
+conseil des bouquets, c'est intéressant.
+
+897
+00:47:22.056 --> 00:47:23.616
+Conseil des mues, on n'en parle pas.
+
+898
+00:47:25.296 --> 00:47:26.396
+Quand c'est des bouquets, ça va.
+
+899
+00:47:26.476 --> 00:47:29.636
+Ça le fait.
+
+900
+00:47:30.476 --> 00:47:33.696
+Descends un peu dans les résultats organiques pour voir.
+
+901
+00:47:35.196 --> 00:47:39.136
+Descends encore un peu. On est
+
+902
+00:47:39.176 --> 00:47:41.196
+toujours dans les sponso.
+
+903
+00:47:44.636 --> 00:47:47.276
+Artificiel flower, vas-y.
+
+904
+00:47:49.156 --> 00:47:51.316
+Qu'est-ce qu'ils vendent ?
+
+905
+00:47:57.356 --> 00:48:00.316
+C'est des fleurs.
+
+906
+00:48:02.076 --> 00:48:02.886
+Ils vendent vraiment les fleurs.
+
+907
+00:48:03.256 --> 00:48:04.136
+Oui.
+
+908
+00:48:07.416 --> 00:48:10.676
+Ils vendent vraiment les fleurs. Et deuxième résultat, ils vendent quoi
+
+909
+00:48:12.716 --> 00:48:12.716
+?
+
+910
+00:48:14.076 --> 00:48:14.636
+C'est Amazon.
+
+911
+00:48:14.936 --> 00:48:16.396
+Vas-y, next.
+
+912
+00:48:18.396 --> 00:48:19.196
+Après, c'est Florette.
+
+913
+00:48:21.876 --> 00:48:24.056
+Eux, c'est plutôt du bouquet, je pense.
+
+914
+00:48:29.776 --> 00:48:30.106
+5, 5.
+
+915
+00:48:31.736 --> 00:48:32.576
+Ils vendent par 5.
+
+916
+00:48:32.976 --> 00:48:33.736
+Bouquet.
+
+917
+00:48:34.236 --> 00:48:35.436
+Ce qui augmente un peu le...
+
+918
+00:48:37.156 --> 00:48:38.396
+Après, tu as du solo aussi.
+
+919
+00:48:39.136 --> 00:48:42.256
+Elle me fait un peu peur la niche.
+
+920
+00:48:43.456 --> 00:48:46.016
+Fais quand même ton check. On ne sait pas.
+
+921
+00:48:46.296 --> 00:48:46.586
+Peut-être que
+
+922
+00:48:47.896 --> 00:48:50.336
+ça le fait sur les autres et donc ça rend la niche
+
+923
+00:48:50.376 --> 00:48:54.208
+intéressanteMais je ne pense pas.
+
+924
+00:48:57.868 --> 00:49:01.768
+D'ici la semaine prochaine, je vais voir ça
+
+925
+00:49:01.808 --> 00:49:05.308
+de plus près. En même temps, je vais chercher une ou deux autres niches.
+
+926
+00:49:05.728 --> 00:49:05.888
+Oui.
+
+927
+00:49:08.268 --> 00:49:10.568
+Théo, merci.
+
+928
+00:49:11.308 --> 00:49:12.268
+Avec plaisir.
+
+929
+00:49:22.618 --> 00:49:24.588
+Pour ceux qui n'étaient pas là au début, je leur mets le lien.
+
+930
+00:49:25.348 --> 00:49:29.338
+Je n'ai pas testé, mais Pierre a envoyé sur un Shopify qui ont
+
+931
+00:49:29.348 --> 00:49:30.868
+apparemment fait un truc officiel
+
+932
+00:49:31.988 --> 00:49:35.048
+pour connecter Cloud, si jamais ça peut intéresser des gens.
+
+933
+00:49:36.488 --> 00:49:39.408
+Il faut juste balancer une ligne de commande, ça va vous ajouter le—
+
+934
+00:49:40.408 --> 00:49:41.528
+je ne sais pas comment ça se passe après.
+
+935
+00:49:41.568 --> 00:49:44.128
+J'imagine qu'il faut se connecter à son Shopify. Je ne sais pas comment c'est géré.
+
+936
+00:49:45.288 --> 00:49:46.168
+Je ne l'ai pas sur l'ordi.
+
+937
+00:49:47.788 --> 00:49:49.628
+Je ne sais même pas quel terminal utiliser sur
+
+938
+00:49:51.228 --> 00:49:52.068
+Windows.
+
+939
+00:49:53.668 --> 00:49:55.628
+Je ne sais même pas comment ça marche Cloud Code sur Windows.
+
+940
+00:50:02.368 --> 00:50:16.788
+Est-ce
+
+941
+00:50:16.808 --> 00:50:20.088
+que quelqu'un veut passer aussi à une question ou voir un truc
+
+942
+00:50:21.668 --> 00:50:21.668
+?
+
+943
+00:50:47.808 --> 00:50:48.048
+Non
+
+944
+00:50:49.588 --> 00:50:49.588
+?
+
+945
+00:50:54.508 --> 00:50:55.408
+Pas tous en même temps.
+
+946
+00:50:56.468 --> 00:50:57.548
+Oui, pas tous en même temps.
+
+947
+00:51:06.348 --> 00:51:08.528
+Personne ne veut passer, personne n'a une question ?
+
+948
+00:51:08.548 --> 00:51:09.088
+J'ai une question.
+
+949
+00:51:09.368 --> 00:51:09.528
+Si.
+
+950
+00:51:11.168 --> 00:51:14.248
+Il y en a qui utilisent l'abonnement de DSers ?
+
+951
+00:51:14.268 --> 00:51:16.808
+Parce que je sais que la plupart, pour le tracking, tout le monde utilise Parcel
+
+952
+00:51:16.868 --> 00:51:19.408
+Panel. Je me demande si ça ne serait pas plus simple de passer par
+
+953
+00:51:20.408 --> 00:51:21.188
+l'abo de DSers,
+
+954
+00:51:22.168 --> 00:51:25.268
+comme ils synchronisent tout directement dedans avec Aliexpress.
+
+955
+00:51:29.728 --> 00:51:31.088
+Juste pour le tracking, tu veux dire ?
+
+956
+00:51:31.288 --> 00:51:34.268
+Tracking, l'envoi de mail, ils font plusieurs trucs.
+
+957
+00:51:34.788 --> 00:51:38.668
+Bonne question. Jamais utilisé
+
+958
+00:51:39.148 --> 00:51:39.768
+tout ce côté-là.
+
+959
+00:51:40.697 --> 00:51:41.748
+Il y a quelqu'un qui l'utilise
+
+960
+00:51:42.648 --> 00:51:44.708
+en payant pour tout ça
+
+961
+00:51:45.728 --> 00:51:45.728
+?
+
+962
+00:51:54.708 --> 00:51:55.848
+Pas tous en même temps non plus.
+
+963
+00:51:58.848 --> 00:52:01.948
+Je ne réponds pas parce que je n'utilise pas, justement.
+
+964
+00:52:02.048 --> 00:52:03.268
+J'en ai déjà parlé avec Pierre.
+
+965
+00:52:04.708 --> 00:52:07.388
+J'attendais un retour de sa part, éventuellement, s'il le prenait, mais
+
+966
+00:52:08.368 --> 00:52:09.248
+non, je n'utilise pas.
+
+967
+00:52:09.308 --> 00:52:09.948
+En vrai,
+
+968
+00:52:13.848 --> 00:52:15.308
+je ne vois pas trop l'intérêt.
+
+969
+00:52:16.228 --> 00:52:17.558
+Qu'est-ce qu'il apporte concrètement ?
+
+970
+00:52:22.428 --> 00:52:24.018
+La synchronisation tout-en-un.
+
+971
+00:52:24.228 --> 00:52:28.088
+Attends, avec Parcel Panel, vous
+
+972
+00:52:28.128 --> 00:52:30.308
+copiez les numéros de suivi à la main
+
+973
+00:52:31.148 --> 00:52:31.148
+?
+
+974
+00:52:31.308 --> 00:52:31.648
+Non.
+
+975
+00:52:33.388 --> 00:52:34.828
+Ça synchronise automatiquement ?
+
+976
+00:52:34.888 --> 00:52:35.167
+Oui.
+
+977
+00:52:37.868 --> 00:52:40.288
+Est-ce que c'est parce que j'utilise un— Je ne sais pas.
+
+978
+00:52:40.328 --> 00:52:44.248
+P****n, pourquoi quand il y a quelqu'un qui se connecte, mon son est à 200
+
+979
+00:52:44.268 --> 00:52:45.828
+% ? C'est n'importe quoi.
+
+980
+00:52:45.948 --> 00:52:48.148
+Chez nous, ça coupe. On n'a pas compris ce que tu as dit juste avant.
+
+981
+00:52:49.048 --> 00:52:52.248
+Je disais
+
+982
+00:52:53.588 --> 00:52:56.408
+que mes trackings remontaient automatiquement sur le shop.
+
+983
+00:52:57.108 --> 00:52:59.068
+Je ne crois pas utiliser une version payante.
+
+984
+00:52:59.908 --> 00:53:02.148
+Parce que Mathieu, c'est dommage qu'il ne soit pas là.
+
+985
+00:53:03.588 --> 00:53:07.328
+Il fait des exports CSV,
+
+986
+00:53:07.508 --> 00:53:09.828
+puis réimporte parce que justement,
+
+987
+00:53:10.968 --> 00:53:12.068
+il n'y a pas de synchro automatique.
+
+988
+00:53:12.908 --> 00:53:16.348
+Après, je ne sais pas si Parcel Panel, c'est vraiment la même entre Shopify et
+
+989
+00:53:16.388 --> 00:53:20.328
+WordPress. Parce qu'avec WordPress, justement, Mathieu, avant, il faisait comme
+
+990
+00:53:20.368 --> 00:53:21.788
+tu dis, Mika, un export CSV.
+
+991
+00:53:22.408 --> 00:53:22.788
+Oui.
+
+992
+00:53:22.848 --> 00:53:23.438
+Et maintenant-
+
+993
+00:53:24.208 --> 00:53:26.558
+Il a fait un make ?
+
+994
+00:53:27.448 --> 00:53:28.968
+Avant, il faisait un make aussi.
+
+995
+00:53:29.828 --> 00:53:33.448
+Ça, c'était sa V2. Maintenant, il a fait une V3 où il passe par un
+
+996
+00:53:33.468 --> 00:53:37.128
+PHP. Il est passé par Cloud Code, où il peut
+
+997
+00:53:39.148 --> 00:53:42.948
+lier le numéro de suivi d'AliExpress dans Order
+
+998
+00:53:43.008 --> 00:53:46.288
+Note, dans la commande client. Et ça l'ajoute
+
+999
+00:53:46.328 --> 00:53:48.308
+automatiquement dans Order Note.
+
+1000
+00:53:49.608 --> 00:53:49.828
+OK.
+
+1001
+00:53:50.608 --> 00:53:53.298
+Et puis après, je crois qu'il fait un copier-coller de celui-ci et il le met dans
+
+1002
+00:53:53.708 --> 00:53:55.008
+Parcel Panel, il me semble.
+
+1003
+00:53:56.288 --> 00:53:58.408
+Mais oui, c'est quand même bien de la m***e WordPress.
+
+1004
+00:54:00.588 --> 00:54:01.608
+C'est automatique.
+
+1005
+00:54:02.328 --> 00:54:04.108
+Oui, on est d'accord, c'est automatique sur Shopify.
+
+1006
+00:54:04.648 --> 00:54:08.468
+C'est automatique. Et puis après, quand tu passes par un agent, c'est l'agent qui
+
+1007
+00:54:08.528 --> 00:54:11.248
+le met automatiquement aussi. Donc après, il n'y a pas de souci.
+
+1008
+00:54:12.268 --> 00:54:15.988
+Oui, mais est-ce que Mathieu ne faisait pas ça justement parce qu'il ne voulait pas
+
+1009
+00:54:16.008 --> 00:54:16.388
+payer
+
+1010
+00:54:18.008 --> 00:54:18.328
+l'abo-
+
+1011
+00:54:19.948 --> 00:54:21.168
+Le plan à 50.
+
+1012
+00:54:21.178 --> 00:54:21.988
+Le plan à 50, c'est ça. OK.
+
+1013
+00:54:22.448 --> 00:54:26.408
+Non, mais je crois que j'ai dû le prendre à des moments,
+
+1014
+00:54:26.448 --> 00:54:28.988
+mais j'avais des DSers gratuits qui remontaient
+
+1015
+00:54:29.808 --> 00:54:32.808
+le tracking automatiquement, non ? Thibaut, tu payes toi ?
+
+1016
+00:54:32.828 --> 00:54:35.808
+Oui, je crois que la limite de Parcel Panel, ce n'est pas au niveau du tracking
+
+1017
+00:54:35.848 --> 00:54:39.488
+automatique. Je crois que c'est au niveau du nombre de clients, non
+
+1018
+00:54:40.088 --> 00:54:42.127
+? Oui, mais je ne sais plus où tu es limité, justement.
+
+1019
+00:54:42.168 --> 00:54:43.158
+À partir du moment où ça ne le fait plus.
+
+1020
+00:54:43.588 --> 00:54:47.448
+Il parle pour Parcel. Là, l'abonnement à 50 balles, c'est pour Parcel Panel.
+
+1021
+00:54:47.928 --> 00:54:51.908
+Oui, c'est ça. Mais bon, après, quand tu arrives à l'abonnement à 50 dollars
+
+1022
+00:54:51.928 --> 00:54:54.688
+par mois sur Parcel Panel, à un moment donné tu es un gros pingre.
+
+1023
+00:54:54.728 --> 00:54:56.578
+Normalement, tu fais largement assez de CA pour
+
+1024
+00:54:57.648 --> 00:55:00.028
+l'absorber le truc. Mais je ne sais pas du tout ce que donne Parcel Panel, par
+
+1025
+00:55:00.048 --> 00:55:01.904
+contre.Pourquoi ça bloque ?
+
+1026
+00:55:03.204 --> 00:55:04.524
+Oui, je ne comprends pas pourquoi ça bloque.
+
+1027
+00:55:04.844 --> 00:55:08.004
+Mais je sais qu'il y a une limite en termes de clients.
+
+1028
+00:55:08.134 --> 00:55:11.064
+Le nombre de tracking que tu peux importer. En gros, le nombre de commandes.
+
+1029
+00:55:11.824 --> 00:55:12.664
+Attends, je vais regarder.
+
+1030
+00:55:12.704 --> 00:55:13.004
+C'est combien ?
+
+1031
+00:55:14.524 --> 00:55:17.204
+Je pense que c'est 20 en gratuit et après payant, je ne sais pas.
+
+1032
+00:55:18.564 --> 00:55:20.064
+Attends, déjà, je ne sais même pas où il est mon Parcel Panel.
+
+1033
+00:55:20.584 --> 00:55:22.264
+P****n, c'est que ça s'appelle Parcelwill maintenant.
+
+1034
+00:55:22.824 --> 00:55:25.424
+Oui, Parcelwill. Je ne sais même pas pourquoi, c'est nul.
+
+1035
+00:55:28.624 --> 00:55:30.134
+Ça doit être par rapport au nombre.
+
+1036
+00:55:30.164 --> 00:55:31.324
+Order tracking.
+
+1037
+00:55:32.324 --> 00:55:33.784
+Alors attends. Facturation.
+
+1038
+00:55:34.384 --> 00:55:35.764
+200 crédits, c'est ça ?
+
+1039
+00:55:36.124 --> 00:55:39.904
+Moi, je sais que je paye 11 dollars par mois pour un quota de
+
+1040
+00:55:40.084 --> 00:55:41.464
+200 commandes. Mais alors après,
+
+1041
+00:55:42.904 --> 00:55:44.264
+qu'est-ce que c'est qu'un quota ?
+
+1042
+00:55:47.284 --> 00:55:50.784
+Il parle de crédits, je vois. 200 crédits par mois. C'est ça ?
+
+1043
+00:55:50.804 --> 00:55:52.884
+Voilà, ça doit être la traduction qui doit changer.
+
+1044
+00:55:53.224 --> 00:55:55.464
+Et 500, c'est 23.
+
+1045
+00:55:56.684 --> 00:56:00.244
+Lui, il devait passer au 59, donc aux 2 000. Il a plus de 500 commandes.
+
+1046
+00:56:01.024 --> 00:56:03.724
+Faut croire.
+
+1047
+00:56:03.944 --> 00:56:06.804
+Plus de 200. Il est à l'abonnement à 23 balles.
+
+1048
+00:56:08.564 --> 00:56:10.564
+Oui, c'est ça, tu peux ajuster.
+
+1049
+00:56:11.344 --> 00:56:14.704
+Oui, et puis franchement, il y a sûrement un moyen
+
+1050
+00:56:14.744 --> 00:56:18.414
+d'automatiser ça ou d'utiliser une autre app à ce moment-là, mais s'il fait
+
+1051
+00:56:19.524 --> 00:56:23.004
+500 commandes, il peut payer 19 euros de tracking, non
+
+1052
+00:56:23.644 --> 00:56:23.644
+?
+
+1053
+00:56:23.684 --> 00:56:25.064
+C'est ce que je me dis. Mais bon.
+
+1054
+00:56:25.984 --> 00:56:28.084
+Mathieu est proche de ses sous.
+
+1055
+00:56:29.444 --> 00:56:31.144
+Après, je peux comprendre, 20 balles par mois,
+
+1056
+00:56:31.224 --> 00:56:34.464
+pourquoi pas, mais
+
+1057
+00:56:35.724 --> 00:56:36.244
+à ce moment-là,
+
+1058
+00:56:39.144 --> 00:56:41.594
+peut-être changer de système de tracking.
+
+1059
+00:56:42.784 --> 00:56:45.704
+Oui. En gros, c'est une commande égale un quota.
+
+1060
+00:56:45.824 --> 00:56:49.084
+Parcelwill synchronise et suit une commande pour vous, il consomme un quota.
+
+1061
+00:56:49.144 --> 00:56:49.344
+Mais
+
+1062
+00:56:50.944 --> 00:56:53.584
+synchronise, ça m'étonne parce que normalement, c'est Deezer qui envoie ça sur
+
+1063
+00:56:53.664 --> 00:56:54.224
+Shopify.
+
+1064
+00:56:54.784 --> 00:56:58.284
+Non, mais je pense, je vais peut-être dire de la m***e, mais
+
+1065
+00:56:58.944 --> 00:57:02.624
+c'est l'idée où elle a le tracking en backend
+
+1066
+00:57:02.864 --> 00:57:03.204
+et elle
+
+1067
+00:57:04.224 --> 00:57:07.084
+suit en backend l'avancement pour te l'afficher.
+
+1068
+00:57:08.004 --> 00:57:10.144
+Pour avoir l'avancement.
+
+1069
+00:57:10.663 --> 00:57:12.624
+Sur la fameuse page personnalisée que tu fais.
+
+1070
+00:57:12.664 --> 00:57:15.444
+Et sinon, à mon avis, quand tu dépasses, tu arrives peut-être directement sur un
+
+1071
+00:57:15.484 --> 00:57:16.043
+site externe.
+
+1072
+00:57:17.204 --> 00:57:18.934
+Je ne sais pas après comment ça se passe.
+
+1073
+00:57:20.864 --> 00:57:22.764
+Bref, globalement, ce n'est quand même pas très cher.
+
+1074
+00:57:23.744 --> 00:57:24.664
+Oui, ils disent.
+
+1075
+00:57:26.124 --> 00:57:29.504
+Je ne sais pas pourquoi ils mettent moyenne 0,4 € par order.
+
+1076
+00:57:29.884 --> 00:57:30.944
+Je ne sais pas pourquoi ils parlent de ça.
+
+1077
+00:57:32.564 --> 00:57:34.744
+Moi, j'ai 0,5, je ne sais pas.
+
+1078
+00:57:35.024 --> 00:57:38.864
+0,4 €. Oui, 0,5 pour la version à 11
+
+1079
+00:57:38.904 --> 00:57:41.904
+dollars et 0,4 € pour la version à 23.
+
+1080
+00:57:43.544 --> 00:57:44.604
+Ça ne reste pas très cher quand même.
+
+1081
+00:57:45.764 --> 00:57:47.624
+C'est le coût à l'unité.
+
+1082
+00:57:48.464 --> 00:57:48.684
+Oui.
+
+1083
+00:57:49.244 --> 00:57:49.784
+À l'opération.
+
+1084
+00:57:50.064 --> 00:57:52.984
+Ça ne reste pas très cher pour une commande. C'est le même prix que Deezer.
+
+1085
+00:57:55.184 --> 00:57:56.884
+Mais vous, ça se fait automatiquement le truc ?
+
+1086
+00:57:56.984 --> 00:57:57.384
+Oui.
+
+1087
+00:57:59.444 --> 00:58:02.344
+Ça ne le fait pas automatiquement sur WordPress ? Je n'ai pas l'impression.
+
+1088
+00:58:04.784 --> 00:58:05.424
+C'est bizarre.
+
+1089
+00:58:06.344 --> 00:58:07.744
+Logiquement, l'app est faite pour ça.
+
+1090
+00:58:08.884 --> 00:58:11.004
+Oui, il y a WooCommerce dans l'app.
+
+1091
+00:58:11.064 --> 00:58:11.944
+Mika ?
+
+1092
+00:58:13.564 --> 00:58:14.324
+Parcel Panel.
+
+1093
+00:58:15.604 --> 00:58:16.684
+Et avec des commandes AliExpress
+
+1094
+00:58:18.764 --> 00:58:18.764
+?
+
+1095
+00:58:18.804 --> 00:58:20.184
+Avec des commandes AliExpress, oui.
+
+1096
+00:58:20.324 --> 00:58:20.524
+Et ça
+
+1097
+00:58:20.564 --> 00:58:24.704
+récupère
+
+1098
+00:58:24.724 --> 00:58:27.044
+automatiquement le numéro de tracking dès qu'il est dispo
+
+1099
+00:58:28.104 --> 00:58:28.104
+?
+
+1100
+00:58:28.164 --> 00:58:29.704
+Oui, mais comme je ne dépasse pas
+
+1101
+00:58:30.544 --> 00:58:33.784
+encore les 200, je
+
+1102
+00:58:34.144 --> 00:58:37.524
+ne comprenais pas le problème de Mathieu.
+
+1103
+00:58:37.824 --> 00:58:41.504
+Voilà.
+
+1104
+00:58:44.104 --> 00:58:45.964
+Et tu as besoin de connecter ta boutique à Parcel Panel ?
+
+1105
+00:58:45.984 --> 00:58:47.264
+Parce que comment il fait le lien entre les deux ?
+
+1106
+00:58:47.284 --> 00:58:48.344
+Parce que c'est deux applis différentes.
+
+1107
+00:58:49.224 --> 00:58:49.644
+Avec
+
+1108
+00:58:51.264 --> 00:58:51.824
+ton plugin.
+
+1109
+00:58:54.284 --> 00:58:55.944
+Il y a un plugin, Parcel Panel.
+
+1110
+00:58:58.584 --> 00:59:01.844
+Mais tu te connectes avec ta boutique AliExpress dans le plugin pour qu'il fasse le
+
+1111
+00:59:01.884 --> 00:59:02.044
+lien
+
+1112
+00:59:04.304 --> 00:59:04.304
+?
+
+1113
+00:59:04.344 --> 00:59:06.764
+Mais de toute façon, normalement, tu n'as pas de rapport entre AliExpress et Parcel
+
+1114
+00:59:06.784 --> 00:59:06.984
+Panel.
+
+1115
+00:59:07.964 --> 00:59:08.084
+Oui.
+
+1116
+00:59:08.504 --> 00:59:12.424
+WooCommerce envoie sur ta boutique et ensuite, Parcel
+
+1117
+00:59:12.524 --> 00:59:12.784
+Panel
+
+1118
+00:59:13.604 --> 00:59:14.604
+récupère le truc. Mais
+
+1119
+00:59:16.404 --> 00:59:17.624
+je ne crois pas que tu aies de lien avec AliExpress.
+
+1120
+00:59:17.804 --> 00:59:20.504
+Moi, je n'ai pas connecté Parcel Panel à AliExpress ou inversement.
+
+1121
+00:59:21.703 --> 00:59:23.244
+Oui, moi non plus.
+
+1122
+00:59:24.764 --> 00:59:26.004
+Non, il n'y a pas besoin.
+
+1123
+00:59:26.884 --> 00:59:30.724
+Après, il y a toujours l'API de 17track s'il veut économiser.
+
+1124
+00:59:32.084 --> 00:59:34.874
+17track, franchement, c'est bien. C'est vachement bien.
+
+1125
+00:59:35.684 --> 00:59:36.324
+Elle est moins chère
+
+1126
+00:59:37.264 --> 00:59:37.264
+?
+
+1127
+00:59:37.584 --> 00:59:39.124
+Je ne sais pas si elle est moins chère, mais elle est beaucoup mieux, en tout cas.
+
+1128
+00:59:39.244 --> 00:59:40.084
+Elle est beaucoup plus précise.
+
+1129
+00:59:40.424 --> 00:59:42.804
+Là, ils disent prix unitaire
+
+1130
+00:59:44.944 --> 00:59:48.524
+0,02 € l'unité pour le suivi, donc ça fait trois fois moins cher
+
+1131
+00:59:48.564 --> 00:59:49.004
+presque.
+
+1132
+00:59:50.344 --> 00:59:54.124
+Et là, tu ne payes pas au forfait, je crois.
+
+1133
+00:59:55.124 --> 00:59:55.584
+Quoique.
+
+1134
+00:59:58.024 --> 00:59:59.724
+Il y a peut-être un forfait quand même sur l'API.
+
+1135
+01:00:00.344 --> 01:00:01.843
+Je ne sais pas, il faudrait checker.
+
+1136
+01:00:02.684 --> 01:00:05.724
+Tu parles de la Shopify app, Théo, c'est ça ?
+
+1137
+01:00:06.024 --> 01:00:07.544
+Oui, mais du coup de l'API.
+
+1138
+01:00:08.104 --> 01:00:09.344
+L'API directement, ok.
+
+1139
+01:00:11.484 --> 01:00:13.114
+Mais je vois, on se prend 19, là, c'est bizarre.
+
+1140
+01:00:13.124 --> 01:00:15.164
+Pour WooCommerce, oui. Pour WooCommerce, bien sûr.
+
+1141
+01:00:18.264 --> 01:00:20.064
+Non, ce n'était pas ça, c'était pour le tracking
+
+1142
+01:00:21.244 --> 01:00:21.784
+des apps.
+
+1143
+01:00:22.924 --> 01:00:25.764
+J'allais dire, je pensais que 17track ne fonctionnait plus avec
+
+1144
+01:00:26.904 --> 01:00:27.464
+WooCommerce.
+
+1145
+01:00:28.164 --> 01:00:29.024
+Ils n'ont plus leur appli.
+
+1146
+01:00:29.844 --> 01:00:30.564
+De quoi ?
+
+1147
+01:00:30.624 --> 01:00:32.224
+Ils l'ont plus, l'appli, ils l'ont supprimée.
+
+1148
+01:00:34.564 --> 01:00:35.184
+Oui, c'est bien.
+
+1149
+01:00:35.604 --> 01:00:39.554
+Après, justement, c'est pour ça, encore une fois, je
+
+1150
+01:00:39.564 --> 01:00:43.384
+ne connais pas, mais j'imagine que tu peux te faire une page dédiée où tu balances
+
+1151
+01:00:43.444 --> 01:00:47.344
+via l'API les données de l'avancement de la
+
+1152
+01:00:47.384 --> 01:00:50.884
+commande. Il y a sûrement moyen de bidouiller un truc pas trop compliqué pour gérer
+
+1153
+01:00:50.904 --> 01:00:51.084
+ça.
+
+1154
+01:00:52.204 --> 01:00:54.384
+Je crois qu'on en avait causé de ces trucs-là, c'était une usine à gaz.
+
+1155
+01:00:55.064 --> 01:00:58.804
+Oui, je pense. Après, le seul problème, c'est est-ce qu'il faut un
+
+1156
+01:00:58.864 --> 01:01:01.384
+abonnement pour avoir l'API de 17track ?
+
+1157
+01:01:01.604 --> 01:01:03.734
+Ou est-ce que tu peux payer 99, un truc comme ça ?
+
+1158
+01:01:05.584 --> 01:01:06.464
+Combien ?
+
+1159
+01:01:06.644 --> 01:01:07.704
+4,99 par mois.
+
+1160
+01:01:08.964 --> 01:01:11.104
+Si après ça te coûte 0,02 €, il faut calculer.
+
+1161
+01:01:12.804 --> 01:01:16.004
+Peut-être que s'il a un point à ressortir de ça,
+
+1162
+01:01:17.064 --> 01:01:20.804
+soit il paye Parcel panel, soit il check
+
+1163
+01:01:21.004 --> 01:01:23.124
+17tracks, voir s'il ne peut pas faire un truc avec l'API.
+
+1164
+01:01:24.304 --> 01:01:28.124
+Ce qui peut être bien, c'est 17tracks, que tu passes par CJ
+
+1165
+01:01:28.134 --> 01:01:31.044
+Drop Shipping ou autre. Tu peux tout balancer.
+
+1166
+01:01:33.804 --> 01:01:34.024
+Oui.
+
+1167
+01:01:36.024 --> 01:01:39.444
+De ce que je comprends, il faut payer 119 balles pour avoir 5 000 quotas qui sont
+
+1168
+01:01:39.484 --> 01:01:40.224
+valables 12 mois.
+
+1169
+01:01:42.024 --> 01:01:44.084
+Tu fais 0,02 € le token.
+
+1170
+01:01:46.844 --> 01:01:48.964
+Sinon, tu as Order Tracker qui est pas mal aussi.
+
+1171
+01:01:49.504 --> 01:01:49.794
+Il y a
+
+1172
+01:01:50.604 --> 01:01:53.464
+une application qui fait tout ça. Elle s'appelle Invesi.
+
+1173
+01:01:54.024 --> 01:01:57.124
+Ici, vous scannez le produit.
+
+1174
+01:01:57.134 --> 01:01:59.844
+Parole sans micro.
+
+1175
+01:01:59.904 --> 01:02:02.364
+En fait, c'est la qualification des objets.
+
+1176
+01:02:04.064 --> 01:02:05.703
+Je ne sais pas pourquoi il ne se coupe pas, je suis désolé.
+
+1177
+01:02:06.624 --> 01:02:07.564
+Il
+
+1178
+01:02:10.784 --> 01:02:12.604
+y a 17tracks qui peut être une solution.
+
+1179
+01:02:17.964 --> 01:02:20.223
+AfterShip, c'est cher
+
+1180
+01:02:23.164 --> 01:02:23.164
+?
+
+1181
+01:02:23.224 --> 01:02:25.284
+AfterShip. C'est hyper cher ce truc
+
+1182
+01:02:26.584 --> 01:02:26.584
+?
+
+1183
+01:02:26.604 --> 01:02:27.064
+Je ne sais pas.
+
+1184
+01:02:31.464 --> 01:02:33.084
+Celui-là, je crois que c'est 10 balles à peu près.
+
+1185
+01:02:34.584 --> 01:02:36.044
+10 balles jusqu'à combien
+
+1186
+01:02:38.184 --> 01:02:38.184
+?
+
+1187
+01:02:38.244 --> 01:02:39.784
+Mais tu n'avais pas l'API.
+
+1188
+01:02:51.504 --> 01:02:53.544
+Il n'y a pas trop de données sur leur truc.
+
+1189
+01:03:03.744 --> 01:03:03.924
+Déjà,
+
+1190
+01:03:04.924 --> 01:03:08.844
+il y a deux points : API à 17tracks où il
+
+1191
+01:03:08.864 --> 01:03:10.484
+paye 20 balles et ça lui fait que
+
+1192
+01:03:11.964 --> 01:03:14.223
+0,04 € par-
+
+1193
+01:03:14.824 --> 01:03:15.484
+Ouais, ça va.
+
+1194
+01:03:22.104 --> 01:03:25.364
+Qu'est-ce qu'il y a comme abonnement
+
+1195
+01:03:25.384 --> 01:03:27.284
+sur Woo Commerce
+
+1196
+01:03:28.164 --> 01:03:28.624
+mensuel,
+
+1197
+01:03:29.424 --> 01:03:29.844
+à part le
+
+1198
+01:03:31.964 --> 01:03:32.423
+serveur
+
+1199
+01:03:34.384 --> 01:03:34.384
+?
+
+1200
+01:03:34.844 --> 01:03:36.064
+Tu peux avoir limite
+
+1201
+01:03:37.284 --> 01:03:40.884
+tout gratos. Il y a toujours moyen, mais si tu veux des fonctionnalités en plus,
+
+1202
+01:03:42.064 --> 01:03:43.644
+payées. Pour moi, le vrai
+
+1203
+01:03:44.484 --> 01:03:47.604
+20-80, c'est FunnelKit. C'est celui qui révolutionne toute boutique e-com.
+
+1204
+01:03:48.044 --> 01:03:48.644
+Oui.
+
+1205
+01:03:48.684 --> 01:03:51.344
+Tu peux vraiment avoir du bundle offer, tu peux
+
+1206
+01:03:53.084 --> 01:03:56.864
+configurer des upsell, la page checkout, le mini
+
+1207
+01:03:56.924 --> 01:03:58.324
+panier et puis même avec
+
+1208
+01:03:59.464 --> 01:04:03.424
+le marketing aussi, avec automation, c'est un peu le Omnisend ou Klaviyo
+
+1209
+01:04:03.484 --> 01:04:05.484
+intégré directement. Tu as tout en local.
+
+1210
+01:04:06.324 --> 01:04:06.464
+Oui.
+
+1211
+01:04:07.444 --> 01:04:07.904
+Ça, c'est cool.
+
+1212
+01:04:08.994 --> 01:04:12.024
+Puis après, le reste, je dirais le flux produit.
+
+1213
+01:04:14.584 --> 01:04:17.184
+Il n'y a pas du gratuit sur ça ? C'est du payant ?
+
+1214
+01:04:17.464 --> 01:04:17.804
+Tu peux.
+
+1215
+01:04:18.744 --> 01:04:19.124
+Ce n'est pas ouf.
+
+1216
+01:04:19.824 --> 01:04:20.444
+Oui, c'est ça.
+
+1217
+01:04:21.284 --> 01:04:22.784
+Et FunnelKit, c'est du annuellement
+
+1218
+01:04:23.784 --> 01:04:23.784
+?
+
+1219
+01:04:24.164 --> 01:04:25.064
+Oui.
+
+1220
+01:04:28.924 --> 01:04:30.284
+Combien ça coûte ?
+
+1221
+01:04:30.344 --> 01:04:31.184
+Ça revient à que dalle.
+
+1222
+01:04:32.844 --> 01:04:34.524
+Oui, ça dépend du nombre de sites et tout.
+
+1223
+01:04:39.724 --> 01:04:41.884
+Il n'y a pas de grande dépense mensuelle.
+
+1224
+01:04:43.104 --> 01:04:45.084
+À part le thème, peut-être par an aussi.
+
+1225
+01:04:45.964 --> 01:04:46.244
+Oui.
+
+1226
+01:04:51.124 --> 01:04:55.004
+Mais c'est vrai que Woo Commerce, on en revient au point, à partir du
+
+1227
+01:04:55.064 --> 01:04:56.784
+moment où vous voulez faire une chiée de sites,
+
+1228
+01:04:58.004 --> 01:05:01.124
+les abonnements en multisites, ça ne coûte rien du tout après.
+
+1229
+01:05:01.924 --> 01:05:02.504
+Oui, c'est ça.
+
+1230
+01:05:02.724 --> 01:05:03.324
+Serveur.
+
+1231
+01:05:04.584 --> 01:05:07.224
+FunnelKit pour 30 sites, c'est 400 balles.
+
+1232
+01:05:09.344 --> 01:05:10.144
+Ça donne
+
+1233
+01:05:11.084 --> 01:05:12.144
+l'euro par site.
+
+1234
+01:05:19.424 --> 01:05:23.904
+Parce
+
+1235
+01:05:23.923 --> 01:05:27.864
+que c'était quoi son problème déjà, Mathieu ? C'était quoi le fond du problème ?
+
+1236
+01:05:29.544 --> 01:05:30.744
+Dommage, il n'est pas là.
+
+1237
+01:05:33.104 --> 01:05:34.214
+De ce que j'ai compris, c'était de
+
+1238
+01:05:35.184 --> 01:05:35.644
+récupérer
+
+1239
+01:05:36.644 --> 01:05:37.544
+les trackings,
+
+1240
+01:05:38.964 --> 01:05:41.604
+faire le copier-coller entre AliExpress et Parcel panel, il me semble.
+
+1241
+01:05:41.624 --> 01:05:41.904
+C'était ça
+
+1242
+01:05:42.904 --> 01:05:42.904
+?
+
+1243
+01:05:42.984 --> 01:05:46.804
+Oui, c'était vraiment ça. Donc c'est pourquoi Dysert n'envoie pas le
+
+1244
+01:05:46.824 --> 01:05:47.904
+tracking ? C'est ça
+
+1245
+01:05:49.464 --> 01:05:49.464
+?
+
+1246
+01:05:49.644 --> 01:05:51.814
+Lui, il ne s'était jamais intéressé, justement, à Dysert,
+
+1247
+01:05:52.844 --> 01:05:53.884
+avec l'offre payante.
+
+1248
+01:05:54.584 --> 01:05:56.704
+Oui, mais le gratuit fait le job normalement.
+
+1249
+01:06:01.504 --> 01:06:03.584
+Le gratuit est censé balancer son tracking.
+
+1250
+01:06:04.644 --> 01:06:06.104
+Je ne sais plus. Il avait une problématique.
+
+1251
+01:06:06.204 --> 01:06:09.324
+Dysert fait la passerelle entre ton shop et Ali.
+
+1252
+01:06:12.424 --> 01:06:13.744
+Une fois que la commande est passée,
+
+1253
+01:06:14.964 --> 01:06:18.804
+il peut récupérer l'order ID et aussi le tracking et le balancer dans le shop.
+
+1254
+01:06:19.324 --> 01:06:20.484
+C'est la passerelle entre les deux.
+
+1255
+01:06:21.664 --> 01:06:24.744
+Oui, c'est comme ça que Parcel panel les
+
+1256
+01:06:25.024 --> 01:06:25.864
+récupère ?
+
+1257
+01:06:26.284 --> 01:06:29.704
+Une fois que Dysert a balancé le tracking
+
+1258
+01:06:30.104 --> 01:06:33.664
+d'AliExpress dans ton shop, Parcel panel chope le
+
+1259
+01:06:34.344 --> 01:06:34.704
+tracking.
+
+1260
+01:06:35.184 --> 01:06:35.764
+OK.
+
+1261
+01:06:37.984 --> 01:06:41.104
+Ça fait sens maintenant.
+
+1262
+01:06:42.904 --> 01:06:46.824
+Mais le problème, c'est de checker pourquoi Dysert ne balance pas
+
+1263
+01:06:46.864 --> 01:06:46.964
+le
+
+1264
+01:06:48.504 --> 01:06:51.184
+tracking. Est-ce que sur Woo Commerce, c'est chiant ? Je ne sais pas.
+
+1265
+01:06:53.864 --> 01:06:55.864
+Mais c'est plutôt de ce côté-là qu'il faut fouiller.
+
+1266
+01:06:57.714 --> 01:07:01.544
+SAV, peut-être un petit chat, une petite demande à
+
+1267
+01:07:01.814 --> 01:07:03.644
+Dysert pour voir pourquoi ça ne le fait pas.
+
+1268
+01:07:03.684 --> 01:07:06.904
+Peut-être qu'il faut activer un truc spécial, peut-être qu'il faut certains
+
+1269
+01:07:08.664 --> 01:07:09.864
+accès, je ne sais
+
+1270
+01:07:09.904 --> 01:07:13.628
+quoi.Vu que je ne l'utilise pas trop,
+
+1271
+01:07:13.688 --> 01:07:14.868
+j'avoue que je ne sais pas.
+
+1272
+01:07:23.308 --> 01:07:25.108
+Si on met 17tracks.
+
+1273
+01:07:26.448 --> 01:07:27.348
+Oui, 17tracks.
+
+1274
+01:07:29.148 --> 01:07:31.667
+Le problème, c'est que c'est du paiement one shot aussi, j'ai l'impression.
+
+1275
+01:07:33.168 --> 01:07:34.008
+Pour acheter des crédits.
+
+1276
+01:07:36.888 --> 01:07:37.968
+Après, il y a peut-être un abonnement.
+
+1277
+01:07:39.828 --> 01:07:41.568
+Chaque plan a une durée de 12 mois.
+
+1278
+01:07:49.328 --> 01:07:53.288
+Tristan passe par ça. Il a fait une app custom où il
+
+1279
+01:07:53.328 --> 01:07:54.768
+prend l'API de 17tracks.
+
+1280
+01:07:55.408 --> 01:07:57.088
+Oui.
+
+1281
+01:07:57.148 --> 01:07:59.688
+C'est vrai que pour tout son parc des sites, c'est hyper rentable.
+
+1282
+01:07:59.928 --> 01:08:03.748
+Oui, quand tu prends les gros abonnements, ça ne coûte vraiment rien du tout.
+
+1283
+01:08:04.028 --> 01:08:05.108
+Ça coûte 1 centime par
+
+1284
+01:08:06.008 --> 01:08:06.528
+tracking.
+
+1285
+01:08:08.988 --> 01:08:12.228
+J'abuse, je suis sur un gros. Mais c'est pareil, c'est 1 ou 2 centimes.
+
+1286
+01:08:14.968 --> 01:08:16.208
+P****n, 10 000 balles.
+
+1287
+01:08:20.568 --> 01:08:21.248
+500 000 quotas.
+
+1288
+01:08:23.108 --> 01:08:23.208
+Tu as
+
+1289
+01:08:32.048 --> 01:08:36.008
+commencé avec Cloud Code, il te le connecte le truc, HTTP request ?
+
+1290
+01:08:36.088 --> 01:08:36.428
+Oui.
+
+1291
+01:08:38.088 --> 01:08:40.758
+Il te fait une mini app, un mini plugin easy pour
+
+1292
+01:08:41.588 --> 01:08:42.288
+balancer auto.
+
+1293
+01:08:42.688 --> 01:08:43.829
+Tu peux faire en plus le plugin
+
+1294
+01:08:44.728 --> 01:08:44.728
+?
+
+1295
+01:08:44.949 --> 01:08:45.228
+Franchement,
+
+1296
+01:08:46.029 --> 01:08:46.199
+c'est
+
+1297
+01:08:46.348 --> 01:08:55.489
+facile.
+
+1298
+01:09:00.369 --> 01:09:03.608
+Je crois que je vais tourner mon Windows en Linux.
+
+1299
+01:09:04.688 --> 01:09:05.688
+Tu en as marre ?
+
+1300
+01:09:05.748 --> 01:09:06.048
+Oui.
+
+1301
+01:09:07.508 --> 01:09:08.588
+Pourquoi ?
+
+1302
+01:09:08.688 --> 01:09:12.529
+Je ne sais plus le terme, je me demande si ce n'est
+
+1303
+01:09:12.568 --> 01:09:16.449
+pas Unix. Le terminal de Windows, tu ne peux pas
+
+1304
+01:09:16.588 --> 01:09:18.188
+LS, CD et tout.
+
+1305
+01:09:19.829 --> 01:09:19.989
+Non
+
+1306
+01:09:20.869 --> 01:09:20.869
+?
+
+1307
+01:09:21.369 --> 01:09:22.428
+Je n'ai jamais utilisé celui-là.
+
+1308
+01:09:22.949 --> 01:09:23.409
+Ah si.
+
+1309
+01:09:25.829 --> 01:09:28.048
+PowerShell. D'accord, c'est peut-être pour ça.
+
+1310
+01:09:29.428 --> 01:09:31.048
+C'est PowerShell de base ?
+
+1311
+01:09:31.168 --> 01:09:34.628
+Oui, j'allais te le dire, Windows, c'est PowerShell dans mes souvenirs.
+
+1312
+01:09:36.869 --> 01:09:38.108
+Mais LS, tout ça, tu peux ?
+
+1313
+01:09:38.748 --> 01:09:40.768
+Oui, mais pourquoi avant, je ne pouvais pas ? Je ne comprends pas.
+
+1314
+01:09:40.788 --> 01:09:41.907
+Qu'est-ce que j'ai f***u ?
+
+1315
+01:09:42.869 --> 01:09:44.829
+De mémoire, avant, on ne pouvait pas
+
+1316
+01:09:47.288 --> 01:09:51.128
+utiliser les mêmes... Comment ça s'appelle le système
+
+1317
+01:09:51.188 --> 01:09:53.548
+derrière tout ça ? C'est Unix, c'est ça ?
+
+1318
+01:09:53.628 --> 01:09:53.748
+Oui.
+
+1319
+01:09:54.708 --> 01:09:56.128
+Avant, de mémoire,
+
+1320
+01:09:57.428 --> 01:09:58.888
+Unix n'était pas dans Windows.
+
+1321
+01:10:01.428 --> 01:10:03.568
+Non, je ne pense pas. Pour les vieilles versions.
+
+1322
+01:10:05.128 --> 01:10:08.958
+Sur les nouvelles versions, tu peux te connecter dans un
+
+1323
+01:10:08.968 --> 01:10:12.068
+Linux avec le shell Linux, direct.
+
+1324
+01:10:13.928 --> 01:10:14.868
+Mais il faut installer un truc
+
+1325
+01:10:15.808 --> 01:10:17.328
+? Ou c'est préinstallé maintenant ?
+
+1326
+01:10:17.368 --> 01:10:18.928
+Non, PowerShell est préinstallé.
+
+1327
+01:10:19.748 --> 01:10:20.097
+Tu l'exécutes.
+
+1328
+01:10:20.097 --> 01:10:22.268
+Ce n'est pas du PowerShell, mais tu coches une option.
+
+1329
+01:10:23.408 --> 01:10:26.848
+Avant, sur les vieux Windows, tu montais une machine virtuelle où tu mettais
+
+1330
+01:10:27.888 --> 01:10:29.508
+Linux, il fallait connecter ensuite
+
+1331
+01:10:30.508 --> 01:10:33.028
+via des sockets, c'était un peu laborieux.
+
+1332
+01:10:33.608 --> 01:10:37.288
+Mais depuis la V Windows 7 ou Windows 10, tu peux
+
+1333
+01:10:37.388 --> 01:10:39.428
+connecter directement, mais c'est une option à cocher
+
+1334
+01:10:40.428 --> 01:10:43.048
+dans ton Windows et ça te crée ta machine virtuelle Linux.
+
+1335
+01:10:43.128 --> 01:10:45.148
+Après, tu peux travailler en ligne de commande.
+
+1336
+01:10:46.268 --> 01:10:46.488
+Ok.
+
+1337
+01:10:46.628 --> 01:10:49.068
+Et là, tu te connectes en SSH sur tes trucs, etc.
+
+1338
+01:10:52.528 --> 01:10:55.808
+C'est bien parce qu'avant, pour moi, c'est ce côté-là qui me faisait c***r.
+
+1339
+01:10:56.538 --> 01:11:00.068
+Parce que là, quand tu dis « là », tu es sur Windows, mais travailler en ligne de
+
+1340
+01:11:00.108 --> 01:11:00.888
+commande avec Linux.
+
+1341
+01:11:02.488 --> 01:11:05.088
+Ou si tu veux du Ubuntu ou du...
+
+1342
+01:11:06.188 --> 01:11:08.568
+Non, c'était surtout pour la ligne de commande.
+
+1343
+01:11:09.268 --> 01:11:11.448
+Mais s'il y a PowerShell et que je peux faire pareil,
+
+1344
+01:11:12.328 --> 01:11:12.808
+c'est bon.
+
+1345
+01:11:14.388 --> 01:11:17.248
+Sinon, tu peux installer le terminal directement. Je t'ai envoyé le lien.
+
+1346
+01:11:18.128 --> 01:11:21.718
+Il y a un moment que je n'ai plus été dessus,
+
+1347
+01:11:21.788 --> 01:11:22.528
+mais
+
+1348
+01:11:24.308 --> 01:11:24.968
+apparemment,
+
+1349
+01:11:26.328 --> 01:11:27.668
+ça ressemble très fort au terminal
+
+1350
+01:11:29.408 --> 01:11:29.848
+Mac.
+
+1351
+01:11:30.108 --> 01:11:33.668
+Depuis Windows 7 ou 10, tu peux te
+
+1352
+01:11:33.708 --> 01:11:34.208
+connecter.
+
+1353
+01:11:34.308 --> 01:11:38.248
+Ça doit être 10. Parce que pour moi, il n'y a pas si longtemps, j'étais
+
+1354
+01:11:38.288 --> 01:11:38.988
+bloqué sur ça.
+
+1355
+01:11:40.648 --> 01:11:44.328
+Après, tu travailles sur une machine Linux qui tourne en arrière-plan de
+
+1356
+01:11:44.368 --> 01:11:47.028
+Windows sans avoir à créer une machine virtuelle, etc.
+
+1357
+01:11:47.728 --> 01:11:51.428
+Oui, parce que j'avais installé. Il y avait un truc dédié,
+
+1358
+01:11:52.048 --> 01:11:55.468
+je ne sais plus comment ça s'appelle, où tu n'installais pas un autre boot de
+
+1359
+01:11:55.508 --> 01:11:59.448
+Linux, mais tu pouvais installer dedans. Ça doit être ça que tu veux.
+
+1360
+01:11:59.888 --> 01:12:01.608
+C'est ça, oui.
+
+1361
+01:12:02.008 --> 01:12:02.488
+Ok.
+
+1362
+01:12:03.248 --> 01:12:07.198
+Après, si tu veux le bureau Linux avec Ubuntu, etc,
+
+1363
+01:12:07.428 --> 01:12:08.488
+il vaut mieux faire un dual boot.
+
+1364
+01:12:08.828 --> 01:12:10.248
+Oui, pour le coup.
+
+1365
+01:12:14.948 --> 01:12:15.048
+Ok.
+
+1366
+01:12:16.348 --> 01:12:17.648
+Mais tu as un Mac,
+
+1367
+01:12:18.548 --> 01:12:18.838
+toi, Cléo.
+
+1368
+01:12:19.888 --> 01:12:20.267
+Oui.
+
+1369
+01:12:20.868 --> 01:12:22.608
+Pourquoi tu veux travailler en terminal sur Windows
+
+1370
+01:12:23.948 --> 01:12:23.948
+?
+
+1371
+01:12:24.668 --> 01:12:26.748
+Je peux du coup.
+
+1372
+01:12:28.348 --> 01:12:31.728
+Si je voulais installer Cloud Code, je n'avais aucune idée de comment le faire
+
+1373
+01:12:31.868 --> 01:12:35.128
+avec le truc de Windows. Mais vu que ce sont les mêmes commandes.
+
+1374
+01:12:35.768 --> 01:12:36.248
+Ok.
+
+1375
+01:12:36.628 --> 01:12:38.188
+Ce sont les mêmes commandes.
+
+1376
+01:12:41.608 --> 01:12:43.728
+Oui, je n'en aurais même pas besoin, c'était juste pour voir.
+
+1377
+01:12:44.128 --> 01:12:46.748
+Je voulais connecter le truc Shopify, mais il faut
+
+1378
+01:12:47.988 --> 01:12:50.428
+que j'installe Cloud Code sur
+
+1379
+01:12:52.748 --> 01:12:53.188
+Windows.
+
+1380
+01:12:55.988 --> 01:12:58.148
+C'était pour faire des tests durant le live, c'est ça ?
+
+1381
+01:12:58.808 --> 01:12:59.908
+Oui, c'est vraiment juste pour ça.
+
+1382
+01:13:00.488 --> 01:13:00.708
+Mais
+
+1383
+01:13:01.608 --> 01:13:03.188
+il ne me sert à rien ce Windows.
+
+1384
+01:13:04.428 --> 01:13:05.888
+Je joue dessus, mais
+
+1385
+01:13:07.768 --> 01:13:11.548
+j'ai l'impression qu'ils avancent bien dessus. J'ai revu un truc hier sur ça.
+
+1386
+01:13:12.328 --> 01:13:13.088
+Je crois que ce n'est pas encore...
+
+1387
+01:13:15.528 --> 01:13:19.028
+Windows, ce que j'aime bien sur Mac,
+
+1388
+01:13:19.868 --> 01:13:23.447
+c'est que tu as un crash d'un truc, tu n'as pas tout ton PC qui crash.
+
+1389
+01:13:24.468 --> 01:13:28.348
+C'est l'app qui crash. Et sur Ubuntu, je ne sais pas les termes
+
+1390
+01:13:28.428 --> 01:13:31.368
+techniques, je ne sais pas comment ça marche, mais c'est un peu le même système.
+
+1391
+01:13:31.448 --> 01:13:33.568
+Ce n'est pas tout Ubuntu qui crash.
+
+1392
+01:13:33.608 --> 01:13:34.748
+Pourquoi Windows, ils font ça
+
+1393
+01:13:36.428 --> 01:13:38.848
+? Pourquoi quand tu as un truc, tu n'arrives pas à ouvrir une image.
+
+1394
+01:13:39.088 --> 01:13:39.648
+Ça fige.
+
+1395
+01:13:40.408 --> 01:13:42.358
+Ça fige tout le ton PC.
+
+1396
+01:13:43.188 --> 01:13:44.188
+C'est de la m***e.
+
+1397
+01:13:45.068 --> 01:13:47.647
+Pourquoi ? Je ne sais pas.
+
+1398
+01:13:49.368 --> 01:13:51.668
+Ça paraît être la base d'un OS.
+
+1399
+01:13:54.528 --> 01:13:58.468
+Mac, c'est basé sur le noyau Linux à la base, donc ils ont
+
+1400
+01:13:58.508 --> 01:13:59.168
+gardé la même
+
+1401
+01:14:00.468 --> 01:14:03.448
+philosophie, mais ils ont amélioré en en faisant une propriétaire
+
+1402
+01:14:05.168 --> 01:14:05.528
+chiadé.
+
+1403
+01:14:06.508 --> 01:14:08.408
+Au fur et à mesure, ils n'ont pas fait ça.
+
+1404
+01:14:08.448 --> 01:14:12.388
+Parce que combien de gens doivent péter des câbles sur un
+
+1405
+01:14:12.448 --> 01:14:16.428
+truc à la c*n qui s'ouvre et qui fige tout le PC ou qui reboot même ?
+
+1406
+01:14:16.688 --> 01:14:17.038
+C'est
+
+1407
+01:14:18.728 --> 01:14:19.808
+pour ça que j'ai arrêté Windows,
+
+1408
+01:14:20.968 --> 01:14:21.488
+à la base.
+
+1409
+01:14:22.068 --> 01:14:25.088
+Et encore, ce n'est pas le pire. C'est pour ça que Windows, ils se sont fait
+
+1410
+01:14:25.098 --> 01:14:28.328
+détruire par Mac dans les années 2000, 2010.
+
+1411
+01:14:33.368 --> 01:14:35.488
+Et encore, ce n'est pas le pire. Il y a des fichiers, des fois, que tu essayes de
+
+1412
+01:14:35.508 --> 01:14:38.548
+supprimer, impossible de le supprimer alors que c'est un fichier local.
+
+1413
+01:14:39.628 --> 01:14:40.448
+J'en suis venu là.
+
+1414
+01:14:42.248 --> 01:14:43.928
+Je me dis qu'il y a un problème dans l'OS.
+
+1415
+01:14:44.038 --> 01:14:47.068
+Ça te met un bon message d'erreur incompréhensible, tu te dis : « Je veux juste
+
+1416
+01:14:47.088 --> 01:14:47.878
+supprimer un fichier ».
+
+1417
+01:14:49.168 --> 01:14:52.248
+Tu es obligé de passer par WinRAR pour compresser le truc, pour le supprimer.
+
+1418
+01:14:52.508 --> 01:14:55.048
+Et même des fois, ça ne marche pas. Tu te dis : « Mais attends, c'est quoi ça ?
+
+1419
+01:14:59.948 --> 01:15:03.408
+» Et encore, il n'y a pas longtemps, le bug ultime, j'ai fait : « Là, par contre,
+
+1420
+01:15:03.488 --> 01:15:04.708
+soit je me fais hacker ou je ne sais pas ».
+
+1421
+01:15:05.208 --> 01:15:07.648
+Et le pire, c'est moins je fais de choses, pire, c'est Windows 11.
+
+1422
+01:15:10.908 --> 01:15:14.568
+Je branche mon clavier, des fois, comme je mange, je pousse mon
+
+1423
+01:15:14.608 --> 01:15:18.488
+clavier, je regarde un truc et j'ai mon plateau et après, je le rebranche.
+
+1424
+01:15:18.508 --> 01:15:20.368
+Une fois que j'ai fini de manger, je rebranche le clavier.
+
+1425
+01:15:21.008 --> 01:15:24.107
+Et tu as le clavier, il ne fonctionne plus. Tu as le layer un.
+
+1426
+01:15:24.188 --> 01:15:28.148
+Et comme moi, j'ai un clavier en 65%, tu as le layer un
+
+1427
+01:15:28.208 --> 01:15:30.908
+qui s'active et en gros, ça tape les caractères spéciaux.
+
+1428
+01:15:31.868 --> 01:15:34.128
+Je me dis : « Qu'est-ce que c'est que ce truc ?
+
+1429
+01:15:34.158 --> 01:15:35.728
+» Je n'ai plus mon layout
+
+1430
+01:15:36.648 --> 01:15:40.528
+en QWERTY. Non, ça tape des caractères spéciaux quand je tape.
+
+1431
+01:15:41.508 --> 01:15:44.268
+J'appuie sur espace, ça ne marche plus. Je fais : « Qu'est-ce que c'est que ça ?
+
+1432
+01:15:44.298 --> 01:15:47.628
+» Je suis obligé de redémarrer le PC. Ça me l'a fait trois fois ces derniers mois.
+
+1433
+01:15:48.168 --> 01:15:49.848
+Je ne sais pas si c'est suite à une mise à jour ou pas.
+
+1434
+01:15:49.868 --> 01:15:53.798
+C'est un enfer. J'ai fait : «
+
+1435
+01:15:53.838 --> 01:15:54.448
+Non, mais là...
+
+1436
+01:15:57.288 --> 01:15:58.168
+» Les bugs invisibles.
+
+1437
+01:15:59.268 --> 01:16:01.348
+Je ne sais pas ce qu'ils foutent.
+
+1438
+01:16:02.168 --> 01:16:05.448
+Je suis bien avec le Mac. Je suis content.
+
+1439
+01:16:07.628 --> 01:16:08.168
+C'est bon, tu
+
+1440
+01:16:09.108 --> 01:16:10.268
+as switché définitivement
+
+1441
+01:16:11.228 --> 01:16:11.668
+pour le jeu.
+
+1442
+01:16:12.748 --> 01:16:13.928
+Je suis dans la cuisine, je suis bien.
+
+1443
+01:16:13.988 --> 01:16:16.488
+En plus, c'est un PC portable, donc je peux aller où je veux, c'est trop bien.
+
+1444
+01:16:18.048 --> 01:16:18.748
+Puis c'est puissant.
+
+1445
+01:16:19.008 --> 01:16:20.048
+La
+
+1446
+01:16:22.048 --> 01:16:22.788
+diff, ouais.
+
+1447
+01:16:23.288 --> 01:16:24.968
+Non, c'est juste, ça fonctionne.
+
+1448
+01:16:26.228 --> 01:16:27.008
+Tu as pris quoi comme Mac
+
+1449
+01:16:28.647 --> 01:16:28.647
+?
+
+1450
+01:16:29.268 --> 01:16:29.968
+Comment ?
+
+1451
+01:16:30.008 --> 01:16:31.488
+Tu as pris quoi comme Mac ?
+
+1452
+01:16:32.048 --> 01:16:35.668
+Mac M2, MacBook Air
+
+1453
+01:16:35.888 --> 01:16:38.208
+M2 sur LeBonCoin à 700 balles.
+
+1454
+01:16:40.148 --> 01:16:43.408
+Ça a bien baissé. Mais même le M4, je le trouve vachement peu cher au final, dans
+
+1455
+01:16:43.448 --> 01:16:43.927
+cette gamme.
+
+1456
+01:16:44.728 --> 01:16:47.708
+Moi, j'ai pris un M4 Pro, c'est excellent.
+
+1457
+01:16:48.768 --> 01:16:49.628
+De toute façon, le M4,
+
+1458
+01:16:50.448 --> 01:16:51.228
+je pense que...
+
+1459
+01:16:53.088 --> 01:16:56.808
+Dès le M4, ils avaient fait des efforts au niveau prix avec
+
+1460
+01:16:57.728 --> 01:16:59.828
+les augmentations il y a un an de ça.
+
+1461
+01:17:00.008 --> 01:17:01.948
+C'était peut-être tout ce qui était pénurie.
+
+1462
+01:17:05.088 --> 01:17:07.888
+Sur Leclerc, il est à 979 euros. Je suis sur le c*l.
+
+1463
+01:17:08.008 --> 01:17:10.248
+Le M2, je l'avais acheté 1 200, 1 300, je crois, à l'époque.
+
+1464
+01:17:11.048 --> 01:17:14.888
+Et là, il y a le M5 qui est sorti et
+
+1465
+01:17:14.948 --> 01:17:15.388
+justement,
+
+1466
+01:17:16.188 --> 01:17:20.148
+il est bien puissant et en plus de ça, ils l'ont augmenté, je crois, à 512
+
+1467
+01:17:20.168 --> 01:17:20.988
+gigas minimum.
+
+1468
+01:17:21.468 --> 01:17:22.988
+Tu as le M5, Christine ?
+
+1469
+01:17:23.028 --> 01:17:25.427
+Oui, il est sorti début mars.
+
+1470
+01:17:26.468 --> 01:17:27.708
+Le 11 mars.
+
+1471
+01:17:28.648 --> 01:17:31.608
+Et justement, là, il y a un truc qui se dit, c'est qu'ils sont en train de bouffer
+
+1472
+01:17:31.628 --> 01:17:32.088
+un peu leur
+
+1473
+01:17:33.788 --> 01:17:37.437
+gamme pro, Apple, parce qu'ils sont tellement puissants, les
+
+1474
+01:17:37.487 --> 01:17:40.008
+MacBook Air, notamment avec le M5, que maintenant,
+
+1475
+01:17:40.928 --> 01:17:43.088
+il n'y a plus grand intérêt à aller sur les
+
+1476
+01:17:44.048 --> 01:17:47.988
+puces pro. Déjà le M4. Entre le M4 et le M5,
+
+1477
+01:17:48.008 --> 01:17:48.168
+il n'y a
+
+1478
+01:17:49.688 --> 01:17:53.528
+aucune diff, vraiment. Après, pour faire tourner des modèles,
+
+1479
+01:17:54.338 --> 01:17:55.128
+il faut quand même un peu de
+
+1480
+01:17:56.048 --> 01:17:56.348
+mémoire.
+
+1481
+01:17:56.908 --> 01:17:58.208
+Oui, je pense que si tu fais vraiment du graphisme-
+
+1482
+01:17:58.228 --> 01:18:00.048
+Pour un usage extrêmement spécifique.
+
+1483
+01:18:00.268 --> 01:18:00.348
+Ils
+
+1484
+01:18:01.428 --> 01:18:03.748
+sont tous en rupture, les gros.
+
+1485
+01:18:05.408 --> 01:18:07.868
+Après, normalement, pour les pros, c'était déjà vachement spécifique.
+
+1486
+01:18:07.928 --> 01:18:09.088
+Après, il y a plein de gens qui flexent avec.
+
+1487
+01:18:09.168 --> 01:18:12.908
+Quand tu fais du gros truc, tu prends le max.
+
+1488
+01:18:13.668 --> 01:18:15.668
+Juste pour le montage vidéo en 4K.
+
+1489
+01:18:15.988 --> 01:18:16.368
+Oui.
+
+1490
+01:18:17.848 --> 01:18:19.928
+C'est vraiment, je pense, pour tout ce qui est IA.
+
+1491
+01:18:20.808 --> 01:18:24.668
+Avec le M2, je montais déjà des vidéos 4K sans lag, vraiment.
+
+1492
+01:18:25.628 --> 01:18:26.608
+Fais ça sur un Windows,
+
+1493
+01:18:27.928 --> 01:18:30.208
+ça n'avance pas. Et avec 8 gigas de RAM.
+
+1494
+01:18:30.788 --> 01:18:32.968
+Et avec 8 gigas de RAM, exactement.
+
+1495
+01:18:33.028 --> 01:18:34.788
+Là, je suis passé à 24 gigas de RAM
+
+1496
+01:18:35.788 --> 01:18:38.688
+en M4 Pro, laisse tomber.
+
+1497
+01:18:39.688 --> 01:18:43.288
+Je ne vois pas la diff avec un M5, vraiment.
+
+1498
+01:18:43.388 --> 01:18:44.228
+Même les benchmarks,
+
+1499
+01:18:46.408 --> 01:18:46.568
+10
+
+1500
+01:18:47.908 --> 01:18:50.728
+% de différence, je crois. À ce niveau-là, tu ne les sens même plus.
+
+1501
+01:18:52.588 --> 01:18:55.338
+Ils sont toujours vachement beaux les sites Apple quand même, les pages
+
+1502
+01:18:56.168 --> 01:18:56.628
+produits.
+
+1503
+01:18:57.048 --> 01:18:59.568
+Oui, c'est très léché, c'est très soigné.
+
+1504
+01:19:02.188 --> 01:19:02.688
+Top.
+
+1505
+01:19:06.068 --> 01:19:09.318
+C'est de la m***e le
+
+1506
+01:19:09.348 --> 01:19:10.068
+PowerShell.
+
+1507
+01:19:12.188 --> 01:19:12.988
+Tu voulais l'installer ?
+
+1508
+01:19:14.548 --> 01:19:18.448
+Je mets la ligne de commande, il me dit : « J'ai pas Git Bash.
+
+1509
+01:19:20.278 --> 01:19:21.808
+» Pourquoi ce n'est pas préinstallé, Bash ?
+
+1510
+01:19:24.020 --> 01:19:25.600
+J'ose dépo-- bon, bref.
+
+1511
+01:19:26.960 --> 01:19:28.420
+Je n'ai pas besoin d'avoir Claude là-dessus.
+
+1512
+01:19:34.660 --> 01:19:37.360
+J'aurais peut-être dû faire en cœur.
+
+1513
+01:19:37.460 --> 01:19:37.470
+Je
+
+1514
+01:19:38.740 --> 01:19:39.240
+vais essayer.
+
+1515
+01:19:42.780 --> 01:19:45.460
+Est-ce que quelqu'un a une question entre-temps ?
+
+1516
+01:19:48.560 --> 01:19:49.580
+Moi, je pense à un truc.
+
+1517
+01:19:50.320 --> 01:19:51.440
+Dis-moi.
+
+1518
+01:19:51.860 --> 01:19:55.659
+Vu que vous êtes tous geeks, vous allez peut-être pouvoir avoir une solution.
+
+1519
+01:19:56.600 --> 01:20:00.360
+Est-ce qu'avec Claude, on peut sortir un logo
+
+1520
+01:20:02.920 --> 01:20:02.920
+?
+
+1521
+01:20:05.120 --> 01:20:07.940
+Bonne question. J'ai pas test. En fait,
+
+1522
+01:20:07.980 --> 01:20:10.480
+il ne fait pas de génération d'images.
+
+1523
+01:20:12.100 --> 01:20:15.980
+Je ne sais pas. Est-ce que
+
+1524
+01:20:16.020 --> 01:20:17.940
+quelqu'un a testé du logo sur Claude ?
+
+1525
+01:20:18.780 --> 01:20:21.340
+Non, il peut te faire un brief à envoyer à
+
+1526
+01:20:22.420 --> 01:20:24.500
+une autre, genre à Gemini, par exemple.
+
+1527
+01:20:25.700 --> 01:20:26.800
+Un brief bien précis, mais
+
+1528
+01:20:27.860 --> 01:20:29.780
+le générer directement, non.
+
+1529
+01:20:30.730 --> 01:20:31.380
+Ce n'est pas possible.
+
+1530
+01:20:32.060 --> 01:20:36.010
+Midjourney ou Gemini, je pense que tu peux faire
+
+1531
+01:20:36.480 --> 01:20:40.420
+beaucoup. Claude, tout ce qui est graphisme...
+
+1532
+01:20:41.680 --> 01:20:43.100
+Parce qu'il m'avait quand même sorti,
+
+1533
+01:20:44.460 --> 01:20:47.980
+quand je lui ai demandé une idée pour le thème full stack
+
+1534
+01:20:48.300 --> 01:20:50.480
+avec mes couleurs et tout, il m'avait quand même sorti
+
+1535
+01:20:52.700 --> 01:20:56.080
+le nom et c'était quand même pas mal ce qu'il m'avait
+
+1536
+01:20:56.800 --> 01:21:00.380
+fait. Mais je me suis dit que ce qu'il faudrait, c'est qu'il me le
+
+1537
+01:21:00.820 --> 01:21:02.280
+sorte et qu'il soit déjà...
+
+1538
+01:21:04.340 --> 01:21:05.439
+Parce que c'est des caractères.
+
+1539
+01:21:05.460 --> 01:21:08.960
+Tu sais ce que tu peux lui demander ?
+
+1540
+01:21:08.980 --> 01:21:10.880
+Parce que je l'ai vu hier, donc je vois.
+
+1541
+01:21:11.680 --> 01:21:12.800
+Vu que ce n'est que de la typo,
+
+1542
+01:21:14.220 --> 01:21:14.500
+tu peux
+
+1543
+01:21:15.640 --> 01:21:19.370
+essayer, je ne sais pas ce que ça va donner, de lui faire un
+
+1544
+01:21:19.600 --> 01:21:21.080
+SVG de ton logo.
+
+1545
+01:21:22.560 --> 01:21:23.890
+Attends, parle-moi blonde.
+
+1546
+01:21:23.900 --> 01:21:24.680
+Vu que c'est du code.
+
+1547
+01:21:27.160 --> 01:21:30.580
+SVG, c'est un...
+
+1548
+01:21:31.040 --> 01:21:33.340
+Vas-y, en simple.
+
+1549
+01:21:38.420 --> 01:21:39.200
+C'est...
+
+1550
+01:21:39.720 --> 01:21:40.930
+C'est dur des fois.
+
+1551
+01:21:41.200 --> 01:21:43.260
+Je ne sais même pas comment expliquer, c'est des vecteurs.
+
+1552
+01:21:44.700 --> 01:21:47.420
+Ça ne va pas t'aider. C'est un format pour...
+
+1553
+01:21:49.040 --> 01:21:49.800
+C'est un format, OK.
+
+1554
+01:21:49.900 --> 01:21:51.000
+Oui, c'est un format pour...
+
+1555
+01:21:52.140 --> 01:21:54.000
+C'est comme JPEG, ces trucs, machin.
+
+1556
+01:21:54.240 --> 01:21:56.900
+Oui, sauf que c'est du vector dedans, donc ce n'est pas des pixels.
+
+1557
+01:21:57.380 --> 01:21:59.180
+Donc je lui demande quoi ?
+
+1558
+01:21:59.220 --> 01:22:02.000
+En fait, le SVG, pour être vraiment précis,
+
+1559
+01:22:02.080 --> 01:22:05.760
+c'est exactement ça. C'est du vecteur, mais mathématique.
+
+1560
+01:22:06.060 --> 01:22:10.040
+Comme l'IA, pour reconnaître les formes, elle utilise une formule
+
+1561
+01:22:10.080 --> 01:22:11.100
+mathématique qui est
+
+1562
+01:22:12.260 --> 01:22:13.820
+ce qu'on appelle la transformée de Fourier,
+
+1563
+01:22:14.840 --> 01:22:16.800
+qui est un Français qui a fait ça en 1800.
+
+1564
+01:22:17.960 --> 01:22:21.750
+Et grâce à ça, il est hyper précis parce qu'il a tous les
+
+1565
+01:22:21.780 --> 01:22:25.720
+vecteurs. Donc SVG, c'est le top. Je pense que c'est une très bonne solution que
+
+1566
+01:22:25.820 --> 01:22:27.440
+propose Al Coach.
+
+1567
+01:22:29.100 --> 01:22:31.840
+Surtout vu que ce n'est que de la typo, il a moins de chance de faire n'importe
+
+1568
+01:22:31.900 --> 01:22:35.160
+quoi. Parce que généralement, vu que c'est des courbes et des lignes,
+
+1569
+01:22:35.820 --> 01:22:37.500
+quand tu vas faire un truc un peu compliqué.
+
+1570
+01:22:37.880 --> 01:22:41.740
+L'avantage, c'est que vu que c'est, comme Thomas vient de le dire,
+
+1571
+01:22:41.840 --> 01:22:45.640
+des maths, le SVG, vu que ce n'est que des courbes, il va pouvoir te
+
+1572
+01:22:45.700 --> 01:22:49.669
+refaire, je pense, ton logo en SVG puisque ce
+
+1573
+01:22:49.669 --> 01:22:50.740
+n'est que de la typo.
+
+1574
+01:22:50.860 --> 01:22:54.700
+Il calcule en exponentiel. Et je viens de lui demander, effectivement, il fait bien
+
+1575
+01:22:54.740 --> 01:22:56.110
+du SVG. Par contre,
+
+1576
+01:22:57.660 --> 01:23:01.180
+pas du hard stylé ou alors quelque chose d'artistique.
+
+1577
+01:23:02.200 --> 01:23:03.030
+C'est pour ça, vu que c'est
+
+1578
+01:23:04.140 --> 01:23:06.840
+juste son nom avec une couleur au milieu, machin.
+
+1579
+01:23:06.880 --> 01:23:07.620
+Oui, ça, c'est possible.
+
+1580
+01:23:07.630 --> 01:23:10.500
+Il y a moyen qu'il te le fasse. Donc, tu lui demandes : « Est-ce que tu peux me
+
+1581
+01:23:10.600 --> 01:23:14.040
+faire le logo que tu avais fait en SVG ?
+
+1582
+01:23:14.060 --> 01:23:16.000
+» Il devrait te faire un fichier SVG.
+
+1583
+01:23:17.280 --> 01:23:20.140
+Lui, tu vas galérer à l'ouvrir sur ton ordi, je pense.
+
+1584
+01:23:20.980 --> 01:23:24.260
+Mais si tu l'upload sur Shopify, il devrait te le mettre en
+
+1585
+01:23:24.300 --> 01:23:25.100
+logo.
+
+1586
+01:23:26.860 --> 01:23:27.420
+OK.
+
+1587
+01:23:28.620 --> 01:23:32.420
+Ou alors, si tu veux preview, tu fais « Ouvrir
+
+1588
+01:23:32.500 --> 01:23:33.680
+avec Chrome » ou
+
+1589
+01:23:34.500 --> 01:23:35.960
+ton navigateur, ça devrait fonctionner.
+
+1590
+01:23:36.700 --> 01:23:36.920
+OK.
+
+1591
+01:23:38.280 --> 01:23:42.000
+En gros, si tu lui demandes de faire ton logo en SVG. Au format SVG.
+
+1592
+01:23:43.200 --> 01:23:43.880
+OK.
+
+1593
+01:23:43.960 --> 01:23:46.869
+Vu que c'est du code et qu'il est bon en code, il devrait pouvoir.
+
+1594
+01:23:47.680 --> 01:23:50.500
+Oui, logo géométrique, typographique, minimaliste,
+
+1595
+01:23:51.620 --> 01:23:52.080
+icône.
+
+1596
+01:23:53.240 --> 01:23:54.900
+Oui, les icônes, par exemple, aussi.
+
+1597
+01:23:56.760 --> 01:23:59.340
+OK, merci. Sinon,
+
+1598
+01:24:00.280 --> 01:24:03.780
+quelqu'un disait Midjourney. C'est ça, Midjourney ?
+
+1599
+01:24:03.820 --> 01:24:04.920
+Oui, mais vu ton logo...
+
+1600
+01:24:06.080 --> 01:24:06.600
+C'est pour ça.
+
+1601
+01:24:07.040 --> 01:24:09.080
+Midjourney, il ne va pas t'aider, je pense.
+
+1602
+01:24:09.620 --> 01:24:13.200
+Je n'ai pas besoin de passer par un graphiste ou un truc comme ça.
+
+1603
+01:24:13.460 --> 01:24:16.680
+Non. Surtout si tu veux faire celui qu'on a vu hier.
+
+1604
+01:24:18.400 --> 01:24:20.040
+Je ne sais pas. Qu'est-ce que tu en penses, toi ?
+
+1605
+01:24:20.300 --> 01:24:23.920
+Non, mais c'est très bien. Moi, je fais quasiment que du logo très simple comme ça.
+
+1606
+01:24:25.080 --> 01:24:28.620
+Ça fait plus pro, c'est clean. En plus, ce n'est pas juste
+
+1607
+01:24:28.700 --> 01:24:32.480
+simple. Tu as une certaine typo et tu as un système de
+
+1608
+01:24:32.540 --> 01:24:35.200
+couleurs qui est au milieu, machin, avec une lettre.
+
+1609
+01:24:35.240 --> 01:24:38.940
+Donc ce n'est pas que trop simple, c'est un bon
+
+1610
+01:24:38.960 --> 01:24:39.240
+logo.
+
+1611
+01:24:39.800 --> 01:24:40.960
+Mais tu n'as pas de Gemini
+
+1612
+01:24:42.560 --> 01:24:42.560
+?
+
+1613
+01:24:43.340 --> 01:24:46.100
+Non, je n'ai pas pris. Mais je peux.
+
+1614
+01:24:46.820 --> 01:24:48.160
+Non, mais la version gratuite, c'est loin.
+
+1615
+01:24:48.180 --> 01:24:49.880
+Oui, version gratuite, exactement.
+
+1616
+01:24:49.900 --> 01:24:51.280
+Gemini, franchement, il fait...
+
+1617
+01:24:52.120 --> 01:24:55.660
+Là, Nano Banana, on en a déjà parlé ici, ça te fait des trucs...
+
+1618
+01:24:57.160 --> 01:24:58.120
+Oui, mais ça va être du JPEG.
+
+1619
+01:25:00.440 --> 01:25:04.000
+Après, tu peux balancer le JPEG. Par contre, à Claude lui demander qu'il te le
+
+1620
+01:25:04.040 --> 01:25:04.720
+mette en...
+
+1621
+01:25:04.980 --> 01:25:05.780
+Elle l'a déjà, le
+
+1622
+01:25:06.820 --> 01:25:07.100
+logo.
+
+1623
+01:25:08.260 --> 01:25:08.869
+Tu l'as déjà ? OK.
+
+1624
+01:25:08.920 --> 01:25:10.920
+Merci Claude.
+
+1625
+01:25:11.100 --> 01:25:13.940
+Oui, il lui a fait, mais c'est du HTML.
+
+1626
+01:25:13.980 --> 01:25:17.720
+C'est du HTML, donc c'est de la typo.
+
+1627
+01:25:17.980 --> 01:25:20.000
+À partir de ça, il sait quel typo c'est.
+
+1628
+01:25:20.720 --> 01:25:22.480
+Je pense qu'il peut le refaire en SVG.
+
+1629
+01:25:22.540 --> 01:25:25.320
+Oui, j'allais le dire, s'il l'a fait en HTML, il va le convertir
+
+1630
+01:25:26.856 --> 01:25:28.376
+Facilement en SVG.
+
+1631
+01:25:28.536 --> 01:25:32.356
+Ou même il t'a fait un SVG pour te l'afficher. Je ne sais même pas.
+
+1632
+01:25:32.756 --> 01:25:33.236
+Je ne pense pas.
+
+1633
+01:25:34.236 --> 01:25:35.586
+Tu veux que je vous montre ou pas
+
+1634
+01:25:36.436 --> 01:25:36.436
+?
+
+1635
+01:25:37.096 --> 01:25:37.596
+Si tu veux.
+
+1636
+01:25:38.436 --> 01:25:38.816
+Non.
+
+1637
+01:25:39.336 --> 01:25:41.376
+On peut même le faire ensemble si tu veux.
+
+1638
+01:25:41.536 --> 01:25:45.356
+Au pire, partage-nous et on transforme ton logo en SVG. On voit si ça marche.
+
+1639
+01:25:46.956 --> 01:25:48.816
+Ça ne devrait pas être trop long en plus.
+
+1640
+01:25:52.076 --> 01:25:55.816
+Vu ma novicitude,
+
+1641
+01:25:56.176 --> 01:25:58.116
+je ne veux pas vous prendre la tête avec mes-
+
+1642
+01:25:58.316 --> 01:26:01.596
+Non. En vrai, ça peut aider du monde ensuite.
+
+1643
+01:26:02.476 --> 01:26:05.976
+C'est carrément pertinent. Ton IA t'a fait un logo que tu aimes bien, comment tu le
+
+1644
+01:26:05.996 --> 01:26:07.456
+transformes pour que tu l'aies sur ton site.
+
+1645
+01:26:08.756 --> 01:26:12.076
+Ça pourrait être même une mini vidéo dans la formation.
+
+1646
+01:26:14.456 --> 01:26:15.816
+Vas-y, montre-nous le logo.
+
+1647
+01:26:15.976 --> 01:26:18.176
+Attends. Tu vois ?
+
+1648
+01:26:18.236 --> 01:26:18.416
+Oui.
+
+1649
+01:26:19.216 --> 01:26:21.756
+Mais je le voulais un poil plus...
+
+1650
+01:26:24.696 --> 01:26:26.256
+Quand je regarde la dernière option.
+
+1651
+01:26:27.096 --> 01:26:29.636
+C'est pour quoi ? C'est pour des fringues ? Des robes ?
+
+1652
+01:26:29.696 --> 01:26:29.976
+Oui.
+
+1653
+01:26:32.816 --> 01:26:36.796
+Parce qu'Aude, c'est mon prénom et là, c'est celui
+
+1654
+01:26:36.816 --> 01:26:37.476
+de ma fille.
+
+1655
+01:26:40.016 --> 01:26:43.296
+Il fallait que le « e » fasse bien l'union de nos deux noms.
+
+1656
+01:26:44.456 --> 01:26:44.916
+Aude-Ela.
+
+1657
+01:26:45.536 --> 01:26:46.896
+Franchement, ça suffit comme logo.
+
+1658
+01:26:50.276 --> 01:26:53.896
+En plus, tu as même l'avantage, si tu veux, tu pourrais même le faire en deux clics
+
+1659
+01:26:53.956 --> 01:26:57.676
+sur n'importe quel logiciel type Canva.
+
+1660
+01:26:58.166 --> 01:27:01.036
+Tu sais déjà la typo et tu as les codes couleurs.
+
+1661
+01:27:01.056 --> 01:27:04.996
+Tu vas dans Canva, tu tapes ton truc, tu transformes la typo.
+
+1662
+01:27:05.376 --> 01:27:07.936
+Tu pourrais même le faire manuellement en deux minutes.
+
+1663
+01:27:07.976 --> 01:27:09.956
+Ce que vous oubliez, c'est que moi,
+
+1664
+01:27:10.776 --> 01:27:14.276
+Canva, tous ces trucs-là, j'ai beaucoup à apprendre quand même.
+
+1665
+01:27:14.496 --> 01:27:15.196
+Je pars de très
+
+1666
+01:27:16.016 --> 01:27:16.236
+loin.
+
+1667
+01:27:17.116 --> 01:27:20.336
+Donc ne rigolez pas parce que là, je n'ai que des geeks en plus.
+
+1668
+01:27:21.436 --> 01:27:23.936
+Mais oui, je vais y arriver.
+
+1669
+01:27:25.516 --> 01:27:27.936
+L'ordinateur et moi, on est amis depuis peu,
+
+1670
+01:27:28.816 --> 01:27:31.516
+mais je progresse. Même Claude, en trois jours, vous
+
+1671
+01:27:32.996 --> 01:27:35.416
+allez tous me dire que c'est facile. Oui, c'est facile.
+
+1672
+01:27:36.536 --> 01:27:40.196
+C'est bien, tu lui as bien parlé, tu as fait une présentation, tu as fait ton code
+
+1673
+01:27:40.236 --> 01:27:41.556
+couleur. C'est nickel.
+
+1674
+01:27:41.616 --> 01:27:45.176
+Oui, parfait. Et puis personne ne va rigoler ici, vraiment.
+
+1675
+01:27:45.776 --> 01:27:47.356
+Tu n'es pas à l'aise avec les ordinateurs de base
+
+1676
+01:27:48.216 --> 01:27:48.216
+?
+
+1677
+01:27:48.556 --> 01:27:49.025
+Non. À
+
+1678
+01:27:50.256 --> 01:27:53.156
+part regarder mes mails avant et voilà ce que je faisais.
+
+1679
+01:27:54.456 --> 01:27:55.656
+Non, je ne m'en servais pas.
+
+1680
+01:27:56.896 --> 01:27:59.516
+Tout est nouveau là. Google,
+
+1681
+01:28:01.096 --> 01:28:03.676
+tous les outils.
+
+1682
+01:28:04.696 --> 01:28:04.916
+Et
+
+1683
+01:28:05.776 --> 01:28:08.456
+tu passes directement dans Claude Code. Dis donc.
+
+1684
+01:28:09.656 --> 01:28:11.956
+Pourquoi j'entends une transition aussi radicale ?
+
+1685
+01:28:12.456 --> 01:28:13.116
+C'est Claude.
+
+1686
+01:28:13.716 --> 01:28:15.016
+C'est Claude normal.
+
+1687
+01:28:15.756 --> 01:28:16.536
+Oui, mais quand même.
+
+1688
+01:28:16.836 --> 01:28:18.136
+Je vais juste raconter ma vie.
+
+1689
+01:28:19.736 --> 01:28:23.436
+Théo, tu m'as dit : « Tu lui parles un peu », donc je lui ai tout expliqué, comment
+
+1690
+01:28:23.496 --> 01:28:24.016
+j'étais,
+
+1691
+01:28:24.956 --> 01:28:25.556
+le projet.
+
+1692
+01:28:27.256 --> 01:28:31.176
+À chaque fois que je lui ai demandé de modifier, il m'a sorti exactement ce
+
+1693
+01:28:31.196 --> 01:28:31.696
+que je voulais.
+
+1694
+01:28:35.756 --> 01:28:38.606
+Peut-être si je lui demande de me sortir «
+
+1695
+01:28:39.416 --> 01:28:40.616
+Aude-Ela » en doré.
+
+1696
+01:28:41.056 --> 01:28:42.696
+Tu lui dis pour la dernière version.
+
+1697
+01:28:42.996 --> 01:28:46.976
+Écris, tu lui dis : « J'aime bien la dernière version du
+
+1698
+01:28:46.996 --> 01:28:47.816
+logo que tu as fait.
+
+1699
+01:28:56.996 --> 01:28:56.996
+»
+
+1700
+01:28:57.036 --> 01:28:59.736
+Même écrire, je mets 100 ans, alors ne vous moquez pas.
+
+1701
+01:29:00.316 --> 01:29:01.896
+« J'aime bien la dernière version.
+
+1702
+01:29:03.256 --> 01:29:03.256
+»
+
+1703
+01:29:03.296 --> 01:29:04.616
+Tu le dis encore une fois, on le fait.
+
+1704
+01:29:07.136 --> 01:29:07.356
+« Que
+
+1705
+01:29:08.336 --> 01:29:08.736
+tu...
+
+1706
+01:29:13.116 --> 01:29:13.116
+»
+
+1707
+01:29:13.126 --> 01:29:16.696
+Que tu m'as fait du logo. Il faut bien que tu parles du logo parce qu'il pourrait
+
+1708
+01:29:16.736 --> 01:29:18.136
+penser que c'est la page entière.
+
+1709
+01:29:20.936 --> 01:29:22.776
+Et là, tu lui dis : « Peux-tu me faire
+
+1710
+01:29:25.336 --> 01:29:28.656
+une version SVG
+
+1711
+01:29:29.516 --> 01:29:29.896
+du logo
+
+1712
+01:29:32.296 --> 01:29:32.316
+? »
+
+1713
+01:29:34.076 --> 01:29:35.616
+Remets quand même du logo au cas où.
+
+1714
+01:29:38.856 --> 01:29:42.316
+Non, ça suffit, il a compris, tu sais, à mon avis. Il va comprendre.
+
+1715
+01:29:46.476 --> 01:29:48.436
+Là, tu fais « entrer » et on va voir ce qu'il fait.
+
+1716
+01:29:49.676 --> 01:29:50.866
+Le site te plaît un peu en fait.
+
+1717
+01:29:50.866 --> 01:29:51.736
+Le site te plaît, Théo.
+
+1718
+01:29:52.616 --> 01:29:55.146
+Moi, je lui dis toujours : « Bonjour Claude.
+
+1719
+01:29:55.186 --> 01:29:55.186
+»
+
+1720
+01:29:55.476 --> 01:29:55.936
+Tu fais bien.
+
+1721
+01:29:56.856 --> 01:29:59.096
+Je ne sais pas, je suis un peu parano.
+
+1722
+01:30:04.316 --> 01:30:05.756
+Je le remercie, tout ça.
+
+1723
+01:30:06.256 --> 01:30:07.376
+Moi aussi, t'inquiète.
+
+1724
+01:30:09.956 --> 01:30:12.556
+Tu ne fais pas ça, Théo.
+
+1725
+01:30:13.036 --> 01:30:15.236
+Tu me remercieras plus tard. Si, Théo, il fait ça.
+
+1726
+01:30:15.696 --> 01:30:18.236
+On l'avait fait avec Chat GPT, on lui avait demandé
+
+1727
+01:30:19.736 --> 01:30:23.676
+de réaliser une image qui représente la façon dont on le traite.
+
+1728
+01:30:24.236 --> 01:30:27.416
+Et Théo, c'était un robot avec des petits gâteaux,
+
+1729
+01:30:28.816 --> 01:30:30.056
+il prenait le thé, etc.
+
+1730
+01:30:32.736 --> 01:30:34.456
+J'étais mort. Franchement.
+
+1731
+01:30:34.976 --> 01:30:36.626
+T'es un dev, Théo, qu'est-ce que tu fais
+
+1732
+01:30:37.996 --> 01:30:37.996
+?
+
+1733
+01:30:38.516 --> 01:30:41.576
+Il a peur si un jour il y a une rébellion d'IA, de se faire
+
+1734
+01:30:42.916 --> 01:30:44.176
+décapiter dans les premiers.
+
+1735
+01:30:44.856 --> 01:30:45.866
+Ne t'inquiète pas, il y en a d'autres.
+
+1736
+01:30:46.216 --> 01:30:50.156
+J'en ai vu un une fois, il a fait : « Salut Chat GPT, compte jusqu'à un million.
+
+1737
+01:30:51.556 --> 01:30:53.456
+» Ne t'inquiète pas que lui, il va aller le chercher, lui en premier.
+
+1738
+01:30:53.676 --> 01:30:57.216
+Moi, mon image, mon robot, il était plein d'huile, il était
+
+1739
+01:30:57.736 --> 01:31:01.616
+enchaîné dans un coin sombre comme ça, avec des post-it collés partout.
+
+1740
+01:31:06.396 --> 01:31:09.286
+C'est clean ce qu'il t'a fait. Il ne t'a pas fait exactement ce qu'on voulait, mais
+
+1741
+01:31:09.296 --> 01:31:10.836
+vas-y, montre-nous un peu, c'est pas mal.
+
+1742
+01:31:11.076 --> 01:31:14.016
+Il t'a fait les versions fond sombre, machin.
+
+1743
+01:31:14.076 --> 01:31:15.736
+Il t'a fait les versions sans le texte.
+
+1744
+01:31:16.236 --> 01:31:18.216
+Même le favicon qui est ultra clean.
+
+1745
+01:31:18.836 --> 01:31:19.696
+Il l'a décliné.
+
+1746
+01:31:20.456 --> 01:31:24.276
+Là, il faudrait que tu lui dises. Qu'est-ce qu'il t'a raconté
+
+1747
+01:31:24.816 --> 01:31:24.816
+?
+
+1748
+01:31:24.976 --> 01:31:27.516
+Il a fait la favicon directement aussi, c'est bien.
+
+1749
+01:31:33.532 --> 01:31:36.032
+Je vous recommande de faire ça sur Fiverr.
+
+1750
+01:31:37.132 --> 01:31:37.952
+Canva Pro.
+
+1751
+01:31:38.872 --> 01:31:42.692
+Il te parle même de Canva en te disant qu'on peut le recréer avec la police.
+
+1752
+01:31:44.112 --> 01:31:47.272
+Il pourrait même t'expliquer, mais je pense qu'il n'y a pas vraiment
+
+1753
+01:31:47.292 --> 01:31:48.112
+d'intérêt.
+
+1754
+01:31:48.172 --> 01:31:52.082
+Alors l'icône,
+
+1755
+01:31:52.312 --> 01:31:53.652
+peut-être, on ira le choper aussi.
+
+1756
+01:31:53.692 --> 01:31:56.872
+Remonte parce que le problème, c'est qu'il ne t'a pas fait la version
+
+1757
+01:31:57.732 --> 01:31:58.212
+qu'on veut.
+
+1758
+01:31:58.872 --> 01:32:00.832
+Oui, moi, je ne veux pas écrire tout ça.
+
+1759
+01:32:01.232 --> 01:32:04.272
+Le côté là, comme ça, ce n'était pas-
+
+1760
+01:32:04.472 --> 01:32:07.152
+Tu lui dis : « J'aimerais la version principale
+
+1761
+01:32:08.332 --> 01:32:09.421
+fond clair. »
+
+1762
+01:32:09.432 --> 01:32:12.852
+La version claire, mais sans la ligne en dessous et sans le
+
+1763
+01:32:12.892 --> 01:32:13.532
+texte.
+
+1764
+01:32:13.572 --> 01:32:16.212
+Et même d'ailleurs fond blanc. Même pas fond clair parce que tu ne veux même pas
+
+1765
+01:32:16.272 --> 01:32:17.052
+ton logo fond blanc.
+
+1766
+01:32:18.012 --> 01:32:19.072
+Dis-lui tout ça.
+
+1767
+01:32:20.092 --> 01:32:21.172
+Transparent.
+
+1768
+01:32:26.502 --> 01:32:28.452
+Mais par contre, pourquoi il ne veut pas faire de SVG ?
+
+1769
+01:32:28.612 --> 01:32:28.752
+Si,
+
+1770
+01:32:29.832 --> 01:32:31.012
+il lui a dit : « Je vais le faire ».
+
+1771
+01:32:32.072 --> 01:32:33.312
+En gros,
+
+1772
+01:32:34.512 --> 01:32:36.092
+il voulait qu'elle valide ça déjà.
+
+1773
+01:32:36.792 --> 01:32:37.072
+OK.
+
+1774
+01:32:38.832 --> 01:32:40.492
+Comme il parlait de Fiverr ou je ne sais quoi.
+
+1775
+01:32:41.052 --> 01:32:41.992
+Oui, je ne sais pas pourquoi.
+
+1776
+01:32:44.432 --> 01:32:45.852
+Peut-être qu'elle en a parlé avant aussi.
+
+1777
+01:32:51.052 --> 01:32:51.352
+Voilà.
+
+1778
+01:32:52.172 --> 01:32:55.512
+Non, mets transparent. Sinon, il va te mettre une
+
+1779
+01:32:56.492 --> 01:32:57.032
+couleur.
+
+1780
+01:32:57.132 --> 01:32:58.372
+Et je lui dis ? Mince.
+
+1781
+01:32:58.572 --> 01:33:00.512
+Oui, non, mais tu peux dire : « Mais je le veux
+
+1782
+01:33:02.972 --> 01:33:05.462
+sans fond ». Tu dis « sans fond » ou « transparent ».
+
+1783
+01:33:09.672 --> 01:33:12.432
+Nous, on fait une première version sur fond clair.
+
+1784
+01:33:13.172 --> 01:33:16.692
+Mais sans fond ou transparent, peu importe.
+
+1785
+01:33:17.692 --> 01:33:18.692
+Et tu lui dis surtout,
+
+1786
+01:33:19.912 --> 01:33:22.732
+sans le tiret et sans les trois mots en dessous.
+
+1787
+01:33:22.872 --> 01:33:24.432
+Tu veux juste « Audela
+
+1788
+01:33:26.492 --> 01:33:26.492
+».
+
+1789
+01:33:29.212 --> 01:33:30.692
+Sans le tiret et sans...?
+
+1790
+01:33:31.392 --> 01:33:32.642
+Et sans les mots en dessous.
+
+1791
+01:33:36.032 --> 01:33:38.072
+Et tu rediras quand même pour
+
+1792
+01:33:40.252 --> 01:33:43.072
+qu'il ne te fasse pas n'importe quoi, juste « Audela
+
+1793
+01:33:44.392 --> 01:33:45.692
+». À la fin, tu lui diras
+
+1794
+01:33:46.492 --> 01:33:46.852
+: « Fais-moi
+
+1795
+01:33:48.152 --> 01:33:48.601
+en SVG ».
+
+1796
+01:33:53.492 --> 01:33:56.172
+On va voir déjà ce qu'il te fait. Peut-être qu'il va te refaire, juste pour te
+
+1797
+01:33:56.192 --> 01:33:57.592
+montrer. Après, il faudra lui dire de...
+
+1798
+01:33:58.412 --> 01:33:58.972
+Voilà, parfait.
+
+1799
+01:34:00.532 --> 01:34:00.962
+Nickel.
+
+1800
+01:34:02.632 --> 01:34:04.152
+Dis-lui de te faire un SVG.
+
+1801
+01:34:05.132 --> 01:34:07.292
+Parce que là, il ne t'a pas filé de SVG.
+
+1802
+01:34:08.412 --> 01:34:09.392
+Là, il t'a fait un PNG.
+
+1803
+01:34:10.412 --> 01:34:11.132
+Il t'a fait un PNG
+
+1804
+01:34:12.412 --> 01:34:12.712
+? Non.
+
+1805
+01:34:13.992 --> 01:34:15.092
+Non, il dit de le faire dans Canva.
+
+1806
+01:34:22.132 --> 01:34:23.252
+En vrai, il pourrait faire un PNG.
+
+1807
+01:34:24.512 --> 01:34:26.652
+Il connaît la typo, il peut créer une page.
+
+1808
+01:34:27.352 --> 01:34:27.702
+Il pourrait,
+
+1809
+01:34:29.232 --> 01:34:29.712
+je pense.
+
+1810
+01:34:31.332 --> 01:34:34.352
+On va voir. Logiquement, ça devrait. SVG.
+
+1811
+01:34:35.372 --> 01:34:36.492
+Ça devrait le faire.
+
+1812
+01:34:39.092 --> 01:34:40.612
+On va voir ce que ça donne.
+
+1813
+01:34:43.092 --> 01:34:45.972
+Et l'icône, c'est ce qui sera dans mon favicon, c'est ça
+
+1814
+01:34:47.452 --> 01:34:47.452
+?
+
+1815
+01:34:48.432 --> 01:34:48.552
+Oui,
+
+1816
+01:34:49.452 --> 01:34:51.332
+c'est ça. L'icône, c'est le favicon.
+
+1817
+01:34:52.192 --> 01:34:52.432
+OK.
+
+1818
+01:34:52.972 --> 01:34:56.112
+Tu pourras lui dire après : « J'aime bien cette version-là.
+
+1819
+01:34:56.252 --> 01:34:57.112
+Est-ce que tu peux me faire un
+
+1820
+01:34:59.452 --> 01:34:59.872
+SVG
+
+1821
+01:35:00.932 --> 01:35:02.292
+? » Je ne sais pas si on peut SVG.
+
+1822
+01:35:03.712 --> 01:35:04.892
+Non, c'est en .fav.
+
+1823
+01:35:06.632 --> 01:35:09.232
+Oui, mais Shopify prend tout et convertit, je crois.
+
+1824
+01:35:11.312 --> 01:35:14.172
+Je ne sais pas si le SVG le prendra. Il faudra tester.
+
+1825
+01:35:16.112 --> 01:35:16.192
+Là,
+
+1826
+01:35:18.532 --> 01:35:22.392
+il va te faire du code
+
+1827
+01:35:23.252 --> 01:35:25.552
+que tu ne vois pas. Alors là, c'est trop fin par contre.
+
+1828
+01:35:25.612 --> 01:35:29.092
+Dis-lui.
+
+1829
+01:35:29.152 --> 01:35:30.932
+Là, il faut vraiment itérer.
+
+1830
+01:35:30.952 --> 01:35:36.952
+M***e
+
+1831
+01:35:36.992 --> 01:35:36.992
+!
+
+1832
+01:35:38.952 --> 01:35:40.732
+Oui, donc c'est bloqué jusqu'à 16 heures.
+
+1833
+01:35:42.652 --> 01:35:45.372
+En gros, il faudra que tu lui dises : « Parfait, sauf que c'est trop fin.
+
+1834
+01:35:46.172 --> 01:35:50.092
+Ce n'est pas comme le visuel que tu as mis juste avant » et tu peux lui mettre un
+
+1835
+01:35:50.112 --> 01:35:52.231
+screenshot. Il te refera la version.
+
+1836
+01:35:53.092 --> 01:35:56.832
+Et une fois qu'il t'a fait la version plus grasse de la typo,
+
+1837
+01:35:57.232 --> 01:36:00.012
+tout en haut à droite, il y a écrit « Copier » et tu as une petite flèche.
+
+1838
+01:36:00.072 --> 01:36:00.932
+Clique dessus pour voir.
+
+1839
+01:36:02.772 --> 01:36:03.931
+En haut, là ? Oui.
+
+1840
+01:36:04.172 --> 01:36:06.732
+Oui, juste à droite de « Copier », tu as une petite flèche.
+
+1841
+01:36:07.432 --> 01:36:08.892
+Et là, tu as « Télécharger ».
+
+1842
+01:36:08.902 --> 01:36:12.882
+D'ailleurs, vas-y, fais-le, parce que
+
+1843
+01:36:13.752 --> 01:36:15.312
+pour l'instant, ce sera plus simple.
+
+1844
+01:36:15.872 --> 01:36:19.272
+Essaye de le mettre sur ton site direct, on va voir si ça marche.
+
+1845
+01:36:19.832 --> 01:36:23.272
+Logiquement, oui, tu as SVG. C'est juste que ça ne sera pas le bon, parce qu'il
+
+1846
+01:36:23.312 --> 01:36:26.092
+faudra que tu lui demandes de faire plus gras, mais tu ne peux pas le faire
+
+1847
+01:36:27.792 --> 01:36:30.092
+parce que tu as le quota utilisé.
+
+1848
+01:36:31.272 --> 01:36:33.432
+Oui. Tu es sûr que tu veux que je fasse ça là maintenant ?
+
+1849
+01:36:33.472 --> 01:36:35.452
+Vous allez perdre trop de temps. Il faut tout mettre.
+
+1850
+01:36:37.372 --> 01:36:37.912
+Non, vas-y.
+
+1851
+01:36:38.932 --> 01:36:40.612
+On parle de tout et de rien de toute manière.
+
+1852
+01:36:41.272 --> 01:36:45.012
+Parce que là, c'était un peu
+
+1853
+01:36:45.072 --> 01:36:45.352
+plus...
+
+1854
+01:36:45.892 --> 01:36:49.492
+Alors là, tu auras moyen de le mettre aussi, mais ça, c'est moins important.
+
+1855
+01:36:49.532 --> 01:36:51.352
+Surtout le full stack, là-haut, qu'il faut que tu remplaces.
+
+1856
+01:36:51.382 --> 01:36:55.152
+Tu vas dans « Paramètres ». C'est tout en haut à gauche, à droite de celui qui est
+
+1857
+01:36:55.192 --> 01:36:55.472
+bleu.
+
+1858
+01:36:56.232 --> 01:36:58.552
+Tout en haut à gauche.
+
+1859
+01:37:01.072 --> 01:37:03.622
+C'est mon chien. Ne vous inquiétez pas, ce n'est pas moi qui fais des bruits
+
+1860
+01:37:03.652 --> 01:37:04.232
+bizarres.
+
+1861
+01:37:05.252 --> 01:37:06.942
+« Paramètres », c'est ça ?
+
+1862
+01:37:06.952 --> 01:37:07.432
+Oui, c'est ça.
+
+1863
+01:37:08.232 --> 01:37:09.442
+Et là, « Logo favicon ».
+
+1864
+01:37:11.572 --> 01:37:11.772
+Oui.
+
+1865
+01:37:11.832 --> 01:37:15.412
+Voilà. Et là, « Logo par défaut », tu fais « Sélectionner » et tu vas «
+
+1866
+01:37:15.452 --> 01:37:15.972
+Upload
+
+1867
+01:37:16.772 --> 01:37:20.632
+», donc « Ajouter des fichiers » et tu vas mettre ce que tu as téléchargé, donc le
+
+1868
+01:37:20.692 --> 01:37:21.032
+SVG.
+
+1869
+01:37:22.292 --> 01:37:25.692
+Dans « Téléchargements », voilà le dernier. Parfait.
+
+1870
+01:37:27.752 --> 01:37:29.832
+Et on va voir. Logiquement, ça devrait fonctionner.
+
+1871
+01:37:30.432 --> 01:37:32.752
+Il a pu peut-être c***r les dimensions.
+
+1872
+01:37:32.812 --> 01:37:36.596
+On va voir ce que ça donneLà,
+
+1873
+01:37:36.606 --> 01:37:37.756
+tu peux faire « terminer
+
+1874
+01:37:40.076 --> 01:37:41.076
+» et ça va mettre à jour.
+
+1875
+01:37:43.676 --> 01:37:44.856
+Ça a l'air plutôt ok.
+
+1876
+01:37:45.756 --> 01:37:46.636
+Oui.
+
+1877
+01:37:46.656 --> 01:37:48.836
+Tu as ton logo, qui s'est mis.
+
+1878
+01:37:49.156 --> 01:37:49.896
+Ce n'est pas trop petit ?
+
+1879
+01:37:51.716 --> 01:37:54.156
+Ça, c'est un truc que tu peux modifier en plus.
+
+1880
+01:37:54.756 --> 01:37:57.196
+Vu que c'est du SVG,
+
+1881
+01:37:58.136 --> 01:38:01.756
+il n'a pas spécialement de taille définie. Toi, tu peux le définir après.
+
+1882
+01:38:02.236 --> 01:38:05.796
+Je crois que si tu retournes là où tu as cliqué sur « paramètres »,
+
+1883
+01:38:06.416 --> 01:38:08.356
+tu reviens sur celui de gauche où on était avant.
+
+1884
+01:38:10.936 --> 01:38:11.816
+Sur « Section ».
+
+1885
+01:38:11.836 --> 01:38:12.586
+Voilà, sur « Section ».
+
+1886
+01:38:13.436 --> 01:38:14.525
+Tu vas dans « En-tête »
+
+1887
+01:38:17.336 --> 01:38:19.876
+et dedans, à droite, il y a écrit « Hauteur
+
+1888
+01:38:19.916 --> 01:38:23.736
+du
+
+1889
+01:38:23.756 --> 01:38:24.056
+logo ».
+
+1890
+01:38:24.956 --> 01:38:28.796
+Là, si tu as envie, pour moi, c'est à peu près la bonne taille, mais tu
+
+1891
+01:38:28.836 --> 01:38:30.416
+peux passer à 35, 40.
+
+1892
+01:38:31.216 --> 01:38:32.336
+C'est modifiable.
+
+1893
+01:38:33.236 --> 01:38:37.036
+Ça va se mettre à jour parce que c'est du SVG et ça marche aussi du
+
+1894
+01:38:37.056 --> 01:38:39.196
+PNG ou du JPG.
+
+1895
+01:38:43.716 --> 01:38:45.776
+Non, c'est plus bas, dans le logo.
+
+1896
+01:38:47.436 --> 01:38:47.936
+Pardon.
+
+1897
+01:38:47.976 --> 01:38:51.736
+Oui, le 32. Essaye 40, par exemple, en bougeant un peu le curseur.
+
+1898
+01:38:54.756 --> 01:38:56.295
+On va voir si ça s'update, mais logiquement, oui.
+
+1899
+01:38:57.156 --> 01:38:57.896
+Tu vois, ça a grossi.
+
+1900
+01:38:59.376 --> 01:38:59.776
+Oui.
+
+1901
+01:39:00.736 --> 01:39:01.756
+En vrai,
+
+1902
+01:39:03.676 --> 01:39:06.076
+dans l'aperçu de Claude, il était trop fin.
+
+1903
+01:39:06.376 --> 01:39:06.526
+Et là,
+
+1904
+01:39:07.536 --> 01:39:07.976
+ça passe.
+
+1905
+01:39:07.996 --> 01:39:08.456
+Là, il est bien.
+
+1906
+01:39:08.916 --> 01:39:10.716
+Je vais enlever le bleu.
+
+1907
+01:39:12.536 --> 01:39:13.056
+C'est
+
+1908
+01:39:14.496 --> 01:39:15.066
+bien. Et après,
+
+1909
+01:39:16.256 --> 01:39:19.216
+on pourra le refaire sur le « AU-DELA » ici.
+
+1910
+01:39:20.416 --> 01:39:23.036
+Oui, ici, il faut juste que tu ajoutes un bloc.
+
+1911
+01:39:24.956 --> 01:39:28.116
+Tu sais quoi? Vas-y, teste. On va le faire. Vas-y, fais + en haut.
+
+1912
+01:39:28.136 --> 01:39:29.936
+Le petit + bleu.
+
+1913
+01:39:31.336 --> 01:39:31.576
+Là ?
+
+1914
+01:39:31.596 --> 01:39:31.716
+Oui.
+
+1915
+01:39:34.576 --> 01:39:36.116
+Et là, tu vas aller chercher HTML.
+
+1916
+01:39:38.076 --> 01:39:38.616
+Ça marche ?
+
+1917
+01:39:39.356 --> 01:39:42.096
+Attends, est-ce que ça marche si on colle le SVG
+
+1918
+01:39:43.336 --> 01:39:43.336
+?
+
+1919
+01:39:45.556 --> 01:39:46.996
+Non, ça ne va pas marcher, mais vas-y,
+
+1920
+01:39:47.876 --> 01:39:49.776
+fais-le quand même. Ça va le mettre d'une taille
+
+1921
+01:39:50.636 --> 01:39:53.136
+qui ne sera pas définie, je pense. Là, tu marques HTML.
+
+1922
+01:39:55.496 --> 01:39:57.496
+Code liquide HTML, tu peux cliquer sur ça.
+
+1923
+01:39:58.776 --> 01:40:02.266
+Ça va te créer un module vide. Tu vois, à droite, il y a écrit « Contenu » et il
+
+1924
+01:40:02.276 --> 01:40:04.396
+n'y a rien dedans. Là, tu peux retourner sur Claude.
+
+1925
+01:40:07.696 --> 01:40:08.556
+Claude, il est là.
+
+1926
+01:40:09.196 --> 01:40:12.556
+Voilà. Et là, au lieu de faire « Télécharger »,
+
+1927
+01:40:13.416 --> 01:40:16.576
+tu vas faire « Copier ». Je pense que ça va marcher. Tout en haut à droite.
+
+1928
+01:40:17.356 --> 01:40:17.976
+Là-haut.
+
+1929
+01:40:18.016 --> 01:40:21.646
+Oui, « Copier », ça devrait être « Copier le code ». Là, tu retournes dans Shopify.
+
+1930
+01:40:23.756 --> 01:40:25.796
+Et là, tu colles à droite dans le contenu.
+
+1931
+01:40:26.876 --> 01:40:27.516
+Tout à droite.
+
+1932
+01:40:28.456 --> 01:40:32.256
+Et là, tu colles. On va voir ce que ça donne. Là, c'est un peu curiosité pour voir.
+
+1933
+01:40:32.316 --> 01:40:34.236
+Je fais Commande V pour coller.
+
+1934
+01:40:36.136 --> 01:40:36.206
+OK.
+
+1935
+01:40:38.056 --> 01:40:40.056
+Pourtant, il le met fin aussi, c'est marrant.
+
+1936
+01:40:44.536 --> 01:40:47.596
+Là, il faudrait, je pense, bidouiller dans
+
+1937
+01:40:47.656 --> 01:40:51.496
+l'épaisseur des traits, dans le code, mais ce sera un peu
+
+1938
+01:40:51.516 --> 01:40:53.416
+chiant. Donc ça marche de faire ça.
+
+1939
+01:40:54.036 --> 01:40:54.376
+OK.
+
+1940
+01:40:55.096 --> 01:40:56.236
+C'est juste que là, il est trop fin.
+
+1941
+01:40:57.076 --> 01:41:00.796
+Ce qu'il faudra faire, c'est comme on a dit tout à l'heure, tu peux littéralement
+
+1942
+01:41:00.856 --> 01:41:04.576
+lui expliquer ça. Tu lui dis : « J'ai créé un nouveau bloc sur mon thème
+
+1943
+01:41:04.816 --> 01:41:08.796
+qui s'appelle Code liquide HTML. J'ai collé ça », tu
+
+1944
+01:41:08.856 --> 01:41:10.936
+lui fais un screenshot, « je trouve ça trop fin.
+
+1945
+01:41:11.356 --> 01:41:14.025
+Est-ce que tu peux modifier le code pour qu'il soit un peu plus large ?
+
+1946
+01:41:14.046 --> 01:41:17.996
+» Et il te refilera un nouveau code, que tu recolles ici et il sera plus large,
+
+1947
+01:41:18.056 --> 01:41:18.456
+logiquement.
+
+1948
+01:41:18.996 --> 01:41:19.796
+OK.
+
+1949
+01:41:19.856 --> 01:41:20.236
+Voilà.
+
+1950
+01:41:20.856 --> 01:41:23.916
+Ça marche. Merci. C'est bien.
+
+1951
+01:41:24.836 --> 01:41:27.396
+Une fois que ce sera ça comme ça, ce sera parfait.
+
+1952
+01:41:27.836 --> 01:41:29.056
+Merci.
+
+1953
+01:41:29.226 --> 01:41:29.876
+Merci, grâce à vous.
+
+1954
+01:41:30.736 --> 01:41:32.156
+Tu as ton logo, parfait.
+
+1955
+01:41:33.176 --> 01:41:33.596
+Merci.
+
+1956
+01:41:34.896 --> 01:41:37.996
+Avec plaisir. Est-ce que quelqu'un a une question avant midi
+
+1957
+01:41:42.976 --> 01:41:42.976
+?
+
+1958
+01:41:47.316 --> 01:41:48.356
+Oui, j'ai une question.
+
+1959
+01:41:49.016 --> 01:41:49.356
+Vas-y.
+
+1960
+01:41:49.916 --> 01:41:51.406
+Ça existe, les niches rentables
+
+1961
+01:41:52.476 --> 01:41:52.476
+?
+
+1962
+01:41:52.556 --> 01:41:53.155
+Oui.
+
+1963
+01:41:59.396 --> 01:42:02.976
+OK. C'était juste pour me remotiver à chercher une niche.
+
+1964
+01:42:04.016 --> 01:42:07.916
+Si je peux te donner un conseil,
+
+1965
+01:42:08.016 --> 01:42:10.716
+essaie de trouver des produits qui se vendent au-dessus de
+
+1966
+01:42:12.376 --> 01:42:13.056
+70, 100 €.
+
+1967
+01:42:14.956 --> 01:42:15.176
+OK.
+
+1968
+01:42:15.316 --> 01:42:16.416
+En général, c'est plus simple.
+
+1969
+01:42:18.356 --> 01:42:21.686
+C'est un truc général que je dis, il
+
+1970
+01:42:23.296 --> 01:42:27.156
+ne faut pas aller dans des extrêmes non plus, parce que ça amène d'autres
+
+1971
+01:42:27.176 --> 01:42:30.576
+problématiques, mais c'est plus simple d'être rentable sur des produits où tu as
+
+1972
+01:42:30.596 --> 01:42:31.296
+plus de marge.
+
+1973
+01:42:33.336 --> 01:42:35.576
+De marge en termes de montant,
+
+1974
+01:42:36.556 --> 01:42:37.036
+parce que
+
+1975
+01:42:38.756 --> 01:42:41.016
+si une vente te coûte à peu près 10 balles et que
+
+1976
+01:42:41.896 --> 01:42:44.416
+tu vends des produits à 30 et VS là où
+
+1977
+01:42:45.256 --> 01:42:48.276
+tu vends des produits à 100 et tu fais 60 € de marge,
+
+1978
+01:42:48.316 --> 01:42:51.536
+je vois le truc comme ça.
+
+1979
+01:42:53.396 --> 01:42:53.716
+OK.
+
+1980
+01:42:55.856 --> 01:42:55.936
+On
+
+1981
+01:43:00.016 --> 01:43:02.276
+va continuer.
+
+1982
+01:43:02.536 --> 01:43:05.446
+Yes. Tu vas trouver, tu vas trouver.
+
+1983
+01:43:06.336 --> 01:43:07.616
+Après, j'ai envie de penser, moi,
+
+1984
+01:43:10.696 --> 01:43:14.196
+sans la méthode un peu
+
+1985
+01:43:14.256 --> 01:43:15.476
+intelligente, mais
+
+1986
+01:43:17.996 --> 01:43:19.076
+je marche un peu à la douleur.
+
+1987
+01:43:21.456 --> 01:43:23.836
+Quand tu auras trouvé, après, tu pourras
+
+1988
+01:43:25.236 --> 01:43:25.676
+bourriner.
+
+1989
+01:43:27.836 --> 01:43:28.096
+Oui.
+
+1990
+01:43:28.486 --> 01:43:31.636
+Puis tu auras compris pourquoi c'est une bonne niche et du coup, tu trouveras plus
+
+1991
+01:43:31.676 --> 01:43:33.956
+facilement. Ça va faire vraiment boule de neige après.
+
+1992
+01:43:36.788 --> 01:43:40.338
+Oui, je me dis toujours qu'il y a des gens qui ont
+
+1993
+01:43:41.168 --> 01:43:44.208
+30, 40, 50 sites. Finalement, ils
+
+1994
+01:43:44.288 --> 01:43:48.008
+ont exploré toutes les niches.
+
+1995
+01:43:50.188 --> 01:43:54.158
+J'ai l'impression qu'il faut lancer un site pour que ça t'amène vers
+
+1996
+01:43:54.248 --> 01:43:57.368
+un autre. Un peu comme dans le business, se lancer dans un truc,
+
+1997
+01:43:58.168 --> 01:44:01.308
+puis après, tu t'accroches à une nouvelle, un peu comme en escalade.
+
+1998
+01:44:02.238 --> 01:44:05.418
+Tu t'accroches à un truc qui marche, tu avances et c'est comme ça que tu prends le
+
+1999
+01:44:05.508 --> 01:44:05.828
+marché.
+
+2000
+01:44:06.868 --> 01:44:08.108
+Oui, on en a parlé la dernière fois.
+
+2001
+01:44:08.508 --> 01:44:10.228
+Rien ne t'empêche de lancer une niche où je dis
+
+2002
+01:44:11.548 --> 01:44:15.448
+: « Attention » ou « Warning ». Mais on en a
+
+2003
+01:44:15.468 --> 01:44:17.288
+aussi parlé la dernière fois, tu vas perdre du temps.
+
+2004
+01:44:19.268 --> 01:44:20.468
+Oui, mais j'en perds déjà là.
+
+2005
+01:44:21.988 --> 01:44:24.748
+Oui, mais tu en perdras beaucoup plus. C'est ce qu'on disait la dernière fois.
+
+2006
+01:44:24.788 --> 01:44:27.248
+Tu en perdras beaucoup plus sur le total.
+
+2007
+01:44:27.808 --> 01:44:30.568
+Rien ne t'empêche de lancer un truc où je t'ai dit
+
+2008
+01:44:32.288 --> 01:44:35.148
+: « Ça sera compliqué d'être rentable » ou « Ça va être compliqué par la
+
+2009
+01:44:35.168 --> 01:44:39.058
+concurrence ». Tu vas galérer, tu vas apprendre des choses et tant mieux,
+
+2010
+01:44:39.108 --> 01:44:40.328
+mais tu auras perdu beaucoup de temps.
+
+2011
+01:44:40.428 --> 01:44:43.268
+Là où si tu lances une niche où c'est beaucoup plus simple d'être rentable dès le
+
+2012
+01:44:43.308 --> 01:44:43.588
+début,
+
+2013
+01:44:44.428 --> 01:44:48.368
+tu apprendras aussi beaucoup de choses et tu auras gagné
+
+2014
+01:44:48.428 --> 01:44:48.728
+du temps
+
+2015
+01:44:50.368 --> 01:44:53.208
+et de l'argent. C'est ce qu'on disait aussi la dernière fois.
+
+2016
+01:44:57.068 --> 01:45:00.968
+C'est toi qui vois tout ça. Ceux qui lancent aussi
+
+2017
+01:45:01.048 --> 01:45:05.008
+beaucoup de niches, généralement, ils font des concessions sur ça.
+
+2018
+01:45:06.028 --> 01:45:08.208
+Il y a des niches qui sont plus dures, il y a des niches où ils savent qu'ils vont
+
+2019
+01:45:08.288 --> 01:45:10.308
+être moins rentables au début, la première année.
+
+2020
+01:45:10.528 --> 01:45:10.618
+Il
+
+2021
+01:45:11.848 --> 01:45:14.228
+y a ça aussi qui rentre en compte parce qu'ils ont le budget, parce qu'ils ont
+
+2022
+01:45:14.268 --> 01:45:15.728
+l'expérience.
+
+2023
+01:45:17.788 --> 01:45:21.768
+L'idée, c'est que j'aide à faire
+
+2024
+01:45:21.808 --> 01:45:24.028
+en sorte que vous soyez rentable le plus rapidement possible.
+
+2025
+01:45:24.088 --> 01:45:27.808
+Donc oui, on est un peu plus sélectifs sur les niches pour ne pas
+
+2026
+01:45:27.848 --> 01:45:31.688
+qu'au bout de trois mois, vous abandonniez parce que vous avez perdu
+
+2027
+01:45:31.708 --> 01:45:34.488
+trop d'argent ou parce que c'est trop compliqué, parce qu'il y a trop de
+
+2028
+01:45:34.508 --> 01:45:35.778
+concurrence. C'est vraiment l'idée,
+
+2029
+01:45:36.608 --> 01:45:39.428
+c'est de faire en sorte que vous soyez rentable rapidement.
+
+2030
+01:45:39.488 --> 01:45:41.928
+Donc oui, on passe un peu de temps sur la sélection de niches
+
+2031
+01:45:43.108 --> 01:45:43.908
+pour optimiser ça.
+
+2032
+01:45:45.548 --> 01:45:47.878
+Mais c'est tout le but de la formation.
+
+2033
+01:45:48.228 --> 01:45:51.568
+Vous payez, c'est aussi pour avoir les expériences liées à ça.
+
+2034
+01:45:56.028 --> 01:45:58.148
+OK.
+
+2035
+01:45:58.368 --> 01:46:02.348
+On
+
+2036
+01:46:02.388 --> 01:46:02.848
+continue.
+
+2037
+01:46:03.608 --> 01:46:03.988
+Yes.
+
+2038
+01:46:05.728 --> 01:46:09.588
+C'est bon pour moi. Je crois que je dois passer sur autre
+
+2039
+01:46:09.608 --> 01:46:09.948
+chose.
+
+2040
+01:46:10.708 --> 01:46:14.448
+Bon courage et n'hésite pas. Quand tu veux redemander, on
+
+2041
+01:46:14.908 --> 01:46:15.508
+refait un check.
+
+2042
+01:46:16.268 --> 01:46:16.448
+Oui.
+
+2043
+01:46:18.068 --> 01:46:19.348
+Allez, à plus.
+
+2044
+01:46:19.388 --> 01:46:20.888
+À plus. Est-ce
+
+2045
+01:46:22.728 --> 01:46:23.978
+que quelqu'un a une question ?
+
+2046
+01:46:24.948 --> 01:46:27.248
+Il reste 10 minutes, dites-moi.
+
+2047
+01:46:38.828 --> 01:46:42.328
+J'ai fini ma R&amp;D, ça y est. Je peux enfin avancer.
+
+2048
+01:46:43.488 --> 01:46:45.588
+Donc là, tu... C'est-à-dire ?
+
+2049
+01:46:45.648 --> 01:46:47.228
+N*m d* D**u, j'en ai passé du temps.
+
+2050
+01:46:49.528 --> 01:46:50.488
+Tu as fait quoi du coup ?
+
+2051
+01:46:50.528 --> 01:46:52.308
+Il a fini toute la partie tech sur son site.
+
+2052
+01:46:52.768 --> 01:46:54.028
+Oui, c'est ça, de comparer.
+
+2053
+01:46:54.088 --> 01:46:57.938
+Donc là, tu vas importer en masse et
+
+2054
+01:46:57.988 --> 01:46:58.498
+après, tu lances ?
+
+2055
+01:46:59.648 --> 01:47:00.468
+Oui.
+
+2056
+01:47:00.488 --> 01:47:01.268
+Oui.
+
+2057
+01:47:01.288 --> 01:47:02.468
+Le seul truc que je devais regarder, c'était
+
+2058
+01:47:04.368 --> 01:47:07.988
+la partie image scale. Il y a des applis pour convertir
+
+2059
+01:47:08.008 --> 01:47:10.728
+automatiquement en WebP directement sur Mac.
+
+2060
+01:47:10.928 --> 01:47:14.088
+C'est vrai que ça fait des clics en moins si c'est en local que d'aller sur le
+
+2061
+01:47:14.148 --> 01:47:14.408
+site.
+
+2062
+01:47:14.568 --> 01:47:18.948
+Claude
+
+2063
+01:47:20.268 --> 01:47:20.808
+le fait.
+
+2064
+01:47:22.848 --> 01:47:24.188
+Te convertir en WebP ?
+
+2065
+01:47:24.408 --> 01:47:24.548
+Oui.
+
+2066
+01:47:30.868 --> 01:47:33.008
+Comment ça il convertit en WebP ? Depuis quand il s'occupe des images
+
+2067
+01:47:33.988 --> 01:47:33.988
+?
+
+2068
+01:47:34.208 --> 01:47:37.208
+Vu que Cloud Code a accès
+
+2069
+01:47:37.288 --> 01:47:41.268
+au terminal, il peut
+
+2070
+01:47:41.448 --> 01:47:42.828
+lancer n'importe quelle commande.
+
+2071
+01:47:43.488 --> 01:47:46.468
+Donc il suffit qu'il y ait un repo qui gère,
+
+2072
+01:47:48.588 --> 01:47:50.648
+par exemple avec du Python, qui transforme et qui
+
+2073
+01:47:51.448 --> 01:47:53.748
+modifie des images, qui convertit des images.
+
+2074
+01:47:54.448 --> 01:47:57.438
+Rien ne l'empêche de télécharger ce truc et de le lancer de son côté pour le faire
+
+2075
+01:47:57.468 --> 01:47:58.047
+sur tes images.
+
+2076
+01:48:04.168 --> 01:48:07.628
+Je peux te filer. Je vais aller sur cloud
+
+2077
+01:48:07.648 --> 01:48:11.228
+desktop, parce que c'est de la m***e le terminal.
+
+2078
+01:48:11.438 --> 01:48:12.608
+On va devenir dépendant de Claude.
+
+2079
+01:48:13.528 --> 01:48:15.528
+Il ne faut pas qu'ils augmentent les abos, on va être dans la m***e.
+
+2080
+01:48:18.748 --> 01:48:20.258
+Comment tu ferais
+
+2081
+01:48:21.168 --> 01:48:21.408
+pour
+
+2082
+01:48:23.048 --> 01:48:25.128
+convertir les images
+
+2083
+01:48:26.608 --> 01:48:27.578
+en WebP ? Je
+
+2084
+01:48:31.768 --> 01:48:35.368
+vais dire en WebP
+
+2085
+01:48:35.708 --> 01:48:36.168
+sur
+
+2086
+01:48:39.048 --> 01:48:40.128
+Cloud Code.
+
+2087
+01:48:47.068 --> 01:48:51.028
+Il dit : « Le plus simple, c'est du-- » Donc il fera un NPM
+
+2088
+01:48:52.868 --> 01:48:56.508
+de Sharp qui doit être une librairie qui permet
+
+2089
+01:48:56.518 --> 01:48:57.928
+de convertir des images.
+
+2090
+01:48:58.948 --> 01:48:59.978
+En gros, il va s'installer ça
+
+2091
+01:49:00.968 --> 01:49:04.328
+tout seul et après, il utilisera ça pour les convertir.
+
+2092
+01:49:05.948 --> 01:49:06.388
+Voilà, c'est tout.
+
+2093
+01:49:06.928 --> 01:49:08.348
+Et il les envoie directement dans le site
+
+2094
+01:49:09.908 --> 01:49:09.908
+?
+
+2095
+01:49:10.068 --> 01:49:13.428
+Ça, ce sera à toi de lui dire ce qu'il fait du résultat.
+
+2096
+01:49:14.068 --> 01:49:15.168
+Soit il te les met dans un dossier,
+
+2097
+01:49:16.148 --> 01:49:20.138
+soit après, tu lui dis une fois que tu l'as
+
+2098
+01:49:20.248 --> 01:49:20.548
+fait.
+
+2099
+01:49:21.608 --> 01:49:25.368
+Imaginons que tu as un dossier produit et dedans, tu as chaque
+
+2100
+01:49:25.388 --> 01:49:28.148
+produit. Et dans chaque dossier produit, tu as les images.
+
+2101
+01:49:28.508 --> 01:49:29.848
+Tu peux très bien lui dire :
+
+2102
+01:49:31.138 --> 01:49:34.308
+« Tu fais dossier par dossier. Quand tu les as convertis en WebP, tu vas sur
+
+2103
+01:49:34.688 --> 01:49:37.348
+WooCommerce. Et si le produit existe,
+
+2104
+01:49:38.528 --> 01:49:40.788
+tu uploades juste les images. Ou alors, si le produit existe, tu les mets
+
+2105
+01:49:40.828 --> 01:49:42.648
+directement dans la galerie. » Il peut te faire tout
+
+2106
+01:49:42.688 --> 01:49:50.096
+ça.Il
+
+2107
+01:49:50.106 --> 01:49:51.676
+y a une librairie qui s'appelle Sharp,
+
+2108
+01:49:53.076 --> 01:49:54.236
+Sharp node.
+
+2109
+01:49:56.716 --> 01:50:00.116
+C'est ça, j'envoie les liens si jamais ça intéresse
+
+2110
+01:50:00.156 --> 01:50:00.796
+quelqu'un.
+
+2111
+01:50:03.696 --> 01:50:07.376
+Il va installer automatiquement ça et c'est un truc qui est fait
+
+2112
+01:50:07.396 --> 01:50:07.806
+pour
+
+2113
+01:50:08.756 --> 01:50:12.556
+convertir des images, de ce qu'il dit.
+
+2114
+01:50:13.656 --> 01:50:14.836
+Peut-être que ça fait plus de trucs.
+
+2115
+01:50:17.076 --> 01:50:18.896
+Qu'est-ce qu'il raconte ?
+
+2116
+01:50:19.916 --> 01:50:22.175
+Convertir. Oui.
+
+2117
+01:50:23.256 --> 01:50:24.456
+C'est un truc fait exprès pour ça.
+
+2118
+01:50:26.256 --> 01:50:27.196
+De même, resize.
+
+2119
+01:50:29.036 --> 01:50:31.156
+Je vais traduire en français.
+
+2120
+01:50:36.776 --> 01:50:37.496
+Il peut
+
+2121
+01:50:37.656 --> 01:50:41.196
+redimensionner.
+
+2122
+01:50:46.996 --> 01:50:48.986
+Rotation, il peut
+
+2123
+01:50:49.176 --> 01:50:52.776
+extraction, correction des gammas,
+
+2124
+01:50:53.436 --> 01:50:54.416
+automatique.
+
+2125
+01:50:55.436 --> 01:50:57.516
+C'est un truc qui travaille sur l'image.
+
+2126
+01:50:57.756 --> 01:51:01.056
+Oui, il n'a pas directement accès à
+
+2127
+01:51:01.976 --> 01:51:05.556
+des outils internes pour faire ça, mais en fonction de ce que vous lui
+
+2128
+01:51:05.576 --> 01:51:08.216
+demandez, il peut aller chercher ce qui existe en ligne,
+
+2129
+01:51:09.956 --> 01:51:13.916
+des librairies qui existent. Par exemple, c'était le test, il en a trouvé une qui
+
+2130
+01:51:13.936 --> 01:51:17.856
+permet de faire ça et lui se l'installe en local, dans
+
+2131
+01:51:17.896 --> 01:51:21.216
+son environnement et du coup il travaille avec après quand il veut,
+
+2132
+01:51:22.536 --> 01:51:22.656
+etc.
+
+2133
+01:51:25.976 --> 01:51:29.736
+Il y a juste à installer le NPM, install Sharp dans Cloud ?
+
+2134
+01:51:29.756 --> 01:51:30.836
+Non, il le fait même tout seul.
+
+2135
+01:51:32.196 --> 01:51:33.816
+Soit tu lui dis : « Oui, installe-moi
+
+2136
+01:51:36.476 --> 01:51:39.636
+Sharp directement », soit tu lui dis juste que moi, je lui ai demandé juste avant,
+
+2137
+01:51:39.736 --> 01:51:40.276
+c'est-à-dire
+
+2138
+01:51:42.596 --> 01:51:46.516
+je lui ai dit : « Comment tu ferais pour convertir des images en WebP directement
+
+2139
+01:51:46.556 --> 01:51:49.176
+dans Cloud Code ? » Parce que moi, je suis dans le truc web, c'est pour ça que je
+
+2140
+01:51:49.186 --> 01:51:51.896
+lui ai dit ça. Sinon, je lui aurais dit juste : « Comment tu ferais pour convertir
+
+2141
+01:51:51.956 --> 01:51:55.916
+des images que j'ai sur mon ordi ? » Et là, il m'a répondu :
+
+2142
+01:51:56.005 --> 01:51:59.856
+« La façon la plus simple, c'est d'utiliser Sharp, Node.js ou Pillow,
+
+2143
+01:52:00.476 --> 01:52:00.945
+c'est Python,
+
+2144
+01:52:01.796 --> 01:52:02.376
+pour faire ça.
+
+2145
+01:52:05.496 --> 01:52:07.516
+» Et après, tu lui dis : « OK,
+
+2146
+01:52:08.336 --> 01:52:10.376
+installe ça. » Et il le fait.
+
+2147
+01:52:17.936 --> 01:52:21.156
+Du coup, ça ouvre vraiment à tout. Parce que toutes les librairies
+
+2148
+01:52:22.416 --> 01:52:23.556
+sont accessibles.
+
+2149
+01:52:23.596 --> 01:52:27.536
+Tu penses que ça bouffe énormément de convertir ? Imaginons que tu as 200 images.
+
+2150
+01:52:29.956 --> 01:52:31.996
+En tokens, je ne pense pas parce
+
+2151
+01:52:32.036 --> 01:52:35.976
+qu'une fois que c'est installé, c'est juste une ligne
+
+2152
+01:52:36.016 --> 01:52:37.276
+de commande lui en interne.
+
+2153
+01:52:38.156 --> 01:52:41.176
+Ça ne bouffe pas beaucoup de tokens de faire ça.
+
+2154
+01:52:41.596 --> 01:52:43.456
+C'est le script qui s'occupe de ça ?
+
+2155
+01:52:43.496 --> 01:52:43.736
+Oui.
+
+2156
+01:52:44.896 --> 01:52:46.876
+Lui, il va juste faire la demande, qui sera très courte.
+
+2157
+01:52:48.756 --> 01:52:50.246
+Tout le travail, ce n'est pas lui qui le fait
+
+2158
+01:52:51.636 --> 01:52:53.436
+directement. Il va lire, il va
+
+2159
+01:52:54.376 --> 01:52:56.366
+regarder l'output
+
+2160
+01:52:57.376 --> 01:52:57.936
+de Sharp, mais
+
+2161
+01:52:58.856 --> 01:52:59.696
+ce n'est pas lui qui fait le travail.
+
+2162
+01:53:00.596 --> 01:53:04.536
+Donc ça va beaucoup moins utiliser de tokens que si je ne sais quoi d'autre il
+
+2163
+01:53:04.576 --> 01:53:04.896
+pourrait faire.
+
+2164
+01:53:06.376 --> 01:53:10.316
+Après, c'est simple aussi. Tu fais un test, tu lui demandes d'en
+
+2165
+01:53:10.376 --> 01:53:14.156
+faire une, tu regardes combien pour un en lui
+
+2166
+01:53:14.176 --> 01:53:17.716
+disant : « Si après je le fais en masse, combien ça génère à peu près de tokens ?
+
+2167
+01:53:17.726 --> 01:53:19.696
+» Et donc tu lui demandes une estimation sur
+
+2168
+01:53:20.856 --> 01:53:24.416
+200 000 images et combien ça te coûterait. Il peut te faire l'estimation aussi.
+
+2169
+01:53:26.336 --> 01:53:29.376
+Combien ça te ferait de tokens sur les 1 000 images ou sur 200.
+
+2170
+01:53:33.376 --> 01:53:37.256
+Je regarde au niveau du
+
+2171
+01:53:37.296 --> 01:53:40.196
+workflow, voir si c'est mieux au final de passer par le terminal.
+
+2172
+01:53:44.956 --> 01:53:45.396
+C'est-à-dire
+
+2173
+01:53:47.536 --> 01:53:47.536
+?
+
+2174
+01:53:47.546 --> 01:53:49.156
+Moi, ce que je veux, c'est faire le moins de clics possible.
+
+2175
+01:53:50.836 --> 01:53:52.016
+Justement, fais un terminal.
+
+2176
+01:53:57.736 --> 01:53:59.796
+Vu que là, c'est des actions ultra-répétitives,
+
+2177
+01:54:00.606 --> 01:54:01.176
+il faut que ça soit
+
+2178
+01:54:02.415 --> 01:54:04.136
+automatisé, donc il faut que ça soit un script.
+
+2179
+01:54:04.196 --> 01:54:06.476
+Donc oui, que ce soit du script.
+
+2180
+01:54:08.776 --> 01:54:09.716
+Comme ça, c'est fait en one shot.
+
+2181
+01:54:12.236 --> 01:54:15.756
+Là, vraiment, en une ligne de commande,
+
+2182
+01:54:16.136 --> 01:54:20.116
+après ça va prendre du
+
+2183
+01:54:20.156 --> 01:54:23.986
+temps, mais en une ligne de commande, il te fait tes 1 000
+
+2184
+01:54:24.016 --> 01:54:24.356
+images.
+
+2185
+01:54:26.056 --> 01:54:27.876
+Il te fait une version WebP dans un nouveau dossier,
+
+2186
+01:54:28.856 --> 01:54:32.496
+même dans multi-dossiers si besoin, en fonction de comment c'était de base,
+
+2187
+01:54:33.356 --> 01:54:34.736
+voire de l'upload après direct,
+
+2188
+01:54:35.576 --> 01:54:36.296
+tout ça en une ligne.
+
+2189
+01:54:38.596 --> 01:54:39.236
+Du coup, il n'y a pas
+
+2190
+01:54:40.296 --> 01:54:41.236
+moins de clics.
+
+2191
+01:54:45.416 --> 01:54:49.236
+Ah ouais, parce qu'il met Image Magick C Web, c'est un truc de
+
+2192
+01:54:49.296 --> 01:54:51.616
+Google officiel. Il y a différentes manières.
+
+2193
+01:54:52.436 --> 01:54:54.476
+Oui, il doit y avoir un paquet de manières.
+
+2194
+01:54:55.316 --> 01:54:56.936
+Oui, quality 85.
+
+2195
+01:54:58.176 --> 01:54:59.916
+En Python. Python en plus, Pillow.
+
+2196
+01:55:01.076 --> 01:55:02.576
+Il y avait Pillow aussi qu'il manquait.
+
+2197
+01:55:04.476 --> 01:55:07.336
+Oui, on root, mais le dossier. Après, il faut que ce soit dynamique le dossier.
+
+2198
+01:55:08.236 --> 01:55:09.196
+OK.
+
+2199
+01:55:10.636 --> 01:55:11.196
+Je vais regarder ça.
+
+2200
+01:55:18.376 --> 01:55:21.156
+Ça fait l'upscale à côté. Je ne pense pas qu'il fasse l'upscale encore.
+
+2201
+01:55:22.416 --> 01:55:23.516
+Il y a sûrement des librairies pour.
+
+2202
+01:55:27.936 --> 01:55:30.956
+Je ne sais pas. Parce que le problème, c'est que ça va demander de la génération.
+
+2203
+01:55:31.636 --> 01:55:35.096
+Déjà, le truc open source que tu avais filé,
+
+2204
+01:55:36.376 --> 01:55:39.716
+Upscale, je crois. Je l'avais retesté et j'avais eu un bon résultat.
+
+2205
+01:55:39.776 --> 01:55:41.536
+Je voulais le retester avec un autre outil que j'utilisais.
+
+2206
+01:55:42.596 --> 01:55:43.426
+Mais ça m'avait
+
+2207
+01:55:45.276 --> 01:55:45.816
+l'air pas mal.
+
+2208
+01:55:46.096 --> 01:55:47.876
+Il y a sûrement moyen de l'automatiser.
+
+2209
+01:55:49.976 --> 01:55:53.416
+Vu que cette app existe et qu'elle est gratuite, je
+
+2210
+01:55:53.496 --> 01:55:55.448
+croisIl y a sûrement des
+
+2211
+01:55:57.528 --> 01:56:00.228
+trucs utilisables gratuitement pour le faire, mais ça va
+
+2212
+01:56:01.148 --> 01:56:03.748
+quand même demander de la génération, donc
+
+2213
+01:56:03.928 --> 01:56:06.068
+du
+
+2214
+01:56:07.488 --> 01:56:07.828
+CPU.
+
+2215
+01:56:07.898 --> 01:56:07.988
+Ça,
+
+2216
+01:56:09.188 --> 01:56:09.428
+c'est rien.
+
+2217
+01:56:10.488 --> 01:56:10.768
+Je préfère
+
+2218
+01:56:11.808 --> 01:56:13.668
+que ça utilise du CPU que des crédits que je paye.
+
+2219
+01:56:14.328 --> 01:56:14.488
+Oui.
+
+2220
+01:56:15.368 --> 01:56:19.308
+Il faudra prendre ça en compte. Je sais que ce n'est pas le
+
+2221
+01:56:19.348 --> 01:56:21.928
+cas, mais je parle pour les personnes qui voudraient faire ça aussi.
+
+2222
+01:56:22.388 --> 01:56:26.188
+Si vous avez un ordi pas puissant pour ce genre de
+
+2223
+01:56:26.228 --> 01:56:27.568
+truc, ça va être très long.
+
+2224
+01:56:29.128 --> 01:56:29.508
+Là où
+
+2225
+01:56:31.228 --> 01:56:32.668
+pour Upscale, je parle.
+
+2226
+01:56:34.168 --> 01:56:36.568
+Je vais lui demander. On va faire le test.
+
+2227
+01:56:47.128 --> 01:56:50.428
+Il me dit : « Vous avez utilisé 90 % de votre limite de session.
+
+2228
+01:56:56.648 --> 01:56:56.648
+»
+
+2229
+01:56:56.808 --> 01:56:59.288
+C'est vrai que c'est gratuit ce truc-là, Upscale ?
+
+2230
+01:56:59.768 --> 01:57:03.128
+Oui,
+
+2231
+01:57:03.148 --> 01:57:04.608
+d'accord. Si on devait
+
+2232
+01:57:05.828 --> 01:57:06.968
+upscale, on ferait comment
+
+2233
+01:57:07.948 --> 01:57:07.948
+?
+
+2234
+01:57:09.958 --> 01:57:11.068
+Upscale les images.
+
+2235
+01:57:12.028 --> 01:57:13.588
+En vrai, je ne te recommande pas vraiment de le faire.
+
+2236
+01:57:19.308 --> 01:57:19.408
+Ils
+
+2237
+01:57:20.568 --> 01:57:22.568
+parlent d'API, ce n'est pas ce qu'on veut.
+
+2238
+01:57:26.588 --> 01:57:28.108
+GPU local, donc
+
+2239
+01:57:28.288 --> 01:57:31.408
+upscale-ncnn.
+
+2240
+01:57:33.388 --> 01:57:35.648
+Il y a un truc qui est fait pour avec Python.
+
+2241
+01:57:36.248 --> 01:57:39.788
+Qu'est-ce qu'il raconte ? Il y a un truc de Python qui permet de le faire.
+
+2242
+01:57:42.408 --> 01:57:43.688
+Et API, il me parlait de
+
+2243
+01:57:44.648 --> 01:57:45.368
+Replicate.
+
+2244
+01:57:46.588 --> 01:57:47.688
+Oui, mais Replicate, c'est
+
+2245
+01:57:48.668 --> 01:57:49.748
+un truc où tu as plein d'IA.
+
+2246
+01:57:51.808 --> 01:57:55.348
+Il parle de upscale-ncnn. Je vais regarder ce que
+
+2247
+01:57:55.408 --> 01:57:57.548
+c'est.
+
+2248
+01:57:59.428 --> 01:58:03.347
+C'est ce qu'utilise Upscale. Je ne sais pas
+
+2249
+01:58:03.368 --> 01:58:07.048
+comment ça se dit. Upscale, c'est upscale, mais c'est mal
+
+2250
+01:58:07.108 --> 01:58:09.288
+écrit. Le truc que tu parles, open source sur Mac.
+
+2251
+01:58:09.768 --> 01:58:10.328
+Ah oui ?
+
+2252
+01:58:10.368 --> 01:58:12.188
+Oui, c'est ça qu'il utilise.
+
+2253
+01:58:14.168 --> 01:58:17.868
+C'est eux qui l'ont fait. Tu as moyen,
+
+2254
+01:58:18.928 --> 01:58:20.868
+en ligne de commande, de l'utiliser ce truc.
+
+2255
+01:58:20.878 --> 01:58:24.588
+Claude pourra l'utiliser et pourra te upscale directement.
+
+2256
+01:58:25.548 --> 01:58:28.088
+Je t'envoie le lien si tu veux. C'est le truc officiel d'eux.
+
+2257
+01:58:28.528 --> 01:58:32.368
+Parce que dans le repo GitHub, c'est le lien vers leur site.
+
+2258
+01:58:32.988 --> 01:58:34.148
+Donc c'est bien leur truc à eux.
+
+2259
+01:58:36.628 --> 01:58:36.968
+Pareil.
+
+2260
+01:58:40.468 --> 01:58:41.368
+NCNN ?
+
+2261
+01:58:41.808 --> 01:58:42.008
+Oui.
+
+2262
+01:58:43.028 --> 01:58:46.148
+upscale-ncnn. Et c'est bien eux qui font ça.
+
+2263
+01:58:46.448 --> 01:58:47.888
+Parce que moi, j'ai le upscale tout juste.
+
+2264
+01:58:57.748 --> 01:58:59.788
+Voilà comment upscale en...
+
+2265
+01:59:01.468 --> 01:59:04.268
+Après, peut-être que leur wrap le fait en bulk aussi, je ne sais pas.
+
+2266
+01:59:04.308 --> 01:59:05.268
+J'ai pas assez fouillé.
+
+2267
+01:59:06.348 --> 01:59:07.768
+En fait, ça sera automatisable. Tu
+
+2268
+01:59:09.008 --> 01:59:10.108
+peux ajouter dans
+
+2269
+01:59:11.648 --> 01:59:15.488
+ton process, dans tes skills, un truc qui explique qu'il faut utiliser
+
+2270
+01:59:15.588 --> 01:59:18.148
+ça et donc ça le fera automatiquement en back
+
+2271
+01:59:19.108 --> 01:59:19.848
+d'utiliser ça.
+
+2272
+01:59:20.828 --> 01:59:21.948
+Encore une fois, ça sera automatisé.
+
+2273
+01:59:26.288 --> 01:59:26.508
+Oui.
+
+2274
+01:59:28.188 --> 01:59:30.888
+Peut-être que tu peux même output en Wapt direct aussi.
+
+2275
+01:59:37.928 --> 01:59:40.848
+Après, si je voudrais déléguer ça, il ne faudrait pas que je complique le truc.
+
+2276
+01:59:42.828 --> 01:59:43.007
+Oui.
+
+2277
+01:59:43.328 --> 01:59:44.408
+Avec les skills et tout ça.
+
+2278
+01:59:44.968 --> 01:59:47.488
+Si tu veux déléguer ça, pour quoi faire
+
+2279
+01:59:48.848 --> 01:59:49.688
+? Déléguer quoi ?
+
+2280
+01:59:49.748 --> 01:59:51.968
+Non, toute la partie intégration produit, mais ça, ça ferait
+
+2281
+01:59:52.768 --> 01:59:54.128
+une sous-branche de l'intégration produit.
+
+2282
+01:59:54.838 --> 01:59:57.588
+Mais pourquoi tu vas déléguer l'intégration produit vu que tu as un workflow qui
+
+2283
+01:59:57.648 --> 01:59:58.428
+fait que c'est automatique
+
+2284
+01:59:59.948 --> 01:59:59.948
+?
+
+2285
+02:00:00.268 --> 02:00:02.388
+Aller chercher justement tous les trucs Aliexpress, tout ça.
+
+2286
+02:00:03.648 --> 02:00:05.348
+Ah oui, à ce moment-là, c'est juste cette partie-là.
+
+2287
+02:00:08.748 --> 02:00:12.667
+Le but, c'est qu'en trois clics et beaucoup de tests avant,
+
+2288
+02:00:13.088 --> 02:00:15.868
+ça te le fasse automatiquement et après, il y a de la vérif et c'est ça que tu
+
+2289
+02:00:15.908 --> 02:00:16.248
+délègues.
+
+2290
+02:00:16.428 --> 02:00:17.548
+Parce que toi, pour les images,
+
+2291
+02:00:18.588 --> 02:00:21.608
+il les modifie aussi, par exemple, les images à retoucher ?
+
+2292
+02:00:21.628 --> 02:00:23.208
+Parce que moi, je ne reprends pas les images d'Aliexpress.
+
+2293
+02:00:25.668 --> 02:00:25.928
+Oui.
+
+2294
+02:00:26.768 --> 02:00:30.128
+J'ai fait le test dans la vidéo,
+
+2295
+02:00:31.328 --> 02:00:34.858
+où ça montre les images. Il peut traduire, il peut faire des modifs en fonction de
+
+2296
+02:00:34.908 --> 02:00:38.848
+ce que tu demandes. En fonction de la niche et de ce que tu
+
+2297
+02:00:38.858 --> 02:00:41.968
+as besoin qu'il fasse et que potentiellement, il n'y a pas, tu peux très bien lui
+
+2298
+02:00:42.008 --> 02:00:45.728
+dire : « S'il n'y a pas tel type de photo, moi, je veux tel type de photo.
+
+2299
+02:00:45.798 --> 02:00:46.148
+» Tu
+
+2300
+02:00:47.608 --> 02:00:51.228
+décris un prompt pour dire : « Tu te mets les ordres, qui fera une génération.
+
+2301
+02:00:51.998 --> 02:00:53.408
+» Ça, j'ai fait des tests, ça a marché.
+
+2302
+02:00:54.888 --> 02:00:58.388
+Toujours, le principe, ça sera de décrire
+
+2303
+02:00:58.588 --> 02:01:00.048
+exactement ce que tu veux et ce que tu ne veux pas.
+
+2304
+02:01:01.148 --> 02:01:02.788
+Et après, il suit le process et si
+
+2305
+02:01:03.648 --> 02:01:06.268
+tu veux qu'il y ait tel type d'image dedans, que tel type...
+
+2306
+02:01:07.408 --> 02:01:10.778
+Pour l'exemple le plus simple, c'est quand c'étaient des trucs de dimensions dans
+
+2307
+02:01:10.808 --> 02:01:14.648
+la vidéo, ça devait traduire juste l'image en français.
+
+2308
+02:01:15.868 --> 02:01:19.818
+J'expliquais dans le truc qu'il regarde les images, quand
+
+2309
+02:01:19.908 --> 02:01:23.768
+c'est des dimensions et qu'il y a besoin que ça soit traduit en français, il prend
+
+2310
+02:01:23.808 --> 02:01:25.548
+cette image, il la traduit et puis il la rend face,
+
+2311
+02:01:26.408 --> 02:01:29.328
+par exemple. Mais ça peut être aussi pour de la génération type
+
+2312
+02:01:30.248 --> 02:01:33.958
+mise en situation. Je veux tel type de mise en situation, je veux
+
+2313
+02:01:34.048 --> 02:01:36.928
+un truc zoomé, je veux un truc porté.
+
+2314
+02:01:37.388 --> 02:01:39.668
+Tout ça, tu le décris et à chaque fois, il prendra
+
+2315
+02:01:40.468 --> 02:01:44.448
+ce que tu auras demandé en input, par exemple les images ou telle image ou
+
+2316
+02:01:44.588 --> 02:01:45.468
+machin, et il te
+
+2317
+02:01:47.208 --> 02:01:48.948
+les crée et te les balance sur le shop.
+
+2318
+02:01:49.668 --> 02:01:51.688
+Et tout ça, c'est dans le skill, le prompt,
+
+2319
+02:01:52.628 --> 02:01:53.668
+pour lui donner ses instructions
+
+2320
+02:01:55.947 --> 02:01:55.947
+?
+
+2321
+02:01:56.058 --> 02:01:56.148
+Oui
+
+2322
+02:02:01.224 --> 02:02:05.004
+Sur
+
+2323
+02:02:05.024 --> 02:02:08.564
+Aliexpress, souvent tu as plein de photos qui ne correspondent pas forcément aux
+
+2324
+02:02:08.584 --> 02:02:08.993
+variantes.
+
+2325
+02:02:10.524 --> 02:02:13.964
+Il y a quand même une vraie sélection à faire avant.
+
+2326
+02:02:14.884 --> 02:02:17.084
+C'est mieux, oui. Ça fait moins de tokens.
+
+2327
+02:02:18.504 --> 02:02:22.474
+Je pense qu'en lui expliquant tes variantes, il
+
+2328
+02:02:22.624 --> 02:02:24.524
+peut te sélectionner juste des photos.
+
+2329
+02:02:24.564 --> 02:02:24.784
+Oui.
+
+2330
+02:02:26.764 --> 02:02:27.404
+Il faut itérer
+
+2331
+02:02:28.964 --> 02:02:30.444
+beaucoup au début, mais après
+
+2332
+02:02:32.604 --> 02:02:34.044
+c'est bon. C'est à peu près ce que j'ai fait, ça marchait bien.
+
+2333
+02:02:34.304 --> 02:02:38.084
+L'idéal, ça demande plus de temps, mais c'est de les sélectionner en
+
+2334
+02:02:38.124 --> 02:02:38.364
+amont.
+
+2335
+02:02:39.664 --> 02:02:41.384
+Par exemple, si vous utilisez Dissert,
+
+2336
+02:02:42.404 --> 02:02:46.284
+vous allez dans « Modifier », puis « Images » et vous sélectionnez ce qu'il faut.
+
+2337
+02:02:48.724 --> 02:02:50.584
+Ça évite des allers-retours à la c*n,
+
+2338
+02:02:51.384 --> 02:02:52.124
+check d'images,
+
+2339
+02:02:53.144 --> 02:02:56.484
+ce qu'il faut supprimer, ce qu'il faut modifier, ce qu'il faut traduire.
+
+2340
+02:02:56.884 --> 02:03:00.684
+Il y aura plein de trucs qui seront bidons si vous mettez tout d'un coup pour rien.
+
+2341
+02:03:03.804 --> 02:03:07.184
+Mais ça se fait quand même. C'est juste que ça va bouffer plus de
+
+2342
+02:03:07.684 --> 02:03:08.004
+ressources.
+
+2343
+02:03:10.184 --> 02:03:14.044
+Mais il faut bien tout expliquer. Je ne veux pas ça, je ne
+
+2344
+02:03:14.084 --> 02:03:16.284
+veux pas ça, je veux ça. Pourquoi
+
+2345
+02:03:17.244 --> 02:03:17.823
+? etc.
+
+2346
+02:03:20.344 --> 02:03:23.894
+Est-ce que tu prends les images d'Aliexpress de base, ça prend la taille qu'elles
+
+2347
+02:03:23.924 --> 02:03:27.904
+sont en 800 par 800 et après tu les modifies, par exemple les
+
+2348
+02:03:27.944 --> 02:03:30.844
+textes chinois pour du français et c'est bon
+
+2349
+02:03:31.884 --> 02:03:34.104
+? C'est comme ça que tu as construit le truc ?
+
+2350
+02:03:34.144 --> 02:03:35.704
+Oui, dans la vidéo.
+
+2351
+02:03:36.644 --> 02:03:40.364
+Moi, je les prends sur 16:8, je les trouve de bien meilleure qualité les
+
+2352
+02:03:40.404 --> 02:03:40.704
+photos.
+
+2353
+02:03:42.464 --> 02:03:43.264
+Tu peux très bien,
+
+2354
+02:03:44.404 --> 02:03:45.244
+dans ton process,
+
+2355
+02:03:46.164 --> 02:03:48.874
+récupérer une ou plusieurs images que tu as,
+
+2356
+02:03:50.004 --> 02:03:52.324
+API 16:8 pour retrouver les produits.
+
+2357
+02:03:53.464 --> 02:03:54.584
+Tu vois ce que je veux dire ?
+
+2358
+02:03:54.624 --> 02:03:55.564
+Ça va être chaud de matcher.
+
+2359
+02:03:56.484 --> 02:03:57.924
+Je ne sais pas comment il pourrait faire le lien exact.
+
+2360
+02:03:58.844 --> 02:04:01.464
+Recherche par image 16:8 API, ça doit exister.
+
+2361
+02:04:03.604 --> 02:04:05.504
+Il peut prendre après, il peut choisir celle qui
+
+2362
+02:04:06.684 --> 02:04:07.444
+ressemble le plus ?
+
+2363
+02:04:09.024 --> 02:04:12.464
+Tu lui fais une recherche par image, il va te donner des résultats.
+
+2364
+02:04:12.493 --> 02:04:15.404
+Several images of several products.
+
+2365
+02:04:15.764 --> 02:04:19.164
+Tu demandes à Claude de les lire. Qu'est-ce qui est le même produit
+
+2366
+02:04:19.944 --> 02:04:21.694
+? Qu'est-ce qui est le plus proche ?
+
+2367
+02:04:22.844 --> 02:04:26.824
+À toi, encore une fois, après de déduire tout en étapes, mais il pourra aller
+
+2368
+02:04:26.884 --> 02:04:30.424
+te sélectionner les images du même produit sourcées
+
+2369
+02:04:30.444 --> 02:04:33.544
+automatiquement sur 16:8 et les ajouter à ton shop.
+
+2370
+02:04:36.244 --> 02:04:36.484
+Ok.
+
+2371
+02:04:36.724 --> 02:04:37.764
+En fait, il n'y a vraiment pas de limite.
+
+2372
+02:04:38.664 --> 02:04:40.824
+Je ne savais pas qu'il pouvait aller lire et puis aller choisir.
+
+2373
+02:04:40.844 --> 02:04:44.824
+À partir du moment où il
+
+2374
+02:04:44.844 --> 02:04:45.544
+peut lire l'image,
+
+2375
+02:04:47.704 --> 02:04:49.404
+il peut faire toutes les étapes qu'on a dites.
+
+2376
+02:04:56.074 --> 02:04:58.744
+Tout peut vraiment être automatisé
+
+2377
+02:04:59.764 --> 02:05:03.604
+de A à Z. On n'a pas spécialement envie que ça soit le cas, mais ça pourrait.
+
+2378
+02:05:06.304 --> 02:05:08.884
+Le seul truc qu'il n'y a pas, c'est
+
+2379
+02:05:10.084 --> 02:05:14.004
+un backup des produits importés. Imaginons que tu veux dupliquer la
+
+2380
+02:05:14.044 --> 02:05:15.484
+boutique dans une autre langue.
+
+2381
+02:05:16.184 --> 02:05:16.364
+Oui.
+
+2382
+02:05:16.784 --> 02:05:18.524
+Comment tu fais pour tout retaper ?
+
+2383
+02:05:18.544 --> 02:05:21.164
+Parce que tu n'as pas l'historique de tous les produits, tu dois tous les refaire,
+
+2384
+02:05:21.244 --> 02:05:21.424
+non ?
+
+2385
+02:05:25.544 --> 02:05:26.024
+Qu'est-ce qui
+
+2386
+02:05:27.584 --> 02:05:30.904
+serait problématique dans la traduction ?
+
+2387
+02:05:31.064 --> 02:05:32.044
+Tu n'as pas d'historique de
+
+2388
+02:05:33.804 --> 02:05:35.344
+toute ton intégration de produits.
+
+2389
+02:05:38.184 --> 02:05:41.333
+Pourquoi ? Parce que tu l'as sur le premier site, donc tu as l'historique quand
+
+2390
+02:05:41.364 --> 02:05:41.624
+même, non
+
+2391
+02:05:42.824 --> 02:05:42.824
+?
+
+2392
+02:05:43.524 --> 02:05:46.784
+L'idéal, ce serait de dupliquer la boutique, juste changer la langue et puis
+
+2393
+02:05:46.824 --> 02:05:50.744
+modifier les titles, les H1 et la description à la main
+
+2394
+02:05:50.804 --> 02:05:52.004
+et les images avec Claude.
+
+2395
+02:05:54.544 --> 02:05:54.744
+Oui.
+
+2396
+02:05:57.204 --> 02:05:59.244
+Je ne vois pas trop où ça pourrait bloquer de faire ça.
+
+2397
+02:06:00.344 --> 02:06:02.004
+C'est quoi que tu veux dire par historique
+
+2398
+02:06:02.844 --> 02:06:02.844
+?
+
+2399
+02:06:03.214 --> 02:06:07.124
+Moi, je fais tout dans Airtable. J'ai tout mon tableau.
+
+2400
+02:06:07.644 --> 02:06:09.684
+Imaginons, je fais 200 produits dans le Airtable.
+
+2401
+02:06:09.944 --> 02:06:13.844
+Si demain, je veux changer de marché, j'ai envie de dupliquer la boutique, j'ai
+
+2402
+02:06:13.884 --> 02:06:15.444
+juste à changer une case.
+
+2403
+02:06:17.803 --> 02:06:19.303
+Imaginons la colonne
+
+2404
+02:06:20.264 --> 02:06:22.624
+« Marché ciblé France », là, je passe à anglais.
+
+2405
+02:06:24.904 --> 02:06:28.584
+Avec cette case-là, comme moi, j'ai fait une
+
+2406
+02:06:28.624 --> 02:06:32.524
+automatisation N8N, ça vient changer la variable français par anglais et comme ça,
+
+2407
+02:06:33.344 --> 02:06:37.264
+dans mes prompts déjà préexistants, ça met « Écris la
+
+2408
+02:06:37.304 --> 02:06:38.454
+description en anglais ».
+
+2409
+02:06:42.964 --> 02:06:46.024
+Pourquoi c'est lié à l'historique du produit ?
+
+2410
+02:06:46.764 --> 02:06:50.584
+Parce que si tu dupliques ton site, tu auras deux sites français, on est d'accord
+
+2411
+02:06:53.004 --> 02:06:53.004
+?
+
+2412
+02:06:53.104 --> 02:06:53.604
+Comment ?
+
+2413
+02:06:53.684 --> 02:06:56.084
+Si tu dupliques ton site actuellement, tu auras deux sites français.
+
+2414
+02:06:56.684 --> 02:06:59.334
+Après, tu passes Claude dessus et tu fais toutes les modifications pour que ça soit
+
+2415
+02:06:59.344 --> 02:07:02.024
+adapté au second marché.
+
+2416
+02:07:04.364 --> 02:07:07.104
+Oui, ça passera par une modification.
+
+2417
+02:07:09.364 --> 02:07:11.824
+Dans tous les cas, ça doit passer par des modifications.
+
+2418
+02:07:12.704 --> 02:07:13.904
+Vu que de base, c'est un truc français.
+
+2419
+02:07:14.244 --> 02:07:16.944
+Même si tu refais ton flow N8N, tu le refais.
+
+2420
+02:07:17.144 --> 02:07:19.804
+Ce n'est même plus une modification, c'est une recréation.
+
+2421
+02:07:20.824 --> 02:07:22.124
+Il est en japonais ton site, non ?
+
+2422
+02:07:24.224 --> 02:07:25.084
+Peu importe le marché.
+
+2423
+02:07:27.884 --> 02:07:28.464
+C'était un exemple.
+
+2424
+02:07:30.584 --> 02:07:31.304
+Tu vois ce que je veux dire ?
+
+2425
+02:07:33.444 --> 02:07:34.864
+Soit tu lui refais tout modifier
+
+2426
+02:07:36.084 --> 02:07:39.384
+pour qu'il s'adapte au marché, soit tu relances ton truc
+
+2427
+02:07:39.464 --> 02:07:43.414
+N8N en modifiant tes cases dans Airtable, mais ça veut dire recréation de
+
+2428
+02:07:43.424 --> 02:07:43.684
+site.
+
+2429
+02:07:44.744 --> 02:07:48.224
+Moi, ma logique, c'est de créer tout de zéro, ce n'est pas de dupliquer, de
+
+2430
+02:07:48.284 --> 02:07:51.664
+modifier la data déjà existante. Mais oui, c'est une stratégie différente.
+
+2431
+02:07:51.784 --> 02:07:52.164
+Avec
+
+2432
+02:07:53.004 --> 02:07:56.224
+Claude, c'est sûr que c'est mieux pour la modification de faire comme ça.
+
+2433
+02:07:57.944 --> 02:08:01.784
+Les deux sont OK. C'est juste qui est le plus rapide, qui est le moins
+
+2434
+02:08:01.844 --> 02:08:05.582
+cher.Oui, c'est ça. Comme
+
+2435
+02:08:05.792 --> 02:08:09.742
+tu disais, Cloud Code, c'est
+
+2436
+02:08:09.772 --> 02:08:12.112
+l'abonnement à 100 balles qui est recommandé pour une boutique
+
+2437
+02:08:12.372 --> 02:08:13.812
+complète.
+
+2438
+02:08:16.672 --> 02:08:20.112
+Je pense que l'abonnement pro peut suffire si tu le fais en plusieurs fois.
+
+2439
+02:08:23.592 --> 02:08:27.582
+Ce que je vois sur mon abonnement, ça fait deux mois que je
+
+2440
+02:08:27.592 --> 02:08:29.692
+suis en max,
+
+2441
+02:08:30.532 --> 02:08:31.632
+je suis qu'à 25 %
+
+2442
+02:08:33.792 --> 02:08:34.352
+de quota.
+
+2443
+02:08:35.532 --> 02:08:36.472
+Limite, le pro me suffirait.
+
+2444
+02:08:38.252 --> 02:08:40.521
+Parce qu'on voit à chaque produit, tu fais une itération, c'est ça ?
+
+2445
+02:08:42.852 --> 02:08:43.152
+Oui.
+
+2446
+02:08:45.672 --> 02:08:49.612
+Après, si tu fais plein de shops filés, c'est
+
+2447
+02:08:49.652 --> 02:08:50.552
+sûr que ça va bouffer.
+
+2448
+02:08:52.472 --> 02:08:54.252
+Moi, je ne crée pas des shops à la pelle,
+
+2449
+02:08:55.812 --> 02:08:59.182
+j'en crée même pas d'ailleurs. Un entier, je ne sais même pas ce que ça donne, mais
+
+2450
+02:08:59.192 --> 02:09:03.122
+ça doit bouffer quand même. C'est 100
+
+2451
+02:09:03.152 --> 02:09:04.392
+produits, une itération.
+
+2452
+02:09:05.512 --> 02:09:08.092
+Oui, il y a tous tes tests avant, il y a le mettre en place.
+
+2453
+02:09:11.772 --> 02:09:12.972
+Tu prends Opus
+
+2454
+02:09:14.152 --> 02:09:18.092
+? En général au début, oui. Après, je passe sur
+
+2455
+02:09:18.112 --> 02:09:20.152
+Sonner quand c'est en place.
+
+2456
+02:09:21.952 --> 02:09:24.472
+Pour faire de la masse ? Oui.
+
+2457
+02:09:26.312 --> 02:09:28.312
+Tu as vu une différence au niveau qualité de
+
+2458
+02:09:29.692 --> 02:09:33.592
+rédaction entre Opus et Sonner ? Je n'ai pas testé.
+
+2459
+02:09:35.932 --> 02:09:36.892
+Non, je ne sais pas.
+
+2460
+02:09:47.592 --> 02:09:49.932
+De ce que j'ai compris, c'est surtout sur la strat,
+
+2461
+02:09:51.412 --> 02:09:53.092
+sur le plan, sur la stratégie.
+
+2462
+02:09:53.912 --> 02:09:57.872
+Après, peut-être sur la rédaction aussi, je ne sais
+
+2463
+02:09:57.912 --> 02:10:00.812
+pas. J'ai vu ça aussi, mais je n'ai pas l'info pour la rédaction.
+
+2464
+02:10:00.852 --> 02:10:03.692
+Mais c'est vrai que maintenant, j'utilise surtout Sonner, ça marche super bien.
+
+2465
+02:10:03.732 --> 02:10:07.272
+Même pour le code, je suis choqué. Oui, Sonner, très bien.
+
+2466
+02:10:08.072 --> 02:10:10.972
+Moi, j'utilise vraiment Opus quand je débute un truc et que je veux tout mettre en
+
+2467
+02:10:10.992 --> 02:10:11.232
+place.
+
+2468
+02:10:12.452 --> 02:10:13.732
+Je trouve qu'il réfléchit mieux quand même.
+
+2469
+02:10:14.772 --> 02:10:18.212
+Oui, pareil. Après, le problème, c'est que vu que j'ai utilisé ça aussi, je n'ai
+
+2470
+02:10:18.232 --> 02:10:21.932
+pas vraiment fait Sonner sur le début, donc c'est difficile de comparer, mais
+
+2471
+02:10:22.052 --> 02:10:24.672
+j'avais cru comprendre que c'était plus fait pour ça aussi.
+
+2472
+02:10:24.892 --> 02:10:28.352
+C'est pour ça que j'ai eu l'habitude d'Opus pour
+
+2473
+02:10:28.792 --> 02:10:31.872
+le début, pour tout mettre en place, pour la stratégie.
+
+2474
+02:10:37.932 --> 02:10:39.932
+J'utilise aussi Opus pour le plan.
+
+2475
+02:10:39.972 --> 02:10:42.992
+Mais après, pour la partie intégration produit, je me suis dit que le mieux, c'est
+
+2476
+02:10:43.332 --> 02:10:45.172
+peut-être Opus, histoire de maximiser.
+
+2477
+02:10:45.212 --> 02:10:48.892
+Mais c'est vrai que si tu fais 200 produits avec Opus, là, il faut un sacré
+
+2478
+02:10:48.932 --> 02:10:49.232
+abonnement.
+
+2479
+02:10:51.452 --> 02:10:52.002
+Oui, d'ailleurs,
+
+2480
+02:10:53.232 --> 02:10:55.892
+vu que je disais juste avant que je n'étais qu'à 25 %, je ne vois pas pourquoi je
+
+2481
+02:10:55.932 --> 02:10:57.692
+me limite faudrait que j'ai Opus partout.
+
+2482
+02:10:58.992 --> 02:11:01.192
+Oui. Autant utiliser le plan.
+
+2483
+02:11:01.872 --> 02:11:04.812
+Moi, j'utilise Opus partout désormais.
+
+2484
+02:11:04.822 --> 02:11:06.892
+Oui, p****n, il faut que je le fasse.
+
+2485
+02:11:06.952 --> 02:11:07.472
+Si j'étais
+
+2486
+02:11:08.732 --> 02:11:12.232
+quasiment au quota, je pourrais me dire, mais là, je suis à 25 %
+
+2487
+02:11:13.452 --> 02:11:15.462
+les semaines d'utilisation. Autant utiliser Opus.
+
+2488
+02:11:15.462 --> 02:11:19.092
+Pareil, je l'ai bombardé ces deux, trois derniers jours, mais vraiment
+
+2489
+02:11:19.972 --> 02:11:23.672
+beaucoup quand même. Et pareil, je ne suis même pas à 25
+
+2490
+02:11:23.952 --> 02:11:23.992
+%.
+
+2491
+02:11:26.112 --> 02:11:28.552
+Comme quoi, l'abonnement, il faut y aller.
+
+2492
+02:11:28.632 --> 02:11:31.052
+Il n'a même pas encore utilisé les 100 euros de crédit offerts.
+
+2493
+02:11:32.272 --> 02:11:34.452
+Oui, moi, je les garde parce que
+
+2494
+02:11:35.552 --> 02:11:38.612
+tu lui as laissé possibilité de les utiliser si tu étais
+
+2495
+02:11:41.312 --> 02:11:42.152
+à la fin du quota.
+
+2496
+02:11:42.572 --> 02:11:45.372
+Si j'étais à court, oui. Mais quand je n'y suis pas
+
+2497
+02:11:46.432 --> 02:11:48.912
+encore. Mais tu les as activés quand même ?
+
+2498
+02:11:48.932 --> 02:11:49.832
+Oui, je les ai activés, mais
+
+2499
+02:11:50.692 --> 02:11:54.382
+je trouve ça c*n. Déjà, ça peut
+
+2500
+02:11:54.432 --> 02:11:56.592
+arriver. Là, par exemple, j'y suis, il est en train de tourner.
+
+2501
+02:11:56.792 --> 02:12:00.672
+J'étais à 90 %, mais ça se reset dans 20
+
+2502
+02:12:00.712 --> 02:12:04.192
+minutes, je crois. Au pire, j'attends 20 minutes.
+
+2503
+02:12:05.772 --> 02:12:08.812
+Les crédits sont tellement chers que c'est c*n de les utiliser quand tu as
+
+2504
+02:12:08.822 --> 02:12:12.432
+l'abonnement. Quand tu auras un truc externe et que tu as besoin d'API
+
+2505
+02:12:12.492 --> 02:12:13.532
+obligatoire, là, tu
+
+2506
+02:12:14.332 --> 02:12:17.152
+seras bien content d'avoir 120 ou 100 balles de crédit.
+
+2507
+02:12:17.652 --> 02:12:18.952
+En cas d'utilisation de l'API,
+
+2508
+02:12:20.891 --> 02:12:24.792
+il y a possibilité qu'ils viennent chercher sur les 100 dollars
+
+2509
+02:12:24.812 --> 02:12:25.572
+offerts ?
+
+2510
+02:12:25.612 --> 02:12:25.992
+Oui.
+
+2511
+02:12:27.352 --> 02:12:28.292
+Moi, je pensais que c'était
+
+2512
+02:12:28.872 --> 02:12:32.472
+nativement que sur l'application.
+
+2513
+02:12:34.212 --> 02:12:36.892
+Non. Oui, attends.
+
+2514
+02:12:37.112 --> 02:12:38.272
+Ce n'est pas en API, il me semble.
+
+2515
+02:12:38.352 --> 02:12:39.162
+Oui, tu as peut-être raison. Oui, tu as
+
+2516
+02:12:41.112 --> 02:12:44.432
+raison, c'est ça. Oui, ce sont deux trucs différents.
+
+2517
+02:12:44.472 --> 02:12:47.332
+Tu as l'API dans leur truc API et tu as les crédits.
+
+2518
+02:12:48.192 --> 02:12:50.972
+Tu as raison, c'est du crédit. Donc, il faut les utiliser.
+
+2519
+02:12:51.772 --> 02:12:52.612
+Oui.
+
+2520
+02:12:53.472 --> 02:12:54.712
+Sinon, ils ne servent à rien.
+
+2521
+02:12:55.532 --> 02:12:55.892
+De quoi ?
+
+2522
+02:12:57.792 --> 02:12:58.432
+Les limites
+
+2523
+02:12:59.692 --> 02:13:02.992
+journalières sur quelques heures avec le forfait max, vous ne l'atteignez pas ?
+
+2524
+02:13:06.212 --> 02:13:08.452
+C'est rare.
+
+2525
+02:13:09.852 --> 02:13:11.852
+Parce que moi, j'ai le pro pour l'intégration.
+
+2526
+02:13:11.872 --> 02:13:13.832
+Après, je n'ai pas vraiment le même process que toi.
+
+2527
+02:13:14.052 --> 02:13:15.612
+J'ai un petit peu plus peut-être découpé
+
+2528
+02:13:16.432 --> 02:13:20.252
+les différentes choses, mais dès que j'intègre des produits, je
+
+2529
+02:13:20.262 --> 02:13:21.312
+l'atteins quand même assez vite.
+
+2530
+02:13:22.032 --> 02:13:23.112
+En pro, oui. Moi,
+
+2531
+02:13:24.552 --> 02:13:27.472
+je l'atteignais tout le temps. C'est pour ça que je suis passé en max et je pense
+
+2532
+02:13:27.492 --> 02:13:28.052
+que tu es aussi.
+
+2533
+02:13:30.292 --> 02:13:30.712
+Oui.
+
+2534
+02:13:32.672 --> 02:13:36.652
+Même sans intégration produit, j'étais tout le temps bloqué, je devais attendre
+
+2535
+02:13:36.892 --> 02:13:38.592
+30 minutes, une heure à chaque fois, trop chiant.
+
+2536
+02:13:39.052 --> 02:13:39.952
+Moi aussi, juste pour
+
+2537
+02:13:41.352 --> 02:13:45.122
+brainstormer ou travailler sur un
+
+2538
+02:13:45.152 --> 02:13:45.352
+plan,
+
+2539
+02:13:47.012 --> 02:13:48.432
+en 15 minutes, il était éclaté.
+
+2540
+02:13:49.472 --> 02:13:50.212
+15, 20 minutes.
+
+2541
+02:13:51.432 --> 02:13:55.352
+Alors là, c'est la seule fois où je vais dépasser, parce
+
+2542
+02:13:55.392 --> 02:13:58.732
+que là, je suis à 92 %. Il reste deux heures
+
+2543
+02:14:00.012 --> 02:14:02.172
+sur la session actuelle, pas sur la journée.
+
+2544
+02:14:03.092 --> 02:14:06.772
+Et sur la semaine, le
+
+2545
+02:14:06.812 --> 02:14:07.772
+deuxième, l'hebdo.
+
+2546
+02:14:08.652 --> 02:14:09.752
+Je suis déjà à 27
+
+2547
+02:14:10.972 --> 02:14:13.912
+et 32 en Sonner. Là, c'est la première fois que je suis aussi haut.
+
+2548
+02:14:15.552 --> 02:14:17.112
+Et il me reste 20 heures.
+
+2549
+02:14:18.252 --> 02:14:20.092
+C'est la première fois que j'aurais autant utilisé le truc.
+
+2550
+02:14:20.132 --> 02:14:22.612
+Mais p****n, là, il tourne violent derrière.
+
+2551
+02:14:23.852 --> 02:14:25.632
+Il te reste 20 heures sur quoi ?
+
+2552
+02:14:25.672 --> 02:14:26.212
+Sur le hebdo.
+
+2553
+02:14:26.952 --> 02:14:27.552
+Sur le hebdo
+
+2554
+02:14:29.652 --> 02:14:29.652
+?
+
+2555
+02:14:29.662 --> 02:14:29.662
+Oui.
+
+2556
+02:14:29.672 --> 02:14:33.592
+Moi, c'est samedi 17h, le hebdo. Ça va, j'ai de la marge encore.
+
+2557
+02:14:36.312 --> 02:14:37.692
+Allez, je vais couper, il est 20.
+
+2558
+02:14:38.372 --> 02:14:40.212
+Oui, moi aussi, il faut que j'aille faire cuire les légumes.
+
+2559
+02:14:41.772 --> 02:14:43.102
+Bon ap. Bonne journée à tous.
+
+2560
+02:14:43.102 --> 02:14:44.672
+Bon appétit aussi les gars. Bonne journée.
+
+2561
+02:14:45.812 --> 02:14:46.072
+À plus.
+
+2562
+02:14:46.082 --> 02:14:47.362
+Merci Théo, salut tout le monde. Salut.
+
+2563
+02:14:47.362 --> 02:14:48.232
+Salut l'équipe.
+
+2564
+02:14:48.652 --> 02:14:50.452
+Salut.

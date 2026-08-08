@@ -1,0 +1,224 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/05/2026
+—  1  —
+RAPPORT DE SESSION
+5 mai 2026 • Durée : 1h49 • Coach : Théo
+Participants : Aude, Charlotte, Emeric, Katia, Mika, Pierre, Samuel, Thibaud
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Aude — Nom de SAS vs nom commercial vs nom de domaine
+▶ 00:08 Hot seat Pierre — Workflow N8N quasi opérationnel pour l’import
+AliExpress
+▶ 00:15 Débat N8N vs Claude — déterministe contre probabiliste
+▶ 00:23 Thibaud — L’IA fait-elle vraiment gagner du temps et de l’argent ?
+▶ 00:30 Panorama IA images produit — Higgsfield, Nano Banana, Midjourney,
+Pixelyz
+▶ 00:36 Domiciliation d’entreprise — protection, prestige, coût
+▶ 00:55 Mannequins IA consistants — créer son book par mannequin
+▶ 01:10 Stratégie SEO blog — articles piliers, autorité, jus sémantique
+▶ 01:36 Hot seat Emeric — Première campagne Shopping lancée en live
+⚔ DÉTAIL DES HOTSEATS
+► Aude — Naming SAS & domiciliation
+La pression du comptable. Aude doit fournir rapidement le nom de la SAS pour que le comptable dépose les
+statuts. Le coach clarifie une confusion classique : nom de société ≠ nom commercial ≠ nom de domaine. Le
+nom de la SAS doit rester générique et neutre pour ne pas verrouiller la stratégie : si dans 6 mois Aude veut
+ouvrir un site de tables ou de chaussures, sa société ne doit pas s’appeler « Robes Univers ».
+Une SAS, plusieurs vitrines. Une seule entité juridique peut héberger plusieurs noms commerciaux et
+plusieurs noms de domaine. Les mentions légales mentionnent la SAS, la vitrine publique affiche le nom
+commercial. Théo conseille un nom qui fait « un peu commerce », dans le registre boutique physique. Outils
+mentionnés : l’IA pour brainstormer des pistes, et un générateur de noms de marque (lien partagé en session).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/05/2026
+—  2  —
+Domiciliation. Aude regarde un service parisien à environ 580€/an. Mika témoigne d’un tarif aux alentours de
+240€/an chez un autre prestataire. Avantages : CFE plus faible à Paris, image plus pro. Inconvénients : frais
+récurrents, retours produits compliqués si renvoyés au siège. Avis du coach : c’est changeable n’importe
+quand, donc non bloquant au lancement.
+Question sous-jacente. Aude veut protéger l’adresse perso car sa fille pourrait apparaître en modèle sur les
+réseaux. Réponse du coach : la domiciliation seule ne suffit pas, il faut une stratégie globale de masquage des
+infos (réseaux, mentions, retours). Sur la question des visuels mannequins (Aude trouve Midjourney décevant
+pour le e-commerce), Mika partage en privé son accès à Pixelyz, son app maison : pas de prompt à rédiger, on
+coche les options (cadrage, mannequin, fond, lumière) et l’app génère.
+« Tu n’es pas obligé de mettre le nom de domaine dans les statuts. Ça protège de rien et ça
+contraint tout. »
+— Théo
+► Pierre — Workflow N8N quasi opérationnel
+L’architecture. Pierre finalise un workflow qui scrape AliExpress, structure les données dans Airtable, et
+déclenche l’import sur WordPress via webhook. Tout le design du site est déjà fait — il ne reste que trois
+conditions à régler sur les attributs produits avant le go.
+Le flow images. Application Google Drive en local sur Mac → édition par bulk dans deux dossiers (image
+galerie / image bloc) → détection automatique par N8N → push des URL dans Airtable → un seul clic sur le
+bouton webhook envoie tout vers WordPress. Plus aucun aller-retour manuel sur Drive.
+Nouveauté utile. N8N a sorti son MCP officiel il y a quelques jours : Claude pilote désormais directement le
+serveur N8N en langage naturel, sans plus jamais copier-coller du JSON entre les deux interfaces.
+Débat N8N vs Claude. Mika et Emeric apportent une distinction utile : N8N est déterministe (mêmes entrées,
+mêmes sorties, structure stricte) ; Claude est probabiliste (même consigne, rendus parfois différents).
+Conséquence : N8N excelle sur les workflows stables et répétitifs (intégration produits), Claude excelle sur les
+workflows complexes où il faut s’adapter et se debugger tout seul (SAV, contenu, orchestration).
+« Sur des trucs ultra compliqués, c’est plus rapide sur N8N. Sur des workflows qui doivent
+s’adapter, Claude fait mieux — et il se debugge tout seul quand un nœud foire. »
+— Théo & Emeric
+► Emeric — Première campagne Shopping lancée en live
+Lancement effectif pendant la session. Emeric a activé sa première campagne Performance Max en direct.
+Paramétrage selon la formation : CPC max à 0,55€ (moyenne haute), exclusions négatives mobiles
+configurées, niche concurrentielle assumée comme test grandeur nature.
+Campagne branding mise de côté. Emeric a préparé la branding mais ne l’active pas, estimant que personne
+ne connaît encore le nom. Théo le reprend : dans les premiers visiteurs, il y a toujours quelqu’un qui retape le
+nom de marque sur Google quelques heures après. Un concurrent peut acheter ce mot-clé et capter le clic. La
+branding coûte presque rien et sécurise la position.
+Workflow réutilisable. Emeric a investi 4h pour bâtir un script qui récupère ses prix, va chercher les prix
+concurrents, calcule les coûts de livraison et permet d’ajuster. Activable à la demande pour les futures
+actualisations tarifaires et pour les prochains sites.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/05/2026
+—  3  —
+« Dans tes 10 premiers visiteurs, il y en a un qui va retaper ton nom de marque sur Google. Si tu as
+pas pris la branding, c’est un concurrent qui prend le clic. »
+— Théo
+► Thibaud — Le scepticisme face à l’IA
+La question frontale. Thibaud demande sans détour : « Vous gagnez vraiment de l’argent ou du temps avec
+l’IA, ou c’est de la branlette ? » Le débat ouvre la session sur les usages concrets.
+Les cas à ROI clair — SAV automatisé via Gmail MCP + templates de réponse (gain de temps direct ou
+économie si l’on délègue à un freelance) ; intégration produits sur un nouveau site (plusieurs heures
+économisées par site, workflow réutilisable) ; rédaction blog avec workflow dédié (analyse intention de
+recherche, SERP, maillage, env. 2€/article sur plateforme spécialisée). Cas additionnel : création de sites pour
+des artisans locaux — vrai gain d’argent.
+La nuance reconnue. Pour qui ne travaille que 2h par jour sur sa boutique (le cas de Thibaud), le ROI temps
+est limité. C’est ceux qui multiplient les sites, qui produisent du contenu en volume ou qui délèguent à des
+freelances qui amortissent le plus vite.
+« Si tu fais 20 mails de SAV par jour que tu payais un freelance, l’IA t’économise directement ce
+coût. Si tu en fais 2, le ROI temps est différent. »
+— Théo
+⚙ MÉTHODE DU COACH — STRATÉGIE SEO BLOG
+Développé en fin de session, ce framework mérite d’être consigné. Le coach pose le problème : la plupart des
+e-commerçants ne font que des guides d’achat et des comparatifs (les requêtes les plus rentables à court
+terme). C’est une stratégie incomplète qui plafonne le SEO.
+Les trois types d’articles à différencier — (1) Informationnels purs (« qu’est-ce qu’une émeraude », «
+comment laver une peluche ») : pas de CTA produit, vocation expertise. (2) Guides d’achat / comparatifs :
+transactionnels, CTA vers collection. (3) Articles piliers : hub central qui reçoit le jus des informationnels et le
+redistribue aux collections.
+La logique de jus sémantique — Les petits articles informationnels montent l’autorité du site sur la niche et
+envoient leur jus à un article pilier. Le pilier, chargé de toute cette autorité, dirige ensuite vers les collections.
+Résultat : les pages commerciales remontent globalement parce que Google a identifié le site comme expert.
+L’erreur classique à éviter — Mettre un CTA collection sur un article « comment laver sa peluche ». L’intention
+de l’utilisateur n’est pas commerciale, le clic est rare, et surtout le jus est dilué sur un produit aléatoire au lieu de
+remonter dans le pilier qui aurait pu booster toute une collection.
+Exemple cité — Okara (joaillerie). Articles dédiés à chaque pierre, chaque matière, sans lien produit. Résultat
+: Google identifie l’expertise, les collections « bagues émeraude » remontent grâce à ce maillage pyramidal.
+Adaptation par niche — Peluches : normes, matières, entretien. Perceuses : types de forêts, choix par usage.
+Gaming/hardware : actualités e-sport reliées à des collections. Chaque niche a son ratio
+informationnel/transactionnel optimal.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/05/2026
+—  4  —
+« Les petits articles servent à booster tout le reste. Ils ne sont pas faits pour vendre, ils sont faits
+pour donner du jus à ce qui vend. »
+— Théo
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Aude
+PRIORITAIRE
+⚡ Finaliser un nom de SAS générique (pas lié à la catégorie robes) — brainstormer via l’IA +
+générateur de noms.
+⚡ Arbitrer rapidement : domiciliation Paris (~580€/an) vs alternative économique (~240€/an) vs
+adresse perso.
+⚡ Tester Pixelyz (l’app de Mika) pour les visuels mannequins — accès privé déjà envoyé.
+SECONDAIRE
+○ Bien intégrer le découpage : nom de SAS / nom commercial / noms de domaine.
+○ Vérifier la CFE selon zone géographique avant l’arbitrage final domiciliation.
+○ Si la protection de la fille est prioritaire, prévoir une stratégie globale de masquage (pas que la
+domiciliation).
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Boucler les trois conditions sur les attributs produits et lancer l’import effectif sur WordPress.
+⚡ Tester le nouveau MCP officiel N8N avec Claude pour piloter le workflow en langage naturel.
+SECONDAIRE
+○ Explorer Higgsfield pour la consistance mannequins : créer un book par mannequin (face / profil / pied).
+○ Comparer Playwright MCP vs Chrome MCP — jusqu’à 80% de tokens en moins annoncés.
+○ Documenter le workflow pour le rendre dynamique et réutilisable sur les sites suivants.
+  ⚓  Emeric
+PRIORITAIRE
+⚡ Activer la campagne branding sans attendre — coût négligeable, protection contre les concurrents
+sur le nom de marque.
+⚡ Surveiller quotidiennement les mots-clés négatifs pendant 7-10 jours pour arbitrer la dépense.
+SECONDAIRE
+○ Documenter le workflow d’intégration pour le redéployer rapidement sur le second site.
+○ Comparer la dépense réelle au CPC cible (0,55€) pour ajuster si besoin.
+  ⚓  Thibaud
+PRIORITAIRE
+⚡ Identifier 2-3 tâches concrètes où l’IA débloquerait un vrai temps utile (intégration produits, blog,
+SAV) plutôt que tester en diffus.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  05/05/2026
+—  5  —
+⚡ Tester un workflow d’article blog complet (analyse intention + SERP + maillage) avant de juger de
+la qualité.
+SECONDAIRE
+○ Évaluer une plateforme spécialisée (~2€/article) si le ROI manuel reste insuffisant.
+○ Si la branding est faite : vérifier qu’un concurrent ne ranke pas sur le nom de marque.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Cartographier sur sa niche les trois types d’articles (informationnel pur / guide-comparatif / pilier)
+et leur articulation.
+SECONDAIRE
+○ Préférer le CLI au MCP quand l’option existe — consommation tokens 10-30x inférieure selon les
+benchmarks cités.
+○ Toujours décrire un maximum de contraintes positives ET négatives dans les prompts d’images IA (sujet,
+pose, cadrage, lumière, exclusions).
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+CPC max Shopping (Emeric)
+0,55 €
+Moyenne haute conseillée
+Article blog plateforme spécialisée
+~2 €
+Crédit unitaire
+Pack mensuel articles blog
+99 / 197 €
+Option packs crédits
+Plan mensuel articles
+23 / mois
+Abonnement 42€
+Playwright MCP vs Chrome MCP
+-80% tokens
+Selon benchmarks cités
+Taux réussite mannequins Higgsfield
+60-70%
+Retour terrain Emeric
+Facture API Google génération
+images
+11 €
+Mois de Théo — jugé cher, moins cher sur Pixelyz
+Domiciliation Mika
+~240 €/an
+Service alternatif
+Domiciliation Paris (devis Aude)
+~580 €/an
+Service avec adresse Paris
+Workflow vérification prix Emeric
+~4 h
+Temps investi réutilisable
+Routines Claude — intervalle min
+1 h
+Configurable par tâche
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,4 +1,4 @@
-# Contrat du corpus Drop Elite
+# Contrat du corpus de La Méthode Kraken
 
 ## Arborescence
 

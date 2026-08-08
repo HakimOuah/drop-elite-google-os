@@ -45,10 +45,18 @@ def validate_required(errors: list[str]) -> None:
         "SECURITY.md",
         "corpus/manifest.json",
         "corpus/CATALOGUE.md",
+        "corpus/derived/coach-source-index.md",
+        "docs/corpus-gap-audit.md",
         "vendor/skills.lock.json",
         "skills/creer-boutique-niche-google/SKILL.md",
+        "skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md",
+        "skills/creer-boutique-niche-google/references/store-states-gmc-growth.md",
+        "skills/creer-boutique-niche-google/templates/demand-map.md",
+        "skills/creer-boutique-niche-google/templates/gmc-growth-transition.md",
         "skills/integrer-videos-formation/SKILL.md",
         "skills/derouler-strategie-drop-elite/SKILL.md",
+        "skills/derouler-strategie-drop-elite/references/coach-routing.md",
+        "skills/derouler-strategie-drop-elite/scripts/resolve_repo.py",
     ]
     for relative in required:
         if not (ROOT / relative).is_file():
@@ -68,6 +76,94 @@ def validate_skills(errors: list[str]) -> None:
                 errors.append(f"frontmatter invalide: {skill_md.relative_to(ROOT)}")
             elif match.group(1) != skill_dir.name:
                 errors.append(f"nom skill {match.group(1)} != dossier {skill_dir.name}")
+
+
+def validate_catalogue_volume_mode(errors: list[str]) -> None:
+    checks = {
+        "skills/creer-boutique-niche-google/references/gate-1-customer-market.md": (
+            "30 000 recherches mensuelles",
+            "40 000 recherches mensuelles ou plus",
+            "1 000 recherches mensuelles ou plus",
+            "500 recherches mensuelles ou plus",
+            "± 200",
+            "200 produits distincts",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-2-economics-sourcing-offer.md": (
+            "aucun prix de vente minimum de 150 €",
+            "Le low ticket est autorisé",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-3-seo-architecture.md": (
+            "aucun volume minimum n'est imposé à une fiche produit",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-4-catalog-storefront.md": (
+            "200 produits distincts, publiables et réellement sourçables",
+        ),
+        "skills/creer-boutique-niche-google/templates/economics.md": (
+            "Articles par commande",
+            "Panier brut encaissé (AOV)",
+        ),
+        "skills/creer-boutique-niche-google/templates/demand-map.md": (
+            "30 000 minimum ; 40 000+ confort",
+            "1 000+",
+            "500+",
+            "200 minimum au lancement",
+        ),
+        "skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md": (
+            "SUSPENDU_PHASE_2",
+            "10 à 20 produits par sous-catégorie",
+            "égal à zéro",
+            "bonus de confiance",
+            "5–8 best-sellers",
+            "revue humaine",
+        ),
+    }
+    for relative, expected_phrases in checks.items():
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"règle catalogue-volume absente: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for phrase in expected_phrases:
+            if phrase not in text:
+                errors.append(f"règle catalogue-volume manquante dans {relative}: {phrase}")
+
+
+def validate_gmc_growth_states(errors: list[str]) -> None:
+    checks = {
+        "skills/creer-boutique-niche-google/SKILL.md": (
+            "GMC_READY",
+            "GROWTH_MARKETING",
+            "TRANSITION_GMC_TO_GROWTH",
+        ),
+        "skills/creer-boutique-niche-google/references/store-states-gmc-growth.md": (
+            "BUILD_GMC_READY",
+            "BUILD_GROWTH_MARKETING",
+            "Contrat d'invariants",
+            "même état doit être servi à Google et aux clients",
+        ),
+        "skills/creer-boutique-niche-google/references/gate-5-gmc-compliance-tracking.md": (
+            "Cycle `GMC_READY` → `GROWTH_MARKETING`",
+            "templates/gmc-growth-transition.md",
+        ),
+        "skills/creer-boutique-niche-google/templates/gmc-growth-transition.md": (
+            "Contrat d'invariants",
+            "Modules marketing",
+            "Procédure de rollback",
+        ),
+        "skills/derouler-strategie-drop-elite/references/coach-routing.md": (
+            "Routage des deux états de boutique",
+            "store-states-gmc-growth.md",
+        ),
+    }
+    for relative, expected_phrases in checks.items():
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"workflow GMC/Growth absent: {relative}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for phrase in expected_phrases:
+            if phrase not in text:
+                errors.append(f"workflow GMC/Growth incomplet dans {relative}: {phrase}")
 
 
 def validate_manifest(errors: list[str]) -> None:
@@ -101,6 +197,27 @@ def validate_manifest(errors: list[str]) -> None:
             for key in ("source", "derived"):
                 if not (ROOT / mapping[key]).is_file():
                     errors.append(f"source-map {key} absent: {mapping[key]}")
+
+
+def validate_coach_index(errors: list[str]) -> None:
+    manifest = load_json(ROOT / "corpus" / "manifest.json", errors)
+    index_path = ROOT / "corpus" / "derived" / "coach-source-index.md"
+    if not manifest or not index_path.is_file():
+        return
+    index = index_path.read_text(encoding="utf-8", errors="replace")
+    expected = {
+        record["source_id"]
+        for record in manifest.get("raw_files", [])
+        if record.get("kind") == "caption_vtt"
+    }
+    expected.update(entry["source_id"] for entry in manifest.get("canonical_sources", []))
+    for source_id in sorted(expected):
+        if f"`{source_id}`" not in index:
+            errors.append(f"transcription absente de l'index coach: {source_id}")
+
+    declared_count = len(expected)
+    if f"soit {declared_count} contenus parlés" not in index:
+        errors.append(f"compteur de l'index coach non aligné: attendu {declared_count}")
 
 
 def validate_vendor_lock(errors: list[str]) -> None:
@@ -191,7 +308,10 @@ def main() -> int:
     errors: list[str] = []
     validate_required(errors)
     validate_skills(errors)
+    validate_catalogue_volume_mode(errors)
+    validate_gmc_growth_states(errors)
     validate_manifest(errors)
+    validate_coach_index(errors)
     validate_vendor_lock(errors)
     validate_policies(errors)
     validate_security_and_size(errors)

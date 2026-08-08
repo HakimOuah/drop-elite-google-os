@@ -1,4 +1,4 @@
-# Corpus privé Drop Elite
+# Corpus privé de La Méthode Kraken
 
 Ce dossier contient un lot autorisé fourni par Hakim le 2026-08-08.
 

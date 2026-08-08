@@ -1,0 +1,254 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  10/03/2026
+—  1  —
+RAPPORT DE SESSION
+10 mars 2026 • Durée : 2h00 • Coach : Théo (session technique)
+Participants : David, Omar, Chiraz, Pierre, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat David — Niche mitigeurs : nom de domaine, architecture,
+fournisseurs, positionnement prix
+▶ 01:04 Hot seat Omar — Niche lithoérapie : analyse, risques, recommandation
+de chercher ailleurs
+▶ 01:22 Discussion — Analyse du site Temp Yogi (Enzo/Tristan), refonte en
+cours
+▶ 01:25 Hot seat Chiraz — Top 3 niches : ceinture, sac à main, papier peint.
+Validation ceinture.
+▶ 01:40 Retour Omar — Exploration sous-niche chevalières, risques taille/SAV
+▶ 01:47 Questions SEO — Mots-clés inversés (même SERP = ne pas cumuler),
+fiabilité Semrush, outil Aloscan
+⚔ DÉTAIL DES HOTSEATS
+► David — Niche mitigeurs : nom de domaine, archi & sourcing
+1. Nom de domaine — EMD vs marque : David hésite entre un EMD (mitigeur.com, espace-mitigeur.fr) et un
+nom de marque. Théo recommande un nom brandé pour plusieurs raisons : branding long terme, capacité
+d’élargir à la robinetterie générale, crédibilité client, packaging personnalisable. L’EMD offre un avantage SEO
+temporaire (6-12 mois) mais limite le positionnement futur.
+Analyse des domaines expirés : Plusieurs domaines expirés analysés (votre-mitigeur.com, espace-robinet,
+la-robinetterie.com). Résultat : backlinks de mauvaise qualité, AS très faibles, aucun boost SEO significatif
+attendu. Le coût (500-9 500€) n’est pas justifié.
+Option
+Verdict
+Commentaire
+EMD (mitigeur.fr)
+Déconseillé
+Avantage SEO temporaire. Bloquant si élargissement.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  10/03/2026
+—  2  —
+Option
+Verdict
+Commentaire
+Marque pure
+Recommandé I
+Branding, packaging, scalabilité.
+Semi-brandé (ex: Espace
+Mitigeur)
+Acceptable
+Compromis mot-clé + identité.
+Domaine expiré
+Non justifié
+Backlinks pourris, coût élevé.
+Concurrent identifié : le-mitigeur.com, créé le 2 mars en SEA. Site IA, pas d’arborescence SEO, mentions
+légales vides. Pas un concurrent sérieux à ce stade.
+« Si tu veux réussir vite, c’est pas le SEO qui va te faire réussir vite. C’est les ads. Donc peu
+importe ton nom de domaine. »
+— Théo
+2. Architecture validée : Menu en 3 onglets : Cuisine, Salle de bain (lavabo, douche, baignoire), Type
+(thermostatique, cascade, encastrable, mural, rétro). Les finitions/styles intégrés dans « Type » plutôt qu’un
+menu séparé. Lavabo rattaché à Salle de bain. Blog en 4ème onglet. Théo valide la structure.
+Point SEO : Pour l’instant, rester sur « mitigeur » comme spécialisation. L’élargissement à « robinet » se fera
+naturellement avec la montée en compétence. Éventuellement un deuxième site pour couvrir « robinet » si
+pertinent.
+« Là, c’est trois onglets, c’est très bien. Franchement, c’est pas mal. Ça rend bien. »
+— Théo
+3. Fournisseurs & positionnement prix : Viser le moyen de gamme (prix de vente 75-120€), possibilité
+d’ajouter du haut de gamme. Marge cible : 55-60%. Sur un produit vendu 100-120€, c’est une bonne marge.
+Pour le sourcing AliExpress : éviter les produits sans avis/commandes, privilégier les produits régulièrement
+vendus avec bonnes notes. Matériau : privilégier l’acier (plus qualitatif que le chromé bas de gamme).
+► Omar — Niche lithoérapie : analyse & verdict
+Exploration lithoérapie : Omar a réalisé un travail de recherche approfondi (Excel coloré avec filtres KD, CPC,
+RR, intention). Résultat : niche trop large (bracelets, bagues, pierres, bijoux), fortement informationnelle (60%
+selon Semrush), KD élevés, CPC hauts. Les mots-clés liés aux pierres (obsidienne noire, pierre de jade) sont
+classés commercial par Semrush mais la SERP révèle du contenu principalement informationnel.
+Critère
+Valeur
+Impact
+Volume global
+Élevé
+Mais majoritairement informationnel
+KD
+30+ sur clés
+principales
+Difficulté élevée
+CPC
+> 0,40€
+Au-dessus du seuil de confort
+RR
+Bas
+Marges difficiles en pub
+Intention
+60%
+informationnel
+Mal convertit en e-commerce
+Sites analysés : Univers Minéral (80k trafic, 60% informationnel), Temp Yogi / Chakra Shop (Enzo, en déclin
+de trafic). Constat : ces sites nécessitent énormément de produits, de blog, de budget ads et de netlinking. Pour
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  10/03/2026
+—  3  —
+un premier site, le risque d’échec est trop élevé.
+Verdict : Niche déconseillée pour un premier site. À garder de côté pour un 2ème ou 3ème site avec
+expérience. Omar doit trouver 2-3 autres niches plus accessibles pour la prochaine session.
+« Si tu veux augmenter tes chances, commence pas avec ça. C’est un gros truc. Il faut vraiment
+bien tout faire parce qu’il y a tellement de trucs entre l’informationnel et le commercial. »
+— Théo
+Retour Omar (2ème passage) — Sous-niche chevalières : Omar explore les chevalières homme comme
+sous-niche. Volume principal : 18k. Avantage : grosses marges. Inconvénients majeurs : problème de tailles
+(taux de retour potentiellement élevé), SAV lourd, peu de sous-collections identifiées. Théo demande une
+analyse plus poussée avant de se prononcer.
+► Chiraz — Top 3 niches : ceinture validée, sac déconseillé
+Stratégie présentée : Chiraz a arrêté son top 3 avec Stéphanie : ceinture (1er site, mars-juin, lancement ads
+au retour de vacances le 1er juillet), sac à main (2ème site, juillet-septembre), papier peint (3ème site, janvier
+2027). 3-4h de travail par jour.
+Niche
+Verdict
+Commentaire
+Ceinture
+Validée I
+Niche complète, cadeau Q4, pas trop concurrentielle. Prix à surveiller.
+Sac à main
+Déconseillé
+Trop de marques. Mika a abandonné après 1 an. Thibaud : résultats moyens.
+Papier peint
+Reporté à 2027
+Niche non saisonnière, intéressante pour diversifier.
+Retours d’expérience sac à main : Mika a lancé la niche, abandonné au bout d’un an. Thibaud est toujours
+dessus mais résultats moyens pour un investissement important. Clientèle principale : femmes 50-60 ans. Théo
+note que Chiraz, en tant que femme, pourrait avoir un avantage dans le choix des produits. Conseil : si elle veut
+tester, limiter à 100 produits + cap budget Google Ads. Le différenciateur clé : trouver des modèles originaux
+introuvables ailleurs (coup de cœur).
+Analyse site ceinture de référence : La Boutique de la Ceinture (Raphaël, membre Kraken) — top 1 sur «
+ceinture », trafic SEO de 64k, site ultra clean, photos professionnelles, collections très complètes (tailles,
+boucles, couleurs). Vend entre 30-50€. Stratégie : offres « 2ème -50% / 3ème offerte » pour augmenter le
+panier moyen. Pas de clause de non-concurrence dans la formation.
+« Le seul point négatif de ceintures, c’est les prix un peu bas. Mais s’il les vend à ce prix-là,
+j’imagine qu’il les vend. Donc pourquoi pas. »
+— Théo
+⚙ POINTS SEO & OUTILS ÉVOQUÉS
+Mots-clés inversés (même intention) : Quand deux mots-clés ont le même ordre inversé (ex: « bague
+chevalière homme » et « bague homme chevalière »), vérifier la SERP. Si même SERP = même requête. Ne
+PAS cumuler les volumes (sinon gonflement artificiel). Prendre le volume du mot-clé le plus logique pour
+l’arborescence.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  10/03/2026
+—  4  —
+Fiabilité Semrush : Les intentions (informationnel/commercial) sont parfois erronées. Les KD varient pour la
+même requête. Les CPC sont approximatifs — utiliser Google Keyword Planner pour des données plus fiables.
+Toujours vérifier en checkant la SERP directement.
+Outil recommandé : Aloscan — spécifique au marché français, calcul différent (all in title, score KGR). Version
+gratuite généreuse (100 recherches/jour). Bon complément à Semrush pour vérifier les données.
+« Évite de trier en excluant informationnel sur Semrush. Par exemple, « bague chevalière homme »,
+il dit informationnel alors qu’il y a que de l’e-commerce en page 1. »
+— Théo
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  David
+PRIORITAIRE
+⚡ Choisir le nom de domaine : trouver un nom brandé qui fait « marque de robinetterie ». Si rien ne
+convainc, partir sur Espace Mitigeur.
+⚡ Vérifier le sourcing complet : chaque catégorie de l’architecture doit être sourçable avant création.
+⚡ Envoyer l’architecture finalisée à Stéphanie pour validation croisée.
+SECONDAIRE
+○ Viser 55-60% de marge. Prix de vente moyen : 75-120€.
+○ Sourcing : éviter produits sans avis. Privilégier acier sur chromé.
+○ Ne pas acheter de domaine expiré — aucun ne présente un avantage significatif.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Abandonner la lithoérapie comme premier site. Garder le dossier pour un futur projet.
+⚡ Trouver 2-3 nouvelles niches plus accessibles (moins informationnelles, RR > 100, KD modérés).
+⚡ Présenter les niches en format léger à la prochaine session.
+SECONDAIRE
+○ Sous-niche chevalières : approfondir l’analyse (volumes, sous-collections, marges vs taux de retour
+tailles).
+○ Penser à des niches de la vie quotidienne auxquelles on ne pense pas spontanément.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Approfondir l’arborescence complète de la niche ceinture (mots-clés, collections).
+⚡ Envoyer l’arborescence à Théo et Stéphanie pour double validation.
+⚡ Objectif : site prêt avant le 19 juin, lancement ads au retour de vacances (1er juillet).
+SECONDAIRE
+○ Sac à main : ne pas lancer en deuxième. Chercher une alternative moins concurrentielle.
+○ Papier peint : garder pour janvier 2027 comme diversification.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  10/03/2026
+—  5  —
+○ Si sac à main quand même : max 100 produits, cap budget ads, modèles originaux uniquement.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Toujours checker la SERP manuellement avant de valider un mot-clé.
+⚡ Ne pas cumuler les volumes de mots-clés inversés ayant la même SERP.
+SECONDAIRE
+○ Tester Aloscan (gratuit, 100 recherches/jour) en complément de Semrush.
+○ Utiliser Google Keyword Planner pour des CPC plus fiables.
+○ Penser « niche » au quotidien : noter chaque objet, tester le mot-clé en 30 secondes.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Mitigeur (volume global)
+717 000
+Mot-clé principal niche David
+Robinet (volume global)
+1 700 000
+Élargissement futur potentiel
+Marge cible mitigeurs
+55-60%
+Sur produits vendus 100-120€
+CPC mitigeurs
+0,11-0,16€
+CPC faibles = RR favorables
+Domaine expiré (le-mitigeur.fr)
+9 500€
+Non justifié (backlinks pourris)
+Lithoérapie — trafic informationnel
+60%
+Red flag pour un premier site e-com
+Lithoérapie — KD
+> 30
+Difficulté élevée
+CPC litho (bijoux)
+> 0,40€
+Au-dessus du seuil de confort
+Chevalière homme (volume)
+18 000
+Volume limité, problème tailles
+La Boutique de la Ceinture (trafic)
+64 000
+Référence niche ceinture
+Prix moyen ceintures
+30-50€
+Prix bas = volume nécessaire
+CPC ceinture
+0,31€
+Un peu élevé mais viable
+Aloscan
+Gratuit
+100 recherches/jour, marché FR
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

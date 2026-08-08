@@ -1,0 +1,250 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/04/2026
+—  1  —
+RAPPORT DE SESSION
+23 avril 2026 • Durée : 1h08 • Coach : Stéphanie
+Participants : Charlotte, Aude, Chiraz, Omar, Gaël, Emeric
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Charlotte — Bilan boutique chaussons et bascule vers la deuxième
+boutique
+▶ 00:04 Rappel CGV — Le remboursement des frais de livraison sur retours
+▶ 00:06 Hot seat Chiraz — Architecture ceintures validée, filtres et boucles
+▶ 00:29 Méthode IA — Le pilotage des fiches produits, vraie révolution
+▶ 00:42 Hot seat Omar — Plantes artificielles : niche à élargir
+▶ 01:01 Marges — Multiples par tranche de prix : la règle structurelle
+⚔ DÉTAIL DES ÉCHANGES
+► Charlotte — Bascule vers la deuxième boutique
+Boutique chaussons : intégration des claquettes et crocs en cours côté femme, mais hommes et enfants pas
+encore traités. CA avril autour de 5-6 000 €. Le coach recommande de finir l’intégration homme avant de
+basculer entièrement le focus sur la deuxième boutique — éviter d’avoir deux focus simultanés.
+Alerte déclaration trompeuse : mail reçu lié à un produit avec « Kitty » dans le titre (probablement Hello Kitty).
+Produit retiré, pas de blocage. Bonne réactivité.
+Découverte tardive sur les CGV : les frais de livraison initiaux doivent être remboursés en cas de retour, sauf
+mention contraire explicite dans les CGV. Charlotte ne l’avait jamais fait depuis l’ouverture sans avoir eu de
+plainte client — le coach insiste sur la conformité stricte aux CGV rédigées.
+« Essaie de finir quand même avant de basculer complet ton focus sur la deuxième boutique. C’est
+compliqué d’avoir deux focus en même temps. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/04/2026
+—  2  —
+► Chiraz — Architecture ceintures validée
+Architecture en 3 axes : homme, femme, enfant. Sous chacun : couleur, tenue, matière, style. Validation
+globale du coach. Bretelles reportées sur consigne de Théo : enrichissement futur du site, particulièrement utile
+pour étoffer la collection enfant aujourd’hui plus pauvre.
+Collections vs. fausses collections : les rubriques type « tenue » (ceinture jean, costard, short) sont des
+fausses collections de menu — utiles pour la navigation client même avec peu de volume. Tout le reste passe
+en vraies collections.
+Filtres + collections : le coach tranche pour faire les deux plutôt qu’un choix exclusif. Les volumes de
+recherche sur certaines collections (ex. ceinture sans boucle = 2 900) sont trop importants pour s’en priver, et
+les filtres restent indispensables pour la navigation.
+Matière à retravailler : Chiraz n’avait que des mots-clés genrés. Vérification en direct — ceinture cuir non
+genrée fait 2 400 de volume. À réintégrer dans l’architecture.
+Filtres listés : genre, matière, couleur, style, et type de boucle (idée Théo : trou, clipse, crochet, ardillon,
+passant, nœud).
+Élément
+Statut
+Commentaire
+Sac à langer
+Petite mais faisable
+CPC 0,26€, vol. 62 900. Extensible.
+Ceinture cuir
+À ajouter
+Vol. 2 400 non genré. Oubli initial.
+Ceinture sans boucle
+Collection validée
+Vol. 2 900. Trop élevé pour filtre seul.
+Léopard
+Femme uniquement
+SERP 100 % femme.
+Argenté / Doré
+Mixte
+Hommes présents (costard, cowboy).
+Bretelles
+Phase 2
+Reporté — enrichira la collection enfant.
+Planning Chiraz : création Shopify + thème Full Stack ce week-end, choix code couleur et typo dimanche,
+retour coach sur WhatsApp lundi midi. Jeudi 30 avril : RDV pour créer métafields, blocs fiche produit et balises
+dynamiques. Vacances 7-17 mai : intégration produits avec IA (après avoir fait les 20 premiers à la main pour
+maîtriser la mécanique).
+« L’IA, soit tu la pilotes, soit elle te remplace. Donc vaut mieux être du bon côté. »
+— Coach Kraken
+► Omar — Plantes artificielles : niche à élargir
+Niche présentée : plantes et fleurs artificielles. Mots-clés principaux : sapin, plante artificielle, vase/cache-pot,
+olivier, cactus, bambou, ficus. Niche petite et techniquement saine — KD faible, CPC OK, ratio rentabilité OK.
+Problématiques structurelles identifiées :
+Élément
+Verdict
+Commentaire
+Sapin
+Trop saisonnier
+Volume élevé mais 1 mois/an seulement.
+Olivier
+Piège SEO
+Vol. 4 400 mais intention = vrai arbre.
+Vase / cache-pot
+Annexe
+Vol. 22 000 / 12 000 — pas le cœur de métier.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/04/2026
+—  3  —
+Élément
+Verdict
+Commentaire
+Fleur unitaire
+Concurrence prix
+Acteurs vendent à 2-3 €, dropshipping non viable.
+Bouquet artificiel
+Piste
+Vol. 720. À explorer pour mariage / déco.
+Doublons mots-clés
+À nettoyer
+Pluriel/singulier à regrouper, pas dupliquer.
+Consigne d’élargissement : trouver au moins 20 collections avec un volume cohérent, dont 10 au-dessus de 2
+000 de recherche mensuelle. Décomposer fleur artificielle par type (rose, tulipe, pivoine, hortensia), idem pour
+les arbres. Ajouter feuillages (eucalyptus). Vase et cache-pot comme univers complémentaires, pas comme
+cœur de site.
+Cadrage taille de niche : Omar a choisi une petite niche — mot-clé principal sous 20 000. C’est moins
+concurrentiel et plus facile à positionner, mais le plafond de chiffre d’affaires sera limité par la taille du marché.
+À accepter en connaissance de cause.
+« Tu vends de la coupe de cheveux, tu vas pas mettre en avant que des brosses. Le vase et le
+cache-pot, on les garde, mais c’est annexe. »
+— Coach Kraken
+⚙ MÉTHODE & RAPPELS DU COACH
+Pas de masterclass formelle ce soir (session écourtée), mais plusieurs principes structurants ont été partagés pendant
+les hotseats.
+Calcul des marges — multiples par tranche de prix :
+Prix d’achat
+Multiple cible
+Logique
+0 - 10 €
+x 4 à 6
+Petits prix, marge en valeur absolue trop faible sinon.
+10 - 40 €
+x 3
+Multiple standard à viser.
+40 - 70 €
+x 2,8
+Légère décroissance acceptable.
+70 € et +
+< 2,8
+Marge en pourcentage peut baisser, jamais en foréfaire.
+Décomposition d’un panier 1 000 € de CA (acquisition payante) : 300 € achat produit, 200 € TVA, 250 € pub
+(≈ 25 %). Reste 250 € pour charges fixes, prestataires, impôts. C’est ce qui justifie le multiple x3 plancher.
+Méthode intégration produits + collections : créer les collections d’abord (les étagères), puis poser les
+produits dessus. Avancer collection par collection en optimisant le texte au fur et à mesure : 10 produits par
+catégorie, puis on rédige le texte d’optimisation, puis on passe à la suivante. Le site avance visuellement, pas
+par lots invisibles.
+Identité visuelle avant intégration : définir code couleur, typo et ambiance générale du site avant de
+commencer les fiches produits. Sans ça, les visuels produits ne s’accordent pas avec le thème final — retour en
+arrière coûteux.
+« Si tu mets 10 produits par jour, en 25 jours ton site est terminé. C’est plus rapide que tu ne
+l’imagines. »
+— Coach Kraken
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/04/2026
+—  4  —
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Finir l’intégration chaussons hommes avant de basculer 100 % sur la deuxième boutique.
+⚡ Vérifier les CGV : conformité sur les frais de livraison remboursés lors de retours.
+SECONDAIRE
+○ Maintenir SAV et commandes sur la boutique chaussons.
+○ Partager l’avancement de la deuxième boutique au coach en privé sur WhatsApp.
+  ⚓  Chiraz
+PRIORITAIRE
+⚡ Créer Shopify + thème Full Stack ce week-end. Code couleur, typo, ambiance définis dimanche.
+⚡ Envoyer le tout sur WhatsApp dimanche. Retour coach attendu lundi midi.
+⚡ Créer toutes les collections (homme, femme, enfant, matière, couleur, style) avant jeudi 30/04.
+⚡ Ajouter matière cuir non genré dans l’architecture (vol. 2 400 oublié).
+SECONDAIRE
+○ Viser 20 produits intégrés à la main avant les vacances (7 mai).
+○ Pendant les vacances (7-17 mai) : intégration massive avec l’IA, optimisation collection par collection.
+○ Bretelles : reportées en phase 2 — enrichissement post-lancement.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Regrouper tous les doublons de mots-clés (singulier/pluriel) dans une seule case.
+⚡ Élargir la niche à minimum 20 collections, dont 10 au-dessus de 2 000 vol/mois.
+⚡ Décomposer fleur/arbre artificiels par type : rose, tulipe, pivoine, hortensia, eucalyptus...
+⚡ Recalculer prix de vente avec multiples corrects (x3 sur 10-40 €, x2,8 sur 40-70 €).
+SECONDAIRE
+○ Retirer « arbre olivier » de l’architecture (intention = vrai arbre, pas artificiel).
+○ Garder vase et cache-pot comme univers annexes, pas cœur de site.
+○ RDV avec Théo mardi pour avancer plus vite — envoyer le tableau sur WhatsApp entre-temps.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Charlotte — CA avril (chaussons)
+5-6 000 €
+Boutique en transition
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  23/04/2026
+—  5  —
+Indicateur
+Valeur
+Contexte
+Sapin artificiel (volume)
+≈ 18 000
+Saisonnier, 1 mois/an
+Plante artificielle (volume)
+12 000
+Mot-clé générique
+Vase artificiel (volume)
+22 000
+Univers annexe
+Cache-pot (volume)
+12 000
+Univers annexe
+Olivier (volume)
+4 400
+Piège : intention = vrai arbre
+Bouquet fleurs artificielles
+720
+Piste mariage / déco
+Ceinture cuir non genré
+2 400
+Oubli initial Chiraz
+Ceinture sans boucle
+2 900
+Justifie collection dédiée
+Multiple marge 0-10 €
+x 4 à 6
+Compense petites marges absolues
+Multiple marge 10-40 €
+x 3
+Standard de la méthode
+Multiple marge 40-70 €
+x 2,8
+Décroissance progressive
+Pub sur 1 000 € de CA
+≈ 250 €
+25 % de budget acquisition
+Cible Chiraz fiches produits
+10 / jour
+Site terminé en 25 jours
+Collections cible Omar
+20 minimum
+Dont 10 > 2 000 vol/mois
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

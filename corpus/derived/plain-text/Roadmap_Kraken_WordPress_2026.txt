@@ -1,0 +1,74 @@
+LA MÉTHODE KRAKEN
+To-do list  •  Roadmap WordPress
+—  1  —
+ROADMAP GLOBALE WORDPRESS
+To-do list complète • De la recherche de niche au lancement du site
+À télécharger en début de formation — coche chaque étape au fur et à mesure de ta progression
+Ce parcours suit l’ordre logique de construction d’une boutique Kraken sous WordPress / WooCommerce :
+valider une niche rentable, choisir le socle technique et le design, bâtir les pages et le catalogue, lancer
+l’acquisition Google Ads, installer les fondations SEO, puis optimiser jusqu’au lancement.
+  ⚓  PHASE 1 — Recherche & validation de niche
+☐ Regarder toutes les vidéos
+☐ Trouver absolument 3 idées de niche
+☐ Faire les RR (Ratio Rentabilité > 100) pour chaque niche
+☐ Faire le mindmap ou le Google Sheet
+☐ Prendre un rendez-vous Hot Seats
+  ⚓  PHASE 2 — Choix techniques & design
+☐ Choisir son thème
+☐ Définir sa charte graphique
+☐ Réalisation de la maquette
+☐ Intégration de la maquette
+☐ Installation des extensions
+☐ Réglages de WordPress
+☐ Personnalisation du thème
+  ⚓  PHASE 3 — Construction des pages & structure
+☐ Création du Header
+☐ Création du Footer
+☐ Création du menu principal
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+To-do list  •  Roadmap WordPress
+—  2  —
+☐ Création des catégories produits
+☐ Création des Métaboxes
+☐ Intégration de la page d’accueil
+☐ Intégration fiche produits
+☐ Création du check out
+  ⚓  PHASE 4 — Catalogue & sourcing produits
+☐ Lister les mots clés des produits
+☐ Sourcer les produits
+☐ Faire soi-même les 50 premiers produits (absolument)
+☐ Intégrer au minimum 200 produits
+  ⚓  PHASE 5 — Acquisition Google Ads
+☐ Configuration du Merchant Center
+☐ Configurer son flux produit
+☐ Créer son compte Google Ads
+☐ Création de la Campagne Google Ads — Shopping
+☐ Création de la Campagne Google Ads — Branding
+  ⚓  PHASE 6 — SEO & contenu
+☐ Installation du plugin SEO
+☐ Vérifier sa structure SEO (Hn)
+☐ Mettre en place Google Search Console
+☐ Préparer une stratégie de contenu
+☐ Programmer ses premiers articles de blog
+☐ Lancer une campagne de netlinking
+  ⚓  PHASE 7 — Optimisation & scaling
+☐ Calcul du ROAS BE
+☐ Optimisation des produits
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+To-do list  •  Roadmap WordPress
+—  3  —
+☐ Optimisation de la Campagne Google Ads — Shopping
+☐ Optimisation du site internet
+☐ Mise en place d’une séquence email de base
+⚓ SITE KRAKEN LANCÉ !
+Toutes les cases sont cochées : ta boutique est en ligne. Bravo — le travail régulier vient de
+payer.
+La Méthode Kraken 2026

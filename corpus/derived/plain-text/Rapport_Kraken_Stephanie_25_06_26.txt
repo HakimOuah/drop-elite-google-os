@@ -1,0 +1,312 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  1  —
+RAPPORT DE SESSION
+25 juin 2026 • Durée : 1h27 • Coach : Stéphanie
+Participants : Elodie, Charlotte, Aude, Nicolas, Manuel, Thibaud, Pierre, Samuel
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Revue du site d’Elodie — fiches produits, bullet points, doublons de
+bouton panier
+▶ 00:11 Sourcing sur 1688 — la plateforme des fournisseurs chinois (vs
+AliExpress)
+▶ 00:23 Charlotte — nouvelle taxe à l’import : les stratégies de riposte
+▶ 00:33 Aude — envolée des prix fournisseurs et organisation du process
+▶ 00:43 Nicolas — afficher ou non les délais de livraison sur la fiche produit
+▶ 00:45 Manuel — récupérer les avis (Discord) et gérer un produit au contenu
+sensible
+▶ 00:55 Thibaud — l’agent Hermes : un site complet généré en une semaine
+▶ 01:08 Pierre — système d’intégration AliExpress + 1688 et tri d’images
+⚔ TOUR DE TABLE — REVUE INDIVIDUELLE
+Pas de hotseat ni de masterclass ce soir : la session a pris la forme d’un grand tour de table, chaque membre faisant
+le point sur son avancement.
+► Elodie — Revue du site et fiches produits
+Elodie a intégré plus de 200 produits via Claude (hors images). La revue à chaud relève plusieurs ajustements :
+les bullet points sont saisis en texte simple et devraient passer en métachamp liste pour s’afficher les uns sous
+les autres — mais pas maintenant, pour ne pas repasser sur les 200 fiches.
+Autre point : un bouton d’ajout au panier en doublon sous la photo, à supprimer (il reste déjà plusieurs boutons
+plus le sticky add-to-cart mobile). Un espace résiduel hérité des fiches AliExpress traîne dans certaines
+descriptions. Enfin, les produits liés en bas de page gagneraient à être adaptés à la collection et à l’intention
+d’achat (proposer des foulards bleus sous un foulard bleu), via l’IA — un chantier UX pour la phase
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  2  —
+post-production.
+« Enlève le bouton d’ajout au panier sous la photo, sinon ça fait un décalage et ça enlève un peu de
+fluidité. »
+— Stéphanie
+► Charlotte — Outlet, soldes et nouvelle taxe
+Charlotte a monté une page outlet avec des promos plus agressives pour écouler son stock de chaussons (~80
+paires) pendant les soldes. Le nouveau site a essuyé une déclaration trompeuse juste avant le lancement des
+pubs, corrigée et validée dans la journée ; les pubs ont à peine dépensé (canicule + dernier week-end de juillet
+peu propice au shopping).
+Sa niche a un panier moyen de 35 €, donc très exposée à la nouvelle taxe. Piste retenue : +1 € sur la livraison,
++1 € sur le prix, 1 € absorbé sur la marge, et passage de la livraison classique à 4,90 €. Les chaussettes hors
+packs seront retirées ; seuls les packs cachemire/mérinos (30 €) sont conservés.
+« On ne peut pas faire une généralité sur comment réagir à ça : ça dépend des produits que vous
+vendez et de votre marge. »
+— Stéphanie
+► Aude — Goulots d’étranglement et organisation
+Aude n’a intégré que deux ou trois produits en quinze jours : trop d’étapes et de manipulations (Photoroom en
+double travail, recadrages à reprendre sous Claude, alt texts générés en aller-retour avec ChatGPT, gestion
+manuelle de dossiers photos avant/après). Elle ajoute que les prix fournisseurs se sont envolés (parfois près de
+10 € de plus), même avant la taxe.
+Le besoin est clairement organisationnel plus que technique. Le coach propose un rendez-vous WhatsApp privé
+pour dérouler le process de A à Z et identifier les pertes de temps. Bonne nouvelle au passage : sa fille, admise
+en alternance, rejoindra le projet.
+« On se cale un rendez-vous et on fait le process de A à Z ensemble, point par point, pour voir où tu
+peux gagner du temps. »
+— Stéphanie
+► Nicolas — Délais de livraison et GMC
+Nicolas s’interroge sur l’affichage des délais de livraison sur la fiche produit : deux écoles s’opposent. Stéphanie
+et Enzo ne les affichent pas ; Théo recommande de le faire. Il attend l’avis du contact d’Enzo, notamment pour
+tenter de débloquer son GMC. Le coach évoque d’éventuelles solutions alternatives si ce déblocage échoue.
+► Manuel — Avis Discord et produit sensible
+Semaine chargée (enfants + chaleur), peu d’avancement sur les fiches. Manuel a en revanche découvert un
+Discord d’où il récupère des avis utilisateurs pour affiner les descriptions de ses 5 à 7 produits, plutôt que de
+tester à l’aveugle. Le reste du site est OK (checkout) ; il lui reste à refaire les variations et à traiter quelques
+bugs résiduels.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  3  —
+Sa difficulté principale : les visuels d’un produit au contenu sensible, qui interdit le lifestyle explicite. Le coach
+conseille de suggérer le contexte sans être explicite — gros plans de peau ou de grain de peau récupérés sur
+Pexels, Pixabay ou Canva, jamais de visage ni de personne reconnaissable.
+« Des morceaux de peau, du grain de peau, des petites choses pas identifiables : de quoi
+conceptualiser le produit sans que ce soit explicite et sans utiliser de vraies personnes. »
+— Stéphanie
+► Thibaud — L’agent Hermes
+Le gros moment de la session. Thibaud pilote un agent, Hermes (concurrent d’OpenClaw), gratuit, branché sur
+ChatGPT et commandé en langage naturel via Telegram. Un agent coordinateur principal crée au besoin des
+sous-agents (SEO, images…) et gère quasiment tout le site en autonomie.
+Concrètement : intégration des produits, génération d’images (via Higgsfield : génération, conversion PNG vers
+JPEG, compression, upload titré), métachamps, textes SEO de collection, modèles de pages, articles de blog et
+mails marketing (brouillons hebdo sur Klaviyo). L’agent crée ses propres dashboards et croise Google Ads,
+Analytics et Merchant Center pour produire un rapport chaque lundi avec recommandations. Résultat : un site
+quasi complet en une semaine.
+Côté chiffres, Thibaud a fait 33 000 € de CA le mois dernier sur ses deux boutiques (record), mais ce mois-ci la
+marge nette est à l’équilibre (~17-18 000 € de CA) : un media buyer a mené des tests non concluants sur la
+première quinzaine de juin. Il a depuis repris ses comptes et campagnes en main.
+« Tibo n’avait pas ce niveau l’an dernier quand il a commencé. Ça se travaille : il a eu le déclic et il a
+compris le gagne. »
+— Stéphanie
+► Pierre — Système d’intégration et tri d’images
+Pierre en est à ~120 produits (20 finalisés, 100 restants). Il scrape AliExpress et 1688 pour de meilleures photos
+et plus de data, fusionnées par l’IA dans un tableau poussé vers Shopify. Il a aussi construit avec l’IA une
+mini-app de tri d’images (trois colonnes galerie / variation / bloc, plus un mini-Photoshop pour recadrer),
+nécessaire car il compte ~15 images par produit (nombreux blocs features).
+Il passe par Higgsfield et upscale avec Nano Banana 2. Sa limite rejoint celle de tous : pour générer le produit
+sous différents angles, il faut une image de référence conforme, sinon l’IA invente (oubli d’une poche, d’une
+ouverture). Très intéressé par Hermes, il dispose déjà d’un VPS.
+« Il faut le produit sous différents angles, mais il ne faut pas que l’IA invente : ça doit être vraiment
+conforme au produit. »
+— Pierre
+⚙ PRINCIPES TRANSVERSAUX
+En l’absence de masterclass, plusieurs enseignements de fond ont traversé le tour de table.
+► La nouvelle taxe à l’import
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  4  —
+Un forfait d’environ 3 € par colis, potentiellement 3 € + 2 € par catégorie de produits supplémentaire si la règle
+est appliquée à la lettre. L’impact est lourd sur les petits paniers, et il n’existe pas de réponse universelle.
+Quatre stratégies observées chez les clients du coach :
+Stratégie
+Levier
+Détail
+Absorption partielle
++1 € / +1 €
++1 € sur la livraison, +1 € sur le prix, 1 € pris sur la marge.
+Vente à perte initiale
+Timing
+Première vente à perte pour garder l’avantage shopping, prix ajusté une fois la
+commande passée.
+Hausse forfaitaire
++3 €
+Tout le catalogue relevé uniformément, sans se prendre la tête.
+Stock + bateau
+Trésorerie
+Gros stock par bateau, stocké en entrepôt UE (CJ, Obordesk, HAO), réexpédié
+en local : plus de taxe à l’unité.
+Deux points de vigilance : un bundle réunissant deux catégories de produits dans un même colis peut
+déclencher une taxe supplémentaire ; et la livraison groupée (via des agents type Sam Trinity, qui consolident
+les commandes en un gros colis avec halte entrepôt pour redispatch) n’a pas encore été testée par le coach.
+► Le sourcing sur 1688
+1688 donne accès directement aux fournisseurs chinois, là où AliExpress n’est qu’une marketplace de
+revendeurs. La plateforme est désormais connectable (notification CJ). Intérêts : de meilleures photos, le prix
+d’achat réel, le stock restant, des variations absentes d’AliExpress et le sourcing des nouveautés à la source.
+Connexion par SMS (code reçu sur le téléphone) ou scan du QR code ; le captcha se passe en s’aidant de
+Google Lens pour la traduction en temps réel, sans cliquer trop vite car il se rafraîchit à chaque clic.
+« Se connecter sur 1688, c’est quand même la base du dropshipper. »
+— Stéphanie
+► Photos produit : le piège de la sur-retouche
+Les agents (Obordesk, HAO) sourcent par recherche d’image inversée sur 1688. Si toutes les photos sont
+retouchées et mises en scène, l’agent ne retrouve plus le produit et risque d’expédier des approximations. La
+consigne : conserver au moins une photo de variation en aplat, facilement identifiable.
+« Pensez à laisser une photo de variation sur un aplat, facilement identifiable, pour pas que vous
+galériez à expédier. »
+— Stéphanie
+► Automatisation par agent IA
+Un agent coordinateur (Hermes, OpenClaw) piloté en langage naturel orchestre des sous-agents et peut
+prendre en charge l’intégration produits, la génération d’images, les métachamps, le SEO, le blog, les mails
+marketing, jusqu’à un rapport hebdo croisant les données Google. La limite reste la génération d’images
+multi-angles, qui exige une image de référence conforme. C’est un nouvel outil à apprivoiser, mais la montée en
+compétence se fait au fil de l’usage.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  5  —
+« Plus tu lui parles et plus tu lui donnes de tâches, plus il te connaît. »
+— Thibaud
+► Media buyer, tests et calendrier Q4
+Des tests publicitaires mal cadrés peuvent ruiner une marge mensuelle (cas Thibaud). À l’approche du Q4, on
+arrête les expérimentations : un media buyer prend surtout son sens pour cette période, le reste de l’année le
+pilotage se résumant largement à ajuster ROAS et budget. Le rétroplanning visé : intégrer 100 à 200 produits en
+juillet, lancer les ads fin août, un mois de rodage, être prêt fin septembre. Octobre monte en puissance, le pic
+arrive la semaine avant le Black Friday, puis Black Friday jusqu’à Noël.
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Elodie
+PRIORITAIRE
+⚡ Passer les bullet points en métachamp liste (et non texte) pour l’affichage les uns sous les autres
+— à planifier hors des 200 fiches déjà intégrées.
+⚡ Supprimer le bouton d’ajout au panier en doublon sous la photo.
+⚡ Nettoyer l’espace résiduel hérité des fiches AliExpress dans les descriptions.
+SECONDAIRE
+○ Configurer via l’IA des produits liés cohérents avec la collection et l’intention d’achat.
+○ Garder ces ajustements UX pour la phase post-production, sans bloquer l’avancement.
+  ⚓  Charlotte
+PRIORITAIRE
+⚡ Arbitrer la répercussion de la taxe : +1 € livraison, +1 € prix, 1 € absorbé sur la marge ; livraison
+classique à 4,90 €.
+⚡ Finaliser la page outlet et écouler le stock de chaussons (~80 paires) pendant les soldes.
+SECONDAIRE
+○ Construire des bundles en gardant en tête le risque de double catégorie taxée.
+○ Retirer les chaussettes hors packs, conserver les packs cachemire/mérinos (30 €).
+○ Surveiller les retours sur la livraison groupée (Sam Trinity) avant de s’engager.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Envoyer ses disponibilités au coach sur WhatsApp pour caler le rendez-vous process de A à Z.
+⚡ D’ici là, lister chaque étape de son flux photo pour repérer les doublons (Photoroom, alt texts,
+dossiers avant/après).
+SECONDAIRE
+○ Préparer l’arrivée de sa fille en alternance sur le projet.
+○ Viser un vrai volume d’intégration en juillet pour être prête au Q4.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  6  —
+  ⚓  Nicolas
+PRIORITAIRE
+⚡ Solliciter le contact d’Enzo pour le déblocage du GMC.
+⚡ Tester l’affichage des délais de livraison selon sa recommandation avant de trancher.
+SECONDAIRE
+○ Revenir vers le coach si le déblocage échoue (solutions alternatives évoquées).
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Exploiter les avis du Discord pour réécrire les descriptions de ses 5 à 7 produits.
+⚡ Refaire les variations en mémoire et reprendre les bugs résiduels.
+SECONDAIRE
+○ Composer les visuels du produit sensible avec des gros plans de peau/texture (Pexels, Pixabay, Canva),
+sans visage ni personne reconnaissable.
+○ Finaliser la page À propos et le branding.
+○ Pour le Q4 : viser 200 produits intégrés en juillet, ads fin août.
+  ⚓  Thibaud
+PRIORITAIRE
+⚡ Stabiliser ses campagnes après l’arrêt du media buyer et restaurer la marge nette.
+SECONDAIRE
+○ Documenter sa config Hermes pour les membres intéressés (Pierre, Aude).
+○ Poursuivre la création du nouveau site en visant la fin de semaine.
+  ⚓  Pierre
+PRIORITAIRE
+⚡ Terminer le tri d’images et l’intégration des ~100 produits restants.
+SECONDAIRE
+○ Installer Hermes sur son VPS et tester l’orchestration (intégration, mails, détection des liens 404).
+○ Comparer les sorties Higgsfield / Nano Banana 2 sur la conformité multi-angles.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Anticiper la nouvelle taxe à l’import : choisir une stratégie de répercussion adaptée à sa marge et à
+son panier moyen.
+SECONDAIRE
+○ Créer un compte 1688 et explorer le sourcing direct (photos, prix, stock, variations).
+○ Conserver pour chaque produit au moins une photo de variation en aplat, identifiable par un agent.
+○ Caler le rétroplanning Q4 : gros de l’intégration en juillet, ads fin août.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  25/06/2026
+—  7  —
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Taxe à l’import
+3 €
++ 2 €/catégorie suppl. selon application
+Charlotte — panier moyen
+35 €
+Niche chaussons
+Livraison classique
+4,90 €
+Relevée depuis 3,90 € (répercussion taxe)
+Livraison confort
+5,90 €
+Option déjà en place
+Stock chaussons — Charlotte
+~80 paires
+À écouler en outlet / soldes
+CA mois dernier — Thibaud
+33 000 €
+2 boutiques, record de vente
+CA ce mois-ci — Thibaud
+17-18 000 €
+Marge nette à l’équilibre
+Création d’un site — Hermes
+~1 semaine
+Depuis la réception des produits
+Hébergement Hermes
+5-10 €/mois
+Agent gratuit, serveur seul à payer
+Abonnement ChatGPT
+20 €/mois
+Branché sur l’agent
+Produits intégrés — Pierre
+~120
+20 finalisés, 100 restants
+Images par produit — Pierre
+~15
+Nombreux blocs features
+Produits intégrés — Elodie
+200+
+Via Claude, hors images
+Carré de soie
+65 × 65 cm
+Mot-clé : foulard satin
+Transport par bateau
+60 j annoncés
+Compter 120 j par sécurité
+Intégration cible Q4
+100-200
+À réaliser en juillet
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

@@ -1,0 +1,274 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  1  —
+RAPPORT DE SESSION
+31 mars 2026 • Durée : 2h11 • Coach : Théo
+Participants : Sylvain, Valentin, Thomas, Yohan, Aude, Mika
+☠ TEMPS FORTS DE LA SESSION
+Les moments clés à ne pas manquer dans le replay :
+▶ 00:00 Hot seat Sylvain & Valentin — Arborescence luminaires validée, passage
+Shopify Fullstack
+▶ 00:09 Conseil produits — Tester 5-10 produits à la main avant intégration
+massive (filtres, attributs)
+▶ 00:10 Hot seat Thomas — Recherche niche jardin/serres, premiers pas sur
+Ahrefs
+▶ 00:23 Règle des 50K — Volume cumulé minimum sur les 10 premières collections
+▶ 00:33 Démo SEMrush — Analyser les mots-clés des leaders (Leroy Merlin) pour
+trouver des niches
+▶ 01:07 Hot seat Aude — Blocage recherche niche, problèmes marge et CPC
+récurrents
+▶ 01:21 Démo live Amazon — Trouver des niches page par page (mitigeur, pyjama,
+robinet)
+▶ 02:03 Question Thomas : montres de marque — Rejeté : problème d’autorité
+face aux enseignes
+⚔ DÉTAIL DES HOTSEATS
+► Sylvain & Valentin — Niche luminaires / suspensions
+Arborescence validée. Sylvain a présenté l’arborescence complète de la niche luminaires (suspensions),
+structurée en silos : matériaux (rotin, bois, verre, papier, bambou), pièces (cuisine, salon, chambre, salle à
+manger, hall), styles (moderne, design, industriel, bohème, japandi, vintage), types de suspension (simple,
+multiple, LED, lustre, plafonnier, lanterne), formes spéciales (boule, fleur, nuage, araignée), couleurs et
+accessoires.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  2  —
+Volumes de recherche : chaque catégorie niveau 2 vise un minimum de 1 000 recherches. Les termes de
+recherche associés ont été listés sous chaque silo pour faciliter l’optimisation des titres produits ultérieurement.
+Valentin — Shopify Fullstack : en cours de construction de la page d’accueil. Frustration liée aux limitations
+de design par rapport à Elementor (micro-rechargements, flexibilité moindre). Le coach suggère de travailler en
+local via GitHub pour déployer sur Shopify, en profitant du système de custom sections de Fullstack.
+Point critique soulevé : les filtres produits. Le coach insiste sur l’importance de tester 5-10 produits complets
+(avec attributs, filtres par couleur, pièce, matériau) avant d’intégrer en masse. Oublier les filtres sur 200-500
+produits = tout reprendre.
+IA et MindMeister : discussion sur l’automatisation des mind maps via IA. Le format export MindMeister est du
+markdown, donc reproductible par Claude ou ChatGPT. Utile pour les prochains sites, mais important de
+comprendre la logique manuellement d’abord.
+« C’est intéressant dans un premier temps de faire vraiment le truc, pas correctement entre
+guillemets, vraiment se faire c***r à comprendre la logique, pour ensuite processiser et prendre les
+raccourcis avec l’IA. »
+— Coach Théo
+► Thomas — Recherche niche jardin / serres
+Contexte : Thomas débute ce matin sa recherche de niche sur Ahrefs. Consultant en intégration (Odoo) depuis
+10 ans, il a une vision long terme : trouver une niche où il pourra à terme créer ses propres produits. Il
+s’intéresse au jardin, en particulier aux mini-serres, serres de jardin et balancelles.
+Piste explorée
+Data
+Commentaire clé
+Serre de jardin
+40 000 vol.
+CPC ≈ 0,30€. SEMrush : 41 KD. SERP dominée par spécialistes.
+Serre jardin (variante)
+5 000 vol.
+KD 16. Même SERP que « serre de jardin ».
+Mini serre de jardin
+5 000 vol.
+Trop petit seul. Produit à 10-30€ = marge difficile.
+Balancelle
+14 000 vol.
+KD 0. Peut ouvrir vers balancelle jardin ou bébé.
+Balancelle jardin
+12 000 vol.
+Produits à panier élevé (500€). Peu vendu en ligne.
+Démonstration méthode Leroy Merlin : le coach a montré comment analyser les mots-clés d’un leader (27M
+de trafic, 4M de mots-clés) pour découvrir des niches insoupçonnées. Filtrer par volume, position, intention
+commerciale. Cocher les mots-clés intéressants, exporter, puis regrouper en niches potentielles.
+Règle des 50K : dans les 10 premières collections d’une niche, viser au moins 50 000 de volume cumulé. Ce
+n’est pas une règle absolue : un panier moyen élevé (ex. 500€) compense un volume plus faible.
+Piste serres de jardin : le coach valide l’intérêt (40K volume, CPC bas, produits chers). Thomas a un avantage
+potentiel : compagne hollandaise, contacts dans l’horticulture aux Pays-Bas, possibilité de sourcing européen
+de qualité. Explorer les fournisseurs hollandais (ex. Willemse) et vérifier les marges.
+« Ce n’est pas en me disant « je veux faire un site de mini-serres parce que je veux créer un produit
+». C’est : jardin, pourquoi pas ? Je regarde les mots-clés, je trouve les mots-clés. »
+— Coach Théo
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  3  —
+► Aude — Blocage recherche niche (3 semaines)
+Contexte : Aude cherche sa niche depuis 3 semaines. Elle a exploré 10+ pistes (plantes vertes, plantes
+artificielles, bracelet homme, coussin, lunch box, accessoires jardin, yoga, short, pyjama) mais se heurte
+systématiquement à deux blocages : CPC trop élevé ou marge insuffisante sur AliExpress par rapport aux prix
+concurrents.
+Niche explorée
+Verdict
+Commentaire clé
+Plantes vertes
+Écarté
+Fournisseur drop introuvable. RR mauvais.
+Plantes artificielles
+Écarté
+Prix AliExpress trop proches des concurrents.
+Bracelet homme
+Écarté
+CPC trop élevé. Niche trop large/concurrentielle.
+Coussin
+Écarté
+Marge insuffisante (x2 au lieu de x3).
+Lunch box
+Écarté
+CPC élevé. Pas de passion = risque de lassitude.
+Pyjama femme
+À étudier
+74K vol., CPC 0,36€. Problème taille + prix bas.
+Diagnostic du coach : Aude s’appuie trop sur ses passions et idées personnelles, ce qui limite le champ. Les
+produits choisis sont trop « basiques » (bracelet, coussin, plante), donc ultra-concurrentiels avec des marges
+faibles.
+Démonstration live Amazon : le coach parcourt Amazon page par page (page 10, 16...) pour montrer
+comment découvrir des niches insoupçonnées. Exemples trouvés en direct : portefeuille (CPC trop haut), sac
+banane (CPC trop haut), mitigeur douche (validé pour un autre membre : 18K vol., CPC 0,12€, produit à
+100-150€), pyjama femme (volume intéressant mais prix bas).
+Conseil IA : utiliser ChatGPT, Claude ou Gemini pour générer des idées de niches. Formuler des prompts
+spécifiques : « Sois plus original, prends des niches auxquelles les gens ne penseraient pas. » Tester plusieurs
+IA gratuitement.
+« Souvent, c’est une mauvaise idée parce que c’est trop basique. Homme, il y a trop de
+concurrence. Jardin, il faut nicher. Les plantes artificielles, c’est pareil. Ce sont des produits trop
+simples. »
+— Coach Théo
+► Thomas — Montres de marque (rejeté)
+Idée : vendre des montres de marque (Seiko, Michael Kors) en exploitant une proximité géographique avec la
+Suisse et des contacts fournisseurs. Verdict du coach : rejeté. Problème principal : autorité. Pourquoi un client
+acheterait sur un site inconnu plutôt que chez une enseigne connue (Ocarat, bijouteries physiques) ? Taux de
+conversion prédit quasi nul. Budget marketing énorme requis pour bâtir la confiance. Même sur
+Amazon/marketplaces : marge doublement compressée (revendeur + commission plateforme).
+« Pourquoi j’achèterais sur ton site alors que chez Ocarat, ils vendent la même au même prix ? Tu
+vas avoir du visiteur, tu ne vas pas avoir de vente. Ton taux de conversion va être éclaté. »
+— Coach Théo
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  4  —
+⚙ MASTERCLASS — MÉTHODOLOGIE DE RECHERCHE DE NICHE
+Le coach a détaillé sa méthodologie de recherche de niche en trois étapes, avec démonstrations live sur
+SEMrush et Amazon.
+Étape 1 — Générer des idées en masse. Aller sur les leaders du marché (Leroy Merlin, Amazon, Maison du
+Monde, Histoire d’Or...) via SEMrush/Ahrefs. Explorer leurs mots-clés, cocher ceux qui paraissent intéressants,
+exporter. Compléter avec l’IA (ChatGPT, Claude, Gemini) en demandant des niches « originales ». Objectif :
+10-30 mots-clés cochés en 1-2 heures.
+Étape 2 — Filtrage rapide. Pour chaque mot-clé coché : combien se vend le produit ? Estimation rapide du prix
+moyen. Si le produit se vend en dessous de 50€, attention. Vérifier le CPC rapidement. Si le CPC est au-dessus
+de 0,50€ et le produit pas cher, next. Un simple screen de la liste des mots-clés suffit pour passer au coach.
+Étape 3 — Validation approfondie. Calculer le RR (prix moyen shopping / CPC) pour les 15 premiers
+mots-clés. Vérifier le coût d’achat (AliExpress) et calculer la marge (objectif : x3). Analyser la SERP : qui est
+positionné ? Des spécialistes ou des généralistes ? Si les RR sont bons et la marge suffisante, on peut lancer.
+Points clés répétés : ne pas se limiter à ses passions, ne pas passer trop de temps sur chaque niche avant de
+filtrer, privilégier la masse d’idées puis le tri rapide. Le KD (Keyword Difficulty) est secondaire : il n’empêche pas
+de faire des Ads. Un spécialiste peut passer devant les généralistes en SEO même avec un KD élevé.
+« Tu perds vraiment beaucoup de temps quand tu vas sur une niche pourrie. Du temps, de l’argent.
+Ces deux semaines « perdues » à chercher ta niche, si tu lances un site pourri, c’est peut-être six
+mois de travail que tu perds. »
+— Coach Théo
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Sylvain & Valentin
+PRIORITAIRE
+⚡ Intégrer 5-10 produits complets avec tous les attributs et filtres (couleur, pièce, matériau) avant
+intégration en masse.
+⚡ Vérifier le système de filtres Shopify sur les produits tests : tri par couleur, pièce, style, matériau.
+⚡ Repasser en session pour un check produit une fois 1-2 fiches complètes.
+SECONDAIRE
+○ Explorer le déploiement local via GitHub pour Valentin (plus rapide que l’éditeur Shopify).
+○ Automatiser les futures arborescences via IA + MindMeister (export markdown).
+○ Ajouter les promotions/soldes dans l’arborescence.
+  ⚓  Thomas
+PRIORITAIRE
+⚡ Analyser les mots-clés de Leroy Merlin et sites spécialisés (Hesperide, France Serres) sur
+Ahrefs/SEMrush.
+⚡ Lister 10+ mots-clés intéressants dans un Google Sheet (volume, CPC, estimation prix).
+⚡ Présenter 3-5 niches au coach dès que possible (jeudi avec Stéphanie ou mardi prochain).
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  5  —
+SECONDAIRE
+○ Explorer la piste serres de jardin : contacter des fournisseurs hollandais, vérifier les marges.
+○ Calculer le RR sur les 15 premiers mots-clés de la niche retenue.
+○ Ne pas lancer de site avant validation complète de la niche : volume, CPC, marge, RR.
+○ Oublier les montres de marque : problème d’autorité insurmontable sans gros budget.
+  ⚓  Aude
+PRIORITAIRE
+⚡ Arrêter la recherche par passion : passer à la méthode Amazon/SEMrush en masse.
+⚡ En 1-2 heures : lister 10 niches depuis Amazon (parcourir les pages 10-20) et/ou Maison du Monde,
+Histoire d’Or.
+⚡ Pour chaque niche : un screen de la liste des mots-clés. Pas de mind map, pas d’analyse
+approfondie à ce stade.
+SECONDAIRE
+○ Utiliser l’IA (Claude, Gemini, ChatGPT) pour générer des idées originales de niches.
+○ Privilégier les produits au-dessus de 50€ avec CPC en dessous de 0,50€.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Suivre la formation dans l’ordre : la stratégie établie par Enzo et Tristan est testée et documentée.
+⚡ Ne pas lancer de site sans validation niche complète : volume, CPC, marge, RR.
+SECONDAIRE
+○ La niche est l’étape la plus importante : 2 semaines de recherche économisent potentiellement 6 mois de
+travail perdu.
+○ Envoyer les avancements sur WhatsApp entre les sessions.
+○ Tester la stratégie 20 produits (comme Stéphane) pour valider rapidement une niche avant d’intégrer en
+masse.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  31/03/2026
+—  6  —
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Serre de jardin (volume)
+40 000
+Mot-clé principal — SEMrush : KD 41
+Serre jardin (variante)
+5 000
+KD 16. Même SERP que « serre de jardin »
+Mini serre de jardin (vol.)
+5 000
+Trop petit pour une niche seule
+Balancelle (volume)
+14 000
+KD 0. Potentiel produits chers
+Balancelle jardin (vol.)
+12 000
+Produits ≈ 500€. Peu concurrentiel en ligne
+Pyjama femme (volume)
+74 000
+CPC 0,36€. Problème prix bas
+Mitigeur douche (volume)
+18 000
+CPC 0,12€. Validé pour un membre (RR excellent)
+Robinet cuisine (volume)
+22 000
+CPC < 0,30€. SERP attaquable
+Règle volume niche
+50 000 min.
+Cumulé sur les 10 premières collections
+CPC cible
+< 0,50 €
+Idéal < 0,30€ pour marges confortables
+Prix produit cible
+> 50 €
+Idéal 100€+ pour RR solides
+Marge objectif
+x3
+Prix vente / prix achat AliExpress
+Leroy Merlin (trafic)
+27M
+4M de mots-clés — mine d’idées
+Recherche niche (durée)
+3-7 jours
+Variable selon la vitesse de découverte
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026

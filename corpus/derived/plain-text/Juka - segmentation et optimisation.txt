@@ -1,0 +1,79 @@
+ 
+L’importance de la segmentation & l’optimisation 
+ 
+Les segments peuvent être façonnés comme bon vous semble en fonction de 
+différentes actions faite sur le site ou dans vos emails (achat, click sur un lien dans 
+le mail etc) 
+ 
+Voici les segments essentiels :  
+ 
+ALL : Tous vos emails 
+ 
+ 
+ 
+ENGAGE : Les emails actifs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE ---
+
+ 
+ 
+NEW CLIENTS : Toutes les personnes qui ont passé une commande 
+ 
+ 
+ 
+CLIENTS VIP : Toutes les personnes qui ont passé minimum 2 commandes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Idées d’éléments à A/B test par ordre d’importance 
+ 
+-​
+Objet → Maximiser le taux d’ouverture 
+-​
+Contenu → Maximiser le taux de clics 
+ 
+
+
+--- PAGE ---
+
+ 
+-​
+Délais entre chaque email dans le cas des flows → Séquence rapide vs 
+séquences longue 
+ 
+N’oubliez pas : 1 testing à la fois maximum pour toujours savoir réellement ce qui 
+fonctionne avant de réitérer. 
+ 
+ 

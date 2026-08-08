@@ -4,6 +4,8 @@
 
 Vérifier que le commerce est identifiable, cohérent et achetable, que les données produit correspondent au site et qu'une commande est mesurée correctement avant toute dépense.
 
+La préparation et l'évolution du storefront suivent les deux états de `store-states-gmc-growth.md` : `GMC_READY`, puis éventuellement `GROWTH_MARKETING` après validation. Les deux restent des versions commerciales réelles et contrôlables.
+
 ## A. Transparence commerciale
 
 Contrôler sur le site rendu :
@@ -44,9 +46,23 @@ Ne jamais inventer GTIN ou MPN. Fournir seulement les identifiants attribués pa
 4. documenter les preuves ;
 5. demander un examen seulement lorsque l'autorisation explicite est donnée.
 
-Ne pas multiplier les demandes sans correction. Ne jamais employer anti-detect, cloaking, fausse identité ou nouveau compte pour fuir une suspension. Aucun délai ou taux d'approbation n'est garanti.
+Ne pas multiplier les demandes sans correction. Ne jamais employer anti-detect, rendu différent selon user-agent/IP, fausse identité ou nouveau compte pour fuir une suspension. Aucun délai ou taux d'approbation n'est garanti.
 
-## D. Mesure achat
+## D. Cycle `GMC_READY` → `GROWTH_MARKETING`
+
+La Méthode Kraken de progression en deux états est conservée :
+
+1. publier un état `GMC_READY` complet et sobre ;
+2. figer sa baseline pendant l'examen afin d'éviter des changements non maîtrisés ;
+3. enregistrer le statut réellement observé du compte et des produits ;
+4. préparer la couche `GROWTH_MARKETING` dans un thème ou environnement non publié ;
+5. contrôler les invariants page/feed/schema/checkout et les preuves de chaque claim ;
+6. publier après autorisation, puis surveiller les diagnostics et le storefront ;
+7. désactiver ou corriger le module qui crée une incohérence, avec retour possible à la baseline.
+
+Ajouter du marketing après approbation est permis par le workflow. Cela ne permet pas de remettre une affirmation trompeuse, de retirer l'identité/contact, de fausser prix ou délais, ni de présenter un autre contenu au contrôleur. Toute évolution touchant un invariant rouvre la partie A ou B de cette porte.
+
+## E. Mesure achat
 
 Le test doit prouver une commande de bout en bout :
 
@@ -63,7 +79,7 @@ Le test doit prouver une commande de bout en bout :
 
 Ne pas optimiser une campagne e-commerce principale sur un simple `add_to_cart` en le faisant passer pour un achat.
 
-## E. Consentement et données
+## F. Consentement et données
 
 Établir l'inventaire des traceurs, finalités, bases/consentements, durée, destinataires et mécanismes de retrait. Les conversions améliorées utilisent des données first-party hachées mais ne dispensent pas d'information ni des obligations applicables.
 
@@ -72,6 +88,8 @@ Ne pas optimiser une campagne e-commerce principale sur un simple `add_to_cart` 
 - commerce et politiques réels/cohérents ;
 - produit test approuvé ou dossier GMC prêt selon le périmètre ;
 - aucune incohérence critique page/feed/checkout ;
+- état `GMC_READY` ou `GROWTH_MARKETING` nommé, rendu et vérifié ;
+- si transition, `templates/gmc-growth-transition.md` complété avec baseline et rollback ;
 - achat test observé avec valeur, devise et transaction ID ;
 - backend et rapports réconciliables ;
 - autorisation de lancement explicite et budget borné.

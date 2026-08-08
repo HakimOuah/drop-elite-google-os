@@ -4,11 +4,26 @@
 
 Prouver qu'un visiteur mobile peut comprendre l'offre, vérifier ce qu'il reçoit, résoudre ses objections et acheter sans friction ni tromperie.
 
+Lorsque la boutique est préparée pour Merchant Center ou enrichie après approbation, appliquer aussi `store-states-gmc-growth.md`. La porte doit nommer l'état construit : `GMC_READY` ou `GROWTH_MARKETING`.
+
 ## Contrat de vérité catalogue
 
 Pour chaque produit/variante : titre, SKU, prix, comparaison de prix justifiée, stock, images, couleur, dimensions, matière, contenu du colis, compatibilité, entretien, avertissements, délai et retours doivent correspondre à la source vérifiée.
 
 Une photo fournisseur n'autorise pas à déduire une géométrie, un matériau ou un accessoire non confirmé. Les visuels générés doivent préserver le produit et être identifiés/conformes lorsque les plateformes l'exigent.
+
+## Profondeur du catalogue en mode `catalogue-volume`
+
+Le catalogue de lancement contient au moins **200 produits distincts, publiables et réellement sourçables**. Compter une fiche produit correspondant à un objet distinct ; les variantes de taille, couleur, lot ou matériau d'une même fiche ne sont pas 200 produits différents. Un doublon, un produit sans fournisseur vérifiable, une fiche vide ou un produit indisponible ne compte pas.
+
+Répartir ces produits dans les collections validées par la porte 3 afin d'éviter les collections artificielles ou vides. Le low ticket est autorisé et n'entraîne aucun plancher de prix ; chaque produit et l'économie de commande restent soumis à la vérité catalogue et à la porte 2.
+
+La constitution du catalogue suit `catalogue-sourcing-gate-v3.md` : 10–20
+produits par sous-catégorie, équivalence concurrente facultative, mot-clé PDP
+descriptif pouvant avoir un volume égal à zéro, puis revue humaine. Le gate V3
+autorise un candidat ; la présente porte ne le compte dans les 200 publiables
+qu'après vérification de la variante, du stock, du coût rendu, du délai, de la
+conformité et des faits produit.
 
 ## Hiérarchie de page produit
 
@@ -60,11 +75,31 @@ Ne pas valider à partir du code seul. Vérifier sur le storefront réellement r
 
 Transformer les faits en bénéfices sans les dépasser. Chaque promesse doit pouvoir répondre à « quelle caractéristique ou preuve permet de l'affirmer ? ». Traiter les objections observées, pas une liste générique.
 
+## QA par état
+
+### `GMC_READY`
+
+- commerce complet et achetable, jamais une coquille vide ;
+- identité, contact, catalogue, pages statiques, politiques et checkout finalisés ;
+- design de marque cohérent et contenu utile ;
+- modules promotionnels facultatifs désactivés proprement lorsqu'ils ajoutent un risque ou une incohérence inutile ;
+- baseline rendue et versionnée avant soumission.
+
+### `GROWTH_MARKETING`
+
+- invariants `GMC_READY` inchangés ou resynchronisés avec preuve ;
+- bénéfices, promotions, bundles, urgence et preuve sociale justifiables ;
+- modules marketing pilotés par le backend, testés sur mobile et réversibles ;
+- aucune différence de contenu selon l'identité du visiteur ou du robot ;
+- rapport `templates/gmc-growth-transition.md` complété avant publication.
+
 ## Critères de passage
 
 - aucune contradiction catalogue/feed/politiques ;
+- en mode `catalogue-volume`, au moins 200 produits distincts admissibles sont vérifiés et correctement distribués ;
 - parcours mobile complet vérifié ;
 - coûts et conditions importants visibles avant achat ;
 - preuve honnête ;
 - performance et accessibilité sans blocage critique ;
 - capture ou rapport de QA daté.
+- état de boutique nommé et, pour une bascule, matrice d'invariants et rollback documentés.

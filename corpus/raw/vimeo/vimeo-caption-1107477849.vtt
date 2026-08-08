@@ -1,0 +1,517 @@
+WEBVTT
+
+1
+00:00:00.150 --> 00:00:01.400
+Bonjour à tous du coup là,
+
+2
+00:00:01.400 --> 00:00:04.120
+on se retrouve dans le module où je vais vous montrer
+
+3
+00:00:04.120 --> 00:00:09.040
+comment synchroniser des produits venant de via wordpress.
+
+4
+00:00:09.350 --> 00:00:11.080
+Donc moi, du coup, je vais vous,
+
+5
+00:00:12.420 --> 00:00:14.440
+je vais travailler sur un même site qui m'appartient.
+
+6
+00:00:14.440 --> 00:00:15.600
+C'est le site par bébé con force,
+
+7
+00:00:15.620 --> 00:00:18.240
+un site qui est dans une niche du coup de portage enfants.
+
+8
+00:00:18.430 --> 00:00:19.560
+Donc on fait tout ce qui est porte,
+
+9
+00:00:19.560 --> 00:00:20.880
+bébé Charles de portage, etc.
+
+10
+00:00:21.210 --> 00:00:24.520
+C'est niche. Kraken donc ce et ce un site qui a été
+
+11
+00:00:24.640 --> 00:00:26.200
+développé il y a maintenant deux ans qui a pris des
+
+12
+00:00:26.320 --> 00:00:28.120
+positions, ce et qui fonctionne très bien
+
+13
+00:00:28.790 --> 00:00:30.040
+dans le canot d'acquisition
+
+14
+00:00:30.040 --> 00:00:31.320
+trafic Google galate principalement.
+
+15
+00:00:32.140 --> 00:00:33.760
+On fonctionne avec all Ali express
+
+16
+00:00:33.760 --> 00:00:34.920
+dans un dans un premier temps.
+
+17
+00:00:34.920 --> 00:00:37.360
+Et maintenant, depuis on est passé sur agent,
+
+18
+00:00:38.180 --> 00:00:40.600
+la méthodologie du coup pour envoyer un produit de
+
+19
+00:00:40.600 --> 00:00:42.000
+dis via avoir press.
+
+20
+00:00:42.370 --> 00:00:44.120
+C'est tout de suite. Pour ceci,
+
+21
+00:00:44.380 --> 00:00:46.880
+il vous faut sélectionner d'abord un produit Ali express,
+
+22
+00:00:46.880 --> 00:00:50.200
+parce que dis fonctionne uniquement avec Ali express
+
+23
+00:00:50.380 --> 00:00:51.400
+et seulement express.
+
+24
+00:00:52.100 --> 00:00:54.160
+Je vous laisse créer un compte diseur.
+
+25
+00:00:54.160 --> 00:00:55.600
+Donc vous allez réveiller sur une page d'accueil.
+
+26
+00:00:55.600 --> 00:00:57.600
+Vous créerez un compte attaché avec une adresse mail, etc.
+
+27
+00:00:58.140 --> 00:00:59.560
+Jusque là, ça devrait aller.
+
+28
+00:00:59.710 --> 00:01:01.280
+Vous allez arriver sur cette dashboard.
+
+29
+00:01:02.430 --> 00:01:03.760
+Donc vous arrivez ici,
+
+30
+00:01:04.070 --> 00:01:06.160
+vous avez plusieurs options, plusieurs menus.
+
+31
+00:01:06.160 --> 00:01:07.440
+Vous pouvez aller un petit peu,
+
+32
+00:01:07.470 --> 00:01:09.640
+paramétrer certaines choses dans les settings.
+
+33
+00:01:09.780 --> 00:01:12.520
+Au départ, votre shop ne sera pas lié directement.
+
+34
+00:01:12.520 --> 00:01:16.000
+Donc vous avez juste à suivre les différentes explications.
+
+35
+00:01:16.000 --> 00:01:18.120
+C'est très facile. Vous avez juste à mettre l'url de votre
+
+36
+00:01:18.120 --> 00:01:19.880
+shop et valider,
+
+37
+00:01:20.430 --> 00:01:22.760
+valider la procédure jusqu'à jusqu'à la synchronisation
+
+38
+00:01:22.890 --> 00:01:24.720
+deers avec wordpress.
+
+39
+00:01:25.110 --> 00:01:26.560
+Ensuite, qu'est ce qu'il faut faire?
+
+40
+00:01:26.670 --> 00:01:28.560
+Vous trouvez un produit sur Ali express.
+
+41
+00:01:28.560 --> 00:01:30.520
+Donc l'appareil exemple celui ci me plaît bien,
+
+42
+00:01:30.520 --> 00:01:31.600
+j'ai envie de le mettre sur mon shop.
+
+43
+00:01:31.910 --> 00:01:32.960
+Vous copiez l'url.
+
+44
+00:01:33.640 --> 00:01:36.410
+Vous allez dans un port list dans un port list.
+
+45
+00:01:36.440 --> 00:01:39.130
+Vous copiez l RL ici, vous faites hoquet
+
+46
+00:01:39.670 --> 00:01:41.650
+et le produit arrive dans heures,
+
+47
+00:01:41.680 --> 00:01:44.370
+mais pas pour autant dans votre presse ici,
+
+48
+00:01:44.370 --> 00:01:45.410
+vous avez plusieurs options.
+
+49
+00:01:46.730 --> 00:01:49.050
+L'option qui nous intéresse le plus c'est pour éditer
+
+50
+00:01:49.050 --> 00:01:50.090
+le produit et dit le produit.
+
+51
+00:01:50.270 --> 00:01:52.370
+Ça veut dire envoyer le produit dans leur presse,
+
+52
+00:01:52.370 --> 00:01:53.690
+de quelle manière on va l'envoyer.
+
+53
+00:01:53.880 --> 00:01:58.010
+Donc là on va, on va l'appeler produit tests.
+
+54
+00:01:58.560 --> 00:02:00.570
+Donc là, normalement, vous mettez le titre de votre produit.
+
+55
+00:02:00.570 --> 00:02:01.610
+Donc là, on aurait pu l'appeler,
+
+56
+00:02:01.610 --> 00:02:03.210
+par exemple porte bébé ventral, etc.
+
+57
+00:02:03.350 --> 00:02:04.450
+À plusieurs coloris et autres.
+
+58
+00:02:05.190 --> 00:02:06.530
+Là, vous avez toutes les variations.
+
+59
+00:02:07.180 --> 00:02:09.790
+Donc ça sont les at, ça sont les attributs.
+
+60
+00:02:09.790 --> 00:02:12.670
+Que va vous envoyer? Dis h directement dans votre site.
+
+61
+00:02:12.730 --> 00:02:14.830
+Je vous conseille pour les couleurs de le mettre en
+
+62
+00:02:14.990 --> 00:02:16.550
+français, c'est toujours mieux et
+
+63
+00:02:16.550 --> 00:02:17.670
+de mettre les couleurs que vous voulez.
+
+64
+00:02:17.970 --> 00:02:19.710
+Si jamais il y a des variations qui vous plaisent pas,
+
+65
+00:02:19.710 --> 00:02:21.550
+c'est à ce moment là qu'on va les modifier,
+
+66
+00:02:21.560 --> 00:02:23.830
+qu'on va les supprimer, qu'on va les expliquer, etc.
+
+67
+00:02:24.220 --> 00:02:26.070
+Donc, si par exemple, le rouge ne m'intéresse pas,
+
+68
+00:02:26.890 --> 00:02:28.750
+je clique dessus et je le supprime.
+
+69
+00:02:28.750 --> 00:02:30.310
+Il apparaîtra pas dans mont press.
+
+70
+00:02:30.810 --> 00:02:32.870
+Si jamais vous voulez mettre les prix définitifs qui
+
+71
+00:02:32.870 --> 00:02:35.790
+apparaissent définitivement pour chaque variation de Word
+
+72
+00:02:35.790 --> 00:02:36.790
+press, ça se passe ici.
+
+73
+00:02:37.660 --> 00:02:41.750
+Vous avez la description en sachant que nous on est sur une
+
+74
+00:02:41.800 --> 00:02:44.190
+fiche produit optimisée ou avec une description que l'on
+
+75
+00:02:44.190 --> 00:02:45.670
+fait la plupart du temps via les mentors,
+
+76
+00:02:46.280 --> 00:02:47.350
+toute cette partie là,
+
+77
+00:02:47.370 --> 00:02:51.990
+je vous conseille vivement de la laisser vierge du coup.
+
+78
+00:02:51.990 --> 00:02:55.090
+Ensuite, au niveau des images, au niveau des images,
+
+79
+00:02:55.090 --> 00:02:58.730
+nous on est dans une stratégie ou on reprend la
+
+80
+00:02:58.850 --> 00:03:01.960
+Plupart des images avec avec Photoshop et on les on les
+
+81
+00:03:01.960 --> 00:03:04.600
+met en wep pour les intégrer sur le wordpress.
+
+82
+00:03:04.860 --> 00:03:07.120
+Ou alors vous pouvez utiliser des petites applications comme
+
+83
+00:03:07.410 --> 00:03:09.600
+image fail qui va vous qui va vous transformer
+
+84
+00:03:11.260 --> 00:03:13.640
+le fichier en de jpg vient en webp.
+
+85
+00:03:13.870 --> 00:03:16.040
+Mais je vous conseille quand même quand les photos sont
+
+86
+00:03:16.040 --> 00:03:19.840
+dégueulasse de tout simplement les reprendre et les refaire.
+
+87
+00:03:19.840 --> 00:03:21.800
+Donc là, en l'occurrence, les photos sont convenables.
+
+88
+00:03:21.800 --> 00:03:24.560
+Donc on va les laisser comme ça. Le shipping info,
+
+89
+00:03:24.560 --> 00:03:25.640
+vous le laissez tel quel.
+
+90
+00:03:25.860 --> 00:03:30.490
+Et là, normalement, vous pouvez, vous pouvez
+
+91
+00:03:31.400 --> 00:03:34.880
+sauvegarder la fiche produit.
+
+92
+00:03:34.880 --> 00:03:36.480
+Donc la fiche produit est sauvegardée.
+
+93
+00:03:36.890 --> 00:03:39.520
+Maintenant, pour l'envoyer sur Word presse,
+
+94
+00:03:39.520 --> 00:03:42.120
+vous avez juste à appuyer sur ce bouton là là,
+
+95
+00:03:42.120 --> 00:03:43.680
+il va vous donner une petite comme quoi
+
+96
+00:03:43.680 --> 00:03:44.920
+votre boutique est bien synchronisée.
+
+97
+00:03:45.350 --> 00:03:46.800
+Vous faites pêche ou commerce.
+
+98
+00:03:47.670 --> 00:03:50.010
+Et là ici, dans le chèque, normalement
+
+99
+00:03:50.870 --> 00:03:51.810
+des fois ça prend un peu de temps,
+
+100
+00:03:51.810 --> 00:03:52.850
+ça allez prendre la connexion internet.
+
+101
+00:03:52.870 --> 00:03:55.130
+Ça dépend de chacun. Vous avez le produit qui est
+
+102
+00:03:55.210 --> 00:03:58.250
+directement transféré dans votre wordpres
+
+103
+00:04:01.090 --> 00:04:03.420
+avec du coup, toutes les paramètres que vous avez
+
+104
+00:04:03.420 --> 00:04:06.140
+préalablement faits dans le diverse,
+
+105
+00:04:06.910 --> 00:04:08.520
+soit vos idées totalement les fiches,
+
+106
+00:04:08.520 --> 00:04:09.640
+soit vous commencez à le faire après.
+
+107
+00:04:09.640 --> 00:04:11.320
+C'est une stratégie, une méthode à faire.
+
+108
+00:04:11.330 --> 00:04:13.560
+C'est quelque chose qu'il faut qu' faut qu'il
+
+109
+00:04:13.560 --> 00:04:14.640
+faut vous mettiez en place.
+
+110
+00:04:15.070 --> 00:04:16.400
+Vous qui vous convient le mieux.
+
+111
+00:04:16.540 --> 00:04:17.640
+Il n'y a pas de bonne méthode.
+
+112
+00:04:17.940 --> 00:04:19.600
+Moi, je vous montre juste les grandes lignes.
+
+113
+00:04:20.650 --> 00:04:22.600
+C'est relativement simple. Ça fonctionne très bien.
+
+114
+00:04:22.940 --> 00:04:26.040
+Et par la suite, vous aurez du coup la totalité des
+
+115
+00:04:26.040 --> 00:04:27.760
+commandes qui apparaîtront dans 10 h.
+
+116
+00:04:27.760 --> 00:04:30.040
+Si vous pourrez faire des commandes groupées
+
+117
+00:04:30.860 --> 00:04:32.240
+et payer via Ali express.
+
+118
+00:04:33.190 --> 00:04:36.570
+Voilà donc là le produit. Il me dit qu'il a été bien envoyé.
+
+119
+00:04:36.570 --> 00:04:38.250
+Donc là, on voit punch to one store.
+
+120
+00:04:38.430 --> 00:04:40.690
+Ça veut dire qu'en gros, il est bien arrivé sur mon store.
+
+121
+00:04:40.740 --> 00:04:42.050
+Maintenant sur mon store,
+
+122
+00:04:42.670 --> 00:04:46.940
+je vais du coup dans produit tous les produits.
+
+123
+00:04:48.160 --> 00:04:50.900
+Et normalement, si la mythologie s'est bien passée,
+
+124
+00:04:51.080 --> 00:04:52.460
+je devrais avoir mon produit test.
+
+125
+00:04:52.600 --> 00:04:54.620
+Voilà, mon produit test est bien arrivé ici.
+
+126
+00:04:55.160 --> 00:04:59.500
+Je clique dessus, je l'ouvre, je le modifie, etc, etc.
+
+127
+00:05:00.000 --> 00:05:03.340
+Je vous passe les détails de comment modifier un produit.
+
+128
+00:05:03.410 --> 00:05:05.700
+Vous avez de toute façon la dashboard
+
+129
+00:05:06.320 --> 00:05:08.420
+et le playbook et qui vous explique tout ceci.

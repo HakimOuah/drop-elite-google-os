@@ -1,0 +1,765 @@
+WEBVTT
+
+1
+00:00:00.330 --> 00:00:01.160
+Salut du coup.
+
+2
+00:00:01.160 --> 00:00:02.880
+Dans cette vidéo, nous allons voir comment
+
+3
+00:00:03.640 --> 00:00:06.960
+configurer un Google shopping, non pas de a à z,
+
+4
+00:00:06.960 --> 00:00:08.320
+parce qu'encore une fois l'idée,
+
+5
+00:00:08.320 --> 00:00:10.240
+ce n'est pas de faire une démonstration complète et de vous
+
+6
+00:00:10.360 --> 00:00:11.400
+donnez sur les stratégies.
+
+7
+00:00:11.700 --> 00:00:13.720
+Je veux qu vous montrer comment configurer un flux
+
+8
+00:00:13.920 --> 00:00:16.640
+efficacement et configurer Google marchand tout simplement
+
+9
+00:00:16.640 --> 00:00:18.200
+pour commencer vos premières publicités.
+
+10
+00:00:18.590 --> 00:00:20.400
+Donc, vous allez vous retrouver sur le
+
+11
+00:00:20.400 --> 00:00:21.920
+site de Google marchand.
+
+12
+00:00:21.920 --> 00:00:24.920
+Vous allez vous connecter un Google marchand et normalement,
+
+13
+00:00:24.920 --> 00:00:26.200
+si vous suivez les étapes,
+
+14
+00:00:26.510 --> 00:00:29.360
+vous allez arriver sur ce type de page.
+
+15
+00:00:30.080 --> 00:00:31.760
+Alors ce qui faut savoir, c'est que vous avez deux
+
+16
+00:00:31.760 --> 00:00:34.080
+possibilités pour créer un Google marchand.
+
+17
+00:00:34.080 --> 00:00:37.200
+Vous avez la possibilité d'utiliser directement le site de
+
+18
+00:00:37.200 --> 00:00:39.680
+Google, mais vous avez également la possibilité de passer
+
+19
+00:00:39.680 --> 00:00:40.960
+parce qu'on appelle un CSS.
+
+20
+00:00:41.170 --> 00:00:43.160
+L'avantage de passer par un CSS,
+
+21
+00:00:43.330 --> 00:00:46.240
+c'est tout simplement d'éviter plus de contrôle de la part
+
+22
+00:00:46.240 --> 00:00:50.440
+de Google et bénéficier de certains avantages tarifaires
+
+23
+00:00:50.820 --> 00:00:51.840
+sur les CPC de Google.
+
+24
+00:00:51.910 --> 00:00:54.360
+Donc moi, je vous recommande de passer par un CSS.
+
+25
+00:00:54.360 --> 00:00:56.160
+Nous on utilise le CSS d'échoppe point.
+
+26
+00:00:56.200 --> 00:00:57.680
+Comme encore une fois,
+
+27
+00:00:57.680 --> 00:01:00.160
+vous allez retrouver le lien dans le module.
+
+28
+00:01:00.580 --> 00:01:02.880
+Si vous vous êtes intéressé par prendre ce CSS,
+
+29
+00:01:03.140 --> 00:01:06.160
+on se retrouve du coup dans l'interface de miss kimono pour
+
+30
+00:01:06.320 --> 00:01:07.520
+configurer les premières étapes.
+
+31
+00:01:07.670 --> 00:01:09.560
+Donc vous pouvez le voir, il y a des étapes
+
+32
+00:01:09.560 --> 00:01:10.640
+de configuration manquantes.
+
+33
+00:01:10.740 --> 00:01:13.320
+On va donc du coup cliquer sur les problèmes
+
+34
+00:01:13.980 --> 00:01:17.400
+et ensuite on va du coup faire les étapes une à une.
+
+35
+00:01:17.400 --> 00:01:20.120
+Généralement, quand vous avez suivi les étapes de création
+
+36
+00:01:20.190 --> 00:01:23.160
+d'un compte, vous avez déjà indiqué l'url de votre site web.
+
+37
+00:01:23.430 --> 00:01:25.400
+Ensuite, du coup nous, on va confier les taxes.
+
+38
+00:01:25.460 --> 00:01:27.080
+Ce qu'il faut savoir, c'est que les taxes concernent
+
+39
+00:01:27.080 --> 00:01:28.560
+uniquement les états-unis.
+
+40
+00:01:28.590 --> 00:01:30.680
+Donc, normalement, si bien paramétrés,
+
+41
+00:01:30.780 --> 00:01:33.280
+je vais spécifier mes propres paramètres.
+
+42
+00:01:33.710 --> 00:01:36.120
+Rien n'est activé, étant donné que je n'ai pas de taxe aux
+
+43
+00:01:36.120 --> 00:01:38.760
+Etats-Unis étant une société française,
+
+44
+00:01:38.980 --> 00:01:40.880
+je n'ai plus qu'à quitter normalement,
+
+45
+00:01:40.900 --> 00:01:42.480
+on devrait être plutôt pas mal.
+
+46
+00:01:43.060 --> 00:01:44.960
+La configuration des taxes, c'est validé.
+
+47
+00:01:45.070 --> 00:01:47.200
+Ensuite, on va passer sur configurer la livraison.
+
+48
+00:01:47.680 --> 00:01:49.160
+Alors là, attention sur ce module,
+
+49
+00:01:49.460 --> 00:01:50.880
+il va falloir respecter
+
+50
+00:01:51.050 --> 00:01:52.720
+exactement ce que vous indiquez sur vous.
+
+51
+00:01:52.720 --> 00:01:55.320
+Site internet. Donc moi, en nom de service de livraison,
+
+52
+00:01:55.500 --> 00:02:00.320
+je vais appeler livraison standard, sa desservie.
+
+53
+00:02:00.320 --> 00:02:03.960
+Donc je vais mettre France, Belgique
+
+54
+00:02:05.980 --> 00:02:08.920
+suisse, ok,
+
+55
+00:02:08.990 --> 00:02:12.640
+vous avez cliqué sur survivants en délai de livraison.
+
+56
+00:02:12.820 --> 00:02:14.040
+Là, ça va dépendre de vous.
+
+57
+00:02:14.100 --> 00:02:16.040
+Moi, je vais mettre hors de limite de commander.
+
+58
+00:02:16.040 --> 00:02:17.280
+Je vais mettre zéro h.
+
+59
+00:02:18.500 --> 00:02:20.840
+Je vais mettre heure de paris parce qu'en livre en France,
+
+60
+00:02:20.860 --> 00:02:22.720
+les délais de livraison, les temps de traitement,
+
+61
+00:02:22.720 --> 00:02:24.560
+il faut bon, généralement vous travail.
+
+62
+00:02:24.560 --> 00:02:26.560
+Nous. C'est notre cas avec un agent assez rapide
+
+63
+00:02:26.690 --> 00:02:27.720
+entre un et trois jours.
+
+64
+00:02:28.220 --> 00:02:30.920
+Si vous passez sur des fournisseurs à l'express,
+
+65
+00:02:31.110 --> 00:02:34.040
+bien entendu, mettez un peu plus dès l d'acheminement.
+
+66
+00:02:34.040 --> 00:02:37.000
+On va plus être entre trois et sept jours en fonction des
+
+67
+00:02:37.000 --> 00:02:40.280
+délais, mais également du lundi au encore une fois,
+
+68
+00:02:40.460 --> 00:02:43.560
+ne cherchez pas à douiller si vos délais d'acheminement sont
+
+69
+00:02:43.560 --> 00:02:45.200
+un peu plus long, mettez un peu plus long.
+
+70
+00:02:46.150 --> 00:02:47.280
+Ensuite, en frais de porte,
+
+71
+00:02:47.280 --> 00:02:49.080
+nous généralement fait de la livraison gratuite à
+
+72
+00:02:49.080 --> 00:02:50.120
+partir d'un certain mont temps.
+
+73
+00:02:50.540 --> 00:02:52.720
+Je me rappelle plus ce qu'on a mis sur miss kimono,
+
+74
+00:02:52.720 --> 00:02:54.880
+mais bon, on va mettre certainement livraison
+
+75
+00:02:54.880 --> 00:02:56.200
+offerte des cinquantes d'achat.
+
+76
+00:02:56.500 --> 00:02:58.280
+Et on va facturer quatre 90.
+
+77
+00:02:58.660 --> 00:03:01.920
+Ça me semble être un bon montant. On n'a rien écrit.
+
+78
+00:03:01.920 --> 00:03:03.520
+Encore une fois, le site n'est pas construit.
+
+79
+00:03:03.900 --> 00:03:07.000
+On va du coup valider ça. Ok?
+
+80
+00:03:07.860 --> 00:03:09.560
+On n'a pas besoin de rajouter de nouveaux services.
+
+81
+00:03:09.570 --> 00:03:12.320
+C'est vraiment par rapport à ça. Conditions de retour.
+
+82
+00:03:12.320 --> 00:03:13.840
+Donc il va falloir qu'on mette un lien
+
+83
+00:03:13.840 --> 00:03:14.920
+vers les conditions de retour.
+
+84
+00:03:16.190 --> 00:03:18.400
+Ajouter une règle France,
+
+85
+00:03:20.280 --> 00:03:22.040
+Belgique up.
+
+86
+00:03:25.030 --> 00:03:28.880
+Donc on va rajouter les conditions de retour politique
+
+87
+00:03:30.130 --> 00:03:32.680
+politiques de rétractation en là.
+
+88
+00:03:35.260 --> 00:03:38.000
+Oui, j'accepte les retours par envoi postal
+
+89
+00:03:39.380 --> 00:03:41.740
+envoie la charge du client, envoie la charge du client
+
+90
+00:03:43.180 --> 00:03:47.540
+14 jours non, pas d'extension,
+
+91
+00:03:48.380 --> 00:03:50.300
+sélection n les cas neuf
+
+92
+00:03:53.910 --> 00:03:58.300
+euros, aucun frais de remise de stock et ok.
+
+93
+00:03:58.920 --> 00:04:02.940
+Et ensuite on va mettre du coup ajouter une règle valable.
+
+94
+00:04:02.940 --> 00:04:05.580
+Donc suisse, suisse, il n'y a pas de retour.
+
+95
+00:04:06.570 --> 00:04:08.620
+Donc encore une fois, rétractation, non,
+
+96
+00:04:08.620 --> 00:04:10.900
+je n'accepte pas les retours et je
+
+97
+00:04:11.850 --> 00:04:13.460
+veux maintenant pour la suisse,
+
+98
+00:04:13.710 --> 00:04:16.780
+c'est très important de respecter vraiment les règles
+
+99
+00:04:16.780 --> 00:04:18.420
+légales sur le Google marchand.
+
+100
+00:04:18.420 --> 00:04:20.300
+Parce que si vous faites pas ça bien,
+
+101
+00:04:20.300 --> 00:04:23.140
+vous risquez un ban assez rapidement.
+
+102
+00:04:23.380 --> 00:04:26.580
+D'accord, non. Voici pour la première étape.
+
+103
+00:04:27.160 --> 00:04:29.500
+On va retourner dans les étapes qu'on doit faire.
+
+104
+00:04:29.850 --> 00:04:33.780
+Donc je relique sur les deux étapes manquantes.
+
+105
+00:04:34.370 --> 00:04:36.500
+Donc fournissez l'adresse de votre entreprise.
+
+106
+00:04:37.370 --> 00:04:39.220
+Donc voilà, n'hésitez pas à mettre
+
+107
+00:04:39.650 --> 00:04:41.340
+l'adresse qu'on avait mise.
+
+108
+00:04:41.340 --> 00:04:42.500
+Donc ça,
+
+109
+00:04:42.500 --> 00:04:45.140
+je vous laisse remplir cette partie ou on ne sait pas encore
+
+110
+00:04:45.140 --> 00:04:47.260
+dans quelle entités légale qu'on va mène.
+
+111
+00:04:47.260 --> 00:04:48.660
+Donc ça, site web.
+
+112
+00:04:48.660 --> 00:04:51.700
+Si votre site n'est pas revendiqué, mettez le branding.
+
+113
+00:04:51.700 --> 00:04:53.180
+Bien sûr, pensez à mettre le logo.
+
+114
+00:04:53.320 --> 00:04:54.380
+Je ne vais pas le faire maintenant,
+
+115
+00:04:54.380 --> 00:04:57.420
+mais vous devez mettre un logo carré, un logo rectangulaire.
+
+116
+00:04:57.760 --> 00:05:01.220
+Ok, donc format un et un format.
+
+117
+00:05:01.960 --> 00:05:05.580
+Je peux le faire enregistrer l'image Cho miss qui
+
+118
+00:05:05.690 --> 00:05:07.340
+mono hop.
+
+119
+00:05:13.140 --> 00:05:15.060
+Toujours. Si vous vous rappelez le module,
+
+120
+00:05:15.320 --> 00:05:18.820
+si de formation normalement, vous devriez avoir
+
+121
+00:05:19.570 --> 00:05:21.500
+vous rappeler que vous devez faire un svg.
+
+122
+00:05:21.620 --> 00:05:23.340
+Alors ça n'a pas marché parce que demande un
+
+123
+00:05:23.350 --> 00:05:24.780
+ratio, je le ferais plus tard.
+
+124
+00:05:24.780 --> 00:05:27.140
+J'ouvrirais mon illustrateur pour le faire.
+
+125
+00:05:27.140 --> 00:05:29.380
+Mais vous avez compris l'idée, l'idée, c'est d',
+
+126
+00:05:29.690 --> 00:05:30.700
+vous me remplissez tout ça.
+
+127
+00:05:30.700 --> 00:05:32.540
+Donc normalement, ça devrait ensuite se valider.
+
+128
+00:05:35.430 --> 00:05:37.420
+Fournissez le numéro téléphone valide.
+
+129
+00:05:37.540 --> 00:05:38.940
+Alors oui, il faut un numéro de téléphone.
+
+130
+00:05:38.940 --> 00:05:40.500
+C'est très important parce que vous, le marchand va vous
+
+131
+00:05:40.500 --> 00:05:42.660
+envoyer un sms ou un appel pour valider.
+
+132
+00:05:42.730 --> 00:05:44.740
+Soit vous mettez votre numéro de téléphone personnel,
+
+133
+00:05:44.890 --> 00:05:47.620
+soit vous avez des applications de type on off qui vous
+
+134
+00:05:47.620 --> 00:05:50.180
+permettent de générer des numéros de téléphone.
+
+135
+00:05:50.180 --> 00:05:52.740
+Et donc de pouvoir utiliser ce numéro, ok?
+
+136
+00:05:56.520 --> 00:05:58.720
+Et puis il va nous manquer pour résoudre les problèmes de
+
+137
+00:05:58.720 --> 00:05:59.880
+enfin rajouter les produits.
+
+138
+00:05:59.900 --> 00:06:01.960
+Je vais vous montrer dès maintenant au c'est parce que dans
+
+139
+00:06:01.960 --> 00:06:04.800
+le module prochain, on va créer le flux
+
+140
+00:06:04.800 --> 00:06:06.160
+justement, qui est intéressant.
+
+141
+00:06:06.470 --> 00:06:08.320
+Vous allez voir un bon ça.
+
+142
+00:06:08.340 --> 00:06:09.480
+Ça met un peu de temps à charger,
+
+143
+00:06:09.480 --> 00:06:12.600
+mais vous allez voir qui vont nous demander de rajouter les
+
+144
+00:06:12.600 --> 00:06:14.040
+informations des produits.
+
+145
+00:06:14.510 --> 00:06:18.240
+Donc, vous voyez effectivement que produit on a des erreurs
+
+146
+00:06:18.240 --> 00:06:20.240
+détectées et compte Google a,
+
+147
+00:06:20.240 --> 00:06:21.680
+on a également des erreurs détectées.
+
+148
+00:06:21.680 --> 00:06:23.480
+Ce qu'il faut savoir, c'est qu'il ne faut jamais
+
+149
+00:06:24.000 --> 00:06:25.240
+rajouter votre compte Google
+
+150
+00:06:25.850 --> 00:06:27.240
+avant la validation des produits.
+
+151
+00:06:27.370 --> 00:06:29.840
+Sinon, vous risquez, si vous avez déjà des comptes googles,
+
+152
+00:06:29.990 --> 00:06:31.520
+vous faire bannir vos comptes de Google.
+
+153
+00:06:31.930 --> 00:06:35.120
+C'est une petite astuce que je vous recommande d'appliquer
+
+154
+00:06:35.390 --> 00:06:37.720
+directement et de ne vraiment d'être patient
+
+155
+00:06:37.770 --> 00:06:39.120
+avant de rajouter ce qu'on est ouverte.
+
+156
+00:06:41.070 --> 00:06:45.670
+Donc on va aller sur la configuration des produits et on va
+
+157
+00:06:46.430 --> 00:06:47.750
+importer plusieurs produits ici.
+
+158
+00:06:47.750 --> 00:06:49.310
+Vous avez c cliqué sur voir toutes les méthodes.
+
+159
+00:06:49.340 --> 00:06:51.750
+Donc vous allez faire fait pays de France vente
+
+160
+00:06:52.320 --> 00:06:55.150
+forcément ces français annonce shopping.
+
+161
+00:06:55.330 --> 00:06:57.270
+Oui, non du flux.
+
+162
+00:06:57.270 --> 00:07:01.030
+Vous pouvez mettre flux principal et vous allez faire
+
+163
+00:07:01.030 --> 00:07:04.470
+récupération planier vous avez du coup faire continuer.
+
+164
+00:07:04.900 --> 00:07:06.710
+Donc là c'est flux i, par exemple,
+
+165
+00:07:06.710 --> 00:07:08.430
+que vous pouvez mettre fréquence de
+
+166
+00:07:08.430 --> 00:07:09.630
+récupération tous les jours à milieu.
+
+167
+00:07:09.630 --> 00:07:11.590
+C'est bien. Et URL du fichier,
+
+168
+00:07:12.040 --> 00:07:14.870
+c'est l'url qu'on va voir dans la prochaine vidéo.
+
+169
+00:07:14.870 --> 00:07:16.950
+Comment le générer? Voilà pour le module
+
+170
+00:07:17.370 --> 00:07:18.550
+de validation du Google.
+
+171
+00:07:19.110 --> 00:07:20.470
+Alors ce qu'il faut savoir ça,
+
+172
+00:07:20.470 --> 00:07:21.990
+c'est d'un point de vue installation,
+
+173
+00:07:22.160 --> 00:07:25.150
+quand vous aurez mis le fichier du flux, eh bien,
+
+174
+00:07:25.410 --> 00:07:27.310
+ça va lancer la première validation Google,
+
+175
+00:07:27.650 --> 00:07:30.590
+qui est la validation algorithmique pour valider que vos
+
+176
+00:07:30.590 --> 00:07:31.990
+produits sont bien valables.
+
+177
+00:07:32.130 --> 00:07:34.470
+Ce qu'il faut savoir, c'est que parfois Google,
+
+178
+00:07:34.890 --> 00:07:36.990
+si vous avez mis des produits de contrefaçon,
+
+179
+00:07:37.410 --> 00:07:39.510
+si vos images n'ont pas été réenregistrées,
+
+180
+00:07:39.510 --> 00:07:41.870
+donc sont des copi exactes de l'express.
+
+181
+00:07:41.870 --> 00:07:44.750
+Il est possible que votre compte soit mis en déclaration
+
+182
+00:07:44.750 --> 00:07:46.270
+trompeuse, ce qu'il faut faire.
+
+183
+00:07:46.410 --> 00:07:49.230
+On verra une vidéo justement quelles vont être les étapes à
+
+184
+00:07:49.230 --> 00:07:51.670
+vérifier pour éviter quand vous mettez le lien.
+
+185
+00:07:51.740 --> 00:07:54.430
+Donc, attendez bien avant de mettre le lien du flux,
+
+186
+00:07:54.430 --> 00:07:55.710
+qu'on voit dans la prochaine vidéo,
+
+187
+00:07:56.170 --> 00:07:58.350
+la vidéo des étapes qui vous permettre d'être
+
+188
+00:07:58.890 --> 00:08:00.150
+à 80 % de chance,
+
+189
+00:08:00.180 --> 00:08:02.550
+d'être certain de pouvoir passer cette validation.
+
+190
+00:08:03.050 --> 00:08:05.230
+On se retrouve du coup dans la prochaine vidéo pour
+
+191
+00:08:05.550 --> 00:08:07.030
+configurer ce fameux flux produit.

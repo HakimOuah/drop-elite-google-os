@@ -16,10 +16,26 @@ Dernière vérification initiale : **2026-08-08**. Vérifier à nouveau avant un
 | Attribut livraison | https://support.google.com/merchants/answer/6324484?hl=fr | coûts et délais complets et cohérents |
 | Données structurées prises en charge | https://support.google.com/merchants/answer/6386198?hl=fr | cohérence page/feed et schema.org |
 
+## Services de comparateur de prix (CSS)
+
+Synthèse dérivée : `docs/css-shopping-france.md` (relevé 2026-08-08).
+
+| Sujet | Source primaire | Usage |
+|---|---|---|
+| Conditions du programme CSS | https://support.google.com/css-center/answer/7524491?hl=fr | critères d'agrément, dont 50 domaines marchands distincts par pays |
+| Démarrer comme CSS | https://support.google.com/css-center/answer/14233609?hl=fr | procédure d'inscription et compte multi-client |
+| Critères des tiers Partner et Premium Partner | https://comparisonshoppingpartners.withgoogle.com/program_criteria/ | seuils d'impressions et de marchands actifs |
+| Annuaire officiel des CSS Partners | https://comparisonshoppingpartners.withgoogle.com/find_a_partner/ | vérifier qu'un prestataire est réellement partenaire en France |
+| À propos de la publicité avec les CSS | https://support.google.com/merchants/answer/7558973?hl=fr | égalité des CSS dans l'enchère, pourcentage fixe déduit des enchères de Google Shopping |
+| Utiliser des services de comparateur de prix | https://support.google.com/merchants/answer/9133811?hl=fr | un seul CSS par compte, procédure de transfert |
+| Travailler avec les CSS, modèles de service | https://support.google.com/merchants/answer/12652686?hl=fr | managé, self-service, hybride, et qui est facturé |
+| Opérations et logistique | https://support.google.com/merchants/answer/16993874?hl=fr | transparence sur l'exécution et les partenaires de traitement des commandes |
+
 ## Google Ads et mesure
 
 | Sujet | Source primaire | Usage |
 |---|---|---|
+| Utilisation abusive du réseau publicitaire | https://support.google.com/adspolicy/answer/6020954?hl=fr | distinguer évolution normale du site, contenu évasif et contournement des systèmes |
 | Configuration des conversions web | https://support.google.com/google-ads/answer/16560108?hl=fr | prérequis de mesure |
 | Valeurs propres à chaque transaction | https://support.google.com/google-ads/answer/6095947?hl=fr | valeur et devise dynamiques |
 | Déduplication par identifiant de transaction | https://support.google.com/google-ads/answer/6386790?hl=fr | empêcher le double comptage |

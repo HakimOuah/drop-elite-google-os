@@ -1,0 +1,1089 @@
+WEBVTT
+
+1
+00:00:01.520 --> 00:00:05.060
+Dans cette vidéo, on va voir comment on connecte Claude à Shopify.
+
+2
+00:00:05.660 --> 00:00:09.540
+Ça me permettra, par exemple, de modifier des produits,
+
+3
+00:00:09.560 --> 00:00:12.940
+que Claude puisse générer du contenu dans les fiches produits directement,
+
+4
+00:00:13.540 --> 00:00:17.080
+créer des collections, créer aussi du contenu pour les collections.
+
+5
+00:00:17.090 --> 00:00:20.760
+Il peut même analyser les données, voir les clients, voir les
+
+6
+00:00:20.800 --> 00:00:24.240
+commandes, potentiellement les traiter en fonction de ce que vous utilisez pour les
+
+7
+00:00:24.260 --> 00:00:28.250
+traiter. Ça a vraiment plein d'avantages, mais c'est assez
+
+8
+00:00:28.280 --> 00:00:31.740
+compliqué, en tout cas à l'heure à laquelle je tourne cette vidéo,
+
+9
+00:00:32.449 --> 00:00:34.020
+de connecter Claude à Shopify.
+
+10
+00:00:35.060 --> 00:00:38.360
+C'est pourquoi j'ai fait la vidéo dédiée, qui est un
+
+11
+00:00:38.380 --> 00:00:42.300
+tuto, j'espère, assez simple. J'ai fait en sorte qu'il soit
+
+12
+00:00:42.920 --> 00:00:46.140
+et qui va sûrement amener à être update.
+
+13
+00:00:46.240 --> 00:00:50.200
+Tout va très vite dans l'IA, donc potentiellement
+
+14
+00:00:50.260 --> 00:00:51.840
+dans deux semaines, un mois,
+
+15
+00:00:52.780 --> 00:00:54.500
+ça n'aura plus d'intérêt, ça sera beaucoup plus simple.
+
+16
+00:00:54.600 --> 00:00:57.240
+Il y aura directement le connecteur dans Claude, on verra.
+
+17
+00:00:57.780 --> 00:01:01.340
+N'hésitez pas à me dire si vous avez trouvé une autre
+
+18
+00:01:01.380 --> 00:01:05.320
+solution. Je n'ai pas trouvé plus simple que ce que je vais vous montrer et ça
+
+19
+00:01:05.380 --> 00:01:07.720
+permettra forcément de
+
+20
+00:01:08.720 --> 00:01:12.330
+vous aider à automatiser beaucoup de tâches directement dans
+
+21
+00:01:12.560 --> 00:01:16.230
+votre site Shopify. Je suis sur un
+
+22
+00:01:16.300 --> 00:01:19.820
+shop test et Claude pourra
+
+23
+00:01:19.860 --> 00:01:23.780
+littéralement accéder à tout. Je ferai sûrement une vidéo dédiée
+
+24
+00:01:23.820 --> 00:01:26.340
+à ce que Claude peut faire et des exemples de ce qu'il peut faire.
+
+25
+00:01:26.560 --> 00:01:29.760
+Par exemple, pour les produits, je pense qu'il y a beaucoup de choses à faire et ça
+
+26
+00:01:29.780 --> 00:01:31.180
+peut être complètement automatisable.
+
+27
+00:01:31.220 --> 00:01:33.760
+Donc, je ferai sûrement une vidéo dédiée à ça.
+
+28
+00:01:33.880 --> 00:01:37.600
+Mais sachez qu'une fois qu'il sera connecté, il a accès aux commandes, il a accès
+
+29
+00:01:37.620 --> 00:01:41.240
+aux produits, il a accès aux clients, au marketing, aux réductions, aux images, au
+
+30
+00:01:41.280 --> 00:01:45.220
+contenu, aux articles de blog, à tous les markets, analyse de données.
+
+31
+00:01:45.340 --> 00:01:48.700
+Il a vraiment accès à tout, même à votre thème et donc à votre
+
+32
+00:01:48.740 --> 00:01:51.060
+code, et donc possiblement faire du design
+
+33
+00:01:52.520 --> 00:01:56.440
+de manière autonome, etc. Première étape : j'ai
+
+34
+00:01:56.500 --> 00:01:57.350
+créé une
+
+35
+00:01:58.300 --> 00:02:02.280
+sorte de
+
+36
+00:02:02.360 --> 00:02:04.280
+petit tuto pour aider Claude à
+
+37
+00:02:05.520 --> 00:02:05.940
+avancer,
+
+38
+00:02:07.600 --> 00:02:08.720
+pour ne pas qu'on fasse les étapes.
+
+39
+00:02:08.920 --> 00:02:12.300
+Je vais le faire en même temps que vous, mais je vais lancer directement ça.
+
+40
+00:02:12.520 --> 00:02:16.360
+Il y aura sûrement un lien qui vous permettra de copier ce
+
+41
+00:02:16.400 --> 00:02:19.380
+fichier. On va juste donner ça à Claude.
+
+42
+00:02:20.180 --> 00:02:20.880
+Je vais ouvrir Claude.
+
+43
+00:02:21.200 --> 00:02:25.090
+Je vais juste lui
+
+44
+00:02:25.120 --> 00:02:27.960
+coller le contenu et on va le lancer.
+
+45
+00:02:30.580 --> 00:02:34.240
+Et on va suivre les étapes une par une
+
+46
+00:02:34.340 --> 00:02:34.660
+afin
+
+47
+00:02:35.660 --> 00:02:39.500
+de le faire ensemble. Comme ça, vous avez, d'un, le tuto, Claude vous
+
+48
+00:02:39.540 --> 00:02:42.640
+expliquera tout. Et de deux, vous aurez visuellement en vidéo aussi
+
+49
+00:02:43.900 --> 00:02:46.360
+la façon de faire visuelle, ce sera aussi plus simple.
+
+50
+00:02:47.240 --> 00:02:50.340
+Je suis exactement ce qu'il me dit. Je vais tout coller.
+
+51
+00:02:50.440 --> 00:02:53.880
+Il me dit : « Étape 1/ Dev dashboard Shopify. Voilà ce que tu dois faire.
+
+52
+00:02:53.890 --> 00:02:57.470
+» Donc, je vais sur Shopify, je vais dans les paramètres, Application et canaux de
+
+53
+00:02:57.520 --> 00:02:59.080
+vente, Développer des applications.
+
+54
+00:02:59.740 --> 00:03:03.540
+Si c'est la première fois : Autoriser, Développer des applications, Aller dans le
+
+55
+00:03:03.580 --> 00:03:04.140
+Dev Dashboard.
+
+56
+00:03:05.040 --> 00:03:06.000
+Je vais dans Paramètres.
+
+57
+00:03:07.420 --> 00:03:11.060
+Je vais dans Applications. Je vais faire Développer tout en haut des applications.
+
+58
+00:03:11.920 --> 00:03:15.769
+Ici, logiquement, vous n'y avez pas accès, parce que d'un, on est
+
+59
+00:03:15.820 --> 00:03:18.200
+sur un site test, de deux, c'est un site qui existe depuis
+
+60
+00:03:19.620 --> 00:03:22.640
+quelques années, donc il y avait accès à ça avant.
+
+61
+00:03:23.120 --> 00:03:25.460
+Mais normalement, vous avez accès qu'à cette partie-là.
+
+62
+00:03:26.520 --> 00:03:28.220
+Si on suit ce que Claude dit,
+
+63
+00:03:29.580 --> 00:03:31.400
+développer des applications, aller dans le Dev Dashboard.
+
+64
+00:03:31.820 --> 00:03:34.450
+On clique sur Développer des applications dans le Dev Dashboard.
+
+65
+00:03:35.480 --> 00:03:35.510
+Et
+
+66
+00:03:37.320 --> 00:03:37.430
+là,
+
+67
+00:03:38.340 --> 00:03:42.080
+confirme-moi quand tu es dans le Dev Dashboard. J'y suis.
+
+68
+00:03:42.240 --> 00:03:43.920
+Je lui dis que c'est bon. Je lui dis : « Fait.
+
+69
+00:03:43.930 --> 00:03:45.680
+» Ce sera plus simple, je pense,
+
+70
+00:03:46.520 --> 00:03:50.280
+à gérer comme ça. Clique sur Créer une application. Donne-lui un nom.
+
+71
+00:03:50.700 --> 00:03:54.440
+Claude XShop, c'est un nom basique que j'avais donné dans l'exemple et dans son
+
+72
+00:03:54.480 --> 00:03:56.480
+tuto, mais vous l'appelez comme vous voulez.
+
+73
+00:03:57.340 --> 00:03:59.540
+Donc, créer une application, on lui donne un nom et on valide.
+
+74
+00:04:00.140 --> 00:04:02.200
+Créer une application.
+
+75
+00:04:03.540 --> 00:04:03.730
+Je vais
+
+76
+00:04:05.160 --> 00:04:05.740
+remettre la même.
+
+77
+00:04:06.660 --> 00:04:09.860
+Encore une fois, vous l'appelez comme vous voulez, peu importe. Et je fais créer.
+
+78
+00:04:10.920 --> 00:04:13.040
+Je rouvre Claude. Je lui dis que c'est fait.
+
+79
+00:04:15.200 --> 00:04:15.640
+Ensuite,
+
+80
+00:04:18.899 --> 00:04:22.760
+va dans l'onglet Configuration de lab, trouve la Admin access
+
+81
+00:04:22.800 --> 00:04:25.420
+scope, coche exactement ces permissions.
+
+82
+00:04:25.620 --> 00:04:27.080
+Là, on est directement sur la page.
+
+83
+00:04:30.120 --> 00:04:32.900
+Il nous dit de toucher juste les accès ici.
+
+84
+00:04:32.940 --> 00:04:35.580
+Peut-être que je renommerai pour que ce soit plus simple, mais c'est pour ça aussi
+
+85
+00:04:35.620 --> 00:04:39.180
+que la vidéo est là. C'est bien dans Champ d'accès, ici, qu'il faut
+
+86
+00:04:39.220 --> 00:04:41.219
+sélectionner des champs. Tout le reste, on ne touche pas.
+
+87
+00:04:41.960 --> 00:04:45.520
+Je vais faire Sélectionner. Et là, il nous dit plusieurs choses.
+
+88
+00:04:45.940 --> 00:04:49.680
+Ça va dépendre de ce à quoi vous voulez qu'il ait
+
+89
+00:04:49.690 --> 00:04:53.140
+accès. J'ai mis voici quelques exemples : les
+
+90
+00:04:53.180 --> 00:04:55.180
+analytics, les fichiers, le méta objet.
+
+91
+00:04:55.900 --> 00:04:58.820
+En fonction de ce dont vous avez besoin, ce que vous voulez que Claude puisse
+
+92
+00:04:58.840 --> 00:05:00.360
+modifier sur votre shop, à vous de
+
+93
+00:05:01.680 --> 00:05:02.020
+regarder
+
+94
+00:05:04.700 --> 00:05:06.300
+ce qui est possible et de
+
+95
+00:05:07.860 --> 00:05:09.180
+cocher en fonction de vos besoins.
+
+96
+00:05:09.260 --> 00:05:10.300
+Moi, je sais que
+
+97
+00:05:11.320 --> 00:05:11.920
+les fichiers,
+
+98
+00:05:13.000 --> 00:05:15.000
+je veux qu'il puisse lire et écrire,
+
+99
+00:05:15.860 --> 00:05:16.740
+les méta objets.
+
+100
+00:05:18.020 --> 00:05:21.880
+On ne s'occupe que du admin API. Le reste, store customer, on
+
+101
+00:05:21.920 --> 00:05:22.320
+s'en f**t.
+
+102
+00:05:23.560 --> 00:05:24.500
+En tout cas, pour notre cas.
+
+103
+00:05:25.880 --> 00:05:26.420
+Product.
+
+104
+00:05:27.240 --> 00:05:31.120
+Là, je ne suis pas sûr des grosses différences, donc je
+
+105
+00:05:31.140 --> 00:05:31.720
+vais tout cocher.
+
+106
+00:05:32.700 --> 00:05:35.980
+Je lui donne accès en écriture aussi parce que dans la vidéo d'après,
+
+107
+00:05:36.860 --> 00:05:37.260
+je ferai
+
+108
+00:05:38.480 --> 00:05:40.880
+tourner Claude pour qu'il puisse me modifier un produit entièrement, mais encore
+
+109
+00:05:40.900 --> 00:05:43.640
+une fois, en fonction de ce que vous avez besoin, vous le faites.
+
+110
+00:05:45.140 --> 00:05:45.680
+Content
+
+111
+00:05:46.500 --> 00:05:49.360
+pour les pages et les articles de blog.
+
+112
+00:05:52.100 --> 00:05:54.560
+Les orders, si vous avez envie, je vais le faire, mais bon,
+
+113
+00:05:55.380 --> 00:05:56.720
+ça ne me servira pas pour le coup.
+
+114
+00:05:57.880 --> 00:06:00.080
+Il y a draft, il y a les order, order
+
+115
+00:06:00.160 --> 00:06:04.032
+editingFullfillment si besoin.
+
+116
+00:06:04.612 --> 00:06:07.112
+Et là, on est bon. Qu'est-ce qu'il y aurait d'autre ?
+
+117
+00:06:07.432 --> 00:06:08.911
+Je pense qu'on est pas mal.
+
+118
+00:06:10.152 --> 00:06:11.452
+À vous, encore une fois, de fouiller.
+
+119
+00:06:12.892 --> 00:06:14.862
+Ça me suffira pour l'instant, donc je vais faire « Terminer ».
+
+120
+00:06:15.852 --> 00:06:19.802
+Sachant que ça a composé ici directement
+
+121
+00:06:19.852 --> 00:06:22.632
+les champs. Chacun est séparé par une virgule.
+
+122
+00:06:22.682 --> 00:06:24.122
+Logiquement,
+
+123
+00:06:25.592 --> 00:06:26.492
+vous pouvez copier ça
+
+124
+00:06:27.432 --> 00:06:29.092
+et rajouter une virgule à chaque,
+
+125
+00:06:30.632 --> 00:06:32.652
+il n'y aura pas besoin de sélectionner à la main et on sera bon.
+
+126
+00:06:33.472 --> 00:06:34.832
+Je retourne dans Claude.
+
+127
+00:06:36.532 --> 00:06:39.892
+Je sélectionne, « Clique sur Enregistrer ou Publier,
+
+128
+00:06:40.292 --> 00:06:41.692
+confirme-moi quand c'est fait ».
+
+129
+00:06:43.432 --> 00:06:47.052
+On va faire « Publier ». Nom de la version,
+
+130
+00:06:47.432 --> 00:06:50.452
+vous mettez ce que vous voulez, V1 par exemple.
+
+131
+00:06:50.462 --> 00:06:51.772
+Peu importe, c'est vraiment pour vous.
+
+132
+00:06:53.282 --> 00:06:55.712
+D'ailleurs, c'est facultatif, je n'avais même pas besoin de le faire.
+
+133
+00:06:56.032 --> 00:06:59.112
+Je vois que c'est fait, donc je vais retourner sur Claude et je vais dire : « Fait.
+
+134
+00:07:01.392 --> 00:07:01.392
+»
+
+135
+00:07:02.992 --> 00:07:06.311
+Ensuite, il me dit : « Va dans l'onglet Version de l'app, clique sur Créer une
+
+136
+00:07:06.332 --> 00:07:09.752
+version. » C'est ce qu'on a fait juste avant, donc c'est bon.
+
+137
+00:07:09.912 --> 00:07:12.272
+Je vais faire « Fait ». J'ai un peu passé une étape.
+
+138
+00:07:14.132 --> 00:07:18.032
+« Installe l'app sur ton shop, va dans Distribution, sélectionne
+
+139
+00:07:18.092 --> 00:07:21.272
+Distribution personnalisée, entre l'URL, etc.
+
+140
+00:07:21.612 --> 00:07:25.132
+» Distribution, on ne le voit pas, donc je le
+
+141
+00:07:25.192 --> 00:07:28.852
+renommerai. Il faut juste cliquer sur son app en haut, sur le nom de son app,
+
+142
+00:07:29.352 --> 00:07:31.332
+et on arrive ici, sur l'aperçu.
+
+143
+00:07:32.212 --> 00:07:33.812
+Je croyais l'avoir mis à jour, mais je le mettrai à jour.
+
+144
+00:07:34.012 --> 00:07:35.832
+Vous, il ne vous dira pas ça, il vous dira le bon endroit.
+
+145
+00:07:36.912 --> 00:07:39.872
+Sous Dev dashboard, cliquez sur le nom de votre app, dans Aperçu.
+
+146
+00:07:40.412 --> 00:07:41.532
+Ce qu'il nous
+
+147
+00:07:43.712 --> 00:07:44.172
+explique,
+
+148
+00:07:45.672 --> 00:07:48.272
+c'est de faire une distribution. Je vais peut-être décaler.
+
+149
+00:07:48.812 --> 00:07:51.832
+Vous voyez, on a bien la mention de distribution à droite,
+
+150
+00:07:51.912 --> 00:07:55.692
+ici. Et j'entre l'URL.
+
+151
+00:07:55.952 --> 00:07:58.852
+Je vais cliquer sur Sélectionner le mode.
+
+152
+00:07:58.892 --> 00:08:01.952
+Ça va m'ouvrir une nouvelle page sur laquelle je vais prendre Distribution
+
+153
+00:08:01.972 --> 00:08:05.352
+personnalisée. Je vais faire Sélectionner. On valide.
+
+154
+00:08:05.412 --> 00:08:06.992
+Et ici, il va me demander pour quel shop.
+
+155
+00:08:07.472 --> 00:08:09.812
+Ça, je ne suis pas obligé de le cocher, peu importe.
+
+156
+00:08:09.892 --> 00:08:10.752
+Je vais aller récupérer
+
+157
+00:08:11.852 --> 00:08:12.832
+l'URL de mon shop.
+
+158
+00:08:14.572 --> 00:08:15.592
+Et ici, je vais coller.
+
+159
+00:08:16.792 --> 00:08:19.212
+Ça va me générer un lien.
+
+160
+00:08:20.472 --> 00:08:23.612
+On va copier ce lien pour l'instant et je vais retourner juste dans Claude pour lui
+
+161
+00:08:23.632 --> 00:08:25.052
+dire que
+
+162
+00:08:26.392 --> 00:08:29.092
+c'est fait. « Ouvre ce lien et installer.
+
+163
+00:08:29.102 --> 00:08:31.511
+» Non, je vais continuer le tuto. On va coller.
+
+164
+00:08:33.212 --> 00:08:34.592
+Et ici, ça nous demande d'installer.
+
+165
+00:08:34.632 --> 00:08:37.033
+Donc, je vais faire « Installer » et c'est là que Claude avait fini.
+
+166
+00:08:38.672 --> 00:08:42.112
+C'est normal que ça arrive sur une page où il n'y a rien,
+
+167
+00:08:42.893 --> 00:08:46.112
+mais si on retourne dans Paramètres, Application,
+
+168
+00:08:47.352 --> 00:08:48.392
+on a bien l'app qui est installée.
+
+169
+00:08:50.612 --> 00:08:51.452
+Je lui dis que c'est fait.
+
+170
+00:08:53.732 --> 00:08:54.712
+On va voir la suite.
+
+171
+00:08:58.772 --> 00:09:01.212
+Identifiant. Je retourne sur le Dev dashboard.
+
+172
+00:09:01.352 --> 00:09:04.212
+On est bien là.
+
+173
+00:09:06.192 --> 00:09:10.032
+« Clique sur ton application Cloudics, va dans les paramètres.
+
+174
+00:09:10.062 --> 00:09:10.352
+» OK.
+
+175
+00:09:12.052 --> 00:09:15.032
+Effectivement, je me rappelle, c'est là que j'allais modifier cette info.
+
+176
+00:09:16.232 --> 00:09:17.732
+Il faudra que je le fasse pour l'étape
+
+177
+00:09:18.912 --> 00:09:21.352
+d'avant. Je vais dans Paramètres, comme il a dit.
+
+178
+00:09:23.032 --> 00:09:26.392
+Ensuite, il me dit : « Copie le client ID, le secret.
+
+179
+00:09:27.072 --> 00:09:27.472
+» OK.
+
+180
+00:09:29.492 --> 00:09:32.152
+De toute façon, je vais tout révoquer, donc peu importe si vous le voyez.
+
+181
+00:09:33.892 --> 00:09:37.712
+Et : « Colle-moi ici » le client ID. Je fais un Shift Enter
+
+182
+00:09:37.772 --> 00:09:41.672
+pour un retour à la ligne. On va copier le secret que je vais vous
+
+183
+00:09:41.712 --> 00:09:43.572
+montrer parce que de toute façon, il sera visible après.
+
+184
+00:09:44.832 --> 00:09:46.992
+Et il me faut l'URL du shop.
+
+185
+00:09:53.072 --> 00:09:53.522
+Coller. «
+
+186
+00:09:54.432 --> 00:09:57.072
+Colle-moi ici les trois infos. » Il a les trois infos.
+
+187
+00:09:57.172 --> 00:09:57.672
+Je fais « Envoyer
+
+188
+00:09:59.712 --> 00:09:59.712
+».
+
+189
+00:10:01.312 --> 00:10:05.232
+OK, donc là, il me demande d'ajouter le MCP : « Colle cette ligne
+
+190
+00:10:05.312 --> 00:10:05.712
+dans ton
+
+191
+00:10:07.172 --> 00:10:10.832
+terminal ». Je vais copier cette ligne-là.
+
+192
+00:10:12.072 --> 00:10:13.612
+Je vais créer un nouveau terminal de commande
+
+193
+00:10:15.432 --> 00:10:18.891
+et je vais le coller. Je pense qu'il va me mettre une erreur comme quoi je l'ai
+
+194
+00:10:18.932 --> 00:10:22.232
+déjà créé juste avant pour le test. On va voir ça tout de suite.
+
+195
+00:10:22.692 --> 00:10:26.212
+Voilà, il existe déjà. Ce que je vais faire, pour vous montrer que ça fonctionne
+
+196
+00:10:26.252 --> 00:10:29.262
+bien, je vais
+
+197
+00:10:33.532 --> 00:10:35.232
+copier mon erreur, simplement,
+
+198
+00:10:37.992 --> 00:10:40.091
+en lui disant : « Je l'avais déjà.
+
+199
+00:10:41.552 --> 00:10:41.942
+On peut
+
+200
+00:10:44.032 --> 00:10:44.552
+supprimer
+
+201
+00:10:47.572 --> 00:10:48.012
+l'ancien
+
+202
+00:10:50.052 --> 00:10:52.712
+et refaire. » Je lui explique.
+
+203
+00:10:53.632 --> 00:10:56.532
+Normalement, vous n'aurez pas du tout cette erreur vu que c'est la première fois
+
+204
+00:10:56.572 --> 00:10:57.272
+que vous allez le faire.
+
+205
+00:10:58.152 --> 00:11:00.532
+Il me demande de faire la modif lui-même, donc j'accepte.
+
+206
+00:11:00.672 --> 00:11:02.262
+Encore une fois, c'est une étape que vous n'aurez pas.
+
+207
+00:11:03.172 --> 00:11:04.032
+Ça, une fois que c'est fait,
+
+208
+00:11:05.052 --> 00:11:08.222
+ça a un peu m***é de mon côté, mais ce n'est pas grave, c'est
+
+209
+00:11:08.292 --> 00:11:11.952
+corrigé. Encore une fois, vous n'aurez pas le problème puisque vous ne l'avez pas
+
+210
+00:11:12.002 --> 00:11:12.592
+fait déjà avant.
+
+211
+00:11:13.412 --> 00:11:15.752
+Sinon, encore une fois, il corrige automatiquement.
+
+212
+00:11:17.632 --> 00:11:21.352
+C'est parfait. « Ferme Claude complètement, rouvre Claude
+
+213
+00:11:21.852 --> 00:11:24.112
+et tape Resume pour revenir à cette conversation.
+
+214
+00:11:24.122 --> 00:11:24.122
+»
+
+215
+00:11:25.052 --> 00:11:25.812
+Je vais copier ça.
+
+216
+00:11:27.592 --> 00:11:28.672
+Je vais le fermer.
+
+217
+00:11:30.192 --> 00:11:33.512
+Je vais faire une nouvelle fenêtre.
+
+218
+00:11:37.772 --> 00:11:39.432
+J'ai rouvert la bonne
+
+219
+00:11:40.672 --> 00:11:44.292
+conversation et je colle : « Liste-moi trois produits de mon shop
+
+220
+00:11:45.772 --> 00:11:47.152
+» et on va voir si ça a fonctionné.
+
+221
+00:11:52.812 --> 00:11:55.372
+OK, la connexion fonctionne. Voici les trois produits.
+
+222
+00:11:56.552 --> 00:11:58.552
+On va vérifier, je vais vous montrer que c'est bien ça.
+
+223
+00:12:00.712 --> 00:12:02.472
+Je ne sais pas dans quel ordre il les prend.
+
+224
+00:12:02.532 --> 00:12:06.452
+J'imagine que c'est la date de créationJ'avoue, je ne sais pas
+
+225
+00:12:06.472 --> 00:12:08.132
+trop. Oui, ça doit être ça.
+
+226
+00:12:09.532 --> 00:12:12.161
+Oui, c'est ça. Donc « Portefeuille ».
+
+227
+00:12:15.012 --> 00:12:17.252
+Il me met même les prix, le stock, etc.
+
+228
+00:12:17.732 --> 00:12:21.612
+Encore une fois, ce sera une vidéo dédiée, mais là, on est
+
+229
+00:12:21.651 --> 00:12:23.412
+connecté. On a juste suivi le tuto.
+
+230
+00:12:24.772 --> 00:12:28.132
+Tout est bon. Là, il a accès à tout. Si j'ai envie,
+
+231
+00:12:28.692 --> 00:12:31.072
+je peux lui demander, par exemple, dans l'horloge,
+
+232
+00:12:32.772 --> 00:12:35.152
+de modifier des métas files, de
+
+233
+00:12:36.212 --> 00:12:40.192
+traduire les variantes, par exemple, de modifier les prix, les
+
+234
+00:12:40.252 --> 00:12:43.952
+images, on en parlera dans la vidéo dédiée, de faire une description, de mettre la
+
+235
+00:12:44.012 --> 00:12:44.852
+bonne collection,
+
+236
+00:12:46.052 --> 00:12:47.032
+les bonnes balises.
+
+237
+00:12:48.152 --> 00:12:48.632
+Il peut tout faire
+
+238
+00:12:50.372 --> 00:12:54.272
+sur la fiche produit. Ça sera une vidéo dédiée, mais le but de cette vidéo,
+
+239
+00:12:54.372 --> 00:12:58.332
+c'était de vous montrer comment on le connecte. Là, on est connectés.
+
+240
+00:12:58.592 --> 00:12:59.792
+J'allais dire que c'est aussi simple que ça, mais
+
+241
+00:13:00.932 --> 00:13:04.152
+le tuto est bien. N'hésitez pas à
+
+242
+00:13:05.072 --> 00:13:06.472
+coller, faire exactement comme moi.
+
+243
+00:13:07.242 --> 00:13:09.112
+N'hésitez pas à me dire si vous bloquez quelque part.
+
+244
+00:13:09.612 --> 00:13:12.692
+N'hésitez pas aussi à me dire si jamais vous avez une autre solution plus
+
+245
+00:13:12.752 --> 00:13:15.412
+simple. Là, ce n'est pas très compliqué en soi.
+
+246
+00:13:15.472 --> 00:13:18.772
+Il faut juste suivre les étapes une par une et on arrive bien
+
+247
+00:13:18.812 --> 00:13:19.572
+à
+
+248
+00:13:21.112 --> 00:13:23.052
+un Shopify qui est connecté à Claude directement.
+
+249
+00:13:23.312 --> 00:13:27.272
+Là, je l'ai fait via Claude Code, mais c'est exactement le même
+
+250
+00:13:27.332 --> 00:13:29.272
+système directement depuis l'application
+
+251
+00:13:31.192 --> 00:13:33.752
+Claude. C'est exactement pareil.
+
+252
+00:13:34.512 --> 00:13:37.472
+Il y a peut-être une petite différence dans le sens où il va vouloir écrire un
+
+253
+00:13:37.532 --> 00:13:39.372
+fichier. Il faudra peut-être le faire manuellement ou pas.
+
+254
+00:13:40.192 --> 00:13:43.122
+En tout cas, je vous conseille quand même de passer par Claude Code.
+
+255
+00:13:43.122 --> 00:13:43.532
+Pourquoi
+
+256
+00:13:45.152 --> 00:13:49.032
+? Ça vous permet d'automatiser beaucoup plus simplement
+
+257
+00:13:49.072 --> 00:13:51.292
+les tâches par la suite sur l'édition de produits.
+
+258
+00:13:52.432 --> 00:13:55.942
+D'ailleurs, ça me fait penser à une chose que je vais
+
+259
+00:13:56.552 --> 00:13:57.832
+mettre en début de vidéo, mais
+
+260
+00:13:59.692 --> 00:14:01.432
+je suis sur Mac.
+
+261
+00:14:03.092 --> 00:14:03.712
+Sur PC,
+
+262
+00:14:05.052 --> 00:14:08.972
+logiquement, je ne sais pas trop s'il y a une grosse
+
+263
+00:14:09.012 --> 00:14:12.912
+différence. J'essaierai de mettre les tutos pour installer Claude Code
+
+264
+00:14:12.972 --> 00:14:16.692
+pour PC et pour Mac. C'est assez simple, honnêtement.
+
+265
+00:14:17.232 --> 00:14:21.032
+C'est une ligne de commande. Ça vous demande de vous connecter, ça vous demande un
+
+266
+00:14:21.832 --> 00:14:24.772
+dossier où il va travailler. Logiquement, après, il est installé.
+
+267
+00:14:26.012 --> 00:14:29.852
+Je vais le rouvrir.
+
+268
+00:14:30.292 --> 00:14:32.012
+Vous n'avez plus qu'à coller ce petit tuto
+
+269
+00:14:33.032 --> 00:14:35.872
+qui lui permettra de vous guider étape par étape.
+
+270
+00:14:36.392 --> 00:14:37.872
+C'est assez simple, c'est en huit étapes
+
+271
+00:14:39.132 --> 00:14:41.812
+pour connecter Claude à Shopify.
+
+272
+00:14:42.652 --> 00:14:43.592
+Salut à tous.

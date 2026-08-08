@@ -1,0 +1,9169 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:03.940
+Aucun avantage à passer par l'API, surtout si tu as un abonnement.
+
+2
+00:00:05.160 --> 00:00:07.380
+Du coup, ça ne change rien. Est-ce que l'API
+
+3
+00:00:07.460 --> 00:00:10.920
+donne un avantage, tu penses, de passer par Claude Code
+
+4
+00:00:12.240 --> 00:00:12.240
+?
+
+5
+00:00:12.280 --> 00:00:12.810
+Par rapport à quoi
+
+6
+00:00:13.780 --> 00:00:13.780
+?
+
+7
+00:00:13.920 --> 00:00:17.900
+Par rapport à la rédaction de la fiche produit,
+
+8
+00:00:18.320 --> 00:00:19.260
+quand ça prend toutes les infos.
+
+9
+00:00:22.500 --> 00:00:25.420
+L'API, c'est juste la fenêtre normale, le chat normal.
+
+10
+00:00:27.900 --> 00:00:28.900
+C'est-à-dire ? Je ne comprends pas.
+
+11
+00:00:30.560 --> 00:00:32.000
+Tu dis en plus que tu as Claude Code
+
+12
+00:00:32.960 --> 00:00:36.760
+alors qu'avec l'API dans n8n, c'est juste le chat
+
+13
+00:00:36.840 --> 00:00:37.180
+normal
+
+14
+00:00:38.600 --> 00:00:41.460
+au niveau du prompt. Tu penses qu'il y a une différence de passer par Claude Code
+
+15
+00:00:42.500 --> 00:00:42.500
+?
+
+16
+00:00:42.660 --> 00:00:43.980
+C'est quoi l'API dans n8n
+
+17
+00:00:45.220 --> 00:00:45.220
+?
+
+18
+00:00:45.260 --> 00:00:47.360
+Le module d'Anthropic.
+
+19
+00:00:48.380 --> 00:00:48.700
+Ah.
+
+20
+00:00:49.540 --> 00:00:53.500
+Non, c'est pareil. C'est juste que tu vas payer dans n8n alors
+
+21
+00:00:53.540 --> 00:00:55.980
+que dans Claude Code, ce sera ton abonnement.
+
+22
+00:01:00.600 --> 00:01:03.560
+Après, tu disais que tu utilisais Google,
+
+23
+00:01:03.600 --> 00:01:05.100
+non ?
+
+24
+00:01:05.620 --> 00:01:05.780
+Oui.
+
+25
+00:01:06.500 --> 00:01:07.250
+Pour l'API. Là,
+
+26
+00:01:08.100 --> 00:01:08.520
+logiquement,
+
+27
+00:01:09.360 --> 00:01:10.380
+quand tu fais un produit
+
+28
+00:01:11.680 --> 00:01:14.860
+de A à Z dans n8n, tu vas payer un peu d'API Google.
+
+29
+00:01:16.440 --> 00:01:16.740
+Oui.
+
+30
+00:01:17.460 --> 00:01:17.580
+Là,
+
+31
+00:01:18.940 --> 00:01:22.880
+le fait de faire ce test-là va faire que ce sera 100 % dans
+
+32
+00:01:22.980 --> 00:01:25.400
+ton abonnement Claude, donc tu payeras zéro.
+
+33
+00:01:27.760 --> 00:01:28.240
+C'est déjà inclus.
+
+34
+00:01:28.300 --> 00:01:28.440
+Oui,
+
+35
+00:01:29.500 --> 00:01:30.360
+c'est sûr. Pour tester.
+
+36
+00:01:30.400 --> 00:01:30.580
+Oui.
+
+37
+00:01:31.560 --> 00:01:35.520
+En plus, comme ça, tu en lances un
+
+38
+00:01:35.600 --> 00:01:38.680
+via n8n, tu en lances un via Claude et tu vois les deux.
+
+39
+00:01:39.190 --> 00:01:40.100
+Pire, tu fais le même produit.
+
+40
+00:01:40.860 --> 00:01:43.280
+Oui, c'est ça. Tu as le même produit.
+
+41
+00:01:43.300 --> 00:01:46.260
+Oui. Comme ça, tu auras les mêmes prompts, sauf qu'il y en aura un, c'est Gemini
+
+42
+00:01:46.360 --> 00:01:48.720
+via n8n, et l'autre, ça sera Claude de A à Z
+
+43
+00:01:49.820 --> 00:01:50.140
+direct.
+
+44
+00:01:50.620 --> 00:01:52.460
+Oui, c'est exactement ça. Je vais tester.
+
+45
+00:01:52.580 --> 00:01:55.520
+À la fin, si j'aime bien Claude, je resterai avec l'API.
+
+46
+00:01:55.610 --> 00:01:57.880
+Tu verras ce que ça donne, les deux, la différence.
+
+47
+00:01:57.980 --> 00:02:01.200
+Oui. Parce que je pense que je passerai par l'API, parce que faire le truc à la
+
+48
+00:02:01.260 --> 00:02:02.900
+main, c'est chiant par produit.
+
+49
+00:02:05.920 --> 00:02:08.259
+C'est-à-dire par l'API ? Tu parles de quoi ?
+
+50
+00:02:08.640 --> 00:02:12.380
+Moi, je veux tout dans n8n. Je ne veux pas passer dans Claude à faire le ping-pong
+
+51
+00:02:12.400 --> 00:02:13.120
+des copier-coller.
+
+52
+00:02:14.820 --> 00:02:15.130
+Je n'aime pas ça.
+
+53
+00:02:15.160 --> 00:02:16.160
+Oui, mais là, aucun intérêt.
+
+54
+00:02:16.190 --> 00:02:20.040
+Pour tester juste comme ça, pour ne pas griller des crédits
+
+55
+00:02:20.049 --> 00:02:22.840
+d'API, si je peux le faire une fois, faire un copier-coller pour voir le résultat
+
+56
+00:02:22.880 --> 00:02:23.240
+de Claude.
+
+57
+00:02:23.280 --> 00:02:23.459
+Oui,
+
+58
+00:02:24.780 --> 00:02:25.850
+mais en fait,
+
+59
+00:02:27.240 --> 00:02:30.820
+si ton n8n fonctionne de A à Z, OK,
+
+60
+00:02:30.920 --> 00:02:34.780
+mais l'objectif, c'était de voir si ton workflow entier fonctionnait dans
+
+61
+00:02:34.840 --> 00:02:36.400
+Claude sans passer par n8n.
+
+62
+00:02:39.860 --> 00:02:42.980
+Oui, sous forme de skill et de Claude.nd à la fin.
+
+63
+00:02:43.220 --> 00:02:47.180
+C'est pour ça que tu lui files ton export JSON de ton workflow n8n à
+
+64
+00:02:47.220 --> 00:02:50.299
+Claude. Comme ça, il comprend tout ce qu'il doit faire étape par étape.
+
+65
+00:02:51.300 --> 00:02:53.340
+Pour voir si ça marche, oui, ça pourrait être intéressant.
+
+66
+00:02:54.540 --> 00:02:55.010
+Oui, après,
+
+67
+00:02:55.960 --> 00:02:59.800
+c'est là que c'est limité. Si ton workflow n8n marche déjà de A à Z,
+
+68
+00:03:01.460 --> 00:03:02.620
+il n'y a pas spécialement d'intérêt.
+
+69
+00:03:02.680 --> 00:03:06.220
+Après, à toi effectivement de tester plusieurs IA en
+
+70
+00:03:06.280 --> 00:03:08.860
+API dans n8n pour voir la différence.
+
+71
+00:03:08.960 --> 00:03:11.260
+Ça me ferait payer 100 balles par mois.
+
+72
+00:03:12.680 --> 00:03:13.300
+Là, j'ai déjà tout.
+
+73
+00:03:13.800 --> 00:03:17.380
+Oui, vu que tu as n8n déjà fait, c'est sûr que ça n'a pas trop d'intérêt.
+
+74
+00:03:21.040 --> 00:03:23.740
+Non, mais je verrai. J'avais pas vu ce truc-là.
+
+75
+00:03:25.340 --> 00:03:26.740
+Au moins, j'ai cette possibilité-là.
+
+76
+00:03:27.700 --> 00:03:31.240
+Tu verras dans la vidéo qui sort demain, le but, c'est
+
+77
+00:03:31.900 --> 00:03:33.520
+que je suis dans le terminal dans Claude Code
+
+78
+00:03:34.500 --> 00:03:36.680
+et il a accès au Shopify et il fait le produit de A à Z.
+
+79
+00:03:37.840 --> 00:03:38.470
+Pas de n8n.
+
+80
+00:03:40.460 --> 00:03:40.820
+C'est sûr.
+
+81
+00:03:42.200 --> 00:03:43.860
+Pour tout le monde, c'est vrai que c'est le mieux.
+
+82
+00:03:43.870 --> 00:03:45.900
+Moi, ça fait depuis l'année dernière que je suis dessus.
+
+83
+00:03:46.500 --> 00:03:47.560
+Je vais le laisser, il marche.
+
+84
+00:03:48.960 --> 00:03:50.760
+C'est une ergonomie différente après aussi.
+
+85
+00:03:52.440 --> 00:03:54.320
+Je ne sais pas à quel point ça marche bien
+
+86
+00:03:55.340 --> 00:03:57.140
+n8n pour faire ça de A à Z.
+
+87
+00:03:58.560 --> 00:03:59.420
+Je sais que Make,
+
+88
+00:04:01.400 --> 00:04:05.040
+tu avais un truc qui pétait tous les deux jours.
+
+89
+00:04:05.120 --> 00:04:08.200
+Make, c'est particulier. Je ne sais pas s'ils l'ont amélioré.
+
+90
+00:04:08.260 --> 00:04:08.370
+Mais
+
+91
+00:04:09.740 --> 00:04:13.440
+n8n, ça ne foirait jamais. Quand ton truc est bon, ça ne foire jamais.
+
+92
+00:04:14.800 --> 00:04:18.640
+Oui, c'est ça l'avantage. Parce que des fois, j'ai compris ce
+
+93
+00:04:18.680 --> 00:04:21.079
+truc-là, c'est que tu as aussi les codes JavaScript.
+
+94
+00:04:22.140 --> 00:04:25.630
+Imaginons, il y a un module qui est trop limité, préfait par n8n,
+
+95
+00:04:26.400 --> 00:04:28.100
+tu peux toi-même le créer, ce module.
+
+96
+00:04:28.700 --> 00:04:32.600
+C'est Claude Code qui le crée. Il fait toutes les conditions précises
+
+97
+00:04:32.640 --> 00:04:36.300
+comme tu le veux. Au final, tu as forcément le résultat attendu.
+
+98
+00:04:38.080 --> 00:04:38.780
+Et ça marche nickel.
+
+99
+00:04:39.780 --> 00:04:43.620
+Ça ne casse pas. Le bypass, imaginons, il y a une image qui est manquante,
+
+100
+00:04:43.760 --> 00:04:47.040
+une case où il y a une image qui est manquante, il peut la bypass et passer à la
+
+101
+00:04:47.080 --> 00:04:48.900
+prochaine. Avec Make, tu ne peux pas.
+
+102
+00:04:48.960 --> 00:04:52.200
+Ça va mettre error array quelque chose.
+
+103
+00:04:53.040 --> 00:04:53.740
+C'est infernal.
+
+104
+00:04:54.880 --> 00:04:54.960
+OK.
+
+105
+00:04:57.560 --> 00:04:58.300
+Ça ne casse pas pareil.
+
+106
+00:04:59.000 --> 00:05:02.940
+Je n'ai pas assez testé n8n pour voir si sur
+
+107
+00:05:02.980 --> 00:05:06.880
+un flow d'intégration de 200 produits, ça pouvait tourner nickel.
+
+108
+00:05:06.960 --> 00:05:07.420
+Je ne sais pas.
+
+109
+00:05:08.000 --> 00:05:08.740
+Oui, largement.
+
+110
+00:05:10.700 --> 00:05:14.000
+Moi, j'ai poussé le truc même plus loin, mais j'aurais pu rester simple, ça aurait
+
+111
+00:05:14.040 --> 00:05:14.560
+marché direct.
+
+112
+00:05:15.680 --> 00:05:19.400
+Avec les Rest API, c'est parfait. Ça ne bouffe pas de crédit, il faut juste
+
+113
+00:05:19.480 --> 00:05:20.520
+un petit VPS.
+
+114
+00:05:23.520 --> 00:05:24.620
+Oui, pour n8n.
+
+115
+00:05:25.060 --> 00:05:28.740
+En plus, Claude, il le fait. Tu lui dis : « J'ai une
+
+116
+00:05:28.780 --> 00:05:31.740
+boutique sur Shopify, fais-moi un workflow n8n.
+
+117
+00:05:32.159 --> 00:05:32.159
+»
+
+118
+00:05:33.480 --> 00:05:34.659
+Tu commences petit, puis tu vois.
+
+119
+00:05:36.780 --> 00:05:39.420
+Je mets mes images dans Airtable, ça fait le lien.
+
+120
+00:05:41.760 --> 00:05:43.740
+Ce sont deux ergonomies différentes.
+
+121
+00:05:45.360 --> 00:05:48.460
+L'avantage, c'est que maintenant, j'ai juste à cliquer sur un bouton dans Airtable,
+
+122
+00:05:48.920 --> 00:05:50.900
+créer un produit, et puis ça me le push
+
+123
+00:05:51.880 --> 00:05:52.760
+dans mon WooCommerce.
+
+124
+00:05:53.780 --> 00:05:57.760
+Après, tu es limité sur n8n dans le sens où si tu
+
+125
+00:05:57.780 --> 00:06:00.380
+veux faire des modifs, tu ne peux pas. Il faut créer un workflow pour.
+
+126
+00:06:00.780 --> 00:06:04.724
+Alors que Claude, tu peux lui direToutes ces
+
+127
+00:06:04.734 --> 00:06:07.754
+caractéristiques que tu as mises dans un produit, si tu n'aimes pas l'appellation
+
+128
+00:06:08.284 --> 00:06:12.244
+ou si tu as envie de changer d'appellation, tu peux le faire en une demande
+
+129
+00:06:12.304 --> 00:06:12.724
+à Claude.
+
+130
+00:06:15.224 --> 00:06:19.124
+J'ai réfléchi à ce truc-là et je pense qu'au final, je ferais
+
+131
+00:06:19.143 --> 00:06:22.924
+les deux. Pour la création pure où je sais qu'à 80 % ça ne bougera pas, je
+
+132
+00:06:23.044 --> 00:06:26.484
+balance les n8n. Et si demain je veux remodifier un truc,
+
+133
+00:06:27.104 --> 00:06:30.164
+je tenterais avec ta solution parce que c'est beaucoup plus rapide que de tout
+
+134
+00:06:30.184 --> 00:06:34.164
+recréer. Et si demain je sais que je dois remodifier un
+
+135
+00:06:34.204 --> 00:06:38.033
+truc souvent, pour quelle que soit la raison, je
+
+136
+00:06:38.084 --> 00:06:41.914
+dois modifier, je peux prendre la moitié de mon workflow et l'adapter.
+
+137
+00:06:42.664 --> 00:06:45.324
+Au lieu de créer, je fais juste modifier ce qui existe déjà.
+
+138
+00:06:46.524 --> 00:06:47.184
+Un truc comme ça.
+
+139
+00:06:48.084 --> 00:06:48.783
+Je tenterais les deux.
+
+140
+00:06:50.564 --> 00:06:50.963
+Mince.
+
+141
+00:06:51.984 --> 00:06:55.104
+Mais c'est vrai que ta technique pour modifier, c'est mieux, c'est clair.
+
+142
+00:06:55.804 --> 00:06:59.704
+Oui, je te donne
+
+143
+00:06:59.744 --> 00:07:01.474
+un exemple à la c*n. Tu as
+
+144
+00:07:03.624 --> 00:07:05.444
+200 produits sur ton shop, il y a
+
+145
+00:07:08.624 --> 00:07:12.514
+écrit « fait main ». Imaginons que ce n'est pas toi qui ai fait le site et
+
+146
+00:07:12.684 --> 00:07:16.534
+qui aies écrit « fait main » dans plein de descriptions produits ou dans des champs
+
+147
+00:07:16.564 --> 00:07:16.884
+méta.
+
+148
+00:07:18.844 --> 00:07:22.584
+Tu peux lui dire : « Tous les produits qui contiennent ça,
+
+149
+00:07:22.764 --> 00:07:24.424
+donc "fait main" ou "fait à la main" ou machin,
+
+150
+00:07:26.324 --> 00:07:29.703
+que tu modifies ce terme dans toutes les fiches produits. » Ça, il le fait.
+
+151
+00:07:30.484 --> 00:07:31.284
+Là où n8n...
+
+152
+00:07:32.224 --> 00:07:33.184
+Tu vois ?
+
+153
+00:07:33.224 --> 00:07:34.364
+Oui, c'est clair.
+
+154
+00:07:36.224 --> 00:07:39.484
+Après, je ne sais pas s'il y a besoin d'un skill qui respecte ce truc-là ou juste
+
+155
+00:07:39.544 --> 00:07:40.424
+une direction claire.
+
+156
+00:07:41.564 --> 00:07:42.664
+Ça fonctionne ?
+
+157
+00:07:43.244 --> 00:07:43.824
+C'est bien que tu
+
+158
+00:07:45.444 --> 00:07:48.584
+définisses ce qu'il ne doit pas faire quand même.
+
+159
+00:07:49.844 --> 00:07:50.484
+En Markdown,
+
+160
+00:07:51.324 --> 00:07:54.664
+c'est vachement puissant le Markdown. Ça respecte vraiment ce qu'il doit faire.
+
+161
+00:07:56.904 --> 00:07:59.324
+Est-ce que tu as assez utilisé Claude pour faire un skill
+
+162
+00:08:00.624 --> 00:08:00.624
+?
+
+163
+00:08:00.884 --> 00:08:01.564
+Là, je suis en train.
+
+164
+00:08:03.044 --> 00:08:06.464
+Tu n'en as pas fait un qui fonctionne, de
+
+165
+00:08:06.484 --> 00:08:07.534
+skill ?
+
+166
+00:08:07.904 --> 00:08:10.964
+J'ai fait un skill pour n8n, je suis en train d'en faire un pour le design.
+
+167
+00:08:11.024 --> 00:08:14.123
+Pour chaque truc, je suis en train de les faire pour l'instant.
+
+168
+00:08:14.344 --> 00:08:17.484
+Ça fonctionne du tonnerre. Après, c'est simple.
+
+169
+00:08:17.514 --> 00:08:21.384
+Parce que le principe, c'est que tu lui dis juste : « Je veux que
+
+170
+00:08:21.424 --> 00:08:23.684
+ça fasse ça, je veux que ça fasse ça, je ne veux pas que ça fasse ça.
+
+171
+00:08:24.054 --> 00:08:25.724
+» Et c'est lui qui va créer le skill
+
+172
+00:08:26.644 --> 00:08:29.424
+avec les instructions dedans, automatiquement.
+
+173
+00:08:29.484 --> 00:08:31.964
+Après, pour une modification, il y a vraiment besoin de créer un skill ?
+
+174
+00:08:33.485 --> 00:08:37.304
+Non. Si c'est une modif. L'avantage du skill,
+
+175
+00:08:37.384 --> 00:08:39.144
+c'est pour un truc que tu vas faire répéter.
+
+176
+00:08:39.584 --> 00:08:43.564
+Ce sont des instructions, ça sera un process qui sera établi et qui,
+
+177
+00:08:44.105 --> 00:08:45.184
+en général, est assez proche.
+
+178
+00:08:46.504 --> 00:08:49.664
+Quand ce sont des trucs à la volée, ça n'a pas trop d'intérêt.
+
+179
+00:08:53.964 --> 00:08:57.944
+Salut Aymeric, salut Singrid et Eddy.
+
+180
+00:08:57.954 --> 00:09:00.284
+Non, tu as pu lever la main.
+
+181
+00:09:01.204 --> 00:09:01.304
+Si.
+
+182
+00:09:03.344 --> 00:09:05.324
+Je n'ai pas écouté tout ce que vous disiez, mais quand tu
+
+183
+00:09:06.664 --> 00:09:10.344
+lances une session dans Claude Code, il va commencer par lire le fichier
+
+184
+00:09:10.404 --> 00:09:11.084
+claude.md.
+
+185
+00:09:12.584 --> 00:09:15.264
+Tout ce que tu ne veux pas mettre dans un skill, ce sont des trucs qui sont
+
+186
+00:09:15.284 --> 00:09:19.264
+vraiment importants pour toi. Si c'est précisé dans ton fichier claude.md,
+
+187
+00:09:20.024 --> 00:09:21.124
+il va commencer par lire ça.
+
+188
+00:09:22.744 --> 00:09:23.644
+Du coup, tu peux lui dire,
+
+189
+00:09:24.984 --> 00:09:28.184
+je n'ai pas écouté ce que vous disiez, mais si par exemple, Pierre, tu veux lui
+
+190
+00:09:28.244 --> 00:09:32.214
+interdire un truc ou lui dire de fonctionner d'une certaine façon, si
+
+191
+00:09:32.304 --> 00:09:35.244
+c'est écrit dans le fichier claude.md, il va commencer par lire ça.
+
+192
+00:09:35.264 --> 00:09:37.664
+Et après, dans le fichier claude.md, tu peux lui dire de commencer par lire un
+
+193
+00:09:37.724 --> 00:09:41.304
+autre fichier memory.md, qu'il va lire avant d'utiliser le skill.
+
+194
+00:09:41.344 --> 00:09:42.244
+Et après, tu peux avoir
+
+195
+00:09:43.164 --> 00:09:46.104
+même un fichier agent.md. Tu peux dire : « Il va commencer par lire le fichier
+
+196
+00:09:46.144 --> 00:09:47.964
+claude.md. Il y a ce qu'il doit faire, ce qu'il ne doit pas faire.
+
+197
+00:09:48.124 --> 00:09:50.904
+Il doit commencer par lire la mémoire, puis lire l'agent.md.
+
+198
+00:09:51.444 --> 00:09:55.364
+» L'agent.md aura accès à différents skills et suivant ce que tu lui demandes,
+
+199
+00:09:55.724 --> 00:09:56.544
+il va faire ce chemin.
+
+200
+00:09:59.004 --> 00:10:01.804
+Oui, mais le memory.md, il me l'a sorti.
+
+201
+00:10:01.964 --> 00:10:05.764
+Parce que je lui ai dit : « Crée-moi un claude.md », mais il me le
+
+202
+00:10:05.804 --> 00:10:09.484
+sauvegarde dans le memory.md. Je n'ai pas trop vu c'est quoi la différence.
+
+203
+00:10:10.584 --> 00:10:11.844
+J'ai mis un peu de temps à comprendre ça.
+
+204
+00:10:12.584 --> 00:10:14.684
+Je ne suis pas aussi bon que Théo pour expliquer.
+
+205
+00:10:15.034 --> 00:10:19.004
+Mais dès que tu commences une session dans Claude Code, tu as un dossier
+
+206
+00:10:19.044 --> 00:10:23.024
+source. Si tu as deux projets différents, il faut que tu aies deux dossiers sources
+
+207
+00:10:23.064 --> 00:10:25.043
+sur lesquels il va commencer à bosser.
+
+208
+00:10:25.464 --> 00:10:29.444
+Tu peux avoir ou au sein de projets différents ou même d'actions différentes que
+
+209
+00:10:29.504 --> 00:10:30.304
+tu veux.
+
+210
+00:10:31.424 --> 00:10:34.704
+Tu commences ta session dans ce dossier, il va commencer par lire le
+
+211
+00:10:34.744 --> 00:10:37.784
+claude.md, puis ensuite il aura le chemin de tout ce que tu lui demandes.
+
+212
+00:10:38.264 --> 00:10:40.464
+Il faut voir ça un peu comme un arbre.
+
+213
+00:10:42.584 --> 00:10:44.464
+Il commence par le claude.md, ensuite, il lit les autres.
+
+214
+00:10:45.064 --> 00:10:48.804
+Et tu peux, même pour un seul projet Shopify, si tu as des actions
+
+215
+00:10:49.304 --> 00:10:50.004
+un peu différentes.
+
+216
+00:10:51.184 --> 00:10:54.564
+J'explique mal. Je ne sais pas Théo si tu...
+
+217
+00:10:55.064 --> 00:10:58.884
+Non, moi, je n'ai pas de claude.md, j'ai un memory, un skill à chaque projet, c'est
+
+218
+00:10:58.904 --> 00:10:59.144
+tout.
+
+219
+00:11:01.844 --> 00:11:04.244
+Il ne te crée pas automatiquement un claude.md dès que tu fais ton truc ?
+
+220
+00:11:04.284 --> 00:11:04.524
+Non.
+
+221
+00:11:06.024 --> 00:11:08.544
+Peut-être qu'il ne me fait pas ça.
+
+222
+00:11:09.384 --> 00:11:09.694
+Moi,
+
+223
+00:11:11.944 --> 00:11:15.484
+je ne sais pas comment dupliquer ça, pour l'occurrence mon site, mais pour une
+
+224
+00:11:15.504 --> 00:11:16.484
+autre idée de projet que j'avais,
+
+225
+00:11:17.504 --> 00:11:21.144
+je lui ai fait écrire un claude.md qui expliquait le projet.
+
+226
+00:11:23.224 --> 00:11:25.124
+J'ai fait créer trois dossiers au départ.
+
+227
+00:11:25.144 --> 00:11:28.544
+Il y avait un claude.md, un agent.md et un
+
+228
+00:11:28.584 --> 00:11:31.284
+queue.md. Le queue.md, c'était une to-do list.
+
+229
+00:11:33.544 --> 00:11:35.134
+J'ai juste lancé, je lui ai dit : «
+
+230
+00:11:36.004 --> 00:11:37.964
+Commence par lire le claude.md puis l'agent.
+
+231
+00:11:39.334 --> 00:11:43.164
+» Il a lu tout ça et ensuite, il a suivi toute la to-do list que
+
+232
+00:11:43.184 --> 00:11:46.944
+j'avais fait créer à Claude et il a lui-même créé tout un dossier pour des
+
+233
+00:11:46.964 --> 00:11:50.404
+skills avec plein de skills dont il avait besoin pour créer ensuite des prompts,
+
+234
+00:11:50.884 --> 00:11:52.804
+pour créer ensuite une liste d'emails.
+
+235
+00:11:53.804 --> 00:11:57.664
+Et en peut-être 10 minutes, il m'a, juste avec ces trois fichiers de départ,
+
+236
+00:11:58.304 --> 00:12:02.064
+créé toute une structure pour un autre
+
+237
+00:12:02.104 --> 00:12:05.303
+projet avec une landing page, tout.
+
+238
+00:12:07.556 --> 00:12:10.116
+Moi, tout ce que tu dis, c'est dans le memory.
+
+239
+00:12:11.736 --> 00:12:15.096
+Ce qu'est le projet, la description du projet et après tout ce qui est
+
+240
+00:12:15.176 --> 00:12:17.196
+instruction ou process, c'est dans les skills.
+
+241
+00:12:18.136 --> 00:12:21.256
+Dans memory, il peut y avoir des commandes en disant
+
+242
+00:12:22.336 --> 00:12:24.356
+: « Pour faire tel truc, il faut appeler tel skill.
+
+243
+00:12:24.736 --> 00:12:27.536
+» Et ça, c'est dans memory aussi. Moi, j'ai que deux fichiers par projet,
+
+244
+00:12:28.716 --> 00:12:29.136
+en gros.
+
+245
+00:12:29.636 --> 00:12:32.416
+Et après, il m'a créé aussi un fichier log où il mettait à jour tout ce qu'il avait
+
+246
+00:12:32.456 --> 00:12:32.676
+fait.
+
+247
+00:12:33.736 --> 00:12:36.056
+Et la to-do list, chaque
+
+248
+00:12:37.096 --> 00:12:38.676
+tâche qu'il a à faire est
+
+249
+00:12:40.436 --> 00:12:43.576
+au début ancrée sur To-do et après, une fois qu'il l'a fait, il la met dedans
+
+250
+00:12:44.396 --> 00:12:46.796
+et il les fait les unes après les autres.
+
+251
+00:12:46.836 --> 00:12:48.716
+Et la différence avec n8n, je trouve, c'est que
+
+252
+00:12:49.736 --> 00:12:53.016
+n8n, en tout cas pour ce que je fais moi, tu peux vite avoir un nœud qui va bugger.
+
+253
+00:12:53.056 --> 00:12:56.976
+Tu as une credential pour Google ou je ne sais quoi, qu'il
+
+254
+00:12:56.996 --> 00:12:58.796
+faut que tu remettes à jour, ça te fait tout arrêter.
+
+255
+00:12:59.276 --> 00:13:02.756
+Alors que lui, il va essayer vraiment de remettre à jour le truc tout seul ou de
+
+256
+00:13:02.796 --> 00:13:05.756
+réfléchir, passer par un autre chemin pour réaliser la tâche.
+
+257
+00:13:06.596 --> 00:13:09.636
+Tu as assez utilisé n8n pour voir qu'il foirait des fois
+
+258
+00:13:10.756 --> 00:13:10.756
+?
+
+259
+00:13:10.776 --> 00:13:14.496
+Pas du tout autant que Pierre, mais c'est pour des trucs beaucoup plus
+
+260
+00:13:15.016 --> 00:13:17.636
+basiques. Pour de la retouche d'images ou des choses comme ça, j'avais fait
+
+261
+00:13:17.696 --> 00:13:21.356
+des workflows n8n et maintenant, j'ai
+
+262
+00:13:21.396 --> 00:13:23.516
+transféré ça avec
+
+263
+00:13:24.836 --> 00:13:28.266
+Claude et du coup, il n'y a plus de bug parce qu'il va tout seul-
+
+264
+00:13:28.266 --> 00:13:30.596
+Il s'adapte. Dès qu'il a une erreur, il s'adapte, c'est l'avantage.
+
+265
+00:13:31.036 --> 00:13:34.136
+Exactement. Alors que tu as un tout petit truc qui saute dans n8n,
+
+266
+00:13:35.196 --> 00:13:36.136
+ça foire.
+
+267
+00:13:37.936 --> 00:13:39.696
+Pour les images, je n'ai pas testé par contre.
+
+268
+00:13:40.816 --> 00:13:44.586
+Et après l'autre truc, peut-être que maintenant, tu peux.
+
+269
+00:13:44.656 --> 00:13:48.176
+Moi, à l'époque, sur n8n, tu n'avais pas accès directement à
+
+270
+00:13:48.196 --> 00:13:51.836
+NanoBanana. Moi, je passais par
+
+271
+00:13:51.856 --> 00:13:54.716
+Kayapey, mais après, vous passiez par Xfield ou je ne sais plus quoi.
+
+272
+00:13:54.916 --> 00:13:56.136
+Tu peux passer simplement par
+
+273
+00:13:58.236 --> 00:13:59.156
+HTTP Request, non
+
+274
+00:14:00.396 --> 00:14:00.396
+?
+
+275
+00:14:00.596 --> 00:14:04.196
+Oui. Moi, avec Claude maintenant, je
+
+276
+00:14:04.236 --> 00:14:07.676
+passe par l'API de Gemini pour avoir NanoBanana.
+
+277
+00:14:08.176 --> 00:14:11.566
+Tu es sûr d'avoir ce modèle-là. Et c'est ultra-constant et je trouve que les images
+
+278
+00:14:11.596 --> 00:14:14.816
+sont vraiment de bonne qualité. Alors que quand je passais par n8n, parfois,
+
+279
+00:14:15.836 --> 00:14:17.876
+je ne suis pas sûr qu'il appelait vraiment NanoBanana.
+
+280
+00:14:19.576 --> 00:14:20.856
+Ok. C'est mica.
+
+281
+00:14:22.716 --> 00:14:25.456
+Je n'ai pas assez utilisé n8n pour en parler.
+
+282
+00:14:26.516 --> 00:14:27.745
+Pas du tout, moi non
+
+283
+00:14:28.556 --> 00:14:29.636
+plus.
+
+284
+00:14:30.356 --> 00:14:30.696
+Ok.
+
+285
+00:14:31.516 --> 00:14:35.336
+C'est marrant, tu as To-do. Il ne me fait pas de To-do,
+
+286
+00:14:35.436 --> 00:14:35.676
+moi.
+
+287
+00:14:37.296 --> 00:14:41.216
+Peut-être que c'est mieux parce qu'il a un truc établi à suivre.
+
+288
+00:14:41.676 --> 00:14:44.576
+Peut-être qu'il y a des trucs qu'il faudrait que je vois, s'il ne faut pas que
+
+289
+00:14:44.596 --> 00:14:46.356
+j'adapte sa façon de bosser.
+
+290
+00:14:48.136 --> 00:14:50.256
+Si tu veux, je pourrais t'envoyer...
+
+291
+00:14:55.996 --> 00:14:57.516
+Je vois ce que je peux te...
+
+292
+00:14:58.896 --> 00:15:01.996
+C'est lui de base qui t'a dit : « Je fais un...
+
+293
+00:15:02.706 --> 00:15:05.166
+» Je ne sais plus les fichiers que tu as dit, mais c'est toi qui lui as dit de
+
+294
+00:15:05.256 --> 00:15:07.736
+faire ces fichiers ou il s'est fait ces fichiers tout seul au début
+
+295
+00:15:09.056 --> 00:15:09.056
+?
+
+296
+00:15:09.356 --> 00:15:11.516
+Si tu veux, je peux te montrer. C'est un projet, c'était une idée comme ça.
+
+297
+00:15:11.556 --> 00:15:11.676
+J'ai
+
+298
+00:15:12.956 --> 00:15:16.136
+juste lancé, mais c'est un truc tout pourri. Je peux le montrer si tu veux.
+
+299
+00:15:16.176 --> 00:15:17.576
+Vas-y, si tu veux.
+
+300
+00:15:22.836 --> 00:15:25.716
+Par contre, vu que c'est sur mon ordinateur, je ne sais pas comment vous le
+
+301
+00:15:25.756 --> 00:15:26.176
+partager.
+
+302
+00:15:27.276 --> 00:15:28.616
+Tu as des boutons
+
+303
+00:15:29.716 --> 00:15:32.796
+dans Meet en bas, il y a Partager l'écran et tu choisis soit une fenêtre,
+
+304
+00:15:32.836 --> 00:15:35.296
+soit un onglet, soit un écran.
+
+305
+00:15:53.676 --> 00:15:54.556
+Yes.
+
+306
+00:15:59.216 --> 00:16:00.036
+Du coup, tu vois mon...
+
+307
+00:16:00.656 --> 00:16:00.836
+Oui.
+
+308
+00:16:02.856 --> 00:16:06.236
+Au début, je lui ai juste fait créer un fichier cloud.md,
+
+309
+00:16:06.756 --> 00:16:07.216
+un agent
+
+310
+00:16:08.596 --> 00:16:09.396
+et la liste de tâches.
+
+311
+00:16:10.396 --> 00:16:10.756
+Oui.
+
+312
+00:16:12.276 --> 00:16:13.596
+Donc là, il y avait le core du projet.
+
+313
+00:16:13.896 --> 00:16:15.076
+Et c'est toi qui lui as demandé de créer ça ?
+
+314
+00:16:15.976 --> 00:16:17.036
+Oui, moi, j'ai eu une idée.
+
+315
+00:16:17.916 --> 00:16:19.056
+Je ne vais pas te faire tout le chemin, mais en gros,
+
+316
+00:16:19.116 --> 00:16:23.085
+je ne sais pas si tu as entendu parler de
+
+317
+00:16:23.116 --> 00:16:24.516
+Nanocorp, c'est un truc qui te crée ta-
+
+318
+00:16:24.775 --> 00:16:26.856
+Oui. Tu as testé Nanocorp ?
+
+319
+00:16:26.916 --> 00:16:28.136
+Oui, justement, j'ai commencé à tester.
+
+320
+00:16:29.056 --> 00:16:30.916
+En gros, j'ai passé une soirée là-dessus.
+
+321
+00:16:30.956 --> 00:16:33.136
+Depuis, je n'ai vraiment rien fait.
+
+322
+00:16:33.176 --> 00:16:36.776
+Je peux être un peu dispersé. J'ai entendu parler de Nanocorp, j'ai voulu essayer,
+
+323
+00:16:36.856 --> 00:16:37.236
+j'ai voulu
+
+324
+00:16:38.496 --> 00:16:40.436
+trouver une idée pour lancer un projet dedans.
+
+325
+00:16:41.156 --> 00:16:42.716
+Et il m'en a donné plusieurs, dont ça.
+
+326
+00:16:42.956 --> 00:16:43.716
+C'était faire
+
+327
+00:16:43.736 --> 00:16:48.216
+analyser
+
+328
+00:16:48.276 --> 00:16:51.596
+les fiches Google Ads, les fiches Google des-
+
+329
+00:16:51.876 --> 00:16:52.496
+My Business.
+
+330
+00:16:52.956 --> 00:16:54.316
+Des commerçants Google Business.
+
+331
+00:16:54.716 --> 00:16:58.656
+Et proposer aux gens de faire un audit gratuit, puis ensuite
+
+332
+00:16:58.676 --> 00:17:00.096
+un audit payant et de leur envoyer le truc.
+
+333
+00:17:00.756 --> 00:17:04.456
+J'ai parlé de tout ce truc-là et il m'a créé un fichier
+
+334
+00:17:04.796 --> 00:17:07.376
+agent. Enfin non, au début, un fichier cloud.md,
+
+335
+00:17:09.096 --> 00:17:12.886
+qui reprenait toute l'idée, avec le modèle
+
+336
+00:17:12.916 --> 00:17:13.636
+économique,
+
+337
+00:17:14.757 --> 00:17:18.017
+les règles. Et c'est là où il m'a créé... Ça va te être clair.
+
+338
+00:17:20.336 --> 00:17:21.616
+Attends, je vais l'ouvrir.
+
+339
+00:17:23.936 --> 00:17:27.196
+Comme ça, Pierre, tu auras toute l'architecture dont je te parle ensuite, qu'il
+
+340
+00:17:27.237 --> 00:17:27.737
+crée lui-même.
+
+341
+00:17:28.456 --> 00:17:31.456
+T'as fait le quality score aussi, le fameux.
+
+342
+00:17:32.576 --> 00:17:35.316
+Oui. Après, je lui ai fait faire. J'ai juste matché avec lui.
+
+343
+00:17:36.236 --> 00:17:38.736
+Franchement, je n'ai pas du tout fait sur le truc.
+
+344
+00:17:39.356 --> 00:17:42.376
+Mais il m'a créé le fichier cloud.md, celui-là.
+
+345
+00:17:42.416 --> 00:17:44.196
+Il m'a créé le fichier agent et le fichier queue.
+
+346
+00:17:44.716 --> 00:17:48.296
+Et ensuite, tous les autres, c'est lui qui les a faits tout seul, en suivant les
+
+347
+00:17:48.336 --> 00:17:49.456
+instructions qu'il y avait dans ceux-là.
+
+348
+00:17:51.216 --> 00:17:52.836
+Ok, mais c'est full Claude Code.
+
+349
+00:17:53.856 --> 00:17:54.616
+C'est full Claude Code, oui.
+
+350
+00:17:57.476 --> 00:17:58.196
+Les
+
+351
+00:18:00.276 --> 00:18:01.736
+trois premiers fichiers, Claude, agent
+
+352
+00:18:02.816 --> 00:18:04.556
+et queue, je les ai faits avec Claude AI.
+
+353
+00:18:05.396 --> 00:18:09.196
+Et après, j'ai créé un dossier fichier Google dans
+
+354
+00:18:09.676 --> 00:18:13.636
+mon ordinateur. J'ai copié ces trois fichiersEnsuite, quand
+
+355
+00:18:13.656 --> 00:18:16.396
+j'ai ouvert Claude Code, je lui ai donné accès au dossier Fiche Google.
+
+356
+00:18:16.436 --> 00:18:20.006
+Il est allé lire les trois fichiers et il a commencé par me créer des skills
+
+357
+00:18:21.096 --> 00:18:21.796
+qu'il a créés tout seul.
+
+358
+00:18:23.036 --> 00:18:25.176
+Pour les confirmations d'email, pour les prompts, tout ça.
+
+359
+00:18:25.656 --> 00:18:29.396
+Il a créé tous ses skills tout seul et après, à la suite, tout seul.
+
+360
+00:18:29.496 --> 00:18:32.036
+C'est ça qui est intéressant, c'est de voir la to do.
+
+361
+00:18:34.056 --> 00:18:35.256
+Il allait faire ça tout seul,
+
+362
+00:18:35.976 --> 00:18:39.216
+sans que je fasse rien.
+
+363
+00:18:40.576 --> 00:18:43.176
+Il n'avait ce fichier que et il avait tout ce qu'il devait faire.
+
+364
+00:18:43.236 --> 00:18:45.456
+Premier truc : aller créer le prompt Claude.
+
+365
+00:18:45.956 --> 00:18:47.236
+Il avait toutes les instructions pour le faire.
+
+366
+00:18:50.096 --> 00:18:54.076
+Il a fait d'abord la skill prompt audit gratuit,
+
+367
+00:18:54.316 --> 00:18:56.136
+après la skill prompt audit payant,
+
+368
+00:18:57.116 --> 00:18:58.676
+après, il a fait la skill email.
+
+369
+00:18:58.976 --> 00:18:59.936
+Mais tu as ajouté des
+
+370
+00:19:03.336 --> 00:19:07.096
+skills directement à Claude Code au départ ou il est basique ?
+
+371
+00:19:08.056 --> 00:19:09.616
+Non, il les a créés tout seul.
+
+372
+00:19:11.176 --> 00:19:13.116
+Qu'est-ce que tu lui as dit au départ
+
+373
+00:19:13.216 --> 00:19:17.076
+pour qu'il se dise : « Je vais créer tout ça comme
+
+374
+00:19:17.436 --> 00:19:17.956
+fichier » ?
+
+375
+00:19:19.896 --> 00:19:22.636
+Là, je ne l'ai plus. J'ai un peu discuté avec lui.
+
+376
+00:19:24.596 --> 00:19:26.706
+Tu te souviens de ce que tu lui as dit au départ ?
+
+377
+00:19:27.756 --> 00:19:31.636
+Comment tu as commencé la conversation et comment tu as créé
+
+378
+00:19:31.696 --> 00:19:33.746
+ces trois fichiers ? Comment tu lui as dit de faire la suite ?
+
+379
+00:19:33.766 --> 00:19:35.376
+Qu'est-ce qui s'est passé pour qu'il crée tout ça ?
+
+380
+00:19:38.676 --> 00:19:41.036
+J'explique beaucoup moins que toi, je vais essayer d'être synthétique.
+
+381
+00:19:46.296 --> 00:19:49.476
+J'avais déjà créé des skills pour l'intégration produit.
+
+382
+00:19:49.876 --> 00:19:52.276
+Je n'ai pas tout fait de A à Z, mais j'ai
+
+383
+00:19:53.936 --> 00:19:56.816
+découpé un peu les tâches que je fais moi et il y en a certaines que je lui ai fait
+
+384
+00:19:56.876 --> 00:19:57.236
+faire à lui.
+
+385
+00:19:58.296 --> 00:20:01.616
+Je n'ai pas un truc de je lui file un produit, il l'intègre tout seul, mais il y a
+
+386
+00:20:01.636 --> 00:20:03.196
+plein de tâches que je lui fais faire.
+
+387
+00:20:03.216 --> 00:20:05.896
+J'ai commencé à créer moi-même des skills pour différentes choses
+
+388
+00:20:06.976 --> 00:20:10.336
+: un skill pour la retouche d'images, un skill pour la rédaction, un autre skill
+
+389
+00:20:10.456 --> 00:20:12.486
+pour l'intégration. C'est
+
+390
+00:20:13.376 --> 00:20:17.296
+quand j'ai compris qu'il avait un
+
+391
+00:20:17.316 --> 00:20:21.045
+fichier Claude.md qui lisait dans tous les cas avant de déclencher une skill, je me
+
+392
+00:20:21.056 --> 00:20:24.356
+suis dit : « Si dans ce fichier Claude.md, je mets des instructions sur
+
+393
+00:20:24.416 --> 00:20:28.076
+quel chemin faire lui-même, il va
+
+394
+00:20:28.116 --> 00:20:29.636
+décider tout seul quel skill lancer.
+
+395
+00:20:29.656 --> 00:20:32.536
+Je n'ai plus besoin moi d'aller lui donner l'autorisation.
+
+396
+00:20:33.506 --> 00:20:34.996
+» Au début, j'avais compris un petit peu ce truc-là.
+
+397
+00:20:35.236 --> 00:20:38.836
+Après, en lançant ce projet, que j'ai lancé en parallèle sur Nanocorp,
+
+398
+00:20:39.976 --> 00:20:42.376
+je me suis dit que le principe de Nanocorp, c'est que tu as un agent qui va
+
+399
+00:20:42.416 --> 00:20:44.556
+lui-même créer des sous-agents qui va faire des choses.
+
+400
+00:20:46.076 --> 00:20:46.996
+Quand tu es sur Nanocorp,
+
+401
+00:20:47.876 --> 00:20:49.476
+tu as un agent qui s'appelle
+
+402
+00:20:49.485 --> 00:20:53.176
+ton
+
+403
+00:20:53.216 --> 00:20:55.596
+directeur, qui va créer des sous-agents.
+
+404
+00:20:55.656 --> 00:20:58.156
+Dès qu'il crée une tâche, il va créer un agent qui va faire cette tâche.
+
+405
+00:20:59.336 --> 00:21:03.276
+En discutant avec Claude, je lui ai dit : « Si on peut faire
+
+406
+00:21:03.336 --> 00:21:04.176
+ça, est-ce qu'on ne peut pas
+
+407
+00:21:05.576 --> 00:21:07.796
+créer un agent qui va
+
+408
+00:21:08.476 --> 00:21:12.246
+être
+
+409
+00:21:12.276 --> 00:21:14.836
+autonome pour aller décider des tâches qui sont à accomplir ?
+
+410
+00:21:14.846 --> 00:21:14.846
+»
+
+411
+00:21:16.956 --> 00:21:20.436
+Vu que dans le Claude.md, il avait le principe du projet qui était d'aller
+
+412
+00:21:20.776 --> 00:21:21.236
+analyser
+
+413
+00:21:22.936 --> 00:21:25.036
+une fiche Google Business et après d'avoir
+
+414
+00:21:26.296 --> 00:21:29.636
+un email de confirmation, puis un email d'audit gratuit qui envoie un premier
+
+415
+00:21:29.696 --> 00:21:33.476
+paiement à 29 € où tu as un audit qui est plus détaillé et
+
+416
+00:21:33.516 --> 00:21:36.456
+après un audit, de faire entrer les gens dans la boucle.
+
+417
+00:21:36.836 --> 00:21:39.756
+Une fois qu'il avait tout ça, de lui-même, il avait
+
+418
+00:21:42.436 --> 00:21:44.156
+une idée de la structure de ce qu'il fallait faire.
+
+419
+00:21:44.976 --> 00:21:46.056
+Après, il l'a créé tout seul.
+
+420
+00:21:46.736 --> 00:21:47.196
+OK.
+
+421
+00:21:48.396 --> 00:21:52.136
+Tu as quand même bien expliqué au départ que tu voulais un truc qui se
+
+422
+00:21:52.196 --> 00:21:55.956
+gère de façon autonome et qui allait créer des sous-agents.
+
+423
+00:21:56.056 --> 00:21:58.416
+C'est pour ça qu'à mon avis, tu as créé la structure aussi complète.
+
+424
+00:22:01.156 --> 00:22:02.836
+Oui, c'est un petit chemin quand même.
+
+425
+00:22:03.156 --> 00:22:07.036
+Un soir, je voulais tester Nanocorp, j'ai passé 2 heures dessus et le
+
+426
+00:22:07.056 --> 00:22:08.736
+lendemain, je me suis dit : « P****n, ce n'est quand même pas c*n, ça peut être
+
+427
+00:22:08.976 --> 00:22:12.816
+facilement fait. » Nanocorp, c'est un peu un début de truc, donc ça ne
+
+428
+00:22:12.856 --> 00:22:15.076
+marche pas super bien non plus.
+
+429
+00:22:16.236 --> 00:22:19.836
+Je me suis dit : « Je vais essayer de le lancer en parallèle avec un work from
+
+430
+00:22:19.876 --> 00:22:21.316
+weekend, ça peut être fait assez facilement.
+
+431
+00:22:21.966 --> 00:22:25.796
+» Si tu découpes toutes les tâches qu'il y a à faire, au final, ça fait un petit
+
+432
+00:22:25.816 --> 00:22:28.686
+paquet de tâches. Plutôt que de faire moi-même chaque petit truc, je me suis dit :
+
+433
+00:22:28.686 --> 00:22:29.536
+« OK, peut-être qu'il peut tout faire.
+
+434
+00:22:29.546 --> 00:22:31.015
+» Et il a tout fait
+
+435
+00:22:33.015 --> 00:22:33.455
+tout seul.
+
+436
+00:22:35.236 --> 00:22:37.396
+Je lui ai demandé de m'expliquer ce système d'agent.
+
+437
+00:22:37.976 --> 00:22:41.856
+C'est lui qui m'a parlé après du système de .md, du
+
+438
+00:22:41.896 --> 00:22:45.496
+log aussi, qui lui permet d'avoir un petit journal de session et de ne pas refaire
+
+439
+00:22:45.516 --> 00:22:46.496
+les mêmes erreurs ensuite.
+
+440
+00:22:47.856 --> 00:22:48.766
+Je pense que ça peut être amélioré.
+
+441
+00:22:49.016 --> 00:22:52.016
+Je pense qu'il a fait ça en 10 minutes.
+
+442
+00:22:52.476 --> 00:22:55.336
+Honnêtement, c'est pas mal fait ce qu'il a fait, mais après, tu peux améliorer.
+
+443
+00:22:55.676 --> 00:22:58.556
+Les
+
+444
+00:22:59.496 --> 00:23:02.356
+prompts, par exemple, d'audit, ils n'étaient pas mal, mais après, je les ai juste
+
+445
+00:23:02.396 --> 00:23:04.116
+repassés pour les améliorer avec Opus.
+
+446
+00:23:04.616 --> 00:23:06.416
+Il m'a fait des trucs qui étaient vraiment bien plus quali.
+
+447
+00:23:12.056 --> 00:23:13.696
+J'essaie de voir un peu ce qu'il y a dedans.
+
+448
+00:23:15.716 --> 00:23:19.176
+OK. Le log, OK. La queue, pourquoi pas.
+
+449
+00:23:20.156 --> 00:23:20.416
+Tu vas voir,
+
+450
+00:23:21.796 --> 00:23:23.416
+rouvre agent pour voir ce qu'il y a dedans.
+
+451
+00:23:28.356 --> 00:23:29.256
+Non, ça, c'est...
+
+452
+00:23:38.536 --> 00:23:39.276
+Du coup, il n'y a pas grand-chose.
+
+453
+00:23:51.516 --> 00:23:51.616
+OK.
+
+454
+00:23:52.476 --> 00:23:55.226
+Pour synthétiser, parce qu'après, ce n'est pas forcément non plus super clair dans
+
+455
+00:23:55.236 --> 00:23:59.176
+ma tête, je vais mal expliquer, mais en gros, ce que j'ai compris, c'est que tu
+
+456
+00:23:59.216 --> 00:24:02.296
+fais travailler Claude sur un dossier et dans tous les cas, dans ce dossier, il va
+
+457
+00:24:02.376 --> 00:24:03.476
+commencer par aller lire
+
+458
+00:24:05.456 --> 00:24:05.996
+un fichier.
+
+459
+00:24:07.356 --> 00:24:09.136
+Si tu le drives bien dans ce fichier-là,
+
+460
+00:24:10.196 --> 00:24:12.236
+il peut ensuite décider de ce qu'il a à faire tout seul.
+
+461
+00:24:12.656 --> 00:24:14.986
+Tu peux vraiment lui mettre des règles, lui mettre des choses à faire, des choses à
+
+462
+00:24:15.036 --> 00:24:18.826
+ne pas faire. Tu peux lui mettre des accès, comme quand tu te mets dans une skill,
+
+463
+00:24:19.476 --> 00:24:23.252
+tu lui donnes des accès API à différentes choses dont il peut avoir besoinTu peux
+
+464
+00:24:23.272 --> 00:24:24.952
+avoir dans ton dossier
+
+465
+00:24:26.052 --> 00:24:26.232
+un
+
+466
+00:24:29.652 --> 00:24:32.812
+fichier dans lequel il y aura tous ces accès auxquels il pourra avoir besoin et
+
+467
+00:24:32.832 --> 00:24:34.732
+dans lequel il pourra venir chercher suivant tout le reste.
+
+468
+00:24:37.032 --> 00:24:37.492
+Ok.
+
+469
+00:24:40.012 --> 00:24:40.712
+C'est marrant cette
+
+470
+00:24:43.492 --> 00:24:44.512
+structure.
+
+471
+00:24:44.692 --> 00:24:45.832
+C'est marrant.
+
+472
+00:24:47.292 --> 00:24:51.212
+Ça se trouve, c'est très bien la façon
+
+473
+00:24:51.252 --> 00:24:55.131
+que tu as de faire, mais je n'arrive pas à comprendre l'utilité
+
+474
+00:24:55.232 --> 00:24:56.732
+du Cloud MD et du agent MD.
+
+475
+00:24:56.812 --> 00:24:58.092
+Le Cloud
+
+476
+00:25:02.552 --> 00:25:05.552
+MD, peut-être que je n'ai pas bien compris ce truc-là, mais si j'ai bien compris,
+
+477
+00:25:05.612 --> 00:25:09.012
+c'est que dès que tu lances une session dans Cloud Code, il va commencer par aller
+
+478
+00:25:09.052 --> 00:25:12.852
+lire ce fichier. Si tu travailles pour ton intégration produit,
+
+479
+00:25:14.472 --> 00:25:18.352
+si à chaque fois que tu l'as fait travailler, tu lui dis de mettre à jour ce
+
+480
+00:25:18.392 --> 00:25:19.372
+fichier cloud.md.
+
+481
+00:25:19.852 --> 00:25:22.172
+En fait, c'est l'équivalent de mon Memory, je pense.
+
+482
+00:25:22.502 --> 00:25:24.132
+Parce que tu n'as pas de Memory sur ton Cloud MD.
+
+483
+00:25:24.192 --> 00:25:25.612
+Oui, je pense que c'est ça.
+
+484
+00:25:26.072 --> 00:25:26.252
+Ok.
+
+485
+00:25:27.512 --> 00:25:30.832
+Il va se mettre à jour et il ne refera plus les mêmes erreurs ou alors il trouvera
+
+486
+00:25:30.872 --> 00:25:31.772
+directement comment-
+
+487
+00:25:31.832 --> 00:25:34.812
+Oui, c'est le Memory. Ton agent, il sert à quoi
+
+488
+00:25:37.432 --> 00:25:37.432
+?
+
+489
+00:25:39.932 --> 00:25:44.792
+Je
+
+490
+00:25:48.072 --> 00:25:51.972
+ne sais plus où j'ai vu ça, mais idéalement, ton fichier,
+
+491
+00:25:52.212 --> 00:25:55.792
+pour toi Memory ou pour moi Cloud.md, il faut qu'il soit assez
+
+492
+00:25:55.812 --> 00:25:56.612
+synthétique quand même.
+
+493
+00:25:58.072 --> 00:26:01.572
+Là, encore une fois, c'est un projet un peu tout pété, mais si tu
+
+494
+00:26:01.992 --> 00:26:05.012
+passes du temps sur un projet, je pense que tu as intérêt à avoir ton fichier
+
+495
+00:26:05.052 --> 00:26:08.762
+Memory, qui va être vraiment très court, avec des infos très claires,
+
+496
+00:26:09.832 --> 00:26:13.612
+et qui peut renvoyer un agent qui va avoir des choses plus détaillées.
+
+497
+00:26:13.652 --> 00:26:16.692
+Vu qu'il le lit à chaque fois que tu fais une requête, tu as intérêt à ce que ce
+
+498
+00:26:16.712 --> 00:26:17.912
+soit vraiment les choses...
+
+499
+00:26:20.112 --> 00:26:23.412
+Je comprends ce que tu dis, mais si
+
+500
+00:26:24.952 --> 00:26:28.512
+tu lances une session et qu'il lit Memory, donc il
+
+501
+00:26:28.552 --> 00:26:32.432
+comprend le concept de ce que tu veux faire et qu'il a plein de dossiers
+
+502
+00:26:32.442 --> 00:26:35.172
+skills, logiquement, si tu lui demandes de faire une tâche,
+
+503
+00:26:35.232 --> 00:26:38.072
+d'aller checker
+
+504
+00:26:39.512 --> 00:26:41.452
+My Business et de faire des audits,
+
+505
+00:26:42.472 --> 00:26:46.252
+il va lui-même, vu qu'il a compris Memory, aller choper les
+
+506
+00:26:46.312 --> 00:26:50.012
+skills, les lancer, voir lancer tes workflows,
+
+507
+00:26:51.032 --> 00:26:51.072
+et
+
+508
+00:26:52.512 --> 00:26:55.852
+créer des sous-agents pour les tâches et qu'il fasse tout ça.
+
+509
+00:26:56.672 --> 00:26:59.692
+J'ai l'impression que tu n'as
+
+510
+00:27:00.472 --> 00:27:03.012
+qu'un agent pour l'instant parce que c'est le début du truc que tu disais.
+
+511
+00:27:03.532 --> 00:27:07.292
+J'imagine que si tu évoluais ce
+
+512
+00:27:07.332 --> 00:27:11.232
+projet, tu as plein d'agents qui seraient dédiés
+
+513
+00:27:11.272 --> 00:27:14.292
+et expliqués dans ton agent MD, c'est ça ?
+
+514
+00:27:14.672 --> 00:27:18.412
+Oui, après encore une fois, je viens de j'ai juste la
+
+515
+00:27:18.422 --> 00:27:21.522
+skeleton, je l'ai lancée, il a créé tous ses fichiers, mais après je n'ai pas envie
+
+516
+00:27:21.522 --> 00:27:23.222
+de me disperser, donc j'ai envie de lancer mon site.
+
+517
+00:27:23.872 --> 00:27:25.692
+Je n'ai pas creusé le truc, mais
+
+518
+00:27:26.572 --> 00:27:29.332
+si j'ai bien compris, ce fichier Cloud,
+
+519
+00:27:30.432 --> 00:27:31.772
+il doit être le plus synthétique possible.
+
+520
+00:27:31.812 --> 00:27:34.522
+Je crois qu'il ne faut pas que tu aies plus d'un certain nombre de lignes pour ne
+
+521
+00:27:34.532 --> 00:27:37.932
+pas qu'il se perde non plus. À terme, effectivement,
+
+522
+00:27:38.032 --> 00:27:41.892
+si tu développais ce projet, peut-être que le fichier agent.md
+
+523
+00:27:41.902 --> 00:27:44.752
+serait amené à grandir, à devenir un peu plus complexe.
+
+524
+00:27:45.372 --> 00:27:49.242
+Mais dès que je lance une requête dans Cloud Code, il
+
+525
+00:27:49.252 --> 00:27:52.572
+n'ira pas lire le fichier agent.md, il ira lire le fichier Cloud, et peut-être que
+
+526
+00:27:52.612 --> 00:27:54.592
+Cloud l'enverrait lire le fichier agent, mais pas forcément.
+
+527
+00:27:56.472 --> 00:28:00.232
+Je
+
+528
+00:28:00.252 --> 00:28:01.352
+vois.
+
+529
+00:28:02.572 --> 00:28:06.552
+Ça, c'est un truc super basique parce que j'ai créé ce
+
+530
+00:28:06.592 --> 00:28:10.032
+système juste pour qu'il me crée le workflow N8N, les emails,
+
+531
+00:28:11.312 --> 00:28:15.152
+le dossier acquisition. Ce sont des mails de démarchage et des posts Facebook,
+
+532
+00:28:16.732 --> 00:28:17.652
+la landing page.
+
+533
+00:28:18.612 --> 00:28:20.512
+Mais c'était juste un peu one shot pour qu'il crée tout ça.
+
+534
+00:28:21.372 --> 00:28:23.812
+Ce n'était pas un agent qui ensuite
+
+535
+00:28:26.792 --> 00:28:29.652
+va agir. Une fois que le
+
+536
+00:28:29.672 --> 00:28:33.662
+workflow N8N est créé, si tu veux le rendre
+
+537
+00:28:33.662 --> 00:28:37.632
+réel, tu le passes sur N8N et après, tu le règles, mais tu ne te sers plus
+
+538
+00:28:37.672 --> 00:28:39.492
+forcément de ce qu'il y a dans ce dossier-là.
+
+539
+00:28:41.432 --> 00:28:44.512
+Mais c'était juste pour rebondir sur Pierre, c'est que cette hiérarchie, que j'ai
+
+540
+00:28:44.531 --> 00:28:47.492
+compris, que j'ai mis en œuvre juste sur un truc one shot, de créer quelque chose,
+
+541
+00:28:48.032 --> 00:28:49.832
+je pense que c'est cool de l'avoir en tête parce que
+
+542
+00:28:50.652 --> 00:28:54.052
+je ne sais pas encore vraiment comment, mais pour de l'intégration produit ou pour
+
+543
+00:28:54.352 --> 00:28:56.332
+développer des sites, par exemple pour la recherche de niches,
+
+544
+00:28:57.492 --> 00:28:58.492
+j'ai commencé à réfléchir à ça.
+
+545
+00:29:00.032 --> 00:29:02.632
+Il faut que je finisse mon premier site avant de faire ça, mais pour la recherche
+
+546
+00:29:02.642 --> 00:29:05.692
+de niches, tu pourrais avoir un agent, voire plusieurs.
+
+547
+00:29:05.732 --> 00:29:08.492
+Tu aurais un cloud.md recherche de niches.
+
+548
+00:29:08.772 --> 00:29:10.312
+Tu crées un dossier recherche de niches.
+
+549
+00:29:11.772 --> 00:29:14.572
+Je réfléchis un peu en parlant, j'ai commencé à réfléchir à ça, mais tu as un
+
+550
+00:29:14.592 --> 00:29:18.532
+fichier cloud.md qui va expliquer que tu es dans un pôle de
+
+551
+00:29:18.552 --> 00:29:21.752
+recherche de niches, un agent qui va avoir accès à
+
+552
+00:29:23.892 --> 00:29:27.472
+Ahref, n'importe quel truc, et qui va aller faire de la recherche
+
+553
+00:29:28.052 --> 00:29:31.652
+de volume avec KD CPC, un autre agent
+
+554
+00:29:31.712 --> 00:29:34.252
+parallèle qui, si l'agent numéro 1 lui envoie
+
+555
+00:29:34.312 --> 00:29:35.752
+des
+
+556
+00:29:36.612 --> 00:29:40.592
+mots clés, va lui aller faire la moyenne pour calculer la rentabilité,
+
+557
+00:29:41.372 --> 00:29:42.932
+un autre agent qui va sélectionner.
+
+558
+00:29:43.592 --> 00:29:43.632
+Tu
+
+559
+00:29:45.832 --> 00:29:47.892
+pourrais te créer comme ça tout un...
+
+560
+00:29:48.512 --> 00:29:50.712
+Pour moi, c'est plus des skills, ce que tu dis.
+
+561
+00:29:51.952 --> 00:29:55.932
+Genre le skill de rechercher une niche, le skill de checker les
+
+562
+00:29:55.972 --> 00:29:57.852
+volumes et déterminer s'ils sont bons.
+
+563
+00:29:58.132 --> 00:29:59.692
+C'est pour des agences, ces tâches-là.
+
+564
+00:30:00.092 --> 00:30:01.652
+Ce sont les agents qui s'occupent de ces trucs-là.
+
+565
+00:30:01.692 --> 00:30:03.731
+Oui, mais ce sont les agents qui vont utiliser les skills.
+
+566
+00:30:06.372 --> 00:30:10.292
+Ce que je voyais plus, c'était si tu cherches à organiser
+
+567
+00:30:10.352 --> 00:30:14.332
+le tout. Pour moi, le fichier skill, je le vois comme vraiment le côté compétence.
+
+568
+00:30:14.392 --> 00:30:17.332
+Dans la skill, il a
+
+569
+00:30:17.472 --> 00:30:20.772
+un chemin à suivre, mais sur un truc très précis.
+
+570
+00:30:21.432 --> 00:30:24.952
+Mais après, le côté agent, il
+
+571
+00:30:25.932 --> 00:30:27.672
+va avoir accès à différentes
+
+572
+00:30:27.772 --> 00:30:30.092
+skillsEt
+
+573
+00:30:30.212 --> 00:30:32.392
+d'élargir un peu.
+
+574
+00:30:33.312 --> 00:30:36.292
+Je pense qu'en plus ça peut te coûter moins de tokens.
+
+575
+00:30:36.332 --> 00:30:37.452
+Si tu as dans un skill
+
+576
+00:30:38.312 --> 00:30:39.652
+au final plein de skills différents,
+
+577
+00:30:40.872 --> 00:30:44.532
+il va aller lire tout le fichier, mais peut-être qu'il a besoin que de 10 % de ce
+
+578
+00:30:44.572 --> 00:30:45.132
+que tu fais dedans.
+
+579
+00:30:46.072 --> 00:30:46.992
+Alors que si tu le
+
+580
+00:30:47.912 --> 00:30:51.632
+dissocies, que tu le fais partir d'un autre fichier
+
+581
+00:30:51.672 --> 00:30:55.632
+source, il peut être plus efficace, peut-être coûter un peu moins
+
+582
+00:30:55.652 --> 00:30:56.292
+de tokens aussi.
+
+583
+00:30:57.692 --> 00:30:58.272
+Ok.
+
+584
+00:30:58.772 --> 00:30:59.052
+Je ne sais pas,
+
+585
+00:31:00.012 --> 00:31:00.772
+je découvre.
+
+586
+00:31:01.612 --> 00:31:05.532
+J'aimerais bien voir ce que tu dis quand
+
+587
+00:31:05.552 --> 00:31:08.442
+tu vas le faire sur ton site, à quoi ressemble la structure,
+
+588
+00:31:09.372 --> 00:31:12.492
+que ce soit la recherche de niches ou la création d'un site.
+
+589
+00:31:13.612 --> 00:31:15.972
+Ça peut être intéressant de voir comment tu composes.
+
+590
+00:31:18.132 --> 00:31:20.112
+Ça fait trois semaines que j'ai Claude, du coup, je m'amuse.
+
+591
+00:31:20.152 --> 00:31:22.172
+Ça, c'était un peu pour justement le tester et le comprendre.
+
+592
+00:31:23.552 --> 00:31:23.582
+Ce
+
+593
+00:31:24.492 --> 00:31:24.792
+n'est pas
+
+594
+00:31:27.532 --> 00:31:28.712
+mon premier site que je fais.
+
+595
+00:31:29.852 --> 00:31:31.752
+J'ai envie de sortir mon site avant de le faire, mais c'est le fait de
+
+596
+00:31:32.752 --> 00:31:35.532
+quand tu dis que tu réfléchis, je me dis que potentiellement, ça peut être possible
+
+597
+00:31:35.572 --> 00:31:35.912
+de le faire.
+
+598
+00:31:37.272 --> 00:31:40.952
+Après, je pense qu'il faut d'abord que je sorte mon premier site, que je me plante,
+
+599
+00:31:41.052 --> 00:31:42.112
+parce que ça va être sûrement le cas,
+
+600
+00:31:44.372 --> 00:31:48.252
+avant de passer à ça. Mais dans l'idée, j'imagine que c'est
+
+601
+00:31:48.292 --> 00:31:49.052
+possible de faire ça.
+
+602
+00:31:50.152 --> 00:31:53.202
+Oui, c'est clair. En tout cas, j'aime bien la partie structure de projet que tu as
+
+603
+00:31:53.252 --> 00:31:56.592
+fait, le markdown. J'ai essayé, je l'ai vu sur des vidéos YouTube, mais j'ai
+
+604
+00:31:56.632 --> 00:31:59.051
+demandé à Claude de le faire, mais il ne me l'a pas fait, ce truc-là.
+
+605
+00:31:59.692 --> 00:32:03.372
+Comme les claude.md en général, je crois que c'est maximum 200 caractères.
+
+606
+00:32:03.932 --> 00:32:06.492
+Mais il ne me l'a pas fait, ce truc-là, mais j'aime bien parce que
+
+607
+00:32:08.012 --> 00:32:11.992
+ça explique quel dossier, quel fichier sert à quoi et
+
+608
+00:32:12.072 --> 00:32:13.732
+c'est vraiment top. Il a vraiment tout le contexte.
+
+609
+00:32:14.392 --> 00:32:16.952
+Il faudrait que je l'aiguise à ce niveau-là.
+
+610
+00:32:18.572 --> 00:32:22.492
+Oui, c'est vraiment lui, je lui explique ce que je veux, je lui demande de le
+
+611
+00:32:22.552 --> 00:32:26.172
+faire, de le refaire. Parfois, tu as des trucs, tu fais actionner, puis tu repasses
+
+612
+00:32:26.192 --> 00:32:28.952
+juste un document dans Opus pour qu'il te l'améliore.
+
+613
+00:32:28.992 --> 00:32:30.572
+Il te fait un truc qui est beaucoup plus complet.
+
+614
+00:32:34.692 --> 00:32:38.272
+Tu passes par Claude Code, le terminal ou l'interface
+
+615
+00:32:39.071 --> 00:32:39.391
+web ?
+
+616
+00:32:41.132 --> 00:32:42.532
+Là, pour l'instant, l'interface web.
+
+617
+00:32:42.581 --> 00:32:48.952
+Par
+
+618
+00:32:48.992 --> 00:32:50.472
+l'appli Mac.
+
+619
+00:32:52.432 --> 00:32:54.822
+Ok. Moi, je tente le terminal, mais le problème, c'est que je n'arrive pas à
+
+620
+00:32:54.852 --> 00:32:58.452
+retrouver mes conversations. Après, ça sauvegarde dans le memory.md, mais je ne
+
+621
+00:32:58.532 --> 00:32:59.532
+peux pas retrouver pareil.
+
+622
+00:33:00.772 --> 00:33:02.112
+Justement, c'est tout le point.
+
+623
+00:33:02.132 --> 00:33:06.012
+Dans le terminal, tu ne vas
+
+624
+00:33:06.052 --> 00:33:09.622
+pas retrouver l'ancienne conversation, mais si c'est
+
+625
+00:33:09.712 --> 00:33:13.302
+organisé avec les fichiers dont je suis en train de parler là, si à
+
+626
+00:33:14.372 --> 00:33:17.652
+la fin de chaque session, tu lui demandes de mettre à jour ton fichier claude.md,
+
+627
+00:33:18.712 --> 00:33:22.052
+dès que tu recommenceras une nouvelle session, ça va être même encore mieux que
+
+628
+00:33:22.092 --> 00:33:22.892
+d'en reprendre une autre
+
+629
+00:33:24.272 --> 00:33:26.932
+sur l'application où il peut être perdu dans plein de trucs.
+
+630
+00:33:28.172 --> 00:33:31.512
+Dès que tu finis de bosser, tu dis : « Ok, mets à jour mon fichier claude.md.
+
+631
+00:33:31.602 --> 00:33:32.832
+» Tu le fermes, le lendemain, tu rouvres
+
+632
+00:33:34.092 --> 00:33:35.972
+et tu repars d'un truc beaucoup plus
+
+633
+00:33:37.172 --> 00:33:37.732
+structuré.
+
+634
+00:33:38.532 --> 00:33:39.842
+Comment tu changes d'un projet à l'autre ?
+
+635
+00:33:39.852 --> 00:33:40.612
+Parce que j'ai l'impression,
+
+636
+00:33:41.832 --> 00:33:45.452
+même si tu ouvres une nouvelle conversation, que ce soit dans le chat
+
+637
+00:33:45.652 --> 00:33:47.232
+web ou bien dans le terminal,
+
+638
+00:33:48.232 --> 00:33:50.212
+il prend en compte les autres conversations.
+
+639
+00:33:51.032 --> 00:33:52.912
+C'est tout nouveau. Je n'arrive pas.
+
+640
+00:33:53.852 --> 00:33:56.032
+Parce que tu as Claude Code et tu as Claude AI.
+
+641
+00:33:56.772 --> 00:34:00.632
+Claude Code, quand tu le lances,
+
+642
+00:34:03.572 --> 00:34:06.732
+tu
+
+643
+00:34:11.092 --> 00:34:12.672
+choisis dans quel dossier tu le fais travailler.
+
+644
+00:34:14.072 --> 00:34:15.072
+Oui, il faut le choisir.
+
+645
+00:34:16.792 --> 00:34:18.912
+Tu choisis dans quel dossier tu le fais travailler.
+
+646
+00:34:19.292 --> 00:34:21.652
+Depuis le terminal, je suppose que c'est pareil.
+
+647
+00:34:21.912 --> 00:34:23.111
+Quand tu le lances, tu le
+
+648
+00:34:24.033 --> 00:34:26.612
+fais travailler sur un dossier qui est sur ton ordinateur.
+
+649
+00:34:26.652 --> 00:34:29.752
+Oui, dès le premier prompt. Il faudrait que j'aie cette
+
+650
+00:34:29.792 --> 00:34:30.942
+gymnastique-là.
+
+651
+00:34:31.432 --> 00:34:35.372
+Dans le terminal, tu peux naviguer dans le bon dossier directement.
+
+652
+00:34:36.473 --> 00:34:39.632
+Tu as un dossier Claude général et dedans, tu as tes projets, donc tu peux aller
+
+653
+00:34:39.672 --> 00:34:42.942
+directement dans le bon projet. Comme ça, il sait déjà où il
+
+654
+00:34:43.632 --> 00:34:47.152
+est et de quel projet on parle. C'est l'équivalent de sélectionner ton
+
+655
+00:34:47.172 --> 00:34:48.112
+dossier.
+
+656
+00:34:48.172 --> 00:34:51.513
+Oui, puis en plus, il s'est déplacé, ça se fait dans le terminal.
+
+657
+00:34:52.932 --> 00:34:54.632
+Ça prend la racine directement, donc c'est cool.
+
+658
+00:34:58.972 --> 00:35:02.932
+Je vais m'intéresser à la structure des projets parce qu'à mon avis,
+
+659
+00:35:03.012 --> 00:35:04.192
+ça peut, comme tu dis,
+
+660
+00:35:05.112 --> 00:35:08.692
+consommer moins de tokens, être plus rapide, mieux comprendre, moins se
+
+661
+00:35:08.732 --> 00:35:09.252
+mélanger.
+
+662
+00:35:11.252 --> 00:35:14.852
+J'ai demandé à Claude une structure idéale pour un projet.
+
+663
+00:35:15.812 --> 00:35:16.632
+Il parle de
+
+664
+00:35:20.752 --> 00:35:23.912
+doc, de source, de commande, de skill,
+
+665
+00:35:23.932 --> 00:35:27.452
+de readme pour la vue d'ensemble du projet et de
+
+666
+00:35:27.472 --> 00:35:30.012
+claude.md. Mais effectivement, il ne met pas de memory.md.
+
+667
+00:35:31.392 --> 00:35:32.632
+Je ne sais pas, il faut que je fouille un peu.
+
+668
+00:35:34.852 --> 00:35:38.692
+Après, mode first mode et lui, automatiquement, à chaque session, le claude.md.
+
+669
+00:35:41.792 --> 00:35:44.432
+Pour le moment, j'ai l'impression qu'il ne se connaît pas forcément très bien non
+
+670
+00:35:44.492 --> 00:35:48.252
+plus. Il y a des trucs dont tu parlais, ça fait peut-être trois semaines que je
+
+671
+00:35:48.312 --> 00:35:52.092
+l'ai à peine. Et quand tu as commencé à en parler, des trucs que tu faisais, lui,
+
+672
+00:35:52.102 --> 00:35:53.532
+il me dit : « Non, ce n'est pas possible.
+
+673
+00:35:53.562 --> 00:35:55.182
+» Et après, quand tu dis : « Si, c'est possible » parce
+
+674
+00:35:55.192 --> 00:35:59.162
+qu'il y a un coach Rakan qui m'a montré que
+
+675
+00:35:59.172 --> 00:36:02.252
+c'était possible. Du coup, il va les regarder et il voit que c'est possible.
+
+676
+00:36:03.532 --> 00:36:07.052
+Et c'est pareil pour cette structure, j'ai compris que c'était possible.
+
+677
+00:36:07.352 --> 00:36:09.032
+J'ai vu des gens qui faisaient des trucs comme ça.
+
+678
+00:36:09.092 --> 00:36:11.392
+Je me suis dit qu'il faut le challenger un petit peu, lui dire :
+
+679
+00:36:13.102 --> 00:36:15.052
+« Dans l'idée, ça serait possible.
+
+680
+00:36:15.082 --> 00:36:15.082
+»
+
+681
+00:36:16.132 --> 00:36:20.012
+Moi, ce que je peux te conseiller,
+
+682
+00:36:20.132 --> 00:36:23.352
+ce que je vais faire, c'est de comprendre pourquoi cette structure.
+
+683
+00:36:25.052 --> 00:36:26.372
+Parce qu'il y a peut-être des trucs
+
+684
+00:36:27.472 --> 00:36:31.052
+dont le contenu n'est pas bon, parce que ce n'est pas ce qu'il aurait besoin pour
+
+685
+00:36:31.072 --> 00:36:34.592
+mieux tourner. Il y a peut-être des trucs qui n'ont pas de sens, qui n'ont pas
+
+686
+00:36:34.612 --> 00:36:36.692
+besoin d'exister, donc qui te fait perdre du temps.
+
+687
+00:36:36.702 --> 00:36:40.492
+Moi, ce que je vais faire, parce que ça m'intéresse carrément de voir la
+
+688
+00:36:40.532 --> 00:36:42.612
+meilleure structure pour que lui
+
+689
+00:36:44.816 --> 00:36:48.116
+De un, entre chaque conversation, il sache exactement où on est, mais logiquement,
+
+690
+00:36:48.196 --> 00:36:49.496
+c'est un peu le but du memory aussi.
+
+691
+00:36:50.956 --> 00:36:54.176
+Comme tu dis, moins de tokens,
+
+692
+00:36:54.956 --> 00:36:56.536
+il sait où il doit aller quand il faut.
+
+693
+00:36:57.136 --> 00:37:00.936
+À mon avis, c'est la structure qui fait qu'il est plus intelligent.
+
+694
+00:37:02.456 --> 00:37:02.796
+Je vais
+
+695
+00:37:04.116 --> 00:37:08.076
+fouiller sur tout ça et je vous ferai un feedback de ce que j'ai trouvé
+
+696
+00:37:08.176 --> 00:37:08.676
+lié à ça.
+
+697
+00:37:11.116 --> 00:37:12.556
+J'essaierai de faire un résumé, je pense.
+
+698
+00:37:12.936 --> 00:37:15.296
+D'ailleurs, à mon avis, il sera peut-être dans la partie
+
+699
+00:37:16.296 --> 00:37:17.596
+de la formation quand je l'aurai finie,
+
+700
+00:37:22.156 --> 00:37:22.456
+pour
+
+701
+00:37:23.936 --> 00:37:27.536
+qu'il y ait un doc qui explique tout ce que j'aurai arrangé entre-temps.
+
+702
+00:37:28.356 --> 00:37:30.676
+C'est intéressant de voir ce truc.
+
+703
+00:37:31.216 --> 00:37:33.136
+Comment utiliser Claude-
+
+704
+00:37:33.736 --> 00:37:34.526
+Comment bien l'utiliser ?
+
+705
+00:37:35.276 --> 00:37:38.216
+La documentation, la base, la création de fichiers, il n'y a personne qui montre
+
+706
+00:37:38.276 --> 00:37:41.836
+ça. Tout le monde te montre comment faire un projet vite
+
+707
+00:37:41.876 --> 00:37:44.296
+fait, mais pas de structure.
+
+708
+00:37:45.336 --> 00:37:47.056
+La structure, à mon avis, elle est trop importante.
+
+709
+00:37:47.096 --> 00:37:47.996
+Je m'en rends compte
+
+710
+00:37:49.056 --> 00:37:50.296
+sur les explications d'Aymeric.
+
+711
+00:37:52.876 --> 00:37:54.656
+Imaginons, dans deux mois, tu veux remodifier un truc.
+
+712
+00:37:54.916 --> 00:37:57.336
+Là encore, nous, on fait des trucs simples, mais imagine, tu fais une application.
+
+713
+00:37:57.976 --> 00:38:01.356
+Tu fais 10 applications, comment tu vas retourner dans l'application
+
+714
+00:38:02.016 --> 00:38:04.995
+précise pour modifier ? Tu es obligé d'avoir une structure.
+
+715
+00:38:07.436 --> 00:38:11.256
+Déjà de base, la structure, mais oui, je vois ce que tu veux dire.
+
+716
+00:38:11.266 --> 00:38:15.016
+Si tu veux faire des modifications, pour être précis, il faut être
+
+717
+00:38:15.156 --> 00:38:16.856
+structuré parce que c'est hyper compliqué.
+
+718
+00:38:17.596 --> 00:38:21.036
+Débugger un truc deux mois après, waouh
+
+719
+00:38:22.036 --> 00:38:22.036
+!
+
+720
+00:38:22.216 --> 00:38:25.776
+C'est pour ça que je pense que cet outil est génial, pour
+
+721
+00:38:26.156 --> 00:38:30.086
+moi qui ne suis pas un spécialiste, de me créer des outils
+
+722
+00:38:30.136 --> 00:38:30.775
+dont j'ai besoin.
+
+723
+00:38:31.696 --> 00:38:33.616
+Par contre, aller créer quelque chose pour quelqu'un d'autre,
+
+724
+00:38:34.656 --> 00:38:37.776
+ça va être super compliqué parce que dès qu'il faut débugger, c'est un peu comme
+
+725
+00:38:37.816 --> 00:38:41.176
+une 8N. Une 8N, j'ai des workflows, et au moment où il y a un truc qui bugue,
+
+726
+00:38:41.236 --> 00:38:42.936
+parfois, tu mets deux minutes à le débloquer.
+
+727
+00:38:43.216 --> 00:38:46.296
+Parfois, tu vas mettre une heure et demie, parce que
+
+728
+00:38:47.976 --> 00:38:51.596
+c'est un peu compliqué. Si tu fais un truc pour toi, ce n'est pas grave, mais si tu
+
+729
+00:38:51.676 --> 00:38:54.596
+développes une appli ou un workflow pour quelqu'un d'autre, si tu n'es pas vraiment
+
+730
+00:38:54.616 --> 00:38:55.656
+calé et un peu dev,
+
+731
+00:38:56.656 --> 00:39:00.416
+tu ne peux pas te permettre de mettre quatre heures pour débugger un truc pour
+
+732
+00:39:00.436 --> 00:39:00.916
+quelqu'un d'autre.
+
+733
+00:39:05.396 --> 00:39:08.656
+Surtout si tu lançais ton truc et que tu avais plein de clients à gérer,
+
+734
+00:39:08.976 --> 00:39:12.716
+effectivement. Que ce soit bien structuré pour que s'il y en a un qui te demande
+
+735
+00:39:12.776 --> 00:39:13.276
+une modif,
+
+736
+00:39:14.756 --> 00:39:16.176
+toi, en lui expliquant vite fait en
+
+737
+00:39:17.156 --> 00:39:20.296
+quelques mots, il sache exactement quoi faire, où et comment.
+
+738
+00:39:22.036 --> 00:39:23.716
+Si c'est bien structuré, il comprendra.
+
+739
+00:39:24.296 --> 00:39:27.376
+C'est pour ça, ça en revient à la structure, à mon avis, qui est ultra-importante.
+
+740
+00:39:33.076 --> 00:39:35.756
+Il y a sûrement de la doc de Claude sur ça,
+
+741
+00:39:35.836 --> 00:39:39.616
+d'ailleurs. Je vais demander s'il y a un lien de
+
+742
+00:39:39.716 --> 00:39:43.196
+doc officiel qui parle de
+
+743
+00:39:43.216 --> 00:39:45.056
+structure de projet
+
+744
+00:39:46.736 --> 00:39:47.156
+pour Claude.
+
+745
+00:39:47.196 --> 00:39:49.136
+Avant, j'utilisais beaucoup Gemini.
+
+746
+00:39:49.296 --> 00:39:50.396
+Ce qui était bien, c'était qu'avec
+
+747
+00:39:51.576 --> 00:39:53.816
+NotebookLM, par moments, tu lui parlais de
+
+748
+00:39:54.896 --> 00:39:56.356
+NanoBanana 2.
+
+749
+00:39:57.236 --> 00:39:58.676
+Gemini disait : « Non, ça n'existe pas encore.
+
+750
+00:39:59.386 --> 00:40:01.256
+» Et après, dans un
+
+751
+00:40:02.416 --> 00:40:03.776
+NotebookLM, tu mettais
+
+752
+00:40:04.696 --> 00:40:07.516
+les fichiers de documentation de Google.
+
+753
+00:40:08.816 --> 00:40:12.216
+En lui posant la question, tu lui donnais accès à ton
+
+754
+00:40:12.236 --> 00:40:15.616
+notebook et il était super.
+
+755
+00:40:16.816 --> 00:40:20.016
+C'est pour ça que dans le premier message qu'il m'a mis, il m'a mis
+
+756
+00:40:20.056 --> 00:40:21.996
+un dossier doc.
+
+757
+00:40:25.656 --> 00:40:29.456
+L'avantage de faire ça,
+
+758
+00:40:29.556 --> 00:40:30.976
+c'est que ça économise du token.
+
+759
+00:40:31.856 --> 00:40:34.696
+Sinon, il peut aller la chercher en ligne, la doc.
+
+760
+00:40:36.896 --> 00:40:40.826
+Oui. Ce que je te montre, encore une fois, c'est comme ça et ça m'a juste
+
+761
+00:40:40.856 --> 00:40:43.336
+permis de comprendre comment ça fonctionnait.
+
+762
+00:40:43.346 --> 00:40:46.176
+Plus tu vas faire des choses qui sont
+
+763
+00:40:46.216 --> 00:40:49.476
+complexes, plus c'est bien d'être organisé dès le départ.
+
+764
+00:40:49.796 --> 00:40:53.116
+Mais si c'est juste, comme tu disais tout à l'heure, d'aller tout modifier.
+
+765
+00:40:53.126 --> 00:40:56.836
+Sur mon site, je me suis rendu compte que sur chacun de mes produits, j'avais mis
+
+766
+00:40:59.056 --> 00:41:00.136
+de ne pas suivre le stock.
+
+767
+00:41:02.476 --> 00:41:06.396
+Il fallait que je mette que le stock apparaisse, mais de quand même laisser le
+
+768
+00:41:06.416 --> 00:41:09.956
+produit. Si j'avais dû passer 150 produits à le faire à la main, j'aurais mis
+
+769
+00:41:09.996 --> 00:41:11.526
+quatre heures. Là, j'ai juste lancé
+
+770
+00:41:13.676 --> 00:41:16.376
+Claude Code, et en trois minutes, il m'a changé tous les produits.
+
+771
+00:41:16.766 --> 00:41:19.356
+Pour des trucs comme ça, ça ne sert à rien de te faire un système compliqué.
+
+772
+00:41:21.456 --> 00:41:22.856
+Oui, là, c'est à la volée.
+
+773
+00:41:24.136 --> 00:41:26.456
+Oui. Par contre, je pense que si tu veux un peu
+
+774
+00:41:27.516 --> 00:41:31.056
+organiser pour de la recherche de niches,
+
+775
+00:41:31.976 --> 00:41:34.565
+l'exemple que je disais tout à l'heure, mais tu peux en trouver plein d'autres,
+
+776
+00:41:35.436 --> 00:41:38.116
+là, ça peut être cool de structurer quelque chose et une fois que tu lances,
+
+777
+00:41:39.596 --> 00:41:43.416
+tu vas avoir vraiment un résultat avec des propositions qui vont être organisées
+
+778
+00:41:44.196 --> 00:41:44.916
+avec ce que tu veux.
+
+779
+00:41:46.416 --> 00:41:49.396
+Je pense que tu auras un truc qui sera beaucoup plus pertinent que si tu as juste
+
+780
+00:41:49.436 --> 00:41:52.816
+un fichier skip de recherche de niches qui a accès un peu à tout, qui va aller voir
+
+781
+00:41:52.856 --> 00:41:56.276
+plein de trucs. Mais si tu spécialises trois agents différents dans un même
+
+782
+00:41:56.296 --> 00:41:59.716
+dossier, qui vont avoir chacun une qualité, qui vont discuter entre eux
+
+783
+00:42:00.276 --> 00:42:01.396
+et qui vont suivre une to-do,
+
+784
+00:42:02.216 --> 00:42:05.116
+à mon avis, tu le laisses tourner pendant quelque
+
+785
+00:42:06.156 --> 00:42:08.176
+temps
+
+786
+00:42:09.136 --> 00:42:12.636
+et tu peux avoir un truc qui est beaucoup plus structuré.
+
+787
+00:42:14.116 --> 00:42:15.016
+Enfin, beaucoup plus pertinent.
+
+788
+00:42:17.336 --> 00:42:27.276
+Oui.
+
+789
+00:42:27.376 --> 00:42:27.876
+Je
+
+790
+00:42:29.396 --> 00:42:32.936
+vais regarder. Il y a pas mal de docs de Claude qui parlent de ça,
+
+791
+00:42:35.576 --> 00:42:36.836
+qui parlent de structure.
+
+792
+00:42:41.036 --> 00:42:42.456
+C'est un peu comme ce que je disais pour Gemini.
+
+793
+00:42:42.716 --> 00:42:45.346
+Il y a des fois où Claude me dit : « Non, ça n'existe pas » ou « Non, ce n'est pas
+
+794
+00:42:45.416 --> 00:42:48.456
+possible. » Et si tu lui dis juste : « Si, j'ai vu que c'était possible », il va
+
+795
+00:42:48.476 --> 00:42:49.796
+aller regarder lui-même comment faire.
+
+796
+00:42:50.356 --> 00:42:54.046
+Mais peut-être que si tu lui mets toiDès le départ, de la
+
+797
+00:42:54.066 --> 00:42:54.426
+doc
+
+798
+00:42:55.626 --> 00:42:59.006
+dans des fichiers ou juste accès à des liens tout de suite.
+
+799
+00:43:01.346 --> 00:43:04.526
+Parce que son modèle d'entraînement a été terminé à une date antérieure.
+
+800
+00:43:04.556 --> 00:43:06.606
+C'est pour ça qu'il ne le sait pas.
+
+801
+00:43:08.746 --> 00:43:10.486
+Oui, mais il a de la recherche en ligne.
+
+802
+00:43:10.946 --> 00:43:14.346
+Oui, mais il ne le fait pas toujours spontanément si tu ne lui dis pas.
+
+803
+00:43:17.166 --> 00:43:18.026
+Tu ne l'as jamais remarqué
+
+804
+00:43:19.506 --> 00:43:19.506
+?
+
+805
+00:43:19.566 --> 00:43:19.726
+Je suis
+
+806
+00:43:20.706 --> 00:43:21.166
+sûr, oui.
+
+807
+00:43:22.006 --> 00:43:25.895
+Je lui dis quasiment souvent quand je sais que ça doit
+
+808
+00:43:25.926 --> 00:43:28.246
+être recherché en ligne de faire des recherches en ligne.
+
+809
+00:43:28.306 --> 00:43:29.686
+Oui, pareil.
+
+810
+00:43:32.526 --> 00:43:33.506
+J'ai partagé un doc,
+
+811
+00:43:34.766 --> 00:43:38.666
+Théo, que j'ai partagé à Pierre également pour créer les
+
+812
+00:43:38.706 --> 00:43:41.726
+structures de documentation. C'est un truc que j'ai mis
+
+813
+00:43:41.866 --> 00:43:44.206
+au
+
+814
+00:43:45.486 --> 00:43:48.046
+point il y a déjà
+
+815
+00:43:49.366 --> 00:43:53.306
+un ou deux mois. Il est à mettre à jour avec les skills, à
+
+816
+00:43:53.346 --> 00:43:53.706
+mon avis,
+
+817
+00:43:55.186 --> 00:43:55.786
+mais c'est une bonne
+
+818
+00:43:57.646 --> 00:44:00.686
+base pour documenter tes projets.
+
+819
+00:44:00.706 --> 00:44:01.766
+En tout cas, c'est ce que j'utilise.
+
+820
+00:44:03.966 --> 00:44:04.886
+Je vais regarder ça.
+
+821
+00:44:07.326 --> 00:44:10.466
+Je suis sur Windows, alors pour ouvrir le .md, ça va être avec
+
+822
+00:44:11.206 --> 00:44:11.726
+TextEdit.
+
+823
+00:44:14.206 --> 00:44:15.466
+Non, Bloc-notes.
+
+824
+00:44:16.426 --> 00:44:20.826
+Ok.
+
+825
+00:44:22.226 --> 00:44:25.626
+Création de documentation
+
+826
+00:44:25.646 --> 00:44:26.306
+professionnelle.
+
+827
+00:44:27.926 --> 00:44:30.166
+Structure et process pour créer un... Ok.
+
+828
+00:44:34.986 --> 00:44:36.826
+Et ça, c'est pour quoi
+
+829
+00:44:39.106 --> 00:44:39.106
+?
+
+830
+00:44:40.346 --> 00:44:41.766
+C'est-à-dire, c'est pour quoi ?
+
+831
+00:44:43.886 --> 00:44:46.986
+Tu utilises ce document pour faire quoi
+
+832
+00:44:48.806 --> 00:44:48.806
+?
+
+833
+00:44:49.206 --> 00:44:52.006
+Systématiquement, à chaque fois que je travaille dans mon projet, il
+
+834
+00:44:53.206 --> 00:44:54.106
+relit par étapes.
+
+835
+00:44:57.146 --> 00:45:01.026
+Tu le verras, il y a un document qui s'appelle Start, c'est ce qui
+
+836
+00:45:01.106 --> 00:45:01.306
+crée
+
+837
+00:45:02.145 --> 00:45:05.946
+automatiquement. Ensuite, il sait, en fonction de tes
+
+838
+00:45:05.966 --> 00:45:08.566
+besoins ou des modifications que tu cherches à effectuer,
+
+839
+00:45:09.166 --> 00:45:11.746
+dans quelle catégorie il doit se rendre.
+
+840
+00:45:12.226 --> 00:45:14.696
+Ensuite, il a toutes les instructions en fonction à chaque fois.
+
+841
+00:45:14.706 --> 00:45:14.746
+En
+
+842
+00:45:18.326 --> 00:45:20.506
+gros, ce sont tous les process qui sont répertoriés.
+
+843
+00:45:21.866 --> 00:45:25.146
+Au moins, il ne touche pas au hasard à certaines choses auxquelles tu ne souhaites
+
+844
+00:45:25.166 --> 00:45:25.806
+pas qu'il touche.
+
+845
+00:45:35.186 --> 00:45:35.676
+D'accord,
+
+846
+00:45:36.686 --> 00:45:39.886
+il y a des fichiers type guide assistance IA, MD, etc.
+
+847
+00:45:40.626 --> 00:45:41.686
+Oui, c'est ça.
+
+848
+00:45:44.446 --> 00:45:48.406
+Par exemple, si tu utilises plusieurs API, etc.,
+
+849
+00:45:48.846 --> 00:45:52.666
+il sait chaque fois les appels qu'il a
+
+850
+00:45:52.726 --> 00:45:54.766
+effectués, le type.
+
+851
+00:45:57.546 --> 00:45:59.146
+C'est une marche à suivre.
+
+852
+00:46:02.266 --> 00:46:04.206
+Quand tu utilises Cloud Code, tu lui donnes ça ?
+
+853
+00:46:05.586 --> 00:46:09.166
+Oui, à chaque fois que je démarre un projet, une fois que la base
+
+854
+00:46:09.226 --> 00:46:09.906
+est
+
+855
+00:46:11.106 --> 00:46:12.246
+mise au point, je lui donne
+
+856
+00:46:13.386 --> 00:46:16.606
+le premier document. Là, il crée toute la structure de documentation.
+
+857
+00:46:18.166 --> 00:46:22.086
+Ensuite, une fois que le projet prend un peu d'ampleur,
+
+858
+00:46:22.206 --> 00:46:22.346
+je
+
+859
+00:46:24.026 --> 00:46:24.886
+lui donne le deuxième,
+
+860
+00:46:25.966 --> 00:46:26.726
+l'optimisation,
+
+861
+00:46:27.726 --> 00:46:31.626
+où il va rechercher toutes les incohérences ou les petites erreurs qu'on puisse
+
+862
+00:46:32.386 --> 00:46:34.386
+glisser dans la documentation.
+
+863
+00:46:34.766 --> 00:46:38.426
+Ça parle de WordPress et tout. Ce n'est pas générique à n'importe quel projet.
+
+864
+00:46:38.436 --> 00:46:42.246
+Si, c'est générique. WordPress, il le prend en exemple, à mon avis.
+
+865
+00:46:42.886 --> 00:46:45.146
+Ou alors, je t'ai envoyé le mauvais. Attends, je vais vérifier.
+
+866
+00:46:46.066 --> 00:46:46.566
+Normalement, c'est
+
+867
+00:46:47.886 --> 00:46:48.156
+générique.
+
+868
+00:46:48.156 --> 00:46:52.046
+Parce qu'il met adaptation par type de projet WordPress, thème, application
+
+869
+00:46:52.106 --> 00:46:53.266
+web, API, backend.
+
+870
+00:46:54.266 --> 00:46:55.386
+Oui, ce sont des exemples.
+
+871
+00:47:00.926 --> 00:47:03.326
+Imaginons que tu fasses un citycom.
+
+872
+00:47:03.526 --> 00:47:05.386
+Tu as
+
+873
+00:47:07.186 --> 00:47:09.686
+commencé un peu le projet, tu as parlé avec lui, tu lui files ce truc, qu'est-ce
+
+874
+00:47:09.706 --> 00:47:11.826
+qu'il va faire concrètement à partir de ça
+
+875
+00:47:13.806 --> 00:47:16.926
+? Il va te créer une base qui est indiquée en haut, type
+
+876
+00:47:17.786 --> 00:47:21.326
+configuration, développement, déploiement, guide
+
+877
+00:47:22.206 --> 00:47:22.206
+?
+
+878
+00:47:22.246 --> 00:47:24.486
+En fonction des besoins, oui. Il va tout
+
+879
+00:47:25.486 --> 00:47:26.366
+créer, les guides,
+
+880
+00:47:27.626 --> 00:47:30.386
+si tu as une base de données, toute la structure de base de données.
+
+881
+00:47:32.526 --> 00:47:33.746
+Toute la structure en gros.
+
+882
+00:47:34.486 --> 00:47:34.846
+Ok.
+
+883
+00:47:37.166 --> 00:47:40.926
+Moi, ça me facilite la tâche quand j'ai besoin d'effectuer des modifs ou
+
+884
+00:47:40.946 --> 00:47:41.846
+de retrouver
+
+885
+00:47:43.126 --> 00:47:45.246
+certaines données comme Pierre en parlait tout à l'heure.
+
+886
+00:47:45.566 --> 00:47:49.426
+Après, peut-être que tu travailles différemment et que
+
+887
+00:47:49.566 --> 00:47:53.326
+tu n'en as pas l'utilité. Ça, ça vient
+
+888
+00:47:53.346 --> 00:47:53.626
+de
+
+889
+00:47:54.006 --> 00:48:00.926
+mon
+
+890
+00:48:00.936 --> 00:48:06.646
+apprentissage
+
+891
+00:48:06.686 --> 00:48:06.806
+de
+
+892
+00:48:07.726 --> 00:48:09.146
+codeur à l'école. On
+
+893
+00:48:11.406 --> 00:48:15.146
+a toujours appris à créer des documentations et je me suis basé
+
+894
+00:48:15.186 --> 00:48:16.046
+là-dessus pour mettre
+
+895
+00:48:18.026 --> 00:48:21.306
+ça à jour avec l'IA.
+
+896
+00:48:22.606 --> 00:48:22.826
+Maintenant,
+
+897
+00:48:24.766 --> 00:48:25.346
+tu ne codes plus
+
+898
+00:48:26.266 --> 00:48:26.686
+à la main.
+
+899
+00:48:27.806 --> 00:48:31.046
+En 10 minutes, tu as codé un truc qui te prenait 6 mois auparavant.
+
+900
+00:48:31.406 --> 00:48:35.366
+Et tu ne sais pas ce qu'il fait réellement.
+
+901
+00:48:36.166 --> 00:48:39.726
+Oui, il travaille pour toi, il te donne un résultat, mais tu ne sais pas
+
+902
+00:48:39.786 --> 00:48:42.166
+réellement ce qu'il a fait en arrière-plan.
+
+903
+00:48:44.026 --> 00:48:47.906
+Comme le disait Pierre, si trois mois plus tard, peu importe ce que tu as
+
+904
+00:48:47.946 --> 00:48:49.826
+mis en place, que ce soit un site web ou
+
+905
+00:48:51.106 --> 00:48:54.426
+un outil d'analyse de tes e-commerces, une application
+
+906
+00:48:55.698 --> 00:48:56.098
+Peu importe.
+
+907
+00:48:57.798 --> 00:49:01.218
+Si plusieurs mois plus tard, tu veux effectuer une
+
+908
+00:49:01.258 --> 00:49:05.218
+modification, si tu ne sais pas où aller précisément rechercher
+
+909
+00:49:05.518 --> 00:49:07.158
+l'information, ça devient compliqué.
+
+910
+00:49:08.938 --> 00:49:12.438
+Tu as un exemple d'un projet où tu lui as donné ça et qu'il t'a fait une structure
+
+911
+00:49:13.698 --> 00:49:13.698
+?
+
+912
+00:49:14.598 --> 00:49:15.617
+Par exemple, Pixelist.
+
+913
+00:49:16.158 --> 00:49:16.358
+Oui.
+
+914
+00:49:18.218 --> 00:49:19.878
+J'imagine que tu ne peux pas le partager.
+
+915
+00:49:19.918 --> 00:49:23.798
+Il n'y a pas un truc que tu pourrais partager où il t'a fait le travail de
+
+916
+00:49:24.018 --> 00:49:26.758
+l'architecture de dossiers et fichiers ?
+
+917
+00:49:26.978 --> 00:49:29.138
+Je vais regarder si j'ai encore des trucs.
+
+918
+00:49:30.218 --> 00:49:33.958
+Je suis curieux dans l'optique de voir
+
+919
+00:49:34.218 --> 00:49:38.028
+les meilleures structures, voir à quoi ça ressemble, pourquoi, comment,
+
+920
+00:49:38.898 --> 00:49:40.168
+ce qu'il y
+
+921
+00:49:41.098 --> 00:49:43.558
+aurait dans ces dossiers par rapport à tel type de projet.
+
+922
+00:49:43.678 --> 00:49:44.598
+Après, il faudra que je teste.
+
+923
+00:49:45.438 --> 00:49:49.198
+C'est pour ça que j'aimerais voir, mais j'ai peur que ça complexifie.
+
+924
+00:49:49.238 --> 00:49:53.218
+Ça dépend du projet. Sur des gros projets, ça
+
+925
+00:49:53.278 --> 00:49:55.978
+me paraît plutôt pertinent ton truc où il va vraiment
+
+926
+00:49:57.538 --> 00:50:01.118
+tout décomposer. Mais sur des projets plus simples, type
+
+927
+00:50:02.638 --> 00:50:04.198
+intégrer des produits
+
+928
+00:50:05.098 --> 00:50:08.198
+e-com, j'ai peur que ça complexifie un peu le truc, non
+
+929
+00:50:10.338 --> 00:50:14.278
+? Ou alors qu'est-ce qu'il crée comme dossier et
+
+930
+00:50:14.378 --> 00:50:16.178
+pourquoi ? Et quel fichier ?
+
+931
+00:50:17.218 --> 00:50:17.228
+Je
+
+932
+00:50:18.838 --> 00:50:22.008
+vois les exemples qu'il y a dans le fichier que tu as envoyé, mais je n'arrive pas
+
+933
+00:50:22.018 --> 00:50:25.978
+à comprendre un usage réel du
+
+934
+00:50:26.018 --> 00:50:26.278
+truc.
+
+935
+00:50:27.158 --> 00:50:28.838
+C'est quand tu veux créer une application, je pense.
+
+936
+00:50:29.118 --> 00:50:29.938
+Au niveau du truc,
+
+937
+00:50:31.438 --> 00:50:33.458
+tu as besoin d'un max de contrôle, de vérification.
+
+938
+00:50:33.878 --> 00:50:36.898
+Pour une application, ça m'a l'air carrément pertinent, surtout quand je vois les
+
+939
+00:50:36.918 --> 00:50:40.218
+dossiers, comment ils sont nommés, guide déploiement, développement, configuration.
+
+940
+00:50:41.198 --> 00:50:42.698
+Mais ça peut sûrement
+
+941
+00:50:42.878 --> 00:50:46.658
+s'adapter à d'autres types de
+
+942
+00:50:46.698 --> 00:50:47.758
+projets. Mais c'est
+
+943
+00:50:49.378 --> 00:50:50.398
+plutôt du gros projet.
+
+944
+00:50:52.958 --> 00:50:54.198
+Pour l'intégration produit,
+
+945
+00:50:55.138 --> 00:50:57.538
+ce qu'on a vu juste avant avec
+
+946
+00:50:57.938 --> 00:51:00.578
+Aymeric,
+
+947
+00:51:01.298 --> 00:51:03.098
+c'est parfait pour l'intégration produit.
+
+948
+00:51:04.598 --> 00:51:08.318
+Oui, mais ça se trouve, le rendu de ce qu'a envoyé
+
+949
+00:51:08.338 --> 00:51:10.698
+Mika, ça fait un truc du genre. C'est pour ça,
+
+950
+00:51:11.678 --> 00:51:12.998
+il faudrait s'il y a un exemple-
+
+951
+00:51:13.798 --> 00:51:14.978
+Globalement, oui, c'est beaucoup plus complet.
+
+952
+00:51:17.838 --> 00:51:21.598
+Après, je pense que c'est ce que j'ai montré moi, mais Mika, ça va bien
+
+953
+00:51:21.618 --> 00:51:23.558
+mieux. C'est comme ça que fonctionne l'IA.
+
+954
+00:51:24.458 --> 00:51:25.778
+C'est à partir de ces fichiers-là.
+
+955
+00:51:25.878 --> 00:51:29.158
+On est un petit peu au début de ce système agentique.
+
+956
+00:51:30.758 --> 00:51:34.438
+J'ai pas tout testé, mais si tu travailles avec OpenClou,
+
+957
+00:51:34.718 --> 00:51:37.578
+c'est le même principe. Tu ne sais pas vraiment ce qu'il y a derrière, mais quand
+
+958
+00:51:37.588 --> 00:51:41.498
+tu as un agent qui est créé, il a un fichier mémoire, un fichier agent qui
+
+959
+00:51:41.538 --> 00:51:43.638
+est un fichier avec des accès à différentes choses.
+
+960
+00:51:44.318 --> 00:51:47.738
+Mais aujourd'hui, ce n'est pas vraiment toi qui le crées, ça se fait tout seul sur
+
+961
+00:51:47.758 --> 00:51:50.317
+OpenClou. Ou peut-être que Mika va créer un peu dans le système.
+
+962
+00:51:50.358 --> 00:51:53.518
+Mais en gros, je pense qu'on est un peu au début. C'est comme ça que ça fonctionne.
+
+963
+00:51:53.858 --> 00:51:56.847
+Le fait de le comprendre, de l'utiliser un petit peu, plus ça va aller, plus ils
+
+964
+00:51:56.847 --> 00:51:59.918
+vont faciliter les choses et plus ça va être facile de le faire.
+
+965
+00:51:59.928 --> 00:51:59.928
+Au
+
+966
+00:52:01.398 --> 00:52:06.558
+final,
+
+967
+00:52:06.618 --> 00:52:08.758
+derrière, ce que tu ne verras pas forcément, c'est que tu as ces fichiers-là,
+
+968
+00:52:09.278 --> 00:52:10.678
+derrière les agents que tu auras.
+
+969
+00:52:11.758 --> 00:52:15.678
+Ce qu'ils ont fait avec OpenClou, au fur et à mesure, ça va être proposé par
+
+970
+00:52:15.758 --> 00:52:16.918
+tous les gros.
+
+971
+00:52:19.698 --> 00:52:23.478
+Comme tu as dit, c'est un bon exemple, OpenClou, voir comment il compose sa
+
+972
+00:52:23.538 --> 00:52:23.978
+structure.
+
+973
+00:52:24.838 --> 00:52:27.998
+D'ailleurs, Nanocorp, tu l'as utilisé ou pas, au final
+
+974
+00:52:29.318 --> 00:52:29.318
+?
+
+975
+00:52:29.398 --> 00:52:32.138
+Oui, vite fait.
+
+976
+00:52:32.718 --> 00:52:36.538
+Il t'a créé des fichiers ? Il t'a fait un truc ou pas ?
+
+977
+00:52:36.578 --> 00:52:38.108
+Ou il s'est juste basé sur ce que tu avais déjà ?
+
+978
+00:52:40.638 --> 00:52:43.218
+Quand tu t'inscris, il demande de mettre un prompt de départ.
+
+979
+00:52:43.238 --> 00:52:45.678
+Et si tu n'as pas d'idée, il
+
+980
+00:52:46.718 --> 00:52:47.378
+peut t'en proposer.
+
+981
+00:52:48.858 --> 00:52:49.858
+Je suis allé à côté, j'ai
+
+982
+00:52:50.678 --> 00:52:54.448
+développé cette idée avec Gemini et
+
+983
+00:52:54.448 --> 00:52:58.298
+Claude. J'ai eu cette idée, je l'ai lancée avec un prompt de départ, avec déjà
+
+984
+00:52:58.338 --> 00:52:59.278
+les propositions.
+
+985
+00:53:00.438 --> 00:53:04.398
+Ensuite, il a dit OK, il a travaillé un petit peu et il a créé une landing
+
+986
+00:53:04.418 --> 00:53:06.498
+page. Après, il a créé un fichier.
+
+987
+00:53:06.538 --> 00:53:09.478
+Il t'a créé tes dossiers et fichiers comme tu as maintenant.
+
+988
+00:53:09.538 --> 00:53:11.998
+Si tu veux, je peux te montrer aussi. C'est pareil, c'est un truc que j'ai fait.
+
+989
+00:53:12.058 --> 00:53:12.068
+Je
+
+990
+00:53:15.138 --> 00:53:17.558
+veux bien, pour voir aussi la structure qu'il a faite.
+
+991
+00:53:17.638 --> 00:53:18.078
+Je vois
+
+992
+00:53:20.618 --> 00:53:21.038
+que ça fait...
+
+993
+00:53:22.678 --> 00:53:23.378
+Si tu veux, je te montre.
+
+994
+00:53:23.858 --> 00:53:27.818
+Vu qu'il bosse un peu de manière autonome, comment il s'est structuré, c'est
+
+995
+00:53:27.858 --> 00:53:28.598
+intéressant de voir.
+
+996
+00:53:30.478 --> 00:53:33.648
+Pareil pour OpenClou, comme tu dis, ça serait intéressant.
+
+997
+00:53:33.648 --> 00:53:34.618
+Il faudrait que j'aille voir dans
+
+998
+00:53:35.778 --> 00:53:39.138
+l'explorer comment il avait fait la structure.
+
+999
+00:53:47.538 --> 00:53:49.578
+C'est payant, ce truc
+
+1000
+00:53:50.438 --> 00:53:50.438
+?
+
+1001
+00:53:52.218 --> 00:53:55.878
+J'ai lancé le truc, il y a 4, 5 jours, mais je ne suis pas retourné.
+
+1002
+00:53:58.018 --> 00:54:00.518
+C'est full sur un site ?
+
+1003
+00:54:03.138 --> 00:54:04.138
+Tu ne peux pas y accéder autrement
+
+1004
+00:54:05.538 --> 00:54:05.538
+?
+
+1005
+00:54:08.078 --> 00:54:11.198
+Franchement, j'ai vraiment passé deux heures dessus.
+
+1006
+00:54:11.238 --> 00:54:13.528
+Et après, pendant deux, trois jours, je suis allé voir le matin ce qu'il avait
+
+1007
+00:54:13.618 --> 00:54:15.158
+fait, mais je n'ai vraiment rien de plus spécial.
+
+1008
+00:54:16.178 --> 00:54:19.838
+Au début, tu le lances, tu lui donnes ton idée.
+
+1009
+00:54:20.558 --> 00:54:23.638
+Et après, il m'a créé des fichiers. Je te montrerai juste après.
+
+1010
+00:54:23.678 --> 00:54:27.378
+En gros, tu as un chat sur lequel tu
+
+1011
+00:54:27.438 --> 00:54:28.518
+peux discuter avec lui.
+
+1012
+00:54:29.958 --> 00:54:31.498
+Là, tu as les fichiers qu'il a créés.
+
+1013
+00:54:33.018 --> 00:54:34.558
+Là, il y a la landing page qu'il m'avait créée.
+
+1014
+00:54:35.758 --> 00:54:37.578
+Il crée des tâches qu'il doit faire.
+
+1015
+00:54:38.998 --> 00:54:41.538
+Ici, tu peux modifier. Tu peux cliquer, tu peux
+
+1016
+00:54:42.378 --> 00:54:43.118
+modifier la tâche,
+
+1017
+00:54:44.878 --> 00:54:48.678
+tu peux en ajouter. Au fur et à mesure, lui, il va accomplir les différentes tâches
+
+1018
+00:54:48.698 --> 00:54:51.178
+qu'il a à faire. Et après, ça fonctionne avec des crédits.
+
+1019
+00:54:51.358 --> 00:54:54.738
+Au début, tu as quelques crédits gratuits et après, tu peux payer pour en
+
+1020
+00:54:54.798 --> 00:54:58.742
+ajouterIl envoie des mails, il démarche.
+
+1021
+00:54:58.752 --> 00:54:58.752
+Ce
+
+1022
+00:54:59.822 --> 00:55:02.422
+ne sont que des trucs
+
+1023
+00:55:03.082 --> 00:55:06.632
+@nanocorp.app. Je pense que ce sont différents agents qui discutent entre eux.
+
+1024
+00:55:06.642 --> 00:55:06.702
+Tu
+
+1025
+00:55:07.742 --> 00:55:10.582
+reçois des mails de gens qui veulent faire des partenariats par rapport à ton idée,
+
+1026
+00:55:10.642 --> 00:55:11.662
+parce que ça colle avec leur idée.
+
+1027
+00:55:13.882 --> 00:55:17.682
+Je pense que si tu mets un peu des crédits et qu'il accomplit plus de
+
+1028
+00:55:17.702 --> 00:55:18.502
+tâches et qu'il en fait,
+
+1029
+00:55:19.642 --> 00:55:21.942
+à mon avis, au bout d'un moment, il se met à contacter d'autres gens.
+
+1030
+00:55:22.722 --> 00:55:24.202
+Comment tu l'as connu ce truc ?
+
+1031
+00:55:26.422 --> 00:55:28.342
+Comment je l'ai connu ? Je ne sais plus où j'en ai entendu parler.
+
+1032
+00:55:29.002 --> 00:55:30.942
+Moi, j'ai écouté un podcast ce matin qui parlait de ça.
+
+1033
+00:55:34.002 --> 00:55:34.782
+Oui. C'était quoi ?
+
+1034
+00:55:34.802 --> 00:55:36.822
+Le restaurant d'Houari Youssef. Je pense que c'était ça.
+
+1035
+00:55:37.042 --> 00:55:38.202
+Oui, c'était ça.
+
+1036
+00:55:38.402 --> 00:55:41.802
+C'est cette vidéo que tu as écoutée où le mec l'explique ?
+
+1037
+00:55:41.882 --> 00:55:42.182
+Oui.
+
+1038
+00:55:44.062 --> 00:55:46.502
+J'avais déjà entendu parler d'un autre, parce qu'il y a un autre truc, mais je n'ai
+
+1039
+00:55:46.562 --> 00:55:47.702
+pas essayé. Paul
+
+1040
+00:55:48.582 --> 00:55:49.621
+Liautey ou un truc comme ça.
+
+1041
+00:55:50.502 --> 00:55:51.762
+J'en ai entendu parler il y a trois semaines, un mois.
+
+1042
+00:55:52.482 --> 00:55:54.222
+Je ne sais pas quand c'est mis en ligne, mais c'était un mec qui développait déjà
+
+1043
+00:55:54.262 --> 00:55:55.502
+cet IA. J'avais déjà entendu parler de ça.
+
+1044
+00:55:57.722 --> 00:55:58.522
+Il a créé
+
+1045
+00:55:59.562 --> 00:56:03.102
+un lien de paiement Stripe, il a tout créé, les offres.
+
+1046
+00:56:03.142 --> 00:56:05.282
+Tu lui as donné des accès ? J'imagine que oui.
+
+1047
+00:56:05.322 --> 00:56:08.102
+Non, je n'ai vraiment rien fait sur ce truc-là.
+
+1048
+00:56:08.142 --> 00:56:09.082
+Comment il a fait le Stripe
+
+1049
+00:56:10.062 --> 00:56:10.062
+?
+
+1050
+00:56:10.402 --> 00:56:10.942
+Il l'a fait.
+
+1051
+00:56:11.282 --> 00:56:14.502
+Ça tourne sur quelle IA ?
+
+1052
+00:56:14.752 --> 00:56:19.382
+Tu
+
+1053
+00:56:19.442 --> 00:56:20.232
+t'es connecté à Cloud ou pas ?
+
+1054
+00:56:20.562 --> 00:56:24.552
+Non, j'ai vraiment juste passé une soirée où j'ai rigolé, j'ai
+
+1055
+00:56:24.552 --> 00:56:27.292
+compris comment ça fonctionnait, mais je n'ai rien connecté, je n'ai rien mis, je
+
+1056
+00:56:27.302 --> 00:56:29.322
+n'ai rien fait. Mais je pense que tu peux lui connecter.
+
+1057
+00:56:29.782 --> 00:56:33.642
+Déjà, tout ce qu'il te propose comme tâche, tu peux les passer dans ton IA pour
+
+1058
+00:56:34.042 --> 00:56:37.832
+améliorer son truc. Et après, je pense que tu peux le connecter à l'IA que tu
+
+1059
+00:56:37.902 --> 00:56:38.082
+veux.
+
+1060
+00:56:39.502 --> 00:56:39.762
+OK.
+
+1061
+00:56:39.942 --> 00:56:41.182
+Je suppose que c'est possible.
+
+1062
+00:56:42.382 --> 00:56:43.002
+Il m'avait créé
+
+1063
+00:56:44.562 --> 00:56:48.102
+la page. C'est le fichier STL de la
+
+1064
+00:56:49.582 --> 00:56:49.922
+page.
+
+1065
+00:56:50.822 --> 00:56:51.882
+Après, il a créé toute l'offre,
+
+1066
+00:56:53.742 --> 00:56:55.942
+avec le scoring pour évaluer les
+
+1067
+00:56:57.702 --> 00:56:59.321
+fiches business.
+
+1068
+00:57:01.482 --> 00:57:05.392
+C'est lui qui l'a fait tout seul, je n'ai rien fait
+
+1069
+00:57:05.482 --> 00:57:05.762
+du tout.
+
+1070
+00:57:07.622 --> 00:57:08.262
+OK.
+
+1071
+00:57:08.582 --> 00:57:09.622
+C'est un peu comme ce que j'ai fait moi.
+
+1072
+00:57:10.082 --> 00:57:12.992
+Vu qu'il faisait ça tout seul, c'est de ça que je suis parti pour faire l'autre
+
+1073
+00:57:13.022 --> 00:57:14.682
+truc. J'ai vu que lui avait fait ça tout seul.
+
+1074
+00:57:16.222 --> 00:57:18.622
+Toi, tu t'es dit : « Je vais le faire à la main sur Cloud Code.
+
+1075
+00:57:18.892 --> 00:57:19.742
+» C'est le même système.
+
+1076
+00:57:19.962 --> 00:57:23.822
+En fait, pas à la main, mais je me suis dit : « Ici, il y a un agent avec lequel tu
+
+1077
+00:57:23.842 --> 00:57:27.742
+discutes, qui va créer des sous-agents pour faire les différentes tâches.
+
+1078
+00:57:27.772 --> 00:57:31.442
+» En voyant que ça, c'était possible, je suis parti dans Claude.
+
+1079
+00:57:31.522 --> 00:57:34.222
+Au début, c'était un peu pourri quand même ce qu'il faisait.
+
+1080
+00:57:34.782 --> 00:57:36.902
+Je n'avais pas vu tout ça, l'audit qu'il avait fait, par exemple.
+
+1081
+00:57:36.982 --> 00:57:37.262
+C'était il
+
+1082
+00:57:38.642 --> 00:57:39.682
+y a cinq jours que j'ai fait ça.
+
+1083
+00:57:41.462 --> 00:57:43.342
+Mais ça me paraissait un peu à
+
+1084
+00:57:44.982 --> 00:57:47.422
+l'arrache, ou dans le fichier, tu ne répondais pas spécialement bien.
+
+1085
+00:57:48.242 --> 00:57:50.402
+Mais je pense que tu as beaucoup de gens qui l'ont d'un coup utilisé.
+
+1086
+00:57:50.942 --> 00:57:53.522
+Il ne te répondait pas forcément.
+
+1087
+00:57:53.802 --> 00:57:56.922
+Je pense que beaucoup de gens l'ont utilisé.
+
+1088
+00:57:57.582 --> 00:57:59.822
+C'est là où je me suis dit : « J'ai décomposé le truc.
+
+1089
+00:57:59.942 --> 00:58:03.842
+OK, si lui, il a un agent qui fait ensuite ça, moi, je peux demander à Claude
+
+1090
+00:58:03.902 --> 00:58:06.642
+de me le faire. » Et c'est là où je lui ai fait créer le fichier agent, le fichier
+
+1091
+00:58:06.702 --> 00:58:10.662
+Claude et le fichier tâche. Et après, il a fait tout le reste un peu
+
+1092
+00:58:10.682 --> 00:58:11.862
+comme ça, tout seul.
+
+1093
+00:58:12.882 --> 00:58:14.442
+Le truc, c'est qu'on ne voit pas ce qu'il y a en backend.
+
+1094
+00:58:15.522 --> 00:58:17.722
+Parce que là, ce sont les fichiers qu'il te montre, qu'il a créés, mais on ne voit
+
+1095
+00:58:17.782 --> 00:58:21.402
+pas comment lui s'est structuré derrière. C'est dommage qu'on ne voit pas ça.
+
+1096
+00:58:22.422 --> 00:58:22.462
+Il
+
+1097
+00:58:23.362 --> 00:58:27.102
+faudrait que je check, mais tu es obligé de passer sur leur site pour lancer
+
+1098
+00:58:27.182 --> 00:58:28.462
+ton Nanocorp ?
+
+1099
+00:58:30.782 --> 00:58:32.462
+Oui, je pense.
+
+1100
+00:58:33.982 --> 00:58:37.162
+Je pense que lui, c'est un peu le même système.
+
+1101
+00:58:37.582 --> 00:58:39.582
+Je n'ai pas testé, mais je pense que c'est un peu le même système qu'OpenClou.
+
+1102
+00:58:39.602 --> 00:58:39.662
+Tu
+
+1103
+00:58:40.962 --> 00:58:44.742
+crées ton OpenClou et tu vas créer des agents qui vont aller faire des
+
+1104
+00:58:44.762 --> 00:58:45.462
+trucs tout seuls.
+
+1105
+00:58:46.062 --> 00:58:46.782
+Oui, mais OpenClou,
+
+1106
+00:58:47.882 --> 00:58:51.162
+il tourne sur ton PC, tu as accès à tout. Là, tu n'as accès à rien du tout.
+
+1107
+00:58:51.842 --> 00:58:53.942
+Tu as accès juste à ce qu'il te fait, pas à ce qui
+
+1108
+00:58:54.922 --> 00:58:55.442
+les compose.
+
+1109
+00:58:56.202 --> 00:58:58.942
+Parce que lui, je pense que son business model, c'est que déjà, tu vas payer des
+
+1110
+00:58:58.962 --> 00:59:01.102
+crédits, donc il faut que tu restes sur son interface.
+
+1111
+00:59:01.542 --> 00:59:03.962
+Et après, au départ, c'est qu'il prend 20 %.
+
+1112
+00:59:04.282 --> 00:59:07.902
+Si ça génère de l'argent, il prend 20 % de ce que ça génère.
+
+1113
+00:59:08.642 --> 00:59:10.902
+Donc si tu sors de son truc...
+
+1114
+00:59:14.362 --> 00:59:16.302
+Oui, donc c'est son Stripe, à mon avis.
+
+1115
+00:59:17.822 --> 00:59:21.182
+Tu as mis un truc pour qu'il te paye ou pas ?
+
+1116
+00:59:21.342 --> 00:59:24.482
+Je ne me souviens plus, franchement.
+
+1117
+00:59:24.522 --> 00:59:25.562
+Je ne crois pas que j'ai fait ça.
+
+1118
+00:59:26.362 --> 00:59:27.262
+Je ne sais plus où j'ai vu.
+
+1119
+00:59:27.382 --> 00:59:35.042
+En
+
+1120
+00:59:37.022 --> 00:59:40.082
+gros, si tu tapes « toi »-- Attends, si je me déconnecte.
+
+1121
+00:59:41.952 --> 00:59:43.722
+Parce que j'ai vu que, par exemple, ils n'ont pas encore...
+
+1122
+00:59:51.402 --> 00:59:51.982
+Non, je n'arrive pas.
+
+1123
+00:59:52.142 --> 00:59:55.922
+C'est parce que tu es sur le sous-domaine app.
+
+1124
+00:59:56.422 --> 00:59:57.361
+Si tu veux aller sur la home.
+
+1125
+01:00:04.582 --> 01:00:08.082
+Oui, tu vois, quand il te...
+
+1126
+01:00:09.442 --> 01:00:10.202
+Je ne sais plus où j'ai vu ça.
+
+1127
+01:00:11.082 --> 01:00:13.382
+En gros, par exemple, ici Google.
+
+1128
+01:00:15.042 --> 01:00:18.082
+Ils ne le font pas encore, mais ils peuvent gérer des campagnes Google Ads.
+
+1129
+01:00:18.982 --> 01:00:22.662
+Ça, j'avais regardé. C'est qu'ils te lancent une campagne pour toi,
+
+1130
+01:00:22.982 --> 01:00:26.462
+mais sur le Google Ads. C'est un Google Ads pour tout le monde, mais par contre, ta
+
+1131
+01:00:26.502 --> 01:00:27.862
+campagne ne va être que pour ta
+
+1132
+01:00:28.862 --> 01:00:29.442
+petite société.
+
+1133
+01:00:30.722 --> 01:00:31.862
+P****n, ça peut aller loin leur truc.
+
+1134
+01:00:33.162 --> 01:00:36.782
+Vu ce que j'ai entendu dans la vidéo, si en plus, ils peuvent Google Ads dessus
+
+1135
+01:00:36.882 --> 01:00:37.062
+pour
+
+1136
+01:00:38.422 --> 01:00:39.222
+trouver des clients,
+
+1137
+01:00:40.382 --> 01:00:41.262
+c'est incroyable.
+
+1138
+01:00:43.762 --> 01:00:46.322
+Il faut que je check un peu. Mais c'est dommage que ça soit fermé.
+
+1139
+01:00:46.482 --> 01:00:48.462
+Je comprends que le mec, il a envie de...
+
+1140
+01:00:49.942 --> 01:00:52.602
+C'est son app et il veut la vendre. Il prend 20 % sur
+
+1141
+01:00:53.602 --> 01:00:54.522
+ce qu'il rapporte aux gens.
+
+1142
+01:00:55.542 --> 01:00:58.842
+Ça passe bien par leur Stripe à eux.
+
+1143
+01:00:59.102 --> 01:00:59.862
+Je viens de regarder.
+
+1144
+01:01:00.302 --> 01:01:02.462
+Oui, ça doit être leur Stripe qui te refile les 80 %.
+
+1145
+01:01:03.002 --> 01:01:03.982
+Oui, c'est dans la même...
+
+1146
+01:01:06.652 --> 01:01:08.441
+C'est un peu le modèle Stripe. Ils
+
+1147
+01:01:09.452 --> 01:01:11.272
+reçoivent les paiements et ils redistribuent.
+
+1148
+01:01:11.352 --> 01:01:13.762
+Donc le jour où le canal d'acquisition ferme, tu perds
+
+1149
+01:01:13.762 --> 01:01:15.492
+tout.
+
+1150
+01:01:19.032 --> 01:01:21.252
+Une fois que tu commences avec leur modèle, tu es obligé d'y rester.
+
+1151
+01:01:25.372 --> 01:01:29.192
+Après, encore une fois, j'ai passé une soirée dessus. Je ne vais pas me disperser.
+
+1152
+01:01:29.912 --> 01:01:33.082
+Là, je l'ai laissé tourner, mais je me rends compte qu'il n'y a plus de crédit et
+
+1153
+01:01:33.152 --> 01:01:34.072
+qu'il n'avance plus.
+
+1154
+01:01:35.872 --> 01:01:37.922
+Tu avais payé ou c'était gratuit les premiers mois ?
+
+1155
+01:01:37.932 --> 01:01:41.492
+Non, je n'ai rien payé du tout. J'ai juste mis mon mail dedans.
+
+1156
+01:01:43.572 --> 01:01:46.772
+Tu ne vas pas lancer une grosse compagnie avec ça.
+
+1157
+01:01:48.092 --> 01:01:49.972
+C'est pour tester les idées peut-être.
+
+1158
+01:01:50.392 --> 01:01:54.242
+Oui, tu peux tester une idée. Comme là, cette idée est
+
+1159
+01:01:54.252 --> 01:01:55.552
+venue pour essayer ce truc-là.
+
+1160
+01:01:56.412 --> 01:01:59.772
+Tu te dis : « Ce n'est pas c*n ». Tu peux prendre les documents, tu y as accès, tu
+
+1161
+01:01:59.792 --> 01:02:03.242
+peux les copier. Si ça fonctionne, tu peux aller te lancer toi de ton côté et
+
+1162
+01:02:03.372 --> 01:02:04.352
+repartir un peu de zéro.
+
+1163
+01:02:06.052 --> 01:02:06.432
+Pas mal
+
+1164
+01:02:07.492 --> 01:02:08.002
+Nanocorp.
+
+1165
+01:02:09.212 --> 01:02:10.812
+Ça
+
+1166
+01:02:11.272 --> 01:02:14.952
+ne fait pas longtemps que ça a été lancé,
+
+1167
+01:02:15.832 --> 01:02:18.362
+mais je pense que dans le futur, c'est le genre de choses qui peuvent être amenées
+
+1168
+01:02:18.372 --> 01:02:21.792
+à être développées. Mais comme de ce que j'ai compris d'OpenClose, c'est un début
+
+1169
+01:02:21.872 --> 01:02:26.612
+d'outil
+
+1170
+01:02:27.072 --> 01:02:30.612
+qui peut être un peu dangereux. Il faut bien s'y connaître pour se lancer dedans,
+
+1171
+01:02:30.712 --> 01:02:33.292
+mais je pense que c'est ce que tout le monde utilisera dans quelques mois ou
+
+1172
+01:02:33.312 --> 01:02:37.252
+quelques années, avec plus de contrôle et plus de
+
+1173
+01:02:37.412 --> 01:02:37.892
+garde-fou.
+
+1174
+01:02:40.172 --> 01:02:43.962
+Ils utilisent a priori Claude et GPT en arrière-plan, mais ils ne
+
+1175
+01:02:43.992 --> 01:02:44.772
+communiquent pas dessus.
+
+1176
+01:02:46.832 --> 01:02:50.532
+En plus, c'est financé par Y Combinator, donc ça va certainement se
+
+1177
+01:02:50.572 --> 01:02:51.052
+développer.
+
+1178
+01:02:54.652 --> 01:02:54.932
+Oui.
+
+1179
+01:02:59.312 --> 01:03:01.112
+C'est français, mais basé aux États-Unis.
+
+1180
+01:03:06.112 --> 01:03:07.082
+Pas mal. Ce serait
+
+1181
+01:03:08.012 --> 01:03:09.292
+intéressant de voir comment ils
+
+1182
+01:03:11.232 --> 01:03:11.632
+font tourner
+
+1183
+01:03:13.712 --> 01:03:17.492
+les instructions. Comment ils font pour qu'à partir de l'idée,
+
+1184
+01:03:17.812 --> 01:03:18.482
+ça te compose tout.
+
+1185
+01:03:19.412 --> 01:03:23.332
+Après, c'est littéralement
+
+1186
+01:03:23.342 --> 01:03:26.132
+leur business. Mais pour que tu arrives à le refaire toi-même,
+
+1187
+01:03:27.052 --> 01:03:28.612
+que ce soit même direct sur un OpenClou,
+
+1188
+01:03:28.752 --> 01:03:32.512
+d'avoir ton Nanocorp
+
+1189
+01:03:33.412 --> 01:03:33.772
+fait main.
+
+1190
+01:03:36.432 --> 01:03:40.092
+Mais on ne saura jamais parce que ce sera forcément des trucs.
+
+1191
+01:03:40.392 --> 01:03:43.692
+Vu que c'est sur ça que se base leur business model, ça ne sera pas
+
+1192
+01:03:45.452 --> 01:03:49.272
+publié. Il faut essayer de décortiquer
+
+1193
+01:03:49.312 --> 01:03:52.052
+toutes les étapes de ce qu'il fait, comment, pourquoi, et
+
+1194
+01:03:53.392 --> 01:03:57.302
+tout réexpliquer à OpenClou et qu'ils
+
+1195
+01:03:57.352 --> 01:03:58.012
+refassent la même.
+
+1196
+01:03:58.812 --> 01:04:00.511
+Il y a des GitHub, apparemment.
+
+1197
+01:04:02.052 --> 01:04:02.752
+C'est-à-dire
+
+1198
+01:04:04.072 --> 01:04:04.072
+?
+
+1199
+01:04:04.292 --> 01:04:06.732
+Le projet était partagé sur GitHub au début.
+
+1200
+01:04:07.392 --> 01:04:08.152
+Ah oui ?
+
+1201
+01:04:08.172 --> 01:04:08.432
+Oui.
+
+1202
+01:04:09.852 --> 01:04:09.972
+Ok.
+
+1203
+01:04:11.242 --> 01:04:14.572
+Il y a peut-être les sources et les étapes.
+
+1204
+01:04:15.272 --> 01:04:17.072
+Il y a peut-être les bases, effectivement.
+
+1205
+01:04:18.712 --> 01:04:19.032
+Ok.
+
+1206
+01:04:21.132 --> 01:04:24.772
+Parce que ce qu'ils expliquaient dans la vidéo, ça a l'air incroyable ce truc.
+
+1207
+01:04:25.872 --> 01:04:27.432
+Ça contacte les gens en auto,
+
+1208
+01:04:28.272 --> 01:04:30.252
+ça peut trouver des clients. Il y a moyen de faire un truc.
+
+1209
+01:04:30.932 --> 01:04:33.452
+Oui, vu qu'ils se rémunèrent sur ce que tu gagnes.
+
+1210
+01:04:33.552 --> 01:04:33.792
+Donc
+
+1211
+01:04:34.652 --> 01:04:37.572
+forcément, plus ils vont pousser les ventes, plus ils vont gagner.
+
+1212
+01:04:38.052 --> 01:04:40.842
+Oui. Ça a l'air pas mal. Le
+
+1213
+01:04:41.312 --> 01:04:43.832
+problème, c'est qu'il y a tellement de trucs que tu te disperses.
+
+1214
+01:04:44.432 --> 01:04:44.552
+Mais
+
+1215
+01:04:45.812 --> 01:04:48.372
+l'IA, je ne sais pas vous les gars, mais moi, je sature un peu.
+
+1216
+01:04:49.832 --> 01:04:53.512
+Là, je suis parti trois jours en week-end avec mes
+
+1217
+01:04:53.572 --> 01:04:53.912
+enfants.
+
+1218
+01:04:54.972 --> 01:04:57.352
+Je n'ai pas touché mon téléphone, je n'ai pas touché le PC.
+
+1219
+01:04:59.292 --> 01:05:00.852
+Je n'en peux plus.
+
+1220
+01:05:02.672 --> 01:05:04.552
+Ça parle l'IA, mais tout le temps, partout.
+
+1221
+01:05:05.512 --> 01:05:08.772
+Il y a toujours des trucs qui sort. YouTube, c'est infernal.
+
+1222
+01:05:09.072 --> 01:05:10.682
+YouTube, je ne regarde plus que des
+
+1223
+01:05:11.912 --> 01:05:12.752
+trucs de sport.
+
+1224
+01:05:13.172 --> 01:05:15.172
+P****n. C'est bien.
+
+1225
+01:05:17.292 --> 01:05:19.572
+C'est pareil. J'ai entendu parler de ce truc-là.
+
+1226
+01:05:19.592 --> 01:05:21.472
+J'ai passé une soirée sur Nanocorp, ça m'amusait.
+
+1227
+01:05:22.272 --> 01:05:23.912
+Le lendemain, j'ai regardé, il n'est pas beaucoup avancé.
+
+1228
+01:05:23.932 --> 01:05:27.631
+Je me dis : « P****n, c'est c*n ». J'ai passé ma soirée à faire les fichiers que je
+
+1229
+01:05:27.652 --> 01:05:29.212
+montrais au début, avec Claude.
+
+1230
+01:05:30.692 --> 01:05:32.612
+Et là, j'ai arrêté parce qu'il faut que je lance mon site.
+
+1231
+01:05:32.652 --> 01:05:36.612
+Après, ça m'a permis
+
+1232
+01:05:36.652 --> 01:05:38.172
+de comprendre aussi comment Claude fonctionnait.
+
+1233
+01:05:38.232 --> 01:05:41.672
+Les skills que j'avais développés pour intégrer mes produits,
+
+1234
+01:05:42.272 --> 01:05:44.752
+je vais aussi les améliorer. Quelque part, ce n'est pas non plus du temps de perdu,
+
+1235
+01:05:44.832 --> 01:05:44.912
+mais
+
+1236
+01:05:46.672 --> 01:05:47.992
+il ne faut pas se disperser.
+
+1237
+01:05:49.192 --> 01:05:49.632
+Tout à l'heure,
+
+1238
+01:05:50.832 --> 01:05:52.992
+j'avais commencé à te l'écrire, puis je l'ai effacé.
+
+1239
+01:05:53.032 --> 01:05:54.342
+Je ne sais plus pourquoi, mais
+
+1240
+01:05:55.392 --> 01:05:56.622
+il n'y a pas pire que l'IA pour
+
+1241
+01:05:58.172 --> 01:05:59.412
+t'aider à te faire perdre du temps.
+
+1242
+01:06:01.112 --> 01:06:02.352
+Vraiment, si tu ne restes pas focus,
+
+1243
+01:06:03.572 --> 01:06:04.042
+même Claude,
+
+1244
+01:06:05.652 --> 01:06:09.492
+c'est très facile pour qu'il te pousse à partir dans tous les
+
+1245
+01:06:09.532 --> 01:06:09.792
+sens.
+
+1246
+01:06:11.912 --> 01:06:15.212
+C'est tellement facile que tu as envie de faire plein de choses et au final, au
+
+1247
+01:06:15.252 --> 01:06:16.772
+lieu de gagner du temps, tu en perds.
+
+1248
+01:06:19.152 --> 01:06:20.352
+Il faut se recentrer un peu.
+
+1249
+01:06:21.152 --> 01:06:21.732
+Ce n'est pas facile.
+
+1250
+01:06:22.672 --> 01:06:23.812
+Après, moi, c'est mon premier site.
+
+1251
+01:06:24.132 --> 01:06:27.632
+J'entendais Pierre, puis Enzo, souvent, c'est ce qu'ils disent, c'est qu'il
+
+1252
+01:06:27.672 --> 01:06:31.452
+faut aller à l'essentiel et lancer ton site et tu verras.
+
+1253
+01:06:31.922 --> 01:06:34.592
+Si tu t'attaches trop à chaque petit détail, que tu as envie de bien faire, tu peux
+
+1254
+01:06:34.632 --> 01:06:34.892
+mettre
+
+1255
+01:06:36.332 --> 01:06:39.232
+beaucoup trop de temps à le faire. Et là, l'IA, c'est un peu ça.
+
+1256
+01:06:39.412 --> 01:06:39.532
+Se
+
+1257
+01:06:40.352 --> 01:06:43.892
+créer un super workflow N8N ou un super truc pour intégrer des produits.
+
+1258
+01:06:44.722 --> 01:06:47.532
+Il faut trouver le juste milieu. Tu ne peux pas non plus tout lui faire faire,
+
+1259
+01:06:48.192 --> 01:06:51.212
+parce qu'au final, si tu n'as pas la main sur chaque petite chose, tu vas
+
+1260
+01:06:54.052 --> 01:06:56.432
+perdre en qualité sur les images, sur les descriptions, sur tout ça.
+
+1261
+01:06:57.752 --> 01:06:59.372
+Il faut trouver le juste milieu entre les deux.
+
+1262
+01:07:00.352 --> 01:07:01.792
+Et à un moment, il faut que ça avance.
+
+1263
+01:07:01.852 --> 01:07:05.772
+N8N, c'est un peu ça, c'est que tu as vite fait de passer parfois cinq
+
+1264
+01:07:05.812 --> 01:07:06.992
+heures juste pour régler des trucs
+
+1265
+01:07:08.300 --> 01:07:10.960
+En fait, en cinq heures, tu aurais pu intégrer cinq, six produits.
+
+1266
+01:07:11.840 --> 01:07:14.860
+Ah grave. Tu te souviens, il n'y a pas longtemps,
+
+1267
+01:07:15.380 --> 01:07:16.560
+j'avais partagé une
+
+1268
+01:07:18.760 --> 01:07:20.340
+vidéo de Benjamin Code
+
+1269
+01:07:21.800 --> 01:07:23.260
+sur la dépression
+
+1270
+01:07:24.940 --> 01:07:25.700
+à cause de l'IA.
+
+1271
+01:07:26.520 --> 01:07:30.400
+Il a fait une vidéo il y a quelques jours sur comment il a ruiné son
+
+1272
+01:07:31.700 --> 01:07:32.040
+SAS.
+
+1273
+01:07:32.980 --> 01:07:36.780
+Il a mis en place un SAS Meet Sponsor, dont il
+
+1274
+01:07:36.820 --> 01:07:37.340
+parle dans la
+
+1275
+01:07:38.360 --> 01:07:38.640
+vidéo.
+
+1276
+01:07:39.500 --> 01:07:42.420
+Il explique qu'il a tellement travaillé dessus et aujourd'hui, c'est tellement
+
+1277
+01:07:42.480 --> 01:07:46.190
+facile d'implémenter des nouvelles fonctionnalités, qu'il a pris tous les
+
+1278
+01:07:46.220 --> 01:07:48.520
+feedbacks clients et il a tout implémenté.
+
+1279
+01:07:49.420 --> 01:07:50.420
+Aujourd'hui, il ne fait plus de vente.
+
+1280
+01:07:51.529 --> 01:07:51.940
+Son truc,
+
+1281
+01:07:55.260 --> 01:07:56.960
+c'est le néant.
+
+1282
+01:07:58.560 --> 01:08:01.980
+C'est la boucle. Après, il se dit : « Attends, j'avais une app qui me rapportait 2
+
+1283
+01:08:02.000 --> 01:08:04.470
+000 balles par mois en récurrent. »
+
+1284
+01:08:05.940 --> 01:08:06.700
+Il a tellement voulu
+
+1285
+01:08:07.500 --> 01:08:11.460
+pousser l'amélioration et implémenter toutes les nouvelles fonctionnalités
+
+1286
+01:08:11.500 --> 01:08:14.520
+qu'aujourd'hui, le truc ne plaît plus.
+
+1287
+01:08:16.120 --> 01:08:17.181
+Je ne
+
+1288
+01:08:19.101 --> 01:08:19.521
+sais pas
+
+1289
+01:08:20.340 --> 01:08:21.500
+vers quoi mène tout ça.
+
+1290
+01:08:23.760 --> 01:08:25.601
+Oui, il faut focus.
+
+1291
+01:08:26.721 --> 01:08:26.940
+Oui.
+
+1292
+01:08:27.840 --> 01:08:29.190
+Tu arrives à focus, Théo ?
+
+1293
+01:08:30.870 --> 01:08:31.880
+Pas tant que ça, à mon avis.
+
+1294
+01:08:35.160 --> 01:08:37.340
+Moi, c'est un autre problème que j'ai, c'est que
+
+1295
+01:08:38.940 --> 01:08:42.360
+l'IA peut tellement faire les choses plus vite
+
+1296
+01:08:44.221 --> 01:08:47.460
+sur les projets,
+
+1297
+01:08:48.721 --> 01:08:52.260
+que ça amène à plus de temps et donc plus de
+
+1298
+01:08:52.380 --> 01:08:53.400
+projets. Tu vois ce que je veux dire
+
+1299
+01:08:54.480 --> 01:08:58.260
+? Vu que j'arrive à automatiser une énorme partie d'un truc,
+
+1300
+01:08:58.601 --> 01:09:00.240
+de beaucoup de choses qui étaient chiantes avant,
+
+1301
+01:09:01.360 --> 01:09:02.820
+ça me fait gagner beaucoup de temps.
+
+1302
+01:09:05.480 --> 01:09:06.280
+Qu'est-ce que je fais de ce temps
+
+1303
+01:09:07.740 --> 01:09:11.660
+? En général, vu que je paye un abonnement, j'ai envie
+
+1304
+01:09:11.721 --> 01:09:12.880
+de aussi le rentabiliser.
+
+1305
+01:09:13.960 --> 01:09:14.460
+J'aime bien
+
+1306
+01:09:15.780 --> 01:09:19.480
+faire des tests, donc forcément, ça me fait faire plein d'autres tests.
+
+1307
+01:09:20.780 --> 01:09:22.940
+C'est boule de neige, je ne fais que ça.
+
+1308
+01:09:23.580 --> 01:09:26.129
+Alors que l'objectif premier, ça aurait été
+
+1309
+01:09:28.039 --> 01:09:31.800
+: il y a eu un des points qui est bien fait et qui est à peu près automatisé sur un
+
+1310
+01:09:31.820 --> 01:09:32.260
+business,
+
+1311
+01:09:33.940 --> 01:09:37.660
+comment je développe plus au lieu de potentiellement soit faire plein de
+
+1312
+01:09:37.700 --> 01:09:40.400
+recherches, soit faire des tests, soit essayer d'autres projets.
+
+1313
+01:09:40.620 --> 01:09:42.659
+C'est pour ça, focus. Le meilleur mot, c'est ça.
+
+1314
+01:09:44.221 --> 01:09:46.480
+Oui, on est dans le même bateau.
+
+1315
+01:09:46.601 --> 01:09:46.800
+Oui,
+
+1316
+01:09:48.580 --> 01:09:49.000
+clairement.
+
+1317
+01:09:50.660 --> 01:09:52.920
+Focus. C'est vraiment le mot.
+
+1318
+01:09:53.320 --> 01:09:57.380
+Si
+
+1319
+01:09:57.440 --> 01:09:59.560
+vous êtes en train de faire un site, faites votre site.
+
+1320
+01:10:00.900 --> 01:10:03.170
+Il y a plein de trucs qui sortent, il y a plein de trucs à tester, mais
+
+1321
+01:10:05.020 --> 01:10:07.280
+faites déjà votre site, développez-le.
+
+1322
+01:10:07.520 --> 01:10:11.490
+Pour le coup, par contre, l'IA va vous aider à bien le développer, parce que là, il
+
+1323
+01:10:11.490 --> 01:10:13.100
+y a vraiment moyen de faire beaucoup de choses.
+
+1324
+01:10:14.640 --> 01:10:14.960
+Mais
+
+1325
+01:10:16.540 --> 01:10:18.080
+si ça ne tourne pas ultra bien,
+
+1326
+01:10:19.260 --> 01:10:22.360
+focus sur le shop ou sur les shops.
+
+1327
+01:10:24.500 --> 01:10:25.760
+Je pense que c'est le meilleur truc à dire.
+
+1328
+01:10:26.940 --> 01:10:28.320
+Ne testez pas tout comme moi,
+
+1329
+01:10:29.940 --> 01:10:30.600
+ça ne sert à rien.
+
+1330
+01:10:31.500 --> 01:10:35.320
+C'est un avantage, un inconvénient, c'est que ça m'a
+
+1331
+01:10:36.240 --> 01:10:39.840
+donné plus de temps. Je teste plein de trucs, mais ça ne sert à rien.
+
+1332
+01:10:41.180 --> 01:10:44.580
+Sauf à dire : « Ça, c'est pas mal. Ça pourrait faire ça comme business.
+
+1333
+01:10:44.890 --> 01:10:44.890
+»
+
+1334
+01:10:44.920 --> 01:10:45.200
+Oui, mais les
+
+1335
+01:10:46.000 --> 01:10:47.700
+80 %, tu t'en sers pas.
+
+1336
+01:10:49.480 --> 01:10:50.760
+Oui, même 90 %.
+
+1337
+01:10:52.860 --> 01:10:55.960
+Mais j'aime bien. En même temps, c'est un truc que j'aime bien faire dans la
+
+1338
+01:10:55.980 --> 01:10:58.020
+journée, c'est tester des trucs.
+
+1339
+01:10:58.060 --> 01:10:58.280
+Oui.
+
+1340
+01:10:58.720 --> 01:10:59.260
+J'ai plaisir.
+
+1341
+01:10:59.780 --> 01:11:00.500
+Je suis pareil.
+
+1342
+01:11:01.860 --> 01:11:05.800
+Mais il ne faut pas le tourner en idée parce que tu testes un
+
+1343
+01:11:05.860 --> 01:11:09.280
+truc et en business après. Sinon, tu perds clairement.
+
+1344
+01:11:12.820 --> 01:11:14.100
+C'est complètement ça.
+
+1345
+01:11:15.340 --> 01:11:18.140
+Ça fait au moins un an que je suis sur l'IA,
+
+1346
+01:11:18.740 --> 01:11:21.360
+huit mois à peu près.
+
+1347
+01:11:23.080 --> 01:11:27.030
+Je suis sorti la tête de l'eau avec 80 tens, c'est
+
+1348
+01:11:27.099 --> 01:11:31.020
+fini. Mais maintenant, il y a toute la partie IA, MCP et
+
+1349
+01:11:31.080 --> 01:11:32.380
+tout, je me suis dit : « Allez, c'est reparti.
+
+1350
+01:11:33.340 --> 01:11:36.960
+» Une couche en plus. Puis maintenant, Cloud Code, les skills et tout ça.
+
+1351
+01:11:37.340 --> 01:11:40.060
+Puis, tu as plein d'autres trucs aussi, des fonctionnalités de Cloud Code.
+
+1352
+01:11:40.660 --> 01:11:43.460
+Il y a toujours des trucs toutes les deux semaines, tu te dis : « À un moment,
+
+1353
+01:11:43.540 --> 01:11:45.580
+c'est bon. » Qu'est-ce qu'il faut retenir ?
+
+1354
+01:11:45.600 --> 01:11:49.040
+Pour moi, le seul truc maintenant où je m'y tiens, qui a vraiment une importance,
+
+1355
+01:11:49.700 --> 01:11:50.360
+c'est les
+
+1356
+01:11:51.420 --> 01:11:54.420
+cloud.md et les skills. C'est tout.
+
+1357
+01:11:54.620 --> 01:11:58.200
+Et ça, tu le fais qu'une fois et tu restes à la surface, la
+
+1358
+01:11:58.220 --> 01:12:00.080
+structure et tu avances.
+
+1359
+01:12:01.520 --> 01:12:03.080
+Les micro trucs, les machins.
+
+1360
+01:12:06.260 --> 01:12:08.179
+Je pense que la structure est ultra-importante.
+
+1361
+01:12:09.620 --> 01:12:12.900
+C'est dans tout. C'est factuel, il n'y a pas d'émotion là-dedans.
+
+1362
+01:12:12.940 --> 01:12:13.530
+C'est une structure, c'est du
+
+1363
+01:12:15.840 --> 01:12:16.040
+dev.
+
+1364
+01:12:16.060 --> 01:12:21.560
+Puis
+
+1365
+01:12:21.580 --> 01:12:24.400
+pour ce qu'on fait, ça va, c'est des structures simples, ce n'est pas non plus un
+
+1366
+01:12:24.420 --> 01:12:24.840
+SAS comme
+
+1367
+01:12:25.860 --> 01:12:27.920
+par exemple peut faire Mika, c'est autre chose.
+
+1368
+01:12:28.580 --> 01:12:29.700
+Il y a de quoi se tirer les cheveux.
+
+1369
+01:12:30.720 --> 01:12:31.580
+Les applications, ça,
+
+1370
+01:12:31.620 --> 01:12:35.680
+waouh
+
+1371
+01:12:37.440 --> 01:12:37.440
+!
+
+1372
+01:12:39.280 --> 01:12:43.140
+Surtout que le SAS, il n'y a que des Africains qui s'y inscrivent,
+
+1373
+01:12:43.260 --> 01:12:45.549
+ils pompent tous mes crédits gratos et ils refont des comptes
+
+1374
+01:12:46.820 --> 01:12:47.480
+toute la journée.
+
+1375
+01:12:48.280 --> 01:12:52.180
+Je te jure, j'ai dû bloquer des IP
+
+1376
+01:12:52.440 --> 01:12:54.350
+venant de certains pays. Je
+
+1377
+01:12:55.340 --> 01:12:59.300
+te jure, sur la journée, 80 comptes, ils pompent tous des
+
+1378
+01:12:59.320 --> 01:13:00.140
+crédits gratuits.
+
+1379
+01:13:02.040 --> 01:13:02.600
+Ah ouais ?
+
+1380
+01:13:03.000 --> 01:13:03.840
+Oui, affolant.
+
+1381
+01:13:05.000 --> 01:13:06.440
+Je ne sais pas ce qu'ils font avec, mais
+
+1382
+01:13:07.440 --> 01:13:07.680
+voilà.
+
+1383
+01:13:12.992 --> 01:13:14.072
+Bloque même le pays.
+
+1384
+01:13:14.872 --> 01:13:15.692
+Oui, c'est ce que j'ai fait.
+
+1385
+01:13:18.392 --> 01:13:19.452
+Tu as ban des pays.
+
+1386
+01:13:21.252 --> 01:13:24.872
+Je ne vois pas trop l'avantage. Autant ban le pays, mais
+
+1387
+01:13:24.912 --> 01:13:27.152
+tu zéro crédit sur tes pays.
+
+1388
+01:13:29.272 --> 01:13:32.211
+Non, j'ai bloqué directement. Ils ne peuvent plus s'inscrire.
+
+1389
+01:13:36.932 --> 01:13:40.072
+Avant de continuer un peu sur ça, est-ce que
+
+1390
+01:13:41.632 --> 01:13:42.512
+ceux qui sont connectés,
+
+1391
+01:13:43.612 --> 01:13:46.772
+je vois qu'il y en a qui ne sont pas là spécialement souvent, peut-être vous avez
+
+1392
+01:13:46.792 --> 01:13:48.252
+une question ou un truc à voir,
+
+1393
+01:13:49.092 --> 01:13:49.622
+n'hésitez pas
+
+1394
+01:13:50.652 --> 01:13:53.532
+avant qu'on continue à parler de Chine.
+
+1395
+01:13:55.052 --> 01:13:58.272
+Si vous avez un point à voir, que ce soit sur Wooshok ou même d'ailleurs dans l'IA,
+
+1396
+01:13:58.452 --> 01:14:00.072
+c'est pour vous, n'hésitez pas.
+
+1397
+01:14:01.232 --> 01:14:04.632
+C'est le but. Après, si vous êtes juste là pour écouter, pas de problème.
+
+1398
+01:14:09.252 --> 01:14:11.932
+Moi, pour l'instant, je n'ai pas de question.
+
+1399
+01:14:12.012 --> 01:14:13.492
+Là, vous m'avez tous perdue.
+
+1400
+01:14:14.312 --> 01:14:18.132
+C'est des Chinois, mais je me dis qu'un jour, je vais comprendre.
+
+1401
+01:14:18.872 --> 01:14:20.872
+Les termes, mon Dieu,
+
+1402
+01:14:22.272 --> 01:14:22.992
+vous me faites rire.
+
+1403
+01:14:24.772 --> 01:14:27.652
+J'ai déjà trouvé la niche et pour l'instant, je n'ai pas de question parce que je
+
+1404
+01:14:27.732 --> 01:14:30.772
+ne suis qu'au début, mais t'inquiète qu'après, je pense que
+
+1405
+01:14:31.872 --> 01:14:33.732
+tu en auras marre de moi.
+
+1406
+01:14:34.812 --> 01:14:37.012
+Non, mais j'aime bien les questions, donc n'hésite pas.
+
+1407
+01:14:37.132 --> 01:14:39.232
+Dès que tu en as plein, n'hésite pas.
+
+1408
+01:14:40.112 --> 01:14:43.712
+Ne t'inquiète pas, je pense que tu en auras plein parce que là, quand je vois tout
+
+1409
+01:14:43.752 --> 01:14:47.572
+ce que vous dites, mon Dieu, je me dis : « Mais quelle langue c'est
+
+1410
+01:14:47.672 --> 01:14:49.592
+ça ? C'est quoi ces trucs ? »
+
+1411
+01:14:49.652 --> 01:14:52.592
+Oui, ce n'est peut-être pas les trucs trop débutants pour l'instant.
+
+1412
+01:14:52.652 --> 01:14:53.592
+Non, mais par contre, j'aime bien,
+
+1413
+01:14:54.532 --> 01:14:57.012
+ça m'intéresse. Donc j'essaye, mais je ne comprends rien.
+
+1414
+01:14:57.312 --> 01:14:57.812
+C'est juste
+
+1415
+01:14:58.772 --> 01:15:02.392
+ça pour l'instant. Et je pense que même plus tard, j'ai
+
+1416
+01:15:03.232 --> 01:15:07.092
+l'impression que vous venez tous du même univers ou du codage ou
+
+1417
+01:15:07.172 --> 01:15:10.512
+du développement ou de tous ces trucs, donc forcément, vous, c'est votre passion.
+
+1418
+01:15:10.932 --> 01:15:13.692
+J'aimerais bien être passionnée, mais mon cerveau, pour l'instant, il ne suit pas.
+
+1419
+01:15:14.412 --> 01:15:18.312
+Mais t'inquiète, Théo, je pense qu'après, tu ne pourras plus me voir en photo,
+
+1420
+01:15:18.372 --> 01:15:20.271
+en peinture avec toutes les questions que j'aurai.
+
+1421
+01:15:21.612 --> 01:15:22.132
+Pas de problème.
+
+1422
+01:15:23.692 --> 01:15:26.692
+Après, moi, je vais intervenir. Je ne viens pas du tout de ce milieu-là.
+
+1423
+01:15:27.292 --> 01:15:31.272
+J'ai commencé à faire mon site en décembre et je pense que si tu
+
+1424
+01:15:31.352 --> 01:15:34.892
+suis la formation sur l'intégration produit, tu vas décomposer ce que tu dois
+
+1425
+01:15:34.932 --> 01:15:38.812
+faire. Et après, juste en discutant avec
+
+1426
+01:15:39.012 --> 01:15:42.332
+l'IA qui va t'expliquer comment faire pour automatiser un truc, si tu aimes ça,
+
+1427
+01:15:42.372 --> 01:15:43.592
+après, tu vas mettre un petit peu le nez dedans.
+
+1428
+01:15:44.312 --> 01:15:45.992
+Mais moi, je n'ai pas encore sorti mon premier site.
+
+1429
+01:15:46.032 --> 01:15:48.412
+Ça fait trois mois et demi que je suis là-dedans et je ne
+
+1430
+01:15:49.732 --> 01:15:51.932
+suis pas du tout ni développeur
+
+1431
+01:15:53.592 --> 01:15:54.392
+ni spécialiste.
+
+1432
+01:15:54.772 --> 01:15:58.752
+Tu me fais rêver alors, parce que franchement, rien que parler avec l'IA, lui
+
+1433
+01:15:58.792 --> 01:16:02.052
+et moi, on ne se comprend pas encore trop et je pense que je n'ai pas les bons
+
+1434
+01:16:02.132 --> 01:16:04.292
+termes. Quand je vois tous vos trucs,
+
+1435
+01:16:06.072 --> 01:16:08.732
+je n'arriverai même pas, je ne suis pas encore dedans, mais
+
+1436
+01:16:09.472 --> 01:16:12.531
+ça me rassure. Merci Aymeric.
+
+1437
+01:16:16.052 --> 01:16:17.572
+En tout cas, n'hésite pas à parler avec
+
+1438
+01:16:18.752 --> 01:16:19.352
+Claude, je dirais,
+
+1439
+01:16:20.612 --> 01:16:24.192
+pour n'importe quoi. Tu es sur un truc, tu te poses des questions,
+
+1440
+01:16:24.952 --> 01:16:28.352
+même pour le début de ton projet. « Je ne sais pas, j'hésite entre ça et ça.
+
+1441
+01:16:28.432 --> 01:16:30.172
+Je veux faire ça, je ne sais pas comment on fait.
+
+1442
+01:16:30.182 --> 01:16:33.132
+» Tout ce genre de trucs, n'hésite pas. C'est vraiment utile.
+
+1443
+01:16:33.432 --> 01:16:36.912
+Ça va vraiment te faire gagner du temps et surtout te faire comprendre des concepts
+
+1444
+01:16:36.972 --> 01:16:39.632
+qui pourraient être compliqués que lui peut simplifier.
+
+1445
+01:16:42.332 --> 01:16:46.252
+Il faut toujours le mettre en contexte comme avec Chat GPT, parce que
+
+1446
+01:16:46.412 --> 01:16:50.192
+Chat GPT, je lui disais juste : « Tu es un expert en tatati tatata.
+
+1447
+01:16:50.212 --> 01:16:50.212
+»
+
+1448
+01:16:53.152 --> 01:16:54.752
+Il n'y a même pas besoin de parler d'expert.
+
+1449
+01:16:55.672 --> 01:16:59.512
+Si je
+
+1450
+01:16:59.572 --> 01:17:01.341
+devais te donner un conseil, ça serait
+
+1451
+01:17:02.472 --> 01:17:03.332
+: utilise Claude.
+
+1452
+01:17:04.492 --> 01:17:08.392
+Tu peux utiliser l'app basique qui est sur téléphone ou sur PC ou
+
+1453
+01:17:08.472 --> 01:17:11.692
+Mac et tu crées des projets. Tu crées un projet,
+
+1454
+01:17:12.452 --> 01:17:15.912
+tu lui donnes un nom ou tu lui dis juste « Ecom » et tu lui expliques.
+
+1455
+01:17:16.252 --> 01:17:19.092
+Le premier truc que tu vas faire peut-être, c'est premier message ou d'ailleurs
+
+1456
+01:17:19.132 --> 01:17:21.312
+dans la description du projet, c'est de lui expliquer ce que tu fais.
+
+1457
+01:17:21.652 --> 01:17:24.552
+Tu as rejoint une formation qui fait du e-commerce, qui fait du dropshipping.
+
+1458
+01:17:24.572 --> 01:17:28.532
+Tu lui expliques un peu tout ce que toi, tu sais maintenant, ce que tu vas faire.
+
+1459
+01:17:28.552 --> 01:17:31.052
+Même si ce n'est pas complet, ce n'est pas grave, il a une base.
+
+1460
+01:17:31.112 --> 01:17:35.032
+Et comme ça, à chaque fois que tu veux reparler avec lui, tu as juste à aller soit
+
+1461
+01:17:35.072 --> 01:17:38.052
+dans la conversation que tu avais, soit dans le projet, parce qu'il y a quand même
+
+1462
+01:17:38.092 --> 01:17:41.772
+un système de mémoire. D'ailleurs, je crois qu'il faut l'activer sur Claude, il y
+
+1463
+01:17:41.792 --> 01:17:42.792
+aura quand même un système de mémoire.
+
+1464
+01:17:43.192 --> 01:17:47.152
+Ce qui fait qu'il aura la base, il sait déjà ce que tu fais après.
+
+1465
+01:17:47.912 --> 01:17:51.532
+Peu importe quand tu vas lui parler, peu importe de quoi tu vas lui parler, il sait
+
+1466
+01:17:51.612 --> 01:17:54.192
+que tu veux faire un site de dropshipping.
+
+1467
+01:17:54.202 --> 01:17:56.012
+D'accord.
+
+1468
+01:17:58.172 --> 01:18:01.912
+Cette petite base, tu peux même audio, tu en as pour
+
+1469
+01:18:02.132 --> 01:18:05.112
+deux minutes à lui expliquer rapidement le concept de ce que tu fais.
+
+1470
+01:18:05.432 --> 01:18:07.052
+Et comme ça, tout ce qui va suivre après,
+
+1471
+01:18:07.912 --> 01:18:11.702
+il va comprendre quand tu vas lui parler de produits, il
+
+1472
+01:18:11.772 --> 01:18:13.832
+sait que c'est parce que tu fais un site e-com.
+
+1473
+01:18:14.672 --> 01:18:14.772
+Ok.
+
+1474
+01:18:15.572 --> 01:18:16.891
+Et ça va t'aider à ça, je pense.
+
+1475
+01:18:17.072 --> 01:18:19.952
+Je ne suis même pas encore regardé à quoi ça ressemblait Claude.
+
+1476
+01:18:22.512 --> 01:18:23.672
+Tu parlais des chats,
+
+1477
+01:18:25.552 --> 01:18:25.932
+je ne sais pas.
+
+1478
+01:18:26.672 --> 01:18:29.312
+Non, mais il m'a sorti que des réponses
+
+1479
+01:18:30.172 --> 01:18:32.172
+Chat GPT débiles.
+
+1480
+01:18:33.612 --> 01:18:35.532
+C'est sûrement moi qui ne devais pas savoir lui parler.
+
+1481
+01:18:36.092 --> 01:18:39.032
+À chaque fois que je lui ai demandé pour les niches ou des idées,
+
+1482
+01:18:39.612 --> 01:18:42.912
+pas que des idées, mais les avantages, les
+
+1483
+01:18:42.972 --> 01:18:46.292
+inconvénients, tous ces trucs-là, à chaque fois, c'était n'importe quoi.
+
+1484
+01:18:46.352 --> 01:18:49.392
+Donc j'ai arrêté pour l'instant comme je débute.
+
+1485
+01:18:50.012 --> 01:18:52.812
+Mais Claude, tu conseilles de prendre un abonnement.
+
+1486
+01:18:53.152 --> 01:18:55.362
+Il faut quand même prendre un petit abonnement, j'imagine, parce qu'on est vite
+
+1487
+01:18:55.472 --> 01:18:55.892
+saturé.
+
+1488
+01:18:57.952 --> 01:19:01.692
+Pour l'instant, la version gratuite devrait suffire, je pense.
+
+1489
+01:19:01.892 --> 01:19:04.452
+Oui, juste pour lui raconter ma vie quand on devient membre.
+
+1490
+01:19:04.492 --> 01:19:07.252
+Tu racontes ta vie, tu lui poses tes questions quand tu t'en poses.
+
+1491
+01:19:07.992 --> 01:19:09.212
+Puis, si tu vois qu'à un moment,
+
+1492
+01:19:10.812 --> 01:19:13.672
+tu as vraiment besoin de lui poser beaucoup de questions parce que tu es dans un
+
+1493
+01:19:13.712 --> 01:19:17.622
+timing où tu en as besoin, tu prends le petit abonnement à 17
+
+1494
+01:19:17.652 --> 01:19:21.424
+euros, je crois. Au pire.Mais le gratuit devrait suffire au
+
+1495
+01:19:21.464 --> 01:19:21.724
+début.
+
+1496
+01:19:22.444 --> 01:19:25.124
+Juste une question, Stéphanie m'avait parlé
+
+1497
+01:19:25.184 --> 01:19:28.444
+de l'IA Botika,
+
+1498
+01:19:29.344 --> 01:19:29.544
+pour
+
+1499
+01:19:31.644 --> 01:19:32.164
+faire porter
+
+1500
+01:19:33.384 --> 01:19:35.524
+par exemple des vêtements à des mannequins.
+
+1501
+01:19:37.584 --> 01:19:41.354
+Je ne l'ai pas encore regardé, mais est-ce qu'il y a autre chose de plus simple ?
+
+1502
+01:19:41.384 --> 01:19:42.804
+Claude peut le faire ?
+
+1503
+01:19:43.124 --> 01:19:43.544
+Je dirais
+
+1504
+01:19:44.944 --> 01:19:45.844
+le tool de Mika
+
+1505
+01:19:46.844 --> 01:19:48.384
+pour faire porter des vêtements pour l'IA.
+
+1506
+01:19:49.044 --> 01:19:51.424
+Je ne connais pas Botika, je ne sais pas ce que c'est du tout. Je ne connais pas.
+
+1507
+01:19:51.884 --> 01:19:53.644
+Je suis passé dans les vêtements.
+
+1508
+01:19:54.084 --> 01:19:57.064
+D'accord, je n'ai pas encore assez avancé dans la formation.
+
+1509
+01:19:57.704 --> 01:20:01.064
+C'est ça ? Le tool est dans la formation, j'imagine
+
+1510
+01:20:01.724 --> 01:20:01.724
+?
+
+1511
+01:20:03.184 --> 01:20:07.144
+Non, je ne l'ai pas ajouté encore dans les modules, mais
+
+1512
+01:20:07.164 --> 01:20:08.664
+je te l'enverrai en MP si tu
+
+1513
+01:20:09.664 --> 01:20:10.524
+veux. Je te l'envoie tout de suite.
+
+1514
+01:20:11.264 --> 01:20:11.424
+Oui.
+
+1515
+01:20:11.504 --> 01:20:15.184
+Il y a quelques crédits gratuits, tu peux tester à ton aise
+
+1516
+01:20:15.384 --> 01:20:16.164
+et tu vois si
+
+1517
+01:20:16.964 --> 01:20:18.704
+le produit te plaît ou pas, tout simplement.
+
+1518
+01:20:18.964 --> 01:20:22.684
+Là, aujourd'hui, je dois créer le Shopify, donc j'ai de la marge.
+
+1519
+01:20:23.144 --> 01:20:24.064
+Tu peux prendre ton temps.
+
+1520
+01:20:24.584 --> 01:20:24.704
+Oui,
+
+1521
+01:20:25.564 --> 01:20:29.304
+toi aussi. Je t'envoie le lien et tu fais comme bon te semble par la
+
+1522
+01:20:29.364 --> 01:20:29.584
+suite.
+
+1523
+01:20:30.884 --> 01:20:33.884
+Il faut vraiment que je me bouge, mais j'essaie d'être sur tous les fronts.
+
+1524
+01:20:34.544 --> 01:20:38.444
+C'est pour ça, ça me rassure si Aymeric me dit que ça ne fait que
+
+1525
+01:20:38.484 --> 01:20:40.964
+depuis décembre. Moi, depuis début mars,
+
+1526
+01:20:42.364 --> 01:20:46.324
+je me dis que peut-être que dans un an, je parlerai comme vous, le même langage, je
+
+1527
+01:20:47.964 --> 01:20:48.624
+comprendrai mieux.
+
+1528
+01:20:49.324 --> 01:20:52.584
+Et c'est quoi Botika ? Comment tu l'écris ?
+
+1529
+01:20:52.684 --> 01:20:52.864
+Bo...
+
+1530
+01:20:53.944 --> 01:20:54.524
+Botika.
+
+1531
+01:20:54.644 --> 01:20:55.423
+Botika.
+
+1532
+01:20:56.584 --> 01:20:57.104
+Avec un K ?
+
+1533
+01:20:57.504 --> 01:20:58.364
+Oui.
+
+1534
+01:20:59.644 --> 01:20:59.844
+Ok.
+
+1535
+01:21:04.184 --> 01:21:04.724
+Je ne connais pas.
+
+1536
+01:21:06.164 --> 01:21:08.104
+J'imagine que Stéphanie a dû déjà l'utiliser.
+
+1537
+01:21:09.684 --> 01:21:12.404
+Je crois que c'est surtout une autre
+
+1538
+01:21:13.644 --> 01:21:17.144
+élève, entre guillemets, qui l'utilisait et elle me l'a conseillé
+
+1539
+01:21:17.224 --> 01:21:21.184
+parce qu'elle ne savait pas
+
+1540
+01:21:21.224 --> 01:21:23.364
+trop quoi me conseiller d'autre.
+
+1541
+01:21:26.064 --> 01:21:27.524
+Apparemment, c'est bien. L'élève avait l'air
+
+1542
+01:21:28.643 --> 01:21:29.744
+contente, donc je ne sais pas.
+
+1543
+01:21:30.064 --> 01:21:30.153
+Ok.
+
+1544
+01:21:30.684 --> 01:21:34.424
+Comme moi, tout est nouveau. J'en profite pour te demander.
+
+1545
+01:21:35.004 --> 01:21:35.884
+Je ne connais pas.
+
+1546
+01:21:36.694 --> 01:21:40.164
+Mais tu peux tester et tu peux tester celle de Mika.
+
+1547
+01:21:40.273 --> 01:21:43.864
+À mon avis, les deux sont très bien. Celle de Mika est très bien.
+
+1548
+01:21:43.924 --> 01:21:44.773
+Botika, je ne connais pas, mais
+
+1549
+01:21:45.664 --> 01:21:48.084
+ça a l'air d'être un peu costaud leur truc.
+
+1550
+01:21:48.114 --> 01:21:51.204
+Moi, le plus simple, autant te dire que ça sera le mieux.
+
+1551
+01:21:52.664 --> 01:21:55.644
+Oui, vu que je ne connais pas Botika, je ne pourrais pas dire quel est le plus
+
+1552
+01:21:55.684 --> 01:21:58.124
+simple. Mais l'avantage, encore une fois, c'est que tu peux tester.
+
+1553
+01:21:58.364 --> 01:22:01.164
+Tu testeras.
+
+1554
+01:22:01.744 --> 01:22:03.044
+D'accord. Ça marche.
+
+1555
+01:22:03.084 --> 01:22:04.924
+Ça s'écrit comment, Théo ? Je ne la trouve pas.
+
+1556
+01:22:05.904 --> 01:22:07.664
+B-O-T-I-K-A.
+
+1557
+01:22:07.814 --> 01:22:08.204
+B-O.
+
+1558
+01:22:11.844 --> 01:22:12.004
+Ok.
+
+1559
+01:22:13.424 --> 01:22:16.544
+Voilà. Et pour OpenClau,
+
+1560
+01:22:19.384 --> 01:22:20.244
+il y a la question
+
+1561
+01:22:21.504 --> 01:22:23.044
+: « Que penses-tu d'OpenClau ?
+
+1562
+01:22:26.384 --> 01:22:26.384
+»
+
+1563
+01:22:29.024 --> 01:22:29.404
+Rien.
+
+1564
+01:22:31.544 --> 01:22:32.184
+Pas trop.
+
+1565
+01:22:33.224 --> 01:22:36.124
+Pourquoi pas ? Ça dépend des projets, je pense.
+
+1566
+01:22:36.324 --> 01:22:37.304
+Ça dépend de ce que tu veux faire.
+
+1567
+01:22:38.344 --> 01:22:39.864
+Si c'est pour du com,
+
+1568
+01:22:43.124 --> 01:22:45.524
+pourquoi pas aussi. Ça dépend. Vraiment, ça dépend.
+
+1569
+01:22:46.944 --> 01:22:48.504
+Il y a des mini différences
+
+1570
+01:22:49.544 --> 01:22:52.664
+que je vois en tout cas, il y en a sûrement beaucoup plus que je ne vois pas, mais
+
+1571
+01:22:52.704 --> 01:22:56.254
+entre utiliser Claude Code et OpenClau, et ça dépend de tes
+
+1572
+01:22:56.324 --> 01:22:57.773
+tâches.
+
+1573
+01:23:01.984 --> 01:23:03.744
+Je pense qu'OpenClau a l'avantage d'avoir
+
+1574
+01:23:04.844 --> 01:23:07.964
+la facilité. J'imagine que ça peut se faire avec Claude Code, mais à mon avis,
+
+1575
+01:23:08.004 --> 01:23:11.104
+c'est une question de ce qu'on parlait en début de live avec Aymeric,
+
+1576
+01:23:12.264 --> 01:23:16.134
+d'être autonome. OpenClau est beaucoup plus autonome dans le
+
+1577
+01:23:16.134 --> 01:23:16.764
+sens où
+
+1578
+01:23:18.184 --> 01:23:21.804
+il compose lui-même justement sa structure et ses sous-agents pour
+
+1579
+01:23:22.624 --> 01:23:26.044
+composer ton projet. Là où Claude Code,
+
+1580
+01:23:28.044 --> 01:23:31.944
+ça doit sûrement se faire, mais j'avoue que c'est moins autonome de mon côté
+
+1581
+01:23:31.984 --> 01:23:34.584
+pour l'instant. Peut-être que c'est une question de structure, peut-être que c'est
+
+1582
+01:23:34.604 --> 01:23:37.204
+une question d'instruction, je ne sais pas.
+
+1583
+01:23:38.724 --> 01:23:40.384
+Je ne sais pas trop si ça répond à tes questions, mais
+
+1584
+01:23:41.884 --> 01:23:42.664
+ça dépend de ton projet.
+
+1585
+01:23:44.504 --> 01:23:45.544
+Mais c'est bien. Après,
+
+1586
+01:23:46.664 --> 01:23:48.094
+il y a des inconvénients au
+
+1587
+01:23:49.284 --> 01:23:52.064
+niveau sécurité, etc. Après, j'ai vu qu'Nvidia avait sorti
+
+1588
+01:23:52.904 --> 01:23:53.024
+un
+
+1589
+01:23:57.124 --> 01:24:00.664
+truc qui s'ajoute ou alors c'est une version plus sûre.
+
+1590
+01:24:01.804 --> 01:24:03.264
+Ça s'appelle Nemo Clau.
+
+1591
+01:24:04.364 --> 01:24:07.064
+C'est Nvidia qui le fait, donc Nvidia, c'est quand même costaud.
+
+1592
+01:24:08.164 --> 01:24:11.184
+C'est une version d'OpenClau plus sécurisée, apparemment.
+
+1593
+01:24:12.924 --> 01:24:16.444
+Check si jamais ça t'intéresse. Et oui, je l'ai déjà utilisé, mais
+
+1594
+01:24:18.284 --> 01:24:20.264
+Claude Code suffisait pour ce que j'avais à faire.
+
+1595
+01:24:21.584 --> 01:24:24.884
+Oui, pour moi aussi. Et j'ai vu une vidéo de
+
+1596
+01:24:25.164 --> 01:24:27.524
+Defunt. Je ne sais pas si tu vois qui c'est.
+
+1597
+01:24:28.504 --> 01:24:29.544
+Non.
+
+1598
+01:24:29.744 --> 01:24:33.564
+Defunt Intelligence, c'est un gars qui est ingénieur
+
+1599
+01:24:34.264 --> 01:24:34.404
+IA.
+
+1600
+01:24:36.164 --> 01:24:38.304
+Il a une chaîne YouTube où il parle que d'IA, forcément.
+
+1601
+01:24:40.104 --> 01:24:43.804
+Il en a fait une dernière où il expliquait qu'il a totalement
+
+1602
+01:24:44.164 --> 01:24:45.464
+arrêté d'utiliser OpenClau.
+
+1603
+01:24:48.184 --> 01:24:48.604
+Parce que
+
+1604
+01:24:50.064 --> 01:24:53.924
+Claude fait la majorité aujourd'hui et de manière
+
+1605
+01:24:53.964 --> 01:24:54.844
+beaucoup plus sécurisée.
+
+1606
+01:24:55.144 --> 01:24:58.994
+La dernière fois,
+
+1607
+01:24:59.044 --> 01:25:02.144
+tu parlais qu'ils avaient interdit sur OpenClau, Claude machin.
+
+1608
+01:25:03.004 --> 01:25:06.964
+Là, j'ai revu un truc, ils vont
+
+1609
+01:25:07.064 --> 01:25:08.244
+ban pour ça,
+
+1610
+01:25:10.244 --> 01:25:13.184
+si on utilise Claude Code sur OpenClau, de ce que j'ai lu.
+
+1611
+01:25:13.584 --> 01:25:13.704
+Oui.
+
+1612
+01:25:13.724 --> 01:25:17.684
+J'ai vu un truc assez récent, et il
+
+1613
+01:25:17.724 --> 01:25:19.284
+doit y avoir un truc officiel de
+
+1614
+01:25:20.304 --> 01:25:22.064
+Claude qui l'explique. Donc déjà, faites
+
+1615
+01:25:22.084 --> 01:25:26.124
+gaffe.Je
+
+1616
+01:25:26.144 --> 01:25:27.884
+crois que ça a été racheté par OpenAI,
+
+1617
+01:25:29.244 --> 01:25:29.824
+OpenCloud.
+
+1618
+01:25:30.264 --> 01:25:34.044
+C'est aussi pour ça que
+
+1619
+01:25:34.104 --> 01:25:34.924
+ban machin.
+
+1620
+01:25:36.504 --> 01:25:40.364
+Forcément, l'objectif de Claude, ça va être de
+
+1621
+01:25:41.104 --> 01:25:43.564
+faire pareil. Petit à petit,
+
+1622
+01:25:44.464 --> 01:25:45.844
+on va quasiment arriver au même truc.
+
+1623
+01:25:46.584 --> 01:25:47.844
+Là où j'ai un bon exemple, c'est
+
+1624
+01:25:48.804 --> 01:25:50.283
+ce qu'on a vu avant, Nanocorp.
+
+1625
+01:25:51.264 --> 01:25:54.724
+C'est plus compliqué d'avoir un truc qui fonctionne quasiment
+
+1626
+01:25:55.244 --> 01:25:57.784
+de manière autonome sur Claude Code, là où OpenCloud
+
+1627
+01:25:59.004 --> 01:26:02.914
+pouvait quasiment faire pareil. S'il a toutes les directives, et c'est pour ça que
+
+1628
+01:26:02.914 --> 01:26:05.584
+quand on parlait de Nanocorp tout à l'heure, je parlais d'OpenCloud, parce que pour
+
+1629
+01:26:05.624 --> 01:26:06.204
+moi, il est plus
+
+1630
+01:26:07.484 --> 01:26:10.124
+fait pour faire ça de manière autonome.
+
+1631
+01:26:10.184 --> 01:26:14.944
+Il
+
+1632
+01:26:14.964 --> 01:26:17.724
+faut que je checke s'il n'y a pas moyen de pousser les trucs pour que ce soit
+
+1633
+01:26:17.744 --> 01:26:21.124
+beaucoup plus autonome, mais pour moi, c'est un peu de l'instruction
+
+1634
+01:26:21.164 --> 01:26:25.064
+sur Claude Code où
+
+1635
+01:26:26.524 --> 01:26:27.724
+il va faire des tâches,
+
+1636
+01:26:29.524 --> 01:26:32.904
+il faut que je checke, mais pour moi, il ne va pas
+
+1637
+01:26:32.944 --> 01:26:34.484
+décider tout seul.
+
+1638
+01:26:36.124 --> 01:26:37.904
+Si je lui dis que je veux faire tel truc,
+
+1639
+01:26:38.804 --> 01:26:40.724
+par exemple, imaginons que je veux intégrer des produits.
+
+1640
+01:26:41.044 --> 01:26:43.944
+Je vais lui dire : « Intègre-moi ces produits », mais une fois qu'il a fini, il a
+
+1641
+01:26:43.964 --> 01:26:44.804
+fini. Je
+
+1642
+01:26:45.744 --> 01:26:49.724
+reprends l'exemple de Nanocorp,
+
+1643
+01:26:50.444 --> 01:26:53.984
+je vais lui dire de lancer un
+
+1644
+01:26:54.044 --> 01:26:57.384
+business, de contacter les personnes qui n'ont pas de site sur
+
+1645
+01:26:57.644 --> 01:27:01.424
+Internet, sur Google My Business.
+
+1646
+01:27:01.804 --> 01:27:05.474
+Il ne va pas aller
+
+1647
+01:27:05.624 --> 01:27:08.844
+checker tous les trucs qui n'ont pas de site pour leur envoyer un email.
+
+1648
+01:27:09.304 --> 01:27:12.544
+Une fois qu'ils ont répondu à l'email, répondre à l'email, créer un site
+
+1649
+01:27:13.324 --> 01:27:16.024
+dédié. Tout ça, je ne vois pas comment Claude Code, maintenant, il le fait.
+
+1650
+01:27:16.224 --> 01:27:20.144
+Peut-être que oui, mais en tout cas, c'est là où OpenCloud est plus autonome et
+
+1651
+01:27:20.164 --> 01:27:21.524
+peut faire ce genre de trucs comme Nanocorp.
+
+1652
+01:27:22.184 --> 01:27:25.484
+Voilà un peu les différences que je vois, mais je pense que petit à petit, on va
+
+1653
+01:27:25.504 --> 01:27:28.924
+arriver à un Claude Code qui fera quasiment voire pareil, voire
+
+1654
+01:27:28.964 --> 01:27:32.884
+mieux que OpenCloud. Encore une fois, ça
+
+1655
+01:27:32.924 --> 01:27:34.983
+dépend du projet. Je ne vois pas trop de
+
+1656
+01:27:37.784 --> 01:27:40.104
+projets simples où
+
+1657
+01:27:41.044 --> 01:27:42.004
+Claude Code ne fait pas le taf.
+
+1658
+01:27:45.004 --> 01:27:46.444
+C'est plus l'autonomie, je trouve.
+
+1659
+01:27:46.984 --> 01:27:50.814
+Il faut que je me note ça, de checker la question de
+
+1660
+01:27:50.864 --> 01:27:54.004
+l'autonomie sur Claude Code parce qu'il y a sûrement des moyens.
+
+1661
+01:27:57.104 --> 01:28:00.804
+Claude Code.
+
+1662
+01:28:02.944 --> 01:28:03.704
+Structure.
+
+1663
+01:28:05.884 --> 01:28:07.144
+Je t'avais parlé ce week-end,
+
+1664
+01:28:10.064 --> 01:28:11.364
+salut, de Stéphanie.
+
+1665
+01:28:13.824 --> 01:28:15.204
+Si Claude Code savait
+
+1666
+01:28:16.244 --> 01:28:19.704
+remplir un Google Sheet et aller rechercher, par exemple, sur
+
+1667
+01:28:20.144 --> 01:28:22.104
+AliExpress les tarifs, etc.
+
+1668
+01:28:23.604 --> 01:28:27.523
+Je me dis peut-être que OpenCloud saura le
+
+1669
+01:28:27.584 --> 01:28:27.804
+faire.
+
+1670
+01:28:28.444 --> 01:28:30.084
+Non, ça ne change rien dans le sens où
+
+1671
+01:28:31.084 --> 01:28:32.144
+les deux pourront le faire,
+
+1672
+01:28:33.224 --> 01:28:36.564
+mais ça ne change rien aussi dans le sens où,
+
+1673
+01:28:37.444 --> 01:28:39.624
+comment il va rechercher le produit pour trouver le prix ?
+
+1674
+01:28:40.024 --> 01:28:40.684
+À partir de quoi
+
+1675
+01:28:42.324 --> 01:28:42.324
+?
+
+1676
+01:28:44.084 --> 01:28:47.084
+Là, j'ai un exemple, je suis en train de faire ça, mais c'est parce que je suis
+
+1677
+01:28:47.144 --> 01:28:50.344
+dessus que ça me vient à l'idée et peut-être que je m'en servirai pour autre chose.
+
+1678
+01:28:50.374 --> 01:28:54.524
+Stéphanie
+
+1679
+01:28:54.644 --> 01:28:55.524
+m'a donné un
+
+1680
+01:28:57.104 --> 01:28:57.944
+tableau à remplir
+
+1681
+01:28:59.544 --> 01:29:02.104
+pour regarder les marges ROSBE.
+
+1682
+01:29:03.224 --> 01:29:07.144
+J'ai intégré tous mes noms de produits, toutes mes variations, tous mes prix
+
+1683
+01:29:07.204 --> 01:29:10.964
+de vente et je dois aller rechercher tous mes prix d'achat
+
+1684
+01:29:11.604 --> 01:29:15.284
+de toute ma boutique. Je me dis que si je
+
+1685
+01:29:15.864 --> 01:29:18.394
+délégrais, ça irait 100 fois plus vite que là,
+
+1686
+01:29:19.204 --> 01:29:21.004
+ça fait plusieurs jours que je suis là-dessus.
+
+1687
+01:29:22.204 --> 01:29:26.004
+Comment tu fais manuellement ?
+
+1688
+01:29:26.184 --> 01:29:30.004
+Ce que j'ai fait, c'est que pour mettre tous les noms et les
+
+1689
+01:29:30.044 --> 01:29:34.004
+variations, j'ai exporté mes produits en CSV, je
+
+1690
+01:29:34.104 --> 01:29:37.664
+les ai mis en colonnes, j'ai mis le nom à côté de la
+
+1691
+01:29:37.684 --> 01:29:40.024
+variation, j'ai tout copié, j'ai tout collé dans mon tableau.
+
+1692
+01:29:41.544 --> 01:29:42.963
+Idem pour les prix de vente.
+
+1693
+01:29:44.884 --> 01:29:48.504
+Là, je prends le nom de mon produit, je vais sur mon
+
+1694
+01:29:48.584 --> 01:29:49.384
+site, je
+
+1695
+01:29:50.844 --> 01:29:52.434
+prends
+
+1696
+01:29:52.434 --> 01:29:55.764
+l'image, je vais sur
+
+1697
+01:29:55.784 --> 01:29:56.444
+AliExpress
+
+1698
+01:29:57.424 --> 01:30:00.884
+en recherche d'image et je vais rechercher le produit qui
+
+1699
+01:30:00.924 --> 01:30:02.564
+correspond et je vais chercher le prix.
+
+1700
+01:30:03.224 --> 01:30:05.144
+Yes. Tu vois, tu as un peu la réponse.
+
+1701
+01:30:05.424 --> 01:30:09.084
+Pourquoi je t'ai demandé d'expliquer le process que tu fais ?
+
+1702
+01:30:09.104 --> 01:30:12.504
+Parce que ce process, c'est exactement ce que doit faire Claude Code ou OpenCloud.
+
+1703
+01:30:13.664 --> 01:30:15.754
+Comment tu as ajouté tes produits ?
+
+1704
+01:30:15.774 --> 01:30:19.684
+Tu n'as pas utilisé un truc pour les intégrer type Dysert ou autre ?
+
+1705
+01:30:22.464 --> 01:30:26.414
+J'avais inséré des produits par Dysert et j'avais inséré des produits hors
+
+1706
+01:30:26.444 --> 01:30:26.984
+Dysert.
+
+1707
+01:30:28.124 --> 01:30:30.344
+Il y en a beaucoup où il n'y a plus les liens.
+
+1708
+01:30:31.124 --> 01:30:32.824
+Comme ma boutique a plus de 2 ans,
+
+1709
+01:30:34.004 --> 01:30:35.824
+il y a plusieurs trucs où il n'y a plus les liens.
+
+1710
+01:30:36.744 --> 01:30:40.584
+Ça se fait avec les deux.
+
+1711
+01:30:41.084 --> 01:30:43.824
+Autant utiliser Claude Code, comme ça, niveau sécurité, ce sera plus simple.
+
+1712
+01:30:44.084 --> 01:30:47.504
+Tu disais que ce n'était pas possible qu'il aille rechercher sur AliExpress les
+
+1713
+01:30:47.544 --> 01:30:48.184
+produits.
+
+1714
+01:30:49.584 --> 01:30:50.524
+Je n'ai pas dit ça.
+
+1715
+01:30:51.404 --> 01:30:52.264
+J'ai cru lire ça.
+
+1716
+01:30:52.904 --> 01:30:56.204
+En gros, j'ai dit : « Comment il va rechercher les produits ?
+
+1717
+01:30:56.464 --> 01:30:57.464
+» Il lui faut
+
+1718
+01:30:59.364 --> 01:31:00.464
+un truc.
+
+1719
+01:31:01.624 --> 01:31:02.804
+Un ID, tu m'as parlé.
+
+1720
+01:31:02.884 --> 01:31:06.724
+Oui, j'ai parlé d'ID parce que dans l'idéal, ce serait le plus
+
+1721
+01:31:06.764 --> 01:31:06.964
+simple.
+
+1722
+01:31:07.824 --> 01:31:10.514
+C'est pour ça que je t'ai posé la question de comment tu as importé via Dysert.
+
+1723
+01:31:10.584 --> 01:31:13.764
+Tu m'as dit qu'il y en avait des déconnectés, donc tu n'auras pas l'ID AliExpress à
+
+1724
+01:31:13.784 --> 01:31:16.984
+chaque fois. Tu m'as expliqué que ce que tu faisais, c'était une recherche par
+
+1725
+01:31:17.044 --> 01:31:17.344
+image.
+
+1726
+01:31:18.364 --> 01:31:22.264
+Ça peut être un premier point pour l'automatiser, c'est-à-dire que
+
+1727
+01:31:22.304 --> 01:31:24.384
+tu peux donner un listing,
+
+1728
+01:31:25.204 --> 01:31:26.264
+ton CSV,
+
+1729
+01:31:27.244 --> 01:31:27.824
+en disant à
+
+1730
+01:31:27.844 --> 01:31:31.700
+ClaudeOn va
+
+1731
+01:31:31.760 --> 01:31:33.160
+prendre un produit, on va prendre une ligne.
+
+1732
+01:31:33.740 --> 01:31:36.260
+Ce produit-là, tu as le titre ou peut-être d'ailleurs,
+
+1733
+01:31:37.140 --> 01:31:40.200
+je n'ai pas envie de te mélanger, mais l'ID WordPress du produit ?
+
+1734
+01:31:40.420 --> 01:31:41.620
+Non, je suis sur Shopify.
+
+1735
+01:31:42.260 --> 01:31:43.520
+C'est encore plus simple.
+
+1736
+01:31:44.440 --> 01:31:46.280
+Sur Shopify, tu as un ID.
+
+1737
+01:31:47.540 --> 01:31:50.800
+Est-ce qu'il est dans ton CSV ou c'est juste ton titre
+
+1738
+01:31:51.860 --> 01:31:51.860
+?
+
+1739
+01:31:52.600 --> 01:31:53.580
+Je ne saurais pas te dire.
+
+1740
+01:31:54.300 --> 01:31:58.060
+Imaginons que le titre suffise, même si ça peut poser des problèmes, mais
+
+1741
+01:31:58.100 --> 01:31:59.540
+imaginons que ça suffise.
+
+1742
+01:31:59.570 --> 01:32:02.920
+Parce que le titre n'est pas pareil que celui d'AliExpress.
+
+1743
+01:32:03.420 --> 01:32:05.520
+J'ai renommé, j'ai rebaptisé.
+
+1744
+01:32:05.620 --> 01:32:08.340
+Oui, c'est sûr. C'est pour ça que c'est plus compliqué.
+
+1745
+01:32:08.900 --> 01:32:12.680
+C'est pour ça que je passe par l'image pour retrouver.
+
+1746
+01:32:13.240 --> 01:32:16.900
+Toi, quand tu fais une recherche par image, il va t'en proposer
+
+1747
+01:32:16.940 --> 01:32:18.680
+plein. C'est toi qui vas choisir manuellement.
+
+1748
+01:32:19.780 --> 01:32:22.000
+C'est là où il y aura peut-être des problèmes.
+
+1749
+01:32:22.040 --> 01:32:24.309
+Mais OpenCloud peut être plus intelligent et dire : «
+
+1750
+01:32:25.200 --> 01:32:27.800
+Si je lui demande le moins cher, il va rechercher le moins cher qui correspond.
+
+1751
+01:32:28.950 --> 01:32:28.950
+»
+
+1752
+01:32:28.980 --> 01:32:31.610
+Oui. CloudCode, pareil. Le
+
+1753
+01:32:33.960 --> 01:32:37.440
+process qu'il faudrait que tu donnes à CloudCode, c'est lui dire : « Voici mon
+
+1754
+01:32:37.520 --> 01:32:41.380
+CSV. Tu as accès à mon Shopify. » Tu as ma vidéo pour les faire
+
+1755
+01:32:41.400 --> 01:32:42.200
+lier.
+
+1756
+01:32:43.620 --> 01:32:47.250
+Pour commencer, je ne te conseille jamais de dire : « Fais-le d'un
+
+1757
+01:32:47.260 --> 01:32:50.410
+coup. » Tu prends un produit, tu lui dis de te retrouver ce produit sur
+
+1758
+01:32:50.440 --> 01:32:54.320
+Shopify. Il va te le retrouver, parce que normalement,
+
+1759
+01:32:54.340 --> 01:32:56.660
+avec le titre exact, il devrait le retrouver.
+
+1760
+01:32:56.740 --> 01:33:00.300
+Une fois qu'il a ce titre, il a accès à la fiche produit, il va
+
+1761
+01:33:00.340 --> 01:33:01.320
+récupérer l'image 1.
+
+1762
+01:33:03.440 --> 01:33:07.040
+Là, il faut utiliser une API externe type rapide API AliExpress.
+
+1763
+01:33:07.340 --> 01:33:10.100
+Tu mettras rapide API AliExpress sur Google.
+
+1764
+01:33:10.800 --> 01:33:12.940
+Ça te permet, par exemple, de faire une recherche par image.
+
+1765
+01:33:12.980 --> 01:33:16.240
+C'est ce que j'utilisais sur un tool que j'ai fait, qui n'existe plus, qui était en
+
+1766
+01:33:16.280 --> 01:33:19.080
+gros : tu mettais ton image et ça retrouvait les produits AliExpress.
+
+1767
+01:33:19.400 --> 01:33:21.120
+D'ailleurs, il y a plein d'extensions qui existent comme ça.
+
+1768
+01:33:21.940 --> 01:33:24.799
+Cherche « by image AliExpress », ce genre de truc.
+
+1769
+01:33:25.240 --> 01:33:28.550
+Mais là, tu pourrais dire avec CloudCode : « Une fois que tu as mon image,
+
+1770
+01:33:29.380 --> 01:33:29.480
+tu
+
+1771
+01:33:31.660 --> 01:33:35.340
+la donnes à l'API, qui elle, va te retourner plein de
+
+1772
+01:33:35.380 --> 01:33:37.760
+produits. » Ce sera des URL, juste produit.
+
+1773
+01:33:38.260 --> 01:33:42.200
+Et tu demandes par exemple à Cloud : « Vérifie les 3
+
+1774
+01:33:42.260 --> 01:33:43.000
+ou 5 premières.
+
+1775
+01:33:44.560 --> 01:33:47.800
+Il faut que ça soit la même que mon image, donc que ça soit le même produit.
+
+1776
+01:33:47.840 --> 01:33:51.260
+Et si possible dans les 5, si les 5 sont les bons
+
+1777
+01:33:51.300 --> 01:33:55.080
+produits, lequel est le plus intéressant par rapport à la note, par rapport
+
+1778
+01:33:55.120 --> 01:33:58.000
+au prix, par rapport aux variations, à la disponibilité ?
+
+1779
+01:33:58.010 --> 01:34:01.990
+» Après, à toi de voir. Il va te dire : « Ce produit, je
+
+1780
+01:34:02.000 --> 01:34:05.780
+l'ai retrouvé, c'est le numéro 3 qui était dans ma liste et il coûte tant.
+
+1781
+01:34:05.809 --> 01:34:08.440
+» Il te l'ajoute dans ton CSV, point, et il passe au prochain.
+
+1782
+01:34:08.480 --> 01:34:09.440
+Et ça, il peut te le faire en boucle.
+
+1783
+01:34:10.260 --> 01:34:12.480
+Oui, c'est le rapide API que je n'avais pas.
+
+1784
+01:34:12.490 --> 01:34:16.260
+Parce que j'ai essayé déjà de lui demander et en
+
+1785
+01:34:16.300 --> 01:34:19.500
+passant sur mon fichier, en disant : « Quand tu n'as pas de coup d'achat, parce que
+
+1786
+01:34:19.560 --> 01:34:20.600
+quand j'en ai déjà fait plusieurs,
+
+1787
+01:34:21.700 --> 01:34:23.760
+tu passes au suivant.
+
+1788
+01:34:24.960 --> 01:34:28.580
+» Et je dis à la fin : « Tu me mets l'URL à la fin du tableau, comme ça au moins,
+
+1789
+01:34:28.620 --> 01:34:29.380
+je peux aller vérifier.
+
+1790
+01:34:30.360 --> 01:34:31.900
+» Mais à chaque fois, il me marquait
+
+1791
+01:34:33.000 --> 01:34:33.660
+« non détecté ».
+
+1792
+01:34:35.120 --> 01:34:39.080
+Oui, rapide API Express, c'est une API pas officielle, mais qui
+
+1793
+01:34:39.180 --> 01:34:43.070
+permet par exemple de faire de la recherche par image et avoir des infos sur les
+
+1794
+01:34:43.120 --> 01:34:46.660
+produits. Effectivement, tu pourrais demander de t'ajouter le prix qu'il aura
+
+1795
+01:34:46.670 --> 01:34:50.580
+trouvé en analysant les images et de te mettre le lien AliExpress pour
+
+1796
+01:34:50.600 --> 01:34:53.160
+que toi, si jamais tu veux vérifier, après, tu puises.
+
+1797
+01:34:54.120 --> 01:34:55.060
+OK.
+
+1798
+01:34:55.100 --> 01:34:56.440
+Je te mets le lien si tu veux.
+
+1799
+01:34:57.280 --> 01:34:57.960
+Ou tu l'as ?
+
+1800
+01:34:58.580 --> 01:34:59.480
+Je vais regarder.
+
+1801
+01:35:01.560 --> 01:35:03.240
+Je vais regarder ton truc NVIDIA.
+
+1802
+01:35:05.200 --> 01:35:05.820
+Oui, après,
+
+1803
+01:35:07.000 --> 01:35:08.380
+pour ça, CloudCode suffira.
+
+1804
+01:35:09.260 --> 01:35:09.640
+Oui.
+
+1805
+01:35:11.660 --> 01:35:15.140
+Je me suis dit peut-être qu'il était plus intelligent,
+
+1806
+01:35:16.140 --> 01:35:16.680
+OpenCloud.
+
+1807
+01:35:16.760 --> 01:35:18.820
+Non, parce qu'en fait, la base sera Cloud.
+
+1808
+01:35:19.110 --> 01:35:21.600
+Tu ne peux pas mettre Cloud
+
+1809
+01:35:22.660 --> 01:35:23.720
+sur OpenCloud ?
+
+1810
+01:35:24.920 --> 01:35:25.560
+Si, tu peux.
+
+1811
+01:35:25.680 --> 01:35:26.100
+Tu ne peux plus.
+
+1812
+01:35:26.160 --> 01:35:28.800
+Oui. Tu ne peux plus. Après, tu peux par l'API.
+
+1813
+01:35:30.200 --> 01:35:31.900
+Si tu payes, ils s'en foutent.
+
+1814
+01:35:31.920 --> 01:35:33.279
+Oui, c'est ça.
+
+1815
+01:35:35.340 --> 01:35:38.600
+Mais du coup, il ne sera pas plus intelligent.
+
+1816
+01:35:39.280 --> 01:35:43.220
+Au contraire, parce qu'honnêtement, si tu ne mets pas Cloud sur OpenCloud, tu mets
+
+1817
+01:35:43.260 --> 01:35:43.400
+quoi
+
+1818
+01:35:44.480 --> 01:35:44.480
+?
+
+1819
+01:35:44.700 --> 01:35:48.680
+J'ai une API ChatGPT, mais je me suis dit que j'aurais préféré
+
+1820
+01:35:48.720 --> 01:35:52.160
+mettre Cloud. J'ai vu qu'on ne pouvait plus.
+
+1821
+01:35:52.680 --> 01:35:53.500
+J'étais un peu dég.
+
+1822
+01:35:53.820 --> 01:35:54.780
+M***e, ce n'est pas le bon lien.
+
+1823
+01:35:56.060 --> 01:35:59.820
+Non, mais j'ai trouvé un truc. rapideapi.com.
+
+1824
+01:36:01.160 --> 01:36:03.680
+Oui, c'est celui que je t'ai envoyé, celui que j'utilisais.
+
+1825
+01:36:04.920 --> 01:36:07.620
+Pour le coup, je l'ai utilisé, il fonctionne très bien.
+
+1826
+01:36:08.600 --> 01:36:12.440
+Et là, tu en fais 300 par jour à 8 euros par mois, donc en un mois, tu payes 8
+
+1827
+01:36:12.480 --> 01:36:13.280
+euros et il te fait le taf.
+
+1828
+01:36:14.840 --> 01:36:15.540
+Oui.
+
+1829
+01:36:15.590 --> 01:36:18.070
+Tu en fais 300 par jour, donc au pire, il te faut, je ne sais pas combien tu as de
+
+1830
+01:36:18.100 --> 01:36:21.460
+produits, mais il te faut une semaine et fin de l'histoire.
+
+1831
+01:36:22.600 --> 01:36:25.220
+C'est ça. Je me dis qu'il y a des tâches que tu peux automatiser.
+
+1832
+01:36:26.200 --> 01:36:28.380
+Au lieu que je passe une semaine dessus,
+
+1833
+01:36:30.060 --> 01:36:30.509
+ça peut être plus rapide.
+
+1834
+01:36:30.580 --> 01:36:33.300
+À partir du moment où c'est répétitif et c'est quasiment la même chose, ça peut
+
+1835
+01:36:33.320 --> 01:36:35.880
+s'automatiser. Là, clairement, ça s'automatise.
+
+1836
+01:36:37.580 --> 01:36:39.660
+Il n'y a vraiment pas de valeur ajoutée que tu le fasses à la main.
+
+1837
+01:36:39.700 --> 01:36:41.760
+Si, sur la sélection du bon produit.
+
+1838
+01:36:42.720 --> 01:36:45.220
+Et encore, parce que maintenant, je vais passer par
+
+1839
+01:36:46.220 --> 01:36:49.100
+un agent, donc c'est juste pour au moins trouver-
+
+1840
+01:36:49.260 --> 01:36:50.080
+Avoir une base de prix.
+
+1841
+01:36:50.360 --> 01:36:53.660
+Oui, une base de prix et ma marge pour vous calculer le
+
+1842
+01:36:54.900 --> 01:36:55.360
+ROSBU.
+
+1843
+01:36:57.280 --> 01:36:57.390
+Mais
+
+1844
+01:36:58.520 --> 01:37:00.920
+après, comme je vais passer par un agent, ce ne sera pas...
+
+1845
+01:37:03.320 --> 01:37:05.120
+Le problème, c'est qu'il faudra faire le taf avec l'agent.
+
+1846
+01:37:06.360 --> 01:37:06.780
+Oui.
+
+1847
+01:37:08.740 --> 01:37:10.190
+Tu ne peux pas passer direct par un agent ?
+
+1848
+01:37:11.880 --> 01:37:15.840
+Je suis en train de passer par un agent depuis un mois, un
+
+1849
+01:37:15.880 --> 01:37:16.980
+mois et une semaine.
+
+1850
+01:37:17.160 --> 01:37:17.199
+Tu
+
+1851
+01:37:18.020 --> 01:37:20.380
+ne peux pas tout lister les prix d'un coup comme ça ?
+
+1852
+01:37:20.400 --> 01:37:24.020
+Non. Et d'après Stéphanie, il
+
+1853
+01:37:24.040 --> 01:37:25.840
+ne fait pas payer le truc et
+
+1854
+01:37:28.840 --> 01:37:31.020
+tout n'est peut-être pas listage, je ne sais pas.
+
+1855
+01:37:31.828 --> 01:37:35.057
+Eux, ils font produit commandé. Dès que le produit est commandé, il
+
+1856
+01:37:35.608 --> 01:37:39.568
+source. Et moi, j'ai les tarifs. J'ai le tarif d'une
+
+1857
+01:37:39.628 --> 01:37:40.448
+paire de choses, mais
+
+1858
+01:37:41.288 --> 01:37:42.268
+c'est un quart.
+
+1859
+01:37:48.848 --> 01:37:51.798
+Rapide API, ça devrait
+
+1860
+01:37:52.748 --> 01:37:53.328
+bien t'aider.
+
+1861
+01:37:54.428 --> 01:37:56.728
+Je vais regarder ça. Je te remercie beaucoup.
+
+1862
+01:37:57.448 --> 01:37:58.068
+Avec plaisir.
+
+1863
+01:38:01.688 --> 01:38:05.088
+Alienter, je crois que ça me dit un truc.
+
+1864
+01:38:05.248 --> 01:38:06.728
+C'est l'extension Chrome, c'est ça ? Oui.
+
+1865
+01:38:09.448 --> 01:38:10.328
+Mais c'est manuel.
+
+1866
+01:38:17.068 --> 01:38:19.408
+Oui, c'est ça.
+
+1867
+01:38:21.768 --> 01:38:24.928
+Peut-être qu'ils ont une API, mais à mon avis, elle sera plus chère que Rapide API.
+
+1868
+01:38:26.428 --> 01:38:29.408
+Et à mon avis, si ça se trouve, ils utilisent Rapide API.
+
+1869
+01:38:30.248 --> 01:38:30.688
+Oui.
+
+1870
+01:38:31.388 --> 01:38:32.868
+Il y a de grandes chances, d'ailleurs.
+
+1871
+01:38:34.008 --> 01:38:35.468
+Combien ça coûte Alienter
+
+1872
+01:38:40.048 --> 01:38:42.798
+? Pricing. Il faut se
+
+1873
+01:38:42.798 --> 01:38:44.928
+connecter. Tant pis.
+
+1874
+01:38:47.508 --> 01:38:51.288
+Nemo Cloud
+
+1875
+01:38:51.448 --> 01:38:55.148
+pour Nvidia, qui a fait une version d'Open
+
+1876
+01:38:55.268 --> 01:38:56.268
+Cloud plus sécurisée,
+
+1877
+01:38:59.188 --> 01:39:00.028
+qui est gratuite.
+
+1878
+01:39:00.808 --> 01:39:02.108
+C'est gratuit ?
+
+1879
+01:39:02.148 --> 01:39:02.288
+Oui.
+
+1880
+01:39:04.568 --> 01:39:05.568
+C'est gratuit.
+
+1881
+01:39:06.528 --> 01:39:09.248
+C'est Nvidia, ce n'est pas
+
+1882
+01:39:10.808 --> 01:39:11.368
+Jean-Jacques.
+
+1883
+01:39:12.208 --> 01:39:14.448
+Oui, mais est-ce qu'on peut le
+
+1884
+01:39:16.128 --> 01:39:19.508
+mettre sur une machine locale ici
+
+1885
+01:39:21.008 --> 01:39:21.008
+?
+
+1886
+01:39:21.208 --> 01:39:21.588
+Oui.
+
+1887
+01:39:23.028 --> 01:39:26.428
+Tu peux le mettre VPS ou machine à toi, comme tu veux.
+
+1888
+01:39:27.428 --> 01:39:27.658
+Il n'y
+
+1889
+01:39:28.788 --> 01:39:30.368
+a pas de problème.
+
+1890
+01:39:34.148 --> 01:39:37.728
+Mais encore une fois, quel avantage à utiliser Open Cloud pour soi ?
+
+1891
+01:39:37.968 --> 01:39:41.577
+Je ne sais pas. Surtout que ça ne sera pas
+
+1892
+01:39:41.628 --> 01:39:45.548
+connecté à Cloud. Ce n'est pas
+
+1893
+01:39:45.588 --> 01:39:49.228
+forcément la même intelligence. Pour avoir testé Open Cloud et avoir testé un
+
+1894
+01:39:49.248 --> 01:39:49.988
+paquet de modèles,
+
+1895
+01:39:51.588 --> 01:39:53.428
+je n'ai pas trouvé des modèles qui arrivaient
+
+1896
+01:39:54.408 --> 01:39:55.288
+au niveau de Cloud.
+
+1897
+01:39:56.248 --> 01:39:57.668
+Tu n'as pas trouvé que
+
+1898
+01:39:58.568 --> 01:40:00.048
+Open Cloud faisait plus de choses ?
+
+1899
+01:40:01.008 --> 01:40:01.148
+Si.
+
+1900
+01:40:02.728 --> 01:40:06.448
+Comme je le disais tout à l'heure, il peut être beaucoup plus autonome, mais en
+
+1901
+01:40:06.488 --> 01:40:08.868
+niveau intelligence, il faut le connecter à une IA.
+
+1902
+01:40:09.468 --> 01:40:12.748
+Et pour avoir testé plein d'IA que j'ai connectées, le mieux, c'était Cloud.
+
+1903
+01:40:13.268 --> 01:40:13.468
+Oui.
+
+1904
+01:40:16.048 --> 01:40:17.748
+J'ai testé les gros trucs pourtant.
+
+1905
+01:40:19.388 --> 01:40:21.268
+Peut-être que je n'ai pas testé les bons.
+
+1906
+01:40:21.338 --> 01:40:21.338
+Au
+
+1907
+01:40:22.728 --> 01:40:26.568
+moment où je l'ai testé, il y a un mois,
+
+1908
+01:40:26.628 --> 01:40:28.488
+j'ai essayé de tester les plus
+
+1909
+01:40:29.828 --> 01:40:32.148
+rendues
+
+1910
+01:40:32.688 --> 01:40:35.988
+sur
+
+1911
+01:40:36.488 --> 01:40:37.128
+Open Router.
+
+1912
+01:40:38.288 --> 01:40:39.848
+Mais ça tournait mal.
+
+1913
+01:40:41.488 --> 01:40:45.228
+Le mieux, c'était Cloud, clairement, sur Open
+
+1914
+01:40:45.308 --> 01:40:45.528
+Cloud.
+
+1915
+01:40:47.608 --> 01:40:48.778
+Si on ne peut plus le connecter, ça veut dire que
+
+1916
+01:40:49.688 --> 01:40:50.828
+tu vas payer une blinde.
+
+1917
+01:40:52.008 --> 01:40:53.608
+Donc autant utiliser Cloud Code.
+
+1918
+01:40:57.628 --> 01:41:00.208
+J'ai testé les trucs chinois, je ne me rappelle plus les noms.
+
+1919
+01:41:00.248 --> 01:41:02.538
+Il y a XLN, il y avait
+
+1920
+01:41:04.428 --> 01:41:06.448
+le truc d'Alibaba, je ne me souviens plus le nom.
+
+1921
+01:41:07.888 --> 01:41:10.568
+J'ai testé vraiment plein des plus gros.
+
+1922
+01:41:10.628 --> 01:41:12.068
+Et peut-être qu'avec Nemo Cloud,
+
+1923
+01:41:13.008 --> 01:41:15.408
+on peut utiliser Cloud.
+
+1924
+01:41:17.828 --> 01:41:19.468
+Je ne sais pas. Bonne question.
+
+1925
+01:41:21.468 --> 01:41:22.188
+Je ne sais pas.
+
+1926
+01:41:23.888 --> 01:41:25.468
+Je ne crois pas parce que dans le
+
+1927
+01:41:27.048 --> 01:41:30.268
+papier qu'ils ont publié, Cloud explique que tout ce qui est externe,
+
+1928
+01:41:30.868 --> 01:41:33.168
+connecté, n'est pas dans leurs conditions.
+
+1929
+01:41:33.228 --> 01:41:33.918
+Logiquement,
+
+1930
+01:41:35.228 --> 01:41:35.237
+non.
+
+1931
+01:41:37.688 --> 01:41:39.088
+Oui, c'est vrai.
+
+1932
+01:41:39.368 --> 01:41:39.457
+Au
+
+1933
+01:41:40.608 --> 01:41:40.848
+pire,
+
+1934
+01:41:43.728 --> 01:41:44.808
+tu auras à créer un compte après.
+
+1935
+01:41:45.628 --> 01:41:49.428
+Je ne sais pas. Je ne préfère pas me mettre
+
+1936
+01:41:49.608 --> 01:41:50.087
+Cloud à dos.
+
+1937
+01:41:51.068 --> 01:41:51.967
+Oui, c'est ça.
+
+1938
+01:41:58.628 --> 01:42:02.288
+C'est Qwen que j'ai essayé. GLM, pas XLM.
+
+1939
+01:42:02.568 --> 01:42:05.288
+Qwen, j'ai testé. J'ai testé plein de leurs--
+
+1940
+01:42:06.228 --> 01:42:08.268
+parce qu'ils ont plusieurs modèles, pareil, j'en ai testé plein.
+
+1941
+01:42:09.008 --> 01:42:12.728
+XLM, j'en ai testé. J'ai essayé Grok, j'ai essayé
+
+1942
+01:42:12.768 --> 01:42:15.108
+DeepSeek. Franchement, j'en ai essayé plein,
+
+1943
+01:42:16.348 --> 01:42:17.048
+mais clairement,
+
+1944
+01:42:17.868 --> 01:42:18.128
+Cloud,
+
+1945
+01:42:19.188 --> 01:42:21.878
+c'est celui qui tournait le mieux. Qui tournait le mieux dans Open Cloud.
+
+1946
+01:42:21.908 --> 01:42:24.108
+C'est un peu particulier aussi. C'était un truc un peu
+
+1947
+01:42:25.508 --> 01:42:26.288
+argentique.
+
+1948
+01:42:26.328 --> 01:42:30.208
+Tu l'as testé comment
+
+1949
+01:42:30.288 --> 01:42:30.548
+Qwen
+
+1950
+01:42:31.528 --> 01:42:32.668
+? En IA classique
+
+1951
+01:42:33.948 --> 01:42:33.948
+?
+
+1952
+01:42:36.268 --> 01:42:36.448
+Yes.
+
+1953
+01:42:37.468 --> 01:42:38.488
+Je ne l'ai pas poussé après.
+
+1954
+01:42:38.608 --> 01:42:42.528
+Après, il y a des bons modèles, mais c'est juste que niveau argentique, dans Open
+
+1955
+01:42:42.628 --> 01:42:46.188
+Cloud, ça ne comprenait pas tout le concept du
+
+1956
+01:42:47.308 --> 01:42:47.508
+truc.
+
+1957
+01:42:49.508 --> 01:42:51.318
+Il y a Nemotron aussi de Nvidia, que je n'ai pas testé.
+
+1958
+01:42:51.728 --> 01:42:54.748
+Je ne sais pas ce que ça donne.
+
+1959
+01:42:57.948 --> 01:43:00.708
+Il y avait un GPT
+
+1960
+01:43:01.608 --> 01:43:04.528
+que je leur trouve, un des gros, OSS
+
+1961
+01:43:04.588 --> 01:43:06.388
+120B.
+
+1962
+01:43:07.668 --> 01:43:11.568
+Qui est apparemment un des gros modèles d'OpenAI, que j'avais
+
+1963
+01:43:11.628 --> 01:43:13.088
+testé. Pareil, bof.
+
+1964
+01:43:14.408 --> 01:43:18.308
+En tout cas, je dis bof, mais encore une fois, dans Open Cloud.
+
+1965
+01:43:20.748 --> 01:43:23.788
+J'avais gardé Cloud, donc je me suis dit : « Pourquoi rester dans
+
+1966
+01:43:25.928 --> 01:43:26.608
+Open Cloud si
+
+1967
+01:43:28.188 --> 01:43:28.728
+j'utilise Cloud ?
+
+1968
+01:43:29.618 --> 01:43:29.618
+»
+
+1969
+01:43:31.388 --> 01:43:31.748
+C'est sûr
+
+1970
+01:43:37.168 --> 01:43:40.348
+Du coup, de mon côté, je vais regarder les structures parce que ça m'intéresse pas
+
+1971
+01:43:40.388 --> 01:43:40.628
+mal.
+
+1972
+01:43:41.748 --> 01:43:45.568
+Si ça peut rendre Claude encore plus intelligent et le faire travailler plus
+
+1973
+01:43:45.608 --> 01:43:49.268
+vite et potentiellement même dépenser moins de tokens, je trouve que c'est
+
+1974
+01:43:49.308 --> 01:43:51.627
+clairement pertinent. Et puis, ça ajoute de la logique.
+
+1975
+01:43:53.728 --> 01:43:54.668
+Ça va le faire, oui.
+
+1976
+01:43:56.148 --> 01:43:58.688
+Ça ajoute même de la logique pour nous.
+
+1977
+01:43:59.728 --> 01:44:03.568
+Après, quand tu sais la bonne structure, comment tu penses
+
+1978
+01:44:03.828 --> 01:44:05.248
+dans tes projets.
+
+1979
+01:44:06.208 --> 01:44:09.648
+Basiquement. Je trouve que c'est trop intéressant la structure
+
+1980
+01:44:09.708 --> 01:44:11.288
+des dossiers et fichiers.
+
+1981
+01:44:11.888 --> 01:44:13.408
+Même pour mettre à jour, puis tu sais où tu en es.
+
+1982
+01:44:13.508 --> 01:44:17.488
+Oui. Je vais fouiller
+
+1983
+01:44:17.568 --> 01:44:21.328
+tout ça, je vous ferai un récap et après, peut-être que vous me fournirez de
+
+1984
+01:44:21.388 --> 01:44:22.728
+l'info que vous aurez aussi, etc.
+
+1985
+01:44:23.528 --> 01:44:27.068
+Et puis on fera peut-être un doc qu'on mettra dans la
+
+1986
+01:44:27.088 --> 01:44:27.588
+formation.
+
+1987
+01:44:29.548 --> 01:44:29.868
+Yes.
+
+1988
+01:44:31.948 --> 01:44:33.928
+Oui, du coup Mika, il faut que je t'envoie la vidéo
+
+1989
+01:44:34.968 --> 01:44:38.548
+que j'ai faite de la suite, qui est intégration produit
+
+1990
+01:44:39.288 --> 01:44:39.768
+avec Claude.
+
+1991
+01:44:40.168 --> 01:44:43.988
+Oui, j'ai vu ça hier soir quand j'ai regardé le fil de conversation
+
+1992
+01:44:44.048 --> 01:44:44.248
+du
+
+1993
+01:44:45.208 --> 01:44:45.468
+groupe.
+
+1994
+01:44:46.328 --> 01:44:47.988
+Je m'attendais à ce que tu me l'envoies.
+
+1995
+01:44:48.388 --> 01:44:50.208
+Oui, je te filerai ça
+
+1996
+01:44:51.308 --> 01:44:52.008
+dans la journée.
+
+1997
+01:44:54.268 --> 01:44:55.928
+Après, je ne sais pas quoi faire de plus en vidéo.
+
+1998
+01:44:56.488 --> 01:45:00.348
+Vous n'avez pas d'autres idées de comment fournir la formation
+
+1999
+01:45:00.428 --> 01:45:01.208
+côté IA ?
+
+2000
+01:45:02.868 --> 01:45:05.368
+Je ne sais pas. Je n'ai pas de pluie d'idées.
+
+2001
+01:45:05.608 --> 01:45:07.528
+Il faudrait que j'en aie, mais je n'en vois pas.
+
+2002
+01:45:07.568 --> 01:45:08.988
+Vu qu'il y en a un peu moins dans l'e-com,
+
+2003
+01:45:09.968 --> 01:45:13.108
+j'avoue que je vois moins les utilités directes.
+
+2004
+01:45:15.168 --> 01:45:16.708
+Je ne sais pas si vous avez des idées.
+
+2005
+01:45:17.768 --> 01:45:19.988
+Vous vous êtes dit : « Elle pourrait aider à faire ça.
+
+2006
+01:45:20.988 --> 01:45:23.288
+Je fais une vidéo test. »
+
+2007
+01:45:23.348 --> 01:45:24.628
+Là, c'était pour l'intégration produit.
+
+2008
+01:45:25.168 --> 01:45:25.328
+Oui.
+
+2009
+01:45:25.498 --> 01:45:26.248
+C'est tout ce que tu as traité.
+
+2010
+01:45:28.568 --> 01:45:30.278
+Après, la partie design. Tiens, d'ailleurs,
+
+2011
+01:45:31.848 --> 01:45:35.088
+je ne sais pas si tu as retesté depuis l'autre, Stitch. Ils l'ont amélioré.
+
+2012
+01:45:35.768 --> 01:45:36.528
+Ils l'ont vachement amélioré.
+
+2013
+01:45:36.828 --> 01:45:38.508
+Tu sais que j'ai vu beaucoup de monde en parler.
+
+2014
+01:45:39.348 --> 01:45:41.308
+Parce que moi, je l'ai sorti il n'y a pas longtemps, il y a peut-être deux
+
+2015
+01:45:41.348 --> 01:45:43.547
+semaines. Et oui, il marche mieux quand même.
+
+2016
+01:45:43.777 --> 01:45:45.868
+Tu peux même modifier directement dedans.
+
+2017
+01:45:47.048 --> 01:45:48.388
+Les générations se font plus vite aussi.
+
+2018
+01:45:50.168 --> 01:45:50.728
+Ça, c'est le problème.
+
+2019
+01:45:50.738 --> 01:45:54.688
+Il faut que je le reteste, mais j'ai vu beaucoup en parler de trucs un
+
+2020
+01:45:54.748 --> 01:45:57.628
+peu sérieux qui l'utilisaient et qui disaient que c'était vraiment bien Stitch.
+
+2021
+01:45:57.668 --> 01:45:59.828
+Donc j'ai sûrement ultra mal utilisé.
+
+2022
+01:46:01.068 --> 01:46:05.048
+Bof. Oui. Sinon à retester, puis peut-être à l'avenir,
+
+2023
+01:46:05.088 --> 01:46:07.128
+oui, la partie design. Après, pour l'ecom, nous, c'est quoi ?
+
+2024
+01:46:07.168 --> 01:46:09.528
+Ça va être création de site ou design du site.
+
+2025
+01:46:09.568 --> 01:46:11.408
+Ça peut aider avec les palettes de couleurs, etc.
+
+2026
+01:46:12.368 --> 01:46:13.948
+Après, création de produits, tu l'as fait.
+
+2027
+01:46:14.968 --> 01:46:17.907
+Après, SAV, peut-être. C'est vrai que le SAV, ça pourrait être pas mal.
+
+2028
+01:46:18.238 --> 01:46:22.188
+« Où est ma commande ? Où est mon suivi ? » Les trucs comme ça.
+
+2029
+01:46:22.408 --> 01:46:22.468
+Oui,
+
+2030
+01:46:23.628 --> 01:46:25.578
+je comprends, mais qu'est-ce que tu veux que je dise ?
+
+2031
+01:46:25.908 --> 01:46:29.808
+C'est juste à connecter Claude à Gmail et à lui filer des
+
+2032
+01:46:29.828 --> 01:46:30.548
+questions-réponses.
+
+2033
+01:46:31.568 --> 01:46:34.208
+Je ne sais pas quelle est la meilleure méthode pour ça.
+
+2034
+01:46:36.668 --> 01:46:40.068
+Je n'ai pas testé, mais il y a une intégration Gmail, donc après,
+
+2035
+01:46:40.768 --> 01:46:44.048
+en fonction de ce que vous utilisez, il faudra intégrer comme il faut.
+
+2036
+01:46:44.508 --> 01:46:48.188
+Imaginons que ça soit du Gmail, une fois qu'il est connecté, il sait
+
+2037
+01:46:48.228 --> 01:46:51.648
+répondre ou mettre en brouillon et à partir de données que tu as
+
+2038
+01:46:51.688 --> 01:46:55.628
+préconçues avant. D'ailleurs, cf le doc qu'il y a, j'imagine, dans la formation
+
+2039
+01:46:55.708 --> 01:46:57.068
+de qu'est-ce qu'il faut répondre et point.
+
+2040
+01:46:58.148 --> 01:46:59.848
+Je
+
+2041
+01:47:00.668 --> 01:47:03.748
+vois qu'elle serait utile cette vidéo, mais elle n'aurait aucune valeur que je la
+
+2042
+01:47:03.768 --> 01:47:07.748
+tourne. Après, c'est le bon sens de : je connecte mon Claude à Gmail et
+
+2043
+01:47:07.788 --> 01:47:10.648
+je lui donne les questions-réponses, ce qu'il faut répondre en général.
+
+2044
+01:47:12.168 --> 01:47:14.168
+En fait, je suis d'accord à 100 % avec toi, Théo, mais
+
+2045
+01:47:15.768 --> 01:47:18.448
+tu ne vois pas la valeur parce que, j'allais le dire aussi, en
+
+2046
+01:47:19.768 --> 01:47:21.388
+trois, quatre clics, c'est fait. Mais
+
+2047
+01:47:22.928 --> 01:47:25.968
+pour les profils moins avancés, elle est pertinente.
+
+2048
+01:47:28.628 --> 01:47:30.508
+Après, je sais que tu ne prendras pas de plaisir à la faire.
+
+2049
+01:47:32.028 --> 01:47:32.808
+Je
+
+2050
+01:47:33.008 --> 01:47:43.088
+comprends
+
+2051
+01:47:43.128 --> 01:47:46.928
+ta position, mais je comprends l'intérêt
+
+2052
+01:47:47.008 --> 01:47:49.508
+pour ceux, comme je le dis, qui ont un profil moins avancé.
+
+2053
+01:47:49.928 --> 01:47:52.668
+Parce qu'en effet, en quatre clics, c'est fait.
+
+2054
+01:47:53.308 --> 01:47:53.888
+Tu donnes la
+
+2055
+01:47:55.648 --> 01:47:56.728
+liste de questions-réponses.
+
+2056
+01:47:56.988 --> 01:48:00.908
+Non, mais je vais noter. C'est vrai que ça me f**t c***r parce qu'il n'y a
+
+2057
+01:48:00.948 --> 01:48:03.168
+rien à dire et ce n'est pas intéressant, mais je vais le noter.
+
+2058
+01:48:04.148 --> 01:48:06.608
+Connecter. En fait, je vais mettre Claude
+
+2059
+01:48:09.388 --> 01:48:09.668
+SAV.
+
+2060
+01:48:10.488 --> 01:48:11.368
+Il y a toujours moyen.
+
+2061
+01:48:13.088 --> 01:48:13.488
+Oui ?
+
+2062
+01:48:13.508 --> 01:48:15.128
+Il y a toujours moyen de pousser avec le SAV.
+
+2063
+01:48:17.148 --> 01:48:19.748
+Avec les systèmes d'ORAC et tout ça, c'est un peu plus complexe, mais tu as
+
+2064
+01:48:19.768 --> 01:48:23.667
+vraiment des résultats. C'est un vrai chatbot, le truc.
+
+2065
+01:48:24.608 --> 01:48:24.788
+Oui.
+
+2066
+01:48:26.528 --> 01:48:32.628
+En
+
+2067
+01:48:32.668 --> 01:48:34.008
+fait, il y a moyen qu'il soit bien
+
+2068
+01:48:34.848 --> 01:48:36.308
+poussé dans
+
+2069
+01:48:37.108 --> 01:48:40.328
+ta compréhension du site aussi en lui filant les infos ou les accès au site.
+
+2070
+01:48:42.288 --> 01:48:43.228
+Mais bon, pareil,
+
+2071
+01:48:44.048 --> 01:48:45.348
+je ne vois pas comment je peux,
+
+2072
+01:48:46.228 --> 01:48:47.768
+à part le dire. Mais
+
+2073
+01:48:49.608 --> 01:48:52.068
+bon, j'essaierai de faire un truc un peu complet sur ça.
+
+2074
+01:48:52.228 --> 01:48:52.578
+Ça peut
+
+2075
+01:48:53.388 --> 01:48:54.348
+être pertinent.
+
+2076
+01:48:55.308 --> 01:48:58.788
+Je vois que, c'est qui qui a dit ça ? Oui, Emeric, recherche de niches.
+
+2077
+01:49:00.128 --> 01:49:01.808
+Il veut un outil clé en main.
+
+2078
+01:49:08.648 --> 01:49:09.108
+En fait,
+
+2079
+01:49:10.068 --> 01:49:12.008
+le problème, c'est que
+
+2080
+01:49:14.488 --> 01:49:17.348
+c'est pareil. Soit c'est un outil qui te donne la niche et du coup,
+
+2081
+01:49:18.388 --> 01:49:21.508
+après, ça va râler parce qu'il n'y aura pas tous les points qui seront, parce que
+
+2082
+01:49:21.568 --> 01:49:23.188
+c'est de l'IA, parce qu'il peut y avoir des erreurs, machin.
+
+2083
+01:49:23.628 --> 01:49:25.768
+Soit c'est juste comment on l'a choisi.
+
+2084
+01:49:25.848 --> 01:49:29.088
+Et en fait, c'est juste un résumé de ce qui se passe dans la formation.
+
+2085
+01:49:30.308 --> 01:49:32.148
+Au final, c'est tels
+
+2086
+01:49:32.188 --> 01:49:36.092
+critèresJe ne
+
+2087
+01:49:36.132 --> 01:49:37.772
+vois pas trop comment peut être cette vidéo.
+
+2088
+01:49:37.872 --> 01:49:39.132
+Je comprends qu'elle soit pertinente,
+
+2089
+01:49:40.152 --> 01:49:42.952
+mais elle peut poser beaucoup de problèmes sur la suite.
+
+2090
+01:49:45.432 --> 01:49:49.152
+Il a la flemme de faire son mind map.
+
+2091
+01:49:49.392 --> 01:49:50.192
+Je peux comprendre.
+
+2092
+01:49:50.252 --> 01:49:52.932
+Non, c'était pour te faire comprendre.
+
+2093
+01:49:52.972 --> 01:49:55.431
+Non, mais en vrai, je vois un peu ce que c'est.
+
+2094
+01:49:56.092 --> 01:49:59.892
+Oui, parce que si tu peux payer les API par la même occasion, Théo, ça
+
+2095
+01:49:59.932 --> 01:50:00.492
+arrange tout le monde.
+
+2096
+01:50:01.332 --> 01:50:04.412
+C'est ça. C'était pour blaguer. Je pense que c'est possible.
+
+2097
+01:50:04.492 --> 01:50:07.172
+Je n'ai pas vu ta vidéo, elle va sortir demain.
+
+2098
+01:50:07.972 --> 01:50:09.232
+Je pense que c'est un peu comme l'intégration de produits,
+
+2099
+01:50:10.052 --> 01:50:13.952
+le truc magique n'existe pas. Par contre, si chacun se crée son propre système par
+
+2100
+01:50:13.972 --> 01:50:16.812
+rapport à ce qu'il sait faire et ce qu'il a compris de la formation, tu peux te
+
+2101
+01:50:16.832 --> 01:50:20.702
+créer un système qui va te proposer cinq niches si tu le laisses travailler pendant
+
+2102
+01:50:20.712 --> 01:50:23.812
+un certain temps. Mais ça reste quelque chose qui va être particulier à chacun,
+
+2103
+01:50:23.852 --> 01:50:25.012
+donc ça n'existe pas vraiment.
+
+2104
+01:50:25.812 --> 01:50:28.332
+Je pense que ça rejoint ce que tu vas proposer demain pour l'intégration de
+
+2105
+01:50:28.372 --> 01:50:28.732
+produits.
+
+2106
+01:50:29.672 --> 01:50:32.332
+C'est un truc clairement, mais suivant ton site, suivant ton produit, suivant
+
+2107
+01:50:33.372 --> 01:50:34.932
+ce que tu veux, tu as plein de
+
+2108
+01:50:35.752 --> 01:50:36.452
+choses à ajuster.
+
+2109
+01:50:37.512 --> 01:50:40.952
+C'est pour ça que même si celle-là était pertinente, elle était dure parce
+
+2110
+01:50:40.992 --> 01:50:44.172
+qu'il n'y a pas de vraie valeur dans le sens où
+
+2111
+01:50:44.992 --> 01:50:48.452
+ce n'est pas du clairement. Je donne quand même le skill parce que sinon il y a
+
+2112
+01:50:48.492 --> 01:50:51.412
+quasiment zéro valeur, mais il ne vaut presque rien.
+
+2113
+01:50:52.132 --> 01:50:56.052
+Il faut complètement le modifier en fonction de son site, sa niche, son CMS,
+
+2114
+01:50:56.572 --> 01:51:00.562
+de comment on pense le truc. Elle existe, il y
+
+2115
+01:51:00.592 --> 01:51:04.512
+a un skill, mais j'explique beaucoup dans la
+
+2116
+01:51:04.552 --> 01:51:07.132
+vidéo que de toute façon, il va falloir adapter, itérer.
+
+2117
+01:51:08.032 --> 01:51:11.992
+C'est un peu pareil pour la niche, parce qu'on peut lui filer
+
+2118
+01:51:12.412 --> 01:51:14.612
+toutes les conditions qui font que c'est une bonne niche,
+
+2119
+01:51:15.572 --> 01:51:19.472
+mais comment il les trouve ? Là, c'est pareil, c'est
+
+2120
+01:51:20.072 --> 01:51:23.812
+un peu comme le produit, ça va varier de
+
+2121
+01:51:24.632 --> 01:51:27.132
+: « Qu'est-ce que vous préférez ? Quel genre de niche vous avez envie ?
+
+2122
+01:51:27.152 --> 01:51:30.252
+Comment on va les trouver ? Sur quoi on se base comme données ?
+
+2123
+01:51:30.412 --> 01:51:31.502
+» Si tout le monde fait le même truc, ça
+
+2124
+01:51:32.412 --> 01:51:33.732
+va ressortir les mêmes niches à chaque fois.
+
+2125
+01:51:34.232 --> 01:51:36.472
+Je ne sais pas trop comment
+
+2126
+01:51:37.432 --> 01:51:39.352
+je la note parce qu'il faut que j'y réfléchisse.
+
+2127
+01:51:39.412 --> 01:51:40.412
+Il y a sûrement moyen de
+
+2128
+01:51:41.372 --> 01:51:44.332
+montrer des exemples que l'IA peut en trouver, mais
+
+2129
+01:51:45.152 --> 01:51:46.492
+je ne pense pas que ce soit le truc miracle.
+
+2130
+01:51:46.692 --> 01:51:50.691
+Je le disais tout à l'heure parce que j'ai réfléchi et je pense que c'est un bon
+
+2131
+01:51:51.892 --> 01:51:54.792
+exemple pour essayer de comprendre comment dans un même dossier,
+
+2132
+01:51:55.792 --> 01:51:58.752
+plusieurs agents .md pourraient travailler ensemble.
+
+2133
+01:52:00.972 --> 01:52:03.952
+Un peu comme le fichier ToDo dont je parlais tout à l'heure.
+
+2134
+01:52:04.372 --> 01:52:07.772
+Ça m'a débloqué un truc de me dire : « P****n, tu lui donnes plein de fichiers
+
+2135
+01:52:07.872 --> 01:52:10.872
+skill, des compétences, il va se créer lui-même des trucs, il avance tout seul.
+
+2136
+01:52:11.411 --> 01:52:14.572
+» Je pense que dans l'idée, on pourrait avoir un dossier recherche de
+
+2137
+01:52:14.612 --> 01:52:18.332
+niches qui va être formaté chacun suivant ce qu'il veut, mais avec
+
+2138
+01:52:18.432 --> 01:52:22.232
+différents agents, un qui aura des accès API pour aller voir les
+
+2139
+01:52:22.272 --> 01:52:24.452
+volumes, un qui aura ceci, un qui aura cela.
+
+2140
+01:52:24.472 --> 01:52:27.292
+Et après, ils peuvent rebondir entre eux parce que tu as une ToDo qui va être
+
+2141
+01:52:27.332 --> 01:52:28.672
+suivie par le cloud .md.
+
+2142
+01:52:29.512 --> 01:52:33.332
+Pour l'instant, c'est complexe parce que ça n'existe pas, mais le jour où tu en as
+
+2143
+01:52:33.342 --> 01:52:36.132
+un qui le fait, ça pourra plutôt être clair.
+
+2144
+01:52:38.232 --> 01:52:40.092
+Tu peux décider le format de sortie.
+
+2145
+01:52:40.172 --> 01:52:41.612
+C'est là où chacun pourrait moduler
+
+2146
+01:52:42.532 --> 01:52:44.092
+suivant ce qu'il veut et le format de sortie.
+
+2147
+01:52:45.212 --> 01:52:46.852
+Certains produits, non, certains produits, oui.
+
+2148
+01:52:47.912 --> 01:52:48.292
+Oui.
+
+2149
+01:52:48.832 --> 01:52:50.252
+C'est la recette de rêve.
+
+2150
+01:52:51.272 --> 01:52:52.972
+Je ne sais pas si tu étais là dans le live où
+
+2151
+01:52:54.872 --> 01:52:56.412
+je donnais les deux exemples, mais
+
+2152
+01:52:58.072 --> 01:53:01.232
+tu peux quasiment faire un de A à Z fait par l'IA.
+
+2153
+01:53:03.492 --> 01:53:04.042
+Niche ou pas,
+
+2154
+01:53:06.092 --> 01:53:08.592
+choix des produits ou pas. Elle peut quasiment tout faire.
+
+2155
+01:53:08.712 --> 01:53:11.842
+Elle peut choisir la niche, elle peut choisir même les produits directement, elle
+
+2156
+01:53:11.912 --> 01:53:13.892
+peut les intégrer, elle peut créer les collections,
+
+2157
+01:53:14.872 --> 01:53:17.272
+les mettre dans les bonnes collections, créer les descriptions de collections.
+
+2158
+01:53:17.642 --> 01:53:18.312
+Pour le site,
+
+2159
+01:53:19.312 --> 01:53:22.632
+ça peut se faire aussi, mais dans l'idéal,
+
+2160
+01:53:22.732 --> 01:53:24.872
+tu as quand même envie d'un peu de contrôle dessus.
+
+2161
+01:53:26.472 --> 01:53:29.712
+Si tu es sur un Shopify, tu installes le bon thème et fin de l'histoire.
+
+2162
+01:53:29.792 --> 01:53:32.752
+Et après, tu as juste à connecter ton processeur de paiement à ton site et encore,
+
+2163
+01:53:34.352 --> 01:53:36.092
+il y a sûrement des moyens de le faire automatiquement.
+
+2164
+01:53:37.412 --> 01:53:41.152
+Là, je pourrais lui dire s'il y a le truc qui est composé comme il
+
+2165
+01:53:41.192 --> 01:53:42.632
+faut et qu'il sait tout ce qu'il doit faire
+
+2166
+01:53:43.512 --> 01:53:44.232
+étape par étape,
+
+2167
+01:53:45.492 --> 01:53:47.852
+Claude pourrait créer un site de A à Z tout seul.
+
+2168
+01:53:48.992 --> 01:53:52.172
+Oui, mais c'est ça. Comme tu disais tout à l'heure, l'outil magique n'existe pas et
+
+2169
+01:53:52.452 --> 01:53:54.552
+ça va dépendre de comment tu le formates.
+
+2170
+01:53:55.952 --> 01:53:59.652
+Si toi, par exemple, Théo, tu as les compétences pour le faire, tu pourrais réussir
+
+2171
+01:53:59.672 --> 01:54:03.192
+à le faire, mais par exemple moi, c'est mon premier site,
+
+2172
+01:54:04.552 --> 01:54:07.492
+ce que je créerai là serait beaucoup moins bien parce qu'il serait moins bien
+
+2173
+01:54:07.532 --> 01:54:11.332
+programmé. Ou alors, le jour où ce sera
+
+2174
+01:54:11.352 --> 01:54:14.632
+vraiment possible et où le truc sera tellement fort qu'il le fera tout seul, c'est
+
+2175
+01:54:14.642 --> 01:54:16.692
+là où on ne fera même plus de site.
+
+2176
+01:54:18.752 --> 01:54:22.212
+Parce que si c'est possible de le faire en un prompt de départ, « crée-moi un site
+
+2177
+01:54:22.272 --> 01:54:25.962
+rentable et fais tout de A à Z », ok, l'outil magique existe, mais il
+
+2178
+01:54:26.212 --> 01:54:29.692
+existe pour tout le monde et nous, on n'a plus aucune valeur dans ce qu'on fait.
+
+2179
+01:54:32.392 --> 01:54:33.862
+Où est le problème ?
+
+2180
+01:54:35.132 --> 01:54:37.552
+Ce n'est pas un problème. Je pense qu'aujourd'hui, l'outil
+
+2181
+01:54:37.812 --> 01:54:41.172
+magique n'existe pas. Moi, je peux m'amuser, toi, tu peux
+
+2182
+01:54:41.232 --> 01:54:45.212
+t'amuser à créer un petit système de recherche de niches, ça restera un système,
+
+2183
+01:54:45.332 --> 01:54:48.292
+mais l'outil magique qui te fait tout de A à Z,
+
+2184
+01:54:50.052 --> 01:54:50.972
+ça arrivera sûrement un jour.
+
+2185
+01:54:52.572 --> 01:54:55.452
+Ça va vite arriver parce que quand tu vois Nanocorp, c'est ça.
+
+2186
+01:54:56.612 --> 01:54:59.192
+Je ne sais pas s'il peut faire de l'e-com, mais c'est ce qu'il fait,
+
+2187
+01:55:00.152 --> 01:55:00.612
+littéralement.
+
+2188
+01:55:02.132 --> 01:55:02.352
+Oui.
+
+2189
+01:55:05.532 --> 01:55:09.472
+Soit tu prends son idée, soit tu donnes ton idée, il te fait tout, il prospecte, il
+
+2190
+01:55:09.592 --> 01:55:13.352
+te fait les ventes. Tu imagines ? Tu fais une version
+
+2191
+01:55:13.412 --> 01:55:16.852
+e-com et qui ne doit pas être très compliquée non plus à faire.
+
+2192
+01:55:17.452 --> 01:55:19.352
+Tu sais en deux mots ce que c'est que Nanocorp
+
+2193
+01:55:21.272 --> 01:55:21.272
+?
+
+2194
+01:55:23.532 --> 01:55:27.332
+Non, je ne connais pas assez pour te dire
+
+2195
+01:55:27.672 --> 01:55:30.932
+rapidement ce que c'est, mais je peux te filer le lien et tu peux aller voir un
+
+2196
+01:55:31.012 --> 01:55:32.052
+peu, mais en gros,
+
+2197
+01:55:33.092 --> 01:55:36.872
+très mal dit, c'est une IA qui va lancer un business à ta place.
+
+2198
+01:55:37.792 --> 01:55:38.092
+D'accord.
+
+2199
+01:55:38.492 --> 01:55:40.072
+Je ne sais pas ce que tu en
+
+2200
+01:55:40.112 --> 01:55:43.328
+penses.Hein, Moïse, de la
+
+2201
+01:55:43.728 --> 01:55:44.848
+définition ?
+
+2202
+01:55:45.048 --> 01:55:47.368
+Moi, j'avais vu, c'était un short.
+
+2203
+01:55:47.708 --> 01:55:49.668
+À mon avis, tu vas pouvoir trouver une vidéo de cinq minutes de
+
+2204
+01:55:52.988 --> 01:55:56.288
+génération Do It Yourself qui va t'expliquer facilement ce que c'est.
+
+2205
+01:55:56.988 --> 01:55:58.088
+Moi, c'est juste que j'avais testé.
+
+2206
+01:55:58.098 --> 01:56:01.948
+Honnêtement, j'ai testé, j'ai passé une soirée dessus, du coup une deuxième soirée.
+
+2207
+01:56:02.088 --> 01:56:02.508
+C'est un
+
+2208
+01:56:04.388 --> 01:56:06.668
+outil qui, je pense, n'est pas encore prêt, donc tu peux aller t'amuser dessus.
+
+2209
+01:56:07.248 --> 01:56:11.188
+Et la proposition de valeur, c'est de dire que c'est un outil qui va te créer
+
+2210
+01:56:11.248 --> 01:56:14.828
+ton business. Mais en pratique, je pense qu'il vaut mieux, aujourd'hui en tout cas,
+
+2211
+01:56:14.907 --> 01:56:18.248
+ce n'est pas encore prêt et tu iras plus vite en passant trois mois à créer ton
+
+2212
+01:56:18.308 --> 01:56:20.608
+site et en faisant vraiment quelque chose qu'en allant dessus.
+
+2213
+01:56:22.648 --> 01:56:26.568
+Je pense que ce sont vraiment des bêta versions, mais qu'on va
+
+2214
+01:56:26.628 --> 01:56:30.608
+vers ça, que dans quelques mois, effectivement, il suffira d'avoir une idée et
+
+2215
+01:56:32.288 --> 01:56:34.308
+d'un peu driver ton agent qui va te créer ton truc.
+
+2216
+01:56:35.308 --> 01:56:36.598
+En fait, c'est déjà le cas,
+
+2217
+01:56:37.648 --> 01:56:41.328
+où tu dois guider ton IA. Là, le but de Nanocorp, c'est que ce soit beaucoup plus
+
+2218
+01:56:41.348 --> 01:56:42.508
+autonome.
+
+2219
+01:56:42.528 --> 01:56:42.748
+Oui,
+
+2220
+01:56:43.708 --> 01:56:44.948
+mais tu vois ce que je veux dire.
+
+2221
+01:56:45.008 --> 01:56:47.188
+Tout ce qui est payé, tu peux le faire un par un,
+
+2222
+01:56:48.848 --> 01:56:50.028
+étape par étape, toi-même.
+
+2223
+01:56:50.808 --> 01:56:54.548
+Oui, après, le site e-commerce, quand je vais chercher une idée à mettre dedans,
+
+2224
+01:56:54.628 --> 01:56:57.488
+j'ai discuté un peu avec Gemini et un peu avec Claude à côté.
+
+2225
+01:56:57.968 --> 01:57:01.728
+Tu peux créer un compte Stripe,
+
+2226
+01:57:02.108 --> 01:57:05.728
+il peut envoyer des mails, il peut analyser une page,
+
+2227
+01:57:06.028 --> 01:57:09.808
+mais il ne peut pas encore aller sourcer des
+
+2228
+01:57:09.828 --> 01:57:12.108
+produits, de créer un catalogue, gérer tes fournisseurs express.
+
+2229
+01:57:12.468 --> 01:57:15.648
+Ça arrivera sûrement un jour, mais aujourd'hui, Nanocorp, tu n'as pas non plus
+
+2230
+01:57:15.728 --> 01:57:16.748
+toutes les possibilités du monde.
+
+2231
+01:57:19.048 --> 01:57:19.748
+Qu'est-ce qui le bloque
+
+2232
+01:57:20.708 --> 01:57:20.708
+?
+
+2233
+01:57:20.728 --> 01:57:23.868
+C'est plus orienté service, à mon avis, pour l'instant, non ?
+
+2234
+01:57:23.908 --> 01:57:24.228
+Oui.
+
+2235
+01:57:24.768 --> 01:57:25.878
+Mais si tu lui expliques
+
+2236
+01:57:28.148 --> 01:57:32.018
+: « Je veux que tu trouves des produits en utilisant l'API RapidAPI qui, à
+
+2237
+01:57:32.068 --> 01:57:34.768
+partir d'un mot clé, trouve des produits », qu'est-ce qui bloquerait ?
+
+2238
+01:57:34.828 --> 01:57:34.868
+Tu
+
+2239
+01:57:37.168 --> 01:57:37.848
+me fais un site
+
+2240
+01:57:39.888 --> 01:57:43.728
+plus statique ou en je ne sais quel langage qui ne sera
+
+2241
+01:57:43.828 --> 01:57:46.368
+pas du WordPress et qui ne sera pas du Shopify.
+
+2242
+01:57:46.468 --> 01:57:49.148
+Ça va bloquer au niveau de la gestion
+
+2243
+01:57:49.328 --> 01:57:52.957
+des commerçaires. Économe,
+
+2244
+01:57:53.008 --> 01:57:53.808
+oui.
+
+2245
+01:57:53.837 --> 01:57:54.868
+Pourquoi ?
+
+2246
+01:57:54.908 --> 01:57:56.348
+Parce que ce sont eux qui gèrent les paiements.
+
+2247
+01:57:57.908 --> 01:57:58.738
+Oui, mais il y a-
+
+2248
+01:57:59.628 --> 01:58:01.328
+Si tu dois traiter des remboursements, etc.
+
+2249
+01:58:01.768 --> 01:58:03.108
+Ah oui, d'accord.
+
+2250
+01:58:03.148 --> 01:58:04.888
+Et la déclaration de ta TVA.
+
+2251
+01:58:06.448 --> 01:58:07.588
+Oui, puis même le côté-
+
+2252
+01:58:08.368 --> 01:58:09.168
+Ça me semble compliqué.
+
+2253
+01:58:09.888 --> 01:58:12.108
+Quand je regardais sur Nanocorp, il m'a créé une landing page.
+
+2254
+01:58:12.628 --> 01:58:16.228
+En bas, tu as mentions légales. Tu cliques sur mentions légales, ça te renvoie à la
+
+2255
+01:58:16.248 --> 01:58:20.148
+homepage. À mon avis, tu peux déjà
+
+2256
+01:58:20.508 --> 01:58:24.448
+un peu générer de l'argent parce que tu as un compte Stripe, mais si tu commences à
+
+2257
+01:58:24.668 --> 01:58:26.388
+faire des belles sommes, à mon avis, tu as intérêt quand même
+
+2258
+01:58:27.428 --> 01:58:27.448
+à-
+
+2259
+01:58:27.628 --> 01:58:29.468
+Oui, mais tu dis mentions légales,
+
+2260
+01:58:30.428 --> 01:58:33.988
+ça va sur la home, mais ça, en général, quand tu demandes un template,
+
+2261
+01:58:34.028 --> 01:58:37.478
+c'est ce qu'ils font. Donc après, pourquoi tu ne peux pas dire à Nanocorp : «
+
+2262
+01:58:38.488 --> 01:58:41.768
+Crée-moi les mentions légales et fais en sorte que le lien arrive au bon endroit,
+
+2263
+01:58:41.808 --> 01:58:43.548
+etc. » J'imagine que tu peux le faire, ça.
+
+2264
+01:58:43.748 --> 01:58:46.078
+Les mentions légales sont celles de la boîte, de toute manière.
+
+2265
+01:58:46.608 --> 01:58:48.238
+Oui, du coup, c'est le vendeur.
+
+2266
+01:58:48.238 --> 01:58:48.828
+C'est leur service.
+
+2267
+01:58:50.828 --> 01:58:51.048
+OK.
+
+2268
+01:58:52.108 --> 01:58:53.908
+Après, c'est eux qui prennent les litiges et tout.
+
+2269
+01:58:55.068 --> 01:58:58.348
+Comme on disait tout à l'heure, ils n'ont pas encore le Google Ads, mais à terme,
+
+2270
+01:58:58.528 --> 01:59:00.708
+ils proposent déjà ça en disant : « Ça va arriver.
+
+2271
+01:59:01.148 --> 01:59:02.468
+» Mais pour l'instant, il y a encore des limites,
+
+2272
+01:59:03.848 --> 01:59:05.337
+il y a encore plein d'outils, je pense, qui sont-
+
+2273
+01:59:05.388 --> 01:59:09.008
+Oui, comme tu dis, c'est en bêta, mais ça promet pas mal quand même, ce truc-là.
+
+2274
+01:59:09.768 --> 01:59:11.988
+Non, c'est cool, mais je ne sais plus qui disait ça, si c'était Aude ou...
+
+2275
+01:59:12.348 --> 01:59:14.928
+La proposition de valeur, je lui dis : « Ça te crée ton business à ta place.
+
+2276
+01:59:14.938 --> 01:59:17.897
+» Oui, c'est super cool. C'est pour ça que je suis allé voir un peu pour tester,
+
+2277
+01:59:17.908 --> 01:59:21.848
+pour m'amuser. Mais aujourd'hui, ce n'est
+
+2278
+01:59:21.908 --> 01:59:23.888
+pas encore prêt.
+
+2279
+01:59:26.068 --> 01:59:27.628
+Oui.
+
+2280
+01:59:30.008 --> 01:59:33.168
+Qu'est-ce que j'ai f***u ? Pourquoi il y a...
+
+2281
+01:59:35.708 --> 01:59:38.308
+Oui. Je vais couper du coup, il est 12 h
+
+2282
+01:59:40.248 --> 01:59:41.848
+15.
+
+2283
+01:59:47.388 --> 01:59:48.268
+J'avais le son coupé.
+
+2284
+01:59:50.108 --> 01:59:51.168
+Vous m'entendez là ?
+
+2285
+01:59:51.788 --> 01:59:52.328
+Oui.
+
+2286
+01:59:52.968 --> 01:59:54.488
+Je ne sais pas ce qui s'est passé sur mon ordi.
+
+2287
+01:59:55.908 --> 01:59:58.728
+Il y a Bruno qui veut se connecter, mais je vais couper.
+
+2288
+02:00:00.648 --> 02:00:04.028
+Donc bonne semaine à tous, travaillez bien, bon courage.
+
+2289
+02:00:04.748 --> 02:00:06.728
+Pareil. Vous éparpillez pas trop.
+
+2290
+02:00:07.328 --> 02:00:08.168
+Yes, focus.
+
+2291
+02:00:08.808 --> 02:00:10.608
+Allez, salut la team. À plus tard.
+
+2292
+02:00:11.688 --> 02:00:11.988
+Salut.

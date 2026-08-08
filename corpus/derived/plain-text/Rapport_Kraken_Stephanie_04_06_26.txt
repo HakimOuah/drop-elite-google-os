@@ -1,0 +1,239 @@
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  1  —
+RAPPORT DE SESSION
+4 juin 2026 • Durée : 1h22 • Coach : Stéphanie
+Participants : Aude, Omar, Manuel, Charlotte, Zaridge, Chiraz
+☠ TEMPS FORTS DE LA SESSION
+Une session en tour de table, menée par Stéphanie malgré une extinction de voix. Les moments clés du replay :
+▶ 00:00 Aude — Fiches produits robes : le débat description poétique vs.
+marketing
+▶ 00:14 Aude — Revue de la page d’accueil : photo, recadrage et texte sur
+l’image
+▶ 00:19 Hot seat Omar — Arborescence de la niche bijoux en argent passée au
+crible
+▶ 00:38 Omar — Le sourcing : le vrai risque d’une boutique full argent
+▶ 00:42 Manuel — Variations produit sous WooCommerce, pas à pas
+▶ 00:53 Manuel — Architecture SEO : construire une niche sans publicité
+▶ 01:03 Charlotte — GMC en cours d’examen + organisation marketing
+▶ 01:15 Principes transversaux — Organisation, charge mentale et lâcher-prise
+⚔ DÉTAIL DES HOTSEATS
+► Aude — Fiches produits robes & page d’accueil
+Descriptions rédigées à l’IA : Aude a présenté plusieurs fiches produits de robes (coupe sirène, modèle «
+Sopia ») générées avec l’IA. Le coach a salué la qualité rédactionnelle, tout en pointant un parti pris très
+littéraire et poétique, potentiellement décalé par rapport à l’avatar (jeune femme). Aude elle-même a reconnu un
+rendu un peu « vieillot » et ennuyeux à la relecture.
+Poétique vs. marketing : ce n’est pas une erreur, c’est un positionnement. Une approche plus marketing
+privilégie le bénéfice client (légèreté, facilité d’entretien, mise en valeur de la silhouette), des phrases courtes,
+plus directes et impactantes. Recommandation : refaire un test avec cet angle, sans y passer des heures.
+Matière obligatoire : sur du textile, la composition (polyester, viscose, satin...) doit figurer dans les
+caractéristiques. Aude l’avait omise.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  2  —
+Page d’accueil : photo recadrée qui coupe les têtes (dézoomer dans Canva), trop de lumière parasite autour
+du produit, fond à neutraliser. Ajouter un texte directement sur l’image avec un bouton cliquable pour donner du
+contexte dès la ligne de flottaison.
+« Là, il faut vraiment avancer et abattre du produit. Je veux plus te revoir tant que tu n’as pas fait les
+produits. »
+— Stéphanie
+► Omar — Niche bijoux en argent : l’arborescence
+Deux logiques d’arborescence. Omar a proposé un classement par genre (femme, homme, enfant,
+couple/mariage, idée cadeau) ou par type de produit (bague, collier, pendentif, bracelet...). Le vote a tranché
+pour le classement par genre, jugé plus simple pour le parcours client.
+Catégorie
+Verdict
+Commentaire clé
+Femme
+Pilier principal
+Bagues, colliers, bracelets, boucles. Ajouter manchette, chevillère, bijoux de
+ventre (été).
+Homme
+À développer
+Chaînes, gourmette, chevalière, croix. Vérifier bracelet maille / chaîne argent.
+Enfant
+Reporté
+Volume total ~1 500, trop bas pour l’instant.
+Bébé
+Écarté
+Réglementation UE + volumes faibles.
+Couple / Mariage
+À garder
+Alliances, bagues fiançailles. Alliance homme > femme en argent.
+Idée cadeau /
+perso
+Plus tard
+Volume total ~510. Perso = fournisseur print on demand.
+Le vrai risque, c’est le sourcing. Une boutique full argent 925 impose de pouvoir sourcer 300 à 500 produits
+réellement en argent. Le fournisseur principal (Silverben, ~500 références, usine présente sur Alibaba) ne suffit
+pas : il faut des certificats prouvant la matière et d’autres fournisseurs pour ne jamais dépendre d’un seul. Pour
+le plaqué or (vermeil), vérifier la réglementation d’importation hors UE (l’or y est encadré, l’argent non).
+Astuce crédibilité : intégrer quelques bijoux de marque (via fournisseurs européens ou plateformes type
+Dotmarket) pour augmenter la valeur perçue et ne pas être perçu comme un simple dropshipper. Le
+multi-sourcing (AliExpress, agent HAO, fournisseur européen, créateur local) permet de communiquer «
+fabrication française / européenne / à la main » selon les produits.
+« Ce qui m’inquiète le plus dans ta niche, c’est le sourcing. Si tu construis toute ta boutique sur de
+l’argent, vérifie vraiment que tu peux sourcer 500 produits en argent. »
+— Stéphanie
+► Manuel — WooCommerce : variations & SEO
+Checkout testé de bout en bout (avec les mails de confirmation côté client et compte). Attention : le produit
+avait été laissé à 1 € pour le test — à repasser au prix réel (69,90 €) avant la mise en ligne.
+Variations produit (couleur). Pas à pas réalisé en direct : passer le produit de « simple » à « variable »,
+conserver la couleur en « used for variations », générer les variations, puis attribuer un prix et une photo à
+chaque couleur (blanc / noir). Pour différencier visuellement, demander à l’IA une photo distincte par variante.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  3  —
+Architecture SEO — prioritaire. Sa niche n’autorise pas la publicité : tout repose sur le SEO. Le travail de
+recherche de mots-clés et d’architecture conditionne la profondeur de la gamme et le potentiel de la boutique.
+Pas encore entamé, à prendre le temps de faire correctement.
+« Tu ne pourras jamais faire de pub sur ta niche. Pour développer sa pleine puissance, c’est pub +
+SEO. Toi, tu n’auras que le SEO — d’où l’importance de l’architecture. »
+— Stéphanie
+► Charlotte — GMC & calendrier marketing
+Google Merchant Center : tous les produits sont « en cours d’examen » depuis une semaine, sans message
+d’alerte. Verdict du coach : c’est normal, il faut patienter. Sans alerte, rien à « résoudre ». Si toujours rien lundi,
+envoyer un message en privé.
+Organisation & charge mentale : Charlotte peine à anticiper (visuels faits le jour même) et à s’y tenir. La
+solution n’est pas une méthode unique mais un rythme adapté à son profil. Préparer Black Friday / Noël en
+amont (codes promo, mails, collections programmés) allège la charge mentale et évite le travail à l’arrache.
+Multiplier les boutiques dédouble ce travail — prudence avant d’en lancer une troisième.
+« Tu prépares maintenant tranquille : codes promo programmés, mails programmés. Sinon tu te
+retrouves en Black Friday à tout faire à l’arrache. »
+— Stéphanie
+► Zaridge — Structure & encaissement
+Point statut : Zaridge reste bloqué sur Payoneer, toujours sans correction de leur côté. Sa LLC ne passe ni avec
+Mercury ni avec Wise (contrainte liée à sa localisation). Omar s’est proposé de chercher une solution bancaire
+alternative et de la partager sur le groupe. En attente pour l’instant.
+⚙ PRINCIPES TRANSVERSAUX
+Pas de masterclass formelle ce soir, mais plusieurs enseignements transverses sont revenus d’un membre à
+l’autre.
+Organisation — sortir du flux tendu. Programmer à l’avance (codes promo, mails, collections, calendrier
+marketing) plutôt que tout traiter au dernier moment. La bonne méthode est celle qui colle à son propre rythme :
+identifier ses créneaux d’efficacité (matin / après-midi / soir) et caler les tâches en conséquence plutôt que de
+copier celle des autres.
+Lâcher-prise sur le perfectionnisme. Se fixer des tâches réalisables avec un cap de temps (ex. : une photo
+d’accueil en 1h30, point final). Forcer quand on n’est pas dans le bon moment produit de la mauvaise qualité et
+démoralise.
+Sourcing — ne jamais dépendre d’un seul fournisseur. Vérifier les certificats / matières, diversifier les
+sources, et utiliser le multi-sourcing pour crédibiliser la boutique (marques, fabrication européenne / locale).
+Marketing ≠ émotion seule. Aligner le ton des fiches produits sur l’avatar. Le marketing s’appuie sur le
+bénéfice client et des formulations directes, pas uniquement sur la poésie.
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  4  —
+« Plus je me connais, plus j’arrive à caler mes journées et ça se passe vachement bien. Il faut pas
+faire les choses en flux tendu. »
+— Stéphanie
+⚓ PLAN D’ACTION PAR MEMBRE
+  ⚓  Aude
+PRIORITAIRE
+⚡ Tunnel produit : finaliser toutes les fiches produits, rien d’autre. On oublie la page d’accueil pour
+l’instant.
+⚡ Refaire un test de description avec un angle plus marketing (bénéfice client, phrases courtes),
+sans y passer des heures.
+⚡ Ajouter la matière (polyester, viscose...) dans les caractéristiques de chaque robe.
+SECONDAIRE
+○ Se fixer un cap de temps par tâche et le respecter (ex. : 1h30 pour la photo d’accueil).
+○ Ranger les onglets en dossiers / favoris pour ne plus se perdre.
+○ Appeler le coach pour caler une organisation adaptée.
+  ⚓  Omar
+PRIORITAIRE
+⚡ Demander à Silverben les certificats prouvant l’argent 925 massif.
+⚡ Trouver d’autres fournisseurs argent pour ne jamais dépendre d’un seul.
+⚡ Vérifier la réglementation d’importation hors UE pour le plaqué or (vermeil).
+SECONDAIRE
+○ Étoffer les mots-clés oubliés : manchette, chevillère, bijoux de ventre, bijoux d’amitié, colliers
+prénom/initiales.
+○ Explorer une collection haut de gamme avec quelques bijoux de marque (crédibilité).
+○ Croiser les prix marché du fichier RR avec les tarifs réels du fournisseur.
+  ⚓  Manuel
+PRIORITAIRE
+⚡ Repasser le produit test de 1 € au prix réel (69,90 €) et finaliser les variations couleur.
+⚡ Lancer la recherche de mots-clés et l’architecture SEO pour élargir la gamme.
+SECONDAIRE
+○ Faire générer une photo distincte par variante (blanc / noir) via l’IA.
+○ Prendre le temps de bien faire l’architecture : c’est le levier numéro un sans pub.
+○ Remonter les questions au coach au fil de l’avancement.
+  ⚓  Charlotte
+PRIORITAIRE
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  5  —
+⚡ Patienter sur le GMC jusqu’à lundi ; si toujours « en examen » sans alerte, message en privé (point
+avec Théo).
+⚡ Caler une organisation marketing pour Black Friday / Noël : codes promo, mails, collections
+programmés à l’avance.
+SECONDAIRE
+○ Appeler le coach pour définir un rythme de travail adapté à son profil.
+○ Ne pas lancer de troisième boutique tant que l’organisation des deux premières n’est pas stabilisée.
+  ⚓  Zaridge
+PRIORITAIRE
+⚡ Poursuivre les échanges avec Payoneer pour débloquer la situation.
+SECONDAIRE
+○ Tester les solutions bancaires alternatives qu’Omar partagera sur le groupe.
+○ Signaler au coach dès que le compte est opérationnel pour reprendre l’avancement.
+  ★  Tous les membres
+PRIORITAIRE
+⚡ Construire son calendrier marketing annuel : dates clés + programmation 1 mois d’avance.
+SECONDAIRE
+○ Travailler en avance plutôt qu’en flux tendu ; se fixer des tâches réalisables et bornées dans le temps.
+○ Prévenir le coach sur WhatsApp à la moindre question, sans attendre la session.
+◆ CHIFFRES CLÉS ÉVOQUÉS
+Indicateur
+Valeur
+Contexte
+Bijouterie en argent (volume)
+2 900
+Mot-clé chapeau, faible — Omar
+Argent (prix matière)
+~2 € / g
+Valeur perçue >> valeur matière
+Once d’argent
+~64 €
+Lingot ≈ 2 000 €
+Niche enfant (volume total)
+1 500
+Trop bas, reporté — Omar
+Idée cadeau (volume total)
+510
+Très faible, reporté — Omar
+Catalogue Silverben
+~500 produits
+Fournisseur spécialisé argent
+Variation produit — Manuel
+69,90 €
+Prix réel (≠ 1 € de test)
+GMC en examen — Charlotte
+7 jours
+Sans alerte = patienter
+Photo d’accueil (tâche type)
+1h30 max
+Cap de temps à respecter — Aude
+
+
+--- PAGE ---
+
+LA MÉTHODE KRAKEN
+Rapport de session  •  04/06/2026
+—  6  —
+▶ VISIONNEZ LE REPLAY COMPLET
+Ce rapport est un condensé. Les échanges complets, les nuances et les réponses aux
+questions sont dans le replay.
+La Méthode Kraken 2026
