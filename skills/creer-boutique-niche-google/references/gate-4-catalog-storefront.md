@@ -18,6 +18,13 @@ Le catalogue de lancement contient au moins **200 produits distincts, publiables
 
 Répartir ces produits dans les collections validées par la porte 3 afin d'éviter les collections artificielles ou vides. Le low ticket est autorisé et n'entraîne aucun plancher de prix ; chaque produit et l'économie de commande restent soumis à la vérité catalogue et à la porte 2.
 
+La constitution du catalogue suit `catalogue-sourcing-gate-v3.md` : 10–20
+produits par sous-catégorie, équivalence concurrente facultative, mot-clé PDP
+descriptif pouvant avoir un volume égal à zéro, puis revue humaine. Le gate V3
+autorise un candidat ; la présente porte ne le compte dans les 200 publiables
+qu'après vérification de la variante, du stock, du coût rendu, du délai, de la
+conformité et des faits produit.
+
 ## Hiérarchie de page produit
 
 Au-dessus de la ligne de flottaison mobile :

@@ -16,7 +16,7 @@ description: Concevoir, auditer, lancer, optimiser ou scaler une boutique de nic
 2. Choisir et consigner le mode économique : `catalogue-volume`, `high-ticket` ou autre hypothèse explicitement définie. Ne pas transférer les seuils d'un mode à l'autre.
 3. Lire `references/operating-model.md`, `references/evidence-and-currentness.md`, `references/action-authorization.md` et `references/specialist-skill-routing.md`.
 4. Si une boutique a déjà reçu du trafic ou de la dépense, commencer par la porte 0 et son post-mortem. Ne pas repartir automatiquement en recherche produit.
-5. Charger seulement la référence de la porte en cours, puis les modules spécialisés nécessaires. Pour toute construction, préparation GMC ou évolution post-approbation, lire aussi `references/store-states-gmc-growth.md` et consigner l'état cible.
+5. Charger seulement la référence de la porte en cours, puis les modules spécialisés nécessaires. Avant toute architecture catalogue ou tout sourcing en mode `catalogue-volume`, lire `references/catalogue-sourcing-gate-v3.md` et vérifier que l'étude concurrentielle profonde autorise explicitement le passage. Pour toute construction, préparation GMC ou évolution post-approbation, lire aussi `references/store-states-gmc-growth.md` et consigner l'état cible.
 6. Créer ou mettre à jour un dossier projet avec `scripts/init_project.py` si le travail doit durer au-delà de la conversation.
 
 ## Routage vers les compétences spécialisées

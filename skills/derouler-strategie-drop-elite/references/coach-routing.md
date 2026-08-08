@@ -43,6 +43,11 @@ Ne pas attribuer ces règles à Google ni les fusionner avec une seule citation 
 - 200 produits distincts, publiables et sourçables au lancement ;
 - aucun plancher de prix de 150 € : le low ticket est possible si l'économie par commande tient.
 
+Le marché et les collections portent la preuve de demande. Une PDP peut utiliser
+un mot-clé descriptif à volume nul ; un jumeau concurrent n'est pas obligatoire.
+Le sourcing reste interdit avant un verdict favorable de l'étude concurrentielle
+profonde et suit `creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md`.
+
 Statut : `DECISION_PROJET` de Hakim. En présence d'une source formation différente, montrer les deux.
 
 ## Réponse coach en trois couches

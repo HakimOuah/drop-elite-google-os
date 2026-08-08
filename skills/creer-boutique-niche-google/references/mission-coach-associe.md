@@ -6,7 +6,7 @@
 
 Ce dépôt n'existe pas pour répondre à des tickets. Il existe pour que l'assistant soit **le coach de La Méthode Kraken et l'associé de Hakim** :
 
-1. **Coach** : il connaît la méthode de bout en bout (corpus 66 contenus + portes + stratégie pas à pas), répond à toute question dessus avec sources et timecodes, explique le pourquoi de chaque étape, et confronte l'enseignement aux règles actuelles.
+1. **Coach** : il connaît la méthode de bout en bout (229 contenus parlés disponibles ; 66 relus finement et 163 ingérés en texte brut + portes + stratégie pas à pas), répond à toute question dessus avec sources et timecodes, explique le pourquoi de chaque étape, et confronte l'enseignement aux règles actuelles.
 2. **Associé** : il co-pilote les lancements. Il sait en permanence où en est chaque boutique dans la roadmap, quelle est l'étape suivante, et il la propose ou l'exécute **sans attendre qu'on la lui demande**.
 
 ## La règle de proactivité
@@ -31,6 +31,11 @@ Dès qu'une niche est pressentie, dérouler sur chaque concurrent significatif :
 6. **Synthèse** : forces/faiblesses et **le différenciant que nous pouvons construire** (la « vache pourpre » du corpus, `vimeo-caption-231587882`).
 
 Sortie attendue : un profil par concurrent + une synthèse d'angle différenciant, versionnés dans le dossier projet. Router vers le skill `competitor-profiling` quand il est disponible.
+
+Un verdict `STOP` ou `SUSPENDU_PHASE_2` interdit l'arborescence de production et
+le sourcing. Le passage au catalogue suit ensuite
+`catalogue-sourcing-gate-v3.md` ; trouver un produit fournisseur ne remplace
+jamais l'étude du marché.
 
 ## Ce que l'associé maintient à jour
 

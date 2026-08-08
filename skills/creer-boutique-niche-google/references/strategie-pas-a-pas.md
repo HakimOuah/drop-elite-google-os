@@ -22,7 +22,7 @@
 
 **1.3 Filtres économiques immédiats** (`234186329`, `231588620`, `246208721`)
 - **CPC cible ~0,25–0,30 €** ; **ratio prix moyen ÷ CPC ≥ 100, viser 150–200**. Un produit à 12–15 € avec CPC 0,40–0,50 € tue la niche. Prix moyen : relevé à la louche sur Google Shopping + concurrents.
-- Vérifier sur AliExpress que chaque catégorie a des produits sourçables ; **≥ 200 produits de qualité trouvables** chez les fournisseurs (< 100 → abandonner ; ~50 toléré sur niche très simple).
+- Faire une **sonde de profondeur au niveau des catégories** : vérifier que les fournisseurs offrent assez de concepts distincts pour construire **≥ 200 produits sur la boutique entière** (< 100 → abandon enseigné ; ~50 parfois toléré sur niche très simple). Ce contrôle de capacité ne demande pas encore un jumeau concurrent ni une qualification SKU par PDP ; le sourcing catalogue attend le verdict de phase 2 et suit `catalogue-sourcing-gate-v3.md`.
 
 **1.4 Éviter les six erreurs** (`231587930`)
 Intention informationnelle (volume qui ne rapporte rien), mots-clés de marque (KD 0 trompeur + contrefaçon), catalogue fournisseur trop pauvre, vêtements (10–20 % de retours, tailles chinoises), produits complexes à sourcer/livrer (batteries, lames : ≥ 23 jours par train — sauf si on sait les maîtriser : barrière à l'entrée), niches montrées en formation (brûlées).
@@ -40,6 +40,12 @@ Jamais optionnelle : la sortie de la phase 1 alimente automatiquement cette phas
 4. **Conclure** : forces/faiblesses, et le **différenciant** que nous pouvons construire (« vache pourpre », `231587882`) — l'analyse sert à trouver l'espace vide, pas à imiter (« toutes les niches lancées en copiant des shops de formation se sont fait éclater », `231663822`).
 5. Sortie : un profil par concurrent + synthèse d'angle, versionnés (router vers `competitor-profiling`).
 
+**Porte de sortie.** `STOP` ou étude incomplète = aucun sourcing et aucune
+arborescence de production. Seul un `GO` ou un `GO_CONDITIONNEL` dont les
+conditions autorisent le sourcing ouvre la phase 3. Une niche arrêtée repasse
+par une qualification complète ; un produit fournisseur séduisant ne la rouvre
+pas.
+
 ## Phase 3 — Architecture SEO et domaine (porte 3)
 
 **3.1 Architecture en silos avant le site** (`231663822`, `234180398`, `246208721`)
@@ -47,6 +53,7 @@ Jamais optionnelle : la sortie de la phase 1 alimente automatiquement cette phas
 - Les termes transverses (taille, âge, LED…) = étiquettes/attributs ou pages dédiées, **jamais** deux catégories aux mêmes produits (duplicate). Synonymes de fait (étoile/galaxie/projection) = une seule catégorie qui traite tous les termes.
 - Google Sheet de pilotage : par collection → volume, CPC, prix moyen, marge, décision « pub oui/non » (une collection à CPC prohibitif mais KD faible s'importe pour le SEO et s'exclut des pubs).
 - Lancement : **~20–30 collections** sur le potentiel total, 5–15 produits chacune (multiples de 4 pour la grille).
+- Les PDP se rattachent à une collection mesurée. Leur mot-clé descriptif peut avoir un volume égal à zéro lorsqu'il reste fidèle au produit (`246208721`) ; il ne doit pas être remplacé par un faux volume positif. Appliquer `catalogue-sourcing-gate-v3.md` avant de constituer la liste.
 
 **3.2 Domaine** (`231663659`, `231663658`)
 - Chercher un **domaine expiré** (outil gratuit type ExpiredDomains) : .com/.fr, backlinks réels propres (vérifier sur Ahrefs : pas de spam), ancienneté, historique compatible (Wayback Machine), nom brandable. ~300 € avec backlinks « vaut toujours le coup » ; sinon domaine neuf stylé + investissement direct en netlinking. Statut : préférence d'auteur assumée contre le discours officiel Google (`ENSEIGNE_A_VERIFIER`).
@@ -56,6 +63,7 @@ Jamais optionnelle : la sortie de la phase 1 alimente automatiquement cette phas
 
 **4.1 Catalogue** (`231588530`, `232117442`, `232117523`, `234333489`)
 - **200 produits minimum au lancement** (100 = trop peu ; 700–800 = rentable plus vite mais brûle du budget). On ne cherche jamais le « winner » : 10–20 produits par sous-catégorie, **la data Google désigne le best-seller**.
+- Le concurrent sert de preuve de marché et d'inspiration, pas de liste fermée : un équivalent observé est un bonus, jamais une obligation par produit. Composer les 10–20 références selon l'ordre 80/20 de `catalogue-sourcing-gate-v3.md`, puis maintenir une revue humaine du couple produit/collection/listing.
 - Fiche produit : ≥ 250 mots (2 blocs), mot-clé de la sous-catégorie dans le titre et en gras, titre « pour le robot » d'abord, structure AIDA, photos propres (pas de modèles incohérents avec la cible), ~350 mots pour les fiches à booster.
 - Catégorie : best-sellers en premier (c'est la page à ranker), description SEO **800–1 200 mots** en bas (accordéon autorisé), meta title/description/URL/alt soignés (priorité aux collections : elles rankent mieux que les produits, `237446074`).
 - Maillage interne en silos complets (`l-XUJ9NTN40`) : home → mères → filles chaînées en boucle → produits (~4 liens/produit).

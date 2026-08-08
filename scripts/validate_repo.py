@@ -49,6 +49,7 @@ def validate_required(errors: list[str]) -> None:
         "docs/corpus-gap-audit.md",
         "vendor/skills.lock.json",
         "skills/creer-boutique-niche-google/SKILL.md",
+        "skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md",
         "skills/creer-boutique-niche-google/references/store-states-gmc-growth.md",
         "skills/creer-boutique-niche-google/templates/demand-map.md",
         "skills/creer-boutique-niche-google/templates/gmc-growth-transition.md",
@@ -106,6 +107,14 @@ def validate_catalogue_volume_mode(errors: list[str]) -> None:
             "1 000+",
             "500+",
             "200 minimum au lancement",
+        ),
+        "skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md": (
+            "SUSPENDU_PHASE_2",
+            "10 à 20 produits par sous-catégorie",
+            "égal à zéro",
+            "bonus de confiance",
+            "5–8 best-sellers",
+            "revue humaine",
         ),
     }
     for relative, expected_phrases in checks.items():

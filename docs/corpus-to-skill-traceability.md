@@ -24,6 +24,22 @@ Hakim fixe donc, pour le mode `catalogue-volume`, la règle opératoire suivante
 
 Cette règle est `DECISION_PROJET`, pas une exigence officielle Google. Les volumes doivent être France, datés, dédupliqués par intention et nettoyés. Le pipeline historique high-ticket de `chasse-clusters-codex` reste distinct ; en mode catalogue-volume, ses mesures peuvent être utilisées mais pas ses anciens verdicts de prix.
 
+## Gate V3 catalogue et sourcing du 2026-08-08
+
+La preuve de demande est portée par la niche et ses collections, pas par un
+volume positif exigé sur chaque PDP. `vimeo-caption-232117442`
+[00:01:49–00:02:34] enseigne de remplir une sous-catégorie avec 10–20 produits
+et de laisser le marché choisir ; `vimeo-caption-246208721`
+[00:08:02–00:10:17] conserve des formulations à volume zéro lorsqu'elles
+précisent la collection. L'analyse concurrentielle (`231663690`) sert à trouver
+les catégories, requêtes et références utiles, sans imposer un jumeau par fiche.
+
+Le système ajoute `catalogue-sourcing-gate-v3.md` : phase 2 obligatoire avant
+sourcing, 200 produits sur la boutique entière, concept distinct, listing réel,
+mot-clé descriptif pouvant valoir zéro, équivalent concurrent facultatif et
+revue humaine. L'ordre 80/20 de constitution des sous-catégories est une
+`DECISION_PROJET`; les timecodes restent `ENSEIGNE_A_VERIFIER`.
+
 ## Ce qui a été retenu des documents GMC
 
 - identité et coordonnées réelles ;

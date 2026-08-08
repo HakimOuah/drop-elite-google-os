@@ -36,6 +36,11 @@ Une même intention principale ne doit pas être répartie sur plusieurs pages q
 - aucun volume minimum n'est imposé à une fiche produit : elle doit correspondre à un produit vrai et à une intention transactionnelle précise, sans dupliquer une autre URL ;
 - la somme boutique ne compte chaque intention commerciale qu'une seule fois, même si plusieurs synonymes ou pages pourraient la revendiquer.
 
+Avant de détailler les PDP, appliquer `catalogue-sourcing-gate-v3.md`. Un mot-clé
+PDP descriptif peut avoir un volume égal à zéro lorsqu'il précise fidèlement un
+produit rattaché à une collection mesurée ; ce zéro est conservé tel quel et ne
+devient ni une preuve de demande autonome ni un nombre positif inventé.
+
 ## Architecture
 
 - navigation courte et compréhensible ;

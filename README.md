@@ -23,6 +23,8 @@ Le point d'entrée est [`skills/creer-boutique-niche-google/SKILL.md`](skills/cr
 
 Son mode `catalogue-volume` accepte le low ticket sans plancher arbitraire lorsque la demande France dédupliquée, l'économie de commande et un catalogue d'au moins 200 produits distincts sont prouvés. Les seuils opératoires sont documentés dans les portes 1 à 4 et restent des décisions de projet, pas des règles officielles Google.
 
+Le [`gate V3 catalogue et sourcing`](skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md) place la preuve au niveau de la niche et des collections : l'étude concurrentielle profonde précède tout sourcing, un jumeau concurrent n'est pas exigé par PDP et un mot-clé produit descriptif peut conserver un volume nul. Le produit reste soumis à une revue humaine puis aux preuves exactes de variante, fret, conformité et économie avant publication.
+
 Pour Merchant Center, il sait construire deux états de storefront : `GMC_READY`, commerce complet et sobre pour la validation, puis `GROWTH_MARKETING`, même socle enrichi d'une couche de persuasion, merchandising, offre et CRO. La méthode, la matrice d'invariants et le protocole de bascule sont détaillés dans [`store-states-gmc-growth.md`](skills/creer-boutique-niche-google/references/store-states-gmc-growth.md).
 
 Il route vers les compétences spécialisées existantes lorsqu'elles sont disponibles, notamment la chasse produit France, la recherche client, l'offre, le storefront, la CRO et le copywriting. Il ne duplique pas leurs savoir-faire.

@@ -2,6 +2,15 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — Gate V3 catalogue et sourcing
+
+- remplacement du gate V2 trop strict au niveau PDP par une preuve portée par la niche et les collections ;
+- interdiction du sourcing avant une étude concurrentielle profonde favorable ;
+- conservation des PDP descriptives à volume zéro et suppression de l'obligation d'un jumeau concurrent ;
+- formalisation des 200 produits au total boutique, des 10–20 produits par sous-catégorie et de l'ordre de sélection 80/20 ;
+- maintien d'une revue humaine et de la vérification exacte SKU, fret, conformité et économie avant publication ;
+- mise à jour du routage coach et des compteurs de couverture à 229 contenus parlés.
+
 ## 2026-08-08 — Cours Skool complet ingéré (229 contenus) + documents + stratégie enrichie
 
 - récupération du **Classroom Skool complet** (29 modules) via l'onglet Classroom : 131 transcriptions Vimeo + 32 YouTube ingérées dans le corpus (66 → **229 contenus parlés**), 89 replays de coaching archivés dans `corpus/replays-coaching/`, 77 documents (slides PDF, checklists, briefs, templates, roadmaps) dans `corpus/raw/documents/` (7 fiches Marketplace écartées) ;

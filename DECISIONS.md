@@ -84,3 +84,15 @@
 **Provenance :** URLs transmises par Hakim le 2026-08-08 (sous-titres Vimeo signés + vidéo YouTube non répertoriée de la chaîne Kraken Formation), autorisation du propriétaire déclarée par Hakim.
 
 **Conséquence :** la stratégie pas à pas couvre désormais l'intégralité de la chaîne muse (SEO off-site, email, SAV, retargeting social inclus) ; les ressources jointes citées dans ces vidéos (templates Klaviyo, calendrier éditorial, blueprint Make, tuto Help Scout) restent `MANQUANT` et ne doivent pas être inventées.
+
+## D-011 — Gate V3 catalogue au niveau collection
+
+**Date :** 2026-08-08
+
+**Décision :** en mode `catalogue-volume`, la preuve de demande et de concurrence est portée par la niche et ses collections. Une fiche produit n'a pas besoin d'un jumeau concurrent ni d'un volume de recherche strictement positif si elle décrit un produit réel, distinct et pertinent dans une collection validée.
+
+**Provenance :** correction explicite transmise par Hakim via le handoff Claude/Codex, cohérente avec `231588530`, `232117442`, `231663690`, `246208721` et `234186329`. Les seuils et la logique catégorie/data sont `ENSEIGNE_A_VERIFIER`; l'ordre de sélection 80/20 et la revue humaine sont `DECISION_PROJET`.
+
+**Séquence obligatoire :** mesure express → SERP/prix → étude concurrentielle profonde → verdict → architecture → sourcing. `STOP` ou `SUSPENDU_PHASE_2` interdit le sourcing ; une réouverture repasse par qualification.
+
+**Conséquence :** le gate V2 reste une archive d'audit, pas un modèle de comptage futur. Le gate actif est `skills/creer-boutique-niche-google/references/catalogue-sourcing-gate-v3.md` : 200 produits au total boutique, 10–20 par sous-catégorie, PDP descriptive éventuellement à volume zéro, équivalent concurrent facultatif, listing candidat réel et revue humaine avant preuve complète de la porte 2.
