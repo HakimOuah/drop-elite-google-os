@@ -2,6 +2,16 @@
 
 Toutes les modifications notables de ce dépôt sont documentées ici.
 
+## 2026-08-08 — CSS Google Shopping France : vérification externe du corpus
+
+- nouveau `docs/css-shopping-france.md` : enquête sourcée sur sources officielles Google (consultées le 2026-08-08), avec distinction explicite fait sourcé / interprétation / non vérifié ;
+- **auto-CSS écarté** : les conditions du programme exigent un comparateur public affichant au moins 50 domaines marchands distincts par pays, un moteur de recherche propre et un accès sans inscription — hors de portée d'une boutique unique ;
+- **correction d'une erreur du corpus de formation** : un CSS ne modifie aucune règle Merchant Center (« All campaigns need to follow the same Shopping ads policies »), n'accorde aucune immunité et n'« autorise » pas le dropshipping — que Google n'interdit pas, mais soumet à une transparence complète sur l'exécution ;
+- **requalification du « −20 % sur les CPC »** : Google documente un « pourcentage fixe déduit des enchères » sans le chiffrer ; ce n'est pas une remise de facturation mais une différence de mécanique d'enchère (≈ +25 % de puissance d'enchère à budget égal) ;
+- **relevé tarifaire** : 90 CSS Partners listés pour la France dans l'annuaire officiel, options publiques de 0 à 39 €/mois (Cobiro, ShopXYZ, Bigshopper, Producthero, Genie) — les 39,90 € puis 59-69 €/mois recommandés par la formation sont au-dessus du marché, et le prestataire « Deshops » reste introuvable ;
+- recommandation pour une boutique unique à 30 €/jour : CSS tiers en self-service à 0-30 €/mois, jamais de CSS managé, conformité GMC traitée en priorité ;
+- `docs/official-source-register.md` : nouvelle section CSS avec les huit sources primaires utilisées.
+
 ## 2026-08-08 — Gate V3 catalogue et sourcing
 
 - remplacement du gate V2 trop strict au niveau PDP par une preuve portée par la niche et les collections ;
